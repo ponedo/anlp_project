@@ -1,0 +1,289 @@
+587_f.3d_1324
+united states court of appeals federal circuit
+perfect web technologies inc. plaintiff-appellant v. infousa inc. defendant-appellee
+no._2009-1105
+| dec._2,_2009
+| rehearing en banc denied feb._23,_2010
+synopsis
+background owner of patent claiming methods of managing bulk_e-mail_distribution to groups of targeted consumers brought infringement action against competitor
+the united states district court for the southern district of florida kenneth l. ryskamp senior judge 2008_wl_6153736 granted summary_judgment to competitor
+patent owner appealed
+
+holdings the court of appeals linn circuit_judge held that
+
+district_court sufficiently explained its invocation of common_sense to find patent invalid on obviousness_grounds and
+
+step d of relevant claim would have been obvious to try
+
+affirmed
+
+attorneys and law firms
+*1325 john c. carey carey rodriguez greenberg & paul llp of miami fl argued for plaintiff-appellant
+with him on the brief was allison j. cammack
+john c. rozendaal kellogg huber hansen todd evans & figel p.l.l.c. of washington dc argued for defendant-appellee
+with him on the brief were wan j. kim and daniel g. bird
+before linn dyk and prost circuit_judges
+opinion
+linn circuit_judge
+perfect_web_technologies inc.` perfect_web' appeals a summary_judgment order holding that the asserted claims of its u.s. patent no._6631,400` ¡¬400_patent` are invalid
+perfect_web techs. inc. v. infousa inc. no._07- cv-80286 s.d.fla
+oct._24,_2008` opinion`
+because we agree with the district_court that the asserted claims would have been obvious we affirm
+
+*1326 background
+the ¡¬400_patent claims methods of managing bulk_e-mail_distribution to groups of targeted consumers
+the ¡¬400_patents application was filed on april_13,_2000 at a time when according to the specification the internet was at an` early and fervent stage of development'
+¡¬400_patent col.1 ll.25-27
+the patent recognizes that` electronic mail email is an often used component of the internet'
+id
+col.1 ll.27-28
+in describing` opt-in bulk_e-mailing services' the patent explains that distributors access lists of customers who express subject matter preferences for commercial e-mail
+id
+col.1 l.56
+the patented_invention involves comparing the number of successfully delivered e-mail_messages in a delivery against a predetermined desired quantity and if the delivery does not reach the desired quantity repeating the process of selecting and e-mailing a group of customers until the desired number of delivered messages has been achieved
+
+perfect_web asserted claims 1 2 5 11 12 and 15 against infousa inc
+independent claim 1 represents the asserted claims 1
+a method for managing bulk_e-mail_distribution comprising the steps a matching a target recipient profile with a group of target_recipients ; b transmitting a set of bulk_e-mails to said target_recipients in said matched group ; c calculating a quantity of e-mails in said set of bulk_e-mails which have been successfully received by said target_recipients ; and d if said calculated_quantity does not exceed a prescribed minimum_quantity of successfully received e-mails repeating steps a - c until said calculated_quantity_exceeds said prescribed minimum_quantity
+dependent claim 2 adds the step of choosing a subset of the targeted group for e-mail_distribution
+claim 5 also depends from claim 1 and specifies that the list of targeted recipients is an` opt-in list'
+claim 11 is an independent apparatus claim to a` machine readable storage' with a` computer program' that performs the method of claim 1
+claims 12_and_15 depend from claim 11 and mirror claims 2_and_5 respectively
+
+at the district_court the parties filed a joint claim chart and separate memoranda of law addressing claim_construction
+infousa moved for summary_judgment of invalidity
+after conducting a markman hearing but without issuing a formal claim_construction order the district_court convened a summary_judgment hearing
+the court then granted infousas motion assuming for summary_judgment purposes that perfect_webs claim_constructions were correct
+opinion at 1_n._1
+it first concluded that claim 1 would have been obvious under 35 u.s.c.¡± 103 because steps a - c of the claimed methods appear in the prior_art and step d` would be obvious to virtually anyone'
+id.at 7
+moreover the court found that claim 1 was anticipated under 35 u.s.c.¡± 102 b by a company called the emailchannel which allegedly performed the claimed method in public before the patents critical date
+id.at 15
+additionally the court held that claim 1 did not constitute patentable subject matter under 35 u.s.c.¡± 101 because it was` merely a series of algorithms'
+id.at 18
+finally the court concluded that all of the dependent claims were also invalid as obvious anticipated and/or directed to ineligible subject matter
+
+perfect_web appealed and we have jurisdiction under 28 u.s.c.¡± 1295 a 1 2006
+
+*1327 discussion
+`` we review a district_courts grant of summary_judgment de novo reapplying the standard applicable at the district_court'
+young v. lumenis inc. 492_f.3d_1336 1345 fed.cir.2007
+summary judgment is proper if there is` no genuine_issue as to any material_fact' and` the movant is entitled to judgment as a matter of law'
+fed.r.civ.p
+56 c
+
+obviousness
+`` obviousness is a question of law based on underlying findings of fact'
+in re kubin 561_f.3d_1351 1355 fed.cir.2009
+the underlying factual inquiries are 1 the scope and content of the prior_art 2 the differences between the prior_art and the claims at issue 3 the level of ordinary_skill in the pertinent_art and 4 secondary_considerations of nonobviousness
+ksr int l co. v. teleflex inc. 550_u.s._398 406 127_s.ct._1727 167_l.ed.2d_705_(2007) citing graham v. john deere co. 383_u.s._1 17-18 86_s.ct._684 15_l.ed.2d_545_(1966)
+
+the district_court began its obviousness_analysis by stating that the relevant_art in the ¡¬400_patent is` the art of e-mail_marketing' and that the person of ordinary_skill in that art possessed` at least a high_school_diploma one year of experience in the industry and proficiency with computers and e-mail_programs'
+opinion at 6
+it then found that the prior_art and ¡¬400_patent specification showed that steps a - c of the claim 1 method were previously known
+according to the court` [ t ] he question then becomes whether e-mail marketers of ordinary_skill would have repeated the first three steps to deliver a prescribed quantity of e-mail to targeted recipients' as called for in step d
+id.at 7
+citing the supreme_courts teaching in ksr that` [ a ] person of ordinary_skill is also a person of ordinary creativity not an automaton' the court found step d obvious` the final step is merely the logical result of common_sense application of the maximtry try again
+`` id.at 11
+the district_court rejected perfect_webs alleged secondary_considerations of nonobviousness because perfect_web failed to establish the necessary nexus between infousas gross revenue and the invention to show commercial_success and introduced insufficient evidence of a long-felt need for the invention
+
+on appeal the parties have narrowed the obviousness controversy to a select few issues
+perfect_web does not contest the district_courts analysis of the first three graham factors including the definition of ordinary_skill in the pertinent_art
+perfect_webs br
+46
+perfect_web also` assumes for purposes of this appeal that at least one prior_art reference discloses the first three steps' of claim 1
+id
+furthermore perfect_web makes no obviousness arguments specific to the other asserted claims 2 5 11 12 and 15 urging only that` those claims are valid for the reasons set forth regarding claim 1'
+id.at 58 ; see also smithkline beecham corp. v. apotex corp. 439_f.3d_1312 1319 fed.cir.2006 noting that` arguments not raised in the opening brief are waived'
+meanwhile infousa concedes that step d does not appear in the prior_art
+opinion at 7
+as to secondary_considerations perfect_web now asserts only long-felt need not commercial_success
+
+perfect_web argues that there are factual disputes on two issues whether` common_sense' would have taught step d and the presence of a long-felt need
+it argues that common_sense or knowledge` must be rooted in evidence and factual findings' because they play` the same role as the inquiry into whether the prior_art contains any teaching suggestion or motivationtsm that would have led a person *1328 of ordinary_skill to produce the claimed invention'
+perfect_webs br
+48-49
+perfect_web contends that the district_court improperly viewed the invention through a hindsight-tinted lens misconstrued step d to mean` try try again' and discounted expert_testimony that the patent was not a common-sense advance
+perfect_web also claims that the field of e-mail_marketing had an unmet_need for the invention because the industry previously relied on` oversending' which involved sending an excess of messages to ensure delivery to the desired quantity of recipients in the process wasting resources and annoying consumers without guaranteeing delivery
+
+in response infousa reiterates its position that step d was a common-sense addition to steps a - c citing its experts opinions
+it also argues that repetition of the selection and transmission steps would have been obvious to try because there were at most two or three predictable_solutions at the time for ensuring e-mail delivery
+finally infousa claims that perfect_webs assertion of long-felt need lacks evidentiary_support or sufficient weight to overcome an otherwise strong case of obviousness
+
+a
+`` common sense' in rejecting rigid application of the` teaching suggestion or motivation' test for obviousness the supreme_court observed that common_sense can be a source of reasons to combine or modify prior_art_references to achieve the patented_invention
+in ksr the court offered guidance that has now been cited repeatedly when there is a design need or market pressure to solve a problem and there are a finite_number of identified predictable_solutions a person of ordinary_skill has good reason to pursue the known options within his or her technical grasp
+if this leads to the anticipated success it is likely the product not of innovation but of ordinary_skill and common_sense
+in that instance the fact that a combination was obvious to try might show that it was obvious under ¡± 103
+550 u.s. at 421 127_s.ct._1727 emphasis added
+while the court warned against` the distortion caused by hindsight bias and.. ex post reasoning' it also noted` common_sense teaches.. that familiar items may have obvious uses beyond their primary purposes and in many cases a person of ordinary_skill will be able to fit the teachings of multiple_patents together like pieces of a puzzle'
+id.at 420-21 127_s.ct._1727
+
+common_sense has long been recognized to inform the analysis of obviousness if explained with sufficient reasoning
+our predecessor court stated in in re bozek an appeal from the board of patent appeals and interferences that it was proper for a patent examiner to rely on` common_knowledge and common_sense of the person of ordinary_skill in the art without any specific_hint or suggestion in a particular_reference'
+57_c.c.p.a._713 416_f.2d_1385 1390 1969 quotation marks omitted
+we later clarified that an examiner may not invoke` good common_sense' to reject a patent application without some factual foundation where` basic knowledge and common_sense was not based on any evidence in the record'
+in re zurko 258_f.3d_1379 1383 1385 fed.cir.2001
+we explained that when the pto rejects a patent for obviousness it` must not only assure that the requisite findings are made based on evidence of record but must also explain the reasoning by which the findings are deemed to support the agencys conclusion'
+in re lee 277_f.3d_1338 1344 fed.cir.2002
+lee recognized that under bozek even though common_knowledge and common_sense do not substitute *1329 for facts` they may be applied to analysis of the evidence'
+id.at 1345
+at the time we required the pto to identify record_evidence of a teaching suggestion or motivation to combine references because` [ o ] mission of a relevant factor required by precedent is both legal error and arbitrary agency action'
+id.at 1344
+however this did not preclude examiners from employing common_sense
+more recently we explained that that use of common_sense does not require a` specific_hint or suggestion in a particular_reference' only a reasoned explanation that avoids conclusory generalizations
+dystar textilfarben gmbh v. c.h
+patrick co. 464_f.3d_1356 1366 fed.cir.2006 ; see also in re kahn 441_f.3d_977 987 fed.cir.2006 requiring` some rationale articulation or reasoned basis to explain why the conclusion of obviousness is correct'
+and since ksr this court has recognized that obviousness is not subject to a` rigid formula' and that` common_sense of those skilled in the art demonstrates why some combinations would have been obvious where others would not'
+leapfrog enters
+v. fisher-price inc. 485_f.3d_1157 1161 fed.cir.2007
+
+in counseling that courts` need not seek out precise teachings directed to the specific subject matter of the challenged claim' the supreme_court clarified that courts may look to a wider diversity of sources to bridge the gap between the prior_art and a conclusion of obviousness
+ksr 550 u.s. at 418 127_s.ct._1727
+we previously noted that` [ t ] he reason suggestion or motivation to combine may be found explicitly or implicitly 1 in the prior_art_references themselves ; 2 in the knowledge of those of ordinary_skill in the art that certain references or disclosures in those references are of special interest or importance in the field ; or 3 from the nature of the problem to be solved..' ruiz v. a.b
+chance co. 234_f.3d_654 665 fed.cir.2000
+ksr expanded the sources of information for a properly flexible obviousness inquiry to include market forces ; design incentives ; the` interrelated teachings of multiple_patents' ;` any need or problem known in the field of endeavor at the time of invention and addressed by the patent' ; and the background knowledge creativity and common_sense of the person of ordinary_skill
+550 u.s. at 418-21 127_s.ct._1727
+
+when considering these sources the supreme_court remarked that` [ r ] igid preventative rules that deny factfinders recourse to common_sense however are neither necessary under our case law nor consistent with it'
+id.at 421 127_s.ct._1727
+thus the supreme_court instructed that factfinders may use common_sense in addition to record_evidence
+as an example of this flexibility ksr noted that courts should avoid` overemphasis on the importance of published articles and the explicit content of issued patents'
+id.at 419 127_s.ct._1727
+nor are expert_opinions always a prerequisite for` [ i ] n many patent cases expert_testimony will not be necessary because the technology will be easily understandable without the need for expert explanatory testimony'
+centricut llc v. esab group inc. 390_f.3d_1361 1369 fed.cir.2004 quotation omitted ; see also sundance inc. v. demonte fabricating ltd. 550_f.3d_1356 1365 fed.cir.2008 affirming obviousness where` [ t ] he technology is simple and neither party claims that expert_testimony is required'
+we therefore hold that while an analysis of obviousness always depends on evidence that supports the required graham factual findings it also may include recourse to logic judgment and common_sense available to the person of ordinary_skill that do not necessarily require explication in any reference or expert_opinion
+
+*1330 although the obviousness_analysis should` take account of the inferences and creative_steps that a person of ordinary_skill in the art would employ' the supreme_court emphasized that this evidentiary flexibility does not relax the requirement that` [ t ] o facilitate review this analysis should be made explicit'
+id.at 418 127_s.ct._1727 citing kahn 441 f.3d at 988` [ r ] ejections on obviousness_grounds can not be sustained by mere conclusory statements ; instead there must be some articulated reasoning with some rational underpinning to support the legal conclusion of obviousness`
+`` [ t ] he analysis thatshould be made explicit refers not to the teachings in the prior_art of a motivation to combine but to the courts analysis'
+ball aerosol & specialty container inc. v. ltd. brands inc. 555_f.3d_984 993 fed.cir.2009
+we reiterate that on summary_judgment to invoke` common_sense' or any other basis for extrapolating from prior_art to a conclusion of obviousness a district_court must articulate its reasoning with sufficient clarity for review
+
+in this case we find that the predicate evidence on which the district_court based its` common_sense' reasoning appears in the record namely the facts that step d merely involves repeating earlier steps and that a marketer could repeat those steps if desired
+the district_court also adequately explained its invocation of common_sense
+in claim 1 steps a - c involve targeting a group of recipients sending e-mail to those recipients and calculating the number of successfully delivered e-mails
+perfect_web concedes that prior_art_references disclose these three steps
+step d the only remaining step recites` repeating steps a - c until said calculated_quantity_exceeds said prescribed minimum_quantity'
+thus this last step and the claim as a whole simply recites repetition of a known procedure until success is achieved
+recognizing this the district_court explained` if 100 e-mail deliveries were ordered and the first transmission delivered only 95 common_sense dictates that one should try again
+one could do little else'
+opinion at 7-8
+if the relevant technology were complex the court might require expert_opinions
+e.g. procter & gamble co. v. teva pharms
+usa inc. 566_f.3d_989 996-98 fed.cir.2009 crediting expert_testimony of unexpected_results
+here however the parties agreed that ordinary_skill in the relevant_art required only a high school education and limited marketing and computer experience
+no expert_opinion is required to appreciate the potential value to persons of such skill in this art of repeating steps a - c
+
+while not necessary in this case the submitted expert evidence fully supports the district_courts conclusion that claim 1 would have been obvious as a matter of common_sense
+infousa offered two expert_opinions that repetition would have been known to a person of ordinary_skill
+reggie brady an` e-mail_marketing' authority stated` if a marketer insisted on an absolute delivered quantity and the initial transmission fell short there would have been no other recourse but to repeat the matching transmitting and calculating steps'
+j.a
+2748 ?
+44
+john lawlor who worked in the` advertising/marketing business' claimed that` it would have been obvious to the email services company to repeat the matching transmitting and calculating steps until the mailers order had been filled'
+id
+2732 ?
+31
+even though perfect_web challenged lawlors credibility regarding his dual role as a fact witness for anticipation purposes it did not rebut lawlors obviousness testimony nor provide contradictory evidence
+
+*1331 perfect_web claims that it refuted infousas experts with the declaration of its own expert dr. sandeep krishnamurthy a professor of marketing and e-commerce
+krishnamurthy opined that` mere common_sense and a general knowledge in the art-by one of ordinary_skill-would not render the asserted claims of the ¡¬400_patent obvious'
+j.a
+1957
+this statement however is not directly on point because it was made at the conclusion of a three-paragraph obviousness_analysis of a combination of three prior_art patents that are no longer at issue
+moreover the district_court correctly observed that in a deposition krishnamurthy agreed that if an initial delivery of e-mail fell short of a desired number the only options were to stop or to find more_e-mail_addresses
+j.a
+2358-big_token__59_at_226__big_token13-24 229:8-17
+krishnamurthy did testify that there were` many parts' to finding more_e-mail_addresses id. but this relates only to step a which the prior_art teaches
+in sum krishnamurthys declaration and deposition testimony reveal that his opinion relied on irrelevant prior_art did not address the references that perfect_web admits disclose steps a - c and said nothing about the nonobviousness of repeating steps a - c
+his opinion is therefore insufficient to prevent summary_judgment
+the testimony of the experts does nothing to question the correctness of the district_courts conclusion that performing the recited prior_art method of steps a - c more than once as called for in step d was one of the` inferences and creative_steps that a person of ordinary_skill would employ'
+ksr 550 u.s. at 418 127_s.ct._1727
+
+b
+obvious to try
+the record also shows that step d would have been obvious to try
+the problem that the patent addresses is sending too few or too many e-mail_messages to meet a fixed marketing quota
+krishnamurthy brady and lawlor collectively identified at most a few potential solutions for this problem at the time 1 oversending or e-mailing an excess of addresses to ensure the quota is met ; 2 if some addresses failed or` bounced' back messages re-sending to those same addresses in the hope that a second transmission somehow succeeds ; and 3 identifying a new group of addresses and sending messages to them which is step d in the ¡¬400_patent
+even without experimentation simple logic suggests that sending messages to new addresses is more likely to produce successful deliveries than re-sending messages to addresses that have already failed
+perfect_web presented no evidence that the patented method offered any unexpected_results or was not reasonably expected to succeed ; indeed the predictable and actual result of performing step d is that more_e-mail_messages reach more recipients
+there was thus a` finite_number of identified predictable_solutions' to suggest that the ¡¬400_patents methods would have been obvious to try
+id.at 421 127_s.ct._1727
+as the supreme_court explained if trying such a limited number of solutions` leads to the anticipated success it is likely the product not of innovation but of ordinary_skill and common_sense'
+id
+( emphasis added
+meanwhile no evidence indicates that a person of ordinary_skill would have needed to` vary all parameters or try each of numerous possible choices' or` explore a new technology or general approach.. where the prior_art gave only general guidance as to the particular form of the claimed invention or how to achieve it' which would counsel against an invention being obvious to try
+kubin 561 f.3d at 1359 quoting in re o'farrell 853_f.2d_894 903 fed.cir.1988
+
+*1332 as noted supra the parties agreed that a person of ordinary_skill possessed` at least a high_school_diploma one year of experience in the industry and proficiency with computers and e-mail_programs'
+opinion at 6
+perfect_web argues that such a person was` unsophisticated' and had` no knowledge of computer programming or system design'
+perfect_webs br
+57
+however perfect_web does not explain how programming experience was necessary to appreciate the value of repeating known methods
+moreover this position is merely attorney argument lacking evidentiary_support
+see gemtron corp. v. saint-gobain corp. 572_f.3d_1371 1380 fed.cir.2009 noting that` unsworn attorney argument.. is not evidence'
+
+c. claim construction
+perfect_web also claims that the district_court should have construed the claims before deciding validity
+we have said that` a court may not invalidate the claims of a patent without construing the disputed limitations of the claims and applying them to the allegedly invalidating acts'
+dana corp. v. am
+axle & mfg. 279_f.3d_1372 1376 fed.cir.2002
+however a district_court need not` construe undisputed claim terms prior to issuing a summary_judgment of invalidity'
+unitherm food sys
+v. swift-eckrich inc. 375_f.3d_1341 1350 fed.cir.2004 emphasis added revd on other grounds 546_u.s._394 126_s.ct._980 163_l.ed.2d_974_(2006)
+here perfect_web conceded that steps a - c exist in the prior_art
+in step d the parties disputed only two terms` said calculated_quantity' and` prescribed minimum_quantity'
+see joint cl
+chart 3 ; pl
+'s reply mem
+on cl
+constr
+neither claim term was relevant to the obviousness of repeating steps a - c
+the district_court did not adopt infousas constructions of these terms in its summary_judgment opinion and perfect_web offers no reason why they would change the obviousness outcome
+because the district_court referred to step d as` try try again' perfect_web claims that the court adopted an improper` claim_construction' that oversimplified the claims
+but we see no error here ; step d plainly calls for` repeating steps a - c' and perfect_web identifies no construction that would change our analysis
+
+d. long-felt need
+evidence that an invention satisfied a long-felt and unmet_need that existed on the patents filing date is a secondary consideration of nonobviousness
+see procter & gamble 566 f.3d at 998
+perfect_web claims that the ¡¬400_patent solved a long-felt need for an efficient bulk_e-mail system
+krishnamurthy identified` two unique problems' with systems available before april 2000 that employed oversending
+first marketers needed to transmit excess e-mail_messages for which they received no payment
+second more customers opted out of such systems because they received too many unwanted messages
+j.a
+1958
+one of infousas experts brady agreed that oversending could result in` losing money' and` burning up' a list of available addresses
+id.at 1909
+
+even assuming as we must for summary_judgment that perfect_web is factually correct about the drawbacks of oversending perfect_web fails to show that these drawbacks constituted a long-felt unmet_need alleviated by the patent
+perfect_web provided no evidence to explain how long this need was felt or when the problem first arose
+see tex
+instruments v. u.s. int l trade comm n 988_f.2d_1165 1178 fed.cir.1993` [ l ] ong-felt need is analyzed as of the date of an articulated identified problem and evidence *1333 of efforts to solve that problem`
+nor does the evidence show that the ¡¬400_patent met any such` need'
+krishnamurthy made the bare assertion that the patent provided` improved efficiency' j.a
+1959 but cited no supporting data to show for example that the invention actually reduced marketing costs time or the number of consumers who opt out
+`` moreover as we have often held evidence of secondary_considerations does not always overcome a strong prima facie showing of obviousness'
+asyst techs. inc. v. emtrak inc. 544_f.3d_1310 1316 fed.cir.2008 affirming judgment as a matter of law of obviousness
+in the end perfect_webs unsupported contentions are legally insufficient to raise a genuine_issue of material_fact
+
+because we agree with the district_courts holding of obviousness as to all asserted claims we need not and do not reach its alternative reasons for holding the ¡¬400_patent invalid-namely that the claims were anticipated and directed to unpatentable subject matter
+
+conclusion
+for the foregoing reasons we conclude that claims 1 2 5 11 12 and 15 of the ¡¬400_patent are invalid for obviousness
+
+affirmed
+
+all citations
+587_f.3d_1324 92_u.s.p.q.2d_1849
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+perfect_web_technologies inc. v. infousa inc. 587_f.3d_1324 2009 92_u.s.p.q.2d_1849
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

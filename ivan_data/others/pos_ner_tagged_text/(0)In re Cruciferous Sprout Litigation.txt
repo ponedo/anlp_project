@@ -1,0 +1,213 @@
+('301_F.3d_1343', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re', 'NN', '', 'O') ('CRUCIFEROUS', 'NN', '', 'O') ('SPROUT', 'NNP', '', 'O') ('LITIGATION', 'VB', '', 'O')
+
+__NEW_SENT__
+('Brassica_Protection_Products_LLC', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Johns_Hopkins_University', 'NNP', '', 'O') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('Sunrise_Farms', 'NNS', '', 'O') ('Becky_Crikelair', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Frank_Crikelair', 'NNP', '', 'O') ('Defendants-Appellees', 'NNPS', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('Edrich', 'NNP', 'ORG', 'B') ('Farms', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Edward_B._Stanfield', 'VBD', 'PERSON', 'B') ('III', 'NNP', 'PERSON', 'I') ('Edward_F._Stanfield', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Richard_Stanfield', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Sally_F._Stanfield', 'NNP', 'ORG', 'B') ('Defendants-Appellees', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+Edrich Farms Inc. Edward_B._Stanfield III Edward_F._Stanfield Jr. Sally_F._Stanfield Defendants-Appellees
+__NEW_SENT__
+('Banner_Mountain_Sprouts', 'NNP', 'ORG', 'B') ('Banner_Mountain_Sprouts', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Lawrence_Ravitz', 'NNP', 'GPE', 'B') ('Defendants-Appellees', 'NNPS', 'GPE', 'I') ('and', 'CC', '', 'O')
+Banner_Mountain_Sprouts Banner_Mountain_Sprouts Inc. Lawrence_Ravitz Defendants-Appellees
+__NEW_SENT__
+('Harmony', 'NNP', '', 'O') ('Farms', 'NNS', '', 'O') ('Greg_Lynn', 'CD', '', 'O') ('and', 'CC', '', 'O') ('Lorna_Lynn', 'NNS', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('International_Specialty_Supply', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Robert_L._Rust', '.', 'MONEY', 'B') ('Defendants-Appellees', 'NNS', 'MONEY', 'I')
+Robert_L._Rust Defendants-Appellees
+__NEW_SENT__
+('No._02-1031', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('Aug._21,_2002', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') (':', ':', '', 'O') ('Sept._30,_2002', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Actions', 'NNS', '', 'O') ('brought', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('holders', 'NNS', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('patents', 'NNS', '', 'O') ('all', 'DT', '', 'O') ('involving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('production', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('consumption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sprouts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('certain_types', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('cruciferous_seeds', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('broccoli', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('cauliflower', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('consolidated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Judicial_Panel', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('Multidistrict_Litigation', 'NN', '', 'O') ('for', 'IN', '', 'O') ('pre-trial', 'JJ', '', 'O') ('purposes', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B') ('William', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Nickerson', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('that', 'IN', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('168_F.Supp.2d_534', 'CD', '', 'O')
+United_States_District_Court the District of Maryland William M. Nickerson J.
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('preamble', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('anticipation', 'NN', '', 'O')
+The Court of Appeals Prost Circuit_Judge 1 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1344', 'NFP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Anthony', 'NNP', 'PERSON', 'I') ('Figg', 'NNP', 'PERSON', 'I') ('Rothwell', 'NNP', 'PERSON', 'I') ('Figg', 'NNP', '', 'O') ('Ernst', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Manbeck', 'NNP', '', 'O') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+*1344 E. Anthony Figg Rothwell P.C. Washington
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Hynds', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Bowditch', 'NNP', 'PERSON', 'I')
+Joseph A. Hynds Mark I. Bowditch
+__NEW_SENT__
+('Joseph', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Kromholz', 'NNP', 'PERSON', 'I') ('Ryan', 'NNP', 'PERSON', 'I') ('Kromholz', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Manion', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Milwaukee', 'NNP', 'ORG', 'B') ('Wisconsin', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Joseph A. Kromholz Ryan Kromholz & Manion Milwaukee Wisconsin
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'JJ', '', 'O') ('Sunrise_Farms', 'NNS', '', 'O') ('et_al', 'NNP', '', 'O')
+
+__NEW_SENT__
+('was', 'VBD', '', 'O') ('Daniel', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Johnson', 'NNP', 'PERSON', 'I')
+Daniel R. Johnson
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Harmony', 'NNP', 'ORG', 'B') ('Farms', 'NNPS', 'ORG', 'I') ('et_al', 'NNP', '', 'O')
+Harmony Farms
+__NEW_SENT__
+('was', 'VBD', '', 'O') ('Delbert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Barnard', 'NNP', 'PERSON', 'I') ('*1345', '.', '', 'O') ('Barnard', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Pauly', 'NNP', 'ORG', 'I') ('P.S', 'NNP', 'ORG', 'I')
+Delbert J. Barnard Barnard & Pauly P.S
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Edrich', 'NNP', 'ORG', 'B') ('Farms', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('et_al', 'NNP', '', 'O')
+Edrich Farms Inc.
+__NEW_SENT__
+('was', 'VBD', '', 'O') ('Philip', 'NNP', 'ORG', 'B') ('M.', 'NNP', 'ORG', 'I') ('Andrews', 'NNP', 'ORG', 'I') ('Kramon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Graham', 'NNP', 'ORG', 'I') ('P.A.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Baltimore', 'NNP', 'GPE', 'B') ('Maryland', 'NNP', 'GPE', 'B')
+Philip M. Andrews Kramon & Graham P.A. Baltimore Maryland
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Banner_Mountain_Sprouts', 'NNP', '', 'O') ('et_al', 'NNP', '', 'O')
+
+__NEW_SENT__
+('was', 'VBD', '', 'O') ('Donald', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Ullrich', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('The', 'DT', 'ORG', 'B') ('Ullrich', 'NNP', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Firm', 'NN', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Sacramento', 'NNP', 'ORG', 'I') ('California', 'NNP', 'GPE', 'B')
+Donald W. Ullrich Jr. The Ullrich Law Firm of Sacramento California
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('CLEVENGER', 'NNP', 'ORG', 'B') ('BRYSON', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+CLEVENGER BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Brassica_Protection_Products_LLC', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Johns_Hopkins_University', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Brassica', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('District', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Maryland', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('Nos._5725,895', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬895_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('5,968,567', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬567_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('5,968,505', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬505_patent', 'NNP', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NN', '', 'O')
+Johns_Hopkins_University Brassica Maryland U.S. 5,968,567 5,968,505
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re_Cruciferous_Sprout_Patent_Litig.', '``', '', 'O') ('168_F.Supp.2d_534', 'CD', '', 'O') ('60_USPQ2d_1758_(D.Md.2001)', 'CD', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ruling', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents-in-suit', 'NN', '', 'O') ('relate', 'NN', '', 'O') ('to', 'IN', '', 'O') ('growing', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('eating', 'VBG', '', 'O') ('sprouts', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('carcinogens', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('animals', 'NNS', '', 'O') ('thereby', 'RB', '', 'O') ('reducing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('risk', 'NN', '', 'O') ('of', 'IN', '', 'O') ('developing', 'VBG', '', 'O') ('cancer', 'NN', '', 'O')
+three
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('describe', 'VBP', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('preparing', 'VBG', '', 'O') ('food_products', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('contain', 'VBP', '', 'O') ('high_levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('substances', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('induce', 'VBP', '', 'O') ('Phase', 'NNP', 'PRODUCT', 'B') ('2', 'CD', 'PRODUCT', 'I') ('enzymes', 'NNS', '', 'O')
+Phase 2
+__NEW_SENT__
+('These', 'DT', '', 'O') ('enzymes', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('body', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('mechanism', 'NN', '', 'O') ('for', 'IN', '', 'O') ('detoxifying', 'VBG', '', 'O') ('potential', 'JJ', '', 'O') ('carcinogens', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('they', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('chemoprotective', 'JJ', '', 'O') ('effect', 'NN', '', 'O') ('against', 'IN', '', 'O') ('cancer', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬', 'NNP', 'DATE', 'B') ('895', 'CD', 'DATE', 'I') ('patent', 'NN', '', 'O') ('col._1,_ll._28-34', 'NN', '', 'O')
+¡¬ 895
+__NEW_SENT__
+('Foods', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('rich', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('glucosinolates', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('cruciferous', 'JJ', '', 'O') ('sprouts', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('high', 'JJ', '', 'O') ('Phase', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('enzyme-inducing', 'JJ', '', 'O') ('potential', 'NN', '', 'O')
+2
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ('recognized', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Phase', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('enzyme-inducing', 'JJ', '', 'O') ('agents', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('or', 'CC', '', 'O') ('their', 'PRP$', '', 'O') ('glucosinolate', 'NN', '', 'O') ('precursors', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('far', 'RB', '', 'O') ('more', 'RBR', '', 'O') ('concentrated', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('sprouts', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('broccoli', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('cauliflower', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('cabbage', 'VB', '', 'O') ('cress', 'NN', '', 'O') ('mustard', 'NN', '', 'O') ('or', 'CC', '', 'O') ('radish', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('harvested', 'VBN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two-leaf_stage', 'NN', '', 'O') ('than', 'IN', '', 'O') ('in', 'IN', '', 'O') ('corresponding', 'VBG', '', 'O') ('adult', 'NN', '', 'O') ('plants', 'NNS', '', 'O')
+2
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('col._7,_l._63', 'NN', '', 'O') ('col._8,_l._14', 'NNS', '', 'O')
+
+__NEW_SENT__
+('However', 'RB', '', 'O') ('glucosinolate', 'JJ', '', 'O') ('levels', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('cruciferous_plants', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('highly', 'RB', '', 'O') ('variable', 'JJ', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col._12,_ll._66-67', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('There', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('variation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('inducer', 'NN', '', 'O') ('potential', 'NN', '', 'O') ('among', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('broccoli', 'JJ', '', 'O') ('cultivars', 'NNS', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('therefore', 'RB', '', 'O') ('desirable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('select', 'VB', '', 'O') ('the', 'DT', '', 'O') ('seeds', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('cruciferous_plants', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('when', 'WRB', '', 'O') ('germinated', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('harvested', 'VBN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two-leaf_stage', 'NN', '', 'O') ('produce', 'NN', '', 'O') ('sprouts', 'VBZ', '', 'O') ('that', 'WDT', '', 'O') ('contain', 'VBP', '', 'O') ('high_levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('enzyme-inducing', 'JJ', '', 'O') ('potential', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬895_patent', 'NN', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('15', 'CD', 'DATE', 'I') ('1995', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('inter', 'JJ', '', 'O') ('alia', 'NN', '', 'O') ('``', '``', '', 'O') ('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('preparing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('food_product', 'NN', '', 'O') ('rich', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('glucosinolates', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('germinated', 'VBN', '', 'O') ('cruciferous_seeds', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('exception', 'NN', '', 'O') ('of', 'IN', '', 'O') ('cabbage', 'NN', '', 'O') ('cress', 'NN', '', 'O') ('mustard', 'NN', '', 'O') ('and', 'CC', '', 'O') ('radish', 'NN', '', 'O') ('seeds', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('harvesting', 'NN', '', 'O') ('sprouts', 'NNS', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('2-leaf_stage', 'NN', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('a', 'DT', '', 'O') ('food_product', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sprouts', 'NNS', '', 'O') ("''", "''", '', 'O')
+¡¬895_patent September 15 1995
+__NEW_SENT__
+('¡¬895_patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬', 'NNP', 'CARDINAL', 'B') ('567', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('continuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬895_application', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('preparing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('food_product', 'NN', '', 'O') ("''", "''", '', 'O') ('from', 'IN', '', 'O') ('sprouts', 'NNS', '', 'O')
+¡¬ 567 ¡¬895_application
+__NEW_SENT__
+('¡¬567_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('1_and_9', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬505_patent', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('divisional', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬895_application', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('increasing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('chemoprotective', 'JJ', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Phase', 'NNP', 'PRODUCT', 'B') ('2', 'CD', 'PRODUCT', 'I') ('enzymes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mammal', 'JJ', '', 'O') ("''", "''", '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('carcinogens', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mammal', 'NN', '', 'O') ("''", "''", '', 'O') ('by', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('food_product', 'NN', '', 'O') ("''", "''", '', 'O') ('from', 'IN', '', 'O') ('sprouts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('``', '``', '', 'O') ('administering', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('food_product', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mammal', 'NN', '', 'O')
+¡¬505_patent ¡¬895_application Phase 2
+__NEW_SENT__
+('¡¬505_patent', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('1_and_16', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents-in-suit', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Johns_Hopkins_University', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('exclusively', 'RB', '', 'O') ('licensed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Brassica_Protection_Products_LLC', 'NNP', '', 'O')
+three
+__NEW_SENT__
+('Johns', 'NNP', 'ORG', 'B') ('Hopkins', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Brassica', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Sunrise_Farms', 'NNS', '', 'O') ('Becky_Crikelair', 'NN', '', 'O') ('Frank_Crikelair', 'NNP', '', 'O') ('Edrich', 'NNP', '', 'O') ('Farms', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Edward_B._Stanfield', 'VBD', '', 'O') ('III', 'NNP', '', 'O') ('Edward_F._Stanfield', 'NNP', '', 'O') ('Jr.', 'NNP', '', 'O') ('Richard_Stanfield', 'NN', '', 'O') ('Sally_F._Stanfield', 'NNP', '', 'O') ('Banner_Mountain_Sprouts', 'NNP', '', 'O') ('Banner_Mountain_Sprouts', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Lawrence_Ravitz', 'NN', '', 'O') ('Harmony', 'NNP', 'ORG', 'B') ('*1346', 'NNP', '', 'O') ('Farms', 'NNS', '', 'O') ('International_Specialty_Supply', 'NNP', '', 'O') ('Greg_Lynn', 'NNP', '', 'O') ('Lorna_Lynn', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('Robert_L._Rust', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('defendants', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('district_courts', 'NNS', '', 'O')
+Johns Hopkins Brassica Harmony Robert_L._Rust
+__NEW_SENT__
+('Pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'CD', '', 'O') ('1407', 'CD', 'DATE', 'B') ('the', 'DT', '', 'O') ('Judicial_Panel', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('Multidistrict_Litigation', 'NN', '', 'O') ('consolidated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('various', 'JJ', '', 'O') ('cases', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('pretrial', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+28 1407 the District of Maryland
+__NEW_SENT__
+('On', 'IN', '', 'O') ('June_7,_2001', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('joint', 'JJ', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('partial', 'JJ', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('references', 'NNS', '', 'O') ('disclosing', 'VBG', '', 'O') ('growing', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('eating', 'VBG', '', 'O') ('sprouts', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Brassica', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('cross-motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+Brassica
+__NEW_SENT__
+('On', 'IN', '', 'O') ('July_23,_2001', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('hearing', 'NN', '', 'O') ('to', 'TO', '', 'O') ('address', 'VB', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+Markman
+__NEW_SENT__
+('On', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('10', 'CD', 'DATE', 'I') ('2001', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('defendants', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBD', '', 'O') ('Brassica', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('cross-motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+August 10 2001 Brassica
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('he', 'PRP', '', 'O') ('record', 'VBD', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('makes', 'VBZ', '', 'O') ('it', 'PRP', '', 'O') ('abundantly', 'RB', '', 'O') ('clear', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('skilled', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('could', 'MD', '', 'O') ('by', 'IN', '', 'O') ('following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('teachings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('germinate', 'VB', '', 'O') ('broccoli', 'JJ', '', 'O') ('seeds', 'NNS', '', 'O') ('harvest', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('sprouts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('sell', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('food_product', 'NN', '', 'O') ("''", "''", '', 'O')
+Court one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re_Cruciferous_Sprout_Patent_Litig.', 'CD', '', 'O') ('168', 'CD', 'CARDINAL', 'B') ('F.Supp.2d', 'NNP', '', 'O') ('at', 'IN', '', 'O') ('540', 'CD', 'CARDINAL', 'B') ('60', 'CD', 'CARDINAL', 'I') ('USPQ2d', 'NNS', 'PRODUCT', 'B') ('at', 'IN', '', 'O') ('1762', 'CD', 'DATE', 'B')
+168 540 60 USPQ2d 1762
+__NEW_SENT__
+('While', 'IN', '', 'O') ('recognizing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', 'ORG', 'B') ('may', 'MD', '', 'O') ('have', 'VB', '', 'O') ('discovered', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('significant', 'JJ', '', 'O') ('property', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain_types', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('cruciferous', 'JJ', '', 'O') ('sprouts', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('merely', 'RB', '', 'O') ('describing', 'VBG', '', 'O') ('unexpected', 'JJ', '', 'O') ('beneficial', 'JJ', '', 'O') ('results', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('known', 'VBN', '', 'O') ('process', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('entitle', 'VB', '', 'O') ('Plaintiffs', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('patent', 'VB', '', 'O') ('that', 'DT', '', 'O') ('process', 'NN', '', 'O') ("''", "''", '', 'O')
+patents-in-suit
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('538', 'CD', 'CARDINAL', 'B') ('60', 'CD', '', 'O') ('USPQ2d', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('1760', 'CD', 'DATE', 'B')
+538 1760
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('plant', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('broccoli', 'JJ', '', 'O') ('sprouts', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('long', 'RB', '', 'O') ('well', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('nature', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cultivated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('eaten', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('humans', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('decades', 'NNS', 'DATE', 'B') ('[', '-LRB-', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') (']', '-RRB-', '', 'O') ('be', 'VB', '', 'O') ('patented', 'VBN', '', 'O') ('merely', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('recent', 'JJ', '', 'O') ('realization', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plant', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('always', 'RB', '', 'O') ('had', 'VBN', '', 'O') ('some', 'DT', '', 'O') ('heretofore', 'JJ', '', 'O') ('unknown', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('naturally', 'RB', '', 'O') ('occurring', 'VBG', '', 'O') ('beneficial', 'JJ', '', 'O') ('feature', 'NN', '', 'O') ("''", "''", '', 'O')
+decades
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('537', 'CD', '', 'O') ('60', 'CD', '', 'O') ('USPQ2d', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('1759', 'CD', 'DATE', 'B')
+1759
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('1', 'CD', 'DATE', 'I') ('2001', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Judgment', 'NNP', '', 'O') ('Under', 'IN', '', 'O') ('Rule', 'NNP', '', 'O') ('54', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendants', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('limited', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('invalidity', 'NN', '', 'O') ('ruling', 'NN', '', 'O') ('to', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1-BIG_TOKEN__6_and_9__BIG_TOKEN', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬895_patent', 'NNP', 'PRODUCT', 'B') ('claims', 'VBZ', '', 'O') ('1-8', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬567_patent', 'NNP', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('1_and_16', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬505_patent', 'NNP', '', 'O')
+October 1 2001 ¡¬895_patent 1-8 ¡¬567_patent
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re_Cruciferous_Sprout_Patent_Litig.', 'NN', '', 'O') ('MDL', 'NNP', '', 'O') ('Docket', 'NNP', '', 'O') ('No._1388', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('D.Md', 'NN', '', 'O')
+
+__NEW_SENT__
+('Oct._1,_2001', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('54', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('Determination', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Rule 54
+__NEW_SENT__
+('Brassica', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('properly', 'RB', '', 'O') ('construe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('apply', 'VB', '', 'O') ('the', 'DT', '', 'O') ('properly', 'RB', '', 'O') ('construed', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('when', 'WRB', '', 'O') ('determining', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('anticipated', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Brassica 35 102
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1
+__NEW_SENT__

@@ -1,0 +1,90 @@
+('737_F.3d_731', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GALDERMA', 'NNP', 'ORG', 'B') ('LABORATORIES', 'NNP', 'ORG', 'I') ('L.P.', 'NNP', 'ORG', 'I') ('Galderma_S.A.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Galderma_Research', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Development', 'NNP', '', 'O') ('S.N.C.', 'NNP', '', 'O') ('Plaintiffs-Appellees', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('TOLMAR', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+GALDERMA LABORATORIES L.P. Galderma_Research
+__NEW_SENT__
+('No._2013-1034', 'UH', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._11,_2013', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('March_27,_2014', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('manufacturer', 'NN', '', 'O') ('alleging', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patents', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('topical', 'JJ', '', 'O') ('acne', 'NN', '', 'O') ('medication', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('Leonard', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Stark', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('891_F.Supp.2d_588', 'NN', 'PERSON', 'I') ('ruled', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('defendant', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the District of Delaware Leonard P. Stark J. 891_F.Supp.2d_588
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('taught', 'VBD', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('active', 'JJ', '', 'O') ('ingredient', 'NN', '', 'O') ('at', 'IN', '', 'O') ('0.3', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('concentration', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('disclosed', 'VBD', '', 'O') ('preferred', 'JJ', '', 'O') ('range', 'NN', '', 'O') ('of', 'IN', '', 'O') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('-1', 'CD', '', 'O') ('%', 'NN', '', 'O') ('for', 'IN', '', 'O') ('that', 'DT', '', 'O') ('ingredient', 'NN', '', 'O') ('with', 'IN', '', 'O') ('same', 'JJ', '', 'O') ('inactive', 'JJ', '', 'O') ('ingredients', 'NNS', '', 'O')
+The Court of Appeals Prost Circuit_Judge 0.3 % 0.01 %
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Newman Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*734', 'NNP', '', 'O') ('Charles', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Lipsey', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Reston', 'NNP', 'ORG', 'B') ('VA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Charles E. Lipsey Finnegan Henderson Farabow Garrett & Reston VA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Howard', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Levine', 'NNP', 'PERSON', 'I') ('Sanya', 'NNP', 'PERSON', 'I') ('Sukduang', 'NNP', 'PERSON', 'I') ('Cortney', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Casp', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Victoria', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Howard W. Levine Sanya Sukduang Cortney B. Casp Victoria S. Lee Washington
+__NEW_SENT__
+('Thomas', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Steindler', 'NNP', 'PERSON', 'I') ('McDermott', 'NNP', '', 'O') ('Will', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Emery', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Thomas P. Steindler Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Gargano', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Keith', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Stolte', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O')
+Jeffrey R. Gargano Keith M. Stolte Chicago
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('BRYSON', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('case', 'NN', '', 'O') ('Tolmar', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('holding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('Nos._7579,377', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ("'377_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('7,737,181', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'181_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('7,834,060', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'060_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('7,838,558', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'558_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('7,868,044', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'044_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Galderma', 'NNP', 'ORG', 'B') ('Laboratories', 'NNP', 'ORG', 'I') ('L.P.', 'NNP', 'ORG', 'I') ('Galderma_S.A.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Galderma_Research', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Development', 'NNP', '', 'O') ('S.N.C', 'NNP', '', 'O')
+Tolmar Inc. U.S. Patent Nos._7579,377 7,737,181 7,834,060 7,838,558 7,868,044 Galderma Laboratories L.P. Galderma_Research
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Galderma', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B')
+Galderma 35 103
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('find', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('Hatch-Waxman', 'NNP', '', 'O') ('case', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('Tolmar', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('filing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', 'ORG', 'B') ('Abbreviated', 'NNP', 'ORG', 'I') ('New', 'NNP', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ANDA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('seeking', 'VBG', '', 'O') ('approval', 'NN', '', 'O') ('to', 'TO', '', 'O') ('market', 'VB', '', 'O') ('a', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('version', 'NN', '', 'O') ('of', 'IN', '', 'O') ('DifferinTHE_R', 'NNP', 'PRODUCT', 'B') ('Gel', 'NNP', 'PRODUCT', 'I') ('0.3', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('topical', 'JJ', '', 'O') ('medication', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('0.3', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('by', 'IN', '', 'O') ('weight', 'NN', '', 'O') ('adapalene', 'NN', '', 'O') ('approved', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('acne', 'NN', '', 'O')
+Tolmar an Abbreviated New Drug Application DifferinTHE_R Gel 0.3 % 0.3 %
+__NEW_SENT__
+('On', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('2010', 'CD', 'DATE', 'I') ('Galderma', 'NNP', 'PERSON', 'B') ('sued', 'VBD', '', 'O') ('Tolmar', 'NNP', 'PERSON', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Tolmar', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('ANDA', 'NNP', '', 'O') ('product', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('certain', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬377_patent', 'NNP', '', 'O')
+January 21 2010 Galderma Tolmar the District of Delaware Tolmar
+__NEW_SENT__
+('Galderma', 'NNP', '', 'O') ('subsequently', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('amended', 'VBN', '', 'O') ('complaints', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('ruled', 'VBD', '', 'O') ('against', 'IN', '', 'O') ('Tolmar', 'NNP', 'PERSON', 'B') ('on', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('only', 'RB', '', 'O') ('invalidity', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('is', 'VBZ', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+Tolmar 35 103
+__NEW_SENT__

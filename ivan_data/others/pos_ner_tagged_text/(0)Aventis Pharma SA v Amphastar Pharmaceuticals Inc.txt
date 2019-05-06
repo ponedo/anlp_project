@@ -1,0 +1,132 @@
+('525_F.3d_1334', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('AVENTIS', 'NNP', 'ORG', 'B') ('PHARMA', 'NNP', 'ORG', 'I') ('S.A.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Aventis', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('AMPHASTAR', 'NNP', '', 'O') ('PHARMACEUTICALS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellee', 'NN', '', 'O') ('and', 'CC', '', 'O')
+AVENTIS PHARMA S.A. Aventis Pharmaceuticals Inc.
+__NEW_SENT__
+('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellee', 'NN', '', 'O')
+Teva Pharmaceuticals USA Inc.
+__NEW_SENT__
+('No._2007-1280', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('May_14,_2008', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Sept._25,_2008', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Pharmaceutical', 'NN', '', 'O') ('company', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claimed', 'VBD', '', 'O') ('range', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defined', 'VBN', '', 'O') ('low', 'JJ', '', 'O') ('molecular_weight', 'JJ', '', 'O') ('heparin', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('LMWH', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('mixtures', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('replacement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('390_F.Supp.2d_936', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('summary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitors', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('176_Fed.Appx._117', 'CD', 'ORG', 'I') ('reversed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+The Court of Appeals 176_Fed.Appx._117
+__NEW_SENT__
+('On', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Central', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Mariana', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Pfaelzer', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', 'PERSON', 'I') ('District', 'NNP', 'PERSON', 'I') ('Judge', 'NNP', '', 'O') ('475_F.Supp.2d_970', 'NN', 'PERSON', 'B') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('competitors', 'NNS', '', 'O') ('after', 'IN', '', 'O') ('bench', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('claim', 'NN', '', 'O')
+the United States District Court the Central District California Mariana R. Pfaelzer Senior District 475_F.Supp.2d_970
+__NEW_SENT__
+('Company', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Prost Circuit_Judge
+__NEW_SENT__
+('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('dosage_information', 'NN', '', 'O') ('evidenced', 'VBN', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('examiner', 'NN', '', 'O') ('to', 'TO', '', 'O') ('extent', 'VB', '', 'O') ('that', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('address', 'VB', '', 'O') ('anticipation', 'NN', '', 'O') ('rejection', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('any', 'DT', '', 'O') ('error', 'NN', '', 'O') ('by', 'IN', '', 'O') ('court', 'NN', '', 'O') ('in', 'IN', '', 'O') ('concluding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('anticipation', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('still', 'RB', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('office', 'NN', '', 'O') ('action', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('diminish', 'VB', '', 'O') ('prior', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') (';', '.', '', 'O')
+third
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('industry', 'NN', '', 'O') ('practice', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clinically-relevant', 'JJ', '', 'O') ('doses', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('excluded', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('irrelevant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('reasonableness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('alleged', 'VBN', '', 'O') ('material_intentional_withholding', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('dosage_information', 'NN', '', 'O') ('through', 'IN', '', 'O') ('concealment', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('exculpatory', 'JJ', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('applicant', 'NN', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('outweighed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('deceptive', 'JJ', '', 'O') ('intent', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('disclosure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('half-life', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('doses', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('compound', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('provided', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('examiner', 'VB', '', 'O') ('in', 'IN', '', 'O') ('very', 'RB', '', 'O') ('misleading', 'JJ', '', 'O') ('way', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('diminish', 'VB', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('material_intentional_withholding', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('dosage_information', 'NN', '', 'O') ('through', 'IN', '', 'O') ('concealment', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('inadvertent', 'JJ', '', 'O') ('errors', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('applicant', 'VBP', '', 'O') ('made', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('diminish', 'VB', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('material_intentional_withholding', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('dosage_information', 'NN', '', 'O') ('through', 'IN', '', 'O') ('concealment', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Rader', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1336', 'NNP', '', 'O') ('Donald', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', '', 'O') ('Henderson', 'NNP', '', 'O') ('Farabow', 'NNP', '', 'O') ('Garrett', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Dunner', 'NNP', '', 'O') ('L.L.P', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Donald R. Dunner Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Allen', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Sokal', 'NNP', 'PERSON', 'I') ('Bryan', 'NNP', 'PERSON', 'I') ('C.', 'NNP', 'PERSON', 'I') ('Diner', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Esther', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Lim', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') ('and', 'CC', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McCabe', 'NNP', 'PERSON', 'I') ('II', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Atlanta', 'NNP', 'GPE', 'B') ('GA.', 'NNP', '', 'O') ('Jan', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Weir', 'NNP', 'PERSON', 'I') ('Stradling', 'NNP', 'PERSON', 'I') ('Yocca', 'NNP', 'PERSON', 'I') ('Carlson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Rauth', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Newport', 'NNP', 'GPE', 'B') ('Beach', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('*1337', 'NN', '', 'O') ('defendant-appellee', 'NN', '', 'O') ('Amphastar', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Hanle', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jennifer', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Trusso', 'NNP', 'PERSON', 'I')
+Allen M. Sokal Bryan C. Diner Esther H. Lim Washington DC Michael J. McCabe II Atlanta Jan P. Weir Stradling Yocca Carlson & Rauth Newport Beach Amphastar Pharmaceuticals Inc. Steven M. Hanle Jennifer A. Trusso
+__NEW_SENT__
+('Francis', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Lynch', 'NNP', 'PERSON', 'I') ('Goodwin', 'NNP', '', 'O') ('Procter', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('MA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'JJ', '', 'O') ('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Laurie', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Gill', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Bennett', 'NNP', 'PERSON', 'I')
+Francis C. Lynch Boston MA Teva Pharmaceuticals USA Inc. Laurie S. Gill John T. Bennett
+__NEW_SENT__
+('Meredith', 'NNP', 'PERSON', 'B') ('Martin', 'NNP', 'PERSON', 'I') ('Addy', 'NNP', 'PERSON', 'I') ('Brinks', 'NNPS', 'PERSON', 'I') ('Hofer', 'NNP', 'PERSON', 'I') ('Gilson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Lione', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Glen', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Belvis', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('C.', 'NNP', 'PERSON', 'B') ('Noel', 'NNP', 'PERSON', 'I') ('Kaman', 'NNP', 'PERSON', 'I')
+Meredith Martin Addy Brinks Hofer Gilson & Lione Chicago Sandoz Inc. Glen P. Belvis C. Noel Kaman
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('PROST', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('MOORE', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('case', 'NN', '', 'O') ('returns', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('us', 'PRP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('time', 'NN', '', 'O') ('after', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('Aventis', 'NNP', 'ORG', 'B') ('committed', 'VBD', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+second Aventis the United States Patent and Trademark Office
+__NEW_SENT__
+('In', 'IN', '', 'O') ('our', 'PRP$', '', 'O') ('earlier', 'JJR', '', 'O') ('opinion', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dosage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('composition', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('half-life', 'JJ', '', 'O') ('comparisons', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('composition', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('information', 'NN', '', 'O') ('material', 'NN', '', 'O') ('to', 'IN', '', 'O') ('patentability', 'NN', '', 'O') ('but', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('remanded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('determine', 'VB', '', 'O') ('whether', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('by', 'IN', '', 'O') ('Aventis', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('failing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('dosage', 'NN', '', 'O')
+Aventis
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('intent', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('and', 'CC', '', 'O') ('held', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('find', 'VBP', '', 'O') ('no', 'DT', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('discretion', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('holding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'ORG', 'B') ('Aventis', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No', 'NN', '', 'O')
+I. Aventis U.S.
+__NEW_SENT__
+('RE', 'NNP', '', 'O') ('38,743', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬743_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._5389,618', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬618_patent', 'NN', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('surrendered', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬743_Patent', 'NN', '', 'O')
+U.S. No._5389,618
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('low', 'JJ', '', 'O') ('molecular_weight', 'JJ', '', 'O') ('heparins', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('LMWHs', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('the', 'DT', 'PERSON', 'I') ('¡¬618_patent', 'NNP', '', 'O') ('recites', 'VBZ', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('heterogeneous', 'JJ', '', 'O') ('intimate', 'JJ', '', 'O') ('admixture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sulfated', 'VBN', '', 'O') ('heparinic', 'JJ', '', 'O') ('polysaccharides', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('sulfated', 'VBN', '', 'O') ('polysaccharides', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('weight_average_molecular_weight', 'CD', '', 'O') ('less', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('that', 'DT', '', 'O') ('of', 'IN', '', 'O') ('heparin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('said', 'VBD', '', 'O') ('admixture', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('essentially', 'RB', '', 'O') ('of', 'IN', '', 'O')
+Claim 1 of the
+__NEW_SENT__
+('from', 'IN', '', 'O') ('9', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('to', 'TO', 'PERCENT', 'I') ('20', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('polysaccharide_chains', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('molecular_weight', 'JJ', '', 'O') ('less', 'JJR', 'CARDINAL', 'B') ('than', 'IN', 'CARDINAL', 'I') ('2,000', 'CD', 'CARDINAL', 'I') ('daltons', 'NNS', '', 'O')
+9 % to 20 % less than 2,000
+__NEW_SENT__
+('from', 'IN', '', 'O') ('5', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('to', 'TO', 'PERCENT', 'I') ('20', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('polysaccharide_chains', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('molecular_weight', 'JJ', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('8,000', 'CD', '', 'O') ('daltons', 'NNS', '', 'O') ('and', 'CC', '', 'O')
+5 % to 20 %
+__NEW_SENT__
+('from', 'IN', '', 'O') ('60-86', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('polysaccharide_chains', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('molecular_weight', 'NN', '', 'O') ('of', 'IN', '', 'O') ('between', 'IN', 'QUANTITY', 'B') ('2', 'CD', 'QUANTITY', 'I') ('000_and_8000', 'JJ', 'QUANTITY', 'I') ('daltons', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('ratio', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('weight_average_molecular_weight', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('average', 'JJ', '', 'O') ('molecular_weight', 'NN', '', 'O') ('thereof', 'IN', '', 'O') ('ranging', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('1.BIG_TOKEN__3_to_1__BIG_TOKEN6.', 'CD', '', 'O') ('said', 'VBD', '', 'O') ('admixture', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('i', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('exhibiting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('bioavailability', 'NN', '', 'O') ('and', 'CC', '', 'O') ('antithrombotic', 'JJ', '', 'O') ('activity', 'NN', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('heparin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('ii', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('having', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('average', 'JJ', '', 'O') ('molecular_weight', 'NN', '', 'O') ('of', 'IN', '', 'O') ('between', 'IN', '', 'O') ('approximately', 'RB', '', 'O') ('3', 'CD', '', 'O') ('500_and_5500', 'CD', '', 'O') ('daltons', 'NNS', '', 'O')
+60-86 % between 2 000_and_8000
+__NEW_SENT__
+('The', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('marketed', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('LovenoxTHE_R', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('and', 'CC', '', 'O') ('ClexaneTHE_R', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('Europe', 'NNP', 'LOC', 'B') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('effective', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('preventing', 'VBG', '', 'O') ('thromboses', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('blood', 'NN', '', 'O') ('clotting', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('while', 'IN', '', 'O') ('minimizing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('possibility', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hemorrhaging', 'VBG', '', 'O') ('especially', 'RB', '', 'O') ('during', 'IN', '', 'O') ('high-risk', 'JJ', '', 'O') ('surgery', 'NN', '', 'O')
+LovenoxTHE_R the United States Europe
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('the', 'DT', '', 'O') ('advantage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('LMWHs', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('heparin', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('exhibit', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('longer', 'RBR', '', 'O') ('half-life', 'JJ', '', 'O') ('excellent', 'JJ', '', 'O') ('bioavailability', 'NN', '', 'O') ('higher', 'JJR', '', 'O') ('rate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('absorption', 'NN', '', 'O') ('low', 'JJ', '', 'O') ('clearance', 'NN', '', 'O') ('resistance', 'NN', '', 'O') ('to', 'IN', '', 'O') ('degradation', 'NN', '', 'O') ('increased', 'VBN', '', 'O') ('residence', 'NN', '', 'O') ('time', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reduced', 'VBN', '', 'O') ('sensitivity', 'NN', '', 'O') ('to', 'TO', '', 'O') ('serum', 'VB', '', 'O') ('factors', 'NNS', '', 'O')
+
+__NEW_SENT__
+('¡¬618_patent', 'NN', '', 'O') ('col._2,_l._55-', 'NN', '', 'O') ('col._3,_l._26', 'NN', '', 'O')
+
+__NEW_SENT__

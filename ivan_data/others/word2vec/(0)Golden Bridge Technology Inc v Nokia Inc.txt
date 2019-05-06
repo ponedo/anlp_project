@@ -1,0 +1,155 @@
+527_f.3d_1318
+united states court of appeals federal circuit
+golden bridge technology inc. plaintiff-appellant v. nokia inc. defendant and
+lucent technologies inc. defendant-appellee
+no._2007-1215
+| may_21,_2008
+synopsis
+background assignee brought action against competitor alleging infringement of patent that claimed technique to achieve gradual_ramping up of power_signal in code division multiple access cdma mobile_communication_system
+the united_states_district_court for the eastern_district of texas leonard davis j. 2007_wl_294176 granted summary_judgment that patent was invalid as anticipated
+assignee appealed
+
+holdings the court of appeals moore circuit_judge held that
+
+fact issue of whether prior_art_reference disclosed` synchronization prior to transmission' limitation in patent could not be raised by assignee for first_time on appeal ;
+
+assignee did not raise issue before district_court of whether prior_art_reference disclosed` synchronization prior to transmission' limitation in patent ;
+
+clients selection of new_counsel for making appeal did not present exceptional_case or circumstance in which declining appellate review of arguments not presented to district_court would result in injustice ;
+
+court of appeals could not determine in first_instance on appeal what particular prior_art_reference disclosed ; and
+
+assignees argument raised for first_time on appeal without any justification as to what prior_art_reference disclosed did not warrant remand to district_court
+
+affirmed
+
+attorneys and law firms
+*1320 duncan c. turner badgley-mullins law group pllc of seattle wa argued for plaintiff-appellant
+david a. nelson latham & watkins llp of chicago il argued for defendant-appellee
+with him on the brief was david c. mckone
+before michel chief judge newman and moore circuit_judges
+opinion
+moore circuit_judge
+plaintiff-appellant golden_bridge_technology inc. golden_bridge appeals the decision of the united_states_district_court for the eastern_district of texas granting summary_judgment that claims 13_and_23 of u.s. patent no._6574,267 ¡¬267_patent which is assigned to golden_bridge are anticipated by pct publication no
+wo9746041 to hakkinen et al
+( hakkinen and a may 1995 version of a code division multiple access cdma standard called` mobile station-base station compatibility standard for dual-mode wideband spread spectrum cellular system' tia/eia/is-95a is-95a
+we affirm the judgment of the district_court that claims 13_and_23 are anticipated by the hakkinen_reference
+because we affirm the district_court judgment of invalidity on the basis of the hakkinen_reference we do not address the invalidation based upon the is-95a_reference
+
+background
+the mobile_communication_system described in the ¡¬267_patent employs a cdma scheme where multiple mobile_phones communicate at the same time with the same base_station over the same frequency range by using different numerical` spreading codes' in their transmissions.1 if too many mobile_phones are transmitting simultaneously at high power levels the mobile_phones can interfere with each other
+therefore there is a need to have *1321 each mobile phone transmit only as loudly as necessary to be heard by the base_station
+the ¡¬267_patent claims a technique to achieve this result the gradual_ramping up of the power_signal in a cdma system
+
+after golden_bridge filed suit against lucent the district_court held a claim construction hearing and the parties shortly thereafter reached agreement on the construction of certain claim terms at issue in this appeal
+lucent and nokia filed a motion for summary_judgment that the asserted claims of the ¡¬ 267 patent were anticipated by the is-95a and hakkinen_references
+the motion was referred to a magistrate judge who after conducting a hearing and reviewing extensive briefing recommended a finding of invalidity of the asserted claims of the ¡¬267_patent as being anticipated under 35 u.s.c.¡± 102 b by each the is-95a_reference and the hakkinen_reference
+golden_bridge objected and filed another brief articulating the reasons that the hakkinen_reference did not anticipate
+based upon further review and analysis of the evidentiary record the district_court adopted the magistrates report and recommendation
+the district_court then entered summary_judgment of invalidity from which golden_bridge now appeals
+
+discussion
+this court reviews a ruling of summary_judgment de novo
+liebel-flarsheim co. v. medrad inc. 481_f.3d_1371 1377 fed.cir.2007
+although anticipation under 35 u.s.c.¡± 102 is a question of fact it may be decided on summary_judgment if the record reveals no genuine dispute of material_fact
+see gen. elec co. v. nintendo co. 179_f.3d_1350 1353 fed.cir.1999
+the moving party lucent is entitled to summary_judgment` if the pleadings the discovery and disclosure materials on file and any affidavits show that there is no genuine_issue as to any material_fact and that the movant is entitled to judgment as a matter of law'
+fed.r.civ.p
+56 c
+the district_court held that lucent presented sufficient evidence to show that it is entitled to summary_judgment that claims 13_and_23 were anticipated and that golden_bridge did not` set out specific facts showing a genuine_issue for trial' to avoid summary_judgment
+see id
+56 e
+
+the only argument that golden_bridge advances on appeal with regard to whether the hakkinen_reference anticipates-that the hakkinen_reference does not disclose` synchronization prior to the transmission of the preamble.. in the uplink direction' -is an issue of fact never presented to the district_court
+see para-ordnance mfg. inc. v. sgs imps
+int l inc. 73_f.3d_1085 1088 fed.cir.1995 stating what a prior_art_reference discloses is a question of fact
+
+golden_bridge does not contend that this alleged distinction between the claims and the prior_art was subsumed in either its claim construction arguments presented to the district_court or its arguments to distinguish the hakkinen_reference presented to the district_court
+instead golden_bridge unequivocally admits that its factual contention is an entirely new_argument raised for the first_time on appeal and never presented to the district_court
+see reply br
+18 golden_bridge` concedes that it has presented a new_argument..' ; id.at 19 golden_bridge has` introduced a new distinction between the claimed invention and the prior_art
+`` ; oral arg.at 1:43` we do concede that is a new_argument
+``
+
+claim construction was completely resolved with regard to the` synchronization prior to the transmission' limitation prior to the motion for summary_judgment
+*1322 in its summary_judgment_motion lucent contended that the hakkinen_reference taught all the claim limitations of claims 13_and_23
+it presented expert testimony demonstrating how each limitation including the synchronization_limitation was present in the hakkinen_reference
+golden_bridge opposed the motion for summary_judgment of anticipation by the hakkinen_reference solely on the issue that` the random access procedure disclosed and claimed in the ¡¬267_patent differs from the procedure described in the hakkinen publication in the manner in which the mobile station determines whether to re-transmit the preamble'
+it focused solely on what it termed` the preamble_interruption_limitation'
+it never even mentioned the synchronization_limitation which is indisputably distinct from the preamble_interruption_limitation.2
+
+golden_bridge admits that it never argued to the district_court that the hakkinen_reference failed to disclose the` synchronization prior to transmission' limitation
+further golden_bridge does not argue to this court that it was in any way prevented from raising this argument in opposition to the summary_judgment_motion
+in fact golden_bridge had multiple opportunities to present its arguments regarding why the hakkinen_reference failed to anticipate its claims
+it filed an opposition to the summary_judgment_motion in which it detailed its arguments regarding the hakkinen_reference but never mentioned the synchronization_limitation
+it then filed an opposition to the magistrates recommendation of invalidity based upon the hakkinen_reference in which it again detailed its arguments but never mentioned the synchronization_limitation
+at any of these points golden_bridge could have and should have raised its contention that the hakkinen_reference fails to teach the synchronization_limitation of claims 13_and_23
+golden_bridge chose to focus its argument at all times exclusively on the preamble_interruption_limitation
+rather than appealing that issue golden_bridge now raises a new and entirely different ground on appeal-that the hakkinen_reference does not teach` synchronization prior to transmission'
+we can not sanction the iterative process golden_bridge would like to pursue
+it would be unfair to allow golden_bridge to bring some arguments distinguishing the hakkinen_reference during proceedings at the district_court and then only after those arguments have been completely rejected,3 bring entirely different arguments on appeal for the first_time
+
+`` [ i ] t is the general_rule.. that a federal appellate_court does not consider an issue not passed upon below'
+singleton v. wulff 428_u.s._106 120 96_s.ct._2868 49_l.ed.2d_826_(1976)
+our precedent generally counsels against entertaining arguments not presented to the district_court
+sage prods. inc. v. devon indus. inc. 126_f.3d_1420 1426 fed.cir.1997` in short this court does notreview that which was not presented to the district_court`
+while appellate_courts are given the discretion to decide when to deviate from this general_rule of waiver see singleton 428 u.s. at 121 96_s.ct._2868 we *1323 have explained that` prudential considerations' articulated by the supreme court counsel against hearing new_arguments for the first_time on appeal absent limited_circumstances see forshey v. principi 284_f.3d_1335 1353-54 fed.cir.2002 quoting hormel v. helvering 312_u.s._552 556-57 61_s.ct._719 85_l.ed._1037_(1941)
+
+in forshey this court articulated an exemplary set of limited_circumstances in which hearing arguments for the first_time on appeal is appropriate 1` [ w ] hen new legislation is passed while an appeal is pending courts have an obligation to apply the new law if congress intended retroactive application even though the issue was not decided or raised below' 284 f.3d at 1355 ; 2` when there is a change in the jurisprudence of the reviewing court or the supreme court after consideration of the case by the lower_court' id.at 1356 ; 3` appellate_courts may apply the correct law even if the parties did not argue it below and the court below did not decide it but only if an issue is properly before the court' id
+; 4` where a party appeared pro se before the lower_court a court of appeals may appropriately be less stringent in requiring that the issue have been raised explicitly below' id.at 1357
+none of these circumstances are present here and golden_bridge has pointed to no other special circumstances that would counsel in favor of considering its new_argument on appeal in the first_instance
+there is no reason why golden_bridge could not have raised the issue of whether the synchronization_limitation was disclosed in the hakkinen_reference during the summary_judgment_proceedings either before the magistrate judge or before the district_court judge
+this limitation in no way depends upon or derives from the decision proffered below
+this was exactly what was at issue throughout the summary_judgment_proceedings
+golden_bridge can not simply choose to make its arguments in iterative fashion raising a new one on appeal after losing on its other at the district_court
+this is an appellate_court and as such we abide by the general_rule that new_arguments will not be decided in the first_instance on appeal
+golden_bridge offers no arguments which warrant our deviation from this general_rule and no interest of justice that demands our consideration of an issue it could have but failed to raise below
+
+the only explanation offered by golden_bridge for why this court should consider this new_argument on appeal is that it has new_appellate_counsel
+substitution of new_appellate_counsel is not one of or even in proportion to the limited_circumstances outlined in forshey
+new appellate counsel does not present an exceptional_case or circumstance in which our declining review will result in injustice
+to hold otherwise would open the door to every litigant who is unsuccessful at the district_court to simply hire new_counsel and then argue he should get to raise new issues on appeal
+
+in asking us to decide whether the hakkinen_reference discloses synchronization prior to transmission not only does golden_bridge ask us to decide a new issue raised for the first_time on appeal but also is asking an appellate_court to make factual findings
+we decline to determine what a prior_art_reference discloses a fact finding in the first_instance on appeal
+appellate courts review district_court judgments ; we do not find facts
+middleton v. dep't of def. 185_f.3d_1374 1383 fed.cir.1999` [ a ] s an appellate_court we may not find facts..'
+
+finally golden_bridge argues that if we will not decide the issue raised for the first_time on appeal this court should remand the case to the district_court to consider its new_argument because lucent also presents new_arguments and new_evidence on appeal
+golden_bridge contends *1324 that toxgon corp. v. bnfl inc. 312_f.3d_1379 1384 fed.cir.2002 requires this court to remand to the district_court a case where both parties seek to introduce new_arguments regarding the factual distinctions between the claims and the prior_art
+toxgon does not stand for such a proposition
+in toxgon we reversed the district_courts dismissal for lack of subject_matter_jurisdiction
+this reversal warranted a remand to the district_court to consider the merits of the case
+the defendants in toxgon urged this court to affirm the dismissal rather than remand the case by ruling on summary_judgment on their affirmative defense
+we noted that such a ruling would entail deciding numerous factual issues presented for the first_time on appeal and hence we declined to do so
+instead we instructed the parties to submit the new_evidence to the district_court after remand
+our decision to remand the case to the district_court was not based on the fact that both parties in toxgon made new_arguments on appeal but instead was mandated by our reversal of the district_courts dismissal for lack of subject_matter_jurisdiction
+our instruction regarding the new_evidence was simply a matter of course in light of remand
+
+we decline to remand this case to the district_court to decide an argument as to what a prior_art_reference discloses when that argument without any justification is raised for the first_time on appeal
+for the foregoing reasons we affirm the judgment of the district_court that claims 13_and_23 are invalid as anticipated by the hakkinen_reference
+in light of this holding we do not reach the issue of whether the is-95a_reference would have also resulted in invalidity
+
+affirmed
+
+all citations
+527_f.3d_1318 87_u.s.p.q.2d_1049
+footnotes
+1
+spreading codes enable the mobile_phones and the base_station to distinguish a particular wireless communication from other concurrent communications
+see ¡¬267_patent col.5 ll.4-7 and ll.28-30
+2
+the preamble_interruption_limitation focuses on transmission
+the synchronization_limitation focuses on what must happen prior to transmission
+3
+although it is not relevant to our determination of waiver of the argument related to the synchronization_limitation we do note that golden_bridge completely abandoned the preamble_interruption_limitation arguments the arguments made below on appeal and has therefore waived any appeal of that determination
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+golden_bridge_technology inc. v. nokia inc. 527_f.3d_1318 2008 87_u.s.p.q.2d_1049
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

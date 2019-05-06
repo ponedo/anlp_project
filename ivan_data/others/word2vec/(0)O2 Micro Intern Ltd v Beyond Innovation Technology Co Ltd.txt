@@ -1,0 +1,412 @@
+521_f.3d_1351
+united states court of appeals federal circuit
+o2 micro international limited plaintiff-appellee v. beyond innovation technology co. ltd. defendant-appellant and
+fsp_group and spi_electronic_co. ltd. defendants-appellants and
+lien_chang electronic enterprise co. ltd. defendant-appellant
+nos._2007-1302 2007-1303 2007-1304
+| april_3,_2008
+| rehearing and rehearing en banc denied june_11,_2008
+synopsis
+background owner of patents relating to inverter_controllers which convert low_voltage_direct_current dc into higher_voltage alternating current ac brought infringement action against competitors
+the united_states_district_court for the eastern_district of texas t. john ward j. 2007_wl_869576 inter_alia granted patent_owner a permanent_injunction
+competitors appealed
+
+holdings the court of appeals prost circuit_judge held that
+
+competitors did not waive on appeal any objection to claim_construction determined at markman_hearing ;
+
+arguments regarding the meaning and legal_significance of` only if' limitation were improperly submitted to the jury ; and
+
+prosecution_history_estoppel barred patent_owner from relying on the doctrine of equivalents
+
+vacated and remanded
+
+attorneys and law firms
+*1353 james pooley morrison & foerster llp of palo alto ca argued for plaintiff-appellee
+with him on the brief was bryan wilson
+of counsel on the brief was richard s.j
+hung of san_francisco ca
+of counsel were duane h. mathiowetz howrey llp of san_francisco ca ; and richard c. lin and henry c. su of east palo alto ca
+stanley young heller ehrman llp of menlo park ca argued for defendant- *1354 appellant beyond innovation_technology co. ltd. with him on the brief was sarah r. houghland
+of counsel on the brief were johnny cheng-teh chiu of washington dc ; e. joshua rosenkranz of new york ny ; and ethan c. glass of san_francisco ca
+gregory w. carr carr llp of dallas tx for defendants-appellants fsp_group and spi_electronic_co. ltd. with him on the brief was theodore f. shiells
+mao-sen_yieh law offices of mao-sen_yieh of houston tx for defendant-appellant lien_chang electronic enterprise co. ltd. before lourie circuit_judge clevenger senior circuit_judge and prost circuit_judge
+opinion
+prost circuit_judge
+defendants-appellants beyond innovation_technology company limited` bitek' spi electronic company limited and fsp_group collectively` spi/fsp' and lien_chang electronic enterprise company limited` lien_chang' appeal a final_judgment by the united_states_district_court for the eastern_district of texas
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 2007_wl_869576 e.d.tex
+mar
+21 2007
+a jury found that defendants-appellants willfully induced the infringement of claims 1 15 35 and 39 of u.s._patent_no._6259,615` the ¡¬615_patent` claims 12_and_16 of u.s._patent_no._6396,722` the ¡¬722_patent` and claims 13 16 and 17 of u.s._patent_no._6804,129` the ¡¬129_patent` all of which are owned by plaintiff-appellee o2_micro_international ltd.` o2_micro'
+the district_court entered a final_judgment and permanent_injunction
+for the reasons explained below we vacate and remand for further_proceedings
+
+i
+background
+a. patents-in-suit
+the patents-in-suit1 are directed to dc-to-ac_converter_circuits which convert low_voltage_direct_current` dc' into higher_voltage alternating current` ac'
+also called inverter_controllers these circuits may be used to control the amount of power delivered to cold cathode fluorescent lamps` ccfls' that are used to backlight the screens of laptop computers and televisions
+when powered by a battery or other dc power source a ccfl uses a dc-to-ac_converter_circuit because ccfls are designed to run on ac power
+the patents-in-suit describe a converter_circuit that employs a feedback_control_loop to control the amount of power delivered from the dc power source the` drive' to the ccfl the` load'
+
+as shown in figure 2 of the ¡¬615_patent the converter_circuit includes a number of switches 80 placed between the drive 12 and the load 20
+drive circuitry 50 associated with each switch determines when and how long a given switch will be turned on` on time'
+if a pair of switches along a conduction path are on simultaneously the circuit will deliver more power to the load
+thus by adjusting the overlap between switches on_times the circuit can precisely control the amount of power delivered to the load
+
+*1355. ?
+¡¬615_patents figure 2
+the converter_circuit uses a feedback_control_loop 40 to affect the switches on_times
+to the feedback_control_loop the converter_circuit provides a feedback_signal fb indicative of the total_current and thus power at the load and a reference_voltage ref indicative of the desired load conditions for example the desired total_current at the load
+an error amplifier 32 compares the feedback_signal fb and the reference_voltage ref to produce a comparison_signal cmp
+during normal_operation the drive_circuitry 50 receives the comparison_signal 94 and may use it to adjust the switches on_times thereby regulating the power to the load
+to protect the circuitry from damage during an open-circuit condition such as when a ccfl breaks or becomes disconnected the feedback_signal fb may also be compared to a reference_value not shown in figure 2 at the current_sense_comparator 42
+this reference_value preferably reflects the minimum or maximum current permitted by the system
+thus when the value of the feedback_signal fb is within a permitted range i.e. during normal_operation the current_sense_comparator 42 allows the comparison_signal cmp to flow through switch 38 ; however when the value of the feedback_signal is outside that range e.g. during an open circuit or short circuit condition the current_sense_comparator substitutes a minimum_voltage vmin for the comparison_signal cmp at switch 38
+in the latter case the minimum_voltage minimizes the overlap of the switches on_times reducing the power to a safer level while avoiding shutdown if the lamp remains operable
+
+during prosecution of the application the examiner rejected the ¡¬615_patent under 35 u.s.c.¡± 103 as unpatentable over a combination of u.s. patent no._5384,516 to kawabata` kawabata' and u.s._patent_no._6011,360 to gradzki` gradzki'
+*1356 the examiner observed that the feedback loop described in the originally filed claims was obvious stating that` gradzki_et_al
+teaches the utilization of the technique for a feedback loop circuit between the load and the drive_circuitry supplying a feedback_signal indicative of power being supplied to the load'
+j.a
+7638
+the examiner found that like the applications pending claims gradzki discloses an inverter_controller that regulates lamp_power irrespective of the level of the feedback_signal
+
+in response to the examiners rejection o2_micro added a limitation to each of the independent_claims
+specifically o2_micro amended claim 1 of the ¡¬ 615 patent to require that the feedback_control_loop_circuit control the conduction_state of the switches` only if said feedback_signal is above a predetermined threshold' the`only if limitation'
+o2_micro provided little_explanation for the amendment stating that` [ i ] n contrast to [ the prior_art ] applicants invention of independent_claim 1 requires inter_alia a dc/ac_converter_circuit that includes a feedback_control_loop_circuit.. adapted to generate a second_pulse_signal.. only if said feedback_signal is above a predetermined threshold'
+j.a
+7626
+after receiving this amendment the examiner issued a notice of allowance
+
+claim 1 of the ¡¬615_patent is representative of the asserted claims for the issues presented by this appeal
+as issued it requires in relevant part a dc/ac_converter_circuit comprising a feedback_control_loop_circuit receiving a feedback_signal indicative of power being supplied to said load and adapted to generate a second_signal_pulse_signal for controlling the conduction_state of said second_plurality of switches only if said feedback_signal is above a predetermined threshold ;615_patent col. 10 l.67-col. 11 l.5
+
+b
+accused devices
+bitek manufactures and sells inverter_controllers
+spi/fsp and lien_chang manufacture and sell inverter modules incorporating biteks inverter_controllers
+o2_micro alleged that four of biteks products bit3105 bit3106 bit3107 and bit3193 infringe one or more of the patents-in-suit
+the parties concede that for the purposes of this litigation the first three products bit3105 bit3106 and bit3107 are the same and the fourth bit3193 differs from the others in only one material respect
+
+biteks inverter_controllers have feedback_control_loops
+the controllers are capable of shutting off the feedback_signals control over power when a feedback_signal falls below a predetermined threshold
+the parties dispute whether this feature satisfies the` only if' limitation recited by the asserted claims which requires` a feedback_control_loop_circuit.. adapted to generate a second_signal_pulse_signal for controlling.. [ the ] switches only if said feedback_signal is above a predetermined threshold'
+( emphasis added
+
+bitek submits that its inverter_controllers do not satisfy this limitation in two circumstances because during those circumstances the feedback_signal in biteks switch continues to control the power delivered to the load even though the feedback_signal falls below the predetermined threshold
+the first_circumstance is when an unlit lamp lights up called` start-up' or` ignition'
+bitek asserts that during the ignition period the feedback_signal is below the predetermined threshold but the feedback_circuit still controls power delivered to the load in violation of the claims requirements
+this *1357 first_circumstance applies to all four products
+the second circumstance applies only to the bit3193 product which implements a 32-microsecond_delay
+during this delay period the feedback_circuit is designed to continue to rely on the feedback_signal to control the power for 32 microseconds after the feedback_signal falls below the predetermined threshold
+such a delay was purposely created to ensure that the feedback_signal would not cease to control the power to the load because of a temporary fall below the threshold
+
+on appeal bitek relies exclusively on these two circumstances to avoid infringement under the claim asserting that the` only if' limitation is therefore not satisfied
+o2_micro on the other_hand asserts that this limitation is satisfied by the accused devices
+first o2_micro argues that the claims do not apply in the two circumstances identified by bitek
+second o2_micro disputes biteks allegations regarding the operation of its devices during those circumstances and consequently asserts that even if the claims apply the accused devices still infringe
+
+c. district court proceedings
+in january 2004 o2_micro filed suit against bitek spi/fsp and lien_chang in the united_states_district_court for the eastern_district of texas
+o2_micro alleges that biteks inverter_controllers infringe several claims of the ¡¬ 615 patent the ¡¬722_patent and the ¡¬129_patent
+while defendants-appellants are foreign entities that operate abroad defendants-appellants inverter_controllers and modules are used in monitors sold in the united states
+
+the district_court held a markman_hearing in august 2005
+the parties agreed for the most part that a previously issued claim_construction_order from a different case pending before the same court controlled in this case
+see o2_micro_int l ltd. v. sumida corp. 2:03-cv-07 e.d.tex
+mar._8,_2005 claim_construction_order construing claim_language in the same patents
+however the parties presented a handful of additional_terms for the court to construe
+the claim_term` only if' one of the additional_terms disputed by the parties is the only term whose construction was appealed to this court
+
+at the markman_hearing defendants-appellants argued that the district_court should construe the claim_term` only if' but disagreed regarding what specific meaning should be ascribed to it
+defendants-appellants bitek and lien chen asserted that` only if' should mean` exclusively or solely in the event that' while defendant spi/fsp asserted that it should mean` never except when'
+in spite of the differences in word choice defendants-appellants seemed to agree that these constructions are substantially identical in meaning
+o2_micro on the other_hand maintained that no construction was necessary because the claim_term` only if' consists of` two simple plain english words'
+during the hearing the district_court astutely summarized the dispute as concerning whether or not` there can be an exception' to the` only if' language
+however in its markman order the district_court ruled that this term` needs no construction' because it` has a well-understood definition capable of application by both the jury and this court in considering the evidence submitted in support of an infringement or invalidity_case'
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 e.d.tex
+aug._26,_2005
+
+during pre-trial proceedings bitek filed a motion in limine seeking to prevent o2_micro from alleging infringement under the doctrine of equivalents as to the` only if' limitation asserting that prosecution *1358 history estoppel barred that theory
+the district_court originally granted this motion instructing o2_micro to first approach the bench before` offering any evidence relating to infringement of theonly if limitation under the doctrine of equivalents'
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 e.d.tex
+may_2,_2006
+however after considering supplemental briefing the district_court changed course ruling that o2_micro was allowed to argue that the` only if' limitation is infringed under the doctrine of equivalents
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 e.d.tex
+may_8,_2006
+without any analysis the district_courts opinion simply stated` the court.. is persuaded by o2s argument that the amendment bears only a tangential_relationship to the equivalent at issue'
+id
+( also citing insituform techs. inc. v. cat contracting inc. 385_f.3d_1360 1370 fed.cir.2004
+
+at trial the` only if' limitation was a key issue disputed by the parties
+o2_micro presented evidence that the accused devices satisfied the` only if' limitation both literally and under the doctrine of equivalents
+defendants-appellants presented evidence to the contrary
+moreover both parties presented arguments regarding whether or not the` only if' claim_language allows exceptions
+
+after trial the parties submitted proposed verdict forms that asked separate questions regarding literal_infringement and infringement under the doctrine of equivalents
+the district_court generated a jury form containing general questions regarding` infringement' and included jury_instructions explaining that a claim_limitation may be satisfied either literally or under the doctrine of equivalents
+after deliberations the jury found that each defendant-appellant had induced infringement of each asserted claim of each patent
+the jury also found that lien_chang contributorily infringed and all three defendants-appellants willfully infringed
+defendants-appellants timely appealed to this court
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+
+ii
+discussion
+as noted above the district_court provided a general_verdict_form that asked the jury whether each defendant` infringe [ d ]' each of the asserted claims
+the corresponding jury_instructions explained that infringement may be found either literally or under the doctrine of equivalents
+on appeal defendants-appellants allege error in both theories of infringement liability
+first defendants-appellants contend that the district_courts failure to construe the claim_term` only if' was legal_error that infected the literal_infringement inquiry
+second defendants-appellants assert that the jury should not have been permitted to find infringement under the doctrine of equivalents
+we address each of these arguments in turn
+
+a
+claim construction
+with respect to literal_infringement the parties dispute whether the district_courts failure to construe the claim_term` only if' was legal_error
+as a threshold matter however o2_micro argues that defendants-appellants waived any challenge to the construction of` only if' by 1 failing to object to the jury_instructions as lacking a construction of that claim_term and 2 offering a different construction of the claim_term on appeal than was presented to the district_court
+before addressing the claim_construction issue on the merits we turn to these waiver arguments
+
+first o2_micro contends that defendants-appellants have waived any challenge to the construction of` only if' because defendants-appellants failed to *1359 object to the jury_instructions as lacking a construction of that term
+o2_micro acknowledges that defendants-appellants presented these arguments during the markman_hearing and that the district_court issued a claim_construction_order months before trial
+o2_micro asserts however that a party waives its objections to a claim_construction by not objecting to the jury_instructions containing or in this case lacking that construction
+
+in response defendants-appellants argue that the purpose of a markman_hearing is to determine the meaning of claim_terms
+a claim_construction_order always dictates how the court will instruct the jury regarding a claims scope
+because these issues were fully litigated and decided at the markman stage of the litigation defendants-appellants assert that no objection to the jury_instruction was required to preserve error
+we agree
+
+`` when the claim_construction is resolved pre-trial and the patentee presented the same position in the markman proceeding as is now pressed a further_objection to the district_courts pre-trial ruling may indeed have been not only futile but unnecessary'
+cardiac_pacemakers inc. v. st. jude med. inc. 381_f.3d_1371 1381 fed.cir.2004 under seventh circuit law
+the same holds true in the fifth circuit
+taita chem co. v. westlake styrene lp 351_f.3d_663 667 5th cir.2003 stating that there is no need to object where a litigant` had previously filed sufficient objections' ; rizzo v. childrens world learning ctrs. inc. 213_f.3d_209 223 5th cir.2000` failure to object [ to a proposed jury_instruction ] may be disregarded if the partys position has previously been made clear to the court and it is plain that a further_objection would have been unavailing
+`` ; bender v. brumley 1_f.3d_271 277 5th cir.1993 finding` oral on-the-record objections to the jury charge' were not required to preserve objection where appellant` had earlier filed written objections to the proffered jury_instructions'
+the district_court in this case as in cardiac_pacemakers rendered a claim_construction_order following a markman_hearing during which the parties positions were fully litigated
+because defendants-appellants position was previously made clear to the district_court and the district_court did not clearly indicate that it was open to changing its claim_construction defendants-appellants need not have renewed their objections by reasserting them when jury_instructions were given
+
+second o2_micro also asserts that defendants-appellants have waived their proposed claim_constructions of` only if' by asserting a new construction on appeal
+contending that defendants-appellants current construction is that` only if' allows for` no exceptions' o2_micro notes that the word` exception' was never used in defendants-appellants claim_construction briefs
+defendants-appellants respond by re-affirming the construction proposed to the district_court-namely` only if' means` solely or exclusively in the event that'
+defendants-appellants argue that while the arguments advanced in support of their construction may have changed the construction itself remains the same
+defendants-appellants note that these new_arguments simply recognize that the effect of their proposed construction is to prohibit exceptions to the` only if' limitation
+
+we agree with defendants-appellants that no waiver has occurred
+while` a waiver may occur if a party raises a new issue on appeal.. [ a ] waiver will not necessarily occur.. if a party simply presented new or additional arguments in support ofthe scope of its claim_construction..` ccs fitness inc. v. brunswick corp. 288_f.3d_1359 1370-71 fed.cir.2002 citation omitted
+defendants-appellants *1360 propose the same construction on appeal as was presented to the district_court
+while defendants-appellants employ different arguments in support these new_arguments simply incorporate an understanding of the parties dispute that has developed through the course of litigation
+at the claim_construction_hearing the district_court astutely recognized that the dispute` boils down to whether [ the court ] believe [ s ] there can be an exception'
+thus we conclude defendants-appellants have not waived these arguments
+
+accordingly we turn to the merits of defendants-appellants appeal of the district_courts failure to construe the claim_term` only if'
+on appeal defendants-appellants argue that the district_courts failure to construe the claim_term` only if' was error because the parties disputed whether or not this claim_language allows for exceptions
+defendants-appellants assert that because this presents an issue of claim_construction it is a question of law that must be decided by the court
+in defendants-appellants view by failing to provide a construction of this term the district_court effectively submitted a legal question to the jury
+defendants-appellants also argue that the district_court erred by allowing the jury to reach a verdict based upon an erroneous legal conclusion-namely that` only if' allows exceptions
+
+o2_micro counters that the claim_term` only if' does not need to be construed because the parties agree that the term is a` common term' with a` common_meaning'
+o2_micro notes that this court has repeatedly held that a district_court is not obligated to construe terms with ordinary_meanings,2 lest trial courts be inundated with requests to parse the meaning of every word in the asserted claims
+
+the purpose of claim_construction is to` determin [ e ] the meaning and scope of the patent claims asserted to be infringed'
+markman v. westview_instruments inc. 52_f.3d_967 976 fed.cir.1995 en banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+when the parties raise an actual dispute regarding the proper_scope of these claims the court not the jury must resolve that dispute
+see id.at 979 holding that claim_construction is a matter of law
+
+words of a claim are generally given their ordinary and customary meaning which is the meaning a term would have to a person of ordinary_skill in the art after reviewing the intrinsic_record at the time of the invention
+phillips v. awh corp. 415_f.3d_1303 1312-13 fed.cir.2005 en banc
+`` in some cases the ordinary_meaning of claim_language.. may be readily apparent even to lay judges and claim_construction in such cases involves little more than the application of the widely accepted meaning of commonly understood words'
+id.at 1314
+however in many cases the meaning of a claim_term as understood by persons of skill in the art is not readily apparent
+id
+
+in this case the parties dispute whether or not the` only if' limitation allows for exceptions
+o2_micro asserts that the claims would be understood by one of ordinary_skill in the art to only apply to` the steady_state_operation of the switching circuit'
+defendants-appellants disagree and submit that the claims apply at all times-not just to steady_state_operation-with no exceptions
+there are two circumstances *1361 in which defendants-appellants assert that the` only if' limitation is not satisfied 1 the pre-ignition start-up phase and 2 a 32-microsecond_delay
+accordingly defendants-appellants seek a construction that specifies that` only if' has no exceptions and is not limited to` steady_state_operation'
+
+during the claim_construction_hearing the district_court acknowledged that this dispute over the scope of the asserted claims` boils down to whether i believe there can be an exception'
+however the district_court declined to construe this term stating the term` only if' needs no construction aside from the construction previously adopted by the court for the phrases in which the term appears
+it is true as defendants argue that elekta_instrument s.a. v. o.u.r
+scientific international inc. 214_f.3d_1302_(fed.cir.2000) applies the ordinary_meaning of` only' being solely ; exclusively to a claim_term and evaluates the evidence in that light
+nothing in elekta_instrument however requires the court to construe claim_terms that have a well-understood meaning
+`` only if' has a well-understood definition capable of application by both the jury and this court in considering the evidence submitted in support of an infringement or invalidity_case
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 slip op.at 2 e.d.tex
+aug._26,_2005
+we find this decision to be in error because while elekta_instrument may not require the court to construe this claim_term we find that markman does
+
+the parties presented a dispute to the district_court regarding the scope of the asserted claims-what do the patents mean when they say that the feedback_signal controls power` only if said feedback_signal is above a predetermined threshold' ?
+o2_micro contends that this` only if' limitation only applies during` steady_state_operation' while defendants-appellants contend that the` only if' limitation applies at all times without exception
+this dispute over the scope of the asserted claims is a question of law
+in deciding that`only if needs no construction' because the term has a` well-understood definition' the district_court failed to resolve the parties dispute because the parties disputed not the meaning of the words themselves but the scope that should be encompassed by this claim_language
+
+a determination that a claim_term` needs no construction' or has the` plain and ordinary_meaning' may be inadequate when a term has more than one` ordinary' meaning or when reliance on a terms` ordinary' meaning does not resolve the parties dispute
+in this case for example the parties agreed that` only if' has a common_meaning but then proceeded to dispute the scope of that claim_term each party providing an argument identifying the alleged circumstances when the requirement specified by the claim_term must be satisfied e.g. at all times or during steady_state_operation
+in this case the` ordinary' meaning of a term does not resolve the parties dispute and claim_construction requires the court to determine what claim scope is appropriate in the context of the patents-in-suit
+this court has construed other` ordinary' words for these and other related reasons
+see e.g. nystrom v. trex co. 424_f.3d_1136 1143 fed.cir.2005 construing` board' in light of intrinsic_record ; unitherm food sys. inc. v. swift-eckrich inc. 375_f.3d_1341 1350 fed.cir.2004 construing` golden brown' even though colors` are commonly used terms with well-accepted plain definitions that rarely need construction' revd on other *1362 grounds 546_u.s._394 126_s.ct._980 163_l.ed.2d_974_(2006) ; toro co. v. white consol
+indus. inc. 199_f.3d_1295 1299 fed.cir.1999 construing` cover'` included'` attachment' and` removable'
+
+when the district_court failed to adjudicate the parties dispute regarding the proper_scope of` only if' the parties presented their arguments to the jury
+by failing to construe this term the district_court left the jury free to consider these arguments
+o2_micro presented expert testimony to support its argument that the claim_limitation` only if' applies only during certain periods of operation-' normal_operation' -and that this claim_limitation` has nothing to do with start-up'
+o2_micro also brought the inventor of the patents-in-suit to testify regarding the meaning of` only if' q what did the additional language` only if said feedback_signal is above a predetermined threshold' pertain to ?
+a actually in my opinion specification did not change
+`` only if' between my patent lawyer and examiner they added in to try to clarify make the entire invention more easier to understand
+i think thats what it is
+to me theres no change to my original inventions intent
+... q so if the only time it makes any sense to use feedback to control power to a lamp is after its lit after this threshold is reached what did you give up if anything by adding the` only if' language to the claims ?
+a i do n't think i gave up anything
+i think it just make it clear that you and i can understand
+only when the lamp is lit.. we control power at that time
+j.a
+6550-51
+likewise defendants-appellants argued to the jury that` only if' does not allow for exceptions
+for the reasons stated the parties arguments regarding the meaning and legal_significance of the` only if' limitation were improperly submitted to the jury.3
+
+we however recognize that district_courts are not and should not be required to construe every limitation present in a patents asserted claims
+see e.g. biotec_biologische_naturverpackungen_gmbh & co._kg v. biocorp inc. 249_f.3d_1341 1349 fed.cir.2001 deciding that disputed issue was the proper application of a claim_term to an accused process rather the scope of the term ; u.s. surgical corp. v. ethicon inc. 103_f.3d_1554 1568 fed.cir.1997 claim construction` is not an obligatory exercise in redundancy`
+rather` [ c ] laim construction is a matter of resolution of disputed meanings and technical scope to clarify and when necessary to explain what the patentee covered by the claims for use in the determination of infringement'
+u.s. surgical 103 f.3d at 1568
+when the parties present a fundamental dispute regarding the scope of a claim_term it is the courts duty to resolve it
+because we determine that *1363 the district_court is in the best position to determine the proper_construction of this claim_term in the first instance we remand for further_proceedings consistent with this opinion.4
+
+b. doctrine of equivalents
+we turn now to defendants-appellants arguments with respect to the doctrine of equivalents.5` the doctrine of equivalents allows the patentee to claim those insubstantial alterations that were not captured in drafting the original patent claim but which could be created through trivial changes'
+festo corp. v. shoketsu_kinzoku_kogyo_kabushiki_co. 535_u.s._722 733 122_s.ct._1831 152_l.ed.2d_944_(2002)
+however when a patent claim is narrowed during prosecution prosecution_history_estoppel may limit application of the doctrine of equivalents
+int l rectifier corp. v. ixys corp. 515_f.3d_1353 1358 fed.cir.2008
+`` [ w ] e review issues relating to the application of prosecution_history_estoppel de novo'
+conoco inc. v. energy & envtl
+int l l.c. 460_f.3d_1349 1357 fed.cir.2006
+
+on appeal defendants-appellants argue that the district_court erred in allowing the jury to find infringement under the doctrine of equivalents
+defendants-appellants contend that because the claim_term` only if' was added during prosecution to overcome a prior_art rejection the festo_presumption should apply
+according to defendants-appellants because o2_micro has failed to rebut this presumption it should not have been allowed to argue that the accused devices infringe under the doctrine of equivalents
+accordingly defendants-appellants find error in the jury_instruction allowing for infringement under the doctrine of equivalents and o2_micros arguments at trial alleging infringement on this basis
+
+o2_micro agrees that the addition of` only if' constituted a narrowing amendment made for a substantial_reason relating to patentability
+however o2_micro appears to offer two alternate theories for why festo should not apply
+at the district_court o2_micro attempted to rebut the festo_presumption by arguing that the alleged equivalent is merely tangential to this amendment
+on appeal o2_micro supplements this argument asserting that the doctrine of equivalents should presumptively be available for other_claim_terms namely` feedback_signal' and` adjustment' because these terms were not added by amendment
+
+we agree with defendants-appellants that prosecution_history_estoppel prevents application of the doctrine of equivalents for the` only if' limitation
+the parties agree that the` only if' limitation was added to the claims by a` narrowing amendment.. made for a substantial_reason relating to patentability'
+see festo corp. v. shoketsu_kinzoku_kogyo_kabushiki_co. 344_f.3d_1359 1367 fed.cir.2003 en banc
+thus the festo_presumption applies *1364 to this limitation and in order to avail itself of the doctrine of equivalents o2_micro must rebut the` presumption that the patentee has surrendered all territory between the original claim_limitation and the amended claim_limitation'
+id
+; accord festo 535 u.s. at 740 122_s.ct._1831` [ t ] he patentee should bear the burden of showing that the amendment does not surrender the particular equivalent in question`
+the supreme court provided three vehicles6 through which a plaintiff may do so
+festo 344 f.3d at 1368
+neither party has argued either that the equivalent was unforeseeable or that there was` some other_reason' why the patentee could not have described the alleged equivalent
+see id
+accordingly we turn directly to the issue of whether the rationale behind the narrowing amendment was merely tangential i.e. peripheral or not directly relevant to the alleged equivalent
+see id
+
+`` [ t ] he inquiry into whether a patentee can rebut the festo_presumption under thetangential criterion focuses on the patentees objectively apparent reason for the narrowing amendment'
+id.at 1369 emphasis added
+in order to maintain the public notice function of a patent` that reason should be discernible from the prosecution_history record'
+id
+; see id.at 1371-72 holding that amendment was not tangential to accused equivalent because the prosecution_history reveals no reason for the amendment ; biagro w. sales inc. v. grow more inc. 423_f.3d_1296 1306 fed.cir.2005` [ w ] hether the patentee has overcome the presumption on this ground is determined by the court on the basis of the public record`
+`` [ i ] f the patentee fails to rebut the festo_presumption then prosecution_history_estoppel bars the patentee from relying on the doctrine of equivalents for the accused element'
+festo 344 f.3d at 1367
+
+in ruling that the doctrine of equivalents was available with respect to the` only if' limitation the district_court simply stated that it was` persuaded by o2s argument that the amendment bears only a tangential_relationship to the equivalent at issue'
+o2_micro_int l ltd. v. beyond innovation_tech co. no._204-cv-32 e.d.tex
+may_8,_2006
+without the benefit of the district_courts explanation of its rationale we examine the prosecution_history and parties arguments to the district_court
+
+during prosecution the examiner rejected the ¡¬615_patent as obvious in light of gradzki
+gradzki discloses an inverter_controller that regulates lamp_power irrespective of the level of the feedback_signal
+in response to the examiners rejection o2_micro added the` only if' language to the independent_claims amending claim 1 of the ¡¬615_patent for example to require that the feedback_control_loop_circuit controls the conduction_state of the switches` only if said feedback_signal is above a predetermined threshold'
+o2_micro provided little_explanation for the amendment merely stating [ t ] he examiner looks to gradzki_et_al
+as disclosing a feedback technique to generate a feedback_signal indicative of power being supplied to the load
+significantly however gradzki_et_al
+discloses a feedback_system maintains [ sic ] the voltage at the crect pin equal to the voltage at the din pin thereby *1365 regulating lamp_power gradzki_et_al. column 4 lines 64-67
+in contrast to [ the prior_art ] applicants invention of independent_claim 1 requires inter_alia a dc/ac_converter_circuit that includes a feedback_control_loop_circuit between the load and the drive_circuitry receiving a feedback_signal indicative of power supplied to the load and adapted to generate a second_pulse_signal for controlling the conduction_state of a second_plurality of switches only if said feedback_signal is above a predetermined threshold
+applicants invention of independent_claim 18 has been similarly amended
+j.a
+7626
+
+to begin o2_micro correctly notes that prosecution_history_estoppel is a` flexible' doctrine not a` rigid' one
+see festo 535 u.s. at 738 122_s.ct._1831
+o2_micro then asserts that` theonly if language distinguished gradzki by claiming a feedback_system responsive to the feedback_signals being above or below a predetermined threshold' which is tangential to whether or not the feedback_signal is used during` ignition of the lamp' and other non-steady_state_operations
+essentially o2_micro argues that exceptions to the` only if' limitation e.g. during non-steady_state_operations are merely tangential to the limitation itself
+we find this argument to be without merit
+the` objectively apparent' reason for the patentees amendment was to require the feedback_circuit to be operational` only if said feedback_signal is above a predetermined threshold' as the claim_language clearly states
+no other_reason is provided or suggested by the prosecution_history
+the equivalent alleged by o2_micro is a feedback_circuit that during non-steady_state_operations may be operational even though the claim_language is not satisfied i.e. the feedback_signal is not above the predetermined threshold
+this equivalent is simply not tangential to the reason for the amendment
+thus it was error for the district_court to allow the jury to consider infringement under the doctrine of equivalents
+
+on appeal o2_micro supplements its argument supporting the doctrine of equivalents_instruction by asserting that the instruction was proper because the jury could have found that other_claim_terms were infringed by the doctrine of equivalents
+noting that the terms` feedback_signal' and` adjustment' were present in the originally filed claims o2_micro argues that its experts equivalents analysis focused on these terms not the` only if' claim_language
+o2_micro also alleges that the doctrine of equivalents_instruction would not be error so long as the jury could have found any limitation to be met by equivalents
+
+the record however does not support this argument
+the district_courts equivalents ruling focused on` only if' not` feedback_signal' or` adjustment'
+defendants-appellants original motion in limine sought to prevent o2_micro from arguing equivalents to` only if'
+the district_courts decisions recognize that this was the claim_term at issue for the purposes of these discussions
+at trial o2_micro asked its expert dr._rhyne` [ d ] o theonly if limitations also infringe under the doctrine of equivalents ?'
+j.a
+6328
+in response dr._rhyne explained why the reaction of the circuit was` essentially the same as it would be even if the feedback were not present'
+id
+
+o2_micro points to no portion of the record where it argued that the accused devices satisfied the` feedback_signal' or` adjustment' limitations under the doctrine of equivalents
+in o2_micros brief it asserts that only three pages of trial testimony directly addressed the issue of equivalents ; however in these pages o2_micros expert opines that the asserted *1366 equivalents are insubstantially different from the` only if' limitation with no discussion regarding either` feedback_signal' or` adjustment'
+while o2_micro points to two additional excerpts of the trial transcript the generalized testimony regarding` virtually insignificant' current flow is insufficient to establish that either the` feedback_signal' or` adjustment' limitations were infringed under the doctrine of equivalents
+see warner-jenkinson co. v. hilton davis chem co. 520_u.s._17 29 117_s.ct._1040 137_l.ed.2d_146_(1997)` [ t ] he doctrine of equivalents must be applied to individual elements of the claim not to the invention as a whole
+`` ; tex instruments inc. v. cypress semiconductor corp. 90_f.3d_1558 1567 fed.cir.1996` generalized testimony as to the overall similarity between the claims and the accused infringers product or process will not suffice [ to prove infringement under the doctrine of equivalents ]
+``
+
+accordingly we agree with defendants-appellants that the district_court erred in allowing the jury to find infringement under the doctrine of equivalents
+because we vacate the jury_verdict the remaining issues raised by defendants-appellants which are premised on that jury_verdict are rendered moot
+
+iii
+conclusion
+for the above reasons we vacate the jury_verdict the final_judgment of infringement and the permanent_injunction and we remand to the district_court for further_proceedings consistent with this opinion
+
+costs
+each party shall bear its own costs
+
+vacated and remanded
+
+all citations
+521_f.3d_1351 86_u.s.p.q.2d_1304
+footnotes
+1
+the patents-in-suit are related-the ¡¬129_patent is a continuation of a continuation of the ¡¬722_patent which is a continuation of the ¡¬615_patent -and share a common specification
+for simplicity we refer to the disclosure of the ¡¬615_patent and omit the parallel citations to the ¡¬722_patent and the ¡¬129_patent
+2
+e.g. biotec_biologische_naturverpackungen_gmbh & co._kg v. biocorp inc. 249_f.3d_1341 1349 fed.cir.2001 finding no error in non-construction of` melting' ; mentor h/s inc. v. med
+device alliance inc. 244_f.3d_1365 1380 fed.cir.2001 finding no error in courts refusal to construe` irrigating' and` frictional heat'
+3
+we note in passing that the parties claim_construction_arguments are fraught with problems
+first an inventors self-serving statements are rarely relevant to the proper_construction of a claim_term
+bell & howell document mgmt
+prods
+v. altek sys. 132_f.3d_701 706 fed.cir.1997
+second the parties claim_construction_arguments appear to contain no support from the intrinsic_record
+see phillips 415 f.3d at 1314-19 emphasizing the importance of the intrinsic_record in claim_construction
+these deficiencies support the rationale underlying the rule that the court and not the jury should resolve claim_construction disputes
+see markman v. westview_instruments inc. 517_u.s._370 388-89 116_s.ct._1384 134_l.ed.2d_577_(1996) explaining why judges` are the better suited to find the acquired meaning of patent terms'
+4
+o2_micro also argues that if the failure to construe` only if' was error it was not prejudicial error because o2_micro presented evidence sufficient to prove literal_infringement under the construction proposed by defendants-appellants
+defendants-appellants on the other_hand contend that a construction of` only if' would certainly have changed the result
+we do not find the infringement evidence to be clearly in favor of either party and can not conclude that the lack of a construction did not result in harm
+5
+o2_micro asserts that the jury_verdict which found` infringement' should not be vacated unless we find error in both theories of liability i.e. literal_infringement and infringement under the doctrine of equivalents
+under o2_micros theory the jury_verdict must be upheld if the jury could have found infringement under either theory because defendants-appellants failed to object to the district_courts use of a general_verdict_form
+because we find error in both literal_infringement and infringement under the doctrine of equivalents we need not decide this issue
+6
+the three vehicles are` 1the alleged equivalent would have been unforeseeable at the time.. the narrowing amendment was made ; 2the rationale underlying the narrowing amendment bore no more than a tangential relation to the equivalent at issue ; and 3there was` some other_reason' suggesting that the patentee could not reasonably have been expected to have described the alleged equivalent
+`` honeywell int l inc. v. hamilton sundstrand corp. 370_f.3d_1131 1140 fed.cir.2004 quoting festo 344 f.3d at 1368
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+o2_micro_intern ltd. v. beyond innovation_technology co. ltd. 521_f.3d_1351 2008 86_u.s.p.q.2d_1304
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

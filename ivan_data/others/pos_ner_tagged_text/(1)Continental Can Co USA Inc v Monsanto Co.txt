@@ -1,0 +1,111 @@
+('948_F.2d_1264', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('CONTINENTAL', 'NN', 'ORG', 'B') ('CAN', 'MD', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Continental', 'NNP', 'ORG', 'B') ('Pet', 'NNP', 'ORG', 'I') ('Technologies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('MONSANTO', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('Hoover', 'NNP', '', 'O') ('Universal', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Johnson_Controls', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNS', 'ORG', 'I')
+CONTINENTAL CAN COMPANY USA INC. Continental Pet Technologies Inc. Universal Inc. Johnson_Controls Inc. Defendants-Appellees
+__NEW_SENT__
+('No._90-1328', 'NNP', 'PERSON', 'B')
+No._90-1328
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Nov._13,_1991', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'VBG', '', 'O') ('Denied', 'JJ', '', 'O') ('Dec._26,_1991', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('plastic', 'JJ', '', 'O') ('bottle', 'NN', '', 'O') ('with', 'IN', '', 'O') ('ribbed', 'VBN', '', 'O') ('bottom', 'JJ', '', 'O') ('structure', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Ohio', 'NNP', 'GPE', 'B') ('S.', 'NNP', 'PERSON', 'B') ('Arthur', 'NNP', 'PERSON', 'I') ('Spiegel', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('partial_summary_judgment', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('ruling', 'NN', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Ohio S. Arthur Spiegel J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Pauline', 'NNP', '', 'O') ('Newman', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('fact_issue', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('another', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('precluded', 'VBN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('fact_issue', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('references', 'NNS', '', 'O') ('precluded', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O')
+The Court of Appeals 1 2
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('vacated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1265', 'NFP', '', 'O') ('Eugene_F._Friedman', 'NNP', '', 'O') ('Eugene_F._Friedman', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Chicago Ill.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Edwin', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Thomas', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Novak', 'NNP', '', 'O') ('Bell', 'NNP', 'ORG', 'B') ('Boyd', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Lloyd', 'NNP', 'ORG', 'I') ('Chicago', 'NNP', 'ORG', 'I') ('Ill.', 'NNP', 'GPE', 'B') ('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Kurt', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Grossman', 'NNP', 'PERSON', 'I') ('Wood', 'NNP', '', 'O') ('Herron', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Evans', 'NNP', 'ORG', 'I') ('Cincinnati', 'NNP', 'GPE', 'B') ('Ohio', 'NNP', 'GPE', 'B')
+Edwin C. Thomas III David M. Bell Boyd & Lloyd Chicago Ill. Kurt L. Grossman Herron & Evans Cincinnati Ohio
+__NEW_SENT__
+('Henry', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Renk', 'NNP', 'PERSON', 'I') ('Fitzpatrick', 'NNP', '', 'O') ('Cella', 'NNP', '', 'O') ('Harper', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Scinto', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('City', 'NNP', 'GPE', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Henry J. Renk New York City
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Lawrence', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Scinto', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bruce', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Haas', 'NNP', 'PERSON', 'I')
+Lawrence F. Scinto Bruce C. Haas
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Jacob', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Stein', 'NNP', 'PERSON', 'I') ('Deborah', 'NNP', '', 'O') ('DeLong', 'NNP', '', 'O') ('Thompson', 'NNP', 'ORG', 'B') ('Hine', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Flory', 'NNP', '', 'O') ('Cincinnati', 'NNP', 'GPE', 'B') ('Ohio', 'NNP', '', 'O') ('Lawrence', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Limpus', 'NNP', 'PERSON', 'I') ('Monsanto', 'NNP', '', 'O') ('Co.', 'NNP', '', 'O') ('St.', 'NNP', 'GPE', 'B') ('Louis', 'NNP', 'GPE', 'I') ('Mo', 'NNP', '', 'O')
+Jacob K. Stein Thompson Hine & Cincinnati Lawrence L. Limpus St. Louis
+__NEW_SENT__
+('and', 'CC', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Levine', 'NNP', 'PERSON', 'I') ('Johnson_Controls', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Milwaukee', 'NNP', 'GPE', 'B') ('Wis.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', '', 'O') ('ARCHER', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('RADER', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Edward L. Levine Johnson_Controls Inc. Milwaukee
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PAULINE', 'NNP', 'ORG', 'B') ('NEWMAN', 'NN', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+PAULINE NEWMAN Circuit_Judge
+__NEW_SENT__
+('Continental', 'NNP', 'ORG', 'B') ('Can', 'MD', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Continental', 'NNP', 'ORG', 'B') ('PET', 'NNP', 'ORG', 'I') ('Technologies', 'NNPS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Continental', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('partial_summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Ohio', 'NNP', 'GPE', 'B') ('holding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NN', 'ORG', 'I') ('No._4108,324', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Conobase', 'NNP', 'PERSON', 'B') ('or', 'CC', '', 'O') ("'324_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('invalid.1', 'CD', '', 'O') ('Final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('entered', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('appeal', 'NN', '', 'O')
+Continental Can Company USA Continental PET Technologies Continental Ohio United States Patent No._4108,324 Conobase
+__NEW_SENT__
+('Summary', 'NNP', '', 'O') ('Judgment', 'NNP', '', 'O')
+
+__NEW_SENT__
+('An', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('decided', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('genuine_issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('movant', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+
+__NEW_SENT__
+('Fed.R.Civ.P', 'NNS', '', 'O')
+
+__NEW_SENT__
+('56', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Anderson', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Liberty', 'NNP', 'ORG', 'B') ('Lobby', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('477_U.S._242', 'CD', '', 'O') ('106_S.Ct._2505', 'CD', '', 'O') ('91_L.Ed.2d_202_(1986)', 'CD', '', 'O') (';', ':', '', 'O') ('Celotex', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Catrett', 'NNP', 'ORG', 'B') ('477_U.S._317', 'CD', '', 'O') ('325-26', 'CD', '', 'O') ('106_S.Ct._2548', 'CD', '', 'O') ('2554', 'CD', '', 'O') ('91_L.Ed.2d_265_(1986)', 'CD', '', 'O') (';', ':', '', 'O') ('Scripps', 'NNP', 'ORG', 'B') ('Clinic', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Research', 'NNP', 'ORG', 'I') ('Foundation', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Genentech', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('927_F.2d_1565', 'CD', '', 'O') ('1571', 'CD', 'DATE', 'B') ('18_U.S.P.Q.2d_1001', 'CD', 'DATE', 'I') ('1005', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.1991', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+56 Anderson Liberty Lobby Inc. Celotex Corp. Catrett Scripps Clinic & Research Foundation Genentech Inc. 1571 18_U.S.P.Q.2d_1001 1005
+__NEW_SENT__
+('The', 'DT', '', 'O') ('movant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('burden', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('that', 'IN', '', 'O') ('no', 'DT', '', 'O') ('fact', 'NN', '', 'O') ('material', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('dispute', 'NN', '', 'O') ('that', 'IN', '', 'O') ('even', 'RB', '', 'O') ('if', 'IN', '', 'O') ('all', 'DT', '', 'O') ('material', 'JJ', '', 'O') ('factual', 'JJ', '', 'O') ('inferences', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('drawn', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('non-movant', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('movant', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Summary', 'NN', '', 'O') ('judgment', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('as', 'RB', '', 'O') ('available', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('cases', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('in', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('areas', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('litigation', 'NN', '', 'O')
+
+__NEW_SENT__
+('Chore-Time', 'NNP', 'ORG', 'B') ('Equipment', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Cumberland', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('713_F.2d_774', 'VBZ', '', 'O') ('778-79', 'CD', 'PRODUCT', 'B') ('218_U.S.P.Q._673', 'CD', '', 'O') ('675', 'CD', 'CARDINAL', 'B')
+Chore-Time Equipment Inc. Cumberland Corp. 778-79 675
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('Fed.Cir.1983', 'LS', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('summary', 'NN', '', 'O') ('process', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('avoid', 'VB', '', 'O') ('a', 'DT', '', 'O') ('clearly', 'RB', '', 'O') ('unnecessary', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('Matsushita', 'NNP', 'ORG', 'B') ('Elec', 'NNP', 'ORG', 'I') ('Industrial', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Zenith', 'NNP', 'ORG', 'B') ('Radio', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('475_U.S._574', 'CD', '', 'O') ('587', 'CD', 'QUANTITY', 'B') ('106_S.Ct._1348', 'CD', 'QUANTITY', 'I') ('1356', 'CD', '', 'O') ('89_L.Ed.2d_538_(1986)', 'CD', '', 'O') (';', ':', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('substitute', 'VB', '', 'O') ('lawyers', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('advocacy', 'NN', '', 'O') ('for', 'IN', '', 'O') ('evidence', 'NN', '', 'O') ('or', 'CC', '', 'O') ('affidavits', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('examination', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fact-finder', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('genuine_issue', 'NN', '', 'O') ('for', 'IN', '', 'O') ('trial', 'NN', '', 'O')
+Matsushita Elec Industrial Co. Zenith Radio Corp. 587 106_S.Ct._1348
+__NEW_SENT__
+('As', 'IN', '', 'O') ('stated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Adickes', 'NNP', 'GPE', 'B') ('v.', 'IN', '', 'O') ('S.H', 'NNP', 'GPE', 'B')
+Adickes S.H
+__NEW_SENT__
+('Kress', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('398_U.S._144', 'CD', '', 'O') ('176', 'CD', 'CARDINAL', 'B') ('90_S.Ct._1598', 'JJ', '', 'O') ('1618', 'CD', '', 'O') ('26_L.Ed.2d_142_(1970)', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Black', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('concurring', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('he', 'PRP', '', 'O') ('right', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('confront', 'VB', '', 'O') ('cross-examine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('impeach', 'NN', '', 'O') ('adverse', 'JJ', '', 'O') ('witnesses', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('one', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('fundamental', 'JJ', '', 'O') ('rights', 'NNS', '', 'O') ('sought', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('preserved', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', 'LAW', 'B') ('Seventh', 'NNP', 'LAW', 'I') ('Amendment', 'NNP', 'LAW', 'I') ("''", "''", 'LAW', 'I')
+Kress & 176 26_L.Ed.2d_142_(1970) Black J. the Seventh Amendment ''
+__NEW_SENT__
+('See', 'VB', '', 'O') ('also', 'RB', '', 'O') ('Poller', 'NNP', 'ORG', 'B') ('v.', 'IN', 'ORG', 'I') ('Columbia', 'NNP', 'ORG', 'B') ('Broadcasting', 'NNP', 'ORG', 'I') ('System', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('368_U.S._464', 'CD', '', 'O') ('473', 'CD', 'CARDINAL', 'B') ('82_S.Ct._486', 'CD', '', 'O') ('491', 'CD', '', 'O') ('7_L.Ed.2d_458_(1962)', 'CD', '', 'O')
+Poller v. Columbia Broadcasting System Inc. 473
+__NEW_SENT__
+('While', 'IN', '', 'O') ('facilitating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('disposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('legally', 'RB', '', 'O') ('meritless', 'NN', '', 'O') ('suits', 'NNS', '', 'O') ('when', 'WRB', '', 'O') ('summary_judgment', 'NN', '', 'O') ('*1266', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('improvidently', 'RB', '', 'O') ('granted', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('effect', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('prolong', 'VB', '', 'O') ('litigation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('increase', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('burdens', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('concern', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('disputes', 'NNS', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('property', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('wasting', 'VBG', '', 'O') ('asset', 'NN', '', 'O') ('and', 'CC', '', 'O') ('justice', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('ill', 'RB', '', 'O') ('served', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('delay', 'NN', '', 'O') ('in', 'IN', '', 'O') ('final', 'JJ', '', 'O') ('resolution', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('at', 'IN', '', 'O') ('bar', 'NN', '', 'O') ('although', 'IN', '', 'O') ('some', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('resolved', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('law', 'NN', '', 'O') ('and', 'CC', '', 'O') ('undisputed', 'JJ', '', 'O') ('facts', 'NNS', '', 'O') ('other', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('require', 'VBP', '', 'O') ('trial', 'NN', '', 'O')
+
+__NEW_SENT__

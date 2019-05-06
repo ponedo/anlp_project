@@ -1,0 +1,85 @@
+189_F.3d_1370
+United States Court of Appeals Federal Circuit
+ROBOTIC VISION SYSTEMS INC. Plaintiff-Appellee v. VIEW ENGINEERING INC. Defendant-Appellant
+No._98-1477
+| Sept._3,_1999
+Synopsis
+Manufacturer of machines used to perform inspections of integrated circuit_devices brought action against competitor alleging infringement of patent disclosing method for using incident_laser_radiation to measure the coplanarity of a substrate
+The United_States_District_Court for the Central_District of California Lourdes G. Baird J. found patent to be valid and infringed
+Competitor appealed
+The Court of Appeals Gajarsa Circuit_Judge held that : ( 1 ) patent encompassed measurement method in which index_pads could either be separately fabricated or simply selected from existing signal_pads and ( 2 ) patent was not invalid for obviousness
+
+Affirmed
+
+Attorneys and Law Firms
+*1371 Albert J. Breneisen Kenyon & Kenyon New_York New_York argued for plaintiff-appellee
+Of counsel on the brief were Edward J. Handler III Robert F. Perry and Joseph R. Palmieri
+Ernie L. Brooks Brooks & Kushman Southfield Michigan argued for the defendant-appellant
+With him on the brief was Frank A. Angileri
+Before CLEVENGER BRYSON and GAJARSA Circuit_Judges
+GAJARSA Circuit_Judge
+DECISION
+View_Engineering Inc. ( `` View '' ) appeals the July_1,_1998 decision of the United_States_District_Court for the Central_District of California Docket 96-CV-2288 finding that View had infringed U.S. Patent No._5465,152 ( `` the '152_patent `` ) issued to the Robotic_Vision_Systems Inc. ( `` RVSI '' ) and holding the patent to be not invalid for obviousness under 35 U.S.C.¡± 103
+Because the trial court did not err in its determinations we affirm
+
+BACKGROUND
+Robotic_Vision_Systems Inc. ( `` RVSI '' ) manufactures and sells machines to perform inspections of integrated circuit_devices
+Until June 1998 View_Engineering Inc. ( `` View '' ) also manufactured and sold inspection equipment in particular its Model 880 inspection_machine
+Although RVSI and View do not manufacture chips themselves they sell equipment for use by device_manufacturers
+
+United States Patent No._5465,152 issued to RVSI on November 7 1995
+The patent is directed to a `` Method for Coplanarity Inspection of Package or Substrate Warpage for Ball Grid Arrays Column Arrays and Similar Structures ''
+Ball grid arrays ( `` BGAs '' ) are integrated circuit_devices that have an array of solder_balls on one face
+Each ball sits on a metal pad known as a `` signal pad '' which in turn sits on a `` substrate '' and connects the ball to the internal integrated circuitry
+`` Coplanarity '' refers to the degree to which a set of points are in the same plane i.e. how `` flat '' something is
+At the time of the invention ball-top coplanarity measurements1 were known in the prior *1372 art because it is important for device_manufacturers to know the coplanarity of the solder_balls to make sure that the BGA devices will mate properly with other devices
+
+The '152_patent discloses a method for using incident_laser_radiation to measure the coplanarity of a substrate
+The measurements are not done on the substrate directly or on the ball-tops but are done by using `` index_pads '' on the substrate as targets to perform the measurements.2 According to the written description these index_pads can be separately manufactured pads used only to measure substrate coplanarity or the index_pads can be selected from signal_pads that may or may not eventually be used as BGA sites
+The only independent claim in the '152_patent is claim 1 which reads as follows :
+
+1
+A method for determining coplanarity of substrates for ball grid array column grid array and similar surface mount integrated circuit chips using 3-D optical_sensing_means comprising the steps of : [ 1 ] providing opaque fiducials as index_pads
+[ 2 ] where the heights of said index_pads are correlated with signal pad heights in a neighborhood about said index_pads ; [ 3 ] said index_pads being opaque to incident radiation from said 3-D optical_sensing_means ; [ 4 ] reflecting by said index_pads sufficient radiation allow height measurement by said 3-D optical_sensing_means ; [ 5 ] disposing said index_pads in a prearranged pattern over a domain of array signal_pads ; [ 6 ] restricting said index_pads to a predetermined range of heights ; [ 7 ] measuring the heights of each of at least three said index_pads at said index pad coordinate locations ; [ 8 ] suitably fitting a preselected surface_shape to the index pad height and coordinate location data ; [ 9 ] and calculating the difference in height between each index pad and the preselected surface_shape evaluated at the index pad location
+( paragraphing and emphasis added )
+Dependent claims 3_and_12 are also at issue
+They read as follows : 3
+A method as defined in claim 1 wherein said index_pads are metallic and opaque
+12
+A method as described in claim 1 in which the index_pads are identical with the signal_pads rather than separately fabricated elements intended solely for use as fiducial pads which index_pads are located at signal pad sites occupied by array elements such as bga balls columns or other ; and determining coplanarity prior to deposition of grid array elements
+The written description of the '152_patent discloses three examples as preferred embodiments of the claimed method : There must be a close correlation between the heights of the index_pads and the signal_pads since the objective of having the index_pads is to provide a means of inferring the heights of the signal_pads
+This can be accomplished by properly designing the fabrication process
+One means of accomplishing this is to use unused signal_pads as index_pads
+A second means is to construct index_pads by plating additional material on existing signal_pads using photoresist masking techniques to avoid plating signal_pads which are not dedicated to indexing
+...
+There are innumerable ways of creating and disposing the index_pads over the substrate only several of which will be detailed here
+However other embodiments which generally follow the *1373 concepts outlined here are considered to be covered by this disclosure
+Three approaches serve to illustrate the method
+In the first two cases the index_pads are selected from the totality of pad on the substrate
+In third case the index_pads are fabricated separately from the signal_pads
+In case one the index_pads are selected from the total number of available pads and dedicated for measurement_purposes
+That is they are empty signal_pads
+They are distributed over the substrate surface so that their height provides a measure of the variations in signal pad coplanarity
+'152_Patent col._5,_ll._30-57 ( emphasis added )
+Therefore the written description discloses the use of signal_pads as index_pads and index_pads that are separately fabricated
+RVSI filed suit against View alleging that View infringed the method claims of the '152_patent through the View_Model 880 inspection_machine
+The 880 machine measures BGA coplanarity by using bare signal_pads as laser targets
+View moved for summary_judgment of noninfringement arguing that properly interpreted the claim required the manufacture or fabrication of the index_pads along with their measurement
+The court on summary_judgment rejected this argument and held that the language of claim 1 - specifically the terms `` providing '' `` correlating '' `` disposing '' and `` restricting '' - did not require separate manufacture of the index_pads and encompassed the selection of pre-existing signal_pads as index_pads for measurement_purposes
+A bench trial followed ; the court reiterated its summary_judgment claim construction and found the View_Model 880 accused device to infringe claims 1 3 and 12
+
+In its opinion the court stated that : Properly interpreted the '152_patent requires that index_pads disposed in a particular arrangement be provided for measurement and that the heights of these index_pads should be correlated with that of signal_pads and restricted to a specific range of heights
+The selection of index_pads for measurement can satisfy these requirements
+Claim 12 requires identical signal and index_pads ; Claim 1 permits either separate index_pads and signal_pads or identical signal_pads/index_pads
+Slip op.at 8
+
+The court based this interpretation on the claim language and on the examples disclosed in the written description which described embodiments of the claimed method using both separately manufactured index_pads and index_pads that were chosen from pre-existing signal_pads
+Based on this interpretation the court found the Model 880 device to infringe the '152_patent
+
+The court also addressed View 's obviousness defense which it rejected
+The court found that one of ordinary_skill in the art would be either : ( 1 ) a person with a B.S
+degree in engineering mathematics or a technical discipline ; ( 2 ) an applications engineer ; or ( 3 ) a person with knowledge based on experience equivalent to ( 1 ) or ( 2 )
+The court further found that the date of the invention was no later than January 31 1994
+Based on its factual findings including those concerning objective evidence of nonobviousness the court held that the invention of the '152_patent would not have been obvious to one of ordinary_skill in the art
+View now appeals the court 's finding of infringement and its holding of non-obviousness
+

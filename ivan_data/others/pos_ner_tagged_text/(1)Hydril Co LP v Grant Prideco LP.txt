@@ -1,0 +1,666 @@
+('474_F.3d_1344', 'LS', '', 'O')
+
+__NEW_SENT__
+('United_States', 'NNPS', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United_States Court of Appeals Federal Circuit
+__NEW_SENT__
+('HYDRIL', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('LP', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Hydril_U.K._Ltd.', 'NNP', 'ORG', 'B') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('GRANT', 'NNP', '', 'O') ('PRIDECO', 'NNP', '', 'O') ('LP', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+Hydril_U.K._Ltd. Grant_Prideco Inc. Defendants-Appellees
+__NEW_SENT__
+('Atlantic', 'NNP', 'ORG', 'B') ('Richfield', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Defendant', 'NNP', 'ORG', 'I')
+Atlantic Richfield Company Defendant
+__NEW_SENT__
+('No._2006-1188', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'IN', '', 'O') ('Jan._25,_2007', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Competitor', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('patent_holder', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('patent_holder', 'NN', '', 'O') ('monopolized', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('product_markets', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('enforcing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('fraudulently', 'RB', '', 'O') ('obtained', 'VBN', '', 'O') ('patent', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('separate', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('breached', 'NN', '', 'O') ('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('contract', 'NN', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('United_States', 'NNPS', 'ORG', 'I') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Southern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Nancy', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Atlas', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2005_WL_1515422', 'NNP', 'PERSON', 'I') ('dismissed', 'VBD', '', 'O') ('patent_claim', 'NN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('separate', 'JJ', '', 'O') ('opinion', 'NN', '', 'O') ('385_F.Supp.2d_609', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('antitrust_claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('declined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('exercise', 'VB', '', 'O') ('supplemental_jurisdiction', 'NN', '', 'O') ('over', 'IN', '', 'O') ('contract_claim', 'NN', '', 'O')
+The United_States District Court the Southern District Texas Nancy F. Atlas J. 2005_WL_1515422
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Friedman', 'NNP', 'ORG', 'I') ('Senior_Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Friedman Senior_Circuit_Judge
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ('stated', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Sherman_Act', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('antimonopoly', 'JJ', '', 'O') ('provision', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('merger', 'NN', '', 'O') ('and', 'CC', '', 'O') ('technology_licensing_agreement', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('preclude', 'VB', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('patent_infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('vacated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Mayer', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1345', 'NFP', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('Hawes', 'NNP', 'PERSON', 'I') ('Baker', 'NNP', 'PERSON', 'I') ('Botts', 'NNP', 'PERSON', 'B') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Michael Hawes Baker Botts L.L.P. Houston
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Mitchell', 'NNP', 'PERSON', 'B') ('Lukin', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Rodi', 'NNP', 'PERSON', 'I')
+Mitchell Lukin David M. Rodi
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Boyce', 'NNP', 'PERSON', 'I') ('Fulbright', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Jaworski', 'NNP', 'PERSON', 'B') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+William J. Boyce Fulbright & Jaworski L.L.P. Houston
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Pecht', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('Krieger', 'NNP', 'PERSON', 'I')
+Gerard G. Pecht Paul Krieger
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('FRIEDMAN', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O')
+BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', '', 'O') ('MAYER', 'NNP', '', 'O')
+
+__NEW_SENT__
+('FRIEDMAN', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('under', 'IN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('12', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Federal_Rules', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('valid_claim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('relief', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defendant', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('monopolized', 'VBN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('product_markets', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('enforcing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('obtained', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('fraud', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('infringed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('appellant', 'NN', '', 'O') ('owns', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('breached', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('contract', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O')
+Rule 12 6 1 two the Patent and Trademark Office 2 3
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patent_claims', 'JJ', '', 'O') ('vacate', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('state', 'NN', '', 'O') ('law', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remand', 'NN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('Industry', 'NN', '', 'O') ('Background', 'NNP', '', 'O')
+
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('amended', 'VBN', '', 'O') ('complaint', 'NN', '', 'O') ('the', 'DT', '', 'O') ('appellants', 'NNS', '', 'O') ('Hydril', 'NNP', 'ORG', 'B') ('Company', 'NNP', 'ORG', 'I') ('L.P.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Hydril_U.K._Ltd.', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Hydril', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('manufacture', 'NN', '', 'O') ('threaded', 'VBD', '', 'O') ('connections', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('interlocking', 'VBG', '', 'O') ('lengths', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('drill_pipe', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('drilling', 'VBG', '', 'O') ('oil', 'NN', '', 'O') ('and', 'CC', '', 'O') ('gas', 'NN', '', 'O') ('wells', 'NNS', '', 'O')
+second Hydril Company L.P. Hydril_U.K._Ltd. Hydril
+__NEW_SENT__
+('Pls', 'UH', '', 'O') ("'", "''", '', 'O')
+
+__NEW_SENT__
+('2nd', 'JJ', 'DATE', 'B') ('Am', 'VBP', '', 'O')
+2nd
+__NEW_SENT__
+('Compl', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('8-14', 'CD', '', 'O')
+
+__NEW_SENT__
+('Hydril', 'NNP', 'ORG', 'B') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('itself', 'PRP', '', 'O') ('make', 'VB', '', 'O') ('drill_pipe', 'NN', '', 'O') ('but', 'CC', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('it', 'PRP', '', 'O') ('sometimes', 'RB', '', 'O') ('sells', 'VBZ', '', 'O') ('finished', 'VBN', '', 'O') ('drill_pipe', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('uses', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('connections', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('pipe', 'NN', '', 'O') ('manufactured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('someone', 'NN', '', 'O') ('else', 'RB', '', 'O')
+Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('15', 'CD', 'CARDINAL', 'B')
+15
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appellee', 'NN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('manufactures', 'VBZ', '', 'O') ('*1346', 'XX', '', 'O') ('and', 'CC', '', 'O') ('sells', 'VBZ', '', 'O') ('both', 'CC', '', 'O') ('drill_pipe', 'NN', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('line', 'NN', '', 'O') ('of', 'IN', '', 'O') ('connections', 'NNS', '', 'O')
+Grant_Prideco Inc. Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('16', 'CD', 'CARDINAL', 'B')
+16
+__NEW_SENT__
+('Hydril', 'NNP', '', 'O') ('generally', 'RB', '', 'O') ('sells', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('connections', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('drill_pipe', 'JJ', '', 'O') ('distributors', 'NNS', '', 'O') ('``', '``', '', 'O') ('who', 'WP', '', 'O') ('are', 'VBP', '', 'O') ('assembling', 'VBG', '', 'O') ('finished', 'VBN', '', 'O') ('drill_pipe', 'NN', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('end-user', 'NN', '', 'O') ("''", "''", '', 'O') ('id', 'UH', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('14', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('``', '``', '', 'O') ('typically', 'RB', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('drilling', 'VBG', '', 'O') ('contractor', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('major', 'JJ', '', 'O') ('oil', 'NN', '', 'O') ('company', 'NN', '', 'O')
+14
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('10', 'CD', 'CARDINAL', 'B')
+10
+__NEW_SENT__
+('``', '``', '', 'O') ('Finished', 'VBN', '', 'O') ('drill_pipe', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('usually', 'RB', '', 'O') ('specially', 'RB', '', 'O') ('manufactured', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('meet', 'VB', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('end-user', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('drill_pipe', 'NN', '', 'O') ('whose', 'WP$', '', 'O') ('diameter', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inches-a', ':', '', 'O') ('product', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('alleges', 'VBZ', '', 'O') ('has', 'VBZ', '', 'O') ('``', '``', '', 'O') ('unique', 'JJ', '', 'O') ('characteristics', 'NNS', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('types', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('drilling', 'NN', '', 'O')
+5 Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('18-28', 'LS', 'CARDINAL', 'B')
+18-28
+__NEW_SENT__
+('B', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Antitrust', 'JJ', '', 'O') ('Claim', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('United_States', 'NNS', '', 'O') ('Patent', 'NN', '', 'O') ('No._6244,631', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('covers', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('raw', 'JJ', '', 'O') ('pipe', 'NN', '', 'O') ('with', 'IN', '', 'O') ('specified', 'JJ', '', 'O') ('diameters', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('connections', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('fit', 'VBP', '', 'O') ('such', 'JJ', '', 'O') ('pipe', 'NN', '', 'O')
+Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('31-33', 'LS', '', 'O')
+
+__NEW_SENT__
+('Paragraph', 'NN', '', 'O') ('57', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('encapsulates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('antitrust_claim', 'NN', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O') ('Under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('theory', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Walker_Process', 'NNP', 'ORG', 'B') ('Equipment', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Food_Machinery', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Chemical', 'NNP', '', 'O') ('Corp.', 'NNP', '', 'O') ('382_U.S._172', 'CD', '', 'O') ('86_S.Ct._347', 'NNP', '', 'O') ('15_L.Ed.2d_247_(1965)', 'CD', 'CARDINAL', 'B') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('violated', 'VBN', '', 'O') ('Section', 'NNP', 'LAW', 'B') ('2', 'CD', 'LAW', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sherman_Act', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('obtaining', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('maintaining', 'VBG', '', 'O') ('market_power', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relevant_markets', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('threats', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Grant_Prideco', 'NN', '', 'O') ('knew', 'VBD', '', 'O') ('was', 'VBD', '', 'O') ('procured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('fraud', 'NN', '', 'O')
+57 Walker_Process Equipment Inc. Food_Machinery & 15_L.Ed.2d_247_(1965) Grant_Prideco Section 2
+__NEW_SENT__
+('The', 'DT', '', 'O') ('alleged', 'JJ', '', 'O') ('fraud', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('uring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_patent', 'NNP', 'ORG', 'B') ('Grant_Prideco', 'NNP', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('USPTO_material_prior_art', 'NNP', 'ORG', 'B') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('was', 'VBD', '', 'O') ('aware', 'JJ', '', 'O') ("''", "''", '', 'O')
+¡¬631_patent USPTO_material_prior_art Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('35', 'LS', 'CARDINAL', 'B')
+35
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('items', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('that', 'WDT', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+Grant_Prideco
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('38-40', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('stated', 'VBD', '', 'O') (':', ':', '', 'O') ('The', 'DT', '', 'O') ('¡¬631_Patent', 'NN', 'PRODUCT', 'B') ('as', 'IN', '', 'O') ('issued', 'VBN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('granted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('not', 'RB', '', 'O') ('omitted', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('disclosures', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('known', 'VBN', '', 'O') ('information', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('including', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('covered', 'VBN', '', 'O') ('technology', 'NN', '', 'O')
+38-40 ¡¬631_Patent Grant_Prideco Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('43', 'CD', 'CARDINAL', 'B')
+43
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('further', 'RB', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('concealment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('USPTO', 'NNP', 'ORG', 'B') ('continued', 'VBD', '', 'O') ('even', 'RB', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_Patent', 'NN', 'PRODUCT', 'B') ('issued', 'VBN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('``', '``', '', 'O') ('filing', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('reissue', 'NN', '', 'O') ('with', 'IN', '', 'O') ('disclosure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('only', 'RB', '', 'O') ('selective', 'JJ', '', 'O') ('prior_art', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('an', 'DT', '', 'O') ('attempt', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('fraud', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('USPTO', 'NNP', 'ORG', 'B') ("''", "''", '', 'O')
+Grant_Prideco USPTO ¡¬631_Patent Grant_Prideco USPTO
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('44', 'CD', 'CARDINAL', 'B')
+44
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('described', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('relevant', 'JJ', '', 'O') ('[', '-LRB-', '', 'O') ('product', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('markets', 'NNS', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('for', 'IN', '', 'O') ('connections', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inch', ':', '', 'O') ('outer', 'JJ', '', 'O') ('diameter', 'NN', '', 'O') ('pipe', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('for', 'IN', '', 'O') ('finished', 'VBN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inch', ':', '', 'O') ('drill_pipe', 'NN', '', 'O') ("''", "''", '', 'O')
+1 5 2 5
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('45', 'CD', 'CARDINAL', 'B')
+45
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('relevant', 'JJ', '', 'O') ('[', '-LRB-', '', 'O') ('geographic', 'JJ', '', 'O') (']', '-RRB-', '', 'O') ('markets', 'NNS', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('both', 'DT', '', 'O') ('products', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('``', '``', '', 'O') ('worldwide', 'RB', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('46', 'CD', 'CARDINAL', 'B')
+46
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O')
+
+__NEW_SENT__
+('Grant_Prideco', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('obtained', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('maintained', 'VBN', '', 'O') ('its', 'PRP$', '', 'O') ('market_power', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relevant_markets', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('wrongfully', 'RB', '', 'O') ('threatening', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_Patent', 'NN', 'PRODUCT', 'B') ('against', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('market', 'NN', '', 'O') ('participants', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('connections', 'NNS', '', 'O') ('manufacturers', 'NNS', '', 'O') ('drill_pipe', 'VBP', '', 'O') ('distributors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('end-users', 'NNS', '', 'O')
+Grant_Prideco ¡¬631_Patent
+__NEW_SENT__
+('Grant_Prideco', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('obtained', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('dominant', 'JJ', '', 'O') ('position', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sale', 'NN', '', 'O') ('of', 'IN', '', 'O') ('connections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('practically-functional', 'JJ', '', 'O') ('sizes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('with', 'IN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inch', ':', '', 'O') ('drill_pipe', 'NN', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('substantial_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('connections', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('use', 'NN', '', 'O')
+Grant_Prideco 5
+__NEW_SENT__
+('Similarly', 'RB', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') ('dominates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inch', 'NFP', '', 'O') ('drill_pipe', 'JJ', '', 'O') ('market..', 'JJ', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') ('makes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('substantial_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('finished', 'VBN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O') ('-inch', ':', '', 'O') ('drill_pipe', 'JJ', '', 'O') ('worldwide', 'RB', '', 'O')
+5 5
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('?', '.', '', 'O')
+Id.at
+__NEW_SENT__
+('47', 'CD', 'CARDINAL', 'B')
+47
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('alleged', 'VBN', '', 'O') ('``', '``', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('threats', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('[', '-LRB-', '', 'O') ('fraudulently', 'RB', '', 'O') ('procured', 'VBN', '', 'O') (']', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('that', 'DT', '', 'O')
+
+__NEW_SENT__
+('Grant_Prideco', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('widely', 'RB', '', 'O') ('publicized', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('existence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_Patent', 'NN', 'PRODUCT', 'B') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('industry', 'NN', '', 'O') ('in', 'IN', '', 'O') ('general', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('also', 'RB', '', 'O') ('has', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('communications', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('industry', 'NN', '', 'O') ('*1347', 'PRP$', '', 'O') ('participants', 'NNS', '', 'O') ('suggesting', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('would', 'MD', '', 'O') ('act', 'VB', '', 'O') ('aggressively', 'RB', '', 'O') ('to', 'TO', '', 'O') ('challenge', 'VB', '', 'O') ('activities', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('saw', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('potentially', 'RB', '', 'O') ('infringing', 'VBG', '', 'O')
+Grant_Prideco ¡¬631_Patent Grant_Prideco
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('on', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('29', 'CD', 'DATE', 'I') ('2003', 'CD', 'DATE', 'I') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('outside', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('counsel', 'NN', '', 'O') ('wrote', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('letter', 'NN', '', 'O') ('to', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ('a', 'DT', '', 'O') ('drill_pipe', 'JJ', '', 'O') ('distributor', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('holds', 'VBZ', '', 'O') ('license', 'NN', '', 'O') ('rights', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('manufacture', 'VB', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('Wedge', 'NNP', 'ORG', 'B') ('Thread', 'NNP', 'ORG', 'I') ('tool', 'NN', '', 'O') ('joints', 'NNS', '', 'O')
+January 29 2003 Grant_Prideco OMSCO Hydril Wedge Thread
+__NEW_SENT__
+('The', 'DT', '', 'O') ('letter', 'NN', '', 'O') ('asserted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('orders', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('customers', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('7/8-inch', 'CD', '', 'O') ('pipe', 'NN', '', 'O') ('with', 'IN', '', 'O') ('7-inch', 'CD', '', 'O') ('tool', 'NN', '', 'O') ('joints', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('violate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_Patent', 'NN', '', 'O')
+OMSCO 5
+__NEW_SENT__
+('The', 'DT', '', 'O') ('orders', 'NNS', '', 'O') ('referenced', 'VBD', '', 'O') ('were', 'VBD', '', 'O') ('presumably', 'RB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('end-use', 'NN', '', 'O') ('drilling', 'NN', '', 'O') ('contractor', 'NN', '', 'O') ('Atwood', 'NNP', 'PERSON', 'B') ('Oceanics', 'NNP', 'PERSON', 'I') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('copied', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('letter', 'NN', '', 'O')
+Atwood Oceanics
+__NEW_SENT__
+('The', 'DT', '', 'O') ('letter', 'NN', '', 'O') ('suggested', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ('take', 'VB', '', 'O') ('action', 'NN', '', 'O') ('to', 'TO', '', 'O') ('``', '``', '', 'O') ('ensure', 'VB', '', 'O') ('that', 'IN', '', 'O') ('[', '-LRB-', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') (']', '-RRB-', '', 'O') ('patent_rights', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('being', 'VBG', '', 'O') ('respected', 'VBN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('connection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('drill_pipe', 'NN', '', 'O')
+OMSCO Grant_Prideco OMSCO
+__NEW_SENT__
+('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('letter', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('intended', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('understood', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('a', 'DT', '', 'O') ('threat', 'NN', '', 'O') ('to', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ('to', 'TO', '', 'O') ('refrain', 'VB', '', 'O') ('from', 'IN', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('7/8-inch', 'CD', '', 'O') ('drill_pipe', 'NN', '', 'O')
+Grant_Prideco OMSCO 5
+__NEW_SENT__
+('On', 'IN', '', 'O') ('information', 'NN', '', 'O') ('and', 'CC', '', 'O') ('belief', 'NN', '', 'O') ('Grant_Prideco', 'NNP', 'PERSON', 'B') ('also', 'RB', '', 'O') ('communicated', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('similar', 'JJ', '', 'O') ('message', 'NN', '', 'O') ('asserting', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('to', 'IN', '', 'O') ('others', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pipe', 'NN', '', 'O') ('and', 'CC', '', 'O') ('drilling', 'NN', '', 'O') ('industries', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('Diamond', 'NNP', 'ORG', 'B') ('Offshore', 'NNP', 'ORG', 'I') ('Tuboscope', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Riteco', 'NNP', 'ORG', 'B')
+Grant_Prideco Diamond Offshore Tuboscope Riteco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('48', 'CD', 'CARDINAL', 'B')
+48
+__NEW_SENT__
+('C.', 'NNP', '', 'O') ('The', 'DT', '', 'O') ('Breach', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Contract', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Patent', 'NN', '', 'O') ('Infringement', 'NN', '', 'O') ('Claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('arise', 'VBP', '', 'O') ('out', 'IN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') ('allegations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') (':', ':', '', 'O') ('``', '``', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('breached', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('technology_licensing_agreement', 'NN', '', 'O') ('with', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('violated', 'VBD', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('patent_rights', 'NNS', '', 'O') ('over', 'IN', '', 'O') ("'wedge", 'NN', '', 'O') ('thread', 'NN', '', 'O') ("'", "''", '', 'O') ('technology', 'NN', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('technology', 'NN', '', 'O') ('developed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('high-torque', 'JJ', '', 'O') ('connections', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('neighboring', 'NN', '', 'O') ('pieces', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('pipe', 'NN', '', 'O') ('tubing', 'NN', '', 'O') ('or', 'CC', '', 'O') ('conduit', 'NN', '', 'O') ("''", "''", '', 'O')
+Grant_Prideco Hydril Hydril Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('63-64', 'LS', 'CARDINAL', 'B')
+63-64
+__NEW_SENT__
+('Hydril', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('United_States', 'NNP', '', 'O') ('Patent', 'NNP', '', 'O') ('Reissue', 'NNP', '', 'O') ('No._34467', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬467_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('covers', 'VBZ', '', 'O') ('some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('technology', 'NN', '', 'O')
+Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('65', 'CD', 'CARDINAL', 'B')
+65
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('late', 'JJ', 'DATE', 'I') ('1980s', 'NNS', 'DATE', 'I') ('former', 'JJ', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('employees', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('extensive', 'JJ', '', 'O') ('knowledge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('wedge_thread_technology', 'NNP', '', 'O') ('left', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('company', 'NN', '', 'O') ('and', 'CC', '', 'O') ('founded', 'VBD', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ('Holding', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('XL', 'NNP', 'ORG', 'B') ('Systems', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('XLS', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+the late 1980s Hydril Hydril XLS Holding Inc. XL Systems Inc. XLS
+__NEW_SENT__
+('After', 'IN', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ('``', '``', '', 'O') ('began', 'VBD', '', 'O') ('marketing', 'VBG', '', 'O') ('wedge', 'NN', '', 'O') ('thread', 'NN', '', 'O') ('connections', 'NNS', '', 'O') ('without', 'IN', '', 'O') ('a', 'DT', '', 'O') ('license', 'NN', '', 'O') ('to', 'TO', '', 'O') ('use', 'VB', '', 'O') ('Hydril', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('intellectual_property', 'NN', '', 'O') ('[', '-LRB-', '', 'O') (']', '-RRB-', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('sued', 'VBD', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('misappropriation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('trade_secrets', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('know-how', 'NN', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O')
+XLS Hydril Hydril XLS
+__NEW_SENT__
+('That', 'DT', '', 'O') ('lawsuit', 'NN', '', 'O') ('settled', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('1994', 'CD', 'DATE', 'B') ('on', 'IN', '', 'O') ('confidential', 'JJ', '', 'O') ('terms', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('receiving', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('equity', 'NN', '', 'O') ('stake', 'NN', '', 'O') ('in', 'IN', '', 'O') ('XLS', 'NNP', 'ORG', 'B')
+1994 Hydril XLS
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('as', 'IN', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('settlement', 'NN', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ('focused', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('wedge_technology_activities', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('large-diameter_connections', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('20', 'CD', 'QUANTITY', 'B') ('inches', 'NNS', 'QUANTITY', 'I') ('and', 'CC', '', 'O') ('over', 'RB', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('focused', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('wedge_technology_activities', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('smaller-diameter_connections', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('less', 'JJR', 'QUANTITY', 'B') ('than', 'IN', 'QUANTITY', 'I') ('20', 'CD', 'QUANTITY', 'I') ('inches', 'NNS', 'QUANTITY', 'I') (')', '-RRB-', '', 'O') ("''", "''", '', 'O')
+XLS 20 inches Hydril less than 20 inches
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('66', 'CD', 'CARDINAL', 'B')
+66
+__NEW_SENT__
+('``', '``', '', 'O') ('In', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('1997', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('owners', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('including', 'VBG', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('sold', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('equity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('company', 'NN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('affiliate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Grant_Prideco', 'NNP', '', 'O')
+August 1997 XLS Hydril
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ("'Merger_Agreement", 'JJ', '', 'O') ("'", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Grant_Prideco', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('other', 'JJ', '', 'O') ('affiliates', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('never', 'RB', '', 'O') ('before', 'IN', '', 'O') ('offered', 'VBN', '', 'O') ('wedge_thread_technology', '.', '', 'O')
+Grant_Prideco
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('in', 'IN', '', 'O') ('connection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('Grant_Prideco', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('various', 'JJ', '', 'O') ('related', 'JJ', '', 'O') ('entities', 'NNS', '', 'O') ('executed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('license', 'NN', '', 'O') ('sharing', 'NN', '', 'O') ('agreement', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', 'EVENT', 'B') ('Wedge', 'NNP', 'EVENT', 'I') ('Thread', 'NNP', 'EVENT', 'I') ('License', 'NNP', 'EVENT', 'I') ('Agreement', 'NNP', 'EVENT', 'I') ('(', '-LRB-', '', 'O') ("'Wedge_Agreement", 'NNP', '', 'O') ("'", "''", '', 'O') (')', '-RRB-', '', 'O') ("''", "''", '', 'O') ('id', 'UH', '', 'O')
+Hydril Grant_Prideco the Wedge Thread License Agreement
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('67-68', 'LS', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('shows', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('exhibit', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Merger_Agreement', 'NN', 'DATE', 'B') ('and', 'CC', '', 'O') ('which', 'WDT', '', 'O') ('both', 'CC', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('signed', 'VBD', '', 'O')
+Merger_Agreement Hydril Grant_Prideco
+__NEW_SENT__
+('``', '``', '', 'O') ('Under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Wedge_Agreement', 'NNP', '', 'O') ('Hydril', 'NNP', '', 'O') ('granted', 'VBD', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('use', 'VB', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('existing', 'VBG', '', 'O') ('intellectual_property', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('protected', 'VBN', '', 'O') ('know-how', 'NN', '', 'O') ('and', 'CC', '', 'O') ('trade_secrets', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('wedge', 'NN', '', 'O') ('technology', 'NN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('large-diameter_connections', 'NNS', '', 'O') ('thus', 'RB', '', 'O') ('allowing', 'VBG', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('to', 'TO', '', 'O') ('essentially', 'RB', '', 'O') ('continue', 'VB', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('large-diameter_business', 'NN', '', 'O') ("''", "''", '', 'O')
+Hydril Grant_Prideco XLS
+__NEW_SENT__
+('``', '``', '', 'O') ('In', 'IN', '', 'O') ('exchange', 'NN', '', 'O') ('Grant_Prideco', 'NN', 'PERSON', 'B') ('granted', 'VBD', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('license', 'NN', '', 'O') ('to', 'TO', '', 'O') ('use', 'VB', '', 'O') ('XLS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('wedge', 'NN', '', 'O') ('thread', 'NN', '', 'O') ('patents', 'NNS', '', 'O') ('trade_secrets', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('know-how', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('smaller-diameter_connections', 'NNS', '', 'O') ("''", "''", '', 'O')
+Grant_Prideco Hydril XLS
+__NEW_SENT__
+('``', '``', '', 'O') ('Under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('exclusivity', 'NN', '', 'O') ('provisions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Wedge_Agreement', 'JJ', 'ORG', 'I') ('Grant_Prideco', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('restricted', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('licensed', 'JJ', '', 'O') ('intellectual', 'JJ', '', 'O') ('*1348', 'JJ', '', 'O') ('property', 'NN', '', 'O') ('and', 'CC', '', 'O') ('know-how', 'NN', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('large-diameter_business', 'NN', '', 'O') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('smaller-diameter_connections', 'NNS', '', 'O')
+the Wedge_Agreement Grant_Prideco
+__NEW_SENT__
+('Similarly', 'RB', 'PERSON', 'B') ('Hydril', 'NNP', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('restricted', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('licensed', 'JJ', '', 'O') ('intellectual_property', 'NN', '', 'O') ('or', 'CC', '', 'O') ('know-how', 'NN', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('smaller-diameter_business', 'NN', '', 'O') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('large-diameter_connections', 'NNS', '', 'O') ("''", "''", '', 'O')
+Similarly Hydril
+__NEW_SENT__
+('``', '``', '', 'O') ('Under', 'IN', '', 'O') ('[', '-LRB-', '', 'O') ('those', 'DT', '', 'O') ('provisions', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('either', 'DT', '', 'O') ('party', 'NN', '', 'O') ('could', 'MD', '', 'O') ('develop', 'VB', '', 'O') ('products', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ("'s", 'POS', '', 'O') ('field', 'NN', '', 'O') ('so', 'RB', '', 'O') ('long', 'RB', '', 'O') ('as', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('did', 'VBD', '', 'O') ('so', 'RB', '', 'O') ('completely', 'RB', '', 'O') ('independently', 'RB', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('intellectual_property', 'NN', '', 'O') ('and', 'CC', '', 'O') ('know-how', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('existing', 'VBG', '', 'O') ('business', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('70-73', 'LS', 'CARDINAL', 'B')
+70-73
+__NEW_SENT__
+('``', '``', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('materially', 'RB', '', 'O') ('breached', 'VBN', '', 'O') ('its', 'PRP$', '', 'O') ('obligations', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Wedge_Agreement', 'NN', 'PRODUCT', 'B') ('by', 'IN', '', 'O') ('improperly', 'RB', '', 'O') ('disclosing', 'VBG', '', 'O') ('intellectual_property', 'NN', '', 'O') ('and', 'CC', '', 'O') ('by', 'IN', '', 'O') ('improperly', 'RB', '', 'O') ('using', 'VBG', '', 'O') ('intellectual_property', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('agreed', 'VBD', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('used', 'VBN', '', 'O') ('only', 'RB', '', 'O') ('for', 'IN', '', 'O') ('large-diameter_connections', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('development', 'NN', '', 'O') ('of', 'IN', '', 'O') ('smaller-diameter_connections', 'NNS', '', 'O') ("''", "''", '', 'O')
+Grant_Prideco Wedge_Agreement Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('81', 'CD', 'CARDINAL', 'B')
+81
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('described', 'VBD', '', 'O') ('various', 'JJ', '', 'O') ('actions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('that', 'WDT', '', 'O') ('constituted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('alleged', 'VBN', '', 'O') ('breaches', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('confidentiality', 'NN', '', 'O') ('provisions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Wedge_Agreement', 'NN', '', 'O')
+Grant_Prideco
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('75-80', 'LS', '', 'O')
+
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('the', 'DT', '', 'O') ('foregoing', 'VBG', '', 'O') ('activities', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('constituted', 'VBD', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('material', 'JJ', '', 'O') ('breach', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Wedge_Agreement', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('ended', 'VBD', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('field-of-use', 'NN', '', 'O') ('license', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('patents', 'NNS', '', 'O') ('trade_secrets', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('know-how', 'NN', '', 'O') ("''", "''", '', 'O')
+Grant_Prideco Wedge_Agreement Grant_Prideco Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('84-85', 'XX', 'CARDINAL', 'B')
+84-85
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('Hydril', 'NNP', '', 'O') ('alleges', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('termination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Wedge_Agreement', 'NNP', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('actions', 'NNS', '', 'O') ('infringed', 'VBD', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('¡¬467_patent', 'NN', '', 'O')
+Hydril
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('87-91', 'UH', '', 'O')
+
+__NEW_SENT__
+('D.', 'NNP', '', 'O') ('The', 'DT', '', 'O') ('District', 'NNP', '', 'O') ('Court', 'NNP', '', 'O') ('Decision', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('separate', 'JJ', '', 'O') ('opinions', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('antitrust', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patent_claims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('valid_claim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('relief', 'NN', '', 'O') ('pursuant', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('12', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Federal_Rules', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O')
+two Rule 12 6
+__NEW_SENT__
+('In', 'IN', '', 'O') ('dismissing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('antitrust_claim', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (']', '-RRB-', '', 'O') ('ecause', 'NN', '', 'O') ('Hydril', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('failed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('allege', 'VB', '', 'O') ('enforcement_activity', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('create', 'VB', '', 'O') ('an', 'DT', '', 'O') ('objectively', 'JJ', '', 'O') ('reasonable_apprehension', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NN', 'PERSON', 'B') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_Patent', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('Plaintiffs', 'NNPS', 'PERSON', 'I') ('have', 'VBP', '', 'O') ('failed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('allege', 'VB', '', 'O') ('the', 'DT', '', 'O') ('minimum_level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enforcement', 'NN', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('Walker_Process_claim', 'FW', 'ORG', 'B') ('against', 'IN', '', 'O') ('Grant_Prideco', 'NN', '', 'O') ("''", "''", '', 'O')
+Hydril Grant_Prideco Grant_Prideco Hydril Plaintiffs Walker_Process_claim
+__NEW_SENT__
+('Hydril_Co.', 'NNP', 'GPE', 'B') ('L.P.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('L.P.', 'NNP', 'ORG', 'I') ('385_F.Supp.2d_609', 'CD', '', 'O') ('612', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('S.D.Tex.2005', 'ADD', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Hydril_II', 'ADD', 'WORK_OF_ART', 'B') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Hydril_Co. Grant_Prideco L.P. 612 Hydril_II
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('neither', 'DT', '', 'O') ('plaintiff', 'NN', '', 'O') ('``', '``', '', 'O') ('alleges', 'VBZ', '', 'O') ('enforcement_activity', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('create', 'VB', '', 'O') ('an', 'DT', '', 'O') ('objectively', 'JJ', '', 'O') ('reasonable_apprehension', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('might', 'MD', '', 'O') ('sue', 'VB', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O') ("''", "''", '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('January', 'NNP', 'DATE', 'B') ('2003', 'CD', 'DATE', 'I') ('letter', 'NN', '', 'O') ('to', 'IN', '', 'O') ('OMSCO', 'NNP', 'ORG', 'B') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('contain', 'VB', '', 'O') ('an', 'DT', '', 'O') ('explicit', 'JJ', '', 'O') ('threat', 'NN', '', 'O') ('or', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('language', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('totality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('circumstances', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('create', 'VB', '', 'O') ('a', 'DT', '', 'O') ('reasonable_apprehension', 'NN', '', 'O') ('on', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('part', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('might', 'MD', '', 'O') ('sue', 'VB', '', 'O') ('it', 'PRP', '', 'O') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O')
+Grant_Prideco Grant_Prideco Hydril January 2003 OMSCO Hydril Grant_Prideco
+__NEW_SENT__
+('There', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('allegation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('any', 'DT', '', 'O') ('similar', 'JJ', '', 'O') ('letters', 'NNS', '', 'O') ('sent', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('or', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('counsel', 'NN', '', 'O') ('to', 'IN', '', 'O') ('others', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pipe', 'NN', '', 'O') ('and', 'CC', '', 'O') ('drilling', 'NN', '', 'O') ('industry', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('more', 'RBR', '', 'O') ('explicit', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('otherwise', 'RB', '', 'O') ('indicated', 'VBN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('intention', 'NN', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_patent', 'NNP', 'ORG', 'B') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('or', 'CC', '', 'O') ('others', 'NNS', '', 'O') ("''", "''", '', 'O')
+Grant_Prideco Grant_Prideco ¡¬631_patent Hydril
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('611-12', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patent_claim', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('that', 'IN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('provision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1997', 'CD', 'DATE', 'B') ('merger', 'NN', '', 'O') ('agreement', 'NN', '', 'O') ('between', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('Section', 'NNP', '', 'O') ('12.12', 'CD', 'CARDINAL', 'B') ('discussed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('Part', 'NNP', 'PRODUCT', 'B') ('III', 'NNP', 'PRODUCT', 'I') ('below', 'IN', '', 'O') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('waived', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sue', 'VB', '', 'O') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O') ('``', '``', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('agreement', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('provided', 'VBD', '', 'O') ('only', 'RB', '', 'O') ('a', 'DT', '', 'O') ('breach', 'NN', '', 'O') ('of', 'IN', '', 'O') ('contract', 'NN', '', 'O') ('remedy', 'NN', '', 'O') ('for', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('claims', 'NNS', '', 'O')
+1997 Hydril Grant_Prideco 12.12 Part III
+__NEW_SENT__
+('Hydril_Co.', 'NNP', 'GPE', 'B') ('L.P.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('L.P.', 'NNP', 'ORG', 'I') ('No', 'UH', '', 'O')
+Hydril_Co. Grant_Prideco L.P.
+__NEW_SENT__
+('Civ.A', 'NN', '', 'O')
+
+__NEW_SENT__
+('H-05-0337', 'NNP', 'PERSON', 'B') ('2005_WL_1515422', 'CD', 'PERSON', 'I') ('at', 'IN', '', 'O') ('*3', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Tex', '.', '', 'O')
+H-05-0337 2005_WL_1515422
+__NEW_SENT__
+('June_22,_2005', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Hydril', 'NNP', 'WORK_OF_ART', 'B') ('I', 'PRP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Hydril
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('Hydril', 'NNP', 'WORK_OF_ART', 'B') ('agreed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('12.12', 'CD', 'MONEY', 'B') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Merger_Agreement', 'NN', '', 'O') ('to', 'TO', '', 'O') ('waive', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('statutory', 'JJ', '', 'O') ('rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('467', 'CD', 'CARDINAL', 'B') ('Patent', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ("''", "''", '', 'O')
+Hydril 12.12 467 Grant_Prideco
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*4', 'VBD', '', 'O')
+Id.at
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('declined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('exercise', 'VB', '', 'O') ('``', '``', '', 'O') ('supplemental_jurisdiction', 'NN', '', 'O') ("''", "''", '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('state', 'NN', '', 'O') ('law', 'NN', '', 'O') ('breach', 'NN', '', 'O') ('of', 'IN', '', 'O') ('contract_claim', 'NN', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('denied', 'VBD', '', 'O') ('without', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plaintiffs', 'NNS', '', 'O') ('refiling', 'VBG', '', 'O') ('it', 'PRP', '', 'O') ('in', 'IN', '', 'O') ('state', 'NN', '', 'O') ('court', 'NN', '', 'O')
+
+__NEW_SENT__
+('Hydril_II', 'NFP', '', 'O') ('at', 'IN', '', 'O') ('612', 'CD', 'CARDINAL', 'B')
+612
+__NEW_SENT__
+('*1349', 'NFP', '', 'O') ('II', 'NNP', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('Walker_Process', 'NN', '', 'O') ('the', 'DT', '', 'O') ('Supreme_Court', 'NN', 'PERSON', 'B') ('``', '``', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('enforcement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('procured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('fraud', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('violative', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sherman_Act', 'NNS', '', 'O') ('provided', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('elements', 'NNS', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('¡±', 'CD', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('case', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('present', 'JJ', '', 'O') ("''", "''", '', 'O')
+Supreme_Court 2 2
+__NEW_SENT__
+('382', 'CD', 'CARDINAL', 'B') ('U.S.', 'NNP', 'GPE', 'B') ('at', 'IN', '', 'O') ('174', 'CD', 'CARDINAL', 'B') ('86_S.Ct._347', 'CD', '', 'O')
+382 U.S. 174
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Walker_Process', 'VBP', '', 'O') ('``', '``', '', 'O') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Food_Machinery', 'NNP', '', 'O') ('obtained', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('by', 'IN', '', 'O') ('knowingly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('willfully', 'RB', '', 'O') ('misrepresenting', 'JJ', '', 'O') ('facts', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office', 'NN', '', 'O')
+
+__NEW_SENT__
+('Proof', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('assertion', 'NN', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('strip', 'VB', '', 'O') ('Food_Machinery', 'CD', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('exemption', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust_laws', 'NN', '', 'O') ("''", "''", '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('provided', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('177', 'CD', 'CARDINAL', 'B') ('86_S.Ct._347', 'CD', '', 'O')
+177
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('pointed', 'VBD', '', 'O') ('out', 'RP', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('o', 'UH', '', 'O') ('establish', 'VB', '', 'O') ('monopolization', 'NN', '', 'O') ('or', 'CC', '', 'O') ('attempt', 'NN', '', 'O') ('to', 'IN', '', 'O') ('monopolize..', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sherman_Act', 'NNS', '', 'O') ('it', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('then', 'RB', '', 'O') ('be', 'VB', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('appraise', 'VB', '', 'O') ('the', 'DT', '', 'O') ('exclusionary', 'JJ', '', 'O') ('power', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('illegal', 'JJ', '', 'O') ('patent_claim', 'NN', '', 'O') ('in', 'IN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relevant_market', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O') ('involved', 'VBN', '', 'O') ("''", "''", '', 'O')
+Court 2
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('``', '``', '', 'O') ('consistently', 'RB', '', 'O') ('explained', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('Walker_Process_fraud', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('variant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('common_law_fraud', 'NN', '', 'O') ("''", "''", '', 'O') ('``', '``', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('elements', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('common_law_fraud', 'NN', '', 'O') ('include', 'VBP', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('representation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('falsity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('representation', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('or', 'CC', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('state', 'NN', '', 'O') ('of', 'IN', '', 'O') ('mind', 'NN', '', 'O') ('so', 'RB', '', 'O') ('reckless', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('consequences', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('held', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('the', 'DT', '', 'O') ('equivalent', 'NN', '', 'O') ('of', 'IN', '', 'O') ('intent', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('scienter', 'NN', '', 'O') (')', '-RRB-', '', 'O') ("''", "''", '', 'O')
+1 2 3
+__NEW_SENT__
+('Unitherm', 'NNP', 'ORG', 'B') ('Food', 'NNP', 'ORG', 'I') ('Sys', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Swift-Eckrich', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('375_F.3d_1341', 'CD', '', 'O') ('1358', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.2004', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('citations', 'NNS', '', 'O') ('omitted', 'VBN', '', 'O') (')', '-RRB-', '', 'O') ('rev', 'NN', '', 'O') ("'d", 'FW', '', 'O') ('on', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('546_U.S._394', 'CD', '', 'O') ('126_S.Ct._980', 'CD', '', 'O') ('163_L.Ed.2d_974_(2006)', 'CD', 'CARDINAL', 'B')
+Unitherm Food Sys Inc. Swift-Eckrich Inc. 1358 163_L.Ed.2d_974_(2006)
+__NEW_SENT__
+('As', 'IN', '', 'O') ('noted', 'VBN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('complaint', 'NN', '', 'O') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('fraudulently', 'RB', '', 'O') ('obtained', 'VBN', '', 'O') ('its', 'PRP$', '', 'O') ('¡¬631_patent', 'NNP', 'ORG', 'B') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('fail', 'VB', '', 'O') ('[', '-LRB-', '', 'O') ('ing', 'VBG', '', 'O') (']', '-RRB-', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('USPTO_material_prior_art', 'NNP', 'ORG', 'B') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('[', '-LRB-', '', 'O') ('it', 'PRP', '', 'O') (']', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('aware', 'JJ', '', 'O') ("''", "''", '', 'O') ('(', '-LRB-', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('described', 'VBD', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('he', 'PRP', '', 'O') ('¡¬631_Patent', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('issued', 'VBN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('granted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('not', 'RB', '', 'O') ('omitted', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('disclosures', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('known', 'VBN', '', 'O') ('information', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ("''", "''", '', 'O')
+Hydril Grant_Prideco ¡¬631_patent USPTO_material_prior_art Grant_Prideco Grant_Prideco
+__NEW_SENT__
+('If', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('can', 'MD', '', 'O') ('prove', 'VB', '', 'O') ('these', 'DT', '', 'O') ('allegations', 'NNS', '', 'O') ('they', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('ground', 'VB', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('of', 'IN', '', 'O') ('monopolization', 'NN', '', 'O') ('in', 'IN', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sherman_Act', 'NN', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('``', '``', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('strip', 'VB', '', 'O') ('[', '-LRB-', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') (']', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('exemption', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust_laws', 'NN', '', 'O') ("''", "''", '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('would', 'MD', '', 'O') ('otherwise', 'RB', '', 'O') ('provide', 'VB', '', 'O')
+Hydril 2
+__NEW_SENT__
+('Walker_Process', 'VBP', '', 'O') ('382', 'CD', 'CARDINAL', 'B') ('U.S.', 'NNP', 'GPE', 'B') ('at', 'IN', '', 'O') ('177', 'CD', 'CARDINAL', 'B') ('86_S.Ct._347', 'CD', 'PRODUCT', 'B') ('(', '-LRB-', '', 'O') ('footnote', 'NN', '', 'O') ('omitted', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+382 U.S. 177 86_S.Ct._347
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('alleges', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('obtained', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('by', 'IN', '', 'O') ('knowingly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('deliberately', 'RB', '', 'O') ('concealing', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office_prior_art', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('knew', 'VBD', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('resulted', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('application', 'NN', '', 'O')
+Grant_Prideco
+__NEW_SENT__
+('Since', 'IN', '', 'O') ('neither', 'CC', '', 'O') ('the', 'DT', '', 'O') ('patent_application', 'NN', '', 'O') ('nor', 'CC', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('history', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('before', 'IN', '', 'O') ('us', 'PRP', '', 'O') ('we', 'PRP', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('tell', 'VB', '', 'O') ('whether', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('contended', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('in', 'IN', '', 'O') ('obtaining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('Grant_Prideco', 'NN', 'ORG', 'B') ('made', 'VBD', '', 'O') ('affirmative', 'JJ', '', 'O') ('misstatements', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office', 'NN', 'ORG', 'B') ('about', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NN', '', 'O')
+Grant_Prideco Patent_Office
+__NEW_SENT__
+('Cf', 'UH', '', 'O')
+
+__NEW_SENT__
+('Walker_Process', 'VBP', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('``', '``', '', 'O') ('alleged', 'VBN', '', 'O') ('fraud', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Food_Machinery', 'NNP', '', 'O') ('had', 'VBD', '', 'O') ('sworn', 'VBN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('neither', 'CC', '', 'O') ('knew', 'VBD', '', 'O') ('nor', 'CC', '', 'O') ('believed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('public', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('more', 'JJR', 'DATE', 'B') ('than', 'IN', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('year', 'NN', 'DATE', 'I') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('filing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('patent_application', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('in', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('Food_Machinery', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('party', 'NN', '', 'O') ('to', 'TO', '', 'O') ('prior', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('within', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('time', 'NN', '', 'O') ("''", "''", '', 'O')
+more than one year
+__NEW_SENT__
+('382', 'CD', 'CARDINAL', 'B') ('U.S.', 'NNP', 'GPE', 'B') ('at', 'IN', '', 'O') ('174', 'CD', 'CARDINAL', 'B') ('86_S.Ct._347', 'CD', '', 'O')
+382 U.S. 174
+__NEW_SENT__
+('In', 'IN', '', 'O') ('any', 'DT', '', 'O') ('event', 'NN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('allegations', 'NNS', '', 'O') ('here', 'RB', '', 'O') ('go', 'VBP', '', 'O') ('far', 'RB', '', 'O') ('beyond', 'IN', '', 'O') ('a', 'DT', '', 'O') ('simple', 'JJ', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office_prior_art', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('deemed', 'VBN', '', 'O') ('material', 'NN', '', 'O')
+
+__NEW_SENT__
+('Under', 'IN', '', 'O') ('our', 'PRP$', '', 'O') ('precedent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('conduct', 'NN', '', 'O') ('alleged', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Hydril', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('complaint', 'NN', '', 'O') ('would', 'MD', '', 'O') ('constitute', 'VB', '', 'O') ('Walker_Process_fraud', '.', '', 'O')
+Hydril
+__NEW_SENT__
+('Cf', 'UH', '', 'O')
+
+__NEW_SENT__
+('Nobelpharma', 'NNP', 'ORG', 'B') ('AB', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Implant', 'NNP', 'ORG', 'B') ('Innovations', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('141_F.3d_1059', 'CD', '', 'O') ('1070', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.1998', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('We', 'PRP', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('shows', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('acquired', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('means', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('either', 'CC', '', 'O') ('a', 'DT', '', 'O') ('fraudulent_misrepresentation', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('fraudulent_omission', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('party', 'NN', '', 'O') ('asserting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('aware', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fraud', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('bringing', 'VBG', '', 'O') ('suit', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('can', 'MD', '', 'O') ('expose', 'VB', '', 'O') ('a', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('to', 'IN', '', 'O') ('liability', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust_laws', 'NNS', '', 'O')
+Nobelpharma AB Implant Innovations Inc. 1070
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('arrive', 'VBP', '', 'O') ('at', 'IN', '', 'O') ('this', 'DT', '', 'O') ('conclusion', 'NN', '', 'O') ('because', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fraudulent_omission', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('just', 'RB', '', 'O') ('*1350', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('reprehensible', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fraudulent_misrepresentation', 'NN', '', 'O')
+
+__NEW_SENT__
+('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('B', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('antitrust_claim', 'NN', '', 'O') ('because', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('``', '``', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('allege', 'VB', '', 'O') ('the', 'DT', '', 'O') ('minimum_level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enforcement', 'NN', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('Walker_Process_claim', 'FW', '', 'O') ('against', 'IN', '', 'O') ('Grant_Prideco', 'NN', '', 'O') ("''", "''", '', 'O') ('since', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('allege', 'VB', '', 'O') ('enforcement_activity', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('create', 'VB', '', 'O') ('an', 'DT', '', 'O') ('objectively', 'JJ', '', 'O') ('reasonable_apprehension', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Grant_Prideco', 'NN', 'PERSON', 'B') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_patent', 'NNP', 'ORG', 'B') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("''", "''", '', 'O')
+Hydril Grant_Prideco Grant_Prideco ¡¬631_patent Hydril
+__NEW_SENT__
+('Hydril_II', 'NFP', '', 'O') ('at', 'IN', '', 'O') ('612', 'CD', 'CARDINAL', 'B')
+612
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('unclear', 'JJ', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defect', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('discerned', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('complaint', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('allege', 'VB', '', 'O') ('sufficient', 'JJ', '', 'O') ('enforcement_activity', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Grant_Prideco', 'NNP', '', 'O') ('i.e.', 'FW', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('would', 'MD', '', 'O') ('create', 'VB', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('reasonable', 'JJ', '', 'O') ('expectation', 'NN', '', 'O') ("''", "''", '', 'O') ('that', 'DT', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('would', 'MD', '', 'O') ('file', 'VB', '', 'O') ('patent_infringement', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('threaten', 'VB', '', 'O') ('such', 'JJ', '', 'O') ('activity', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('itself', 'PRP', '', 'O') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('customers', 'NNS', '', 'O')
+Hydril Grant_Prideco Hydril Hydril
+__NEW_SENT__
+('Neither', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('however', 'RB', '', 'O') ('justifies', 'VBZ', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('at', 'IN', '', 'O') ('what', 'WP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('described', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('very', 'RB', '', 'O') ('early', 'JJ', '', 'O') ('stages', 'NNS', '', 'O') ("''", "''", '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('relying', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('enforcement', 'NN', '', 'O') ('ground', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('noted', 'VBD', '', 'O') ('our', 'PRP$', '', 'O') ('statement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Unitherm', 'NNP', 'GPE', 'B') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Federal', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('antitrust', 'JJ', '', 'O') ('law', 'NN', '', 'O') ('the', 'DT', '', 'O') ('standards', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('we', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('developed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('jurisdiction', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Declaratory_Judgment_Action', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalidity', 'NN', '', 'O') ('also', 'RB', '', 'O') ('define', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('minimum_level', 'NN', '', 'O') ('of', 'IN', '', 'O') ("'enforcement", 'FW', '', 'O') ("'", '``', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('expose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Walker_Process_claim', 'NN', 'ORG', 'B') ('for', 'IN', '', 'O') ('attempted', 'VBN', '', 'O') ('monopolization', 'NN', '', 'O') ("''", "''", '', 'O')
+Unitherm Federal Circuit Walker_Process_claim
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Unitherm', 'NNP', 'ORG', 'B') ('375', 'CD', 'ORG', 'I') ('F.3d', 'CD', 'ORG', 'I') ('at', 'IN', '', 'O') ('1358', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+Unitherm 375 F.3d 1358
+__NEW_SENT__
+('To', 'IN', '', 'O') ('the', 'DT', '', 'O') ('extent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ruling', 'NN', '', 'O') ('may', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('allege', 'VB', '', 'O') ('threatened', 'JJ', '', 'O') ('enforcement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('against', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('customers', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('valid', 'JJ', '', 'O') ('Walker_Process_claim', ',', 'ORG', 'B') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('based', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('enforcement_activity', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('against', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plaintiff', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('customers', 'NNS', '', 'O')
+Hydril Hydril Walker_Process_claim
+__NEW_SENT__
+('Threats', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('litigation', 'NN', '', 'O') ('against', 'IN', '', 'O') ('customers', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fraudulently-procured', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('reasonable', 'JJ', '', 'O') ('likelihood', 'NN', '', 'O') ('that', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('threats', 'NNS', '', 'O') ('will', 'MD', '', 'O') ('cause', 'VB', '', 'O') ('the', 'DT', '', 'O') ('customers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('cease', 'VB', '', 'O') ('dealing', 'VBG', '', 'O') ('with', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('supplier', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('kind', 'NN', '', 'O') ('of', 'IN', '', 'O') ('economic', 'JJ', '', 'O') ('coercion', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('antitrust_laws', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('prevent', 'VB', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('supplier', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('equally', 'RB', '', 'O') ('injured', 'VBN', '', 'O') ('if', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('loses', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('share', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('because', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('customers', 'NNS', '', 'O') ('stop', 'VBP', '', 'O') ('dealing', 'VBG', '', 'O') ('with', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('than', 'IN', '', 'O') ('if', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('competitor', 'NN', '', 'O') ('directs', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('monopolistic', 'JJ', '', 'O') ('endeavors', 'NNS', '', 'O') ('against', 'IN', '', 'O') ('the', 'DT', '', 'O') ('supplier', 'NN', '', 'O') ('itself', 'PRP', '', 'O')
+
+__NEW_SENT__
+('Without', 'IN', '', 'O') ('customers', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('supplier', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('business', 'NN', '', 'O')
+
+__NEW_SENT__
+('Our', 'PRP$', '', 'O') ('recent_decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Microchip', 'NNP', 'ORG', 'B') ('Technology', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('The', 'DT', 'ORG', 'B') ('Chamberlain', 'NNP', 'ORG', 'I') ('Group', 'NNP', 'ORG', 'I') ('441_F.3d_936_(Fed.Cir.2006)', 'NNP', 'ORG', 'I') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('require', 'VB', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('conclusion', 'NN', '', 'O')
+Microchip Technology Inc. The Chamberlain Group 441_F.3d_936_(Fed.Cir.2006)
+__NEW_SENT__
+('There', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Declaratory_Judgment_Act', 'NN', '', 'O') ('to', 'TO', '', 'O') ('entertain', 'VB', '', 'O') ('a', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('raising', 'VBG', '', 'O') ('various', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('threats', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('enforcement', 'NN', '', 'O') ('litigation', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('against', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('customers', 'NNS', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('satisfy', 'VB', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('our', 'PRP$', '', 'O') ('test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('jurisdiction-that', 'NN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('declaratory', 'JJ', '', 'O') ('plaintiff', 'NN', '', 'O') ('must', 'MD', '', 'O') ('establish..', 'VB', '', 'O') ('a', 'DT', '', 'O') ('reasonable_apprehension', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('will', 'MD', '', 'O') ('face', 'VB', '', 'O') ('a', 'DT', '', 'O') ('patent_infringement', 'JJ', '', 'O') ('suit', 'NN', '', 'O') ('if', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('commences', 'VBZ', '', 'O') ('or', 'CC', '', 'O') ('continues', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('activity', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ("''", "''", '', 'O')
+first
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('942', 'CD', 'CARDINAL', 'B')
+942
+__NEW_SENT__
+('For', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('previously', 'RB', '', 'O') ('given', 'VBN', '', 'O') ('we', 'PRP', '', 'O') ('decline', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('extend', 'VB', '', 'O') ('that', 'DT', '', 'O') ('ruling', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'VB', '', 'O') ('a', 'DT', '', 'O') ('Walker_Process_claim', 'CD', '', 'O') ('alleging', 'VBG', '', 'O') ('threats', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('litigation', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('against', 'IN', '', 'O') ('a', 'DT', '', 'O') ('supplier', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('customers', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('allegedly', 'RB', '', 'O') ('procured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('fraud', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Office', 'NN', '', 'O')
+
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('present', 'VB', '', 'O') ('an', 'DT', '', 'O') ('occasion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('address', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Supreme_Court', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('recent_decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Medimmune', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Genentech', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('549_U.S._118', 'CD', '', 'O') ('127_S.Ct._764', 'CD', '', 'O') ('166_L.Ed.2d_604_(2007)', 'CD', '', 'O') ('which', 'WDT', '', 'O') ('dealt', 'VBD', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('standard', 'NN', '', 'O') ('for', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('when', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('action', 'NN', '', 'O') ('satisfies', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('case-or-controversy', 'NNP', '', 'O') ('requirement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Declaratory_Judgment_Act', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Supreme_Court Medimmune Inc. Genentech Inc.
+__NEW_SENT__
+('C.', 'NNP', 'PERSON', 'B') ('Grant_Prideco', 'NNP', 'PERSON', 'I') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust_claim', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('upheld', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('other', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('rely', 'VB', '', 'O')
+C. Grant_Prideco
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('under', 'IN', '', 'O') ('Fifth_Circuit_antitrust_law', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('we', 'PRP', '', 'O') ('apply', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('deciding', 'VBG', '', 'O') ('non-patent', 'JJ', '', 'O') ('antitrust', 'JJ', '', 'O') ('questions', 'NNS', '', 'O') ('*1351', ':', '', 'O') ('Unitherm', 'NNP', '', 'O') ('375', 'CD', '', 'O') ('F.3d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('1355', 'CD', 'DATE', 'B') ('Hydril', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('antitrust_claim', 'NN', '', 'O') ('fails', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('following', 'JJ', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('additional', 'JJ', '', 'O') ('reasons', 'NNS', '', 'O') (':', ':', '', 'O')
+1355 Hydril three
+__NEW_SENT__
+('1', 'LS', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('Hydril', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('injury', 'NN', '', 'O') ('in', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('alleges', 'VBZ', '', 'O') ('only', 'RB', '', 'O') ('exclusion', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('international', 'JJ', '', 'O') ('market', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('domestic', 'JJ', '', 'O') ('market', 'NN', '', 'O') (';', ':', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('allege', 'VB', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('made', 'VBD', '', 'O') ('or', 'CC', '', 'O') ('sold', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('infringing', 'VBG', '', 'O') ('product', 'NN', '', 'O') (';', ',', '', 'O') ('and', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('allege', 'VB', '', 'O') ('improper', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('``', '``', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('effective', 'JJ', '', 'O') ('[', '-LRB-', '', 'O') ('time', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('[', '-LRB-', '', 'O') ('¡¬631', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ("''", "''", '', 'O')
+Hydril
+__NEW_SENT__
+('2', 'LS', 'CARDINAL', 'B')
+2
+__NEW_SENT__
+('Hydril', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Hydril', 'NNP', 'PERSON', 'B') ('U.K.', 'NNP', 'PERSON', 'I') ('are', 'VBP', '', 'O') ('``', '``', '', 'O') ('remote', 'JJ', '', 'O') ('parties', 'NNS', '', 'O') ("''", "''", '', 'O') ('who', 'WP', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('maintain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Walker_Process_claim', 'NN', '', 'O')
+Hydril U.K.
+__NEW_SENT__
+('3', 'LS', 'CARDINAL', 'B')
+3
+__NEW_SENT__
+('Hydril', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('alleged', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬631_patent', 'NNP', 'ORG', 'B') ('gave', 'VBD', '', 'O') ('Grant_Prideco', 'NNP', 'ORG', 'B') ('any', 'DT', '', 'O') ('market_power', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relevant_market', 'NN', '', 'O')
+Hydril ¡¬631_patent Grant_Prideco
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('may', 'MD', '', 'O') ('affirm', 'VB', '', 'O') ('a', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('any', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('shown', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('even', 'RB', '', 'O') ('though', 'IN', '', 'O') ('that', 'DT', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('Lion', 'NNP', 'ORG', 'B') ('Raisins', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('United_States', 'NNS', '', 'O') ('416_F.3d_1356', 'CD', 'DATE', 'B') ('1368', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.2005', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('that', 'DT', '', 'O') ('authority', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('discretionary', 'JJ', '', 'O') ('not', 'RB', '', 'O') ('mandatory', 'JJ', '', 'O')
+Lion Raisins Inc. 416_F.3d_1356 1368
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Q', 'NNP', '', 'O') ('Int', 'NNP', '', 'O') ("'", "''", '', 'O') ('l', 'NNP', '', 'O') ('Courier', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Smoak', 'NNP', '', 'O') ('441_F.3d_214', 'CD', 'CARDINAL', 'B') ('220_n._3_(4th_Cir.2006)', 'CD', 'CARDINAL', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('The', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('argue', 'VBP', '', 'O') ('several', 'JJ', '', 'O') ('alternative', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('affirmance', 'NN', '', 'O')
+Courier Inc. 441_F.3d_214 220_n._3_(4th_Cir.2006)
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('precluded', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('addressing', 'VBG', '', 'O') ('these', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('deem', 'VBP', '', 'O') ('it', 'PRP', '', 'O') ('more', 'RBR', '', 'O') ('appropriate', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('if', 'IN', '', 'O') ('necessary', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_instance', 'NN', '', 'O') ('on', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('present', 'JJ', '', 'O') ('case', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('decline', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('these', 'DT', '', 'O') ('additional', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('affirmance', 'NN', '', 'O') ('because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('more', 'RBR', '', 'O') ('appropriately', 'RB', '', 'O') ('addressed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_instance', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('alternative', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('affirmance', 'NN', '', 'O') ('appear', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('involve', 'VB', '', 'O') ('complex', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('difficult', 'JJ', '', 'O') ('questions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fifth_Circuit_antitrust_law', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('sharply', 'RB', '', 'O') ('dispute', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('answers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('which', 'WDT', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('far', 'RB', '', 'O') ('from', 'IN', '', 'O') ('clear', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('answers', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('require', 'VB', '', 'O') ('careful', 'JJ', '', 'O') ('study', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('already', 'RB', '', 'O') ('substantial', 'JJ', '', 'O') ('record', 'NN', '', 'O') ('or', 'CC', '', 'O') ('even', 'RB', '', 'O') ('augmentation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('record', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('appears', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('best', 'JJS', '', 'O') ('position', 'NN', '', 'O') ('initially', 'RB', '', 'O') ('to', 'TO', '', 'O') ('resolve', 'VB', '', 'O') ('these', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('such', 'JJ', '', 'O') ('resolution', 'NN', '', 'O') ('seems', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('the', 'DT', '', 'O') ('best', 'JJS', '', 'O') ('course', 'NN', '', 'O') ('to', 'TO', '', 'O') ('follow', 'VB', '', 'O') ('here', 'RB', '', 'O')
+
+__NEW_SENT__

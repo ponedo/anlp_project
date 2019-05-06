@@ -1,0 +1,358 @@
+867_f.3d_1253
+united_states court of appeals federal circuit
+visual memory llc plaintiff-appellant
+v. nvidia corporation defendant-appellee
+2016-2254
+| decided august 15 2017
+synopsis
+background holder of patent for computer_memory_system connectable to processor and having programmable_operational_characteristics based on characteristics of processor brought infringement action against competitor
+the united_states_district_court for the district of delaware no._115-cv-00789-rga richard g. andrews j. 2016_wl_3041847 granted competitors motion to dismiss for failure to state a claim
+competitor appealed
+
+the court of appeals stoll circuit_judge held that claims were directed to patent-eligible_subject_matter of improved_computer_memory_system not to abstract_idea of categorical_data_storage
+
+reversed and remanded
+
+hughes circuit_judge filed dissenting opinion
+
+*1254 appeal from the united_states_district_court for the district of delaware in no._115-cv-00789-rga judge richard g. andrews
+attorneys and law firms
+richard charles weinblatt stamoulis & weinblatt llc wilmington de argued for plaintiff-appellant
+also represented by stamatios stamoulis
+maximilian a
+grant latham & watkins llp washington dc argued for defendant-appellee
+also represented by gabriel bell ; richard gregory frenkel menlo park ca
+before o'malley hughes and stoll circuit_judges
+opinion
+dissenting opinion filed by circuit_judge hughes
+*1255 stoll circuit_judge
+visual_memory llc appeals the district_courts dismissal of its patent infringement complaint against nvidia_corporation
+the district_court held that visual_memorys u.s. patent no._5953,740 is drawn to patent-ineligible_subject_matter and therefore its complaint failed to state a claim under federal_rule of civil_procedure 12 b 6
+we conclude instead that the740_patent claims an improvement to computer_memory_systems and is not directed to an abstract_idea
+accordingly we reverse the district_court and remand for further_proceedings
+
+i
+the740_patent teaches that computer_systems frequently use a three-tiered memory_hierarchy to enhance performance
+the three tiers include 1 a low-cost low-speed_memory such as a magnetic disk for bulk storage of data ; 2 a medium-speed_memory that serves as the main_memory ; and 3 an expensive high-speed_memory that acts as a processor cache_memory
+'740_patent col. 1_ll._54 -64
+because the cache_memory is the most expensive it is typically smaller than the main_memory and can not always store all the data required by the processor
+the memory_hierarchy alleviates the limitations imposed by the caches size because it allows code and non-code_data1 to be transferred from the main_memory to the cache during operation to ensure that the currently executing program has quick access to the required data
+replacement algorithms determine which data should be transferred from the main_memory to the cache and which data in the cache should be replaced
+as a result the code and non-code_data to be executed by the processor are continually grouped into the cache thereby facilitating rapid access for the currently executing program
+
+these prior_art_memory_systems lacked versatility because they were designed and optimized based on the specific type of processor selected for use in that system
+designing a different memory_system for every processor_type is expensive and substituting any other type of processor into the system would decrease its efficiency
+memory systems could be designed to operate with multiple types of processors but the design tradeoffs often diminished the performance of one or all of the computers
+
+the740_patent purports to overcome these deficiencies by creating a memory_system with programmable_operational_characteristics that can be tailored for use with multiple_different_processors without the accompanying reduction in performance
+it discloses a main_memory 12 and three separate caches internal_cache 16 pre-fetch cache 18 and write buffer_cache 20
+id.at_col. 3_ll._34 -53
+a schematic of the740_patents memory_system is shown below in figure 1
+
+*1256. ?
+the three caches possess programmable_operational_characteristics that are programmable based on the type of processor connected to the memory_system
+when the system is turned on information about the type of processor is used to self-configure the programmable_operational_characteristics
+for example depending on the type of processor internal_cache 16 can store both code and non-code_data or it can store only code_data
+id.at_col. 4_ll._30 -35
+similarly write buffer_cache 20 can be programmed to buffer data` solely from a bus_master other than the system_processor' or to buffer` data writes by any bus_master including the system_processor'
+id.at_col. 4_ll._35 -43
+by separating the functionality for the caches and defining those functions based on the type of processor the patented_system can` achieve or exceed the performance of a system utilizing a cache many_times larger than the cumulative_size of the subject_caches'
+id.at_col. 4_ll._24 -26
+
+using a programmable_operational_characteristic based on the processor_type can also improve the main_memory
+fast page mode is a well-known technique for speeding up access to main_memory
+in fast_page_mode a row in a memory page is accessed without having to continually re-specify the row address thereby reducing access time
+a register associated with the main_memory holds the page address of the most recently accessed page
+the740_patents main_memory constitutes an advance over the prior art fast_page_mode memory because it is divided into pages containing either code or non-code_data and` the system provides a bias towards code pages or non-code pages depending upon the type of processor connected to the system'
+id.at_col. 4_ll._55 -58
+for one processor_type the register will hold the address of the most recently accessed code page ; for another processor_type the register will hold the address of the most recently accessed non-code page
+the specification discloses that combining the selective open page bias with the fast_page_mode offers faster access to main_memory and increases system performance
+id.at_col. 5_ll._6 -8
+
+taken together the` multiple mode operation' of the740_patent confers a substantial advantage by` allow [ ing ] different_types of processors to be installed with the [ same ] subject_memory_system without *1257 significantly compromising their individual_performance'
+id.at_col. 5_ll._25 -29
+the740_patents claims reflect these technological_improvements
+for example claim 1 recites 1
+a computer_memory_system connectable to a processor and having one or more programmable_operational_characteristics said characteristics being defined through configuration by said computer based on the type of said processor wherein said system is connectable to said processor by a bus said system comprising a main_memory connected to said bus ; and
+a cache connected to said bus ; wherein a programmable_operational_characteristic of said system determines a type of data stored by said cache
+id.at_col. 6_ll._28 -38
+the dependent claims further define the programmable_operational_characteristic i.e. determining whether the cache stores both code and non-code_data claim 2 and whether the cache buffers data from both the bus_master and the processor claim 3
+independent claim 6 recites the fast_page_mode_embodiment
+
+visual_memory sued nvidia for infringement of the740_patent
+believing the claims to be directed to patent-ineligible_subject_matter nvidia filed a motion to dismiss for failure to state a claim pursuant to federal_rule of civil_procedure 12 b 6
+
+the district_court granted nvidias motion
+under step one of the alice_test the court concluded that the claims were directed to the` abstract_idea of categorical_data_storage' which humans have practiced for many years
+visual_memory_llc v. nvidia corp. no._1 5-789 2016_wl_3041847 at *4 d. del
+may_27,_2016
+the courts step-two analysis found no inventive_concept because the claimed computer components-a main_memory cache bus and processor-were generic and conventional
+the740_patents programmable_operational_characteristics did not provide the inventive_concept according to the court because they represent generic concepts that determine the type of data to be stored by the cache and the patent fails to explain the mechanism for accomplishing the result
+id.at *7
+
+visual_memory appeals the district_courts decision
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+
+ii
+we apply regional circuit law when reviewing motions to dismiss for failure to state a claim fairwarning ip llc v. iatric sys. inc. 839_f.3d_1089 1092 fed
+cir
+2016 and the third circuit` review [ s ] de novo a district_courts grant of a motion to dismiss for failure to state a claim under federal_rule of civil_procedure 12 b 6'
+ballentine v. united_states 486_f.3d_806 808 3d cir
+2007
+we review de novo any determination that a claim is directed to patent-ineligible_subject_matter
+enfish llc v. microsoft_corp. 822_f.3d_1327 1334 fed
+cir
+2016
+
+section 101 defines the scope of patent-eligible_subject_matter as` any new and useful process machine manufacture or composition of matter or any new and useful improvement thereof'
+35 u.s.c.¡± 101
+to this broad universe of eligible_subject_matter the supreme_court has long-recognized an exception laws of nature natural_phenomena and abstract_ideas are not patent-eligible because they represent` the basic tools of scientific and technological work'
+ass n for molecular pathology v. myriad genetics inc. -- - u.s. -- -- 133_s.ct._2107 2116 186_l.ed.2d_124_(2013) quoting *1258 mayo_collaborative_servs
+v. prometheus labs. inc. 566_u.s._66 71 132_s.ct._1289 182_l.ed.2d_321_(2012)
+permitting patent protection for these ideas could thwart the purpose of the patent laws because it` might tend to impede innovation more than it would tend to promote it'
+alice corp. pty
+v. cls bank int l -- - u.s. -- -- 134_s.ct._2347 2354 189_l.ed.2d_296_(2014) quoting mayo 566 u.s. at 71 132_s.ct._1289
+
+the` framework for distinguishing patents that claim laws of nature natural_phenomena and abstract_ideas from those that claim patent-eligible_applications of those concepts' comprises two steps
+id.at 2355
+the first step requires courts to` determine whether the claims at issue are directed to one of those patent-ineligible concepts'
+id
+if they are the court must then analyze whether the claim elements either individually or as an ordered combination contain an` inventive_concept' that`transform [ s ] the nature of the claim into a patent-eligible_application'
+id
+( quoting mayo 566 u.s. at 72 78 132_s.ct._1289
+
+our analysis begins with alice_step one
+although the two steps in the alice framework` involve overlapping scrutiny of the content of the claims' the` supreme_courts formulation makes clear that the first-stage filter is a meaningful one sometimes ending the ¡± 101 inquiry'
+elec
+power grp. llc v. alstom s.a. 830_f.3d_1350 1353 fed
+cir
+2016
+in this regard we must articulate with specificity what the claims are directed to thales_visionix_inc. v. united_states 850_f.3d_1343 1347 fed
+cir
+2017 and` ask whether the claims are directed to an improvement to computer_functionality versus being directed to an abstract_idea'
+enfish 822 f.3d at 1335` [ s ] ome improvements in computer-related technology when appropriately claimed are undoubtedly not abstract such as a chip architecture an led display and the like
+``
+
+two recent cases inform our evaluation of whether the claims are` directed to' an abstract_idea
+in enfish we held claims reciting a self-referential_table for a computer_database were patent-eligible under alice_step one because the claims were directed to an improvement in the computers functionality
+id.at 1336
+we explained that` the plain focus of the claims is on an improvement to computer_functionality itself not on economic or other tasks for which a computer is used in its ordinary capacity'
+id
+the specification described the benefits of using a self-referential_table-faster searching and more effective data storage-and highlighted the differences between the claimed self-referential_table and a conventional database structure
+id.at 1333 1337
+based on this we rejected the district_courts characterization of the claims as being` directed to the abstract_idea ofstoring organizing and retrieving memory in a logical table
+`` id.at 1337
+we emphasized that the key question is` whether the focus of the claims is on the specific_asserted_improvement in computer_capabilities i.e. the self-referential_table for a computer_database or instead on a process that qualifies as anabstract_idea for which computers are invoked merely as a tool'
+id.at 1335-36
+moreover it was appropriate to consider the technological_improvement embodied in the claims at step one we explained because alice does not` broadly hold that all improvements in computer-related technology are inherently abstract and therefore must be considered at step two'
+id.at 1335
+
+similarly in thales we determined that claims reciting a unique configuration of inertial_sensors and the use of a mathematical equation for calculating the location and orientation of an object relative to a moving platform were patent-eligible under alice_step one
+inertial sensors in prior *1259 art systems measured motion relative to the earth and were prone to computational errors
+thales 850 f.3d at 1345
+the patented_system achieved greater accuracy than these prior art systems by measuring inertial changes of the tracked object relative to the moving platforms reference_frame
+id
+we disagreed with the court of federal claims conclusion that the claims were directed to the abstract_idea of using mathematical equations to determine the position of a moving object relative to a moving reference_frame
+rather we concluded that the claims were directed to` systems and methods that use inertial_sensors in a non-conventional manner to reduce errors in measuring the relative position and orientation of a moving object on a moving reference_frame'
+id.at 1348-49
+
+with these guideposts in mind and cognizant of the difficulty inherent in delineating the contours of an abstract_idea we turn to the claims at issue here
+our review of the740_patent claims demonstrates that they are directed to an improved_computer_memory_system not to the abstract_idea of categorical_data_storage
+claim 1 requires a memory_system` having one or more programmable_operational_characteristics said characteristics being defined through configuration by said computer based on the type of said processor' and` determin [ ing ] a type of data stored by said cache'
+'740_patent col. 6_ll._29 -38
+dependent claims 2_and_3 narrow the caches programmable_operational_characteristic to storing certain types of data` only code_data or.. both code_data and non-code_data' and buffering data from certain sources` buffering of data solely from said bus_master or.. both from said bus_master and said processor' respectively
+id.at_col. 6_ll._39 -51
+claim 6 recites the fast_page_mode_embodiment with a programmable_operational_characteristic and dependent claim 7 defines the programmable_operational_characteristic as the type of data to be stored
+id.at_col. 7_ll._3 -26
+none of the claims recite all types and all forms of categorical_data_storage
+
+the specification explains that multiple benefits flow from the740_patents improved memory_system
+as an initial matter the specification discloses that a memory_system with programmable_operational_characteristics defined by the processor connected to the memory_system permits` different_types of processors to be installed with the subject_memory_system without significantly compromising their individual_performance'
+id.at_col. 5_ll._25 -29
+although prior_art_memory_systems possessed the flexibility to operate with multiple_different_processors this one-size-fits-all approach frequently caused a tradeoff in processor performance
+id.at_col. 2_ll._47 -52
+the740_patents teachings obviate the need to design a separate memory_system for each type of processor which proved to be costly and inefficient and at the same_time avoid the performance problems of prior_art_memory_systems
+see j.a
+771
+finally in addition to enabling interoperability with multiple_different_processors the740_patent_specification explains that the selective definition of the functions of the cache_memory based on processor_type results in a memory_system that can outperform a prior art memory_system that is armed with` a cache many_times larger than the cumulative_size of the subject_caches'
+'740_patent col. 4_ll._21 -26
+
+as with enfishs self-referential_table and the motion tracking system in thales the claims here are directed to a technological_improvement an enhanced computer_memory_system
+the740_patents claims focus on a` specific_asserted_improvement in computer_capabilities' -the *1260 use of programmable_operational_characteristics that are configurable based on the type of processor-instead of` on a process that qualifies as anabstract_idea for which computers are invoked merely as a tool'
+enfish 822 f.3d at 1336
+and like the patents at issue in enfish and thales the specification discusses the advantages offered by the technological_improvement
+accordingly this is not a case where the claims merely recite the` use of an abstract mathematical formula on any general purpose computer'` a purely conventional computer implementation of a mathematical formula' or` generalized steps to be performed on a computer using conventional computer activity'
+id.at 1338 collecting cases where claims were directed to patent-ineligible_subject_matter
+
+it is for this reason that the district_courts reliance on the patent-ineligible claims in content_extraction & transmission llc v. wells fargo bank 776_f.3d_1343_(fed._cir._2014) and in re tli_communications llc patent litigation 823_f.3d_607_(fed._cir._2016) was misplaced
+in content_extraction we reviewed a series of patents claiming a method of using a computer and a scanner to extract data from hard copy documents recognizing specific information in the extracted data and storing that information in memory
+alice clarified that adding a computer can not spare a claim that otherwise would be directed to an abstract_idea so we concluded that these claims were directed to` the basic_concept of data recognition and storage'
+content_extraction 776 f.3d at 1347
+in tli_communications the invention involved assigning` classification_data' such as timestamps or dates to digital_images sending the images to a server extracting the classification_data and having the server take the classification_data into consideration when storing the digital_images
+we held that the claims were` directed to the abstract_idea of classifying and storing digital_images in an organized manner'
+tli commc'ns 823 f.3d at 613
+although the claims recited the use of a phone and a server to carry out the claimed method the claims did not` describe a new telephone a new server or a new physical combination of the two' and were` not directed to a specific_improvement to computer_functionality'
+id.at 612
+
+the claims in contract extraction and tli_communications were not directed to an improvement in computer_functionality which separates the claims in those cases from the claims in the current case
+as discussed above the claims in the740_patent recite an allegedly new improved and more efficient memory_system
+no analogous improvement is claimed in content_extraction or tli_communications
+
+nvidia responds by arguing that the claims are directed to no more than` a desired result or outcome in the context of generic_computer_components and functionality'
+appellee br
+23-24
+according to nvidia the` programmable_operational_characteristic' is a purely functional feature that simply describes` allowing data to be stored based on its characteristics'
+id.at 22
+the claims however do not simply require a` programmable_operational_characteristic'
+even the broadest claim claim 1 requires a memory_system with a main_memory and a cache_memory where the memory_system is configured by a computer to store a type of data in the cache_memory based on the type of processor connected to the memory_system
+
+similarly the dissent contends that the claimed programmable_operational_characteristic is` nothing more than a black_box' that` the patent lacks any details about how [ the inventions purpose ] is achieved' and that` because the740_patent does not *1261 describe how to implement theprogrammable_operational_characteristic and requires someone else to supply the innovative_programming_effort it is not properly described as directed to an improvement in computer_systems'
+dissenting op
+1263
+there are three flaws with this conclusion
+
+first the patent includes a microfiche_appendix having a combined total of 263 frames of computer_code
+see j.a
+25-283
+the dissent assumes that this code would not teach one of ordinary_skill in the art the` innovative_programming_effort' required for a computer to configure a programmable_operational_characteristic of a cache_memory e.g. whether to store only code_data or code and non-code_data based on the type of processor connected to the memory_system
+such an assumption is improper when reviewing a dismissal under rule 12 b 6 where all factual_inferences must be drawn in favor of the non-moving party
+see e.g. erickson v. pardus 551_u.s._89 93-94 127_s.ct._2197 167_l.ed.2d_1081_(2007)
+
+second whether a patent_specification teaches an ordinarily skilled artisan how to implement the claimed invention presents an enablement issue under 35 u.s.c.¡± 112 not an eligibility issue under ¡± 101
+as we have explained` [ e ] nablement is a legal determination of whether a patent enables one skilled in the art to make and use the claimed invention'
+hybritech inc. v. monoclonal antibodies inc. 802_f.2d_1367 1384 fed
+cir
+1986
+moreover the implementation details of how to configure a programmable_operational_characteristic of a memory_system may well fall within the routine knowledge of one of ordinary_skill in the art and` a patent need not teach and preferably omits what is well known in the art'
+id
+
+third the dissent assumes that the` innovative' effort in the740_patent lies in the programming required for a computer to configure a programmable_operational_characteristic of a cache_memory
+this assumption is inconsistent with the patent_specification itself
+the specification makes clear that the inventors viewed their innovation as the creation of` a memory_system which is efficiently operable with different_types of host processors'740_patent col. 2_ll._65 -67 and the patent discloses how to implement such a memory_system
+specifically as demonstrated above both the specification and the claims expressly state that this improved memory_system is achieved by configuring a programmable_operational_characteristic of a cache_memory based on the type of processor connected to the memory_system
+for example the claims indicate that the programmable_operational_characteristic is` defined through configuration by said computer based on the type of said processor
+`` 2 see e.g. id.at_col. 6_ll._30 -32
+the specification further explains that in one example` [ f ] or a system employing a 386_or_386 sx system_processor internal_cache 16 holds only code_data whereas for a system employing a 486 processor internal_cache 16 holds both code and non-code_data'
+id.at_col. 4_ll._32 -35
+configuring the memory_system based on the type of processor connected to the memory_system is the improvement in computer technology to which the claims are directed
+alice requires no more from the claims or the specification to support our conclusion that the claims are not directed to an abstract_idea
+this conclusion is particularly proper on a motion *1262 to dismiss under rule 12 b 6 where all factual_inferences drawn from the specification must be weighed in favor of visual_memory the non-moving party
+
+to be sure the concept of categorical_data_storage underlies the740_patents claims in that claim 1 requires a programmable_operational_characteristic that` determines a type of data stored by said cache'
+but this is not enough to doom a claim under ¡± 101 because the claims are not so limited and` all inventions at some level embody use reflect rest upon or apply laws of nature natural_phenomena or abstract_ideas'
+mayo 566 u.s. at 71 132_s.ct._1289 ; see also alice 134 s.ct.at 2354` [ a ] n invention is not rendered ineligible for patent simply because it involves an abstract concept'
+( emphasis added
+nor is the740_patents use of conventional computer components by itself fatal to patent eligibility where the claims` are directed to an improvement in the functioning of a computer'
+enfish 822 f.3d at 1338
+
+because we conclude that the claims of the740_patent are not directed to an abstract_idea we need not proceed to step two of the alice_test
+
+iii
+we express no opinion on the ultimate question of validity
+prior art might very well invalidate the740_patents claims under ¡±¡± 102_or_103 ; alternatively challenges under ¡± 112 could prove successful
+these questions however are not before us
+our ruling is limited to a conclusion that the claims of the740_patent are not directed to patent-ineligible_subject_matter under ¡± 101
+
+we have considered the parties remaining arguments and find them unpersuasive
+because the district_court erred in dismissing visual_memorys complaint on the ground that the740_patent claimed patent-ineligible_subject_matter we reverse
+the case is remanded for further_proceedings
+
+reversed and remanded
+
+costs
+costs to appellant
+
+hughes circuit_judge dissenting
+step one of alice corp. v. cls bank international -- - u.s. -- -- 134_s.ct._2347 189_l.ed.2d_296_(2014) directs us to examine and determine the character of each claim as a whole
+in distilling the purpose of a claim we must not express the claims fundamental_concept at an inappropriate level of abstraction but at a level consistent with the level of generality or abstraction expressed in the claims themselves
+following those principles i would find the740 claims are directed to the abstract_idea of categorical_data_storage
+at step two of alice i would find the claims fail to recite any inventive_concepts sufficient to transform themselves into a patent-eligible_application
+thus i believe the740 claims are ineligible under ¡± 101 and i respectfully dissent from the majoritys contrary conclusion
+
+i
+the majority does not dispute that the740 claims encompass` categorical_data_storage'
+maj. op
+1262
+we appear to disagree however on whether this characterization of the740 claims is at an unduly` high level of abstraction'
+enfish llc v. microsoft_corp. 822_f.3d_1327 1337 fed
+cir
+2016
+i am mindful that we must be careful not to overgeneralize a claim because` if carried to its extreme [ it would make ] all inventions unpatentable'
+in re tli commc'ns llc patent litig. 823_f.3d_607 611 fed
+cir
+2016 quoting *1263 diamond v. diehr 450_u.s._175 189 n.12 101_s.ct._1048 67_l.ed.2d_155_(1981) ; see also thales_visionix_inc. v. united_states 850_f.3d_1343 1347 fed
+cir
+2017` we must therefore ensure at step one that we articulate what the claims are directed to with enough specificity to ensure the step one inquiry is meaningful`
+at the same_time we must not express the basic_concept of the claim in a way that is` untethered from the language of the claims'
+enfish 822 f.3d at 1337
+when we assess what the claims are directed to we must do so at the same level of generality or abstraction expressed in the claims themselves
+id
+
+i do not believe that we can describe the fundamental_concept behind the740 claims at a lower level of abstraction than categorical_data_storage
+for example in enfish we found the claims were` directed to a specific_improvement to the way computers operate'
+id.at 1336
+we were only able to describe the claims at that level of specificity because the claims were not` directed to any form of storing tabular data but instead [ we ] re specifically directed to a self-referential_table'
+id.at 1337
+we knew the` claims [ were ] directed to a specific implementation of a solution to a problem' id.at 1339 because the specification contained a four-step algorithm for implementing the claimed self-referential_table id.at 1336-37
+
+here the740 claims are not directed to a specific means or method of implementing a` programmable_operational_characteristic'
+claim 1 for instance claims a system comprising a main_memory and a cache connected to a bus with a` programmable_operational_characteristic' that` determines a type of data stored by said cache'
+'740_patent col. 6_ll._28 -38
+the claim does not provide any specific limitations on the` programmable_operational_characteristic' making it a purely functional component
+the` programmable_operational_characteristic' is nothing more than a black_box for performing the abstract_idea of storing data based on its characteristic and the patent lacks any details about how that is achieved
+the remaining computer elements in the claims cache memory bus are nothing more than a collection of conventional computing components found in any computer
+see id.at_col. 1_ll._51 -col. 2_ll._56
+
+i disagree therefore with the majority that combining the black_box of a` programmable_operational_characteristic' with conventional computer equipment constitutes a specific_improvement in computer_memory_systems
+because the740_patent does not describe how to implement the` programmable_operational_characteristic' and requires someone else to supply the innovative_programming_effort it is not properly described as directed to an improvement in computer_systems
+see amdocs isr
+ltd. v. openet telecom inc. 841_f.3d_1288_(fed._cir._2016) reyna j. dissenting` [ l ] ong-standing supreme_court precedent clearly establishes that a desired goal without means for achieving that goal is an abstract_idea
+`` ; see also dealertrack inc. v. huber 674_f.3d_1315 1333 fed
+cir
+2012 finding claims abstract because the patent did` not specify how the computer hardware and database are specially programmed to perform the steps claimed in the patent'
+
+the question of what the claims cover is critical to the ¡± 101 analysis
+the results from this analysis may also reveal a ¡± 112 enablement problem but that does not preclude its relevance to the ¡± 101 analysis
+here the lack of specificity supports the notion that the claims are directed to an abstract_idea
+it is true that the740_patent includes a microfiche_appendix containing computer_code
+but visual_memory does not contend that the microfiche limits *1264 the claims
+j.a
+503 conceding that` [ i ] n these claims the microfiche is not claimed in the claims'
+therefore considering the microfiche code would result in an inquiry that is` untethered from the language of the claim [ s ]'
+enfish 822 f.3d at 1337
+thus i would find that the740 claims are directed to the abstract_idea of categorical_data_storage
+
+at step two of alice if the claims are directed to patent-ineligible_subject_matter we must` consider the elements of each claim both individually andas an ordered combination to determine whether the additional elementstransform the nature of the claim into a patent-eligible_application'
+alice 134 s.ct.at 2355 quoting mayo_collaborative_servs
+v. prometheus labs. inc. 566_u.s._66 78 132_s.ct._1289 182_l.ed.2d_321_(2012)
+the740 claims do not contain an inventive_concept
+the claims refer to generic_computer_components and use them to perform generic computer functions
+see740_patent col. 1_ll._51 -col. 2_ll._56
+these are all routine components and functions used to` apply' the abstract_idea of categorical_data_storage in a computer environment and are not sufficient to constitute an inventive_concept and transform the abstract_idea into a patent-eligible invention
+
+ii
+in sum i believe the majority has analyzed step one of alice in a way that is untethered from the740 claims and the specification
+under the majoritys reasoning many patent ineligible computer-implemented inventions could be described as non-abstract because they purport to` improve' a computer despite requiring someone else to provide all the innovation
+i would find the740 claims are directed to the abstract_idea of categorical_data_storage and that the claims fail to recite any inventive_concepts sufficient to transform the abstract_idea into a patent eligible invention under ¡± 101
+accordingly i respectfully dissent
+
+all citations
+867_f.3d_1253 123_u.s.p.q.2d_1712
+footnotes
+1
+the740_patent defines code_data to include instructions whereas non-code_data does not
+'740_patent col. 3_ll._37 -41
+2
+the detail required by the claim_language reassures us that contrary to the dissents assertion we are not expressing the claims basic_concept in a way that is untethered from the claim_language
+dissenting op
+1262-63
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+visual_memory_llc v. nvidia_corporation 867_f.3d_1253 2017 123_u.s.p.q.2d_1712
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

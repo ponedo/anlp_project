@@ -1,0 +1,392 @@
+274_f.3d_1371
+united states court of appeals federal circuit
+interactive pictures corp. formerly known as omniview inc. plaintiff-appellee v. infinite pictures inc. defendant-appellant and
+bill tillman craig jones and gary waltenbaugh doing business as graphics effects also known as graphics efx defendants
+no._01-1029
+| dec._20,_2001
+| rehearing and rehearing en banc denied march_21,_2002
+synopsis
+owner of patent for image_processing_system sued competitor for infringement
+the united_states_district_court for the eastern_district of tennessee robert leon jordan j. entered judgment on jury_verdict for owner and competitor appealed
+the court of appeals lourie circuit_judge held that 1 amendment of claim did not preclude subsequent assertion of infringement by equivalents ; 2 evidence supported finding of infringement by equivalents ; and 3 evidence supported damage_award
+
+affirmed
+
+attorneys and law firms
+*1373 robert f. altherr jr. banner & witcoff ltd of washington dc argued for plaintiff-appellee
+with him on the brief were nina l. medlock and bradley c. wright
+of counsel was thomas h. jackson banner & witcoff ltd. j. michael jakes finnegan henderson farabow garrett & dunner l.l.p. of washington dc argued for defendant-appellant
+with him on the brief was christine e. lehman
+before lourie circuit_judge archer senior circuit_judge and gajarsa circuit_judge
+opinion
+lourie circuit_judge
+infinite_pictures inc. appeals from the decision of the united_states_district_court for the eastern_district of tennessee denying its various motions following a jury_verdict finding infinite and the other defendants liable for infringement of interactive_pictures_corp.s u.s._patent 5,185,667 under the doctrine of equivalents and awarding $ 1 million in damages
+because the district_court did not err as a matter of law by refusing to preclude infringement by equivalents and because the jurys finding of equivalence and award of damages were supported by substantial_evidence we affirm
+
+background
+a
+the ¡¬667_patent and its prosecution history
+the ¡¬667_patent describes an image viewing system whereby a user can view a specified portion of a hemispherical_field of view in corrected perspective
+¡¬ 667 patent col._2,_ll._35-60
+the image viewing system utilizes inter_alia a camera equipped with a fisheye_lens an input_memory an image_transform_processor and an output
+id.at_col._3,_ll._25-48 figure 1
+in operation the fisheye_lens_camera produces a circular_image of an entire hemispherical_field of view
+id. abstract
+as the hemispherical_field of view is mapped into a circle the fisheye_lens introduces distortion-fisheye_distortion-such that straight lines appear curved in the circular_image
+id.at col._4,_ll._22-47
+the circular_image_data is stored in the input_memory
+id.at_col._3,_ll._25-48
+the image_transform_processor reads the circular_image_data from the input_memory accepts user_input of pan and tilt angles to specify a region of interest in the image mathematically transforms the image data in that region so as to correct the fisheye_distortion and outputs a perspective corrected view of that region to the systems output
+id.at col._2,_ll._35-60
+the user may also specify desired rotation and magnification of the region of interest
+id
+the system performs the mathematical transformations electronically without moving parts id.at col._3,_ll._10-24 preferably at real_time rates id.at col._4,_ll._44-47
+
+claim 1 the only claim at issue reads as follows 1
+a device for providing perspective corrected views of a selected portion of a hemispherical view in a desired format that utilizes no moving parts which comprises a camera_imaging_system for receiving optical_images and for producing output_signals corresponding to said optical_images ; *1374 fisheye_lens means attached to said camera_imaging_system for producing said optical_images throughout said hemispherical_field-of-view for optical conveyance to said camera_imaging_system ; image capture means for receiving said output_signals from said camera_imaging_system and for digitizing said output_signals from said camera_imaging_system ; input_image_memory means for receiving said digitized signals ; image_transform_processor means for processing said digitized signals in said input_image_memory means according to selected viewing angles and magnification and for producing output_transform_calculation_signals according to a combination of said digitized signals said selected viewing angles and said selected_magnification ; output_image_memory means for receiving said output_signals from said image_transform_processor means ; input_means for selecting said viewing angles and magnification ; microprocessor means for receiving said selected viewing angles and magnification from said input_means and for converting said selected viewing angles and magnification for input to said image_transform_processor means to control said processing of said transform_processor means ; and
+output means connected to said output_image_memory means for recording said perspective corrected view according to said selected viewing angles and magnification
+id.at col._8,_ll._27-66 emphasis added
+
+claim 1 was initially rejected by an examiner at the u.s._patent and trademark office under inter_alia 35 u.s.c.¡± 103 as being obvious over u.s._patent 5,067,019 issued to juday_et_al. in light of u.s._patent 5,068,735 issued to tuchiya et al
+the applicant challenged the propriety of the rejection by noting several deficiencies in the juday reference vis-a-vis claim 1 and disputing the relevance of tuchiya
+additionally the applicant amended claim 1 in several ways including inserting the words` transform_calculation' to the section reciting the` image_transform_processor means' so that` output_signals' became` output_transform_calculation_signals'
+that change was made without any explanation
+after receipt of the applicants claim_amendments and arguments the examiner allowed claim 1 without stating in the record any reasons for the allowance
+
+b
+the accused product
+infinite makes and markets a software package known as the` smoothmovethe_r panorama web builder'
+the product has two components a` photoseamer' program and a` viewer' program
+the photoseamer is designed to accept a set of three images from a 180¢X fisheye_lens_camera or other sources align and seam the images together into a 360¢X panorama and save the panorama image in an equirectangular format a`pan' file
+the collection and preparation of an equirectangular_panorama_file is an` off-line' operation meaning that it can not be accomplished in real_time with fast changing images such as motion video
+next the viewer reads the equirectangular_panorama_file and displays a portion of the image as determined by the users input of` navigation controls' e.g. left/right up/down and zoom in/out in a` smoothmovethe_r pan' window
+infinite_pictures smoothmovethe_r panorama web builder developer manual *1375 24 version 2 1996
+the viewer reacts in real_time to the users input producing the selected image without fisheye_distortion
+
+c. the district court proceedings
+interactive brought suit against infinite alleging that a computer equipped with a fisheye camera and executing the smoothmovethe_r software infringed the ¡¬ 667 patent
+interactive conceded that such a computer did not literally infringe the patent because smoothmove'sthe_r_equirectangular_panorama_file was different from the claimed` digitized signals' input to the` image_transform_processor means'
+however interactive presented a theory of infringement based on the doctrine of equivalents alleging that smoothmove'sthe_r_equirectangular_panorama_file though not an image obtained directly from a fisheye_lens_camera was substantially similar to it
+the case went to trial before a jury on the issues of infringement under the doctrine of equivalents validity and damages
+the jury returned a verdict finding claims 1-8 infringed and not invalid and awarded interactive $ 1 million in damages based on evidence of a reasonable_royalty on infinites sales determined in a hypothetical_negotiation between interactive and infinite
+
+the parties also submitted to the jury the question whether a hypothetical_version of claim 1 would ensnare the prior_art
+the hypothetical_claim differed from claim 1 in that the term` said digitized signal' was replaced by` an equirectangular_panorama_file' as infinite argued that the hypothetical_claim would be unpatentable over certain_prior_art but the jury determined that hypothetical_claim 1 would not ensnare that prior_art
+
+following the trial infinite made a number of motions including 1 a motion for judgment based on the defense of prosecution_history_estoppel ; 2 a motion for judgment of noninfringement under the doctrine of equivalents as a matter of law` jmol' on the grounds that smoothmovethe_r lacks an equivalent to the structure corresponding to a means-plus-function_limitation and that there was a lack of substantial_evidence to support the verdict of equivalence ; and 3 a motion to set aside the jurys damage_award in favor of a remittitur or new_trial on the issue of damages
+the district_court denied all three motions
+in deciding the prosecution_history_estoppel_issue the district_judge performed a` flexible bar' analysis interactive_pictures corp. v. infinite_pictures inc. no._396-cv-849 slip op.at 4-10 e.d.tenn
+mar._31,_1999 as this court had not yet issued its decision in festo corp. v. shoketsu kinzoku kogyo kabushiki co. 234_f.3d_558 56_uspq2d_1865_(fed.cir.2000) en banc cert
+granted 533_u.s._915 121_s.ct._2519 150_l.ed.2d_692_(2001) no._00-1543 which discarded that approach in favor of an absolute bar id.at 563-64 56 uspq2d at 1868
+
+infinite appeals from the judgment of the district_court
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1 1994
+
+discussion
+we review a district_courts denial of a motion for jmol de novo reapplying the jmol standard used by the district_court
+sextant avionique s.a. v. analog devices inc. 172_f.3d_817 824 49_uspq2d_1865 1869 fed.cir.1999
+jmol is appropriate when` there is no legally sufficient evidentiary basis for a reasonable jury to find for that party on that issue'
+fed.r.civ.p
+50 a 1
+applied_med res corp. v. u.s. surgical corp. 147_f.3d_1374 1377 47_uspq2d_1289 1290 fed.cir.1998
+applied_med
+to prevail` an appellant must show that the jurys findings presumed or express are not supported by substantial_evidence or if they were that the legal conclusion s implied from the jurys verdict can not in law be supported by those findings'
+celeritas techs. ltd. v. rockwell int l corp. 150_f.3d_1354 1358 47_uspq2d_1516 1519 fed.cir.1998 internal quotation marks omitted
+
+a determination of infringement requires a two-step analysis
+`` first the court determines the scope and meaning of the patent_claims asserted and then the properly construed claims are compared to the allegedly infringing device'
+cybor corp. v. fas techs. inc. 138_f.3d_1448 1454 46_uspq2d_1169 1172 fed.cir.1998 en banc citations omitted
+comparison of the claim to the accused device requires a determination that every limitation of the claim or its substantial equivalent be found in the accused device
+see warner-jenkinson co. v. hilton davis chem co. 520_u.s._17 29 117_s.ct._1040 137_l.ed.2d_146_(1997)
+whether a patentee can avail itself of the doctrine of equivalents implicates certain questions of law which we review de novo
+see e.g. id.at 39_n._8 117_s.ct._1040 whether a patents prosecution history estops the patentee from arguing an equivalent is an issue of law
+determination of infringement by equivalents is an issue of fact bai v. l & l wings inc. 160_f.3d_1350 1353 48_uspq2d_1674 1676 fed.cir.1998 which after a jury trial we review for substantial_evidence gen. electro music corp. v. samick music corp. 19_f.3d_1405 1409 30_uspq2d_1149 1152 fed.cir.1994
+we will not disturb a jury finding of infringement by equivalents unless` the evidence so favors [ the accused infringer ] that reasonable jurors could not arrive at a contrary verdict'
+id
+
+an award of damages by a jury is upheld on appellate review unless it is clearly not supported by evidence grossly excessive or based only on speculation and guesswork
+oiness v. walgreen co. 88_f.3d_1025 1031 39_uspq2d_1304 1308 fed.cir.1996
+we review a decision denying a grant of remittitur or a new_trial because of an excessive damages award for an abuse of discretion
+see id.at 1029 39 uspq2d at 1306 applying tenth circuit law ; see also skalka v. fernald envtl
+restoration mgmt corp. 178_f.3d_414 424 6th cir.1999 cert
+denied 530_u.s._1242 120_s.ct._2687 147_l.ed.2d_960_(2000) applying same standard under sixth circuit law
+
+infinite argues that devices containing its smoothmovethe_r software can not infringe claim 1 of the ¡¬667_patent as a matter of law for three reasons 1 amendments to the` image_transform_processor means' limitations and prosecution arguments relating to the same limitation estop infinite from relying on the doctrine of equivalents for that limitation ; 2 the asserted range of equivalents would ensnare certain_prior_art ; and 3 the asserted equivalent of the` image_transform_processor means' limitation-a limitation construed under 35 u.s.c.¡± 112 paragraph 6 and not literally present in smoothmovethe_r-predates the patent thereby precluding infinite from relying on the doctrine of equivalents for that limitation
+additionally infinite argues that there are substantial_differences *1377 under both the known interchangeability_test and the function-way-result_test
+finally infinite argues that interactives testimony concerning damages was flawed
+interactive responds that neither prosecution_history_estoppel prior_art nor the predating nature of smoothmove'sthe_r technology precludes it from prevailing on its claim of infringement under the doctrine of equivalents
+interactive also responds that substantial_evidence supports both the jurys findings of infringement by equivalence and the jurys award of damages
+
+a
+legal preclusion of the doctrine of equivalents
+1
+prosecution history estoppel
+infinite argues that interactive is estopped from asserting infringement by equivalents for two reasons
+first infinite contends that interactive narrowed the` image_transform_processor means' limitation during prosecution by replacing the words` output_signals' with the words` output_transform_calculation_signals' and infinite is thus barred from asserting any equivalents to that limitation under festo
+in infinites view the amendment changed the nature of the claimed output_signals
+infinite further asserts that a more particular recitation of the output_signals was necessary to define the invention over the prior_art cited prior to the amendment
+second infinite argues that interactives arguments that were made during prosecution in order to traverse the outstanding prior_art rejections estop interactive from asserting infringement by equivalents of the` image_transform_processor means' limitation
+infinite contends that interactives remarks to the examiner characterized the invention as a one-step image transformation system while characterizing juday as disclosing a two-step image transformation process-first creating a look-up table off-line and then transforming the image using the look-up table
+infinite points out that smoothmovethe_r also involves a two-step process-first creating the equirectangular_panorama_file with the photoseamer an off-line operation and then viewing selected portions using the viewer
+
+interactive responds that the amendment changing` output_signals' to` output_transform_calculation_signals' did not narrow the claim but merely clarified it by relabeling the signals without changing their identity or qualities
+interactive also responds that the arguments made during prosecution did not disclaim coverage of the smoothmovethe_r software
+interactive characterizes its remarks to the examiner as not drawing a one-step versus two-step_distinction but rather pointing out that judays system can not provide continuous changes in viewing angle rotation and magnification of the perspective corrected output_image_portion in real_time relative to the users input of different viewing angle rotation and magnification
+
+we agree with interactive that the claim_amendment and arguments do not estop infinite from asserting infringement on the ground that the` image_transform_processor means' limitation is met by equivalence
+as to the amendment-based estoppel_issue we conclude that the addition of the words` transform_calculation' was not a narrowing amendment because that addition did nothing more than make express what had been implicit in the claim as originally worded
+that interpretation flows from the original claim as a whole and in light of the specification
+first the claim names the processor a` transform_processor' and thus` transform' describes what the processor does
+*1378 secondly the specification refers to the corresponding structure as` x map and y map transform_processors' ¡¬667_patent col._4,_ll._1-2 emphasis added and derives equations by which the transform is calculated id.at col._7,_ll._3-54
+given such context one skilled in the art could reach no other conclusion than that the` output_signals' are the result of a transform_calculation
+because the amendment merely made explicit what had been implicit in the claim the amendment was not made for a` substantial reason related to patentability' and thus does not create prosecution_history_estoppel
+warner-jenkinson 520 u.s. at 33 117_s.ct._1040 137_l.ed.2d_146 41 uspq2d at 1873 ; see also turbocare div
+of demag delaval turbomach corp. v. gen. elec co. 264_f.3d_1111 1125-26 60_uspq2d_1017 1028 fed.cir.2001 holding that addition of the word` contact' to a claim did not narrow the claim and therefore did not estop application of the doctrine of equivalents for that element because another claim phrase` small diameter position' when read in light of the specification necessarily implied` contact
+``
+
+infinite also argues that interactive narrowed the definition of the phrase` output_signals' in order to avoid the prior_art
+infinites argument is based on the following applicant remark made during prosecution concerning` [ t ] he present invention as defined most broadly in claim 1' the [ digitized fisheye_image ] information in this input_memory is processed with a transform_processor to produce output_signals corresponding to the perspective corrected views according to selected viewing angles and magnification with these output_signals being produced according to a combination of the digitized signals the selected viewing angles and the selected_magnification
+although that remark does describe an aspect of the invention not found in the prior_art it did not alter what the phrase` output_transform_calculation_signals' or more simply the phrase` output_signals' meant in the claim and the patent as a whole
+on the contrary the remark is consistent with the plain language of the claim and the portion of the specification concerning the output_signals
+that remark reinforces our conclusion that no difference exists between the two phrases
+the remark uses the shorthand` output_signals' even though claim 1 contemporaneously had been amended to recite` output_transform_calculation_signals'
+the applicants interchanging of the two phrases therefore indicates that the phrases have the same meaning
+
+as to the argument-based estoppel_issue we agree with interactive that the arguments made during prosecution to distinguish judays ¡¬019_patent do not create estoppel
+as illustrated in figure 1 of the ¡¬019_patent juday discloses an image_processing_system including a camera 4 an analog-to-digital converter 6 a programmable_remapper 10 a digital-to-analog converter 14 and a monitor 18 connected serially in that order
+¡¬019_patent figure 1
+the programmable_remapper 10 transforms a digitized camera image into another form according to an operator selected look-up table
+id.at col._3,_ll._49-59
+by specifying a different_look-up table a different transform may be applied
+id
+juday discloses specific transforms to accommodate particular vision impairments viz. remapping an image away from the central_portion and into the periphery to accommodate maculopathy and compressing an image including its periphery into just the central_portion to accommodate tunnel vision
+id.at col._4,_ll._4-19
+each look-up table is determined off-line and then *1379 stored in the memory of the remapper 10
+id.at col._6,_ll._1-25
+judays only mention of a fisheye_lens is to note that the remapper 10 could introduce fisheye_distortion when the image_processing_system is used as a prosthesis for retinitis pigmentosa
+id.at col._14,_ll._40-58
+
+the examiner rejected claim 1 as being obvious over juday because according to the examiner judays image_processing_system read on claim 1 except that judays system lacked the capability to accept viewing angle and magnification selections by the user
+the examiner considered that capability to be well known in the art and concluded that one of ordinary_skill in the art would have been motivated to add those features to judays device so as to result in the invention of claim 1
+
+the applicant responded to the obviousness rejection by noting inter_alia three deficiencies in the juday system 1 the lack of a fisheye_lens ; 2 the lack of` pan and tilt implementation' image_rotation and magnification ; and 3 the lack of real_time capability
+concerning the latter the applicant stated juday_et_al
+utilizes a group of pre-selectedlook-up tables for remapping an image into the pre-selected configurations
+a specific look-up table is then used by the researcher to achieve a given remapping of the input data
+due to this functioning the resultantcorrected image is created in real-time at video_rates relative to the input to the system for only a limited number of image orientations and magnifications
+continuous change in orientation and magnification is not feasible in real_time at video_rates with the juday_et_al
+device
+hence perspective corrected pan and tilt is not possible in real_time with that device in contrast to the action with the device of the applicant.. further juday_et_al
+fails to provide either magnification or image_rotation
+these can not be accomplished by juday_et_al
+without continuous redetermination of the transformal mapping with this not being possible with the look-up table type of transformations
+
+we do not read those remarks as drawing a distinction between a one-step viewing system and a two-step viewing system
+infinites reading appears to misapprehend judays look-up tables by assuming that they are intermediate forms of the image
+that is not the case
+judays look-up tables represent the transformations themselves not the output images
+¡¬019_patent at col._3,_ll._49-59
+rather than drawing a one-step versus a two-step_distinction the remarks point out that judays system can not produce a view with a different orientation rotation or magnification unless a different_look-up table is utilized and widespread changing of look-up tables is not practical in real_time
+in contrast the inventions transform_calculation can provide a perspective corrected output_image_portion with variable viewing angle rotation and magnification
+because the viewing angle rotation and magnification are variables built into the transformation the output can change in real_time relative to the users input of changes to those parameters
+( that is also how the viewer module of the accused software operates albeit on an intermediate form of the image
+accordingly because the applicants remarks pertain only to the inventions capability to respond in real_time to user parameters interactive is not estopped from asserting that infinites two-step viewing software infringes the ¡¬667_patent under the doctrine of equivalents
+
+because neither the claim_amendment nor the applicants arguments during prosecution *1380 estop interactive from asserting that the smoothmovethe_r software contains an element equivalent to the` image_transform_processor means' we affirm the district_courts denial of infinites post-trial motion on the issue of prosecution_history_estoppel
+
+2
+prior art limitations on the doctrine of equivalents
+infinite next argues that the asserted scope of equivalents would not have been patentable over the following prior_art articles g. david ripley dvi-a digital multimedia technology 32 communications of the acm 811 1989` ripley' ; ned greene environment mapping and other applications of world projections 6 ieee computer graphics and applications 21 1986` greene' ; and mario onoe & yoshinori kuno digital processing of images taken by fish eye lens ieee proceedings new york 105 1982` onoe'
+according to infinite ripley and greene disclose fisheye_lens_cameras capturing hemispherical views which are digitized and transformed in their entirety to equirectangular projections from which a user can choose to view a certain portion while onoe discloses transformation algorithms for converting a fisheye_image to a perspectively correct rectangular image
+interactive responds that substantial_evidence supports the jurys finding that the hypothetical_claim does not encompass what ripley greene and onoe teach
+more particularly interactive states that the articles individually and cumulatively do not disclose or suggest perspective corrective transformation of only a portion of an image with user selection of magnification and rotation
+infinite counters that the jurys finding is merely advisory on that issue of law
+
+it is well settled law that a patentee can not assert a range of equivalents that encompasses the prior_art
+wilson sporting goods co. v. david geoffrey & assocs. 904_f.2d_677 683 14_uspq2d_1942 1948 fed.cir.1990
+to test this limit the notion of a hypothetical_claim may be useful
+id.at 684 14 uspq2d at 1948
+a hypothetical_claim may be constructed to literally cover the accused device
+id
+if such a claim would be unpatentable under 35 u.s.c.¡±¡± 102_or_103 then the patentee has overreached and the accused device is noninfringing as a matter of law
+id.at 683-84 14 uspq2d at 1948
+the burden of producing evidence of prior_art to challenge a hypothetical_claim rests with an accused infringer but the burden of proving patentability of the hypothetical_claim rests with the patentee
+streamfeeder llc v. sure-feed inc. 175_f.3d_974 984 50_uspq2d_1515 1521 fed.cir.1999
+
+we conclude that ripley greene and onoe collectively fail to disclose or suggest the hypothetical_version of claim 1 presented to the jury
+the ripley_article written by infinites founder describes a system called` palenque' ripley at 881-19 which was a precursor of smoothmovethe_r
+like smoothmovethe_r palenque produced an equirectangular_panorama_file from a photographic image captured by a fisheye_lens_camera
+id
+although the ripley_article does not address whether palenque provided perspective_correction magnification or rotation of the selected portion of the image the testimony of ripley and others firmly establishes that palenque lacked those capabilities ; infinite does not indicate otherwise
+in other words palenque merely copied a user-specified portion of the panorama for display on an output device without perspective_correction and without the capability for magnification or rotation
+
+*1381 the greene article describes a technique for projecting a fisheye_image onto a half cube and thus providing perspective_correction
+greene at 27-28
+the onoe article describes three computational methods for correcting distortion in fisheye_images and thereby accurately measuring parameters e.g. distance from fisheye_images
+onoe at 105
+one method employs a single fisheye_image with partial a priori knowledge of parameters
+id
+the other two methods employ stereo fisheye_images without a priori knowledge of parameters
+id
+
+while greene or onoe may have taught one of ordinary_skill in the art to add a perspective_correction capability to the palenque system described by ripley it is not clear that perspective_correction is applied only to the user-selected portion of the image rather than to the entire image
+even assuming perspective_correction of only a portion of the image the combination taught by the cited articles would lack at least the capability of the user to magnify or rotate the selected perspective-corrected portion of the image and the capability to do so in real_time relative to the users input would certainly not have been obvious
+because claim 1 requires that the perspective_correction processing performed by the` image_transform_processor means' be done` according to a combination of said digitized [ input image ] signals said selected viewing angles and said selected_magnification' we conclude that hypothetical_claim 1 would not have been unpatentable over ripley greene and onoe
+furthermore because claim 5 additionally recites user_input of a rotation angle we conclude that a hypothetical_version of claim 5 depending from and further limiting hypothetical_claim 1 would also not have been unpatentable over the prior_art of record
+
+we reach our conclusion on this issue independently of the jurys verdict
+because we reach the same conclusion as the jury we need not address the level of deference to which a jurys verdict is entitled in conducting a hypothetical_claim analysis
+compare wilson sporting goods 904 f.2d at 683 14 uspq2d at 1948 holding ensnarement to be an issue of law reviewed de novo with tegal corp. v. tokyo electron am. inc. 257_f.3d_1331 1348 59_uspq2d_1385 1398 fed.cir.2001 holding that underlying questions of fact in the context of obviousness are reviewed for clear error
+
+3
+equivalent of a means plus function limitation
+finally infinite argues that interactive can not assert infringement by equivalents of the` image_transform_processor means' limitation because that limitation is not literally present in the smoothmovethe_r software and the equivalent feature that is present in the smoothmovethe_r software predates the ¡¬ 667 patent
+infinite cites chiuminatta concrete concepts inc. v. cardinal indus. inc. 145_f.3d_1303 46_uspq2d_1752_(fed.cir.1998) as the basis for its argument
+
+interactive responds that this case is distinguishable from chiuminatta ; we agree
+in chiuminatta we held that a finding that a component of an accused product is not a structure` equivalent' to the corresponding structure of a means-plus-function_limitation for purposes of literal infringement analysis precludes a finding that the same_structure is equivalent for purposes of the doctrine of equivalents unless the component constitutes technology arising after the issuance of the patent
+id.at 1311 46 uspq2d at 1758
+however when a finding of noninfringement *big_token__1382_under_35__big_token u.s.c.¡± 112 paragraph 6 is premised on an absence of identical_function then infringement under the doctrine of equivalents is not thereby automatically precluded
+wms_gaming inc. v. int l game tech. 184_f.3d_1339 1353 51_uspq2d_1385 1395 fed.cir.1999
+that is because infringement under the doctrine of equivalents may be premised on the accused and the patented component having substantially the same function whereas structure corresponding to the disclosed limitation in a means-plus-function clause must perform the identical_function
+id
+
+in this case as in wms_gaming the absence of literal infringement is due to a lack of identical_function of the claimed means not a lack of equivalent structure as the district_judge aptly recognized
+interactive_pictures corp. v. infinite_pictures inc. no._396-cv-849 slip op.at 3-5 e.d.tenn
+sept._25,_2000
+more precisely the difference is that a different signal is input to the` image_transform_processor means'
+the claim recites that the input signal constitutes` said digitized signals' which refer to a digitized form of the image signals produced by a fisheye_lens_camera_imaging_system whereas the asserted equivalents input signal is an equirectangular_panorama_file
+a difference of inputs to a signal processing element resulting in the same output necessarily implies a difference in function performed by the element
+in fact the jury in this case concluded that the difference was insubstantial
+we will not reverse that fact-based decision as a matter of law
+accordingly we affirm the district_courts denial of infinites post-trial motion for jmol on this issue
+
+b
+the factual finding of equivalents
+having concluded that resort to the doctrine of equivalents is not barred as a matter of law we turn to the issue of equivalence in fact
+the precise issue before us is whether substantial_evidence supports the jurys finding that smoothmovethe_r with its equirectangular_panorama_file contains an element substantially the same as the` image_transform_processor means' limitation
+
+infinite argues that there are substantial_differences according to both the known interchangeability_test and the function-way-result_test
+concerning the former infinite argues that the equirectangular panoramapan file is not interchangeable with the claimed digitized fisheye_image data because the smoothmovethe_r_viewer is compatible with only thepan file format
+concerning the latter infinite argues that the` image_transform_processor means' and the smoothmovethe_r program differ in function way and result because the claimed` means' can transform images in real_time relative to motion in the image whereas smoothmovethe_r can transform only static images
+
+interactive responds that substantial_evidence supports the jurys finding of equivalence
+in particular interactive cites the testimony of its expert dr. birdwell that notwithstanding the incompatibility of data formats the equirectangular_panorama_format is a known substitute for digitized fisheye_signals and that the function of transforming a portion of an image in equirectangular_panorama_format is substantially the same as the function of transforming a portion of an image represented by digitized fisheye_signals
+furthermore birdwell testified that the smoothmovethe_r_viewer contains structure the same as or equivalent to the structure corresponding to the` image_transform_processor means'
+
+we agree that substantial_evidence supports the finding of equivalence
+although *1383 infinite attacks birdwells testimony as being conclusory the testimony is more than that
+birdwell showed the jury both a fisheye_image and an image in an equirectangular_panorama_format while testifying that one can be derived from the other
+he also explained that perspective-correction processing of one of the two image forms is substantially the same as that of the other and he illustrated the similarity with reference to infinites own block diagrams of the processing steps
+
+infinites arguments do not persuade us to the contrary
+first incompatibilities in computer data files do not necessarily rise to the level of substantial_differences
+even the slightest difference in file formats often creates an incompatibility because computers are exact machines
+however the law of patent_infringement is not so limiting
+a patent_claim may be infringed if an element of the infringing device is only substantially the same as a limitation of the patent_claim
+warner-jenkinson 520 u.s. at 29 117_s.ct._1040
+indeed we have upheld determinations of equivalence on the ground that hardware and software implementations of a component of an invention are interchangeable substitutes overhead door corp. v. chamberlain group inc. 194_f.3d_1261 1269-70 52_uspq2d_1321 1326 fed.cir.1999 even though such a substitution would require ancillary changes in affected circuitry and packaging
+rather than focusing on physical or electronic compatibility the known interchangeability_test looks to the knowledge of a skilled artisan to see whether that artisan would contemplate the interchange as a design choice
+id
+viewed in that light birdwells testimony that the claimed digital fisheye_image and smoothmove'sthe_r_equirectangular_panorama_file are` interchangeable alternatives' is substantial_evidence supporting equivalence
+
+secondly we reject infinites function-way-result argument because the ability to transform moving images in real_time relative to the motion is not part of either the function way or result of the` image_transform_processor means'
+as a preliminary matter we consider the entire` image_transform_processor means' with its two associated functions to be one limitation
+we do so because the two functions are accomplished by the same_structure and are closely related
+in fact the first function` processing said digitized signals in said input_image_memory means according to selected viewing angles and magnification' and the second function` producing output_transform_calculation_signals according to a combination of said digitized signals said selected viewing angles and said selected_magnification' are practically inseparable
+having identified the functions in the claim language itself lockheed martin corp. v. space sys./loral inc. 249_f.3d_1314 1324 58_uspq2d_1671 1678 fed.cir.2001 we look to the way in which those functions are accomplished and the attendant results in the specification
+in this case the specification discloses particular transform equations ¡¬667_patent ll
+30-54 equations 17 and 18 implemented in a pair of` x-map and y-map transform_processors' which are` application specific integrated circuits or other means as may be known to persons skilled in the art' id.at col._4,_ll._1-5
+the results achieved by those functions are not limited to real_time_capabilities relative to movement in the image
+instead as the applicants remarks to the examiner indicated the results include real_time_capabilities relative to user_input of viewing angle and magnification
+accordingly infinites argument in terms of the function-way-result_test misses the mark
+
+thus infinites arguments do not reveal any flaw underlying the jurys finding of *1384 equivalence so serious as to indicate that the jurys finding is unsupported by substantial_evidence
+essentially infinite invites us to reweigh the evidence of substantial similarity in its favor
+we can not accept that invitation
+nutrinova nutrition specialties & food ingredients gmbh v. int l trade comm n 224_f.3d_1356 1359 55_uspq2d_1951 1953 fed.cir.2000
+we therefore affirm the district_courts denial of infinites post-trial motion for jmol on the issue of equivalence in fact
+
+c. damages
+because we affirm the jurys verdict of infringement we turn next to the jurys award of damages
+interactives theory of damages was based on a reasonable_royalty that the parties might have agreed to during a hypothetical_negotiation when infringement began in 1996
+interactives damages expert dr. donald l. martin testified that the reasonable_royalty would have been fully paid-up covering a term of five years at a rate of 10 % of gross revenue
+martin presented two figures-an upper_range and a lower_range
+they differed only in the royalty_base
+the upper_range $ 3.2 million assumed sales increasing from $ 0.9 million in 1997 to $ 53 million in 2001 according to a five-year annual projection of total sales stated in an infinite business_plan prepared in 1996
+the lower_range $ 1 million assumed sales of $ 4 million in 1997 a figure also taken from the 1996 business_plan with annual increases at the rate of 2.68 % the average rate of growth in the economy over the last 20 years
+the jury presumably accepted martins lower_range
+in both cases martin asserted as the royalty_base a projection of infinites total future_sales
+
+infinite first challenges the royalty_base asserted by interactive
+infinite argues that the royalty_base was flawed because 1 martins projection of infinites future_sales was speculative as it was based on an outdated business_plan and its optimistic assumptions of future revenue growth ; and 2 martin erroneously included sales of all of infinite_products rather than just infringing products
+secondly infinite argues that the jurys award was tainted by testimony that infinites infringement caused a decrease in interactives stock price
+interactive defends the royalty_base by responding that the 1996 business_plan dated two months before infringement began was the best information at the time for a hypothetical_negotiation and that infinites bundling and convoyed sales justified its inclusion of all infinite_products in the royalty_base
+interactive also responds that infinite failed to object to the testimony regarding its stock_devaluation and that the jury was properly instructed to award damages on the basis of a reasonable_royalty and not to award damages based on speculation or conjecture
+
+we agree with interactive that martins testimony was not speculative by virtue of its reliance on infinites 1996 business_plan
+we have previously upheld awards of damages premised on a lump sum royalty payment based on an infringers expected sales
+e.g. snellman v. ricoh co. 862_f.2d_283 289 8_uspq2d_1996 2001 fed.cir.1988
+we have also endorsed the conceptual framework of a hypothetical_negotiation between the patentee and the infringer as a means for determining a reasonable_royalty
+rite-hite corp. v. kelley co. 56_f.3d_1538 1554 35_uspq2d_1065 1076-77 fed.cir.1995 en banc
+when that framework is employed the negotiation must be hypothesized as of the time_infringement began
+*1385 wang labs. inc. v. toshiba corp. 993_f.2d_858 869-70 26_uspq2d_1767 1777-78 fed.cir.1993
+although` a trier of fact must have some factual basis for a determination of a reasonable_royalty' consideration of a hypothetical_negotiation` necessarily involves an element of approximation and uncertainty'
+unisplay s.a. v. am
+elec
+sign co. 69_f.3d_512 517 36_uspq2d_1540 1544 fed.cir.1995
+in this case the 1996 business_plan and its projections for future_sales were prepared by infinite two months before infringement began
+thus rather than being outdated for purposes of the hypothetical_negotiation those projections would have been available to infinite at the time of the hypothetical_negotiation
+the fact that infinite did not subsequently meet those projections is irrelevant to infinites state of mind at the time of the hypothetical_negotiation
+nor does infinites subsequent_failure to meet its projections imply that they were grossly excessive or based only on speculation and guesswork
+instead infinites subsequent_failure to meet its projections may simply illustrate the` element of approximation and uncertainty' inherent in future projections
+id
+because martins use of the sales projections from the 1996 business_plan was supported by evidence not grossly excessive nor based only on speculation and guesswork we will not the disturb the jurys damage_award on that basis
+
+interactive argues that lindemann maschinenfabrik gmbh v. am
+hoist & derrick co. 895_f.2d_1403 13_uspq2d_1871_(fed.cir.1990) compels a contrary result
+we disagree
+in that case we affirmed a district_courts award of damages in derogation of the patentees experts testimony which was based on estimates of the infringers anticipated profits` that bore no relation to actual profits'
+id.at 1407 13 uspq2d at 1875
+lindemann therefore supports the proposition that an actual infringers profit margin can be relevant to the determination of a royalty_rate in a hypothetical_negotiation
+id.at 1407-08 13 uspq2d at 1875 citing trans-world mfg corp. v. al nyman & sons inc. 750_f.2d_1552 1568 224_uspq_259 269 fed.cir.1984
+however lindemann does not require that estimates of sales revenues as referenced in a hypothetical_negotiation at the time_infringement began must later bear a close relation to actual sales revenue
+such a proposition would essentially eviscerate the rule that recognizes sales expectations at the time when infringement begins as a basis for a royalty_base as opposed to an after-the-fact counting of actual sales
+
+we also conclude that martin permissibly included all infinite_products in the royalty_base and that martin did not provide for an unfair double recovery by factoring the bundling and convoying sales into the royalty_rate
+the jury was entitled to rely on evidence of bundling and convoyed sales in determining the proper scope of the royalty_base
+deere & co. v. int l harvester co. 710_f.2d_1551 1559 218_uspq_481 487 fed.cir.1983 authorizing such an approach as` eminently reasonable' ; cf
+rite hite 56 f.3d at 1548-49 35 uspq2d at 1072 allowing recovery of lost profits from the patentees unpatented components that compete directly with the infringing device and function together with the patented device
+the fact that bundling and convoyed sales affected martins estimate of both the royalty_base and the royalty_rate is thus not a sufficient reason to nullify the jurys award
+the` extent of.. derivative or convoyed sales' is one of the often-cited georgia-pacific_factors relevant to a determination of a reasonable_royalty_rate
+*1386 georgia-pacific corp. v. u.s. plywood corp. 318_f.supp._1116 1120 166_uspq_235 238 s.d.n.y.1970 ; see also state indus. inc. v. mor-flo indus. inc. 883_f.2d_1573 1580-81 12_uspq2d_1026 1031 fed.cir.1989` the value of collateral sales could also be factored into the royalty_rate'
+( citations omitted
+martin explained the application of that factor to the royalty_rate in this case
+yet the bundling and convoyed sales were just one of thirteen georgia-pacific_factors used by martin to justify a royalty_rate of 10 %
+even if we were to ignore the bundling and convoyed sales as a factor the other twelve georgia-pacific_factors provide ample evidentiary support for the resulting royalty_rate and we conclude that martins opinion in its entirety was not so excessive speculative the product of guesswork or devoid of evidentiary support to warrant upsetting the jurys award
+
+we will also not reverse the jurys award of damages based on the testimony regarding stock_devaluation in this case
+interactives cfo testified that the market value of the company dropped $ 14 million in 1997 apparently due to infinites infringement
+while it is true that a decrease in a companys stock value is generally too remotely related to patent_infringement to be compensable under the patent laws rite-hite 56 f.3d at 1546 35 uspq2d at 1069 it is not clear that the testimony tainted the jury in this case
+rather the jury award appears to have been based solely on martins lower_range estimate of a reasonable_royalty
+
+we have considered infinites other arguments on the issue of damages and find them to be without merit
+because substantial_evidence supports the jurys award of damages we conclude that the district_judge did not abuse his discretion in denying infinites motion for remittitur or a new_trial
+
+conclusion
+because infringement by equivalents was not precluded as a matter of law and the jurys verdict of infringement and award of damages were supported by substantial_evidence we
+
+affirm
+
+all citations
+274_f.3d_1371 61_u.s.p.q.2d_1152
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+interactive_pictures_corp. v. infinite_pictures inc. 274_f.3d_1371 2001 61_u.s.p.q.2d_1152
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

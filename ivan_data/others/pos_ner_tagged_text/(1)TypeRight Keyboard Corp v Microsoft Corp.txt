@@ -1,0 +1,207 @@
+('374_F.3d_1151', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('TYPERIGHT', 'NNP', '', 'O') ('KEYBOARD', 'NNP', 'PERSON', 'B') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('MICROSOFT', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Defendant-Cross', 'NNP', '', 'O') ('Appellant', 'NNP', '', 'O')
+KEYBOARD
+__NEW_SENT__
+('Nos._03-1197', 'NNP', 'PERSON', 'B') ('03-1255', 'CD', '', 'O')
+Nos._03-1197
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('July_6,_2004', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('ergonomic', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('keyboards', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Irma', 'NNP', '', 'O') ('E.', 'NNP', 'PERSON', 'B') ('Gonzalez', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('to', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('but', 'CC', '', 'O') ('dismissed', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-infringement', 'NN', '', 'O')
+United_States_District_Court California E. Gonzalez J.
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('competitor', 'NN', '', 'O') ('cross-appealed', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Dyk', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Dyk Circuit_Judge
+__NEW_SENT__
+('Court', 'NN', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('lacked', 'VBD', '', 'O') ('jurisdiction', 'NN', '', 'O') ('over', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('cross-appeal', 'NN', '', 'O') ('and', 'CC', '', 'O')
+Court of Appeals
+__NEW_SENT__
+('genuine', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('alleged', 'VBN', '', 'O') ('prior_art', 'NNP', '', 'O') ('reference', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('publicly', 'RB', '', 'O') ('distributed', 'VBN', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('critical_date', 'JJ', '', 'O') ('precluded', 'JJ', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalidity', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1153', '-LRB-', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Herron', 'NNP', 'PERSON', 'I') ('Meisenheimer', 'NNP', '', 'O') ('Herron', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Steele', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Matthew V. Herron
+__NEW_SENT__
+('*1154', '-LRB-', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Gartman', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O')
+John E. Gartman Fish & Richardson
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Lauren', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Degnan', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') ('of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Dina', 'NNP', 'PERSON', 'B') ('Grinshpun', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+Lauren A. Degnan Washington DC Dina Grinshpun
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('SCHALL', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LOURIE SCHALL DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('DYK', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('TypeRight', 'NNP', 'ORG', 'B') ('Keyboard', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('TypeRight', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('Nos._5372,441', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬441_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('5,503,484', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬484_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+TypeRight Keyboard Corporation TypeRight California Microsoft Corporation Microsoft U.S. 5,503,484
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._98-', 'NNP', '', 'O') ('CIV-1358-IEG', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Cal', 'NNP', '', 'O')
+Microsoft_Corp.
+__NEW_SENT__
+('July_2,_2002', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Microsoft_cross-appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('without', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('claims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._98-', 'NNP', 'LOC', 'B') ('1358-IEG', 'CD', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('S.D.Cal', 'NNP', '', 'O')
+Microsoft_Corp. No._98- 1358-IEG
+__NEW_SENT__
+('Nov._19,_2002', 'LS', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('dismiss', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('cross-appeal', 'NN', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('jurisdiction', 'NN', '', 'O') ('reverse', 'VB', '', 'O') ('the', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remand', 'NN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('TypeRight', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬441', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('¡¬484_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('which', 'WDT', '', 'O') ('generally', 'RB', '', 'O') ('describe', 'VBP', '', 'O') ('ergonomic_keyboards', 'NNS', '', 'O') ('featuring', 'VBG', '', 'O') ('v-shaped', 'VBN', '', 'O') ('designs', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('separate_right-and', 'NN', '', 'O') ('left-hand_key_clusters', 'NNS', '', 'O') (';', ':', '', 'O') ('keys', 'NNS', '', 'O') ('arranged', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('QWERTY_configuration', 'NN', 'ORG', 'B') (';', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('wrist', 'NN', '', 'O') ('rest', 'NN', '', 'O')
+TypeRight QWERTY_configuration 1
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬441', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('¡¬484_patent', 'NNP', '', 'O') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('both', 'DT', '', 'O') ('continuations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('No._990021', 'NNP', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('December', 'NNP', 'DATE', 'B') ('14', 'CD', 'DATE', 'I') ('1992', 'CD', 'DATE', 'I') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('itself', 'PRP', '', 'O') ('a', 'DT', '', 'O') ('continuation-in-part', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('earlier', 'JJR', '', 'O') ('application', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('1991', 'CD', 'DATE', 'I')
+United States Application No._990021 December 14 1992 February 21 1991
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('appear', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('assume', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬441', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('¡¬484_patent', 'NNP', '', 'O') ('s', 'POS', '', 'O') ('claim', 'NN', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('1991', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('1990', 'CD', 'DATE', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('critical_date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O')
+February 21 1991 February 21 1990
+__NEW_SENT__
+('On', 'IN', '', 'O') ('July_23,_1998', 'NNP', '', 'O') ('TypeRight', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('line', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ergonomic_keyboards', 'NNS', '', 'O') ('infringed', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('TypeRight', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patents', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬441', 'JJ', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬484_patent', 'NNP', '', 'O') ('s.', 'NNP', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('responded', 'VBD', '', 'O') ('by', 'IN', '', 'O') ('asserting', 'VBG', '', 'O') ('affirmative', 'JJ', '', 'O') ('defenses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('non-infringement', 'JJ', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O')
+TypeRight Microsoft Microsoft TypeRight ¡¬441 Microsoft
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('order', 'NN', '', 'O') ('construing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('TypeRight', 'NNP', 'PRODUCT', 'B') ('amended', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('complaint', 'NN', '', 'O') ('to', 'TO', '', 'O') ('assert', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('only', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('11_and_12', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬441_patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('1-11', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬484_patent', 'NNP', '', 'O')
+Markman TypeRight 11_and_12
+__NEW_SENT__
+('On', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('31', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('Microsoft', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('invalidity', 'NN', '', 'O')
+August 31 1999 Microsoft
+__NEW_SENT__
+('In', 'IN', '', 'O') ('regard', 'NN', '', 'O') ('to', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('relying', 'VBG', '', 'O') ('primarily', 'RB', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('one-page', 'JJ', '', 'O') ('document', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('created', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('German', 'JJ', 'NORP', 'B') ('company', 'NN', '', 'O') ('Marquardt', 'NNP', 'PERSON', 'B') ('GmbH', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Marquardt', 'NNPS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O')
+Microsoft German Marquardt GmbH `` Marquardt ''
+__NEW_SENT__
+('Microsoft', 'NNP', 'ORG', 'B') ('additionally', 'RB', '', 'O') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('keyboard', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('book', 'NN', '', 'O') ('Keyboard', 'NNP', 'ORG', 'B') ('RSI', 'NNP', 'ORG', 'I') (':', ':', 'ORG', 'I') ('The', 'DT', 'ORG', 'I') ('Practical', 'NNP', 'ORG', 'I') ('Solution', 'NNP', 'ORG', 'I') ('by', 'IN', '', 'O') ('Barbara', 'NNP', 'PERSON', 'B') ('Stack', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('Stack', 'NN', 'WORK_OF_ART', 'B') ('reference', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('taught', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('v-shaped', 'VBD', '', 'O') ('keyboards', 'NNS', '', 'O') ('``', '``', '', 'O') ('are..', 'FW', '', 'O') ('ergonomically', 'RB', '', 'O') ('acceptable', 'JJ', '', 'O') ('provided', 'VBN', '', 'O') ('they', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('used..', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('conjunction', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('properly', 'RB', '', 'O') ('designed', 'VBN', '', 'O') ('attached', 'VBN', '', 'O') ('wrist', 'NN', '', 'O') ('support', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O')
+Microsoft Keyboard RSI : The Practical Solution Barbara Stack Stack
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('J.A.at', 'FW', '', 'O') ('3553', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+3553
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ('features', 'VBZ', '', 'O') ('several', 'JJ', '', 'O') ('unlabeled', 'JJ', '', 'O') ('pictures', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('v-shaped', 'VBN', '', 'O') ('keyboards', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('separate_right', 'NN', '', 'O') ('and', 'CC', '', 'O') ('left-hand_key_clusters', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('German', 'JJ', 'NORP', 'B') ('equivalent', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('QWERTY_configuration', 'NN', '', 'O')
+German
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('page', 'NN', '', 'O') ('in', 'IN', '', 'O') ('length', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('dated', 'VBN', '', 'O')
+
+__NEW_SENT__
+('TypeRight', 'NNP', '', 'O') ('*1155', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('learned', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('document', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('existence', 'NN', '', 'O') ('during', 'IN', '', 'O') ('depositions', 'NNS', '', 'O') ('conducted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('Germany', 'NNP', 'GPE', 'B')
+first Microsoft Germany
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('undated', 'JJ', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prove', 'VB', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('prior_art', 'NNP', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('i.e.', 'FW', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('publicly', 'RB', '', 'O') ('accessible', 'JJ', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('1990', 'CD', 'DATE', 'I')
+Microsoft 35 102 February 21 1990
+__NEW_SENT__
+('For', 'IN', '', 'O') ('this', 'DT', '', 'O') ('purpose', 'NN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('offered', 'VBD', '', 'O') ('fact', 'NN', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('consultants', 'NNS', '', 'O') ('who', 'WP', '', 'O') ('were', 'VBD', '', 'O') ('paid', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('spent', 'VBD', '', 'O') ('testifying', 'VBG', '', 'O')
+Microsoft
+__NEW_SENT__
+('The', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('was', 'VBD', '', 'O') ('Dr._Cakir', 'CD', '', 'O') ('who', 'WP', '', 'O') ('testified', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ('in', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('``', '``', '', 'O') ('files', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('year', 'NN', 'DATE', 'I') ('1990', 'CD', 'DATE', 'I') ("''", "''", '', 'O') ('but', 'CC', '', 'O') ('remembered', 'VBD', '', 'O') ('receiving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('document', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('trade_show', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Germany', 'NNP', 'GPE', 'B') ('he', 'PRP', '', 'O') ('attended', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('1986', 'CD', 'DATE', 'B')
+first the year 1990 Germany 1986
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('J.A.at', 'SYM', 'CARDINAL', 'B') ('700', 'CD', 'CARDINAL', 'I') (')', '-RRB-', '', 'O')
+J.A.at 700
+__NEW_SENT__
+('Another', 'DT', '', 'O') ('of', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('consultants', 'NNS', '', 'O') ('Dr.', 'NNP', '', 'O') ('Hirsch', 'NNP', 'PERSON', 'B') ('testified', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('attended', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('1986', 'CD', 'DATE', 'B') ('trade_show', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remembered', 'VBD', '', 'O') ('that', 'WDT', '', 'O') ('photographs', 'NNS', '', 'O') ('similar', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('being', 'VBG', '', 'O') ('distributed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('attendees', 'NNS', '', 'O')
+Microsoft Hirsch 1986
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('1986', 'CD', 'DATE', 'B') ('report', 'NN', '', 'O') ('prepared', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Fraunhofer', 'NNP', 'ORG', 'I') ('Institute', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Industrial', 'NNP', 'ORG', 'I') ('Science', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Organization', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('Fraunhofer_report', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('Marquardt', 'NNS', '', 'O')
+Microsoft 1986 the Fraunhofer Institute for Industrial Science and Organization
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('introduce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('translated', 'VBN', '', 'O') ('copy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Fraunhofer_report', 'NNP', 'ORG', 'B') ('it', 'PRP', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pictures', 'NNS', '', 'O') ('contained', 'VBD', '', 'O') ('therein', 'RB', '', 'O') ('displaying', 'JJ', '', 'O') ('v-shaped', 'VBN', '', 'O') ('keyboards', 'NNS', '', 'O') ('similar', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('those', 'DT', '', 'O') ('shown', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', 'ORG', 'B') ('corroborated', 'VBD', '', 'O') ('Mr.', 'NNP', '', 'O') ('Cakir', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('testimony', 'NN', '', 'O')
+Microsoft Fraunhofer_report Marquardt_document Cakir
+__NEW_SENT__
+('Dr.', 'NNP', '', 'O') ('Ilg', 'NNP', 'PERSON', 'B') ('who', 'WP', '', 'O') ('prepared', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Fraunhofer_report', 'NNP', 'ORG', 'B') ('testified', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('report', 'NN', '', 'O') ('featured', 'VBD', '', 'O') ('pictures', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('wooden', 'JJ', '', 'O') ('prototypes', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt', 'NNPS', 'PERSON', 'B') ('keyboards', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('these', 'DT', '', 'O') ('prototypes', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('displayed', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1986', 'CD', 'DATE', 'B') ('trade_show', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('Dr._Cakir', 'NNP', '', 'O') ('allegedly', 'RB', '', 'O') ('acquired', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('publicly', 'RB', '', 'O') ('distributed', 'VBN', '', 'O') ('copy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O')
+Ilg Fraunhofer_report Marquardt 1986
+__NEW_SENT__
+('None', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('experts', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('current', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('former', 'JJ', '', 'O') ('employee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Marquardt', 'NNPS', 'ORG', 'B') ('and', 'CC', '', 'O') ('no', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('obtained', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('Marquardt', 'NNPS', 'ORG', 'B') ('itself', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('offered', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('prove', 'VB', '', 'O') ('a', 'DT', '', 'O') ('publication', 'NN', '', 'O') ('date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O')
+Microsoft Marquardt Marquardt
+__NEW_SENT__
+('TypeRight', 'NNP', 'ORG', 'B') ('responded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('inter', 'JJ', '', 'O') ('alia', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Dr._Cakir', 'CD', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('date', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Marquardt_document', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('sufficiently', 'RB', '', 'O') ('corroborated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('other', 'JJ', '', 'O') ('witnesses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('Fraunhofer_report', 'NN', 'ORG', 'B') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('witnesses', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('date', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('document', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('credible', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('suggestion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('alleged', 'VBN', '', 'O') ('prior_art.2', '.', '', 'O') ('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('these', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('orally', 'RB', '', 'O') ('granted', 'VBN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('on', 'IN', '', 'O') ('June_19,_2000', 'NNP', '', 'O')
+TypeRight Microsoft 1 Microsoft Fraunhofer_report 2 Microsoft 3 Microsoft
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('declined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('rule', 'VB', '', 'O') ('on', 'IN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Microsoft
+__NEW_SENT__
+('Final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('entered', 'VBN', '', 'O') ('June_22,_2000', 'NNP', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('July_6,_2000', 'NNP', 'ORG', 'B') ('Microsoft', 'NNP', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('application', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Federal_Rule', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O') ('60', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('vacate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('entry', 'NN', '', 'O') ('of', 'IN', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('because', 'IN', '', 'O') ('as', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('argued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('remained', 'VBD', '', 'O') ('pending', 'VBG', '', 'O')
+July_6,_2000 Microsoft 1
+__NEW_SENT__
+('On', 'IN', '', 'O') ('July_25,_2000', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Rule', 'NNP', 'FAC', 'B') ('60', 'CD', 'FAC', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('application', 'NN', '', 'O') ('and', 'CC', '', 'O') ('vacated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment.3', 'NN', '', 'O') ('Subsequently', 'NNP', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('renewed', 'VBN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('March_28,_2002', 'NNP', '', 'O')
+Microsoft Rule 60 Microsoft
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._98-', 'NNP', 'LOC', 'B') ('1358-IEG', 'CD', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('S.D.Cal', 'NNP', '', 'O')
+Microsoft_Corp. No._98- 1358-IEG
+__NEW_SENT__
+('Mar._28,_2002', 'LS', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('*1156', 'VBZ', '', 'O') ('19', 'CD', 'CARDINAL', 'B') ('2001', 'CD', 'CARDINAL', 'I') ('TypeRight', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('amongst', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('things', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('sufficient', 'JJ', '', 'O') ('findings', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('obviousness', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Graham', 'NNP', 'PERSON', 'B') ('factors', 'NNS', '', 'O')
+November 19 2001 TypeRight Graham
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('``', '``', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('limited', 'JJ', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('making..', 'FW', '', 'O') ('supplemental', 'JJ', '', 'O') ('Graham', 'NNP', 'PERSON', 'B') ('findings', 'NNS', '', 'O') ("''", "''", '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('motivation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('and', 'CC', '', 'O') ('affirmed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('earlier', 'JJR', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+Graham
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._98-', 'NNP', '', 'O') ('CV-1358-IEG', 'NNP', '', 'O') ('slip', 'VBP', '', 'O') ('op.at', 'NNP', '', 'O') ('27', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('S.D.Cal', 'NNP', '', 'O')
+Microsoft_Corp. 27
+__NEW_SENT__
+('July_2,_2002', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('19', 'CD', 'DATE', 'I') ('2002', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('certified', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('on', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Federal_Rule', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O') ('54', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('dismissed', 'VBN', '', 'O') ('without', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-infringement', 'NN', '', 'O')
+November 19 2002 Microsoft
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._98-', 'NNP', 'LOC', 'B') ('1358-IEG', 'CD', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('S.D.Cal', 'NNP', '', 'O')
+Microsoft_Corp. No._98- 1358-IEG
+__NEW_SENT__
+('Nov._19,_2002', 'LS', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('TypeRight', 'NNP', 'ORG', 'B') ('timely', 'RB', '', 'O') ('appealed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Microsoft_cross-appealed', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('counterclaim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O')
+TypeRight
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('raised', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('ground', 'NN', '', 'O') ('for', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('before', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('obviousness', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Prior', 'RB', '', 'O') ('to', 'TO', '', 'O') ('argument', 'VB', '', 'O') ('TypeRight', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('cross-appeal', 'NN', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('jurisdiction', 'NN', '', 'O')
+TypeRight
+__NEW_SENT__
+('This', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('denied', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('order', 'NN', '', 'O') ('on', 'IN', '', 'O') ('April_30,_2003', 'NNP', 'ORG', 'B')
+April_30,_2003
+__NEW_SENT__
+('TypeRight_Keyboard_Corp.', 'DT', '', 'O') ('v.', 'IN', '', 'O') ('Microsoft_Corp.', 'NN', 'CARDINAL', 'B') ('No._03-1197', 'NNP', '', 'O') ('-1255', ':', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir', 'NN', '', 'O')
+Microsoft_Corp.
+__NEW_SENT__
+('Apr._30,_2003', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('TypeRight', 'NNP', 'PRODUCT', 'B') ('II', 'NNP', 'PRODUCT', 'I') ('``', "''", '', 'O') (')', '-RRB-', '', 'O')
+TypeRight II
+__NEW_SENT__

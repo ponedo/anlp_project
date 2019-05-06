@@ -1,0 +1,102 @@
+('848_F.2d_1560', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('James', 'NNP', 'PERSON', 'B') ('CONSTANT', 'NNP', 'PERSON', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('ADVANCED', 'NNP', 'ORG', 'B') ('MICRO-DEVICES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Gould', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('American', 'NNP', 'ORG', 'I') ('Microsystems', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Analog', 'NNP', 'ORG', 'B') ('Devices', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Fujitsu', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('Fujitsu_Microelectronics', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Digital', 'NNP', 'ORG', 'B') ('Switch', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Granger', 'NNP', 'ORG', 'B') ('Associates', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Hitachi', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('Intel', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Interactive', 'NNP', '', 'O') ('Circuits', 'NNPS', '', 'O') ('&', 'CC', '', 'O') ('Sys', 'NNP', '', 'O')
+James CONSTANT ADVANCED MICRO-DEVICES INC. Gould Inc. American Microsystems Inc. Analog Devices Inc. Fujitsu Ltd. Fujitsu_Microelectronics Inc. Digital Switch Inc. Granger Associates Inc. Hitachi Corporation Intel Inc.
+__NEW_SENT__
+('Ltd.', 'NNP', 'ORG', 'B') ('Matshushita', 'NNP', 'ORG', 'I') ('Electronics', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('Computer', 'NNP', 'ORG', 'B') ('Modules', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Nippon', 'NNP', 'ORG', 'B') ('Electric', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('NEC', 'NNP', 'ORG', 'B') ('Electronics', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Paradyne', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('Semiconductor', 'NNP', 'ORG', 'I') ('Products', 'NNPS', 'ORG', 'I') ('Texas', 'NNP', 'ORG', 'I') ('Instruments', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('TRW', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'VBZ', '', 'O')
+Ltd. Matshushita Electronics Corp. Computer Modules Inc. Nippon Electric Co. Ltd. NEC Electronics USA Paradyne Corporation Semiconductor Products Texas Instruments Inc. TRW Inc.
+__NEW_SENT__
+('No._88-1101', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('June_9,_1988', 'NNP', 'ORG', 'B')
+June_9,_1988
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('sued', 'VBD', '', 'O') ('large_group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('high_technology_companies', 'NNPS', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringements', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('declaratory_relief', 'NN', '', 'O') ('asking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('patents', 'NNS', '', 'O') ('declared', 'VBN', '', 'O') ('invalid', 'JJ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Stephen', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court California Stephen V. Wilson J. two
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Davis', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('statute', 'NN', '', 'O') ('permitting', 'VBG', '', 'O') ('federal', 'JJ', '', 'O') ('courts', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('adjudicate', 'VB', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('when', 'WRB', '', 'O') ('invalidity', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('raised', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('affirmative', 'JJ', '', 'O') ('defense', 'NN', '', 'O') ('in', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('suits', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('unconstitutional', 'JJ', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('government', 'NN', '', 'O') ('sponsorship', 'NN', '', 'O') ('of', 'IN', '', 'O') ('research', 'NN', '', 'O') ('and', 'CC', '', 'O') ('development', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('unconstitutional', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('findings', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('and', 'CC', '', 'O') ('obviousness', 'JJ', '', 'O')
+The Court of Appeals Davis Circuit_Judge 1 2 3
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1563', 'UH', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('Constant', 'NNP', 'PERSON', 'I') ('pro', 'FW', '', 'O') ('se', 'FW', '', 'O')
+James Constant
+__NEW_SENT__
+('Jerry', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Selinger', 'NNP', 'PERSON', 'I') ('Baker', 'NNP', 'PERSON', 'I') ('Mills', 'NNPS', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Glast', 'NNP', 'ORG', 'I') ('Dallas', 'NNP', 'GPE', 'B') ('Tex.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'JJ', '', 'O') ('Texas', 'NNP', 'ORG', 'B') ('Instruments', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Adrian', 'NNP', 'ORG', 'B') ('M.', 'NNP', 'ORG', 'I') ('Pruetz', 'NNP', 'ORG', 'I') ('Morrison', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Foerster', 'NNP', 'ORG', 'I') ('Los_Angeles', 'NNP', 'ORG', 'I') ('Cal.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Fujitsu', 'NNP', 'ORG', 'B') ('Ltd.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Fujitsu_Microelectronics', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Martin', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Horn', 'NNP', 'PERSON', 'I') ('David', 'NNP', 'PERSON', 'I') ('M.', 'NNP', 'PERSON', 'I') ('Simon', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('A', 'NNP', 'PERSON', 'I')
+Jerry R. Selinger Baker Mills & Glast Dallas Texas Instruments Inc. Adrian M. Pruetz Morrison & Foerster Los_Angeles Fujitsu Ltd. Fujitsu_Microelectronics Inc. Martin R. Horn David M. Simon David A
+__NEW_SENT__
+('Hall', 'NNP', 'ORG', 'B') ('Spensley', 'NNP', 'ORG', 'I') ('Horn', 'NNP', 'ORG', 'I') ('Jubas', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Lubitz', 'NNP', 'ORG', 'I') ('Los_Angeles', 'NNP', 'ORG', 'I') ('Cal.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O') ('Hitachi', 'NNP', 'ORG', 'B') ('America', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('Edwin', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Taylor', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Scheller', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Blakely', 'RB', '', 'O') ('Sokoloff', 'NNP', '', 'O') ('Taylor', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Zafman', 'NNP', '', 'O') ('Sunnyvale', 'NNP', 'GPE', 'B') ('Cal.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Advanced', 'NNP', 'ORG', 'B') ('Micro-Devices', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Intel', 'NNP', '', 'O') ('Corp.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('DAVIS', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('SMITH', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', 'ORG', 'I') ('and', 'CC', '', 'O') ('COWEN', 'NNP', 'ORG', 'B') ('Senior', 'JJ', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+Hall Spensley Horn Jubas & Lubitz Los_Angeles Hitachi America Ltd. Edwin H. Taylor James C. Scheller Jr. Sunnyvale Advanced Micro-Devices Inc. DAVIS SMITH Circuit_Judges COWEN Senior Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('DAVIS', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('Constant', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('raised', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('large', 'JJ', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('separate', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('diverse', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O')
+Constant
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appealed', 'JJ', '', 'O') ('decisions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('rulings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('are', 'VBP', '', 'O') ('all', 'DT', '', 'O') ('affirmed', 'VBN', '', 'O')
+United_States_District_Court California
+__NEW_SENT__
+('DISCUSSION', 'NN', 'ORG', 'B')
+DISCUSSION
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('1985', 'CD', 'DATE', 'I') ('appellant', 'NN', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('Constant', 'NNP', 'PERSON', 'I') ('sued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('large_group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('high_technology_companies', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('infringements', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('Patents', 'NNP', '', 'O') ('Nos._3950,635', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'635_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('4,438,491', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'491_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+January 1985 James Constant United States 4,438,491
+__NEW_SENT__
+('The', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('also', 'RB', '', 'O') ('contained', 'VBD', '', 'O') ('nine', 'CD', 'CARDINAL', 'B') ('counts', 'NNS', '', 'O') ('involving', 'VBG', '', 'O') ('other', 'JJ', '', 'O') ('theories', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('recovery', 'NN', '', 'O') ('and', 'CC', '', 'O') ('included', 'VBD', '', 'O') ('challenges', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('constitutionality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('282', 'CD', '', 'O') ('and', 'CC', '', 'O') ('of', 'IN', '', 'O') ('federal', 'JJ', '', 'O') ('funding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('research', 'NN', '', 'O') ('and', 'CC', '', 'O') ('development', 'NN', '', 'O')
+nine 35
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Hon', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Pamela', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Rymer', 'NNP', 'PERSON', 'I') (')', '-RRB-', '', 'O') ('dismissed', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('counts', 'NNS', '', 'O') ('except', 'IN', '', 'O') ('the', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Count', 'NNP', '', 'O') ('V', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'IN', '', 'O') ('state', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('upon', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('relief', 'NN', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('granted', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('later', 'RB', '', 'O') ('denied', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('motions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('Constant', 'NNP', 'ORG', 'B') ('attempting', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('revive', 'VB', '', 'O') ('the', 'DT', '', 'O') ('dismissed', 'VBN', '', 'O') ('claims', 'NNS', '', 'O')
+Pamela A. Rymer Constant
+__NEW_SENT__
+('The', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('declaratory_relief', 'NN', '', 'O') ('asking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('declared', 'VBN', '', 'O') ('invalid', 'JJ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('transferred', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Hon', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Steven', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('16', 'CD', 'DATE', 'I') ('1985', 'CD', 'DATE', 'I')
+Steven V. Wilson December 16 1985
+__NEW_SENT__
+('In', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('1986', 'CD', 'DATE', 'I') ('Judge', 'NNP', '', 'O') ('Wilson', 'NNP', 'PERSON', 'B') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('agreement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('appointed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Special', 'NNP', '', 'O') ('Master', 'NNP', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Hillman', 'NNP', 'PERSON', 'I') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('recommendations', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('concerning', 'VBG', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalidity', 'NN', '', 'O')
+August 1986 Wilson Robert E. Hillman
+__NEW_SENT__
+('After', 'IN', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('recommendations', 'NNS', '', 'O') ('concluding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('Constant', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('disqualify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('strike', 'VB', '', 'O') ('his', 'PRP$', '', 'O') ('report', 'NN', '', 'O')
+Constant
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('ruled', 'VBD', '', 'O') ('against', 'IN', '', 'O') ('these', 'DT', '', 'O') ('motions', 'NNS', '', 'O') ('after', 'IN', '', 'O') ('hearings', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Constant', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('given', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('special', 'JJ', '', 'O') ('opportunity', 'NN', '', 'O') ('to', 'TO', '', 'O') ('question', 'VB', '', 'O') ('the', 'DT', '', 'O') ('master', 'NN', '', 'O')
+Constant
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('independently', 'RB', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('were', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('material', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('contested', 'VBN', '', 'O') ('facts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±¡±', 'NN', 'CARDINAL', 'I') ('102', 'CD', 'CARDINAL', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('103', 'CD', 'CARDINAL', 'B')
+two 35 U.S.C.¡±¡± 102 103
+__NEW_SENT__
+('Constant', 'JJ', 'ORG', 'B') ('now', 'RB', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('judgments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('the', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('constitutional', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('appropriateness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('role', 'NN', '', 'O') ('and', 'CC', '', 'O') ('conduct', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ('and', 'CC', '', 'O') ('several', 'JJ', '', 'O') ('procedural', 'JJ', '', 'O') ('rulings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+Constant
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('appellant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('earnest', 'JJ', '', 'O') ('efforts', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('his', 'PRP$', '', 'O') ('positions', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('deal', 'VBP', '', 'O') ('with', 'IN', '', 'O') ('them', 'PRP', '', 'O') ('in', 'IN', '', 'O') ('greater', 'JJR', '', 'O') ('detail', 'NN', '', 'O') ('than', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('merits', 'NNS', '', 'O') ('deserve', 'VBP', '', 'O')
+
+__NEW_SENT__

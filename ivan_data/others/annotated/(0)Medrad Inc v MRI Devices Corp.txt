@@ -1,0 +1,48 @@
+401_F.3d_1313
+United States Court of Appeals Federal Circuit
+MEDRAD INC. Plaintiff-Appellant v. MRI DEVICES CORPORATION Defendant-Appellee
+No._04-1134
+| March_16,_2005
+| Rehearing Denied April_11,_2005
+Synopsis
+Background : Owner of patent for overlapping radio_frequency_coils used in magnetic_resonance_imaging ( MRI ) sued competitor for infringement
+The United_States_District_Court for the Western_District of Pennsylvania Terrence F. McVerry J. determined that patent was invalid and owner appealed
+
+The Court of Appeals Bryson Circuit_Judge held that patent was invalid as anticipated
+
+Affirmed
+
+Attorneys and Law Firms
+*1314 W. Thomas McGough Jr. Reed Smith LLP of Pittsburgh Pennsylvania argued for plaintiff-appellant
+With him on the brief were Frederick H. Colen ; Kirsten R. Rydstrom ; and Robert D. Kucler
+Of counsel on the brief was Gregory L. Bradley Medrad Inc. of Indianola Pennsylvania
+James F. Hurst Winston & Strawn LLP of Chicago Illinois argued for defendant-appellee
+With him on the brief were Derek J. Sarafa and Brian R. Pollack
+*1315 Before RADER Circuit_Judge FRIEDMAN Senior Circuit_Judge and BRYSON Circuit_Judge
+Opinion
+BRYSON Circuit_Judge
+Medrad Inc. brought this action in the United_States_District_Court for the Western_District of Pennsylvania CA No._02-2044 alleging that MRI Devices Corp. ( `` MRIDC '' ) was infringing Medrad 's patent U.S. Patent No._6396,273 ( `` the '273_patent `` )
+The district_court referred the case to a magistrate_judge under 28 U.S.C.¡± 636 ( b ) ( 1 )
+After a hearing the magistrate_judge recommended that MRIDC 's motion for partial summary judgment of invalidity be granted and that Medrad 's motion for a preliminary injunction be denied
+The district_court adopted the magistrate_judge 's recommendation
+We affirm
+
+I
+This case arises from a dispute over devices known as radio_frequency_coils ( `` RF_coils '' ) which are used in magnetic_resonance_imaging ( `` MRI '' )
+MRI uses nuclear magnetic resonance to create detailed images of a patient 's internal anatomy
+See generally David D. Stark & William G. Bradley Jr. 1 Magnetic_Resonance_Imaging 1-14 ( 3d ed.1999 )
+In the MRI process a portion of the patient 's body is placed in an extremely strong magnetic_field
+The magnetic_field causes the nuclei within the atoms of the body to partially align with the magnetic_field in equilibrium
+The partial alignment of the nuclei creates a net_magnetization within the body in the direction of the magnetic_field
+A second time-varying magnetic_field is then created in an orthogonal direction by applying electrical current in pulses to RF_coils that surround the body
+The second magnetic_field drags the net_magnetization of the body away from the direction of the main_magnetic_field
+According to the laws of quantum mechanics the affected nuclei and thus the net_magnetization will precess around the direction of the main_magnetic_field at a rate known as the Larmor frequency before dephasing and eventually realigning with the main_magnetic_field
+E. Mark Haacke Magnetic_Resonance_Imaging : Physical Principles and Sequence Design 5-8 ( 1999 )
+The precession induces a current in the RF_coils which can be measured
+That signal can then be used to reconstruct an image of the internal tissues of the portion of the patient 's body that was under study
+
+It was well known in the prior art that the current in the RF_coils could be detected at a much higher signal-to-noise ratio if many small overlapping RF_coils were used in a `` phased array '' to receive the signal from the precessing nuclei
+It was advantageous for the same coils to be used both to create the time-varying magnetic_field ( `` transmission '' ) and to receive the resulting signal from the precessing nuclei ( `` reception '' )
+The problem however was that identical pulses of current could not be passed through the overlapping coils during transmission because that would result in the magnetic_field in the overlap region being roughly twice as large as in the areas of the coil outside of the overlap
+According to the inventor George J. Misic that is the problem the '273_patent was meant to solve
+

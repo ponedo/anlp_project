@@ -1,0 +1,153 @@
+('855_F.3d_1328', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('NICHIA', 'NNP', '', 'O') ('CORPORATION', 'NN', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O')
+
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('EVERLIGHT', 'NNP', 'ORG', 'B') ('AMERICAS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Everlight_Electronics_Co.', 'NN', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Defendants-Cross-Appellants', 'NNS', '', 'O')
+EVERLIGHT AMERICAS INC.
+__NEW_SENT__
+('Zenaro_Lighting', 'VBG', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant', 'NNP', '', 'O')
+Zenaro_Lighting Inc.
+__NEW_SENT__
+('2016-1585', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'IN', '', 'O') ('2016-1618', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('April_28,_2017', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('disclosed', 'VBD', '', 'O') ('package', 'NN', '', 'O') ('designs', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('manufacturing', 'VBG', '', 'O') ('light-emitting', 'NN', '', 'O') ('diode', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('LED', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('devices', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('No._2', 'NNP', '', 'O') (':13-cv-00702-JRG', 'NNP', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Rodney', 'NNP', 'PERSON', 'I') ('Gilstrap', 'NNP', 'PERSON', 'I') ('2014_WL_7149169', 'NNP', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('ruled', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('infringed', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('bench_trial', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('denied', 'VBN', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('2016_WL_310142', 'CD', '', 'O')
+United_States_District_Court Texas J. Rodney Gilstrap
+__NEW_SENT__
+('Parties', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Stoll', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Stoll Circuit_Judge
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('lead', 'NN', '', 'O') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('device', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('conducted', 'VBD', '', 'O') ('electricity', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('planar', 'NN', '', 'O') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('substantially', 'RB', '', 'O') ('same_plane', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('with', 'IN', '', 'O') ('outer', 'JJ', '', 'O') ('side', 'NN', '', 'O') ('surfaces', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('LED', 'NN', '', 'O') ('packages', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('had', 'VBD', '', 'O') ('slight', 'JJ', '', 'O') ('concavities', 'NNS', '', 'O') ('infringed', 'VBN', '', 'O') ('``', '``', '', 'O') ('planar', 'JJ', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('process', 'VB', '', 'O') ('for', 'IN', '', 'O') ('manufacturing', 'VBG', '', 'O') ('LEDs', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('improved', 'VBD', '', 'O') ('production_efficiency', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('required', 'VBD', '', 'O') ('leads', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('in', 'IN', '', 'O') ('substantially', 'RB', '', 'O') ('same_plane', 'NN', '', 'O') ('as', 'IN', '', 'O') ('outer', 'JJ', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('resin', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('process', 'VB', '', 'O') ('for', 'IN', '', 'O') ('manufacturing', 'VBG', '', 'O') ('LEDs', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('improved', 'VBN', '', 'O') ('production_efficiency', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('met', 'VBD', '', 'O') ('requirement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('positive', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('negative', 'JJ', '', 'O') ('lead', 'NN', '', 'O') ('electrodes', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('``', '``', '', 'O') ('partially', 'RB', '', 'O') ('disposed', 'VBN', '', 'O') ("''", "''", '', 'O') ('on', 'IN', '', 'O') ('bottom', 'JJ', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('recess', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('LED', 'NN', '', 'O') ('design', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('minimized', 'VBD', '', 'O') ('structural', 'JJ', '', 'O') ('problems', 'NNS', '', 'O') ('caused', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('components', 'NNS', '', 'O') ('expanding', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('contracting', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('rates', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('thermal', 'JJ', '', 'O') ('cycling', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('design', 'VB', '', 'O') ('that', 'WDT', '', 'O') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prevent', 'VB', '', 'O') ('adhesive', 'NN', '', 'O') ('from', 'IN', '', 'O') ('overflowing', 'VBG', '', 'O') ('into', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('areas', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('device', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('suffer', 'VB', '', 'O') ('irreparable', 'JJ', '', 'O') ('harm', 'NN', '', 'O') ('absent', 'JJ', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('district_court', 'JJ', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('denying', 'VBG', '', 'O') ('it', 'PRP', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*1331', 'AFX', '', 'O') ('Appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('No._2', 'NNP', 'LOC', 'B') (':13-cv-00702-JRG', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Rodney', 'NNP', 'PERSON', 'I') ('Gilstrap', 'NNP', 'PERSON', 'I')
+United_States_District_Court Texas No._2 J. Rodney Gilstrap
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Parker', 'NNP', 'PERSON', 'I') ('Rothwell', 'NNP', 'PERSON', 'I') ('Figg', 'NNP', '', 'O') ('Ernst', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Manbeck', 'NNP', '', 'O') ('P.C.', 'NNP', 'ORG', 'B') ('Washington', 'NNP', 'ORG', 'I') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Robert P. Parker Rothwell P.C. Washington DC
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Martin', 'NNP', 'PERSON', 'B') ('Moss', 'NNP', 'PERSON', 'I') ('Zoltick', 'NNP', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('Jones', 'NNP', 'PERSON', 'I') ('Daniel', 'NNP', '', 'O') ('McCallum', 'NNP', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('Paul', 'NNP', 'PERSON', 'I') ('Weihrouch', 'NNP', 'PERSON', 'I')
+Martin Moss Michael Jones Steven Paul Weihrouch
+__NEW_SENT__
+('Jerry', 'NNP', 'PERSON', 'B') ('Robin', 'NNP', 'PERSON', 'I') ('Selinger', 'NNP', 'PERSON', 'I') ('Patterson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Sheridan', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-cross-appellants', 'NNS', '', 'O')
+Jerry Robin Selinger Patterson & Sheridan Dallas
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Jayme', 'NNP', 'PERSON', 'B') ('Partridge', 'NNP', 'PERSON', 'I') ('Barden', 'NNP', 'FAC', 'B') ('Todd', 'NNP', 'FAC', 'I') ('Patterson', 'NNP', 'FAC', 'I') ('Houston', 'NNP', 'FAC', 'I') ('TX', 'NNP', 'FAC', 'I') (';', ':', '', 'O') ('Eric', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Benisek', 'NNP', 'PERSON', 'I') ('Jeffrey', 'NNP', 'PERSON', 'I') ('T.', 'NNP', 'PERSON', 'I') ('Lindgren', 'NNP', 'PERSON', 'I') ('Robert', 'NNP', 'PERSON', 'B') ('McArthur', 'NNP', 'PERSON', 'I') ('Stephen', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Steinberg', 'NNP', 'PERSON', 'I') ('Richard', 'NNP', '', 'O') ('C.', 'NNP', '', 'O') ('Vasquez', 'NNP', '', 'O') ('Vasquez', 'NNP', '', 'O') ('Benisek', 'NNPS', '', 'O') ('&', 'CC', '', 'O') ('Lindgren', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Lafayette', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+Jayme Partridge Barden Todd Patterson Houston TX Eric W. Benisek Jeffrey T. Lindgren Robert McArthur Stephen C. Steinberg
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Reyna', 'NNP', 'ORG', 'B') ('Hughes', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Stoll', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+Reyna Hughes Stoll
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Stoll', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Nichia', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('sued', 'VBD', '', 'O') ('Everlight_Electronics_Co.', 'NN', '', 'O') ('LTD.', 'NN', 'ORG', 'B') ('Everlight', 'NNP', 'ORG', 'I') ('Americas', 'NNPS', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Zenaro_Lighting', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Everlight', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patents', 'NNS', '', 'O')
+Nichia Corporation LTD. Everlight Americas INC. Zenaro_Lighting Inc. Everlight three
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('bench_trial', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('Everlight', 'NNP', '', 'O') ('infringed', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('proved', 'VBN', '', 'O') ('them', 'PRP', '', 'O') ('invalid', 'JJ', '', 'O')
+three
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('however', 'RB', '', 'O') ('Nichia', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Everlight', 'NNP', '', 'O')
+Nichia
+__NEW_SENT__
+('Nichia', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('refusal', 'NN', '', 'O') ('to', 'TO', '', 'O') ('enter', 'VB', '', 'O') ('an', 'DT', '', 'O') ('injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Everlight', 'NNP', 'PRODUCT', 'B')
+Nichia Everlight
+__NEW_SENT__
+('Everlight', 'NN', '', 'O') ('cross-appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('infringes', 'VBZ', '', 'O') ('Nichia', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prove', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('invalid', 'JJ', '', 'O')
+Nichia
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'ORG', 'B') ('Nichia', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('LED', 'NN', '', 'O') ('company', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('manufactures', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('supplies', 'NNS', '', 'O') ('LEDs', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('markets', 'NNS', '', 'O') ('around', 'IN', '', 'O') ('the', 'DT', '', 'O') ('world', 'NN', '', 'O')
+I. Nichia Corporation
+__NEW_SENT__
+('Nichia', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Everlight', 'NNP', 'ORG', 'B') ('Elecs', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('No._02', 'NNP', '', 'O') (':13-CV-702', '.', '', 'O') ('2016_WL_310142', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('E.D', 'NNP', 'GPE', 'B')
+Nichia Corp. Everlight Elecs Co. E.D
+__NEW_SENT__
+('Tex', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jan._25,_2016', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Nichia', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Nichia
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('Nichia', 'NNP', 'WORK_OF_ART', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('world', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('largest', 'JJS', '', 'O') ('supplier', 'NN', '', 'O') ('of', 'IN', '', 'O') ('LEDs', 'NNS', '', 'O') ("''", "''", '', 'O')
+Nichia
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2113', 'CD', 'DATE', 'B') ('?', '.', '', 'O')
+2113
+__NEW_SENT__
+('154', 'CD', 'CARDINAL', 'B')
+154
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('sells', 'VBZ', '', 'O') ('LEDs', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('America', 'NNP', 'GPE', 'B') ('through', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('subsidiary', 'NN', '', 'O') ('Nichia', 'NNP', 'ORG', 'B') ('*1332', 'NNP', 'ORG', 'I') ('America', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('Nichia', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('researches', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('develops', 'VBZ', '', 'O') ('LED', 'NN', '', 'O') ('technology', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('technology', 'NN', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('Nichia', 'NNP', 'ORG', 'B') ('asserted', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O')
+America Nichia *1332 America Corp. Nichia three Nichia
+__NEW_SENT__
+('Everlight', 'NN', '', 'O') ('buys', 'VBZ', '', 'O') ('chips', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('suppliers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('packages', 'VBZ', '', 'O') ('them', 'PRP', '', 'O') ('into', 'IN', '', 'O') ('LEDs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Nichia', 'NNP', 'PERSON', 'B') ('2016_WL_310142', 'CD', 'PERSON', 'I') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O')
+Nichia 2016_WL_310142
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('sells', 'VBZ', '', 'O') ('LEDs', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('directly', 'RB', '', 'O') ('to', 'IN', '', 'O') ('customers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('through', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('subsidiaries', 'NNS', '', 'O')
+U.S.
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__

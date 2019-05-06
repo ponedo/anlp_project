@@ -1,0 +1,207 @@
+('465_F.3d_1360', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('MEDTRONIC', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('GUIDANT', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Guidant_Sales_Corporation', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Eli_Lilly', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+Eli_Lilly & Company Defendants-Appellees
+__NEW_SENT__
+('Mirowski_Family_Ventures_L.L.C.', 'NNP', 'PERSON', 'B') ('Defendant-Appellee', 'NNP', 'PERSON', 'I')
+Mirowski_Family_Ventures_L.L.C. Defendant-Appellee
+__NEW_SENT__
+('No._05-1515', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Oct._12,_2006', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NN', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Dec._21,_2006', 'CD', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Competitor', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('declaratory_judgment_action', 'NNP', '', 'O') ('against', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('medical_devices', 'NNS', '', 'O') ('assignee', 'NN', '', 'O') ('and', 'CC', '', 'O') ('exclusive_licensee', 'JJ', '', 'O') ('alleging', 'NN', '', 'O') ('that', 'IN', '', 'O') ('claims', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('pacemaker', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('reason', 'NN', '', 'O') ('of', 'IN', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('rule', 'NN', '', 'O') ('against', 'IN', '', 'O') ('recapturing', 'VBG', '', 'O') ('surrendered', 'VBN', '', 'O') ('subject_matter', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I') ('Chief_Judge', 'NNP', 'PERSON', 'I') ('378_F.Supp.2d_503', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+United_States_District_Court the District of Delaware Sue L. Robinson Chief_Judge
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Schall', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Schall Circuit_Judge
+__NEW_SENT__
+('independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('application', 'NN', '', 'O') ('as', 'IN', '', 'O') ('filed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('claims', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('depended', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('them', 'PRP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('other', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('included', 'VBD', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('unconditional_embodiment', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('surrendered', 'VBN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('unconditional_embodiment', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('surrendered', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('arguments', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('claim', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('include', 'VB', '', 'O') ('embodiment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('one', 'CD', 'CARDINAL', 'I') ('sensing_electrode', 'NN', '', 'O') (';', ':', '', 'O')
+only one
+__NEW_SENT__
+('attorney', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('statements', 'NNS', '', 'O') ('about', 'IN', '', 'O') ('prior_art_patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('single', 'JJ', '', 'O') ('ventricular', 'JJ', '', 'O') ('sensing_electrode', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('unmistakable', 'JJ', '', 'O') ('assertion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('support', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patentability', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('invalidated', 'VBD', '', 'O') ('reissue', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('covering', 'VBG', '', 'O') ('embodiment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('one', 'CD', 'CARDINAL', 'I') ('sensing_electrode', 'NN', '', 'O') (';', ':', '', 'O')
+only one
+__NEW_SENT__
+('attorney', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('unmistakably', 'RB', '', 'O') ('surrender', 'VB', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('by', 'IN', '', 'O') ('distinguishing', 'VBG', '', 'O') ('prior_art_patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('electrodes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('paced', 'VBD', '', 'O') ('but', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('sense', 'VB', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('attorney', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('unmistakably', 'RB', '', 'O') ('surrender', 'VB', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('by', 'IN', '', 'O') ('distinguishing', 'VBG', '', 'O') ('prior_art_patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('selectively', 'RB', '', 'O') ('analyze', 'VB', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Dyk', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+Dyk Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1364', 'CC', 'PERSON', 'B') ('Kenneth', 'NNP', 'PERSON', 'I') ('C.', 'NNP', 'PERSON', 'I') ('Bass', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('Sterne', 'NNP', '', 'O') ('Kessler', 'NNP', '', 'O') ('Goldstein', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Fox', 'NNP', '', 'O') ('P.L.L.C', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+*1364 Kenneth C. Bass III Washington
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Jon', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Wright', 'NNP', 'PERSON', 'I')
+Jon E. Wright
+__NEW_SENT__
+('Arthur', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Neustadt', 'NNP', 'PERSON', 'I') ('Oblon', 'NNP', 'PERSON', 'I') ('Spivak', 'NNP', '', 'O') ('McClelland', 'NNP', '', 'O') ('Maier', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Neustadt', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Alexandria', 'NNP', 'GPE', 'B') ('VA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('Mirowski_Family_Ventures_L.L.C.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('all', 'DT', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Arthur I. Neustadt Oblon Maier & Neustadt P.C. Alexandria Mirowski_Family_Ventures_L.L.C.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Guidant_Corporation', 'NN', '', 'O') ('et_al', 'NNP', '', 'O')
+
+__NEW_SENT__
+('were', 'VBD', '', 'O') ('J.', 'NNP', 'ORG', 'B') ('Michael', 'NNP', 'ORG', 'I') ('Jakes', 'NNP', 'ORG', 'I') ('Kathleen', 'NNP', 'ORG', 'I') ('A.', 'NN', 'ORG', 'I') ('Daley', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Naveen', 'NNP', 'DATE', 'B') ('Modi', 'NNP', '', 'O') ('Finnegan', 'NNP', '', 'O') ('Henderson', 'NNP', '', 'O') ('Farabow', 'NNP', '', 'O') ('Garrett', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Dunner', 'NNP', '', 'O') ('L.L.P', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B')
+J. Michael Jakes Kathleen A. Daley Naveen Washington
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Guidant_Corporation', 'NN', '', 'O') ('et_al', 'NNP', '', 'O')
+
+__NEW_SENT__
+('was', 'VBD', '', 'O') ('Kara', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Stoll', 'NNP', 'PERSON', 'I')
+Kara F. Stoll
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('SCHALL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('SCHALL', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('case', 'NN', '', 'O')
+
+__NEW_SENT__
+('Medtronic', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('medical_devices', 'NNS', '', 'O')
+Medtronic Inc. Medtronic
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment_action', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('against', 'IN', '', 'O') ('Guidant_Corporation', 'NNP', 'ORG', 'B') ('Guidant_Sales_Corporation', 'NNP', 'ORG', 'I') ('Eli_Lilly', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Eli_Lilly', 'RB', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Mirowski_Family_Ventures_L.L.C', 'NNP', 'PERSON', 'B')
+United_States_District_Court the District of Delaware Guidant_Corporation Guidant_Sales_Corporation Eli_Lilly & Company Mirowski_Family_Ventures_L.L.C
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('claims', 'VBZ', '', 'O') ('15-26', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Reissue', 'NNP', '', 'O') ('Patent', 'NNP', '', 'O') ('No._38119', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('REBIG_TOKEN__¡¬119_patent__BIG_TOKEN', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('reissue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._4928,688', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬688_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('reason', 'NN', '', 'O') ('of', 'IN', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rule', 'NN', '', 'O') ('against', 'IN', '', 'O') ('recapturing', 'VBG', '', 'O') ('surrendered', 'VBN', '', 'O') ('subject_matter', 'NN', '', 'O')
+Medtronic 15-26 U.S. U.S. No._4928,688
+__NEW_SENT__
+('The', 'DT', '', 'O') ('REBIG_TOKEN__¡¬119_patent__BIG_TOKEN', 'NN', 'ORG', 'B') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pacemaker', 'NN', '', 'O') ('apparatus', 'NN', '', 'O')
+REBIG_TOKEN__¡¬119_patent__BIG_TOKEN
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('relate', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('procedure', 'NN', '', 'O') ('for', 'IN', '', 'O') ('pacing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('particular', 'JJ', '', 'O') ('way', 'NN', '', 'O') ('so', 'IN', '', 'O') ('as', 'IN', '', 'O') ('to', 'TO', '', 'O') ('improve', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('contraction', 'NN', '', 'O') ('pattern', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thereby', 'RB', '', 'O') ('augment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('movement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('blood', 'NN', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('RE¡¬', 'VB', '', 'O') ('119', 'CD', 'CARDINAL', 'B') ('patent', 'NN', '', 'O') ('col._3,_ll._33-35', 'NNS', '', 'O')
+119
+__NEW_SENT__
+('Mirowski_Family_Ventures_L.L.C', 'NNP', '', 'O')
+
+__NEW_SENT__
+('and', 'CC', '', 'O') ('Eli_Lilly', 'RB', '', 'O') ('are', 'VBP', '', 'O') ('respectively', 'RB', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('and', 'CC', '', 'O') ('exclusive_licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Guidant_Corporation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('medical', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('manufacturer', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('formed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('1994', 'CD', 'DATE', 'B') ('when', 'WRB', '', 'O') ('Eli_Lilly', 'RB', '', 'O') ('divested', 'VBD', '', 'O') ('certain', 'JJ', '', 'O') ('assets', 'NNS', '', 'O') ('while', 'IN', '', 'O') ('Guidant_Sales_Corporation', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('wholly', 'RB', '', 'O') ('owned', 'VBN', '', 'O') ('subsidiary', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Guidant_Corporation', 'NN', '', 'O')
+1994
+__NEW_SENT__
+('For', 'IN', '', 'O') ('ease', 'NN', '', 'O') ('of', 'IN', '', 'O') ('reference', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('refer', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('defendants', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('Guidant', 'JJ', 'WORK_OF_ART', 'B') ("''", "''", '', 'O')
+four Guidant
+__NEW_SENT__
+('Medtronic', 'NNP', 'ORG', 'B') ('now', 'RB', '', 'O') ('appeals', 'VBZ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('*1365', 'FW', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('REBIG_TOKEN__¡¬119_patent__BIG_TOKEN', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+Medtronic
+__NEW_SENT__
+('See', 'VB', 'ORG', 'B') ('Medtronic', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Guidant', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('378_F.Supp.2d_503', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('D.Del.2005', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+See Medtronic Inc. Guidant Corp.
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('up', 'RP', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('chambers', 'NNS', '', 'O') (':', ':', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('atria', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('ventricles', 'NNS', '', 'O')
+four two two
+__NEW_SENT__
+('Electrical', 'JJ', '', 'O') ('stimulations', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('depolarizations', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chambers', 'NNS', '', 'O') ('cause', 'VBP', '', 'O') ('contractions', 'NNS', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('result', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('pumping', 'VBG', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('electrical_activity', 'NN', '', 'O') ('arises', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('right', 'JJ', '', 'O') ('atrium', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('eventually', 'RB', '', 'O') ('transmitted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('time', 'NN', '', 'O') ('from', 'IN', '', 'O') ('depolarization', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('atria', 'NN', '', 'O') ('to', 'IN', '', 'O') ('depolarization', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('called', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('A-V', 'FW', 'PRODUCT', 'B') ('delay', 'NN', '', 'O') ('period', 'NN', '', 'O') ("''", "''", '', 'O')
+A-V
+__NEW_SENT__
+('Dr.', 'NNP', '', 'O') ('Morton', 'NNP', 'PERSON', 'B') ('Mower', 'NNP', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('named', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('REBIG_TOKEN__¡¬119_patent__BIG_TOKEN', 'NN', '', 'O')
+Morton Mower
+__NEW_SENT__
+('His', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('apparatus', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('ventricular', 'JJ', '', 'O') ('asynchrony', 'NN', '', 'O') ('a', 'DT', '', 'O') ('condition', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('defect', 'NN', '', 'O') ('in', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('or', 'CC', '', 'O') ('her', 'PRP$', '', 'O') ('heart', 'NN', '', 'O') ('ventricles', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('defect', 'NN', '', 'O') ('causes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('contract', 'VB', '', 'O') ('at', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('times', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('results', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('loss', 'NN', '', 'O') ('of', 'IN', '', 'O') ('effectiveness', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pumping', 'NN', '', 'O') ('of', 'IN', '', 'O') ('blood', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('REBIG_TOKEN__¡¬119_patent__BIG_TOKEN', 'NN', 'ORG', 'B') ('works', 'VBZ', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pacemaker', 'NN', '', 'O') ('device', 'NN', '', 'O') ('invented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Mower', 'NNP', 'PERSON', 'B') ('which', 'WDT', '', 'O') ('either', 'CC', '', 'O') ('conditionally', 'RB', '', 'O') ('or', 'CC', '', 'O') ('unconditionally', 'RB', '', 'O') ('paces', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('ventricles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('to', 'TO', '', 'O') ('cause', 'VB', '', 'O') ('simultaneous', 'JJ', '', 'O') ('ventricular', 'JJ', '', 'O') ('contractions', 'NNS', '', 'O')
+REBIG_TOKEN__¡¬119_patent__BIG_TOKEN Mower two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('``', '``', '', 'O') ('conditional_embodiment', 'JJ', '', 'O') ("''", "''", '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('requires', 'VBZ', '', 'O') ('sensing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('depolarization', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('ventricle', 'NN', '', 'O') ('then', 'RB', '', 'O') ('waiting', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('predetermined', 'JJ', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('time', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sense', 'VB', '', 'O') ('a', 'DT', '', 'O') ('depolarization', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second_ventricle', 'NN', '', 'O')
+first
+__NEW_SENT__
+('If', 'IN', '', 'O') ('no', 'DT', '', 'O') ('depolarization', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('sensed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second_ventricle', 'NN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('stimulates', 'VBZ', '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('paces', 'NNS', '', 'O') ("''", "''", '', 'O') ('the', 'DT', '', 'O') ('second_ventricle', 'NN', '', 'O') ('with', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electrical', 'JJ', '', 'O') ('pulse', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('embodiment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('called', 'VBN', '', 'O') ('``', '``', '', 'O') ('conditional', 'JJ', '', 'O') ("''", "''", '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('delivery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pacing', 'NN', '', 'O') ('pulses', 'NNS', '', 'O') ('depends', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('analysis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cardiac', 'JJ', '', 'O') ('signals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') ("''", "''", '', 'O') ('depolarization', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('sensed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('either', 'DT', '', 'O') ('ventricle', 'NN', '', 'O') ('and', 'CC', '', 'O') ('as', 'RB', '', 'O') ('soon', 'RB', '', 'O') ('as', 'IN', '', 'O') ('depolarization', 'NN', '', 'O') ('in', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('ventricle', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('sensed', 'VBN', '', 'O') ('both', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('immediately', 'RB', '', 'O') ('paced', 'VBN', '', 'O')
+one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') ("''", "''", '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('ventricle', 'NN', '', 'O') ('will', 'MD', '', 'O') ('be', 'VB', '', 'O') ('paced', 'VBN', '', 'O') ('twice', 'RB', '', 'O') ('once', 'RB', '', 'O') ('naturally', 'RB', '', 'O') ('and', 'CC', '', 'O') ('once', 'RB', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O')
+one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conditional_embodiment', 'NN', '', 'O') ('there', 'EX', '', 'O') ('are', 'VBP', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('apparatuses', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('sense', 'VB', '', 'O') ('electrical_activity', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('sensing_electrodes', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+two
+__NEW_SENT__
+('There', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('sensing_electrode', 'NN', '', 'O') ('in', 'IN', '', 'O') ('each', 'DT', '', 'O') ('ventricle', 'NN', '', 'O')
+one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('pacing', 'NN', '', 'O') ('electrode', 'NN', '', 'O') ('to', 'TO', '', 'O') ('pace', 'VB', '', 'O') ('the', 'DT', '', 'O') ('second_ventricle', 'NN', '', 'O')
+at least one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('unconditional_embodiment', 'NN', '', 'O') ('there', 'EX', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('one', 'CD', 'CARDINAL', 'I') ('sensing_electrode', 'NN', '', 'O') ('as', 'IN', '', 'O') ('once', 'RB', '', 'O') ('a', 'DT', '', 'O') ('depolarization', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('sensed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('ventricle', 'NN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('ventricle', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('immediately', 'RB', '', 'O') ('paced', 'VBN', '', 'O')
+only one one
+__NEW_SENT__
+('However', 'RB', '', 'O') ('there', 'EX', '', 'O') ('are', 'VBP', '', 'O') ('always', 'RB', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('pacing', 'NN', '', 'O') ('electrodes', 'NNS', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('both', 'DT', '', 'O') ('ventricles', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('paced', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('time', 'NN', '', 'O')
+two
+__NEW_SENT__

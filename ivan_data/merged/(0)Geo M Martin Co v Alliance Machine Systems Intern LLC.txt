@@ -1,0 +1,193 @@
+
+
+
+618 F.3d 1294
+United States Court of Appeals,
+Federal Circuit.
+GEO. M. MARTIN COMPANY and the Martin Family Trust-1989, Plaintiffs-Appellants,
+v.
+ALLIANCE MACHINE SYSTEMS INTERNATIONAL LLC, Defendant-Cross Appellant.
+Nos. 2009-1132, 2009-1151.
+|
+Aug. 20, 2010.
+Synopsis
+Background: Patent holder and its exclusive licensee brought action against competitor alleging infringement of patent directed to improvement of bundle breakers. After patent was construed, 2007 WL 4105832, and ruled not infringed in part, 560 F.Supp.2d 893, competitor moved for judgment as matter of law on issue of invalidity for obviousness. The United States District Court for the Northern District of California, William H. Alsup, J., 634 F.Supp.2d 1024, granted motion. Plaintiffs appealed validity ruling, and competitor cross-appealed determination that licensee had standing to sue for lost profit damages.
+ 
+Holdings: The Court of Appeals, Rader, Chief Judge, held that:
+ 
+patent was obvious, and thus invalid, and
+ 
+secondary considerations of non-obviousness did not create reasonable dispute that patent was obvious.
+ 
+Affirmed.
+ 
+Attorneys and Law Firms
+*1296 Kenneth E. Keller, Krieg Keller Sloan Reilley & Roman LLP, of San Francisco, CA, argued for plaintiffs-appellants. With him on the brief were Christopher T. Holland and Michael D. Lisi.
+J. Thomas Vitt, Dorsey & Whitney LLP, of Minneapolis, MN, argued for defendant-cross appellant. With him on the brief were Sri K. Sankaran, John J. Brogan and Bart B. Torvik.
+Before RADER,* Chief Judge, ARCHER and PROST, Circuit Judges.
+Opinion
+
+RADER, Chief Judge.
+
+Following a trial for patent infringement that resulted in a hung jury, the United States District Court for the Northern District of California ruled as a matter of law that U.S. Patent No. 6,655,566 (the "¡¬566 patent") would have been obvious at the time of invention. Geo. M. Martin Co. v. Alliance Mach. Sys. Int'l, LLC, 634 F.Supp.2d 1024 (2008) (JMOL Opinion ). Because the record supports the trial court's judgment, this court affirms.
+ 
+
+
+I
+A "bundle breaker" is a machine used to separate stacked sheets of corrugated board. The ¡¬566 patent claims an improvement over the traditional bundle breaker by providing "compliance structures," which allow a bundle breaker to simultaneously break multiple stacks of corrugated board (logs) of different heights.
+ 
+The assembly line in corrugated board manufacturing plants typically includes a number of machines that prepare stacks of corrugated board, or bundles.
+ 
+First, a rotary die cutter scores a single sheet of corrugated board, creating a series of "weakened lines" so that the board can be separated later into individual boxes. Next, a stacker collects multiple sheets and stacks them into a "log." The stacker aligns the sheets' weakened lines so that each log contains a series of "weakened planes." The bundle breaker then separates a log into individual bundles by "breaking" the log along the weakened planes. Finally, a load former puts the bundles onto pallets.
+ 
+The ¡¬566 patent, filed on August 28, 2002, and issued on December 2, 2003, shows a bundle breaker separating a log (4) into separate bundles (2 and 3):
+ 
+
+
+*1297
+
+?
+A typical bundle breaker, as essentially shown in this Figure 14, has an upstream conveyor belt (10) and a downstream conveyor belt (13) separated by a gap. When the weakened plane (9) of a log straddles the gap, or "breaking line," the conveyor belts are stopped, and independent clamps (16 and 17) are lowered to hold the log in position. The downstream portion of the bundle breaker then pivots about an axis (103) to break off a bundle. Unlike the bundle breaker shown above, a typical bundle breaker might transfer the separated bundle off of the downstream conveyor before advancing the remaining portion of the log to continue the breaking process.
+Bundle breakers of this sort were well known in the art when the application for the ¡¬566 patent was filed. The ¡¬566 patent specification describes one prior art bundle breaker, the Pallmac machine, as one that would feed two or more logs through its bundle breaker side by side in order to speed production. As described in the ¡¬566 patent, however, this multiple-log approach came with problems. Specifically, if one or more of the side-by-side logs were higher than the others, due perhaps to a miscount in the number of sheets, the rigid clamps used to hold the logs in position while breaking would exert a different amount of pressure on each log. The ¡¬566 patent describes the result of unequal pressure:
+[M]ore pressure is exerted on the taller logs which can damage compressible material like corrugated cardboard. If the logs are not compressible, then insufficient pressure is placed on the shorter logs and shifting of the logs can occur when the bundles are broken off from the log.... In the industry, this problem is called a 'lack of compliance' problem; i.e., the force on all the side by side logs is not substantially equal.
+¡¬566 patent, col.2 ll.16-31.
+ 
+The inventors of the ¡¬566 patent, Merrill Martin and Daniel Talken, came up with an improved clamp structure to solve the lack of compliance problem, which they called a "compliance structure." An example of the inventors' compliance structure is shown most clearly in Figure 20 of the patent:
+ 
+
+
+*1298
+
+?
+The compliance structure (20) includes a fluid-pressurized structure (21) that is connected to a plurality of rigid members (46-55)-which the parties call "platens"-through a flexible member (22).
+The ¡¬566 patent describes two identical compliance structures on both the upstream and downstream clamps. When each clamp is lowered during operation, the platens will contact the taller log (4') first. The fluid-pressurized structure will then deform the flexible member and allow the clamp to continue to lower until the platens contact the shorter log (4). The fluid pressurized structure allows every platen that touches a log to exert an equal amount of pressure on that log, regardless of its height.
+ 
+Claim 1 of the ¡¬566 patent, the only independent claim, appears in Jepson form. In other words, the preamble describes prior art bundle breakers and then claims the compliance structure mounted on each upper clamp as an improvement. See The Manual of Patent Examining Procedure ("MPEP") ¡± 2129 ? III (8th ed., rev.8, July 2010) (explaining Jepson claims). Claim 1 recites (emphasis added):
+An improvement in a bundle breaker for separating bundles from a log having a generally planar top surface, said log including a plurality of sheets each having a generally planar top surface and each sheet is formed with at least one weakened line, said weakened lines are vertically aligned in said log forming a weakened plane in said log, said bundle breaker including a first conveyor for conveying said log and having an upstream end for receiving said log and a downstream end, and a second conveyor having an upstream end positioned immediately adjacent to said downstream end of said first conveyor providing a gap therebetween defining a bundle breaking plane, said bundle breaker including first clamp means mounted for vertical reciprocating movement above said first conveyor, and second clamp means mounted above said second conveyor for vertical reciprocating movement in relation to said second conveyor and said second conveyor and said second clamp means mounted for conjoint pivotal movement in relation to said bundle breaking plane for progressively breaking a bundle from said log along said weakened plane in said log, said improvement comprising:
+a. a first compliance structure mounted on said first clamp means including,
+(1) a first fluid pressurized structure having a first flexible member presenting a first engagement area for operative engagement with an upstream portion of said generally planar top surface of said log and on the upstream side of said weakened plane in said log; and
+b. a second compliance structure mounted on said second clamp means including,
+(1) a second fluid pressurized structure having a second flexible member presenting a second engagement area for operative engagement with a downstream portion *1299 of said generally planar top surface of said log and on the downstream side of said weakened plane in said log.
+ 
+The dependent claims add various limitations that are in accordance with the description provided above. For example, Claim 2 requires that each conveyor have "a width sufficient to simultaneously transfer and support a plurality of logs in side by side relation." Claim 3 further requires that the fluid pressurized structures engage the plurality of logs where "at least one log [has] a height greater than at least one other log." Claim 4 requires the flexible members to extend "substantially the width of said logs" in the proximity of the weakened plane. Claim 7 requires each flexible member to have a plurality of "closely spaced rigid members ... for engaging said logs." Claim 13 claims an indexing capability, which means that the downstream conveyor can "receive and hold at least two bundles broken successively" before discharging them from the conveyor. And claim 14 adds the same indexing improvement to a bundle breaker capable of breaking two or more logs simultaneously, meaning that the downstream conveyor is able "to receive and hold at least two or more rows of bundles broken successively from a plurality of logs in side by side relation." Col.18 ll.33-38 (emphasis added).
+ 
+
+
+II
+Plaintiff The Martin Family Trust (the "Trust") is the assignee of the ¡¬566 patent. Plaintiff George M. Martin Co. ("Martin") sells the Quik-Break Nicked Bundle Separator (the "Quik-Break"), which incorporates the invention claimed in the ¡¬566 patent. Martin began offering the Quik-Break for sale in 2002 and has sold approximately 60 bundle breakers.
+ 
+Martin has been in the stacker business for a great deal longer than the bundle breaking business-since 1960-and has sold nearly 2,900 stackers in North America alone. In all, Martin has about 90 percent of the stacker market.
+ 
+Defendant Alliance Machine Systems International LLC ("Alliance") is Martin's main competitor in the market for bundle breakers that break multiple bundles having uneven heights. Alliance typically sells between 10-15 bundle breakers per year.
+ 
+The Trust and Martin sued Alliance in February of 2007, alleging that Alliance's bundle breaker infringed the ¡¬566 patent. As a part of its defense, Alliance alleged that Martin lacked standing to sue because Martin did not have a sufficient license to the ¡¬566 patent. Although the Trust's and Martin's interests are aligned as to liability, Alliance sought to dismiss Martin because Plaintiffs only sought damages based on Martin's lost profits (as opposed to damages based on a reasonable royalty for the ¡¬566 patent). The district court held a bench trial solely on the issue of standing, ruling afterwards from the bench that Martin had a "binding exclusive license [to the ¡¬566 patent] implied from the course of dealing between the Trust and ... the company" and that therefore Martin was "entitled to sue for lost profits in the case."
+ 
+The district court then held a two-week trial on invalidity, infringement, and damages. Following four days of deliberation, however, the jury announced that it could not reach a unanimous verdict. In response, each side filed renewed motions for Judgment as a Matter of Law (JMOL) on all issues. The district court granted Alliance's JMOL motion on the issue of invalidity, ruling that, under the Supreme Court's decision in KSR International Co. v. Teleflex Inc., 550 U.S. 398, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007), "[t]he evidence on primary considerations and on *1300 secondary considerations is so lop-sided in favor of obviousness that ... judgment [must] be entered as a matter of law in favor of [Alliance]." JMOL Opinion, 634 F.Supp.2d at 1040. The court denied the remaining JMOL motions as moot. Id.
+ 
+The Trust and Martin filed a timely notice of appeal, arguing to this court, among other things, that the district court erred in its validity ruling. Alliance cross appeals the district court's determination that Martin has standing to sue for lost profit damages. This court has jurisdiction under 28 U.S.C. ¡± 1295(a)(1).
+ 
+
+
+III
+ This court reviews the grant of a JMOL motion without deference, Ericsson, Inc. v. Harris Corp., 352 F.3d 1369, 1373 (Fed.Cir.2003), applying the law of the regional circuit, Riverwood Int'l Corp. v. R.A. Jones & Co., 324 F.3d 1346, 1352 (Fed.Cir.2003). "A jury's inability to reach a verdict does not necessarily preclude a judgment as a matter of law." Headwaters Forest Defense v. County of Humboldt, 240 F.3d 1185, 1197 (9th Cir.2000), vacated on other grounds, 534 U.S. 801, 122 S.Ct. 24, 151 L.Ed.2d 1 (2001). The test in the Ninth Circuit is "whether the evidence, construed in the light most favorable to the nonmoving party, permits only one reasonable conclusion...." White v. Ford Motor Co., 312 F.3d 998, 1010 (9th Cir.2002) (internal quotation marks omitted).
+ 
+ Under 35 U.S.C. ¡± 103(a), a patent is invalid "if the differences between the [claimed] subject matter ... and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains." Whether a patent is invalid as obvious is ultimately a determination of law based on underlying determinations of fact. Monarch Knitting Mach. Corp. v. Sulzer Morat GmbH, 139 F.3d 877, 881 (Fed.Cir.1998). Those underlying determinations of fact relate to "the scope and content of the prior art, the differences between the prior art and the claimed invention, the level of ordinary skill in the art, and any relevant secondary considerations, such as commercial success, long-felt need, and the failure of others." Lucent Techs., Inc. v. Gateway, Inc., 580 F.3d 1301, 1310 (Fed.Cir.2009) (internal quotation marks omitted). Thus, this court will affirm a district court's judgment on obviousness as a matter of law if "the content of the prior art, the scope of the patent claim and the level of ordinary skill in the art are not in material dispute, and the obviousness of the claim is apparent in light of these factors." KSR, 550 U.S. at 427, 127 S.Ct. 1727.
+ 
+
+
+A
+Alliance asserts three bundle-breaking machines as prior art: the Pallmac machine, the Visy machine, and the Tecasa machine. This opinion will discuss the relevant attributes of each machine in turn.
+ 
+
+
+- The Pallmac Machine
+A company called Pallmac began shipping its first bundle breaker in the United States in 1995. Originally, the Pallmac machine featured springs and closely spaced wooden grippers, or slats, which would allow the machine to clamp simultaneously several logs with different heights. A series of narrow "conveyor ropes" positioned below the logs would move the logs through the machine. When the logs reached the breaking line, the conveyor ropes would stop and "rigid members" would rise up from in between the conveyor ropes in order to press the logs against the spring-cushioned slats.
+ 
+Pallmac redesigned its bundle breaker in 1998 by eliminating the springs and *1301 slats, which required constant maintenance, and replacing them with a fixed wooden plate. In order to allow for variation in log height, Pallmac modified the bottom clamp so that the rigid members rested on an elongated air bag, or "fire hose," that extended the entire width of the machine. In the modified Pallmac machine, the rigid members "float" along the top of the airbag. This later version of the Pallmac machine was first installed at a customer site in late 1998.
+ 
+The ¡¬566 patent itself describes Pallmac's air bag solution, but describes the following problem with the "lifting" approach: "As the lifting members lower the log [after breaking], a shifting of the individual sheets within the log can occur which changes the position of the weakened plane and can result in failure to break the [next] bundle cleanly from the log or produce poorly formed bundles." Col.2 ll.50-55. The Trust highlights this lifting approach as the primary difference between the Pallmac machine and the claimed invention. In other words, while the Pallmac machine clamped incoming logs with a compliance structure from the bottom, the claimed invention does so from the top.
+ 
+
+
+- The Visy Machine
+Visy Board ("Visy") is an Australian corrugated board manufacturer. In July 1995, Visy and a U.S. company, Thermoguard Equipment Inc. ("TEI"), agreed that TEI would provide Visy with a bundle breaker having a compliance structure able "to accommodate up to a 1/2 [inch] height difference between multiple bundles being broken simultaneously." As early as October of 1996, TEI sold a number of bundle breakers to Visy with an "air bag clamping" feature. That feature included steel U-shaped grippers attached to the Visy machine's upper clamping mechanism with air bags located inside the grippers.
+ 
+The Trust does not contest the district court's description of how the Visy machine was supposed to work. According to the district court,
+Flexible air tubing connected all of the air bags so as to allow the air pressure to equalize and to apply the same downward force across all grippers. Logs of uneven height would then come onto the conveyor belts, the grippers would lower, and as the grippers engaged the logs, air would be pushed in and out of the air bags in proportion to the pressure on each so as to redistribute and more equalize the pressure.
+JMOL Opinion, 634 F.Supp.2d at 1029. Described as such, the Trust stipulated at trial that the Visy Machine contains the "fluid-pressurized structure" and "flexible member" limitations of independent claim 1.
+ 
+Notwithstanding the theory behind the Visy machine, however, the Trust argues that it would not have rendered the asserted claims obvious because it did not contain a working compliance structure. The Trust points to testimony from the on-site project engineer at Visy, Mr. Fankhauser, who stated that the Visy machine was never able to consistently break multiple bundles having uneven heights and even that "the machine was allergic to breaking multiple logs." Thus, Mr. Fankhauser testified that Visy ultimately removed the air bag clamping feature because it did not work, i.e., it did not "commercially produce products ... at speeds that the factory was built to achieve."
+ 
+The problems with the Visy machine were caused in part by the spacing of the grippers in the Visy Machine. According to Mr. Fankhauser, "pressure is just force divided by area, so ... in a straightforward way, ... if you reduce the area [covered by the grippers], you have to increase the pressure to attain a force." *1302 Because the grippers in the Visy machine covered a relatively small area on the surface of the logs, Mr. Fankhauser testified that they needed to exert a large pressure in order to create enough force to hold the logs in place during breaking. This pressure tended to "bruise or damage the product" that the Visy machine was trying to break.
+ 
+
+
+- The Tecasa Machine
+Another competitor in the corrugated board industry independently made a machine called the Tecasa bundle breaker. At trial, the parties stipulated that the Tecasa machine met every limitation of every asserted claim of the ¡¬ 566 patent and that it was first known in the United States as of June 2002, almost three months before the filing date of the ¡¬566 patent. The Trust attempted to swear behind the Tecasa machine at trial by arguing that it reduced its invention to practice before June 2002. Specifically, the Trust presented evidence that Messrs. Martin and Talken conceived of their invention in 1999, reduced it to practice in 2001, and offered it for sale in early 2002. The district court assumed that the inventors of the ¡¬566 patent had reduced their claimed improvement to practice in time to eliminate the Tecasa machine as prior art. Nevertheless, the district court relied on the Tecasa machine as "plainly show[ing] 'simultaneous invention' as an indicia of obviousness." JMOL Opinion, 634 F.Supp.2d at 1036.
+ 
+
+
+B
+ The district court correctly concluded as a matter of law that the differences between the prior art and the claimed improvement were minimal. For instance, the record contains a statement by the Trust's expert, Dr. Albert Karvelis, that there were only a discrete number of possible design options for choosing the location of the compliance structure: the top clamp, the bottom clamp, or both clamps. This record evidence discredits the Trust's argument that the difference between the bottom-up approach in the Pallmac machine and the top-down approach in the ¡¬566 patent creates a genuine issue of fact. Bottom versus top is exactly the type of "finite number of identified, predictable solutions" that justifies a legal conclusion that the result, when expected, is "the product not of innovation but of ordinary skill and common sense." KSR, 550 U.S. at 421, 127 S.Ct. 1727.
+ 
+The Trust relies on the testimony of Alliance's own Director of Research and Development that, "from an engineering standpoint," one cannot simply take the Pallmac design and flip it from bottom to top. That testimony, however, is irrelevant to the obviousness analysis. With one exception, discussed below, the claims themselves do not recite engineering details but merely require that the compliance structures be mounted to clamps that are "above" the conveyor belts. Indeed, Alliance's witness did testify that flipping the Pallmac machine was simple "from [a] concept point of view." Moreover, to the extent that engineering obstacles did stand in the way to constructing a machine that used a top-down approach, the Visy machine demonstrated that such obstacles could be overcome.
+ 
+ As noted, the Trust attacks the Visy machine as prior art, alleging that the machine did not work for its intended purpose. The district court appropriately rejected that argument. Under an obviousness analysis, a reference need not work to qualify as prior art; "it qualifies as prior art, regardless, for whatever is disclosed therein." Amgen Inc. v. Hoechst Marion Roussel, Inc., 314 F.3d 1313, 1357 (Fed.Cir.2003). "Even if a reference discloses an inoperative device, it is prior art for all that it teaches." Beckman Instruments, *1303 Inc. v. LKB Produkter AB, 892 F.2d 1547, 1551 (Fed.Cir.1989).
+ 
+The Trust concedes that the Visy machine teaches the "fluid pressurized structure" and "flexible member" limitations; the main dispute on appeal that the court can discern is whether Visy teaches a "compliance structure." The record, however, definitively warrants the trial court's conclusion that the Visy machine teaches a "compliance structure."
+ 
+The district court's construction of "compliance structure," which is not at issue on appeal, is "a structure that deforms to allow a more uniform distribution of force." Geo. M. Martin Co. v. Alliance Mach. Sys. Int'l, LLC, No. 07-00692, 2007 WL 4105832, *4 (Nov. 16, 2007) (emphasis added). Inventor Talken, Martin's corporate representative at trial, ran tests on a Visy replica machine that showed that the Visy machine provided a distribution of force across logs of differing heights that was about 267% more uniform than a Visy machine with immovable, flat platens. Thus, the Trust's own tests clearly and convincingly establish that the Visy machine contains a structure that "deforms to allow a more uniform distribution of force." In sum, the Visy machine discloses a "compliance structure."
+ 
+The Trust also appears to argue that, because the claims are to an "improvement in a bundle breaker," an accused infringer must show that any prior art must contain an improvement over and above the improvement recited in the body of the claim. As applied to this case, the Trust argues that the prior art must provide " 'reliable breaking' of multiple bundles of uneven heights while avoiding the 'lack of compliance' problems found in the prior art, namely damage to the boards caused by excessive pressure and inconsistent breaking due to inadequate pressure."
+ 
+ This argument fails because it reads too much into the word "improvement." Although "the fact that the patentee has chosen the Jepson form of the claim evidences the intention to use the preamble to define, in part, the structural elements of his claimed invention," Epcon Gas Sys., Inc. v. Bauer Compressors, Inc., 279 F.3d 1022, 1029 (Fed.Cir.2002) (internal quotation marks omitted), the extent of the claimed "improvement" is defined only by the body of the claim. After all, the transition of the claim contains the phrase "said improvement comprising." "Comprising" is a term of art that indicates that only what follows is essential. Genentech, Inc. v. Chiron Corp., 112 F.3d 495, 501 (Fed.Cir.1997). Thus, if the patentee intended to claim an improvement that included a structure for "reliable breaking" measured against some kind of commercial production standard, it should have explicitly done so or argued on appeal for a construction of "compliance structure" that contains such a standard. The record shows that the Trust did neither.
+ 
+ To be clear, prior art must teach a person of ordinary skill to make an apparatus that works for its intended purpose. Beckman Instruments, 892 F.2d at 1551. If the Visy machine did not do so on its own, Alliance would have needed to establish that a person of ordinary skill would have nonetheless been able to make a working apparatus. In this case, however, the record shows that the Visy machine did work, insofar as it was able to do what the preamble of claim 1 required, namely, "separate[ ] bundles from a log." Even Mr. Fankhauser testified that the Visy machine was able to break bundles without denting the top box of a stack if the bundles were "sufficiently small." The Visy machine simply did not work at "production speed." As discussed, however, the claims do not require a threshold throughput or commercial speed.
+ 
+*1304 The one design specification contained in the asserted claims can be found in the dependent claim 7 requirement that the platens be "closely spaced." The district court held that the "simple solution" of enlarging the surface area of the platens would have been apparent to one having ordinary skill in the art based on the "fundamental and basic principle of physics" that Force = Pressure x Area. JMOL Opinion, 634 F.Supp.2d at 1037. This court again agrees with the district court. The Trust argues that if the solution were so simple, someone at Visy or Alliance would have suggested it. The record only shows that Visy and Alliance employees tried to troubleshoot or repair the Visy machine, not redesign it. Thus, their failure to suggest a redesign does not create a reasonable dispute. Indeed, Visy's Mr. Fankhauser testified that the relationship between pressure and area was "straightforward."
+ 
+Finally, on appeal the Trust does not take issue with the district court's invalidity holding on dependent claims 13 and 14, both of which relate to "indexing." Thus, this court need not address those points.
+ 
+
+
+C
+ Secondary considerations of non-obviousness must be considered when present. Sud-Chemie, Inc. v. Multisorb Techs., Inc., 554 F.3d 1001, 1008 (Fed.Cir.2009). As the Supreme Court recently reaffirmed, " '[s]uch secondary considerations as commercial success, long felt but unsolved needs, failure of others, etc., might be utilized to give light to the circumstances surrounding the origin of the subject matter sought to be patented.' " KSR, 550 U.S. at 406, 127 S.Ct. 1727 (quoting Graham v. John Deere Co. of Kansas City, 383 U.S. 1, 17-18, 86 S.Ct. 684, 15 L.Ed.2d 545 (1966)). In some rare instances, the secondary consideration of simultaneous invention might also supply "indicia of 'obviousness.' " Ecolochem, Inc. v. S. Cal. Edison Co., 227 F.3d 1361, 1376 (Fed.Cir.2000) (quoting Graham, 383 U.S. at 17-18, 86 S.Ct. 684).
+ 
+ Here, the Trust argues that a number of secondary considerations of non-obviousness preclude a conclusion that the asserted claims are obvious as a matter of law. The district court held that the Trust's secondary considerations could not overcome "the fact that nearly every single person or entity who encountered the lack of compliance problems in the industry came up with the same general hydraulic design to manage it." JMOL Opinion, 634 F.Supp.2d at 1039. Upon review, this court agrees that the record shows the evidence of secondary considerations in this case do not create a reasonable dispute as to obviousness.
+ 
+ The commercial success of a product is relevant to the non-obviousness of a claim only insofar as the success of the product is due to the claimed invention. Ormco Corp. v. Align Tech., Inc., 463 F.3d 1299, 1312 (Fed.Cir.2006). Here, Alliance conclusively established that much of George Martin's commercial success was due to Martin's pre-existing market share in the stacker market, which, according to Martin's president, gave it a "huge advantage" in selling other products because it allowed Martin to sell a "single-source system." Thus, this factor carries little weight.
+ 
+ Evidence of a long-felt but unsolved need provides another secondary consideration of non-obviousness. Ecolochem, 227 F.3d at 1376-77. Where the differences between the prior art and the claimed invention are as minimal as they are here, however, it cannot be said that any long-felt need was unsolved. Martin presented evidence that its Quik-Break worked better than any prior art system because, for example, it could simultaneously *1305 break three bundles or more. The record shows, however, that this "need" had been met by prior art machines such as the Pallmac and the Visy that could break more than one bundle at a time.
+ 
+The Trust's evidence of failure of others is similarly insufficient. While a jury might have credited the Trust's evidence that other machines, such as the Visy machine, did not work as well as the Quik-Break, everything indicates that the Quik-Break's superiority was due to its enhanced throughput over and above the claimed ability to handle a "plurality of logs."
+ 
+Industry praise must also be linked to the patented invention. Power-One, Inc. v. Artesyn Techs., Inc., 599 F.3d 1343, 1352 (Fed.Cir.2010). The only evidence of industry praise on which the Trust reasonably relies-as opposed to self-serving statements by Martin's president that the patented feature offers "increased productivity and increased profitability"-is an internal Alliance email in which an Alliance employee reports a customer's statement that "the Martin breaker is the cat's meow." But that same email notes that the customer also chose the Martin Quik-Break because "[t]he interface between the stacker and the breaker will be handled by a single vendor." As with the commercial success factor, this reference to Martin's market share in the stacker market reduces the impact that this evidence could have in establishing industry praise.
+ 
+Finally, the Trust points to evidence that Alliance copied the claimed invention, namely, Alliance's internal "Bundle Breaker Action Plan" wherein Alliance analyzed the "Geo Martin concept," notes that the design is patented, and then proposes adding its own "floating platens capability" to its bundle breaker. This court has noted, however, "that a showing of copying is only equivocal evidence of non-obviousness in the absence of more compelling objective indicia of other secondary considerations." Ecolochem, 227 F.3d at 1380. The Trust's evidence is hardly compelling here, where the same internal memorandum suggested that Alliance's proposed design was the "same [as the] Pallmac platen concept" but "flipped." Thus, this evidence does not provide much help to the Trust.
+ 
+ Independently made, simultaneous inventions, made "within a comparatively short space of time," are persuasive evidence that the claimed apparatus "was the product only of ordinary mechanical or engineering skill." Concrete Appliances Co. v. Gomery, 269 U.S. 177, 184, 46 S.Ct. 42, 70 L.Ed. 222 (1925). But see Lindemann Maschinenfabrik GMBH v. Am. Hoist & Derrick Co., 730 F.2d 1452, 1460 (Fed.Cir.1984) ("Because the statute, 35 U.S.C. ¡± 135, (establishing and governing interference practice) recognizes the possibility of near simultaneous invention by two or more equally talented inventors working independently, that occurrence may or may not be an indication of obviousness when considered in light of all the circumstances."). The Trust takes issue with the district court's reliance on the invention of the Tecasa machine as a simultaneous invention. According to the Trust, Martin and Talken reduced their claimed invention to practice as early as 2001, whereas the parties stipulated that the Tecasa machine was first known in the United States in June 2002. The Trust argues that this timing cannot constitute "contemporaneous" invention as a matter of law. The Trust's argument would have more force if the Tecasa machine provided the only evidence of simultaneous invention. The existence of the Pallmac and Visy machines, however, shows that the Tecasa machine was invented within a "comparatively short space of time." As *1306 discussed, the evidence reveals that the relevant Pallmac machine was first installed in 1998, and the Visy machine was first sold in 1996, approximately three and five years, respectively, before the Trust alleges its invention was reduced to practice. The district court was therefore correct to conclude that the invention of the Tecasa machine, occurring only a year later than the earliest possible reduction-to-practice date of the claimed invention, qualified as a simultaneous invention. As such, " 'though not determinative of statutory obviousness, [it is] strong evidence of what constitutes the level of ordinary skill in the art.' " Ecolochem, 227 F.3d at 1379 (quoting The Int'l Glass Co. v. United States, 187 Ct.Cl. 376, 408 F.2d 395, 405 (1969)).
+ 
+Balancing all of the secondary considerations, this court agrees with the district court that, in light of the strong evidence of obviousness based on the Pallmac and Visy prior art coupled with the near-simultaneous invention of the Tecasa machine, the Trust's objective evidence of non-obviousness, even if fully credited by a jury, would fail to make a difference in this case.
+ 
+
+
+IV
+The parties raise a number of other issues, including Martin's standing with respect to damages, the district court's denial of the Trust's Rule 50(b) motion on infringement, and the district court's ruling as a matter of law that the Trust failed to establish willful infringement. Because the asserted claims of the ¡¬566 patent are invalid, those remaining issues are moot. The district court's judgment is affirmed.
+ 
+AFFIRMED
+ 
+All Citations
+618 F.3d 1294, 96 U.S.P.Q.2d 1212
+Footnotes
+*
+Randall R. Rader assumed the position of Chief Judge on June 1, 2010.
+
+End of Document
+(c) 2019 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+Liao, Ivan 2/4/2019
+For Educational Use OnlyGeo. M. Martin Co. v. Alliance Machine Systems Intern. LLC, 618 F.3d 1294 (2010)96 U.S.P.Q.2d 1212
+
+ (c) 2019 Thomson Reuters. No claim to original U.S. Government Works. 
+

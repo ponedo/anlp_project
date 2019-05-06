@@ -1,0 +1,520 @@
+602_f.3d_1325
+united_states court of appeals federal circuit
+verizon services corp. verizon_communications inc. mci communications corp. and verizon_business_global_llc plaintiffs-appellants v. cox fibernet virginia inc. cox_virginia_telecom inc. cox_communications_hampton_roads llc coxcom inc. and cox_communications inc. defendants-cross appellants
+nos._2009-1086 2009-1098
+| april_16,_2010
+synopsis
+background patentee brought action for infringement of patents for technology related to sending telephone_calls in data packets through a network
+following jury trial the united_states_district_court for the eastern_district of virginia claude m. hilton senior district judge entered judgment finding some the claims and valid and some of the claims not infringed and both parties appealed
+
+holdings the court of appeals linn circuit_judge held that
+
+alleged infringers arguments to the jury about claim_scope did not subvert jurys ability to fairly decide the issues before it ;
+
+lack of instruction on incorporation by reference was harmless ;
+
+article on internet telephony was enabling as required for it to anticipate patents ;
+
+internet and network_protocols was a relevant field of art in determining whether patents were invalid as obvious ;
+
+expert_testimony supported jurys determination that patents were invalid as anticipated ; and
+
+evidence supported jurys determination that patents were not infringed regardless of whether district_court misconstrued patent_claim
+
+affirmed
+
+attorneys and law firms
+*1328 richard g. taranto farr & taranto of washington dc argued for plaintiffs-appellants
+of counsel on the brief were michael k. kellogg john c. rozendaal and michael e. joffre kellogg huber hansen todd evans & figel pllc of washington dc ; john thorne and robert h. griffen verizon communication inc. of arlington va and leonard c. suchyta of basking ridge nj
+mitchell g. stockwell kilpatrick stockton llp of atlanta ga argued for defendants-cross appellants
+with him on the brief were william h. boice and audra a
+dial
+before mayer linn and prost circuit_judges
+opinion
+linn circuit_judge
+verizon_services_corp. verizon_communications inc. mci communications inc. and verizon_business_global_llc collectively *1329` verizon' appeal from a final judgment of the united_states_district_court for the eastern_district of virginia entered after a jury found 1 claims 5_and_6 of u.s._patent_no._6282,574` the ¡¬574_patent` and claims 1 3 and 11 of u.s._patent_no._6104,711` the ¡¬711_patent` invalid ; and 2 claim 1 of u.s._patent_no._6430,275` the ¡¬275_patent` ; claims 1 19 27 and 35 of u.s._patent_no._6292,481` the ¡¬481_patent` ; claim 1 of u.s._patent_no._6137,869` the ¡¬869_patent` ; and claims 12 13 and 20 of u.s._patent_no._6636,597` the ¡¬597_patent` not infringed by cox_fibernet_virginia inc. cox_virginia_telecom inc. cox_communications_hampton_roads llc coxcom inc. and cox_communications inc. collectively` cox'
+see verizon_servs corp. v. cox_fibernet_va. inc. no._08-_cv-0157 e.d.va
+oct._6,_2008 judgment ; verizon_servs
+v. cox_fibernet_va. inc. 08-cv-0157 e.d.va
+nov._7,_2008 order denying cross-motions for judgment as a matter of law and new_trial ; verizon_servs corp. v. cox_fibernet_va. inc. no._08-_cv-0157 e.d.va
+nov._11,_2008 agreed order amending and clarifying the judgment
+on appeal both parties challenge the district_courts denial of their respective motions for judgment as a matter of law and motions for new_trial
+because the evidence introduced at trial supports the jurys verdict and because the district_court did not err in instructing the jury on the scope of the claims we affirm
+
+i
+background
+a
+the patents at issue
+the six patents at issue in this appeal are owned by verizon and relate generally to packet-switched telephony-technology for providing telephone_calls by breaking up voice signals and sending the resulting data in packets not all of which need traverse the same path through a network
+packet-switched telephony increases the efficiency of the underlying network over traditional circuit switching which relies on a dedicated path between endpoints of a call
+
+to explain the technology involved in the six asserted patents the parties divide them into three groups the ¡¬711 and ¡¬574_patent s the` feature_patents' the ¡¬275 ¡¬869 and ¡¬481_patent s the` network_patents' and the ¡¬597_patent the` quality of service_patent'
+none of the claims in any of the patents at issue in this appeal refer explicitly to the internet or to a` public packet_data_network' which this court has previously equated to the internet
+verizon_servs corp. v. vonage_holdings_corp. 503_f.3d_1295 1305 fed.cir.2007
+instead the asserted_claims refer to` packet switched networks'` circuit switched networks' and a` system of interlinked_packet_data_networks'
+
+1
+the feature_patents711 and ¡¬574 the feature_patents share a specification and involve methods for providing features such as call-forwarding over packet-switched networks
+these features are made possible by an enhanced name translation server
+the specification describes the existing domain name system` dns' which uses computers associated with the internet known as domain name servers to convert textual domain names into numeric internet protocol` ip' addresses
+the specification also describes software developed for use on personal_computers to permit the two-way transfer of real-time voice information via an internet data link between two personal_computers` voip'
+the inventions relate to a server with an expanded variety of translation *1330 services over a traditional domain name server allowing for a wider range of routing options over packet-switched networks
+this additional functionality allows providers of voip to offer enhanced features such as call-forwarding and voicemail to which users of traditional telephone_service have become accustomed
+although the inventions are` particularly advantageous for processing of voice telephone communications through the packet_data_network' they are not limited to voice services or the internet
+¡¬711_patent col.6 ll.48-50
+
+2
+the network_patents275 ¡¬869 and ¡¬481 the network_patents relate to an architecture for providing per-call support functionality for voice service over a packet-switched network
+the inventions in this group provide for bundling the traditionally separate databases of usage recording pricing and authorization into a single_logical_database in order to ensure scalability of the system reduce the potential for fraud and allow mechanisms for network support infrastructure pricing call flow and billing
+the patents do not require this single_logical_database referred to as a` unitary_logical_object' or` ulo' to be implemented as a single physical system
+
+3
+the quality of service_patent597 the quality of service_patent covers a method for providing services over a packet-switched network by dynamically allocating resources to vary the quality of service on a call-by-call basis
+the invention includes an enhanced routing technique which is more flexible than the traditional routing tables used by the public switched telephone network and allows the invention to quickly respond to changes in network configuration and network traffic
+
+b
+the parties and the litigation
+in 1996 cox began to offer telephone_service
+this service initially was based on traditional circuit-switched telephony operated over coxs private_cable_network
+in 2003 cox began to provide telephone_service over its private_cable_network using a packet-switched technology called packetcable
+
+in january 2008 verizon sued cox for willfully infringing its patents by deploying coxs packet-switched telephone_service
+four of the six patents at issue the feature_patents the ¡¬711 and ¡¬574_patent s and two of the three network_patents the ¡¬275 and ¡¬869_patent s had been previously litigated in verizon_servs corp. v. vonage_holdings_corp. no._06- cv-1782 e.d.va.2007` vonage`
+although different claims were asserted in vonage the claims at issue in that case were closely related to the asserted_claims in this case and used many of the same terms
+the issues relating to the feature_patents were reviewed by this court on appeal and the claim_constructions made in connection therewith were affirmed
+verizon_servs corp. v. vonage_holdings_corp. 503_f.3d_1295 fed.cir.2007
+the district_court adopted the relevant claim_constructions from the vonage litigation and in addition construed several terms that had not been at issue in the vonage case
+verizon_servs
+v. cox_fibernet_va. inc. no._08-_cv-0157 2008_wl_5169451_(e.d.va._sept._3,_2008)` claim_construction_order`
+a jury found that cox did not infringe any of the asserted_claims of the six patents and that the asserted_claims of the feature_patents were invalid
+verizon_servs
+v. cox_fibernet_va. inc. no._08-_cv-0157 e.d.va
+oct._6,_2008 jury_verdict
+
+after the jury_verdict verizon renewed its rule 50 a motion for judgment as a matter of law` jmol' under *big_token__1331_rule_50__big_token b of the federal rules of civil procedure and alternatively moved for a new_trial under rule 59 a
+cox filed its own motions for jmol under rules 50 a and b arguing that the asserted_claims of the network_patents and the quality of service_patent are invalid
+in the alternative cox requested a new_trial on invalidity in the event the district_court were to grant verizon a new_trial on infringement
+the district_court denied all of these motions and both parties appeal
+
+we discuss the parties arguments in the following order
+first we discuss verizons argument that a new_trial is necessary for both validity and infringement of all the asserted_claims in all six patents because cox improperly made arguments to the jury about claim_scope
+second we discuss the challenges to the jurys verdicts on validity of the asserted_claims of the feature_patents
+this includes verizons request for jmol that the feature_patents are not invalid and in the alternative its request for a new_trial on validity of the feature_patents because of an allegedly improper_argument by cox
+this section also includes coxs cross-appeal of the denial of its motion for jmol that the network_patents and the quality of service_patent are invalid and its alternative motion for new_trial
+third we discuss the challenges to the jurys verdicts finding no infringement including verizons request for jmol of infringement of claim 1 of the ¡¬481_patent and its request for a new_trial on infringement of the asserted_claims of the quality of service_patent based on its allegation that the district_court misconstrued a claim_term
+
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1 2006
+
+discussion
+i
+standard of review
+jmol is appropriate when` there is no legally sufficient evidentiary basis for a reasonable_jury to find for that party on that issue'
+fed.r.civ.p
+50 a 1
+we review the denial of a motion for judgment as a matter of law or for a new_trial under the law of the regional_circuit
+riverwood int l corp. v. r.a. jones & co. 324_f.3d_1346 1352 fed.cir.2003
+the fourth_circuit reviews rulings on motions for judgment as a matter of law de novo
+johnson v. mbna am
+bank na 357_f.3d_426 431 4th cir.2004
+`` the question is whether a jury viewing the evidence in the light most favorable to [ the nonmovant ] could have properly reached the conclusion reached by this jury
+we must reverse [ the denial of a motion for jmol ] if a reasonable_jury could only rule in favor of [ the movant ] ; if reasonable minds could differ we must affirm'
+id
+( internal_quotations and citation omitted
+the fourth_circuit reviews rulings on motions for a new_trial for abuse of discretion
+united_states v. perry 335_f.3d_316 320 4th cir.2003
+`` in reviewing a grant or denial of a new_trial the crucial inquiry is whether an error occurred in the conduct of the trial that was so grievous as to have rendered the trial unfair'
+bristol steel & iron works inc. v. bethlehem steel corp. 41_f.3d_182 186 4th cir.1994 internal_quotations omitted
+
+we also review a district_courts evidentiary rulings under the law of the regional_circuit
+microstrategy inc. v. bus
+objects s.a. 429_f.3d_1344 1349 fed.cir.2005
+under the law of the fourth_circuit this court reviews the district_courts exclusion of evidence for abuse of discretion
+united_states v. wilkerson 84_f.3d_692 696 4th cir.1996
+
+ii
+jury arguments about claim scope
+verizon argues that we should vacate the district_courts judgment that the *1332 asserted_claims of the feature_patents are invalid and that cox did not infringe any of the asserted_claims of all six patents because cox improperly made arguments to the jury about claim_scope that subverted the jurys ability to fairly decide the issues before it
+
+the scope of the claims was considered at several_times leading up to trial
+at the claim_construction phase of the proceedings both parties agreed that the term` packet_data_network' in the asserted_claims included both public networks like the internet and private networks like that used by cox
+the construction adopted by the district_court was that the term` packet_data_network' means a packet-switched data network where the network transports packets of data over a non-dedicated circuit to a destination and each packet includes source and destination addresses
+claim_construction_order 4-5
+neither party asserts on appeal that this construction is incorrect
+
+prior to the jury charging conference verizon submitted a proposed jury_instruction stating` [ t ] he subjective intent of the inventor when he used a particular term is of little or no probative weight in determining the scope of a claim
+it is not unusual for there to be a significant difference between what an inventor thinks his patented invention is and what the ultimate scope of the claims is after allowance by the patent and trademark office'
+verizon_servs
+v. cox_fibernet_va. inc. no._08-_cv-0157 2008_wl_7512298_(e.d.va._sept._24,_2008) verizons proposed jury_instruction no._31
+the district_court did not give this proposed instruction and rejected verizons renewed request made prior to the initiation of jury_deliberations
+
+at the trial the district_court gave comprehensive instructions to the jury defining its role in claim_construction
+the instructions included the following` the scope of the patent_claims is a question of law for me to decide' ;` you must give the claims the scope my interpretations give them' ;` all of the terms which i have not given you in an express_interpretation are to be given by you their ordinary and customary meaning to a person of ordinary_skill in the art to which the patent pertains' ; and` [ t ] he scope of the patent is not limited to particular embodiments.. but is limited only by what is fairly within the scope of the claims'
+trial tr
+vol
+8 1694 1704 sept._29,_2008
+the district_court also instructed the jury that` [ f ] rom time to time in their arguments the lawyers may have stated what law was applicable to this case
+and if they made a reference.. that is contrary to what i state the law to be you must disregard what the lawyers said and abide by what the court states the law to be'
+trial tr
+vol
+8 1717 sept._29,_2008
+neither party argues that any of the jury_instructions were incorrect
+
+the dispute in this case is not over the district_courts claim_construction or jury_instructions but instead about arguments that cox made to the jury about claim_scope
+more specifically verizon alleges that cox and its experts repeatedly argued that the scope of the asserted_claims was limited by the intent of the inventors
+in support of this allegation verizon cites to several places where coxs counsel and its experts referred to statements of the inventors and then distinguished coxs system from the asserted_claims based on those statements
+verizon also points to the following statement made by coxs counsel while he questioned an expert` [ verizon ] accuse [ s ] a small part of the *1333 cox_system which has nothing to do with the purpose of the patent'
+verizons principal_br
+13
+in addition verizon asserts that although witness testimony about the internets role in the patents was` unobjectionable as background' during closing_arguments cox improperly made statements inviting the jury to use this testimony to interpret the claims
+verizons reply br.at 6-7
+the particular portion of coxs closing_argument that verizon finds objectionable is the following you will notice that the court has construed some terms but not all the terms
+and at the bottom of each page there is a footnote that i want you to look at and read
+and what it says is` all of the terms that the court did not give an express_interpretation are to be given their customary and ordinary meaning to a person of ordinary_skill in the art to which the patents pertain'
+in other words all this language that is not construed you have got to apply as it would be understood by a person of ordinary_skill in the art
+well i certainly am not and i assume that at least some of you are not persons of ordinary_skill in this art
+so how are you to do that ?
+to apply these patent terms or these claims you have got to understand what they cover what the context is
+and thats why we put on the evidence that we have
+trial tr
+vol
+8 1650 sept._29,_2008
+according to verizon this` unmistakably created a dispute over claim_scope by inviting the jury to limit the claims to the internet'
+to remedy this perceived problem verizon requested an instruction after the district_court charged the jury that` none of the claims in this case is limited to the internet'
+trial tr
+vol
+8 1722 sept._29,_2008
+the district_court denied this request
+
+verizon frames its challenge on appeal as a claim_construction issue governed by o2_micro international ltd. v. beyond innovation technology co. ltd. 521_f.3d_1351_(fed.cir.2007)
+in o2_micro the parties disputed the specific meaning of the claim_term` only if' at the markman_hearing
+id.at 1357
+in its markman order while acknowledging the parties dispute the court ruled that the term had a well-understood definition and therefore needed no construction
+id
+at trial the` only if' limitation` was a key issue disputed by the parties' and both parties presented explicit arguments to the jury regarding the terms meaning
+id.at 1358
+in o2_micro we held that the district_courts conclusion that the term` only if' need not be construed was wrong because it left the parties dispute over the scope of the claim_term unresolved and was a question of law that should have been determined by the court and not left to the jury
+id.at 1361
+thus we remanded the case to the district_court for proper_construction of the claim_term` only if'
+id.at 1362-63
+
+several subsequent cases have clarified when a remand for additional claim_construction is appropriate
+for example in kinetic_concepts inc. v. blue sky medical group inc. we noted that` [ w ] hile [ o2_micro ] permits a remand for further claim_construction it does not require one' particularly when the parties do not use the allegedly disputed construction in front of the jury
+554_f.3d_1010 1019_n._4_(fed.cir.2009)
+further in broadcom corp. v. qualcomm inc. we refused to remand a case for further_construction of a claim_term when the purported dispute over claim_construction was raised for the first *1334 time after the jury_verdict
+543_f.3d_683 694 fed.cir.2008` unlike in o2_micro where the parties disputed the proper_construction of a term at a pre-trial markman_hearing 521 f.3d at 1362 qualcomm here has failed to offer its proposed construction ofnetworks at or prior to trial and we reject such arguments raised for the first time after the jury_verdict'
+
+verizon characterizes coxs closing_argument as creating` an actual dispute regarding whether the patent_claims were limited to communications over the internet and/or the particular problems the inventors were trying to solve' and requires reversal under o2_micro
+verizons principal_br
+23
+verizons reliance on o2_micro is misplaced
+unlike o2_micro where the scope of a specific_claim_term was in dispute beginning at the markman_hearing and continuing throughout the trial verizon never identified at any time during the proceedings before the district_court any specific_claim_term that was misconstrued or that needed further_construction
+moreover the allegedly improper_arguments it complains that cox made do not relate to any particular misconstrued term
+cox did not invite the jury to choose between alternative meanings of technical terms or words of art or to decide the meaning of a particular claim_term as was the case in o2_micro
+to the contrary cox asserts that not only did it not argue that the claim generally should be limited to the internet it acknowledged through its expert that the asserted_claims are not limited to the internet
+specifically coxs expert dr._evans testified at the trial that q
+in your conclusion that the cox_system does not have a system of interlinked_packet_data_networks but instead is one network are you relying in any way on a distinction between the public or private interlink packet_data_networks ?
+a
+no sir im not
+trial tr
+vol
+4 839 sept._23,_2008
+
+cox contends that the arguments now objected to by verizon were not intended to limit claim_scope but more broadly to distinguish its accused system which it contended lacked any sort of` system of interlinked_packet_data_networks' from the claimed system of the feature_patents
+cox also argues that because it believed at the time it implemented its packetcable system that verizons patents solved problems related to the internet it was proper to contend at the trial-as a matter unrelated to claim_scope-that its actions should not be found to have been willful
+
+while verizon attempts to characterize the issue as one of claim_construction its argument is more accurately about whether coxs arguments to the jury about the distinction between how its system works and the internet were improper in offering the jury` appealingly simplifying ways to determine invalidity and infringement' thus` invit [ ing ] the jury to shirk its key factfinding function'
+verizons principal_br
+28-29
+
+on that issue we turn once again to the law of the fourth_circuit
+see juicy whip inc. v. orange bang inc. 382_f.3d_1367 1370-71 fed.cir.2004
+the fourth_circuit reviews the refusal to set aside a verdict based on improper_arguments by considering the totality of the circumstances including` the nature of the comments their frequency their possible relevancy to the real issues before the jury the manner in which the parties and the court treated the comments the strength of the case e.g. whether it is a *1335 close case and the verdict itself'
+arnold v. e. air lines inc. 681_f.2d_186 197 4th cir.1982 quoting city of cleveland v. peter kiewit sons co. 624_f.2d_749_(6th_cir.1980)
+only when there is a` reasonable probability' that improper_arguments effectively subverted` the jurys reason or [ ] its commitment to decide the issues on the evidence received and the law as given it by the trial court' can an abuse of discretion in declining to set aside that verdict be found
+id
+
+on this record we are not persuaded that the district_court abused its discretion by refusing to order a new_trial on the basis of coxs arguments to the jury
+validity and infringement were vigorously litigated with extensive testimony physical exhibits and argument from both sides
+each side presented multiple expert witnesses
+from thousands of pages of trial testimony verizon singles out snippets of testimony by coxs witnesses and of argument by counsel as improper
+and verizon admits that each of the cited statements` were not necessarily objectionable on their own' but that somehow taken together these statements made` prejudice to the jury_deliberations inescapable'
+verizons principal_br
+28 ; verizons reply br
+6-7
+we disagree
+we can not say that the singular or cumulative effect of these statements effectively subverted the jurys reason or commitment to decide the issues on the evidence received and the law as given by the court
+
+the district_court specifically instructed the jury that counsels arguments and statements were not evidence
+during closing along with the allegedly improper_arguments cox properly described the specific claim limitations that were missing from the accused system
+in addition verizon did not during the trial request a limiting instruction based on coxs allegedly improper claim_scope arguments
+nor did verizon object to any arguments made during coxs closing
+finally verizon had the opportunity in its own closing to rebut any improper or misleading statements it perceived in coxs closing_arguments but instead said nothing
+looking at the entire record including the extensive evidence and testimony along with the district_courts comprehensive jury_instructions we see no reason to conclude that the district_court abused its discretion in finding that the jury had not been deprived of its ability to decide this case
+we thus conclude that the district_court properly denied verizons request for a new_trial
+
+iii
+validity
+a._jmol
+both parties argue that the jury_verdicts on validity should be overturned because the jury could not reasonably have made its decision based on the evidence advanced at trial
+verizon argues that cox presented insufficient evidence to support the jurys finding that the asserted_claims of the feature_patents were invalid
+cox on the other hand argues that the network_patents and the quality of service_patent are invalid as a matter of law
+at trial cox argued that all the asserted_claims of verizons six patents were invalid because of anticipation and obviousness
+
+1
+anticipation
+to show invalidity of the asserted_claims of the feature_patents cox presented an expert at trial dr. mark j. handley
+dr._handley testified that two papers he had co-authored on protocols for using the internet for telephony a february 1996 *1336 draft of the session initiation protocol` sip_article' and a november 1995 paper on session description protocol` sdp_article' along with another document entitled rfc 1183 were relevant prior_art
+dr._handley testified that the feature_patents were anticipated as the sip_article disclosed all the elements of the claims in the ¡¬711_patent and rfc 1183 disclosed all elements of the ¡¬574_patent
+for example after extensive explanation of how the sip_article disclosed each element of asserted_claims 1 3 and 11 of the ¡¬711_patent dr._handley testified q. dr._handley i believe we were getting ready to get to a dependent claim 3 of the ¡¬711_patent
+did you reach an opinion as to whether that claim is embodied in your 1996 sip_article ?
+a
+yes i believe it is
+... q
+do you have anything else to add to your conclusion that claims 1_and_11 are invalid in view of the sip_article ?
+a
+no i believe that thats the key points that all of these elements are present in the february 1996 document
+trial tr
+vol
+4 909 914 sept._23,_2008
+dr._handley also provided testimony that rfc 1183 disclosed each element of the asserted_claims of the ¡¬ 574 patent-independent claim 5 and dependent claim 6 which adds to claim 5 the limitation` wherein the reply also contains an address conforming to the first protocol' q
+okay
+so lets look at your slides here
+if you could look at exhibit 25 defendants exhibit 4225 [` claim 5 of the ¡¬574_patent v.big_token__1990_rfc_1183__big_token` j.a
+15721 ]
+does that help illustrate your point that claim 5 of the ¡¬574_patent is embodied in this 1990 rfc ?
+a
+yes
+this is basically what you have already seen several_times
+... q
+what about we do n't have a slide for this but what about claim 6s point about adding another ip_address
+was that disclosed in the rfc ?
+a
+it is disclosed in the rfc sort of implicitly
+trial tr
+vol
+4 927 930 sept._23,_2008
+in addition dr._handley testified that the sip_article and sdp_article read together anticipated the asserted_claims of both of the feature_patents
+
+cox also called dr._williams and dr._helgert as expert witnesses to testify that the asserted_claims of the network_patents and the quality of service_patent were anticipated
+dr._williams testified that u.s._patent 5,233,604` the ¡¬604_patent` disclosed every element of the asserted_claims of the quality of service_patent
+dr._helgert testified that u.s._patent 6,310,873` the ¡¬873_patent` disclosed each element of the asserted_claims of the network_patents
+verizon in turn presented an expert witness at trial pieter zatko who testified that the ¡¬604_patent did not disclose several limitations of the asserted_claims of the quality of service_patent and therefore did not anticipate those claims
+verizon also called an expert dr._houh who testified that the ¡¬873_patent did not disclose several elements of the asserted_claims of the network_patents
+
+for a prior_art_reference to anticipate a patent it must disclose each and *1337 every limitation of the claimed invention
+schering corp. v. geneva pharms. inc. 339_f.3d_1373 1377 fed.cir.2003
+`` [ a ] prior_art_reference may anticipate without disclosing a feature of the claimed invention if that missing characteristic is necessarily present or inherent in the single anticipating reference'
+id
+however a patent_claim` can not be anticipated by a prior_art_reference if the allegedly anticipatory disclosures cited as prior_art are not enabled'
+amgen inc. v. hoechst marion roussel inc. 314_f.3d_1313 1354 fed.cir.2003
+`` the standard for what constitutes proper enablement of a prior_art_reference for purposes of anticipation under section 102 however differs from the enablement standard under section 112'
+rasmusson v. smithkline beecham corp. 413_f.3d_1318 1325 fed.cir.2005
+it is well-settled that utility or efficacy need not be demonstrated for a reference to serve as anticipatory prior_art under section 102
+see bristol-myers squibb co. v. ben venue labs. inc. 246_f.3d_1368_(fed.cir.2001) ; in re schoenwald 964_f.2d_1122 1124 fed.cir.1992
+
+verizon argues that since the sip_paper refers to the sdp paper only as a` companion draft' it does not properly identify the specific material it incorporates as required to treat two documents as one for anticipation purposes
+kyocera wireless corp. v. int l trade comm n 545_f.3d_1340 1352 fed.cir.2008
+verizon also argues that since incorporation by reference is a matter of law it was improperly left for the jury to decide without any instruction
+verizon is correct that if incorporation by reference comes into play in an anticipation determination it is the courts role to determine what material in addition to the host document constitutes the single reference
+advanced display sys. inc. v. kent state univ. 212_f.3d_1272 1283 fed.cir.2000
+however we find that dr._handleys testimony noted above provided substantial_evidence for the jury to determine that the sip_paper by itself anticipated the claims of the ¡¬711_patent and the rfc 1183 paper anticipated the claims of the ¡¬574_patent
+therefore the lack of instruction on incorporation by reference was harmless
+see z4 techs. inc. v. microsoft corp. 507_f.3d_1340 1354 fed.cir.2007 holding that district_courts erroneous jury_instruction was harmless because the instruction would not have affected the outcome of the case
+
+verizon also argues that the sip and sdp_articles are not enabling because they do not disclose or enable the` basic claim requirement' of being able to make ordinary two-way_telephone_calls
+however none of the claims in the feature_patents actually recite performing two-way_telephone_calls
+the patents relate to telephony but do not specifically recite the steps of making an actual call
+furthermore coxs expert dr._handley provided testimony that a person of ordinary_skill in the art would have had no problems implementing the functionality disclosed in the sip_article
+the record thus reveals that the jury had substantial_evidence to find that the sip_article was enabling in the sense of 35 u.s.c.¡± 102 and that the feature_patents were invalid based on anticipation
+
+2
+obviousness
+dr._handley testified that in addition to being anticipated the asserted_claims of the feature_patents would have been obvious to one of skill in the art based on both the sip_article and the sdp_article
+`` in reviewing the jury_verdict of obviousness we review whether the *1338 jury was correctly instructed on the law and whether there was substantial_evidence whereby a reasonable_jury could have reached its verdict upon application of the correct law to the facts recognizing that invalidity must be proved by clear and convincing_evidence'
+u.s. surgical corp. v. ethicon inc. 103_f.3d_1554 1563 fed.cir.1997 internal citations omitted
+a determination of obviousness in this case requires an inquiry into the scope and content of the prior_art the level of ordinary_skill in the art and the differences between the claimed inventions and the prior_art
+graham v. john deere co. 383_u.s._1 17 86_s.ct._684 15_l.ed.2d_545_(1966)
+
+verizon argues that the jury could not have found that the feature_patents would have been obvious because` cox offered no evidence of what an ordinary_skilled artisan in the relevant_art would be taught by the prior_art or find obvious in light of the proper art'
+verizons principal_br
+42
+verizon asserts that coxs expert dr._handley testified regarding obviousness using the wrong field of art-' internet and network_protocols' -instead of the art correctly defined by the district_court in the jury_instructions` telephony and wireless_communications'
+
+while it is true that the feature_patents pertain to telephony and wireless_communications the language of the patents themselves which make frequent reference to the internet makes clear that the patents also relate to the field of internet and network_protocols
+in fact dr._handley explained that he was describing the background of a person of ordinary_skill working in the area of the` internet telephony industry' which is clearly a subset of telephone and wireless_communications
+`` in determining the relevant_art for purposes of addressing issues of patent validity the court must look to the nature of the problem confronting the inventor'
+bancorp servs. l.l.c
+v. hartford life ins co. 359_f.3d_1367 1375 fed.cir.2004
+the problem facing the inventors of the network_patents was related to providing communication services including voice telephone_service over packet-based networks including the internet
+therefore the relevant_art in this case plainly includes the use of network_protocols and the internet
+thus it was not improper for the jury to rely on dr._handleys testimony to find that the feature_patents were obvious
+
+* * * both parties assert numerous additional arguments about the reliability of the other_partys experts and the sufficiency of the other_partys evidence relating to invalidity
+we do not find these arguments persuasive
+the jury was presented with opposing experts expressing conflicting views about the validity of the six patents-in-suit
+the jury was entitled to resolve the conflicting evidence in favor of cox for the feature_patents and for verizon on the network and quality of service_patents
+bio-tech
+gen. corp. v. genentech inc. 267_f.3d_1325 1330-31 fed.cir.2001 ; see also u.s. surgical 103 f.3d at 1559 affirming a jury_verdict of invalidity because` [ c ] onflicting evidence and argument must be viewed as resolved favorably to the party in whose favor the jury found
+the reviewing court must give appropriate deference to the jurys choices in weighing the evidence in deciding between opposing positions and in drawing factual inferences`
+looking at the record as a whole we find that the jury had substantial *1339 evidence upon which to conclude that cox met its burden of showing invalidity by clear and convincing_evidence for the feature_patents but that it did not meet its burden of showing invalidity of the network and quality of service_patents
+therefore we find the district_court correctly determined that a reasonable_jury could find that the feature_patents were invalid for anticipation or obviousness and that the network_patents and quality of service_patent were not
+we affirm the district_courts denial of verizons motion for jmol on validity and coxs motion for jmol on invalidity
+
+b
+new_trial
+verizon argues that a new_trial is required on validity of the feature_patents because the district_court failed to correct another improper_argument by cox relating solely to validity
+verizon alleges that cox improperly argued that the jury could find the feature_patents invalid simply because they were identical in all material respects to what was taught in the prior_art sip and sdp_articles
+verizon points to testimony by dr._handley explaining the evolution of the 1996 sip and sdp_articles to the current sip protocol used by the accused system as improper
+in addition verizon again points to statements in coxs closing_argument now what is the mistake they made ?
+they made a mistake of accusing that protocol [ sip ] of infringing their patent
+so what they are doing is they are saying by using this protocol you infringe
+but the protocol predates the patent
+so they have accused the prior_art
+that invalidates their patent
+trial tr
+vol
+8 1673 sept._29,_2008
+
+it is true that in zenith electronics corp. v. pdi communication systems inc. 522_f.3d_1348 1363 fed.cir.2008 this court held that` anticipation can not be proved by merely establishing that onepractices the prior_art
+`` instead` [ a ] nticipation requires a showing that each element of the claim at issue properly construed is found in a single prior_art_reference
+'it is the presence of the prior_art and its relationship to the claim language that matters for invalidity
+`` id
+( quoting tate access floors inc. v. interface architectural res. inc. 279_f.3d_1357_(fed.cir.2002)
+in zenith we remanded a finding of anticipation because the accused infringer provided no evidence whatsoever that the accused product satisfied two limitations of the asserted claim
+id
+this is not the case here
+as described above coxs expert dr._handley detailed how the prior_art disclosed each of the claim elements
+thus a reasonable_jury could conclude based on evidence in the record and separate and apart from any alleged` practicing the prior_art' argument that the feature_patents were invalid
+
+on cross-appeal cox asserts that it is entitled to a new_trial on validity of the network and quality of service_patents because the district_court abused its discretion in excluding the factual_testimony of eric voit and kelvin porter named inventors of verizons patents
+cox argues that the district_court erred in adopting verizons argument that assignor estoppel precluded inventor testimony about prior_art
+we need not and do not address the issue of assignor estoppel because the district_court properly allowed testimony from the witnesses about the patents they invented based on their personal knowledge and properly excluded these same witnesses from providing expert_testimony on invalidity for which they had not previously *1340 provided expert reports or been qualified as an expert
+the district_court did not abuse its discretion in limiting inventor testimony to factual_testimony that did not require expert opinion
+see kumho tire ltd. v. carmichael 526_u.s._137 152 119_s.ct._1167 143_l.ed.2d_238_(1999)` [ w ] e conclude that the trial judge must have considerable leeway in deciding in a particular case how to go about determining whether particular expert_testimony is reliable
+`` ; voice techs group inc. v. vmc sys. inc. 164_f.3d_605 615-16 fed.cir.1999 stating that the inventor may provide testimony explaining the claimed invention and its development but that` the inventor can not by later testimony change the invention and the claims from their meaning at the time the patent was drafted and granted'
+
+iv
+infringement
+a._jmol
+verizon asserts that it is entitled to jmol of infringement of claim 1 of the ¡¬481 network patent because it` demonstrated that coxs system practices every step of that claim and cox never disputed verizons expert_testimony regarding how calls were actually made on coxs system'
+verizons principal_br
+33-34
+a determination of infringement is a question of fact reviewed for substantial_evidence when tried to a jury
+lucent techs. inc. v. gateway inc. 580_f.3d_1301 1309 fed.cir.2009
+
+claim 1 of the ¡¬481_patent recites 1
+a method of establishing a communication_path between terminals through a packet switched network a circuit switched network and at least one interface that interconnects the packet switched network and the circuit switched network comprising the steps of a requesting from one of said terminals the establishment of said communication_path through said interface ; b searching a first_database for the address of a second_database containing a table of terminal_data which includes identification of said requesting terminal ; c searching said second_database to obtain data regarding said requesting terminal ; d responsive to data regarding said requesting terminal obtained from said search authorizing the establishment of said communication_path ; and
+e responsive to said authorization establishing said communication_path between terminals through said interface
+¡¬481_patent col.34 l.52-col.35 l.3
+
+both parties provided expert_testimony on infringement
+cox provided expert_testimony that its accused system does not practice several of claim 1s limitations
+first coxs expert dr._evans explained that coxs system does not practice the requirement of` searching a first_database' because it simply uses the domain name server to translate the textual domain name of a known call management server` cms' into its numeric ip address and this translation is a lookup not a search
+trial tr
+vol
+4 783 sept._23,_2008
+verizon countered with expert_testimony that this translation amounts to` searching' as required by claim 1
+trial tr
+vol
+1 197-99 sept._17,_2008
+therefore there was a factual_dispute between the experts over whether a simple database lookup for translation is equivalent to` searching a first_database'
+
+*1341 second dr._evans testified that a cms is not a database and therefore does not qualify as the` second_database' in the limitation` searching a first_database for the address of a second_database'
+trial tr
+vol
+4 783 sept._23,_2008
+in addition another cox witness explained that any database residing internally on a cms was not addressable by ip_address and therefore could not be returned by the domain name server lookup
+trial tr
+vol
+3 609-10 sept._22,_2008
+verizons expert dr._houh testified that the cms is equivalent to` the second_database' because the cms is a server that includes a database containing a table of terminal_data
+trial tr
+vol
+1 197-99 sept._17,_2008
+again this amounted to a factual_dispute between the experts over whether coxs system was fairly within the scope of the claims
+
+both of these factual_disputes were properly for the jury to decide
+the jury was entitled to credit coxs experts over verizons experts and thus it was not unreasonable for the jury to find that claim 1 of the ¡¬481_patent was not infringed
+see kinetic_concepts inc. v. blue sky med
+group inc. 554_f.3d_1010 1024 fed.cir.2009 finding that a jury is at liberty to accept or reject expert_testimony ; accord aldridge v. balt
+& ohio r.r
+co. 789_f.2d_1061 1065 4th cir.1986 affd en banc 814_f.2d_157_(4th_cir.1987)
+there is no basis on which to overturn the district_courts denial of verizons request for jmol on this ground
+
+verizon also argues that cox improperly argued that steps a and b in claim 1 had to be performed in sequence
+verizon points to the following testimony from coxs expert dr._evans q
+you say [ step ] b occurs before a you mean in verizons contentions ?
+a
+yes
+in the patent a comes before b but in time if you look at what happens on the way coxs system works b would have to occur before a
+trial tr
+vol
+4 781 sept._23,_2008
+the district_court found that dr._evanss testimony on sequence was simply an explanation not a part of his opinion as to why there was no infringement
+trial tr
+vol
+4 837-38 sept._23,_2008
+in fact verizon itself later clarified this with dr._evans q
+just to clarify the last point dr._evans you were not claiming i understand that the various steps of the patent and in particular step b has to be done in a particular order in order for the patent_claim to be satisfied ; is that correct ?
+a
+that would be a legal conclusion so that is correct
+the district_court subsequently instructed the jury` [ t ] here is no requirement that steps a b or c occur in any order'
+trial tr
+vol
+8 1702-03 sept._29,_2008
+because the jury had substantial_evidence to find that claim 1 of the ¡¬481_patent was not infringed based on the district_courts undisputed construction of that claim we find the district_court did not err in denying verizons motion for jmol on this issue
+
+b
+new_trial
+verizon contends that a new_trial on infringement of the ¡¬597 quality of service_patent is required because the district_court misconstrued the term` evaluating said set of candidate_resources to find a best_candidate_resource'
+verizon asserted that cox infringed claims 12 13 and 20 of the quality of service_patent
+independent claim 12 represents the asserted_claims 12
+a method of providing services in a communications network which comprises the steps of *1342 receiving a request for service ; determining criteria for a resource necessary to provide the requested service ; searching a resource_data_structure for a set of candidate_resources meeting said criteria wherein each resource of said resource_data_structure comprises a resource identifier a set of static attributes and a set of dynamic attributes ; evaluating said set of candidate_resources to find a best_candidate_resource ; and
+allocating said best_candidate_resource to meet said request for service
+¡¬597_patent col.9 ll.1-15 emphasis added
+claims 13_and_20 are dependent from claim 12
+
+we need not resolve this issue because the jury had substantial_evidence to find that the ¡¬597_patent was not infringed regardless of whether the district_court was correct in its construction of` evaluating said set of candidate_resources to find a best_candidate_resource'
+we may affirm the jurys findings on infringement` if substantial_evidence appears in the record supporting the jurys verdict and if correction of the errors in a jury_instruction on claim_construction would not have changed the result given the evidence presented'
+teleflex inc. v. ficosa n. am corp. 299_f.3d_1313 1328 fed.cir.2002
+the record shows that coxs expert testified that many of the limitations of the ¡¬597_patent were not performed by coxs system including the` determining a criteria'` searching a resource_data_structure' and` evaluating said set of candidate_resources' limitations
+for example one of coxs experts testified as follows q
+[ c ] an you just summarize what you found was missing in terms of how coxs how cox operates ?
+a
+well in the cox_system the very first element which is a network based selection of a service is not present
+cox does not do its network path selection on a network basis
+element b there is no determination of a criteria
+all of coxs systems have the same criteria for a voice call
+so there is no differentiation between the types of calls
+element c there is no resource_data_structure within the cox_system
+there is no resource_data_structure that contains the type of information we are talking about here
+q
+then what about the last step this evaluation_step in finding the best_candidate_resource ?
+a
+so the evaluation_step there is no evaluation of candidate_resources because there are no candidate_resources created
+and also there is no allocation of a best resource because all of the resources that are being accused by verizon are equivalent resources
+trial tr
+vol
+5 1115 sept._24,_2008
+because the evidence that coxs system does not practice several of these limitations does not depend on the disputed claim_construction the jury had substantial_evidence to find that the ¡¬597_patent was not infringed independently of the disputed limitation
+moreover because we hold that verizon is not entitled to a new_trial on infringement we need not and do not reach coxs arguments that a remand on infringement would entitle it to a new_trial on validity based on an allegedly erroneous construction of the claim_term` authenticating.. from a unitary_logical_object'
+
+conclusion
+for the foregoing reasons we affirm the district_courts denial of verizons motion *1343 for a new_trial on all issues based on coxs allegedly improper_arguments regarding claim_scope
+we also affirm the district_courts denial of both parties motions for jmol of validity or invalidity and verizons alternative request for a new_trial on validity of the feature_patents
+finally we affirm the district_courts denial of verizons request for jmol on infringement of claim 1 of the ¡¬481_patent and its request for a new_trial on infringement of the asserted_claims of the quality of service_patent
+
+affirmed
+
+all citations
+602_f.3d_1325 76_fed.r.serv.3d_662 94_u.s.p.q.2d_1833
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+verizon_services_corp. v. cox_fibernet_virginia inc. 602_f.3d_1325 2010 76_fed.r.serv.3d_662 94_u.s.p.q.2d_1833
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

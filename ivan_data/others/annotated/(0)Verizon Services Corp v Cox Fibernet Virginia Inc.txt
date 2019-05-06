@@ -1,0 +1,55 @@
+602_F.3d_1325
+United States Court of Appeals Federal Circuit
+VERIZON SERVICES CORP. Verizon_Communications Inc. MCI Communications Corp. and Verizon_Business_Global_LLC Plaintiffs-Appellants v. COX FIBERNET VIRGINIA INC. Cox_Virginia_Telecom Inc. Cox_Communications_Hampton_Roads LLC Coxcom Inc. and Cox_Communications Inc. Defendants-Cross Appellants
+Nos._2009-1086 2009-1098
+| April_16,_2010
+Synopsis
+Background : Patentee brought action for infringement of patents for technology related to sending telephone_calls in data packets through a network
+Following jury trial the United_States_District_Court for the Eastern_District of Virginia Claude M. Hilton Senior District Judge entered judgment finding some the claims and valid and some of the claims not infringed and both parties appealed
+
+Holdings : The Court of Appeals Linn Circuit_Judge held that :
+
+alleged infringer 's arguments to the jury about claim scope did not subvert jury 's ability to fairly decide the issues before it ;
+
+lack of instruction on incorporation by reference was harmless ;
+
+article on Internet telephony was enabling as required for it to anticipate patents ;
+
+Internet and network protocols was a relevant field of art in determining whether patents were invalid as obvious ;
+
+expert testimony supported jury 's determination that patents were invalid as anticipated ; and
+
+evidence supported jury 's determination that patents were not infringed regardless of whether district_court misconstrued patent claim
+
+Affirmed
+
+Attorneys and Law Firms
+*1328 Richard G. Taranto Farr & Taranto of Washington DC argued for plaintiffs-appellants
+Of counsel on the brief were Michael K. Kellogg John C. Rozendaal and Michael E. Joffre Kellogg Huber Hansen Todd Evans & Figel PLLC of Washington DC ; John Thorne and Robert H. Griffen Verizon Communication Inc. of Arlington VA and Leonard C. Suchyta of Basking Ridge NJ
+Mitchell G. Stockwell Kilpatrick Stockton LLP of Atlanta GA argued for defendants-cross appellants
+With him on the brief were William H. Boice and Audra A
+Dial
+Before MAYER LINN and PROST Circuit_Judges
+Opinion
+LINN Circuit_Judge
+Verizon Services Corp. Verizon_Communications Inc. MCI Communications Inc. and Verizon_Business_Global_LLC ( collectively *1329 `` Verizon '' ) appeal from a final judgment of the United_States_District_Court for the Eastern_District of Virginia entered after a jury found : ( 1 ) claims 5_and_6 of U.S._Patent_No._6282,574 ( `` the ¡¬574_patent `` ) and claims 1 3 and 11 of U.S._Patent_No._6104,711 ( `` the ¡¬711_patent `` ) invalid ; and ( 2 ) claim 1 of U.S._Patent_No._6430,275 ( `` the ¡¬275_patent `` ) ; claims 1 19 27 and 35 of U.S._Patent_No._6292,481 ( `` the ¡¬481_patent `` ) ; claim 1 of U.S._Patent_No._6137,869 ( `` the ¡¬869_patent `` ) ; and claims 12 13 and 20 of U.S._Patent_No._6636,597 ( `` the ¡¬597_patent `` ) not infringed by Cox Fibernet Virginia Inc. Cox_Virginia_Telecom Inc. Cox_Communications_Hampton_Roads LLC Coxcom Inc. and Cox_Communications Inc. ( collectively `` Cox '' )
+See Verizon_Servs Corp. v. Cox_Fibernet_Va. Inc. No._08-_CV-0157 ( E.D.Va
+Oct._6,_2008 ) ( judgment ) ; Verizon_Servs
+v. Cox_Fibernet_Va. Inc. 08-CV-0157 ( E.D.Va
+Nov._7,_2008 ) ( order denying cross-motions for judgment as a matter of law and new_trial ) ; Verizon_Servs Corp. v. Cox_Fibernet_Va. Inc. No._08-_CV-0157 ( E.D.Va
+Nov._11,_2008 ) ( agreed order amending and clarifying the judgment )
+On appeal both parties challenge the district_court 's denial of their respective motions for judgment as a matter of law and motions for new_trial
+Because the evidence introduced at trial supports the jury 's verdict and because the district_court did not err in instructing the jury on the scope of the claims we affirm
+
+I
+BACKGROUND
+A
+The Patents at Issue
+The six patents at issue in this appeal are owned by Verizon and relate generally to packet-switched telephony-technology for providing telephone_calls by breaking up voice signals and sending the resulting data in packets not all of which need traverse the same path through a network
+Packet-switched telephony increases the efficiency of the underlying network over traditional circuit switching which relies on a dedicated path between endpoints of a call
+
+To explain the technology involved in the six asserted patents the parties divide them into three groups : the ¡¬711 and ¡¬574_patent s ( the `` Feature Patents '' ) the ¡¬275 ¡¬869 and ¡¬481_patent s ( the `` Network Patents '' ) and the ¡¬597_patent ( the `` Quality of Service Patent '' )
+None of the claims in any of the patents at issue in this appeal refer explicitly to the Internet or to a `` public packet data network '' which this court has previously equated to the Internet
+Verizon_Servs Corp. v. Vonage Holdings Corp. 503_F.3d_1295 1305 ( Fed.Cir.2007 )
+Instead the asserted claims refer to `` packet switched networks '' `` circuit switched networks '' and a `` system of interlinked packet data networks ''
+

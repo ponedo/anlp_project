@@ -1,0 +1,480 @@
+('471_F.3d_1369', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ELI', 'NNP', 'ORG', 'B') ('LILLY', 'NNP', 'ORG', 'I') ('AND', 'CC', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('Industries', 'NNP', 'ORG', 'I') ('Limited', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellees', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('ZENITH', 'NNP', '', 'O') ('GOLDLINE', 'NNP', '', 'O') ('PHARMACEUTICALS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Ivax_Pharmaceuticals', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O') ('and', 'CC', '', 'O')
+ELI LILLY AND COMPANY Lilly Industries Limited Ivax_Pharmaceuticals Inc.
+__NEW_SENT__
+('Teva_Pharmaceuticals_USA', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O')
+Teva_Pharmaceuticals_USA Inc. Defendant-Appellant
+__NEW_SENT__
+('Dr._Reddy', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Laboratories', 'NNPS', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+
+__NEW_SENT__
+('Nos._05-1396', 'NN', '', 'O') ('05-1429', 'CD', '', 'O') ('05-1430', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Dec._26,_2006', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('March_29,_2007', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('after', 'IN', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('manufacturers', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('Abbreviated_New_Drug_Application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('to', 'TO', '', 'O') ('manufacture', 'VB', '', 'O') ('patented', 'JJ', '', 'O') ('drug', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('Richard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Young', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('364_F.Supp.2d_820', 'NNP', '', 'O') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O')
+United_States_District_Court Indiana Richard L. Young J.
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Rader Circuit_Judge
+__NEW_SENT__
+('prior_article', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('identified', 'VBD', '', 'O') ('compounds', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('same_family', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') ('as', 'RB', '', 'O') ('subsequently', 'RB', '', 'O') ('patented', 'VBN', '', 'O') ('drug', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('anticipate', 'VB', '', 'O') ('that', 'DT', '', 'O') ('drug', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('subsequently', 'RB', '', 'O') ('patented', 'VBN', '', 'O') ('drug', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('compound', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('overcame', 'VBD', '', 'O') ('any', 'DT', '', 'O') ('prima', 'NN', '', 'O') ('facie', 'NN', '', 'O') ('case', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('clinical', 'JJ', '', 'O') ('trials', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('experimental', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('negated', 'VBD', '', 'O') ('any', 'DT', '', 'O') ('public', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('bar', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('invalidated', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1372', 'NFP', '', 'O') ('Charles', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Lipsey', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Reston', 'NNP', 'ORG', 'B') ('VA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Charles E. Lipsey Finnegan Henderson Farabow Garrett & Dunner L.L.P. Reston VA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('L.', 'NNP', 'PERSON', 'B') ('Scott', 'NNP', 'PERSON', 'I') ('Burwell', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Forman', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Laura', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Masurovsky', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') (';', ':', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('McCauley', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Jan', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Carroll', 'NNP', 'PERSON', 'I') ('Barnes', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Thornburg', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Indianapolis', 'NNP', 'GPE', 'B') ('IN', 'IN', '', 'O')
+L. Scott Burwell David S. Forman Laura P. Masurovsky Washington DC Robert F. McCauley Palo Alto Jan M. Carroll Indianapolis
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Leeds', 'NNP', 'PERSON', 'I') ('David', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Stemerick', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Titus', 'NNP', 'PERSON', 'I') ('Eli_Lilly', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Company', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Indianapolis', 'NNP', 'GPE', 'B') ('IN', 'IN', '', 'O')
+James P. Leeds David M. Stemerick Robert D. Titus Indianapolis
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Mentlik', 'NNP', 'PERSON', 'I') ('Lerner', 'NNP', '', 'O') ('David', 'NNP', '', 'O') ('Littenberg', 'NNP', 'ORG', 'B') ('Krumholz', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Mentlik', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Westfield', 'NNP', 'ORG', 'B') ('NJ', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O') ('Zenith_Goldline_Pharmaceuticals', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Ivax_Pharmaceuticals', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O')
+William L. Mentlik Littenberg Krumholz & Mentlik LLP Westfield NJ Zenith_Goldline_Pharmaceuticals Inc. Ivax_Pharmaceuticals Inc.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Roy', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Wepner', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Teschner', 'NNP', 'PERSON', 'I')
+Roy H. Wepner Michael H. Teschner
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Ward', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Heneghan', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'ORG', 'B') ('Best', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Friedrich', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Madison', 'NNP', 'LOC', 'B') ('WI', 'NNP', 'LOC', 'I')
+Jeffrey S. Ward Thomas P. Heneghan Michael Best & Friedrich Madison WI
+__NEW_SENT__
+('Joining', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('Elizabeth', 'NNP', 'PERSON', 'I') ('Holland', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('Patrice', 'NNP', 'GPE', 'B') ('P.', 'NNP', 'GPE', 'I') ('Jean', 'NNP', 'GPE', 'I') ('*1373', 'NNP', '', 'O') ('Kenyon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Kenyon', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('New', 'NNP', '', 'O') ('York', 'NNP', '', 'O') ('NY', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O') ('Teva_Pharmaceuticals_USA', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Stuart', 'NNP', '', 'O') ('D.', 'NNP', '', 'O') ('Sender', 'NNP', '', 'O') ('Budd', 'NNP', '', 'O') ('Larner', 'NNP', '', 'O') ('P.C.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Short', 'NNP', '', 'O') ('Hills', 'NNP', '', 'O') ('NJ', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O') ('Dr._Reddy', 'NNP', 'ORG', 'B') ("'s", 'POS', 'ORG', 'I') ('Laboratories', 'NNPS', '', 'O') ('Ltd.', 'NNP', '', 'O') ('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ellen', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Lowenthal', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Imbacuan', 'NNP', 'PERSON', 'I')
+Steven J. Lee Elizabeth Holland Patrice P. Jean Kenyon & Kenyon Teva_Pharmaceuticals_USA Inc. Dr._Reddy 's Ellen T. Lowenthal Michael H. Imbacuan
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('SCHALL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Zenith_Goldline_Pharmaceuticals', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('IVAX', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('IVAX', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Dr._Reddy', 'NNP', 'ORG', 'B') ("'s", 'POS', 'ORG', 'I') ('Laboratories', 'NNPS', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('DRL', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Teva_Pharmaceuticals_USA', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Teva', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('defendants', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Abbreviated_New_Drug_Application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Zenith_Goldline_Pharmaceuticals Inc. IVAX Pharmaceuticals Inc. IVAX Dr._Reddy 's Laboratories Ltd. DRL Teva_Pharmaceuticals_USA Inc.
+__NEW_SENT__
+('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('the', 'DT', '', 'O') ('plaintiffs', 'NNS', '', 'O') ('Eli_Lilly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('Company', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('Industries', 'NNPS', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('all', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('No._5229,382', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Lilly Industries Ltd. Lilly United States Patent No._5229,382
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('two', 'CD', '', 'O') ('and', 'CC', '', 'O') ('one-half', 'JJ', '', 'O') ('week', 'NN', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('infringed', 'VBD', '', 'O')
+United_States_District_Court Indiana
+__NEW_SENT__
+('Eli_Lilly', 'RB', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Zenith_Goldline_Pharm.', 'NNP', '', 'O') ('364_F.Supp.2d_820', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Ind.2005', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Final', 'NNP', '', 'O') ('Judgment', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Eli_Lilly', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Zenith_Goldline_Pharm.', 'NNP', '', 'O') ('1:01-cv-443-RLY-VSS', 'LS', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Ind', 'NNP', '', 'O')
+Eli_Lilly & Co. Eli_Lilly &
+__NEW_SENT__
+('May_9,_2005', 'ADD', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Amended_Final_Judgment', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('221', 'CD', 'CARDINAL', 'B') ('pages', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('analysis', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('documented', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('findings', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('conclusions', 'NNS', '', 'O')
+221
+__NEW_SENT__
+('Eli_Lilly', 'RB', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Zenith_Goldline_Pharm.', 'NNP', '', 'O') ('364_F.Supp.2d_820', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Ind.2005', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Conclusions', 'NNPS', '', 'O') ('of', 'IN', '', 'O') ('Law', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Eli_Lilly & Co.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusions', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('Finding', 'VBG', '', 'O') ('no', 'DT', '', 'O') ('reversible', 'JJ', '', 'O') ('error', 'NN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('both', 'DT', '', 'O') ('olanzapine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('compound', 'NN', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('schizophrenia', 'NN', '', 'O')
+
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('830', 'CD', 'CARDINAL', 'B')
+Fact and Conclusions of Law 830
+__NEW_SENT__
+('A', 'DT', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('research', 'NN', '', 'O') ('chemist', 'NN', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('synthesized', 'VBD', '', 'O') ('olanzapine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('Kingdom', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('1982', 'CD', 'DATE', 'B')
+Lilly first the United Kingdom 1982
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('834', 'CD', 'CARDINAL', 'B')
+834
+__NEW_SENT__
+('Lilly', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('application', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_22,_1992', 'NNP', '', 'O')
+Lilly
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('July_20,_1993', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('FDA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('approved', 'VBD', '', 'O') ('olanzapine', 'NN', '', 'O') ('sold', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trademark', 'NN', '', 'O') ('ZyprexaTHE_R', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('late', 'JJ', 'DATE', 'B') ('1996', 'CD', 'DATE', 'I')
+The United States Food and Drug Administration FDA Lilly late 1996
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('830', 'CD', 'CARDINAL', 'B')
+Fact and Conclusions of Law 830
+__NEW_SENT__
+('By', 'IN', '', 'O') ('filing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('ANDA', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('stipulate', 'VBP', '', 'O') ('to', 'TO', '', 'O') ('infringement', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Amended_Final_Judgment', 'NN', '', 'O') ('slip', 'NN', '', 'O') ('op.at', 'NNP', '', 'O') ('1', 'CD', '', 'O')
+
+__NEW_SENT__
+('Claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('2', 'CD', 'CARDINAL', 'I') ('3', 'CD', '', 'O') ('7', 'CD', '', 'O') ('8', 'CD', '', 'O') ('and', 'CC', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('set', 'VBD', '', 'O') ('forth', 'RP', '', 'O') ('the', 'DT', '', 'O') ('boundaries', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1 2 15 1
+__NEW_SENT__
+('2-Methyl-10-', 'LS', '', 'O') ('(', '-LRB-', '', 'O') ('4-methyl', 'CD', '', 'O') ('-1-piperazinyl', 'NFP', '', 'O') (')', '-RRB-', '', 'O') ('-4H-thieno', 'NFP', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,5', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('an', 'DT', '', 'O') ('acid', 'JJ', '', 'O') ('addition', 'NN', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O')
+
+__NEW_SENT__
+('2', 'LS', 'CARDINAL', 'B')
+2
+__NEW_SENT__
+('A', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('compound', 'NN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('claim', 'VB', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'RB', '', 'O') ('acceptable', 'JJ', '', 'O') ('acid', 'NN', '', 'O') ('addition', 'NN', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('together', 'RB', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'JJ', '', 'O') ('acceptable_diluent', 'NN', '', 'O') ('or', 'CC', '', 'O') ('carrier_therefor', 'NN', '', 'O')
+1
+__NEW_SENT__
+('3', 'LS', 'CARDINAL', 'B')
+3
+__NEW_SENT__
+('A', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('in', 'IN', '', 'O') ('capsule', 'NN', '', 'O') ('or', 'CC', '', 'O') ('tablet', 'NN', '', 'O') ('form', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('2.BIG_TOKEN__5_to_5__BIG_TOKEN', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('compound', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('together', 'RB', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'JJ', '', 'O') ('acceptable_diluent', 'NN', '', 'O') ('or', 'CC', '', 'O') ('carrier_therefor', 'NN', '', 'O')
+1
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('7', 'CD', 'CARDINAL', 'B')
+7
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('animal', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('suffering', 'NN', '', 'O') ('from', 'IN', '', 'O') ('or', 'CC', '', 'O') ('susceptible', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('schizophrenia', 'NN', '', 'O')
+5
+__NEW_SENT__
+('8', 'CD', 'CARDINAL', 'B')
+8
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('7', 'CD', 'CARDINAL', 'B') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('effective', 'JJ', '', 'O') ('amount', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('from', 'IN', '', 'O') ('0.BIG_TOKEN__1_to_20__BIG_TOKEN', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('per', 'IN', '', 'O') ('day', 'NN', '', 'O') ('of', 'IN', '', 'O') ('2-methyl-10-', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('4-methyl-1', 'CD', '', 'O') ('-piperazinyl', 'NFP', '', 'O') (')', '-RRB-', '', 'O') ('-4H-thieno', 'NFP', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,5', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'RB', '', 'O') ('acceptable', 'JJ', '', 'O') ('acid', 'NN', '', 'O') ('addition', 'NN', '', 'O') ('solution', 'NN', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O')
+7
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*1374', 'NN', '', 'O') ('15', 'CD', 'CARDINAL', 'B')
+15
+__NEW_SENT__
+('A', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('in', 'IN', '', 'O') ('capsule', 'NN', '', 'O') ('or', 'CC', '', 'O') ('tablet', 'NN', '', 'O') ('form', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('from', 'IN', '', 'O') ('0.BIG_TOKEN__1_to_20__BIG_TOKEN', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('compound', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('together', 'RB', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'JJ', '', 'O') ('acceptable_diluent', 'NN', '', 'O') ('or', 'CC', '', 'O') ('carrier_therefor', 'NN', '', 'O')
+1
+__NEW_SENT__
+('¡¬382_patent', 'NN', '', 'O') ('col._12,_ll._10-20', 'NN', '', 'O') ('ll', 'UH', '', 'O')
+
+__NEW_SENT__
+('33-40', 'CD', '', 'O') ('ll', 'UH', '', 'O')
+
+__NEW_SENT__
+('64-67', 'LS', '', 'O')
+
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('discovery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('olanzapine', 'NN', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('discovered', 'VBD', '', 'O') ('other', 'JJ', '', 'O') ('drugs', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same_family', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('thienobenzodiazepines', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('namely', 'RB', '', 'O') ('clozapine', 'VBP', '', 'O') ('flumezapine', 'JJ', '', 'O') ('ethyl', 'RB', '', 'O') ('flumezapine', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('ethyl', 'RB', '', 'O') ('olanzapine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('a.k.a', 'JJ', '', 'O')
+Lilly
+__NEW_SENT__
+('Compound', 'NNP', 'PERSON', 'B') ('¡¬222', 'RB', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Compound ¡¬222
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('831-33', 'CD', '', 'O')
+Fact and Conclusions of Law
+__NEW_SENT__
+('These', 'DT', '', 'O') ('compounds', 'NNS', '', 'O') ('share', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('structural', 'JJ', '', 'O') ('nucleus', 'NN', '', 'O') ('as', 'IN', '', 'O') ('thienobenzodiazepines', 'NNS', '', 'O') ('namely', 'RB', '', 'O') ('a', 'DT', '', 'O') ('piperazine_ring', 'JJ', '', 'O') ('(', '-LRB-', '', 'O') ('R', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('benzene_ring', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('R1', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('thiophene_ring', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('R2', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Lilly', 'NNP', 'ORG', 'B') ('used', 'VBD', '', 'O') ('clozapine', 'NN', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('some', 'DT', '', 'O') ('forms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('schizophrenia', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('late', 'JJ', 'DATE', 'I') ('¡¬', 'NNP', 'DATE', 'I') ('60s', 'NNS', 'DATE', 'I') ('and', 'CC', '', 'O') ('early', 'JJ', '', 'O') ('¡¬70s', 'CD', '', 'O')
+Lilly the late ¡¬ 60s
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('831', 'CD', 'CARDINAL', 'B')
+Fact and Conclusions of Law 831
+__NEW_SENT__
+('Clozapine', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', '', 'O') ('``', '``', '', 'O') ('atypical', 'JJ', '', 'O') ("''", "''", '', 'O') ('antipsychotic', 'JJ', '', 'O') ('drug', 'NN', '', 'O')
+
+__NEW_SENT__
+('Structurally', 'RB', '', 'O') ('olanzapine', 'NN', '', 'O') ('differs', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('clozapine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('that', 'DT', '', 'O') ('olanzapine', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('methyl-substituted', 'JJ', '', 'O') ('thiophene_ring', 'NN', '', 'O') ('in', 'IN', '', 'O') ('place', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('benzene_ring', 'NN', '', 'O') ('in', 'IN', '', 'O') ('clozapine', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('846-47', 'CD', '', 'O')
+
+__NEW_SENT__
+('Olanzapine', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('has', 'VBZ', '', 'O') ('hydrogen', 'NN', '', 'O') ('in', 'IN', '', 'O') ('place', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chlorine', 'NN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('benzene_ring', 'NN', '', 'O')
+Olanzapine
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('847', 'CD', 'CARDINAL', 'B')
+847
+__NEW_SENT__
+('Despite', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('advantages', 'NNS', '', 'O') ('researchers', 'NNS', '', 'O') ('discovered', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('1975', 'CD', 'DATE', 'B') ('that', 'IN', '', 'O') ('clozapine', 'NN', '', 'O') ('caused', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('often', 'RB', '', 'O') ('fatal', 'JJ', '', 'O') ('blood', 'NN', '', 'O') ('disorder', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('agranulocytosis', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('one', 'CD', 'PERCENT', 'B') ('percent', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('patients', 'NNS', '', 'O')
+1975 one percent
+__NEW_SENT__
+('For', 'IN', '', 'O') ('that', 'DT', '', 'O') ('reason', 'NN', '', 'O') ('Lilly', 'NNP', 'ORG', 'B') ('withdrew', 'VBD', '', 'O') ('clozapine', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O')
+Lilly
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Nevertheless', 'RB', '', 'O') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('general', 'JJ', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('replace', 'VB', '', 'O') ('clozapine', 'NN', '', 'O') ('reflected', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('many', 'JJ', '', 'O') ('documented', 'VBN', '', 'O') ('reports', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('promising', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('failed', 'VBD', '', 'O') ('either', 'CC', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('efficacy', 'NN', '', 'O') ('or', 'CC', '', 'O') ('toxic', 'JJ', '', 'O') ('side-effects', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('late', 'JJ', 'DATE', 'B') ('1989', 'CD', 'DATE', 'I') ('approved', 'VBD', '', 'O') ('clozapine', 'NN', '', 'O') ('with', 'IN', '', 'O') ('careful', 'JJ', '', 'O') ('blood-monitoring', 'NN', '', 'O')
+FDA late 1989
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('832', 'CD', 'CARDINAL', 'B')
+832
+__NEW_SENT__
+('Until', 'IN', '', 'O') ('discovery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('olanzapine', 'NN', '', 'O') ('researchers', 'NNS', '', 'O') ('attributed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('efficacy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clozapine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('typical', 'JJ', '', 'O') ('antipsychotics', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('``', '``', '', 'O') ('neuroleptic', 'JJ', '', 'O') ('substituent', 'NN', '', 'O') ("''", "''", '', 'O') ('-an', 'RBR', '', 'O') ('electron-withdrawing', 'JJ', '', 'O') ('group', 'NN', '', 'O') ('considered', 'VBD', '', 'O') ('important', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antipsychotic', 'JJ', '', 'O') ('activity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('compounds', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Halogen-a', 'NNP', '', 'O') ('fluorine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('F', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('or', 'CC', '', 'O') ('chlorine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Cl', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('atom-is', 'VBD', '', 'O') ('such', 'PDT', '', 'O') ('an', 'DT', '', 'O') ('electron', 'NN', '', 'O') ('withdrawing', 'VBG', '', 'O') ('group', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('832', 'CD', 'CARDINAL', 'B') ('850', 'CD', 'CARDINAL', 'I')
+832 850
+__NEW_SENT__
+('Olanzapine', 'NNP', 'ORG', 'B') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('halogen', 'NN', '', 'O') ('atom', 'NN', '', 'O') ('i.e', 'XX', '', 'O')
+Olanzapine
+__NEW_SENT__
+('a', 'DT', '', 'O') ('fluorine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('F', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('or', 'CC', '', 'O') ('chlorine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Cl', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('atom', 'NN', '', 'O')
+
+__NEW_SENT__
+('Instead', 'RB', '', 'O') ('it', 'PRP', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('hydrogen_atom', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('H', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('an', 'DT', '', 'O') ('electron', 'NN', '', 'O') ('withdrawing', 'VBG', '', 'O') ('(', '-LRB-', '', 'O') ('or', 'CC', '', 'O') ('electronegative', 'JJ', '', 'O') (')', '-RRB-', '', 'O') ('group', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('850', 'CD', 'CARDINAL', 'B')
+850
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('*1375', 'NFP', '', 'O') ('The', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('olanzapine', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('ethyl', 'RB', '', 'O') ('flumezapine', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('flumezapine', 'JJ', '', 'O') ('both', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._4115,574', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('¡¬574_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('that', 'WDT', '', 'O') ('issued', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('1978', 'CD', 'DATE', 'B')
+U.S. 1978
+__NEW_SENT__
+('The', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('includes', 'VBZ', '', 'O') ('ethyl', 'RB', '', 'O') ('olanzapine', 'JJ', '', 'O') ('(', '-LRB-', '', 'O') ('a.k.a', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Compound', 'NNP', 'PERSON', 'B') ('¡¬222', 'RB', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Compound ¡¬222
+__NEW_SENT__
+('Ethyl', 'RB', '', 'O') ('flumezapine', 'JJ', '', 'O') ('caused', 'VBD', '', 'O') ('widespread', 'JJ', '', 'O') ('blood', 'NN', '', 'O') ('problems', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('dogs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('847', 'CD', 'CARDINAL', 'B')
+847
+__NEW_SENT__
+('Flumezapine', 'NNP', '', 'O') ('caused', 'VBD', '', 'O') ('extra-pyramidal', 'JJ', '', 'O') ('symptoms', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('EPS', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('increase', 'NN', '', 'O') ('in', 'IN', '', 'O') ('liver', 'NN', '', 'O') ('enzymes', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('muscle', 'NN', '', 'O') ('enzyme', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('creatine', 'NN', '', 'O') ('phosphokinase', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CPK', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+EPS CPK
+__NEW_SENT__
+('Ethyl', 'RB', '', 'O') ('olanzapine', 'NN', '', 'O') ('caused', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('significant', 'JJ', '', 'O') ('increase', 'NN', '', 'O') ('in', 'IN', '', 'O') ('cholesterol', 'NN', '', 'O') ('in', 'IN', '', 'O') ('female', 'JJ', '', 'O') ('beagle', 'NN', '', 'O') ('dogs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('olanzapine', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('significant', 'JJ', '', 'O') ('detrimental', 'JJ', '', 'O') ('side', 'NN', '', 'O') ('effects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Olanzapine', 'NNP', 'ORG', 'B') ('differs', 'VBZ', '', 'O') ('structurally', 'RB', '', 'O') ('from', 'IN', '', 'O') ('flumezapine', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('substitution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hydrogen_atom', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('H', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fluorine_atom', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('F', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('flumezapine', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('7-position', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('benzene_ring', 'NN', '', 'O')
+Olanzapine
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Olanzapine', 'NNP', 'ORG', 'B') ('differs', 'VBZ', '', 'O') ('structurally', 'RB', '', 'O') ('from', 'IN', '', 'O') ('ethyl', 'RB', '', 'O') ('flumezapine', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('replacement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fluorine_atom', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('F', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('ethyl', 'RB', '', 'O') ('group', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CH2CH3', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('ethyl', 'RB', '', 'O') ('flumezapine', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hydrogen_atom', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('H', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('methyl_group', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('CH3', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('respectively', 'RB', '', 'O')
+Olanzapine CH2CH3
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Olanzapine', 'NNP', 'ORG', 'B') ('differs', 'VBZ', '', 'O') ('structurally', 'RB', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('ethyl', 'RB', '', 'O') ('analog', 'NN', '', 'O') ('Compound', 'NNP', 'LOC', 'B') ('¡¬222', 'NN', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('ethyl', 'RB', '', 'O') ('olanzapine', 'JJ', '', 'O') (')', '-RRB-', '', 'O') ('by', 'IN', '', 'O') ('replacement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ethyl', 'JJ', '', 'O') ('group', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CH2CH3', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('methyl_group', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CH3', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', 'FAC', 'B') ('2-position', 'CD', 'FAC', 'I') ('of', 'IN', 'FAC', 'I') ('the', 'DT', 'FAC', 'I') ('thiophene_ring', 'NN', 'FAC', 'I')
+Olanzapine Compound ¡¬222 CH2CH3 the 2-position of the thiophene_ring
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('prove', 'VB', '', 'O') ('by', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('2', 'CD', 'CARDINAL', 'I') ('3', 'CD', '', 'O') ('7', 'CD', '', 'O') ('8', 'CD', '', 'O') ('and', 'CC', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B')
+1 2 15 35 102
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('922-23', 'CD', '', 'O')
+Fact and Conclusions of Law
+__NEW_SENT__
+('The', 'DT', '', 'O') ('primary', 'JJ', '', 'O') ('reference', 'NN', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('cited', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('article', 'NN', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', '', 'O') ('4-Piperazinyl-10H-thieno', 'CD', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,5', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepines', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('Potential_Neuroleptics', 'NNS', '', 'O') ("''", "''", '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Journal', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Medicinal', 'NNP', 'ORG', 'I') ('Chemistry', 'NNP', 'ORG', 'I') ('in', 'IN', '', 'O') ('1980', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+the Journal of Medicinal Chemistry 1980 1980a
+__NEW_SENT__
+('Jiban', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Chakrabarti', 'NNP', 'PERSON', 'I') ('Linda', 'NNP', 'PERSON', 'I') ('Horsman', 'NNP', 'PERSON', 'I') ('et', 'NNP', '', 'O') ('al.', 'NN', '', 'O') ('4-Piperazinyl-10H-thieno', 'CD', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,5', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepines', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('Potential_Neuroleptics', 'NNS', '', 'O') ('23', 'CD', 'CARDINAL', 'B') ('J.', 'NNP', 'PERSON', 'B') ('Med', 'NNP', 'PERSON', 'I')
+Jiban K. Chakrabarti Linda Horsman 23 J. Med
+__NEW_SENT__
+('Chem', 'NNP', '', 'O')
+
+__NEW_SENT__
+('8', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1980', 'CD', '', 'O') (')', '-RRB-', '', 'O')
+8
+__NEW_SENT__
+('Anticipation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('or', 'CC', '', 'O') ('not', 'RB', '', 'O') ('an', 'DT', '', 'O') ('element', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('inherent', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Schreiber', 'NNP', '', 'O') ('128_F.3d_1473', 'CD', '', 'O') ('1477', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.1997', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+1477
+__NEW_SENT__
+('Therefore', 'RB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('reviews', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') ('standard', 'NN', '', 'O')
+
+__NEW_SENT__
+('Atlas', 'NNP', 'ORG', 'B') ('Powder', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Ireco', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('190_F.3d_1342', 'CD', '', 'O') ('1346', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.1999', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Atlas Powder Co. Ireco Inc. 1346
+__NEW_SENT__
+('To', 'TO', '', 'O') ('anticipate', 'VB', '', 'O') ('a', 'DT', '', 'O') ('prior_art_reference', 'NN', '', 'O') ('must', 'MD', '', 'O') ('place', 'VB', '', 'O') ('the', 'DT', '', 'O') ('inventive', 'JJ', '', 'O') ('compound', 'NN', '', 'O') ('or', 'CC', '', 'O') ('composition', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('possession', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('public', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Brown', 'NNP', 'FAC', 'B') ('51_C.C.P.A._1254', 'CD', 'FAC', 'I') ('329_F.2d_1006', 'CD', '', 'O') ('1011', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('1964', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+Brown 51_C.C.P.A._1254 1964
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('prior_art_reference', 'NN', '', 'O') ('must', 'MD', '', 'O') ('disclose', 'VB', '', 'O') ('each', 'DT', '', 'O') ('and', 'CC', '', 'O') ('every', 'DT', '', 'O') ('feature', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('either', 'CC', '', 'O') ('explicitly', 'RB', '', 'O') ('or', 'CC', '', 'O') ('inherently', 'RB', '', 'O')
+
+__NEW_SENT__
+('Glaxo', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Novopharm', 'NNP', 'ORG', 'B') ('*1376', 'NN', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('52_F.3d_1043', 'CD', '', 'O') ('1047', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.1995', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Glaxo Inc. Novopharm *1376 Ltd. 1047
+__NEW_SENT__
+('Pointing', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Petering', 'NN', '', 'O') ('49_C.C.P.A._993', 'CD', '', 'O') ('301_F.2d_676_(1962)', 'CD', '', 'O') ('and', 'CC', '', 'O') ('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Schaumann', 'NNP', '', 'O') ('572_F.2d_312_(C.C.P.A.1987)', 'CD', '', 'O') ('IVAX', 'NNP', '', 'O') ('asserts', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('anticipated', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬382_patent', 'NNP', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('identified', 'VBD', '', 'O') ('compounds', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same_family', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('thienobenzodiazepines', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+1
+__NEW_SENT__
+('Indeed', 'RB', '', 'O') ('in', 'IN', '', 'O') ('Petering', 'VBG', 'ORG', 'B') ('the', 'DT', 'ORG', 'I') ('Board', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('affirmed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('rejection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('2', 'CD', '', 'O') ('4', 'CD', '', 'O') ('5', 'CD', '', 'O') ('7', 'CD', '', 'O') ('and', 'CC', '', 'O') ('10-12', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('application', 'NN', '', 'O') ('on', 'IN', '', 'O') ('``', '``', '', 'O') ('isoalloxazines', 'NNS', '', 'O') ("''", "''", '', 'O')
+Petering the Board of Patent Appeals 1 10-12
+__NEW_SENT__
+('301', 'CD', 'CARDINAL', 'B') ('F.2d', 'CD', 'DATE', 'B') ('at', 'IN', '', 'O') ('677', 'CD', 'CARDINAL', 'B')
+301 F.2d 677
+__NEW_SENT__
+('However', 'RB', '', 'O') ('in', 'IN', '', 'O') ('contrast', 'NN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('Petering', 'NNP', 'GPE', 'B') ('did', 'VBD', '', 'O') ('more', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('make', 'VB', '', 'O') ('a', 'DT', '', 'O') ('broad', 'JJ', '', 'O') ('generic', 'JJ', '', 'O') ('disclosure', 'NN', '', 'O')
+Petering
+__NEW_SENT__
+('In', 'IN', '', 'O') ('Petering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('disclosed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('limited_number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('specific', 'JJ', '', 'O') ('preferences', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('specifically', 'RB', '', 'O') ('defined', 'VBN', '', 'O') ('group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('isoalloxazines', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('Petering', 'NNP', 'PRODUCT', 'B') ('actually', 'RB', '', 'O') ('disclosed', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('skilled', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('a', 'DT', '', 'O') ('limited_class', 'NN', '', 'O') ('of', 'IN', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('``', '``', 'CARDINAL', 'I') ('some', 'DT', 'CARDINAL', 'I') ('20', 'CD', 'CARDINAL', 'I') ('compounds', 'NNS', '', 'O') ("''", "''", '', 'O') ('including', 'VBG', '', 'O') ('``', '``', '', 'O') ('6', 'CD', 'DATE', 'B') ('7-dimethyl-9-', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Bmonohydroxyethyl', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('-isoalloxazine', '.', '', 'O') ("''", "''", '', 'O')
+Petering one only `` some 20 6 7-dimethyl-9-
+__NEW_SENT__
+('Schaumann', 'NNP', '', 'O') ('572', 'CD', '', 'O') ('F.2d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('315', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Petering', 'NNP', 'FAC', 'B') ('301', 'CD', 'FAC', 'I') ('F.2d', 'CD', 'FAC', 'I') ('at', 'IN', '', 'O') ('682', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+315 Petering 301 F.2d 682
+__NEW_SENT__
+('Similarly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('Schaumann', 'NNP', 'ORG', 'B') ('disclosed', 'VBD', '', 'O') ('14', 'CD', 'CARDINAL', 'B') ('compounds', 'NNS', '', 'O') ('later', 'RB', '', 'O') ('further', 'RB', '', 'O') ('narrowed', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('7', 'CD', 'CARDINAL', 'B') ('considering', 'VBG', '', 'O') ('express', 'JJ', '', 'O') ('preferences', 'NNS', '', 'O')
+Schaumann 14 7
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('structural', 'JJ', '', 'O') ('formula', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('contained', 'VBD', '', 'O') ('but', 'CC', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('variable', 'NN', '', 'O')
+
+__NEW_SENT__
+('572', 'CD', 'CARDINAL', 'B') ('F.2d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('314', 'CD', 'CARDINAL', 'B')
+572 314
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('in', 'IN', '', 'O') ('Schaumann', 'NNP', 'PERSON', 'B') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('patent', 'NN', '', 'O') ('embraced', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('very', 'RB', '', 'O') ('limited_number', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('closely', 'RB', '', 'O') ('related', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('specifically', 'RB', '', 'O') ('described', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('compound', 'NN', '', 'O')
+Schaumann
+__NEW_SENT__
+('572', 'CD', 'CARDINAL', 'B') ('F.2d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('316', 'CD', 'CARDINAL', 'B')
+572 316
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('unlike', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('both', 'DT', '', 'O') ('Petering', 'NNP', 'LAW', 'B') ('and', 'CC', 'LAW', 'I') ('Schaumann', 'NNP', 'LAW', 'I') ('expressly', 'RB', '', 'O') ('spelled', 'VBD', '', 'O') ('out', 'RP', '', 'O') ('a', 'DT', '', 'O') ('definite', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('limited_class', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('enabled', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('to', 'TO', '', 'O') ('at', 'IN', '', 'O') ('once', 'RB', '', 'O') ('envisage', 'VB', '', 'O') ('each', 'DT', '', 'O') ('member', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('limited_class', 'NN', '', 'O')
+Petering and Schaumann
+__NEW_SENT__
+('Schaumann', 'NNP', '', 'O') ('572', 'CD', '', 'O') ('F.2d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('315', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('Petering', 'NNP', 'FAC', 'B') ('301', 'CD', 'FAC', 'I') ('F.2d', 'CD', 'FAC', 'I') ('at', 'IN', '', 'O') ('681-82', 'CD', '', 'O')
+315 Petering 301 F.2d
+__NEW_SENT__
+('By', 'IN', '', 'O') ('contrast', 'NN', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') ('actually', 'RB', '', 'O') ('disclosed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('numbers', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('millions', 'NNS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('including', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('proposed', 'VBN', '', 'O') ('alternative', 'JJ', '', 'O') ('substituents', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+millions
+__NEW_SENT__
+('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('examined', 'VBD', '', 'O') ('forty-five', 'JJ', '', 'O') ('specific', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('as', 'IN', '', 'O') ('opposed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('genus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('compounds', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('4-piperazinyl-10H-thieno', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,5', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepine', 'JJ', '', 'O') ('family', 'NN', '', 'O') ('and', 'CC', '', 'O') ('fourteen', 'CD', 'CARDINAL', 'B') ('analogous', 'JJ', '', 'O') ('5-piperazinyl-substituted', 'CD', '', 'O') ('4H-thieno', 'CD', '', 'O') ('[', '-LRB-', '', 'O') ('2,3-b', 'NNS', '', 'O') (']', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('1,4', 'CD', '', 'O') (']', '-RRB-', '', 'O') ('benzodiazepines', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('were', 'VBD', '', 'O') ('created', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('compare', 'VB', '', 'O') ('activity', 'NN', '', 'O')
+fourteen
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('848', 'CD', 'CARDINAL', 'B')
+Fact and Conclusions of Law 848
+__NEW_SENT__
+('Indeed', 'RB', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('listed', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('preferred', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('substituents', 'NNS', '', 'O') ('none', 'NN', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('resemble', 'VBP', '', 'O') ('olanzapine', 'NN', '', 'O') (':', ':', '', 'O') ('for', 'IN', '', 'O') ('R-a', 'NN', 'ORG', 'B') ('methyl', 'NN', '', 'O') ('hydroxyethyl', 'RB', '', 'O') ('or', 'CC', '', 'O') ('hydroxypropyl', 'NN', '', 'O') (';', ':', '', 'O') ('for', 'IN', '', 'O') ('R1-a', 'DT', '', 'O') ('fluorine', 'NN', '', 'O') ('chlorine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('7', 'CD', 'CARDINAL', 'B') ('8', 'CD', 'CARDINAL', 'I') ('di-fluoro', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('no', 'DT', '', 'O') ('hydrogen', 'NN', '', 'O') (']', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+R-a 7 8
+__NEW_SENT__
+('for', 'IN', '', 'O') ('R2-a', 'NNP', '', 'O') ('methyl', 'NN', '', 'O') ('2-ethyl', 'CD', '', 'O') ('or', 'CC', '', 'O') ('2-isopropyl', 'CD', '', 'O') ('group', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('848', 'CD', 'CARDINAL', 'B')
+848
+__NEW_SENT__
+('Five', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preferred', 'JJ', '', 'O') ('individual', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('9', 'CD', 'DATE', 'B') ('12', 'CD', 'DATE', 'I') ('17', 'CD', 'DATE', 'I') ('29', 'CD', 'DATE', 'I') ('and', 'CC', 'DATE', 'I') ('34', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('more', 'RBR', '', 'O') ('potent', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('clozapine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('scoring', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('3', 'CD', 'CARDINAL', 'B') ('CAR1', 'NNP', '', 'O') ('or', 'CC', '', 'O') ('higher', 'JJR', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('have', 'VBP', '', 'O') ('clozapine-like', 'JJ', '', 'O') ('effect', 'NN', '', 'O')
+Five 9 12 17 29 and 34 3
+__NEW_SENT__
+('For', 'IN', '', 'O') ('those', 'DT', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('preferred', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('Chakrabarti', 'NNP', 'DATE', 'B') ('1980a', 'CD', 'DATE', 'I') ('authors', 'NNS', '', 'O') ('expressed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('preference', 'NN', '', 'O') ('for', 'IN', '', 'O') ('specific', 'JJ', '', 'O') ('complete_compounds', 'NNS', '', 'O') ('without', 'IN', '', 'O') ('any', 'DT', '', 'O') ('variation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('individual_substituents', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('those', 'DT', '', 'O') ('molecules', 'NNS', '', 'O')
+five Chakrabarti 1980a
+__NEW_SENT__
+('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('also', 'RB', '', 'O') ('always', 'RB', '', 'O') ('expressed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('preference', 'NN', '', 'O') ('for', 'IN', '', 'O') ('halogen-containing', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('fluorine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('chlorine', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('not', 'RB', '', 'O') ('hydrogen', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('832-33', 'CD', '', 'O')
+
+__NEW_SENT__
+('Furthermore', 'RB', '', 'O') ('compounds', 'NNS', '', 'O') ('9', 'CD', 'CARDINAL', 'B') ('12', 'CD', '', 'O') ('17', 'CD', '', 'O') ('and', 'CC', '', 'O') ('29', 'CD', 'CARDINAL', 'B') ('all', 'DT', '', 'O') ('have', 'VBP', '', 'O') ('fluorine', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('7-position', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('benzene_ring', 'NN', '', 'O')
+9 29
+__NEW_SENT__
+('And', 'CC', '', 'O') ('though', 'IN', '', 'O') ('Compound', 'NNP', 'LAW', 'B') ('34', 'CD', 'LAW', 'I') ('does', 'VBZ', '', 'O') ('have', 'VB', '', 'O') ('hydrogen', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('7-position', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('benzene_ring', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('*1377', 'FW', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('hydroxyethyl', 'NN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('piperazine_ring', 'NN', '', 'O') ('unlike', 'IN', '', 'O') ('olanzapine', 'NN', '', 'O')
+Compound 34
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('sum', 'NN', '', 'O') ('Chakrabarti', 'NNP', 'LAW', 'B') ('1980a', 'CD', 'LAW', 'I') ('discloses', 'NNS', '', 'O') ('nothing', 'NN', '', 'O') ('close', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O')
+Chakrabarti 1980a
+__NEW_SENT__
+('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('does', 'VBZ', '', 'O') ('provide', 'VB', '', 'O') ('a', 'DT', '', 'O') ('general', 'JJ', '', 'O') ('structural', 'JJ', '', 'O') ('formula', 'NN', '', 'O') ('with', 'IN', '', 'O') ('possible', 'JJ', '', 'O') ('substituents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('R', 'NN', '', 'O') ("''", "''", '', 'O') ('``', '``', '', 'O') ('R1', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('R2', 'NNP', '', 'O') ("''", "''", '', 'O') ('but', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('define', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('at', 'RB', '', 'O') ('all', 'RB', '', 'O')
+R1
+__NEW_SENT__
+('Findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Fact', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Conclusions', 'NNPS', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('364', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('900', 'CD', '', 'O')
+Fact and Conclusions of Law
+__NEW_SENT__
+('No', 'DT', '', 'O') ('possible', 'JJ', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('preferred', 'VBN', '', 'O') ('substituents', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('lead', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('components', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('make', 'VBP', '', 'O') ('up', 'RP', '', 'O') ('olanzapine', 'NN', '', 'O') ('because', 'IN', '', 'O') ('each', 'DT', '', 'O') ('would', 'MD', '', 'O') ('contain', 'VB', '', 'O') ('a', 'DT', '', 'O') ('fluorine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('chlorine', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('make', 'VB', '', 'O') ('olanzapine', 'NN', '', 'O') ('from', 'IN', '', 'O') ('Chakrabarti', 'NNP', 'LAW', 'B') ('1980a', 'CD', 'LAW', 'I') ('one', 'PRP', 'LAW', 'I') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('to', 'TO', '', 'O') ('depart', 'VB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('teaching', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('article', 'NN', '', 'O') ('and', 'CC', '', 'O') ('recombine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('components', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('illustrative', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('hindsight', 'NN', '', 'O')
+Chakrabarti 1980a one
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('anticipate', 'VB', '', 'O') ('because', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('article', 'NN', '', 'O') ('prefers', 'VBZ', '', 'O') ('complete_compounds', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('individual_substituents', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('article', 'NN', '', 'O') ('discloses', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('disclosure', 'NN', '', 'O') ('encompassing', 'VBG', '', 'O') ('olanzapine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('even', 'RB', '', 'O') ('stating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('substituents', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('interchangeable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('article', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('suggest', 'VB', '', 'O') ('transforming', 'VBG', '', 'O') ('unpreferred', 'VBN', '', 'O') ('compound', 'NN', '', 'O') ('72', 'CD', 'CARDINAL', 'B') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preferred', 'JJ', '', 'O') ('compound', 'NN', '', 'O')
+1 2 3 72
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('Chakrabarti', 'NNP', '', 'O') ('1980a', 'CD', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('place', 'VB', '', 'O') ('olanzapine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('possession', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('public', 'NN', '', 'O')
+
+__NEW_SENT__
+('Therefore', 'RB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('detects', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('clear', 'JJ', '', 'O') ('error', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('no', 'DT', '', 'O') ('anticipation', 'NN', '', 'O')
+
+__NEW_SENT__

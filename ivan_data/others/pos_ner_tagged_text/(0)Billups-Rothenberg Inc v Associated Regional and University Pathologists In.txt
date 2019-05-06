@@ -1,0 +1,429 @@
+('642_F.3d_1031', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('BILLUPS-ROTHENBERG', 'NNP', '', 'O') ('INC.', 'JJ', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('ASSOCIATED', 'NNP', '', 'O') ('REGIONAL', 'NNP', '', 'O') ('AND', 'CC', '', 'O') ('UNIVERSITY', 'NNP', 'ORG', 'B') ('PATHOLOGISTS', 'NNS', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('doing', 'VBG', '', 'O') ('business', 'NN', '', 'O') ('as', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('Laboratories', 'NNPS', 'ORG', 'I') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Bio-Rad_Laboratories', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+UNIVERSITY PATHOLOGISTS INC. ARUP Laboratories Bio-Rad_Laboratories Inc. Defendants-Appellees
+__NEW_SENT__
+('Does', 'VBZ', '', 'O') ('2-20', 'CD', 'CARDINAL', 'B') ('Defendants', 'NNS', '', 'O')
+2-20
+__NEW_SENT__
+('No._2010-1401', 'UH', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('April_29,_2011', 'NNP', 'ORG', 'B')
+April_29,_2011
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('genetic_test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Type', 'NN', 'ORG', 'B') ('I', 'PRP', '', 'O') ('hereditary_hemochromatosis', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+Type
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Central', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Mariana', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Pfaelzer', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', 'PERSON', 'I') ('District', 'NNP', 'PERSON', 'I') ('Judge', 'NNP', 'PERSON', 'I') ('denied', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('competitors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+The United States District Court the Central District California Mariana R. Pfaelzer Senior District Judge
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('comply', 'VB', '', 'O') ('with', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('description_requirement', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('anticipation', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1032', 'RB', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Associates', 'NNPS', 'ORG', 'I') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Irvine', 'NNP', 'ORG', 'B') ('CA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Robert D. Fish Fish & Associates P.C. Irvine CA
+__NEW_SENT__
+('Brian', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Cannon', 'NNP', 'PERSON', 'I') ('Quinn', 'NNP', 'ORG', 'B') ('Emanuel', 'NNP', 'ORG', 'I') ('Urquhart', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Sullivan', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Redwood', 'NNP', 'ORG', 'I') ('Shore', 'NNP', 'ORG', 'I') ('CA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Brian C. Cannon Quinn Emanuel Urquhart & Sullivan LLP of Redwood Shore CA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('P.B', 'NNP', '', 'O')
+Kevin
+__NEW_SENT__
+('Johnson', 'NNP', 'PERSON', 'B') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Rory', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Miller', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Kristin', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Madigan', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O')
+Johnson Rory S. Miller Kristin J. Madigan Los Angeles
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('LINN', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('MOORE', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('involving', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('genetic_test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Type', 'NN', 'ORG', 'B') ('I', 'PRP', '', 'O') ('hereditary_hemochromatosis', 'NN', '', 'O')
+Type
+__NEW_SENT__
+('Billups-Rothenberg', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Billups', 'NNS', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('Associated', 'NNP', 'ORG', 'B') ('Regional', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('University', 'NNP', 'ORG', 'B') ('Pathologists', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Bio-Rad_Laboratories', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Bio-Rad', 'RB', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('Nos._5674,681', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('¡¬681_patent', 'NNP', 'WORK_OF_ART', 'B') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('6,355,425', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('¡¬425_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('patents-in-suit', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Billups-Rothenberg Inc. Billups Associated Regional University Pathologists Inc. ARUP Bio-Rad_Laboratories Inc. U.S. ¡¬681_patent 6,355,425
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('Billups', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'RB', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+Billups ARUP Bio-Rad
+__NEW_SENT__
+('In', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('order', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'NORP', 'B') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('because', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._6025,130', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('disclosed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('genetic_test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('mutation', 'NN', '', 'O') ('implicated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Type', 'NNP', 'GPE', 'B') ('I', 'PRP', '', 'O') ('hereditary_hemochromatosis', 'NN', '', 'O')
+1 ¡¬681_patent 2 ¡¬425_patent U.S. Type
+__NEW_SENT__
+('Order', 'NN', '', 'O') ('at', 'IN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('Billups-Rothenberg', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Associated', 'NNP', 'ORG', 'B') ('Reg', 'NNP', 'ORG', 'I') ("'", 'POS', 'ORG', 'I') ('l', 'NN', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Univ', 'NNP', 'ORG', 'I')
+2 Associated Reg ' l & Univ
+__NEW_SENT__
+('Pathologists', 'NNPS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._08-', 'NNP', '', 'O') ('CV-21349', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('C.D.Cal', '.', '', 'O')
+Pathologists Inc.
+__NEW_SENT__
+('May_26,_2010', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('ECF', 'NNP', 'ORG', 'B') ('No._248', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Summ', 'NNP', '', 'O')
+May_26,_2010 ECF No._248
+__NEW_SENT__
+('J', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Order', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('properly', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('both', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Deoxyribonucleic', 'JJ', '', 'O') ('acid', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('DNA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('chemical', 'JJ', '', 'O') ('name', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('genetic', 'JJ', '', 'O') ('material', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('forms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('heredity', 'NN', '', 'O') ('in', 'IN', '', 'O') ('humans', 'NNS', '', 'O')
+
+__NEW_SENT__
+('DNA', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('composed', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('sequences', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('nucleotides', 'NNS', '', 'O') (':', ':', '', 'O') ('adenine', 'NN', '', 'O') ('thymine', 'NN', '', 'O') ('guanine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cytosine', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('abbreviated', 'VBN', '', 'O') ('A', 'DT', '', 'O') ('T', 'NN', '', 'O') ('G', 'NN', '', 'O') ('and', 'CC', '', 'O') ('C', 'NNP', '', 'O') ('respectively', 'RB', '', 'O') (')', '-RRB-', '', 'O') ('arranged', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('functional', 'JJ', '', 'O') ('units', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('genes', 'NNS', '', 'O')
+four
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('codes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('amino', 'JJ', '', 'O') ('acids', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('make', 'VBP', '', 'O') ('up', 'RP', '', 'O') ('peptides', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('proteins', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('relationship', 'NN', '', 'O') ('between', 'IN', '', 'O') ('a', 'DT', '', 'O') ('nucleotide', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('corresponding', 'JJ', '', 'O') ('amino', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('genetic_code', 'NN', '', 'O')
+
+__NEW_SENT__
+('Mutations', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('alter', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('sequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nucleotides', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('change', 'VB', '', 'O') ('the', 'DT', '', 'O') ('corresponding', 'VBG', '', 'O') ('amino', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('in', 'IN', '', 'O') ('turn', 'NN', '', 'O') ('may', 'MD', '', 'O') ('affect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('or', 'CC', '', 'O') ('function', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('protein', 'NN', '', 'O') ('encoded', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gene', 'NN', '', 'O')
+
+__NEW_SENT__
+('DNA', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('packaged', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('structures', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('chromosomes', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('somatic', 'JJ', '', 'O') ('cells', 'NNS', '', 'O') ('humans', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('pair', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sex', 'NN', '', 'O') ('chromosomes', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('twenty-two', 'JJ', '', 'O') ('pairs', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('autosomal', 'JJ', '', 'O') ('chromosomes', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('numbered', 'VBN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('size', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('largest', 'JJS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('smallest', 'JJS', '', 'O')
+one
+__NEW_SENT__
+('One', 'CD', 'CARDINAL', 'B') ('chromosome', 'NN', '', 'O') ('per', 'IN', '', 'O') ('pair', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('inherited', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('each', 'DT', '', 'O') ('parent', 'NN', '', 'O')
+One
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('chromosome', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('composed', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('arms', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('short_arm', 'NN', '', 'O') ('and', 'CC', '', 'O') ('long', 'JJ', '', 'O') ('arm', 'NN', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ('describe', 'NN', '', 'O') ('genetic_tests', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('Type', 'NN', 'ORG', 'B') ('I', 'PRP', '', 'O') ('hereditary_hemochromatosis', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('iron_disorder', 'NN', '', 'O') ('characterized', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('excessive', 'JJ', '', 'O') ('*1033', 'NNS', '', 'O') ('iron_absorption', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O')
+Type
+__NEW_SENT__
+('Hereditary_hemochromatosis', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('caused', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('specific', 'JJ', '', 'O') ('mutations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('involved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('regulating', 'VBG', '', 'O') ('iron_absorption', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('in', 'IN', '', 'O') ('question', 'NN', '', 'O') ('the', 'DT', '', 'O') ('High', 'NNP', '', 'O') ('Fe', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('HFE', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('gene', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Fe', 'FW', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('chemical', 'JJ', '', 'O') ('symbol', 'NN', '', 'O') ('for', 'IN', '', 'O') ('iron', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('located', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('short_arm', 'NN', '', 'O') ('of', 'IN', '', 'O') ('chromosome', 'NN', '', 'O') ('six', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('humans', 'NNS', '', 'O')
+six
+__NEW_SENT__
+('The', 'DT', '', 'O') ('HFE_gene', 'JJ', '', 'O') ('codes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('HFE', 'NNP', 'ORG', 'B') ('protein', 'NN', '', 'O') ('also', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('protein', 'NN', '', 'O')
+HFE
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('certain', 'JJ', '', 'O') ('mutations', 'NNS', '', 'O') ('occur', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('HFE_gene', 'NN', '', 'O') ('the', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('mutated', 'JJ', '', 'O') ('HFE', 'NNP', 'ORG', 'B') ('protein', 'NN', '', 'O') ('results', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('increased', 'VBN', '', 'O') ('iron_absorption', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gut', 'NN', '', 'O')
+HFE
+__NEW_SENT__
+('Hereditary_hemochromatosis', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('autosomal', 'JJ', '', 'O') ('recessive', 'JJ', '', 'O') ('condition', 'NN', '', 'O') ('meaning', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('must', 'MD', '', 'O') ('inherit', 'VB', '', 'O') ('one', 'CD', '', 'O') ('mutated', 'VBN', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('HFE_gene', 'NN', '', 'O') ('from', 'IN', '', 'O') ('each', 'DT', '', 'O') ('parent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('the', 'DT', '', 'O') ('disease', 'NN', '', 'O')
+
+__NEW_SENT__
+('Not', 'RB', '', 'O') ('everyone', 'NN', '', 'O') ('with', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('mutated', 'VBN', '', 'O') ('HFE_genes', 'NNP', 'ORG', 'B') ('becomes', 'VBZ', '', 'O') ('clinically', 'RB', '', 'O') ('ill', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('some', 'DT', '', 'O') ('cases', 'NNS', '', 'O') ('inheriting', 'VBG', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('one', 'CD', 'CARDINAL', 'I') ('mutated', 'VBN', '', 'O') ('gene', 'NN', '', 'O') ('in', 'IN', '', 'O') ('combination', 'NN', '', 'O') ('with', 'IN', '', 'O') ('mutations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('genes', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('lead', 'VB', '', 'O') ('to', 'IN', '', 'O') ('some', 'DT', '', 'O') ('increased', 'VBN', '', 'O') ('iron_absorption', 'NN', '', 'O')
+two HFE_genes only one
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', 'ORG', 'B') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('detection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('distinct', 'JJ', '', 'O') ('mutations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('HFE_gene', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('C282Y', 'NN', 'ORG', 'B') ('and', 'CC', '', 'O') ('S65C', 'RB', '', 'O')
+patents-in-suit one two C282Y
+__NEW_SENT__
+('The', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('mutations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('HFE_gene', 'NN', '', 'O') (':', ':', '', 'O') ('C282Y', 'NN', '', 'O') ('S65C', 'RB', '', 'O') ('and', 'CC', '', 'O') ('H63D', 'PRP', '', 'O')
+three
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1994', 'CD', 'DATE', 'B') ('Billups', 'NNPS', 'NORP', 'B') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'NORP', 'B') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Methods', 'NNS', 'WORK_OF_ART', 'I') ('to', 'TO', 'WORK_OF_ART', 'I') ('Identify', 'VB', 'WORK_OF_ART', 'I') ('Hemochromatosis', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I')
+1994 Billups ¡¬681_patent `` Methods to Identify Hemochromatosis ''
+__NEW_SENT__
+('Dr.', 'NNP', '', 'O') ('Barry', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Rothenberg', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('founder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Billups', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('named', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O')
+Barry E. Rothenberg Billups
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Type', 'NN', 'ORG', 'B') ('I', 'PRP', '', 'O') ('hereditary_hemochromatosis', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('hemochromatosis', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('disease', 'NN', '', 'O') ('caused', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('linked', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('major', 'JJ', '', 'O') ('histocompatibility', 'NN', '', 'O') ('complex', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('MHC', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+¡¬681_patent Type MHC
+__NEW_SENT__
+('¡¬681_patent', 'NNP', '', 'O') ('col.17', 'NNP', '', 'O') ('ll.51-54', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('genes', 'NNS', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('MHC', 'NNP', '', 'O') ('code', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('variety', 'NN', '', 'O') ('of', 'IN', '', 'O') ('products', 'NNS', '', 'O') ('many', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('defend', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('against', 'IN', '', 'O') ('pathogens', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬681_patent', 'NNP', '', 'O') ('identifies', 'VBZ', '', 'O') ('human', 'JJ', '', 'O') ('chromosome', 'NN', '', 'O') ('six', 'CD', 'CARDINAL', 'B') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('location', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('responsible', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('hemochromatosis', 'NN', '', 'O')
+six
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.17', 'CD', '', 'O') ('ll.53-54', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('addresses', 'VBZ', '', 'O') ('how', 'WRB', '', 'O') ('to', 'TO', '', 'O') ('detect', 'VB', '', 'O') ('a', 'DT', '', 'O') ('mutation', 'NN', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('nucleic', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('detected', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('methods', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('analyze', 'VB', '', 'O') ('nucleic', 'JJ', '', 'O') ('acids', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('by', 'IN', '', 'O') ('nucleic', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequencing', 'NN', '', 'O') ('polymerase', 'NN', '', 'O') ('chain', 'NN', '', 'O') ('reaction', 'NN', '', 'O') ('or', 'CC', '', 'O') ('hybridization', 'NN', '', 'O')
+¡¬681_patent
+__NEW_SENT__
+('Such', 'JJ', '', 'O') ('methods', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('well', 'RB', '', 'O') ('known', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('those', 'DT', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('see', 'VB', '', 'O') ('for', 'IN', '', 'O') ('example', 'NN', '', 'O') ('Sambrook', 'NNP', '', 'O') ('et', 'FW', '', 'O') ('al', 'NNP', '', 'O') ('supra', 'VBZ', '', 'O') ('1989', 'CD', 'DATE', 'B') (';', ':', '', 'O') ('Hames', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Higgins', 'NNP', 'ORG', 'I') ('Nucleic', 'NNP', 'ORG', 'I') ('Acid', 'NNP', 'ORG', 'I') ('Hybridisation', 'NNP', 'ORG', 'I') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('practical', 'JJ', '', 'O') ('approach', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('IRL', 'NNP', 'ORG', 'B') ('Press', 'NNP', 'ORG', 'I') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('1985', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('incorporated', 'VBN', '', 'O') ('herein', 'NN', '', 'O') ('by', 'IN', '', 'O') ('reference', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+1989 Hames and Higgins Nucleic Acid Hybridisation IRL Press New York 1985
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.23', 'CD', '', 'O') ('ll.26-33', '.', '', 'O')
+
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('cover', 'VBP', '', 'O') ('testing', 'NN', '', 'O') ('for', 'IN', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('by', 'IN', '', 'O') ('detecting', 'VBG', '', 'O') ('defective', 'JJ', '', 'O') ('proteins', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('blood', 'NN', '', 'O') ('only', 'RB', '', 'O') ('claims', 'VBZ', '', 'O') ('covering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('genetic_test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('what', 'WP', '', 'O') ('is', 'VBZ', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('C282Y_mutation', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('asserted', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O')
+¡¬681_patent
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('2', 'CD', 'PERSON', 'I') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('reads', 'VBZ', '', 'O') (':', ':', '', 'O') ('2', 'CD', 'CARDINAL', 'B')
+Claim 2 2
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('to', 'TO', '', 'O') ('identify', 'VB', '', 'O') ('an', 'DT', '', 'O') ('individual', 'JJ', '', 'O') ('having', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('predisposed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('steps', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('providing', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('individual', 'NN', '', 'O') ('a', 'DT', '', 'O') ('sample', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('nonclassical', 'JJ', '', 'O') ('MHC', 'NNP', '', 'O') ('class', 'NN', '', 'O') ('I', 'PRP', '', 'O') ('heavy_chain', 'VBP', '', 'O')
+
+__NEW_SENT__
+('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('detecting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('gene', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('mutation', 'NN', '', 'O') ('results', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reduced', 'JJ', '', 'O') ('ability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('heavy_chain', 'NN', '', 'O') ('to', 'TO', '', 'O') ('associate', 'VB', '', 'O') ('with', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('£]2', 'NN', 'ORG', 'B') ('microglobulin', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('mutation', 'NN', '', 'O') ('identifies', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('individual', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('predisposed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('hemochromatosis', 'NN', '', 'O')
+£]2
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.31', 'CD', '', 'O') ('ll.19-24', '.', '', 'O')
+
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('Billups', 'NNS', 'ORG', 'B') ('claimed', 'VBD', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('detecting', 'VBG', '', 'O') ('mutations', 'NNS', '', 'O') ('responsible', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('it', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('yet', 'RB', '', 'O') ('identified', 'VBN', '', 'O') ('any', 'DT', '', 'O') ('disease-causing', 'JJ', '', 'O') ('mutations', 'NNS', '', 'O')
+Billups ¡¬681_patent
+__NEW_SENT__
+('In', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('of', 'IN', 'DATE', 'I') ('1995', 'CD', 'DATE', 'I') ('Dr._Rothenberg', 'NNP', '', 'O') ('employed', 'VBD', '', 'O') ('Dr.', 'NNP', '', 'O') ('Ritsuko', 'NNP', 'PERSON', 'B') ('Sawada-Hirai', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('help', 'VB', '', 'O') ('him', 'PRP', '', 'O') ('identify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('mutations', 'NNS', '', 'O') ('responsible', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('hemochromatosis', 'NN', '', 'O')
+August of 1995 Ritsuko
+__NEW_SENT__
+('They', 'PRP', '', 'O') ('were', 'VBD', '', 'O') ('unable', 'JJ', '', 'O') ('*1034', '.', '', 'O') ('to', 'TO', '', 'O') ('isolate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('hemochromatosis_gene', 'NN', '', 'O') ('or', 'CC', '', 'O') ('any', 'DT', '', 'O') ('mutations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gene', 'NN', '', 'O')
+
+__NEW_SENT__
+('Others', 'NNS', '', 'O') ('however', 'RB', '', 'O') ('had', 'VBD', '', 'O') ('more', 'JJR', '', 'O') ('success', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1996', 'CD', 'DATE', 'B') ('Dr.', 'NNP', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Feder', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('scientists', 'NNS', '', 'O') ('unaffiliated', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('Billups', 'NNS', 'ORG', 'B') ('isolated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('sequenced', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('hemochromatosis_gene', 'NN', '', 'O') ('and', 'CC', '', 'O') ('published', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('results', 'NNS', '', 'O')
+1996 John N. Feder Billups
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Feder', 'NNP', 'PERSON', 'I') ('et', 'NN', '', 'O')
+John N. Feder
+__NEW_SENT__
+('al.', 'FW', '', 'O') ('A', 'DT', '', 'O') ('Novel', 'JJ', '', 'O') ('MHC', 'NNP', '', 'O') ('Class', 'NNP', '', 'O') ('I-like', 'NNP', '', 'O') ('Gene', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('Mutated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Patients', 'NNP', '', 'O') ('with', 'IN', '', 'O') ('Hereditary', 'NNP', '', 'O') ('Haemochromatosis', 'NNP', '', 'O') ('13', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('Nature', 'NNP', '', 'O') ('Genetics', 'NNP', '', 'O') ('399', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1996', 'CD', '', 'O') (')', '-RRB-', '', 'O')
+4 399
+__NEW_SENT__
+('This', 'DT', '', 'O') ('group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('researchers', 'NNS', '', 'O') ('specifically', 'RB', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('further', 'JJ', '', 'O') ('refinement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('location', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('difficult', 'JJ', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('399', 'CD', 'CARDINAL', 'B')
+399
+__NEW_SENT__
+('This', 'DT', '', 'O') ('research', 'NN', '', 'O') ('resulted', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('numerous', 'JJ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('foreign', 'JJ', '', 'O') ('patents', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Hereditary', 'NNP', 'WORK_OF_ART', 'I') ('Hemochromatosis', 'NNP', 'WORK_OF_ART', 'I') ('Gene', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I')
+U.S. `` Hereditary Hemochromatosis Gene ''
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('exact', 'JJ', '', 'O') ('genetic_sequences', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('mutations', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') (':', ':', '', 'O') ('C282Y', 'NN', 'ORG', 'B') ('H63D', 'NN', 'ORG', 'I') ('and', 'CC', '', 'O') ('S65C', 'RB', '', 'O')
+three C282Y H63D
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'JJ', '', 'O') ('fig.4A', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('genetic_code', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('H63D', 'NN', '', 'O') ('and', 'CC', '', 'O') ('S65C_mutations', 'NNS', '', 'O') ('identified', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('24dBIG_TOKEN__2_and_24__BIG_TOKEN', 'NNP', 'CARDINAL', 'B') ('d7', 'NN', '', 'O') ('respectively', 'RB', '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('fig.4C', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('genetic_code', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('C282Y_mutation', 'NNP', '', 'O') ('identified', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('24d1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+24dBIG_TOKEN__2_and_24__BIG_TOKEN 24d1
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('the', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('genetic_tests', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('utilizing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('mutations', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('sequence', 'NN', '', 'O') ('variants', 'NNS', '', 'O') ('identified', 'VBN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.23', 'CD', '', 'O') ('ll.10-67', '.', '', 'O')
+
+__NEW_SENT__
+('Bio-Rad', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('licenses', 'VBZ', '', 'O') ('it', 'PRP', '', 'O') ('to', 'IN', '', 'O') ('ARUP', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('laboratory', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Utah', 'NNP', 'ORG', 'I') ('that', 'WDT', '', 'O') ('provides', 'VBZ', '', 'O') ('genetic_testing', 'JJ', '', 'O') ('services', 'NNS', '', 'O')
+the University of Utah
+__NEW_SENT__
+('Dr._Feder', 'NN', '', 'O') ('and', 'CC', '', 'O') ('his', 'PRP$', '', 'O') ('team', 'NN', '', 'O') ('published', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('discovery', 'NN', '', 'O') ('while', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('continuing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('search', 'VB', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hemochromatosis_gene', 'NN', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('mutations', 'NNS', '', 'O')
+ARUP
+__NEW_SENT__
+('In', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('1998', 'CD', 'DATE', 'I') ('a', 'DT', '', 'O') ('medical', 'JJ', '', 'O') ('director', 'NN', '', 'O') ('at', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('published', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('paper', 'NN', '', 'O') ('describing', 'VBG', '', 'O') ('how', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('genetic', 'JJ', '', 'O') ('probes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('H63D', 'NN', '', 'O') ('mutation', 'NN', '', 'O') ('also', 'RB', '', 'O') ('accidentally', 'RB', '', 'O') ('identified', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('nucleotide', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('A193T', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('corresponds', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('S65C_mutation', 'NNP', '', 'O')
+October 1998 ARUP
+__NEW_SENT__
+('ARUP', 'NNP', 'ORG', 'B') ('developed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('assay', 'NN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('genetic_test', 'NN', '', 'O') ('presently', 'RB', '', 'O') ('accused', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O')
+ARUP
+__NEW_SENT__
+('The', 'DT', '', 'O') ('assay', 'NN', '', 'O') ('detected', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('C282Y', 'NN', '', 'O') ('H63D', 'NN', '', 'O') ('and', 'CC', '', 'O') ('S65C_mutations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('samples', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('patients', 'NNS', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('time', 'NN', '', 'O') ('the', 'DT', '', 'O') ('Billups', 'NNP', 'NORP', 'B') ('researchers', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('used', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('genetic_sequences', 'NNS', '', 'O') ('discovered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Dr._Feder', 'NN', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('his', 'PRP$', '', 'O') ('team', 'NN', '', 'O') ('to', 'TO', '', 'O') ('refine', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('experiments', 'NNS', '', 'O')
+Billups Dr._Feder
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_26,_1999', 'NNP', 'GPE', 'B') ('Dr._Rothenberg', 'NNP', '', 'O') ('Dr.', 'NNP', '', 'O') ('Sawada-Hirai', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('collaborator', 'NN', '', 'O') ('Dr.', 'NNP', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('Barton', 'NNP', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('matured', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NN', '', 'O')
+March_26,_1999 Sawada-Hirai James Barton
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'ORG', 'B') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('diagnosing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('iron_disorder', 'NN', '', 'O') ('by', 'IN', '', 'O') ('testing', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('genetic', 'JJ', '', 'O') ('mutations', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('S65C', 'RB', '', 'O')
+¡¬425_patent
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'NORP', 'B') ('appears', 'VBZ', '', 'O') ('below', 'RB', '', 'O') (':', ':', '', 'O') ('*1035', 'VB', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 ¡¬425_patent 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('diagnosing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('iron_disorder', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('genetic_susceptibility', 'NN', '', 'O') ('to', 'IN', '', 'O') ('developing', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('disorder', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mammal', 'JJ', '', 'O') ('comprising', 'NN', '', 'O') ('determining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('exon', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('HFE', 'NNP', 'ORG', 'B') ('nucleic', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('biological', 'JJ', '', 'O') ('sample', 'NN', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('mammal', 'JJ', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('mutation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('a', 'DT', '', 'O') ('C¡÷G', 'JJ', '', 'O') ('substitution', 'NN', '', 'O') ('at', 'IN', '', 'O') ('nucleotide', 'NN', '', 'O') ('187', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('SEQ', 'NNP', '', 'O') ('ID', 'NNP', '', 'O') ('NO', 'NN', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('mutation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('indicative', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('disorder', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('genetic_susceptibility', 'NN', '', 'O') ('to', 'IN', '', 'O') ('developing', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('disorder', 'NN', '', 'O')
+2 HFE 187 1
+__NEW_SENT__
+('¡¬425_patent', 'NN', '', 'O') ('col.59', 'NN', '', 'O') ('ll.19-26', 'NN', '', 'O')
+
+__NEW_SENT__
+('Table', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'ORG', 'B') ('labels', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('genetic_sequence', 'NN', '', 'O') ('identical', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('genetic_sequence', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('4A', 'NN', 'PRODUCT', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('S65C', 'RB', '', 'O') ("''", "''", '', 'O')
+1 ¡¬425_patent 4A
+__NEW_SENT__
+('Cf', 'UH', '', 'O')
+
+__NEW_SENT__
+('¡¬425_patent', 'NN', '', 'O') ('col.1-BIG_TOKEN__2_Table_1_', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('gagagtcgcc', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('__BIG_TOKEN', 'NNP', '', 'O') (';', ':', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('fig.4A', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('gagagtcgcc', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'ORG', 'B') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('twenty', 'CD', 'CARDINAL', 'B') ('hemochromatosis', 'NN', '', 'O') ('patients', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('S65C_mutation', 'NNP', '', 'O')
+¡¬425_patent two twenty
+__NEW_SENT__
+('¡¬425_patent', 'NN', '', 'O') ('col.31', 'NNP', '', 'O') ('ll.20-BIG_TOKEN__37_table_6__BIG_TOKEN', 'NN', '', 'O') ('col.32', 'XX', '', 'O') ('l.8', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Probands', 'NNS', '', 'O') ('3_and_4', 'CD', '', 'O') ('had', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('S65C_mutation', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'ORG', 'B') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('S65C_mutation', 'NNP', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('diagnose', 'VB', '', 'O') ('hemochromatosis', 'NN', '', 'O')
+¡¬425_patent
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.32', 'CD', '', 'O') ('ll.8-13', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2009', 'CD', 'DATE', 'B') ('Billups', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'RB', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O')
+2009 Billups ARUP
+__NEW_SENT__
+('Billups', 'NNS', '', 'O') ('amended', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('complaint', 'NN', '', 'O') ('and', 'CC', '', 'O') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('providing', 'VBG', '', 'O') ('and/or', 'CC', '', 'O') ('using', 'VBG', '', 'O') ('diagnostic', 'JJ', '', 'O') ('assays', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('kits', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('detecting', 'VBG', '', 'O') ('hemochromatosis', 'NN', '', 'O') ("''", "''", '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('C282Y', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('S65C_mutations', 'NNS', '', 'O')
+ARUP one C282Y
+__NEW_SENT__
+('Am', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Compl', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('14', 'CD', 'CARDINAL', 'B')
+14
+__NEW_SENT__
+('After', 'IN', '', 'O') ('completion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('discovery', 'NN', '', 'O') ('a', 'DT', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('hearing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+Markman
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('to', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'RB', '', 'O')
+ARUP
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('undisputed', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('``', '``', '', 'O') ('The', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hemochromatosis_gene', 'NN', '', 'O') ('and/or', 'CC', '', 'O') ('sequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('C282Y_mutation', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('expressly', 'RB', '', 'O') ('specified', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('681', 'CD', '', 'O') ('patent', 'NN', '', 'O') ("''", "''", '', 'O')
+¡¬
+__NEW_SENT__
+('Summ', 'NNP', '', 'O')
+
+__NEW_SENT__
+('J', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Order', 'NN', '', 'O') ('3', 'CD', 'CARDINAL', 'B')
+3
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('``', '``', '', 'O') ('undisputed', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('no', 'DT', '', 'O') ('species', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('genus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('DNA', 'NN', '', 'O') ('mutations', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('identify', 'VB', '', 'O') ('an', 'DT', '', 'O') ('individual', 'NN', '', 'O') ('as', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('being', 'VBG', '', 'O') ('predisposed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('hemochromatosis', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('specification', 'NN', '', 'O') ("''", "''", '', 'O')
+¡¬681_patent
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('6', 'CD', 'CARDINAL', 'B')
+6
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('further', 'RB', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('escribing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('protein', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('describing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('mutations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('to', 'TO', '', 'O') ('test', 'VB', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('mutation', 'NN', '', 'O') ('not', 'RB', '', 'O') ('a', 'DT', '', 'O') ('test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('defective', 'JJ', '', 'O') ('protein', 'NN', '', 'O') ("''", "''", '', 'O')
+¡¬681_patent
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('explained', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('patentee', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('merely', 'RB', '', 'O') ('directed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('general', 'JJ', '', 'O') ('location', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('chromosome', 'NN', '', 'O') ('and', 'CC', '', 'O') ('suggested', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('found', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('that', 'DT', '', 'O') ('vicinity', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('8', 'CD', 'CARDINAL', 'B')
+8
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('invalid', 'NN', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O')
+¡¬681_patent
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'DT', 'ORG', 'B') ("'s", 'POS', '', 'O') ('enablement', 'NN', '', 'O') ('arguments', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('``', '``', '', 'O') ('persuasive', 'JJ', '', 'O') ("''", "''", '', 'O') ('but', 'CC', '', 'O') ('declined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('rule', 'VB', '', 'O') ('on', 'IN', '', 'O') ('them', 'PRP', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('ruling', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('failed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description_requirement', 'NN', '', 'O')
+ARUP Bio-Rad
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('9', 'CD', 'CARDINAL', 'B')
+9
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'CARDINAL', 'B') ('425', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O')
+¡¬ 425
+__NEW_SENT__
+('First', 'RB', 'ORDINAL', 'B') ('it', 'PRP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Bio-Rad', 'RB', '', 'O') ("'s", 'VBZ', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('e', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('May_23,_1996', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('March', 'NNP', 'DATE', 'B') ('1999', 'CD', 'DATE', 'I') ('filing', 'NN', '', 'O') ('date', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NN', '', 'O')
+First 35 102 May_23,_1996 March 1999
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('3-4', 'CD', 'CARDINAL', 'B') ('10', 'CD', 'CARDINAL', 'I')
+3-4 10
+__NEW_SENT__
+('Then', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('anticipated', 'VBN', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('claim', 'VBP', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('genetic_test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('S65C', 'RB', '', 'O') ('as', 'IN', '', 'O') ('is', 'VBZ', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬130_patent', 'NNP', '', 'O') ("''", "''", '', 'O')
+¡¬425_patent
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('10', 'CD', 'CARDINAL', 'B')
+10
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ARUP', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bio-Rad', 'RB', '', 'O') ('dismissing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O')
+ARUP
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('over', 'IN', '', 'O') ('Billups', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('timely', 'RB', '', 'O') ('filed', 'VBN', '', 'O') ('appeal', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+Billups 28 1
+__NEW_SENT__
+('*1036', 'FW', '', 'O') ('DISCUSSION', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('reviews', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('de', 'FW', '', 'O') ('novo', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'NN', '', 'O') ('Amgen', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Hoechst', 'NNP', 'ORG', 'B') ('Marion', 'NNP', 'ORG', 'I') ('Roussel', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('314_F.3d_1313', 'CD', '', 'O') ('1339', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.2003', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Amgen Inc. Hoechst Marion Roussel Inc.
+__NEW_SENT__
+('Summary', 'NN', '', 'O') ('judgment', 'NN', '', 'O') ('must', 'MD', '', 'O') ('be', 'VB', '', 'O') ('granted', 'VBN', '', 'O') ('when', 'WRB', '', 'O') ('drawing', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('reasonable', 'JJ', '', 'O') ('inferences', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('non-movant', 'NN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('genuine', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('any', 'DT', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O')
+
+__NEW_SENT__
+('Anderson', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Liberty', 'NNP', 'ORG', 'B') ('Lobby', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('477_U.S._242', 'CD', '', 'O') ('248', 'CD', '', 'O') ('106_S.Ct._2505', 'CD', '', 'O') ('91_L.Ed.2d_202_(1986)', 'CD', '', 'O') (';', ':', '', 'O') ('Fed.R.Civ.P', 'NNS', '', 'O')
+Anderson Liberty Lobby Inc.
+__NEW_SENT__
+('56', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+56
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('examine', 'VBP', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬681_patent', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O')
+first ¡¬681_patent
+__NEW_SENT__
+('Then', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('determine', 'VBP', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬425_patent', 'NNP', 'NORP', 'B') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O')
+¡¬425_patent
+__NEW_SENT__

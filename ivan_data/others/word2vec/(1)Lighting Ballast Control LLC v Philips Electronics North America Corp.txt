@@ -1,0 +1,363 @@
+790_f.3d_1329
+united states court of appeals federal circuit
+lighting ballast control llc plaintiff-appellee
+v. philips electronics north america corporation defendant
+universal lighting technologies inc. defendant-appellant
+no._2012-1014
+| june_23,_2015
+synopsis
+background assignee brought action claiming infringement of lighting ballast_patent
+the united states district court for the northern district of texas reed o'connor j. 2010_wl_4946343 construed the claims and granted judgment for assignee after jury_verdict in its favor
+on appeal a court of appeals panel reversed 498_fed.appx._986 but assignees subsequent request for rehearing en banc was granted 500_fed.appx._951 and the court of appeals 744_f.3d_1272 reinstated the decision
+the supreme_court -- - u.s. -- -- 135_s.ct._1173 191_l.ed.2d_130 vacated and remanded after granting petition for certiorari
+
+holdings on remand the court of appeals reyna circuit_judge held that
+
+competitor was not required to object to jury_instructions to preserve issue for appeal as to whether term` voltage_source_means' in lighting ballast_patent was invalid for indefiniteness ;
+
+claims conveyed defined structure to one of ordinary_skill in the art and thus term` voltage_source_means' in lighting ballast_patent was not invalid for indefiniteness ;
+
+district_court could rely on extrinsic_evidence to determine whether claim in lighting ballast_patent conveyed defined structure to one of ordinary_skill in the art ;
+
+competitor had to present the invalidity question to the jury in order to preserve its right to raise it on appeal ;
+
+term` direct_current_blocking_means' required capacitor or diode at every output_terminal ;
+
+substantial_evidence supported jurys verdict that` direct_current_blocking_means' claim had not been anticipated by prior art ;
+
+term` defective' meant whenever direct_current_path between two terminals was broken ; and
+
+substantial_evidence supported jurys verdict that competitor infringed` control_means' claim
+
+affirmed
+
+attorneys and law firms
+*1332 jonathan tad suder friedman suder & cooke fort worth tx for plaintiff-appellee
+also represented by david arthur skeels ; robert greenspoon flachsbart & greenspoon llc chicago il ; andrew john dhuey berkeley ca
+steven j. routh orrick herrington & sutcliffe llp washington dc for defendant-appellant
+also represented by sten jensen t. vann pearce jr. diana m. szego ; john r. inge tokyo japan
+leonard agneta university of maine_school of law portland me for amicus_curiae university of maine_school of law dba maine patent program
+george c. summerfield jr. stadheim & grear ltd. chicago il for amici curiae wisconsin alumni research foundation nutech ventures inc. stc.unm unemed corporation telecommunications research laboratories dba tr tech rensselaer polytechnic institute tec edmonton the public patent foundation
+also represented by rolf stadheim
+maxim h. waldbaum eaton & van winkle llp new_york n.y. for amicus_curiae federation internationale des conseils en propriete industrielle
+also represented by robert katz katz pllc dallas tx
+andy ivan niranjan corea st. onge steward johnston & reens llc stamford ct for amicus_curiae connecticut intellectual property law association
+also represented by stephen patrick mcnamara todd m. oberdick
+william larry respess sheppard mullin richter & hampton llp san_diego ca for amicus_curiae the san_diego intellectual property law association
+joseph r. re knobbe martens olson & bear llp irvine ca for amicus_curiae federal circuit bar association
+also represented by sheila n. swaroop ; joseph m. reisman san_diego ca ; terence patrick stewart stewart & stewart washington dc
+janet beth linn eckert seamans cherin & mellott llc white plains n.y. for amicus_curiae the association of the bar of the city of new_york
+charles w. shifley banner & witcoff ltd. chicago il for amicus_curiae intellectual property law association of chicago
+john w. shaw shaw keller llp wilmington de for amicus_curiae delaware chapter of the federal bar association
+also represented by karen e. keller
+charles hieken fish & richardson p.c. boston ma for amicus_curiae paul r. michel
+also represented by john a. dragseth minneapolis mn
+chidambaram subramanian iyer sughrue mion pllc washington dc for *1333 amicus_curiae sigram schindler beteiligungsgesellschaft mbh
+jennifer_kuhn law office of jennifer_kuhn austin tx for amicus_curiae austin intellectual property law association
+also represented by aden m. allen wilson sonsini goodrich & rosati pc austin tx
+harry c. marcus locke_lord llp new_york n.y. for amicus_curiae american intellectual property law association
+also represented by robert k. goethals ; joseph anthony farco locke_lord bissell & liddell llp new_york n.y. ; jeffrey i.d
+lewis fried frank harris shriver & jacobson llp new_york n.y. laurel g. bellows bellows and bellows p.c. chicago il for amicus_curiae american bar association
+also represented by robert francis altherr jr. paul michael rivard banner & witcoff ltd. washington dc
+john d. vandenberg klarquist sparkman llp portland or for amicus_curiae microsoft corporation
+also represented by andrew m. mason
+thomas g. hungar gibson dunn & crutcher llp washington dc for amici curiae cisco systems inc. dell inc. emc corporation intel corporation sap america inc. sas institute inc. also represented by matthew d. mcgill ; alexander n. harris san_francisco ca
+r. carl moy william_mitchell_college of law st._paul mn for amicus_curiae intellectual property institute of the william_mitchell_college of law
+daryl joseffer king & spalding llp washington dc for amici curiae google inc. amazon.com inc. hewlett-packard company red hat inc. yahoo !
+inc. also represented by adam conrad charlotte nc
+nathan k. kelley office of the solicitor united states patent and trademark office alexandria va for amicus_curiae united states
+also represented by robert j. mcmanus kristi l.r
+sawert ; mark r. freeman scott r. mcintosh appellate staff civil division united states department of justice washington dc
+paul h. berghoff mcdonnell boehnen hulbert & berghoff llp chicago il for amicus_curiae intellectual property owners association
+also represented by christopher d. butts ; richard f. phillips exxonmobil chemical company houston tx ; kevin h. rhodes 3m innovative properties company st._paul mn ; herbert clare wamsley jr. intellectual property owners association washington dc
+roger lee cook kilpatrick townsend & stockton llp san_francisco ca for amicus_curiae ad hoc committee of patent owners
+peter s. menell university of california berkeley school of law berkeley ca for amicus_curiae peter s. menell
+before lourie o'malley and reyna circuit_judges.1
+opinion
+reyna circuit_judge
+this case returns to us on remand from the supreme_court of the united states and was returned to the panel for reconsideration in light of *1334 teva_pharmaceuticals_usa inc. v. sandoz inc. 574 u.s. -- -- 135_s.ct._831 -- -l.ed.2d -- -- 2015
+appellant universal lighting technologies inc.` ult' appeals four issues
+we affirm
+
+i
+a
+background of the technology
+high levels of current are required to cause a fluorescent lamp to emit visible light
+as the panel explained in the initial panel opinion in this case lighting_ballast_control_llc v. philips_elecs
+n._am corp.` lighting_ballast i` 498_fed.appx._986 fed.cir.2013 fluorescent lamp fixtures typically include an electronic_ballast to regulate electric current flow
+an electronic_ballast is a device that maintains current levels high enough to start the lamp but that prevents current from reaching destructive_levels
+when a lamp is removed from its holders or when a filament is broken current provided by the ballast suddenly ceases to flow through the lamp and dissipates back into the ballast_circuitry
+the dissipated current can destroy the ballast and create an electric shock hazard for someone servicing the lamp
+
+u.s. patent no._5436,529` the ¡¬529_patent` assigned to lighting_ballast llc` lighting_ballast' discloses an electronic_ballast with the ability to shield itself from destructive_levels of current when a lamp is removed or becomes defective
+¡¬529_patent_col. 2_ll._39 -47
+
+claim 1 recites 1
+an energy conversion device employing an oscillating resonant converter producing oscillations having dc_input_terminals producing a control_signal and adapted to power at least one gas_discharge_lamp having heatable filaments the device comprising voltage_source_means providing a constant or variable_magnitude_dc_voltage between the dc_input_terminals ; output_terminals connected to the filaments of the gas_discharge_lamp ; control_means capable of receiving control_signals from the dc_input_terminals and from the resonant converter and operable to effectively initiate the oscillations and to effectively stop the oscillations of the converter ; and direct_current_blocking_means coupled to the output_terminals and operable to stop flow of the control_signal from the dc_input_terminals whenever at least one gas_discharge_lamp is removed from the output_terminals or is defective
+¡¬529_patent_col. 11_ll._49 -68 emphasis added to relevant terms
+
+b
+procedural history
+on february 24 2009 lighting_ballast filed suit against ult asserting infringement of the ¡¬529_patent
+the parties engaged in claim_construction briefing and the court held a hearing thereon
+ult argued that the term` voltage_source_means' is governed by 35 u.s.c.¡± 112 ?
+6 and that the claims are invalid under 35 u.s.c.¡± 112 ?
+2 as indefinite because the specification fails to disclose what structure corresponded to the` voltage_source_means' limitation
+the district_court initially agreed with ult
+
+lighting_ballast filed a motion for reconsideration
+the district_court reversed course finding that its initial_construction of` voltage_source_means' was incorrect
+the district_court noted that its prior_ruling` unduly discounted the unchallenged_expert_testimony' and` exalted form over substance and disregarded the knowledge *1335 of a person of ordinary_skill in the art'
+lighting_ballast_control llc v. philips_elecs
+n._am corp. no._709-cv-29 2010_wl_4946343 at *12 n.d.tex
+dec._2,_2010
+the district_court cited testimony from an expert for lighting_ballast dr._victor_roberts and the inventor andrzej_bobel both of whom testified that one of skill in the art would understand the claimed` voltage_source_means' to correspond to a rectifier which converts alternating current` ac' to direct current` dc' or other_structure capable of supplying useable_voltage to the device
+thus the district_court concluded that the term` voltage_source_means' had sufficient_structure to avoid the strictures of ¡± 112 ?
+6 and denied ults motion
+
+thereafter ult renewed its argument that the asserted claims are invalid as indefinite this time couched as a motion for summary_judgment
+j.a
+62
+the district_court noted that` ult presents no additional basis for holding the asserted claims invalid'
+id
+the district_court thus declined to revisit the issue for a third_time and adopted its prior findings and analysis regarding the definiteness of the asserted claims
+id
+
+starting on june_13,_2011 the district_court held a jury trial on the issue of whether ults accused lighting ballast products infringe claims 1 2 and 5 of the ¡¬529_patent
+the jury returned a verdict finding the ¡¬529_patent valid and infringed and awarded $ 3 million in damages to lighting_ballast
+
+ult moved for judgment as a matter of law` jmol' on three grounds as relevant to this appeal 1 the record does not contain legally sufficient_evidence that the accused ult_products meet the` direct_current_blocking_means' limitation of claim 1 of the ¡¬529_patent ; 2 the record does not contain legally sufficient_evidence that the accused ult_products meet the` connected to' limitation of claim 1 of the ¡¬529_patent ; 3 the record does not contain legally sufficient_evidence that the accused products meet the` control_means' limitation
+the district_court denied the relevant portions of ults jmol
+ult appealed
+
+after an initial panel decision reversing the judgment of the district_court regarding indefiniteness of the asserted claims based on the` voltage_source_means' limitation lighting_ballast i this court granted lighting_ballasts petition for rehearing en banc lighting_ballast_control_llc v. philips_elecs
+n._am corp. 500_fed.appx._951 fed.cir.2013 in order to reconsider the holding in cybor corp. v. fas technologies inc. 138_f.3d_1448_(fed.cir.1998) en banc establishing the standard of appellate review of district_court claim_construction decisions
+the case was heard en banc on september 13 2013
+the court issued an opinion affirming that claim_construction is an issue of law that this court reviews de novo
+lighting_ballast_control_llc v. philips_elecs
+n._am corp.` lighting_ballast ii` 744_f.3d_1272 fed.cir.2014 en banc
+lighting_ballast filed a petition for a writ of certiorari with the supreme_court
+
+before the supreme_court acted on the petition it issued an opinion in teva_pharmaceuticals_usa inc. v. sandoz inc. 574 u.s. -- -- 135_s.ct._831 -- - l.ed.2d -- -- 2015
+in that case the supreme_court reversed a decision from this court holding that while the ultimate question of the proper_construction of a claim is a legal question that this court reviews de novo there may be underlying` subsidiary' factual_findings by the district_court related to the extrinsic record that are reviewed *1336 for clear_error
+the supreme_court held that this conclusion flows from rule 52 of the federal_rules of civil_procedure and the supreme_courts prior opinions such as markman v. westview_instruments inc. 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+
+thereafter the supreme_court granted lighting_ballasts petition for a writ of certiorari vacated the en banc opinion and remanded it to this court for further consideration in light of teva
+
+ii
+a
+`` voltage source means' as noted above the district_court initially construed the` voltage_source_means' limitation in claim 1 of the ¡¬529_patent as a means-plus-function limitation
+based on this conclusion the court looked for a disclosed structure in the specification to correspond to the voltage_source function but found none
+these combined conclusions rendered the patent invalid as indefinite
+after lighting_ballast filed a motion for reconsideration the district_court reversed course finding that its initial_construction of` voltage_source_means' was incorrect
+the district_court noted that its prior_ruling` unduly discounted the unchallenged_expert_testimony' and` exalted form over substance and disregarded the knowledge of a person of ordinary_skill in the art'
+lighting_ballast_control llc v. philips_elecs
+n._am corp. no._709-cv-29 2010_wl_4946343 at *10 *12 n.d.tex
+dec._2,_2010
+the district_court cited testimony from an expert for lighting_ballast dr._victor_roberts and the inventor andrzej_bobel both of whom testified that one of skill in the art would understand the claimed` voltage_source_means' to correspond to a rectifier which converts alternating current` ac' to direct current` dc' or other_structure capable of supplying useable_voltage to the device
+thus the district_court concluded that the term` voltage_source_means' had sufficient_structure to avoid the strictures of ¡± 112 ?
+6
+the district_court reconfirmed this finding when it denied ults motion for summary_judgment of invalidity expressly stating it would not consider the question again
+
+ult argues that the district_court erred when it held that the term` voltage_source_means' is not governed by ¡± 112 ?
+6 both in response to lighting_ballasts motion for reconsideration and in response to ults later motion for summary_judgment
+ult contends that the extrinsic_evidence presented by lighting_ballast and accepted by the district_court can not overcome the presumption that the term is in means-plus-function format for two reasons
+first ult believes that lighting_ballast failed to identify intrinsic_evidence showing that a person of ordinary_skill in the art would understand` voltage_source_means' to be structural
+second ult contends that at best` voltage_source_means' refers to any structure capable of performing that function rather than the definite structure of a rectifier as employed in ults products
+ult contends that because the written description of the specification fails to disclose structure corresponding to the claimed function of the` voltage_source_means' and the extrinsic_evidence offered did not adequately identify a single structure the asserted claims are invalid
+
+citing rule 51 of the federal_rules of civil_procedure lighting_ballast argues that ult waived any argument regarding the proper_construction of` voltage_source_means' by failing to raise the issue in *1337 either its pre- or post-verdict motions for judgment as a matter of law
+lighting_ballast also argues that ortiz v. jordan 562_u.s._180 131_s.ct._884 178_l.ed.2d_703_(2011) prevents ult from appealing the denial of ults summary_judgment motion regarding indefiniteness because ortiz forbids a party from appealing from an order denying summary_judgment after a full trial on the merits
+in the alternative lighting_ballast argues that the district_courts construction was correct because this courts precedent allows` use of even purely functional claim language to show that the limitation as a whole suggests structure'
+appellees resp
+br.at 40
+lighting_ballast contends that a person of ordinary_skill in the art would immediately recognize the implicit disclosure of a rectifier in the` voltage_source_means' limitation
+lighting_ballast concludes that ult can not show clear_error in the district_courts consideration of the extrinsic_evidence in reaching the conclusion that ult failed to meet its burden to prove the ¡¬529_patent invalid as indefinite
+
+as a preliminary matter we reject lighting_ballasts argument that ult waived its argument regarding` voltage_source_means' because ult was not required to object to claim_construction under rule 51 after ult made its claim_construction position clear to the court and the court rejected it
+we disagree that ortiz v. jordan controls here
+ortiz addressed a circumstance in which a trial court denied summary_judgment on grounds that material issues of fact prevented judgment as a matter of law
+in those circumstances the defendant remained obliged to present its argument to the trier of fact and failure to do so prevented raising it on appeal
+while the third and final time the district_court addressed the issue of indefiniteness based on the term` voltage_source_means' was in the context of summary_judgment the issue of whether a claim term is governed by ¡± 112 ?
+6 is a claim_construction issue
+personalized media commc'ns llc v. int l trade comm n 161_f.3d_696 702 fed.cir.1998` [ w ] hether certain_claim_language invokes 35 u.s.c.¡± 112 ?
+6 is an exercise in claim_construction' ; see also robert bosch llc v. snap-on inc. 769_f.3d_1094 1098 fed.cir.2014` [ d ] etermining whether certain_claim_language invokes ¡± 112 ?
+6 is an exercise in claim_construction' internal_quotations omitted
+and claim_construction is an issue for the court not the jury
+markman v. westview_instruments inc. 517_u.s._370 391 116_s.ct._1384 134_l.ed.2d_577_(1996)
+when the district_court denied ults motion for summary_judgment it did not conclude that issues of fact precluded judgment ; it effectively entered judgment of validity to lighting_ballast
+
+we conclude that ult did not waive its argument that the asserted claims are invalid for indefiniteness
+it is generally accepted that a district_courts claim_construction order is within the class of decisions that do not terminate litigation and yet may be appealed upon resolution of the case and issuance of a final_judgment
+see e.g. o2 micro int l ltd. v. beyond innovation tech co. 521_f.3d_1351 1359 fed.cir.2008 holding that under fifth_circuit_law the appellants arguments on appeal regarding claim_construction were not waived even though appellants did not object to the jury_instructions because the arguments were made clear to the district_court and the district_court did not clearly indicate that it was open to changing its claim_construction citation omitted ; *1338 creo prod. inc. v. presstek inc. 305_f.3d_1337 1346 fed.cir.2002 finding that party preserved its indefiniteness argument regarding the application of ¡± 112 ?
+6 for appeal because the district_court resolved the issue prior to appeal
+as ult points out in its brief ult argued before the district_court that the asserted claims were indefinite under ¡± 112 ?
+2 because the term` voltage_source_means' was governed by ¡± 112 ?
+6 and lacked corresponding structure in the written description
+the district_court addressed this issue during claim_construction proceedings
+the district_court initially accepted ults position j.a
+804-15 reversed itself thereafter id.at 16-24 and declined to resolve the issue a third_time when ult moved for summary_judgment on this issue id.at 62
+this is sufficient to preserve the issue for appeal
+
+rule 51 does not change this result where a partys position on claim_construction is made clear before the district_court and the district_court has rejected that position
+see taita chem co. ltd. v. westlake styrene lp 351_f.3d_663 667-68 5th cir.2003 stating that a party may be excused from objecting to a jury_charge under rule 51 of the federal_rules of civil_procedure where the partys position is clear from the record and the district_court made clear that a further_objection would be unavailing such as where a party previously filed objections and the district_court made clear no more objections would be heard ; lang v. texas & p. ry co. 624_f.2d_1275 1279 5th cir.1980` [ rule 51 of the federal_rules of civil_procedure ] is not without exceptions [ ] and the failure to object [ to the jury_charge ] may be disregarded if the partys position has previously been made clear to the court and it is plain that a further_objection would have been unavailing
+`` ; see also cardiac pacemakers inc. v. st. jude medical inc. 381_f.3d_1371 1381 fed.cir.2004` when the claim_construction is resolved pre-trial and the patentee presented the same position in the markman proceeding as is now pressed a further_objection to the district_courts pre-trial ruling may indeed have been not only futile but unnecessary..
+objection under rule 51 [ of the federal_rules of civil_procedure ] was not required to preserve the right to appeal the markman ruling'
+( under seventh circuit law
+ult was not required to object to the jury_instructions to preserve this issue for appeal because it made clear to the district_court its position on the issue and the issue was finally resolved by the district_court prior to trial
+
+having addressed the preliminary issue of waiver we now move to the merits
+the district_court made findings of fact based on extrinsic_evidence
+see teva 574 u.s. at -- -- 135 s.ct.at 842
+under the circumstances it was not legal error for the district_court to rely on extrinsic_evidence because the extrinsic_evidence was` not used to contradict claim meaning that is unambiguous in light of the intrinsic_evidence'
+phillips v. awh corp. 415_f.3d_1303 1324 fed.cir.2005
+for example the district_court determined that` while thevoltage_source_means term does not denote a specific structure it is nevertheless understood by persons of skill in the lighting ballast design art to connote a class of structures namely a rectifier or structure to rectify the ac power line into a dc_voltage for the dc_input_terminals'
+j.a
+22
+the district_court went on to note that the language following` voltage_source_means' in the claim-' providing a constant or variable_magnitude_dc_voltage between the dc_input_terminals' -' when read by one familiar with the use and function of a lighting *1339 ballast such as the one disclosed by the 529 patent [ sic ] would understand a rectifier is at least in common uses the only structure that would provide a constant or variable_magnitude_dc_voltage`
+id.at 23
+the district_court further noted that` [ i ] t is clear to one skilled in the art that to provide a dc_voltage when the source is a power line which provides an ac voltage a structure to rectify the line is required and is clear from the language of thevoltage_source_means term'
+id
+we defer to these factual_findings absent a showing that they are clearly erroneous
+
+the district_courts factual_findings are supported by the record
+specifically these factual_findings are supported by the testimony of dr._roberts and mr._bobel
+mr._bobel testified in his deposition that the` voltage_source_means' limitation connotes a rectifier to one skilled in the art
+mr._bobel further explained that a battery could likewise provide the necessary dc_supply_voltage described in the patent
+similarly dr._roberts explained that the` voltage_source_means' limitation suggests to him a sufficient_structure or class of structures namely a rectifier if converting ac from a` power line source' to dc for a` dc_supply_voltage' or a battery if providing the dc_supply_voltage directly to the dc_input_terminals
+this expert testimony supports a conclusion that the limitations convey a defined structure to one of ordinary_skill in the art
+see rembrandt data techs. lp v. aol llc 641_f.3d_1331 1341 fed.cir.2011
+because the district_courts factual_findings demonstrate that the claims convey sufficient_structure the district_court was correct to conclude that the term` voltage_source_means' is not governed by ¡± 112 ?
+6
+as such we affirm the district_courts decision concerning` voltage_source_means'
+
+b
+`` direct current blocking means' the district_court initially construed the term` direct_current_blocking_means' to be governed by ¡± 112 ?
+6
+the district_court then determined that a capacitor or diode was the disclosed corresponding structure
+the district_court later amended this construction to indicate that this term requires that each set of output_terminals be connected to a dc blocking capacitor
+j.a
+58
+
+ult argues that the district_court erred when it modified its construction of the` direct_current_blocking_means' term by improperly adding a requirement that each set of output_terminals be connected to a dc blocking capacitor
+ult argues that without this limitation on the claim it is clear that the asserted claims are anticipated by two prior art references jp 1-157099` jp_¡¬099' and jp 61-153997` jp_¡¬997'
+
+lighting_ballast counters that ult failed to preserve any issues related to jp_¡¬099 for appeal by not raising jp_¡¬099 before the jury
+lighting_ballast also contends that ults arguments fail on the merits.2
+
+as noted above where the issue raised in a motion for summary_judgment is a pure question of law or as in the case of claim_construction an issue for the court to decide the denial of a partys motion for summary_judgment generally *1340 results in a reciprocal grant of summary_judgment to the other party
+for issues of fact like anticipation on the other_hand the denial of a motion for summary_judgment usually only indicates that there are questions of fact to be resolved
+in this case the parties treated the district_courts denial of ults motion for summary_judgment of invalidity as though it was a grant of a motion for summary_judgment of no anticipation based on jp_¡¬099 see j.a
+5234 even though no such motion was ever filed
+anticipation is a question of fact that is ultimately for the jury to decide
+while ult argues it could not have prevailed on its anticipation defense if operating under the district_courts amended claim_construction we have no factual record upon which to assess that argument
+we conclude that absent a stipulation between the parties regarding anticipation ult had to present the question to the jury in order to preserve its right to raise it before us
+
+we turn to the issue of anticipation by jp_¡¬997
+the district_court_construed` direct_current_blocking_means' as requiring a capacitor or diode at every output_terminal
+because jp_¡¬997 does not disclose a capacitor or diode at every output_terminal the district_court concluded that a material fact existed as to whether jp_¡¬997 anticipates the claims
+the parties disputed the issue at trial and the jury returned a verdict of no anticipation
+
+the parties agree that the term` direct_current_blocking_means' is governed by ¡± 112 ?
+6
+the parties also agree that the corresponding structure is a collection of capacitors or diodes
+the only point of disagreement is whether the structure requires a capacitor/diode coupled to every set of output_terminals or only those through which the dc control_signal passes and whether under the correct construction jp_¡¬997 anticipates the asserted claims
+
+ult has failed to show reversible error in the district_courts construction of the term` direct_current_blocking_means'
+claim 1 recites` output_terminals' and a` direct_current_blocking_means coupled to the output_terminals..' the plain language of the claims requires a direct_current_blocking_means at every output_terminal
+under the district_courts construction the jurys verdict is supported by substantial_evidence
+at trial dr. zane testified that jp_¡¬997 does not teach a dc_blocking_means attached to each of the output_terminals
+j.a
+13340-41
+dr. giesselmann failed to offer any testimony regarding structural equivalency
+as such we hold that the district_courts construction of` direct_current_blocking_means' was not erroneous and that the jurys verdict of no anticipation is supported by substantial_evidence
+
+c.` whenever..
+defective' we turn to the construction of` whenever at least one discharge lamp is removed from the output_terminals or is defective'
+the` direct_current_blocking_means' recited in claim 1 is` operable to stop flow of the control_signal from the dc_input_terminals whenever at least one gas_discharge_lamp.. is defective
+`` 3 the district_court_construed` defective' to mean` whenever the direct_current_path between [ two terminals ] is broken'
+a51
+*1341 the court relied on the following language in the specification for support` the [ direct_current_blocking_means ] will be held discharged for any period of time as long as i there is an unbroken direct_current_path dcp between terminal b+ and terminal cta..'
+
+the district_courts construction is supported by the intrinsic record
+the dc_blocking_means does not block control_signal when a lamp is inserted into its holders and has a working filament
+there is no need to block current in this instance because the circuit is closed and there is no danger that current will dissipate into the ballast_circuitry
+as the district_court recognized on the other_hand the dc_blocking_means blocks control_signal when a lamp is removed or when the lamp has a broken filament i.e. when the direct_current_path between the relevant terminals terminals b+ and cta is broken
+as a result the district_courts claim_construction was not erroneous
+
+d.` connected to' before trial the parties did not propose that the district_court_construe the term` connected to'
+ult did not ask for its proposed construction until after trial
+in resolving ults motion for jmol the district_court_construed the term to mean the same thing as` for connection to'
+
+ult argues that its accused products do not include` output_terminals connected to the filaments' of a lamp as required by claims 1 2 and 5 because the term means something different from` for connection to'
+lighting_ballast argues that ult waived this argument
+we agree
+
+ult waived its right to seek a new claim_construction because ult did not seek that construction until after trial
+as in broadcom corp. v. qualcomm inc. this case` falls squarely within our holding in eli_lilly & company v. aradigm corporation where a partynever requested that the district_court_construe any terms in the relevant claim and never offered a construction of that claim but rather only after the presentation of all of the evidence to the jury.. even suggested that claim_construction might be helpful to determine the proper scope of the claimed invention
+`` 543_f.3d_683 694 fed.cir.2008 quoting eli_lilly 376_f.3d_1352 1360 fed.cir.2004 internal_quotations and brackets omitted
+we hold that ult has waived its right to request a construction of` connected to' and that ult implicitly conceded that the meanings of` connected to' is clear and not in need of construction
+
+e.` control means' ult argues that the district erred in denying jmol on the basis of infringement of the` control_means' limitation under the doctrine of equivalents
+ult contends that it does not infringe the asserted claims because the control circuits in the accused products allow a ballast to continue to draw power after shutdown a feature that differentiates the accused products from the` control_means' limitation of claim 1
+according to ult the ¡¬529_patent disclaims circuits like the accused circuits that draw power after shutdown by distinguishing such circuits from the` control_means' feature
+ult also highlights a number of other ways in which ults products differ from the` control_means' limitation of claim 1
+
+lighting_ballast counters that substantial_evidence supports the jurys finding of equivalency
+according to lighting_ballast claim 1 does not require the absence *1342 of power-draw from the ballast on shutdown
+rather lighting_ballast explains that the` control_means' feature must be operable to stop oscillations of the converter a feature that lighting_ballast contends the accused products share with embodiments of the ¡¬529_patent
+lighting_ballast argues that ult confuses power draw from the ballast with stopping oscillations of the converter
+accordingly lighting_ballast contends that because ult does not challenge the jurys implicit finding that the accused products stop oscillations of the converter the jurys verdict is supported by substantial_evidence
+we agree with lighting_ballast
+
+a denial of a motion for jmol is not unique to patent law and thus we apply the law of the applicable regional circuit in this case the fifth circuit
+see transocean offshore deepwater drilling inc. v. maersk drilling usa inc. 699_f.3d_1340 1346-47 fed.cir.2012
+under fifth_circuit_law a district_courts decision on a motion for jmol is reviewed de novo reapplying the jmol standard
+ford v. cimarron ins co. 230_f.3d_828 830 5th cir.2000
+jmol is appropriate when a party has been fully heard on an issue and there is no legally sufficient evidentiary basis for a reasonable jury to find for that party on that issue
+fed.r.civ.p
+50 a 1
+
+ult seeks to have this court reverse the district_courts opinion on jmol regarding the` control_means' term by reweighing the evidence produced at trial
+we refuse to do so
+the role of an appellate court is to review the final_judgment issued by the district_court
+when final_judgment is issued upon a jury_verdict this court can only look to whether there was substantial_evidence to support the jurys verdict
+we may not independently reweigh the evidence as ult asks this court to do
+
+we conclude that the jurys verdict is supported by substantial_evidence
+as outlined in the district_courts opinion lighting_ballasts expert dr._victor_roberts identified the structure of the accused products and testified that such structures were equivalent to the` control_means' of the ¡¬529_patent for infringement purposes
+dr._roberts first identified where dc enters the` control_means' and testified that the accused products perform the first function of the ¡¬529_patent` control_means' of receiving a control_signal from the dc_input_terminals
+dr._roberts then testified that the accused products satisfy the second function of the` control_means' limitation because they initiate oscillations and stop oscillations of the converter
+dr._roberts explained that the signal flows down through the resistors through the discrete transistors and eventually over the integrated circuit into a pin labeled en2 which enables oscillations
+dr._roberts testified in detail as to the way in which the accused products meet the` control_means' limitation
+we find that this evidence is sufficient to support the jurys verdict of infringement
+
+iii
+for these reasons we affirm the judgment of the district_court
+
+affirmed
+
+all citations
+790_f.3d_1329 115_u.s.p.q.2d_1357
+footnotes
+1
+pursuant to fed
+cir
+internal operating procedure 15 ?
+2 b ii circuit_judge lourie was designated to replace randall r. rader now retired on this panel
+2
+lighting_ballast also makes a summary argument without citation that ult waived any arguments regarding dependent claims 2_and_5 by failing to appeal the judgment of validity of these claims
+we decline to address this arguments given the insufficient explanation and lack of legal basis supporting the argument
+3
+lighting_ballast argues that ult waived` whenever.. defective' arguments
+we reject that argument for the reasons given in part ii.a of this opinion
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+lighting_ballast_control_llc v. philips electronics north.. 790_f.3d_1329 2015 115_u.s.p.q.2d_1357
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

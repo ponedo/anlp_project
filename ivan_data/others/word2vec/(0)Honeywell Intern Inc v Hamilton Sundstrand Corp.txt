@@ -1,0 +1,490 @@
+523_f.3d_1304
+united states court of appeals federal circuit
+honeywell international inc. formerly known as alliedsignal inc. and honeywell_intellectual_properties inc. formerly known as alliedsignal technologies inc. plaintiffs-appellants v. hamilton sundstrand corporation formerly known as sundstrand corp. defendant-appellee
+no._2006-1602
+| april_18,_2008
+| rehearing en banc denied may_29,_2008
+synopsis
+background owners of patents claiming technology to control airflow_surge in auxiliary_power_units apus brought infringement action against competitor
+after the court of appeals vacated an infringement_verdict in favor of owners and remanded the united_states_district_court for the district of delaware gregory m. sleet j. 2006_wl_2346446 barred owners from asserting doctrine of equivalents
+owners appealed
+
+holdings the court of appeals rader circuit_judge held that
+
+equivalent proposed by owners was foreseeable and thus precluded by prosecution_history_estoppel principles ;
+
+judicial_estoppel did not apply to bar competitor from reversing its prior_position that its surge_control_system was unique ; and
+
+alleged_equivalent bore a direct not merely tangential relation to amendment and therefore tangentiality criterion did not exempt owner from presumption of patent prosecution_history_estoppel
+
+affirmed
+
+newman circuit_judge dissented and filed opinion
+
+attorneys and law firms
+*1306 robert g. krupka kirkland & ellis llp of los angeles ca argued for plaintiffs-appellants
+with him on the brief were jonathan f. putnam lee ann stevenson and kevin n. malek of new_york ny
+mark l. levine bartlit beck herman palenchar & scott llp of chicago il argued for defendant-appellee
+with him on the brief were chris j. lind and brian c. swanson
+of counsel on the brief was david h. herrington cleary gottlieb steen & hamilton llp of new_york ny
+before newman rader and dyk circuit_judges
+opinion
+rader circuit_judge
+honeywell_international inc. and honeywell_intellectual_properties inc. collectively` honeywell' brought suit against hamilton sundstrand corporation` sundstrand' for infringement of claims 8 10 11 19 and 23 of united states patent no._4380,893` the ¡¬893_patent` and claim 4 of patent no._4428,194` the ¡¬194_patent`
+because` rewriting of dependent *1307 claims into independent_form coupled with the cancellation of the original_independent_claims creates a presumption of prosecution_history_estoppel' this court vacated an earlier infringement_verdict in favor of honeywell and remanded to determine whether honeywell could rebut the presumption of surrender under festo_corp. v. shoketsu_kinzoku_kogyo_kabushiki_co. 535_u.s._722 122_s.ct._1831 152_l.ed.2d_944_(2002) festo_viii remanded to 344_f.3d_1359_(fed.cir.2003) en banc festo_ix
+honeywell_int l_inc. v. hamilton_sundstrand_corp. 370_f.3d_1131 1134 fed.cir.2004 en banc honeywell_ii
+on remand the united_states_district_court for the district of delaware barred honeywell from asserting the doctrine of equivalents
+honeywell_int l_inc. v. hamilton_sundstrand_corp. no._99-309 2006_wl_2346446 *1 2006 u.s._dist
+lexis 57030 at *2 d.del
+aug._14,_2006 honeywell_iii
+because honeywell did not show that the alleged_equivalent was unforeseeable at the time of the narrowing_amendment or that the narrowing_amendment bore no more than a tangential_relation to the alleged_equivalent this court affirms
+
+i
+the patents at issue claim technology to control airflow_surge in auxiliary_power_units or` apus'
+an apu is a gas_turbine_engine often used in the tail end of aircraft
+the apu generates electricity for the aircraft and includes a load_compressor to supply compressed air for starting the aircrafts main engines and for controlling the cabins environment during flight
+because apus face rapidly changing demand levels for compressed air during flight they must control against` surges'
+a surge is an aerodynamic phenomenon which occurs when airflow through the compressor is too low
+in a surge condition the airflow can not exit the compressor
+instead the airflow_surges back into the compressor potentially damaging the apu
+
+a surge_control_system maintains a minimum level of airflow through the compressor at all times
+conventional systems provided a wide safety margin by drawing more air than required into the compressors main air duct and venting the excess through a surge_bleed_valve
+while effective these prior_art systems were inefficient
+honeywells patents claim a more efficient apu surge_control_system
+honeywells invention establishes a` set_point' that represents the minimum flow to avoid surges
+`` ambient air.. is drawn through a set of adjustable_inlet_guide_vanesigv..' ¡¬893_patent col.3 ll.64-65
+the igvs open and close like venetian blinds and regulate the amount of ambient air drawn into the load_compressor
+the value of the set_point is` a function of the position of said [ igvs ]'
+id
+col.12 ll.11-12
+the invention regulates this set_point by comparison to a` flow-related parameter' that measures airflow out of the compressor
+id
+col.big_token__2_ll._48__big_token -54
+`` thus a comparison is made between the actual flow_conditions represented by the flow-related parameter and the desired flow_conditions represented by the set_point'
+honeywell_ii 370 f.3d at 1134
+the invention generates an error_signal if the airflow through the compressor is too low
+in response to this signal the inventive apu determines the proper setting of the surge_bleed_valve to prevent a build up of pressure and maintain sufficient airflow
+¡¬ 194 patent col.2 ll.12-20 55-60
+
+the ¡¬194_patent issued from a divisional of the application that issued as the ¡¬893_patent
+during prosecution of the ¡¬893_patent to overcome a rejection under 35 u.s.c.¡± 121 the applicant separated the system claims from the method_claims
+the system claims issued in the ¡¬893_patent and the method_claims issued in the *1308 ¡¬194_patent
+the independent_claims on appeal are claims 8_and_19 of the ¡¬893_patent and claim 4 of the ¡¬194_patent
+each of these claims requires the apu to include igvs which are used by the surge_control_system
+these independent_claims were dependent_claims 17 35_and_51 in the original application that ultimately issued as the ¡¬863_patent
+the original_independent_claims application claims 16 32_and_48 did not contain any reference to igvs or any use of the position of these guide_vanes in the surge_control_system
+the united states patent and trademark_office rejected the original_independent_claims as obvious in light of the prior_art but allowed the dependent_claims when rewritten into independent_form
+claims 8_and_19 of the ¡¬893_patent state 8
+a gas_turbine_engine accessory_power_unit having a fluctuating compressed air_supply_demand said accessory_power_unit comprising a a compressor having adjustable_inlet_guide_vanes ; b duct_means for receiving compressed air discharged from said compressor and supplying the received air to the pneumatically-powered apparatus ; c surge_bleed means operable to exhaust from said duct_means a selectively variable quantity of air to assure at least a predetermined minimum_flow_rate through said duct_means and thereby prevent surge of said compressor ; d sensing means for sensing the value of a predetermined flow-related parameter within said duct_means and generating an output_signal indicative of said value said value of said flow-related parameter being substantially independent of the temperature of the compressed air ; e comparator means for receiving said sensing means output_signal and generating an error_signal representing the difference between the sensed value of said parameter and a desired value thereof said comparator means having an adjustable_control_set_point_representing said desired value of said parameter ; f means for transmitting to said comparator means a reset_signal for varying said set_point as a function of the position of said inlet_guide_vanes in accordance with a predetermined reset_schedule ; and
+( g control means for receiving said error_signal and transmitting to said surge_bleed means a control_signal to operate said surge_bleed means the magnitude of said control_signal having relative to the magnitude of said error_signal a proportional component and an integral component whereby said minimum_flow_rate through said duct_means is essentially constant regardless of the compressed air_supply_demand of the pneumatically-powered apparatus
+'893_patent col.11 l.52-col.12 l.23 emphases added
+19
+a control_system for assuring a substantially constant minimum_flow_rate through a duct receiving air discharged from a compressor or the like having adjustable_inlet_guide_vanes the duct having a supply outlet connected to pneumatically-operated apparatus having a variable supply air demand the duct further having an exhaust_outlet said control_system comprising a a flow regulating device adapted to be positioned in the exhaust_outlet and operable to selectively vary air flow outwardly therethrough ; b a sensing device having a sensing portion adapted to be positioned in the duct to sense therein a predetermined *1309 parameter related to the air_flow_rate through the duct said sensing device further having an output_portion ; c an adjustable set_point comparator having an input_portion coupled to said output_portion of said sensing device and an outlet adapted to generate an error_signal ; d a proportional_controller having an inlet coupled to said output of said comparator and further having an outlet ; e an integral_controller having an inlet coupled to said outlet of said comparator and further having an outlet ; f a summer having a first inlet coupled to said outlet of said proportional_controller a second inlet coupled to said outlet of said integral_controller and an outlet coupled to said flow regulating device ; and
+( g a guide_vane_position_sensor and a function_generator coupled in series between the inlet_guide_vanes and said input_portion of said comparator
+id
+col. 4 l.62-col. 16 l.22 emphases added
+
+claim 4 of the ¡¬194_patent states 4
+a method of utilizing a compressor of a gas_turbine_engine to power pneumatically-operated apparatus having a variable inlet air flow demand the compressor having adjustable_inlet_guide_vanes said method comprising the steps of a interconnecting a supply_duct between the compressor and the pneumatically-operated apparatus ; b flowing discharge air from the compressor through said supply_duct to the pneumatically-operated apparatus ; c maintaining an essentially constant minimum supply_duct flow_rate despite fluctuations in the flow_rate of air received by the pneumatically-operated apparatus by exhausting air from said supply_duct in response to variations therein of the value of a predetermined flow-related parameter the flow_rate of air exhausted from said supply_duct being related to the magnitude of said parameter value variations in both a proportional and time-integral manner said maintaining step including the steps of providing an outlet_passage from said supply_duct positioning in said outlet_passage a surge_bleed_valve operable to selectively vary the flow of air outwardly through said outlet_passage generating an integral control_signal in response to said variation in said flow-related parameter generating a proportional control_signal in response to said variations in said flow-related parameter and simultaneously utilizing said integral and proportional_control_signals to operate said surge_bleed_valve ; and
+( d adjusting the relationship between the magnitudes of said integral and proportional_control_signals and the magnitudes of said parameter_variations as a function of the position of the inlet_guide_vanes
+'194_patent col. 10 l.64-col. 12 l.16 emphases added
+
+sundstrand manufactures the aps 3200 an apu device with a surge_control_system that compares a flow-related parameter called delpqp to a set_point based on air inlet temperature and adjusts the surge_bleed_valve in response
+delpqp is an acronym for delta p over quotient p and measures pressure differentials as a proxy for airflow
+at high_flow levels delpqp can lead to an ambiguous_signal where delpqp becomes inversely proportional to the amount of flow
+the ambiguous_signal may cause the system to *1310 open the surge_bleed_valve unnecessarily to increase flow
+this incorrect reading issue is known as the double_solution or inverted-v problem
+the aps 3200 solves this problem by blocking the control_signal during high-flow_conditions
+the system uses in part igv_position to determine whether the apu is experiencing high_flow or low_flow and consequently whether to block the control_signal
+
+honeywell filed suit on may_17,_1999 alleging that sundstrands aps 3200 infringed claims of three of its patents including the ¡¬893 and ¡¬194_patent s. sundstrand filed a motion for partial_summary_judgment to limit damages to those incurred after february 3 1999 the date it received actual notice of honeywells infringement allegations because honeywell did not mark its product under 35 u.s.c.¡± 287 a
+honeywell conceded that it did not mark its product with the ¡¬893_patent but argued that the ¡¬194 method claim patent did not permit or require marking
+the district_court disagreed granting partial_summary_judgment and holding that because both patents refer to the same tangible product honeywell could and should have marked the product
+honeywell_int l_inc. v. hamilton_sundstrand_corp. no 99-309 2001_wl_66345 at *3-4 d.del
+jan.4 2001
+the district_court also held that honeywell could not recover damages for sales entered into before to february 3 1999 even if delivery occurred thereafter
+honeywell_int l_inc. v. hamilton_sundstrand_corp. no._99-309 d.del
+feb._8,_2001
+
+on february 16 2001 a jury found that sundstand infringed claims of the ¡¬893 and ¡¬194_patent s under the doctrine of the equivalents
+honeywell_int l_inc. v. hamilton_sundstrand_corp. 166_f.supp.2d_1008 1013-14 d.del.2001 honeywell i
+the jury further found that honeywell was entitled to $ 45,000,000 in price erosion damages and $ 1,578,065 in reasonable royalty damages
+id.at 1014
+the district_court denied sundstrand motions for judgment as a matter of law` jmol' and a new trial
+honeywell_ii 370 f.3d at 1138
+both parties appealed
+on february 5 2004 this court sua sponte ordered that the case would be resolved en banc without further arguments from the parties
+id.at 1139
+the court held that honeywells act of` rewriting [ the ] dependent_claims into independent_form coupled with the cancellation of the original_independent_claims creates a presumption of prosecution_history_estoppel'
+id.at 1134
+thus the court vacated the judgment of infringement and remanded the case for the` determination of whether honeywell [ could ] rebut the presumption..' id
+
+on remand the district_court held a two-day bench trial to determine whether prosecution_history_estoppel barred honeywell from asserting the doctrine of the equivalents
+honeywell_iii 2006_wl_2346446 *1 2006 u.s._dist
+lexis 57030 at *2
+the parties contested the definition of the alleged_equivalent_element
+in reaching its decision the district_court adopted honeywells articulation` the sundstrand aps 3200 surge_control_system with its unique delpqp flow-related parameter and its particular_use of the inlet_guide_vane_position as part of the high-flow logic that that parameter occasioned'
+id. 2006_wl_2346446 **4-5 2006 u.s._dist
+lexis 57030 at *13-14
+the district_court correctly stated that honeywell could rebut the presumption of surrender by demonstrating that 1` the alleged_equivalent would have been unforeseeable at the time of the narrowing_amendment' or 2` the rationale underlying the narrowing_amendment bore no more than a tangential_relation to the equivalent in question' or 3` that there wassome other_reason suggesting that the patentee could not reasonably have been expected to have described the alleged *1311 equivalent'
+id. 2006_wl_2346446 *5 2006 u.s._dist
+lexis 57030 at *14 quoting festo_ix 344 f.3d at 1369
+
+honeywell conceded the` some other_reason' criterion
+honeywell_int l_inc. v. hamilton_sunstrand_corp. no 99-309 2006_wl_2346446 d.del
+aug.14 2006
+thus the district_court focused on tangentiality and foreseeability
+because the parties agreed that the tangentiality inquiry should be decided solely on the prosecution_history the parties presented evidence at the bench-trial only on the issue of foreseeability
+honeywell argued that in the 1982-83 timeframe-which the parties agreed is the relevant period-the use of delpqp and igv_position to detect surge was unforeseeable
+sundstrand argued that an apu developed in the late 1970s the l1011 also measured a static_pressure_differential to avoid the double_solution_problem experienced by the aps 3200
+
+the l1011 however distinguished between high_flow and low_flow through the use of a shock_switch rather than through igv_position
+supersonic speeds activated the shock_switch which caused the system to ignore the control_signal and maintain the valves in their high_flow position
+these differences aside the district_court held that it was` quite intuitive' that it was foreseeable in 1982-83 to one skilled in the art to measure the position of igvs to distinguish between high_flow and low_flow
+id. 2006_wl_2346446 *6 2006 u.s._dist
+lexis 57030 at *17
+the district_court recognized that both parties presented sufficient evidence to support their respective positions but opined that the resolution was not a close call
+id. 2006_wl_2346446 *big_token__6_n._2__big_token 2006 u.s._dist
+lexis 57030 at
+*big_token__17_n._2__big_token
+
+turning to the tangential_relation_prong the district_court noted that the focus of this inquiry is on` the patentees objectively apparent_reason for the narrowing_amendment'
+id. 2006_wl_2346446 *6 2006 u.s._dist
+lexis 57030 at *19 citing festo_ix 344 f.3d at 1369
+honeywell argued that the reason for the underlying amendment was to overcome prior_art that disclosed a surge_control_system with p and delta p sensors and proportional and integral control and that had nothing to do with igvs
+the district_court disagreed with this characterization as the delpqp is a parameter that is also calculated by measuring p and delta p. thus both the prior_art and the equivalent in question involved the same flow-related measurement and the use of that measurement is directly related to the rationale underlying the amendments
+therefore honeywell did not rebut the presumption with the tangential_relation_prong
+id. 2006_wl_2346446 **8-9 2006 u.s._dist
+lexis 57030 at *24-26
+
+honeywell filed a timely appeal asserting that it had rebutted the presumption of prosecution_history_estoppel under the foreseeability and tangential_relation criteria
+honeywell also appeals the district_courts pre-trial rulings limiting its damages claim under the method-only ¡¬194_patent and excluding from recovery reasonable royalties resulting from sales contracts entered before the notice letter date
+sundstrand argues that even if honeywell is not estopped from alleging infringement under the doctrine of equivalents the jurys verdict lacks sufficient support from trial evidence
+this court has jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+ii
+`` prosecution history estoppel is a legal question subject to de novo review on appeal'
+cybor corp. v. fas techns inc. 138_f.3d_1448 1460 fed.cir.1998 en banc
+this court however reviews any factual_issues underlying the inquiry for *1312 clear_error
+see festo_ix 344 f.3d at 1369-70
+this court reviews a district_courts denial of a motion for jmol de novo applying the jmol standard used by the district_court
+interactive pictures corp. v. infinite pictures inc. 274_f.3d_1371 1375 fed.cir.2001
+jmol is appropriate when` there is no legally sufficient evidentiary basis for a reasonable_jury to find for that party on that issue'
+fed.r.civ.p
+50 a 1
+this court also reviews a district_courts grant of summary judgment without deference
+monsanto co. v. scruggs 459_f.3d_1328 1334 fed.cir.2006
+
+under the doctrine of the equivalents` a product or process that does not literally infringe upon the express terms of a patent_claim may nonetheless be found to infringe if there isequivalence between the elements of the accused product or process and the claimed elements of the patented invention'
+warner-jenkinson co. v. hilton_davis_chem co. 520_u.s._17 21 117_s.ct._1040 137_l.ed.2d_146_(1997) citing graver tank & mfg co. v. linde air prods co. 339_u.s._605 609 70_s.ct._854 94_l.ed._1097_(1950)
+the doctrine of prosecution_history_estoppel prevents a patent owner from recapturing with the doctrine of equivalents subject_matter surrendered to acquire the patent
+see festo_ix 344 f.3d at 1365 citing festo_viii 535 u.s. at 741 122_s.ct._1831
+
+because the three asserted independent_claims were rewritten from dependent_form and because the original_independent_claims were cancelled there is a presumption of prosecution_history_estoppel
+see honeywell_ii 370 f.3d at 1134
+nonetheless honeywell may rebut that presumption with a showing that 1` the alleged_equivalent would have been unforeseeable at the time of the narrowing_amendment' or 2` the rationale underlying the narrowing_amendment bore no more than a tangential_relation to the equivalent in question'
+festo_ix 344 f.3d at 1369 quoting festo_viii 535 u.s. at 741 122_s.ct._1831
+
+a. foreseeability
+on remand from the supreme_court in festo this court explained that the foreseeability_criterion
+presents an objective inquiry asking whether the alleged_equivalent would have been unforeseeable to one of ordinary_skill in the art at the time of the amendment
+usually if the alleged_equivalent represents later-developed technology e.g. transistors in relation to vacuum tubes or velcro r in relation to fasteners or technology that was not known in the relevant art then it would not have been foreseeable
+in contrast old technology while not always foreseeable would more likely have been foreseeable
+indeed if the alleged_equivalent were known in the prior_art in the field of the invention it certainly should have been foreseeable at the time of the amendment
+by its very nature objective unforeseeability depends on underlying factual_issues relating to for example the state of the art and the understanding of a hypothetical person of ordinary_skill in the art at the time of the amendment
+therefore in determining whether an alleged_equivalent would have been unforeseeable a district_court may hear expert testimony and consider other extrinsic_evidence relating to the relevant factual inquiries
+id.at 1369 citation omitted
+subsequently we clarified that` [ a ] n equivalent is foreseeable if one skilled in the art would have known that the alternative existed in the field of art as defined by the original claim scope even if the suitability of the alternative for the particular purposes defined *1313 by the amended claim scope were unknown'
+festo_corp. v. shoketsu_kinzoku_kogyo_kabushiki_co. 493_f.3d_1368 1382 fed.cir.2007 festo_x
+
+the principle of foreseeability ties patent enforcement appropriately to patent_acquisition
+in making this connection foreseeability reconciles the preeminent notice function of patent_claims with the protective function of the doctrine of equivalents
+thus foreseeability in this context ensures that the doctrine does not capture subject_matter that the patent drafter could have foreseen during prosecution and included in the claims
+the goal of the principle is to ensure that the claims continue to define patent scope in all foreseeable circumstances while protecting patent owners against insubstantial variations from a claimed element in unforeseeable circumstances
+the foreseeability principle thus relegates the doctrine of equivalents to its appropriate exceptional place in patent enforcement
+
+to maintain consistency a court must use the same definition of the equivalent to evaluate both foreseeability and infringement
+as we explained in festo_x adoption of different equivalents for infringement and foreseeability would produce perverse results
+id.at 1381
+under such a paradigm patentees and accused infringers would reverse roles when arguing whether the equivalent met the test for infringement on the one hand and foreseeability on the other
+id
+in this instance the district_court found that even the narrow equivalent proposed by honeywell was foreseeable and thus precluded by estoppel principles
+we agree
+
+to evaluate whether honeywell can overcome the presumption of surrender like the district_court this court assumes that honeywells proposed articulation of the equivalent_element is correct` the use of 1 a static_pressure_differential i.e. delpqp which can be indicative of surge only if the apu is experiencing low_flow in combination with 2 igv_position which is indicative of whether the apu is experiencing low_flow or high_flow to detect surge'
+honeywell_iii 2006_wl_2346446 **4-5 2006 u.s._dist
+lexis 57030 at *13-14
+
+this court must examine on the basis of this record whether the use of igv_position to detect high_flow and low_flow was later-developed technology and thus unforeseeable at the time of the amendments during the prosecution process
+the timing of sundstrands product_development does not settle the issue
+the record shows that sundstrand developed its equivalent between 1991_and_1995 after the relevant amendments in 1982-83
+the mere temporal relationship of the equivalent to the patent_acquisition and amendment process however does not make the equivalent unforeseeable
+the record shows that sundstrand began using igv_position to control airflow within two months of observing the double_solution_problem which suggests that the igv solution may have been known and foreseeable in the art
+the record also shows that sundstrand refined this way of addressing the problem over the next four years-evidence susceptible to characterization as either showing difficulty in reaching the ultimate solution or showing the natural and foreseeable application of well-known principles
+
+however honeywell contends that the district_courts determination was clearly erroneous because in the 1982-83 time frame surge_control_systems did not use inlet_guide_vane_position to ascertain the existence of high or low_flow situations for surge_control
+honeywell is correct that the systems in the 1982-83 time period did not use inlet_guide_vane_position for this purpose but it was known that the control of surge was important ; that systems *1314 such as the l1011 system had been developed for that purpose ; and that inlet_guide_vanes were routinely used in surge_control_systems and affected the air_flow_rate
+for example u.s. patent no._4164,035` the glennon_patent' issued in 1979 claims a surge_control_system and teaches that igv_position affects airflow_rate
+honeywells expert mr. muller also testified q in fact going back to the 1970s it was honeywells understanding that in order to efficiently control surge you would need to take into account inlet guide vane angle and input into your surge_control_system
+correct ?
+a well by using this information you can incrementally improve the operation of a surge_controller yes
+
+the record also shows no technical barrier to the use of igv_position to determine air flow as honeywells corporate representative james clark admitted
+he confirmed that honeywell` could have [ ] solved [ the double_solution_problem ] using inlet_guide_vane_position' in the 1970s
+foreseeability does not require that the accused infringing product or process be foreseeable nor that any equivalent exist at the time ; rather foreseeability only requires that one of ordinary_skill in the art would have reasonably foreseen the proposed equivalent at the pertinent time
+festo_x 493 f.3d at 1382
+sunstrands expert dr. japiksi whom the district_court found to be credible concluded that it was` known or foreseeable to a person of ordinary_skill in the art in 1982 to use igv_position to determine whether the flow was high or low'
+based on this testimony and the record evidence described above the district_court concluded that` measuring igv_position.. is a reasonably obvious_way-both at present and in 1982-83-to determine whether the apu is experiencing high_flow or low_flow'
+honeywell_iii 2006_wl_2346446 *6 2006 u.s._dist lexis 57030 at *17
+this court finds no clear_error in the district_courts conclusion
+
+while both parties presented expert witnesses the district_court determined after observing the witnesses demeanor and credibility that the resolution was not close
+id. 2006_wl_2346446 *6 2006 u.s._dist
+lexis 57030 at *big_token__17_n._2__big_token
+the supreme_court has instructed` [ w ] hen a trial judges finding is based on his decision to credit the testimony of one of two or more witnesses each of whom has told a coherent and facially plausible_story that is not contradicted by extrinsic_evidence that finding if not internally inconsistent can virtually never be clear_error'
+anderson v. city of bessemer_city 470_u.s._564 575 105_s.ct._1504 84_l.ed.2d_518_(1985) ; the am original corp. v. jenkins food corp. 774_f.2d_459 462 fed.cir.1985
+as discussed above while the timing of sundstrams product_development is ambiguous with respect to the foreseeability_criterion much of the extrinsic_evidence-most notably several prior_art references in the record-supports the district_courts decision
+
+thus the record supports the district_courts finding that a person of ordinary_skill in the art would have known of the use of igv_position to distinguish between high and low_flow in order to resolve the double_solution_problem during 1982-83
+honeywell could have foreseen and included the alleged_equivalent in the claims when they were amended
+as a result honeywell did not rebut the presumption of surrender with evidence of unforeseeability
+
+this court also discerns no fatal_error in connection with federal_rule of civil_procedure 52
+this court perceives that the trial_court did not offend the requirement to` find the facts specially'
+fed.r.civ.p
+52 ; *1315 consolidated aluminum corp. v. foseco int l ltd. 910_f.2d_804 814 fed.cir.1990` a remand.. in a case thought to be completed is a step not lightly taken..' indeed this court need only remand when it has` no way.. to affirm or reverse the district_courts action under review'
+id
+because as noted above the record supplies sufficient evidence to affirm the district_courts action this court does not venture to apply rule 52 strictly
+see id
+(` an appellate court need not close its eyes to the record where.. there is a way clearly open to affirm the district_courts action
+`` ; see also metabolite labs. inc. v. lab corp. of am
+holdings 370_f.3d_1354 1370 fed.cir.2004
+
+this court also perceives no fatal_error in the trial_courts refusal to estop sundstrand from reversing its prior_position that the aps 3200 surge_control_system and its particular_use of igv_position was unique and perhaps unforeseeable
+`` judicial estoppel applies when a party takes a later position that is inconsistent with a former_position in the same dispute on which the party had been successful and had prevailed based on the former_position'
+bonzel v. pfizer inc. 439_f.3d_1358 1362 fed.cir.2006
+in the first_place it is not apparent that sundstrand prevailed on any issue because of its alleged inconsistent position
+sundstrand did avoid a finding of literal_infringement of claim 4 of the ¡¬194_patent and avoided enhanced damages despite the jurys determination of willful infringement
+these putative victories however are difficult to link to sundstrands characterization of its product as unique
+indeed the district_court found that substantial evidence would have permitted a reasonable_jury to conclude that the aps 3200 did not literally infringe elements 4 c and 4 d of the ¡¬ 194 patent because the aps 3200 did not literally infringe the flow-related parameter and did not use the igv_position in the same manner as described in those sections
+honeywell i 166 f.supp.2d at 1018-19
+moreover the district_court declined to enhance damages because` there was little direct evidence which evinced the sort of culpable mindset that would make enhanced damages appropriate'
+id.at 1040
+because the record does not link sundstrands success on these issues to its argument that its surge_control_system was unique judicial_estoppel does not apply
+if any party was estopped it was honeywell which as noted above apparently established infringement using a broader definition of the equivalent than it now urges with respect to the foreseeability issue
+
+in sum this court does not discern any error in the district_courts judgment that honeywell did not rebut the presumption of prosecution_history_estoppel with evidence of unforeseeability
+
+b. tangential relation
+the tangential_relation_criterion for overcoming the festo_presumption is very narrow
+cross med prods. inc. v. medtronic sofamor danek inc. 480_f.3d_1335 1342 fed.cir.2007
+as this court provided in its festo_ix opinion on remand from the supreme_court the tangential_relation_criterion focuses on the` patentees objectively apparent_reason for the narrowing_amendment'
+344 f.3d at 1369
+to rebut the estoppel presumption with tangentiality a patentee must` demonstrate that the rationale underlying the amendment bore no more than a tangential_relation to the equivalent in question' or in other words that` the narrowing_amendment was peripheral or not directly relevant to the alleged_equivalent'
+id
+( citation omitted
+additionally the reason for the narrowing_amendment` should be discernible from the prosecution_history record..' id
+if the prosecution_history reveals no reason for the narrowing_amendment the presumption is not rebutted
+see id.at 1371-72 the patentee did *1316 not rebut because the prosecution_history revealed no reason for the amendment
+silence does not overcome the presumption
+
+the record shows that the examiner simply instructed that the dependent_claims would be allowed if rewritten into independent_form
+those instructions however must be placed in their proper context
+as this court explained in festo_ix` whether an amendment was merely tangential to an alleged_equivalent necessarily requires focus on the context in which the amendment was made..' 344 f.3d at 1370
+the original_independent_claims disclosed a surge_control_system with p and delta p sensors and proportional and integral controls
+those claims however were rejected as obvious in light of the prior_art
+the original_dependent_claims were then rewritten into independent_form and incorporated the limitations of the rejected independent_claims
+therefore the key to this inquiry is the content of the original_dependent_claims.1 those claims included the igv_limitation which` refers to both the claimed structure of the [ igvs ] and their claimed function in the surge_control_system..' honeywell_ii 370 f.3d at 1137_n._2
+accordingly when honeywell rewrote the application_dependent_claims into independent_form it` effectively add [ ed ] the [ igv ] limitation to the claimed invention'
+id.at 1144
+thus the record shows that honeywell made the amendment to add the igv_limitation
+because the alleged_equivalent focuses on the igv_limitation the amendment bore a direct not merely tangential relation to the equivalent
+tangentiality does not help honeywell overcome the presumption of surrender
+
+because the record does not rebut the prosecution_history_estoppel presumption honeywells challenges to the district_courts rulings with respect to whether damages should be limited and whether the evidence is sufficient to support the jurys infringement_verdict are moot
+
+iv
+for the reasons stated herein the court holds that honeywell has failed to rebut the presumption of surrender and is therefore barred by prosecution_history_estoppel from asserting the doctrine of equivalents
+this court affirms the judgment of the district_court
+
+affirmed
+
+costs
+each party shall bear its own costs
+
+*1317 opinion for the court filed by circuit_judge rader
+dissenting opinion filed by circuit_judge newman
+newman circuit_judge dissenting
+the court today applies its new_presumption of surrender to all equivalents of the claim_elements and limitations that originated in dependent_claims that were never amended and that were not the subject of prosecution_history_estoppel
+the court held in its previous opinion honeywell_int l inc. v. hamilton_sundstrand_corp. 370_f.3d_1131 fed.cir.2004 that` the surrendered subject_matter is defined by the cancellation of independent_claims that do not include a particular_limitation and the rewriting into independent_form of dependent_claims that do include that limitation'
+id.at 1144
+thus although the limitation at issue the inlet_guide_vanes used to control surge had not been the subject of amendment argument or any other form of restriction the court held that all equivalent guide_vanes were presumed surrendered not simply equivalents presumptively barred by prosecution_history_estoppel
+id
+my colleagues held that since there was no narrowing_amendment or limiting argument during prosecution of the honeywell dependent_claims surrender of the entire universe of potential equivalents is presumed when the original_independent_claim is cancelled
+i have previously pointed out the flaws in these generalizations id.at 1146 newman j. dissenting in part for neither precedent nor logic requires the presumption of unlimited_surrender when the prosecution_history does not support unlimited_surrender
+see festo_corp. v. shoketsu_kinzoku_kogyo_kabushiki_co. 535_u.s._722 122_s.ct._1831 152_l.ed.2d_944_(2002) the complete_bar [ ] is inconsistent with the purpose of applying the estoppel in the first_place-to hold the inventor to the representations made during the application process and to the inferences that may reasonably be drawn from the amendment
+by amending the application the inventor is deemed to concede that the patent does not extend as far as the original claim
+it does not follow however that the amended claim becomes so perfect in its description that no one could devise an equivalent
+after amendment as before language remains an imperfect fit for invention
+the narrowing_amendment may demonstrate what the claim is not ; but it may still fail to capture precisely what the claim is
+id.at 737-38 122_s.ct._1831
+
+this court after creating its new_presumption of surrender did not apply it to the honeywell-sundstrand issues on appeal instead remanding to the district_court
+indeed the district_court remarked on the absence of guidance stating that it was` entering uncharted waters' in which it must` knock the rust off the old sextant and hope for the best'
+honeywell_int l_inc. v. hamilton_sunstrand_corp. no._99-309 2006_wl_2346446 at *big_token__6_n._3_ d.del._aug.14 _2006 __big_token
+now my colleagues apparently unsatisfied with the district_courts analysis offer their own presenting a new rationale whereby they find that honeywell_engineers were indeed capable of solving the sundstrand` double_solution' problem using inlet_guide_vanes although honeywell did not do so and therefore that the sundstrand_equivalent was` foreseeable' to honeywell and should have been patented by honeywell in 1983
+on this theory my colleagues hold that this equivalent as the jury found can not be reached under the doctrine of equivalents
+the flawed sweep of this new_rule is illustrated as my colleagues apply the rebuttal_criteria of` foreseeability' and` tangentialness' to a presumptive surrender with no outer limit for there is no prosecution_history that narrowed the claim element at issue
+
+*1318 my colleagues not only broaden the grounds of presumptive_estoppel to estop all equivalents to any of the elements and limitations that were presented in the dependent_claims but they also restrict the grounds of rebuttal by holding that` foreseeability' is established by other than the` readily known equivalents' contemplated by the court in festo 535 u.s. at 740 122_s.ct._1831
+applying this new_rule with no limit to the technology to which` foreseeability' is applied my colleagues find` foreseeable' the sundstrand guide vane technology that was developed a decade later
+my colleagues find that honeywell_engineers were smart enough to have invented1 the sundstrand_technology a decade earlier and thus that honeywell should or could somehow have claimed it although it was not described and enabled by honeywell
+on this reasoning the court holds that honeywell can not rebut the presumption of surrender of all equivalents using inlet_guide_vanes
+from this unsound analysis i respectfully dissent
+
+whether and when an inventor is entitled to reach beyond the literal scope of what is claimed in the patent has received continuing attention from courts and the technology community for the issues of law are not easy and the considerations of equity are in tension
+the court in festo and earlier in warner-jenkinson co. v. hilton_davis_chem co. 520_u.s._17 117_s.ct._1040 137_l.ed.2d_146_(1997) revised the legal and equitable balance limiting the doctrine of equivalents while preserving its viability
+this courts new_presumption of surrender of all equivalents when there is no prosecution_history_estoppel as to elements from dependent_claims that are placed in independent_form places new constraints on the patentees access to the doctrine of equivalents
+this aspect of patent-based innovation requires a more balanced analysis in the national interest in innovation
+as the court stated in festo` if the doctrine is to be discarded it is congress and not the court that should do so'
+535 u.s. at 733 122_s.ct._1831
+
+rebuttal of the presumption of surrender-foreseeability
+now although i accept as the law of this case that a presumption of surrender arose with respect to the use of inlet_guide_vanes to control surge my colleagues apply the festo rebuttal_criteria in significantly more restrictive ways than were established by the supreme_court
+the court had explained that` [ t ] hough prosecution_history_estoppel can bar a patentee from challenging a wide range of alleged_equivalents made or distributed by competitors its reach requires an examination of the subject_matter surrendered by the narrowing_amendment'
+id.at 737 122_s.ct._1831
+however my colleagues do not examine the surrendered subject_matter and indeed they can not for there is no narrowing_amendment to define surrendered subject_matter
+the dependent_claims were not rejected on any ground ; they were simply` objected to' because they were in dependent_form
+the use of the inlet_guide_vanes was never discussed in the prosecution and the guide vane clause was not amended in any dependent or independent_claim
+there was no prosecution for this issue based on prior_art.2 unlike the courts festo_presumption of prosecution_history_estoppel which is limited by narrowing_amendment the panel_majoritys presumption of surrender is without limit
+*1319 honeywell 370 f.3d at 1144` under such circumstances the surrendered subject_matter is defined by the cancellation of independent_claims that do not include a particular_limitation and the rewriting into independent_form of dependent_claims that do include that limitation
+equivalents are presumptively not available with respect to that added limitation
+``
+
+in the remand decision from which this appeal is taken the district_court had recognized that the element for which equivalency was charged-the inlet_guide_vanes used to adjust a set_point to avoid surge-had not been narrowed and thus did not fit the festo mold
+nonetheless the district_court ruled that the sundstrand apparatus and method with respect to the inlet_guide_vanes were` foreseeable' and that the rationale underlying the amendment bore more than a` merely tangential' relation to the sundstrand_equivalent
+however the district_court declined to give its reasoning stating that the record was` too extensive and complex' for the court to identify the facts on which its conclusion rested and that it would be` unduly burdensome' to explain which evidence it credited
+honeywell 2006_wl_2346446 at *big_token__6_n._2__big_token
+the district_court stated that` it seems quite intuitive to this lay court that measuring igv_position.. is a reasonably obvious_way-both at present and in 1982-83-to determine whether the apu is experiencing high_flow or low_flow'
+id.at *6
+the court also mentioned` credibility' although it did not identify who or what it did not believe
+the court concluded that the sundstrand use of inlet_guide_vanes to control surge was` foreseeable' although witnesses for both sides agreed that the use of inlet_guide_vanes for surge_control was not known at the time of the honeywell invention
+
+equivalency is determined as of the time of litigation while foreseeability for equivalency purposes is determined at the time of the patent_application
+the court in festo explained that foreseeability means` readily known equivalents' 535 u.s. at 740 122_s.ct._1831 not unknown equivalents developed a decade later
+honeywells use of inlet_guide_vanes was developed before 1982 and the sundstrand inlet_guide_vanes were developed between 1990_and_1995
+sundstrand had argued at the jury trial that its guide vane system does not infringe either literally or under the doctrine of equivalents because it was designed to meet what sundstrand calls the` double_solution' problem and that its system makes a different use of inlet_guide_vane_position than does honeywell
+these differences were not disputed
+my colleagues nonetheless find the sundstrand_device and method` foreseeable' based on a combination of prior_art surge_control devices and hold that honeywell could have described and claimed the sundstrand_technology a decade before it was developed by sundstrand
+
+in deciding whether the presumption of surrender has been rebutted the question is whether the technological equivalent is embraced by subject_matter that was relinquished during prosecution of the patent
+this requires analysis of the prosecution_history leading to cancellation of the original_independent_claim and rewriting of the original dependent_claim in independent_form
+patent claims are customarily presented in independent and dependent_form a practice encouraged by the patent and trademark_office for it simplifies examination
+when an original_independent_claim is cancelled it is obligatory that the next dependent_claim be placed in independent_form
+even on the majoritys analysis of the rebuttal_criteria of foreseeability and tangentialness the proper approach is to determine for equivalency was implicated in that cancellation
+
+*1320 on remand the district_court attempted to apply the instructions from the supreme_court and this court as to rebuttal of the presumption of prosecution_history_estoppel
+the court has guided that the foreseeability analysis must be` directed to the particular_equivalent in question' id.at 740 122_s.ct._1831
+the particular_equivalent is the sundstrand_device and method using the inlet_guide_vane_positions to solve the so-called` double_solution' problem that attends sundstrands choice of the delpqp flow-related parameter by blocking the control_signal during high-flow_conditions
+honeywell states that this is an equivalent use of inlet_guide_vanes in the context of honeywells use of inlet_guide_vane_position to adjust the set_point against which the flow-related parameter is measured across the spectrum of flow_conditions
+the panel_majority finds the sundstrand_device and method foreseeable and thus not reachable under the doctrine of equivalents
+
+the panel_majority cites two references that it designates as prior_art that rendered the sundstrand_device foreseeable a decade before sundstrand developed it
+my colleagues focus first on a device called the l1011 developed in the late 1970s ; this device made no use of inlet_guide_vanes but instead used a totally different system that approached the problem of the ambiguity of a flow parameter at high_flow_conditions by use of a` shock_switch'
+i suppose the purpose of this reference is to show that the problem was not new ; however recognition of the problem does not render foreseeable sundstrands equivalent that was developed more than a decade later using inlet_guide_vanes
+
+the panel_majority also relies on the glennon_patent and finds that in 1979 it was known that adjusting guide vane position has an impact on airflow
+however the issue is not the use of louvered vanes to control airflow a known concept ; the issue is whether it was foreseeable at the time of the honeywell patent_application to use inlet_guide_vanes for surge_control in an accessory_power_unit in the manner of the sundstrand_device as part of the decision logic for high-flow_conditions when the delpqp parameter produces an ambiguous_signal
+
+my colleagues suggest that testimony from honeywells witnesses clark and muller establish foreseeability of the sundstrand_equivalent for they testified that honeywell was working on the use of inlet_guide_vanes to improve the operation of a surge_controller and that if they knew about the sundstrand problem they might have figured out how to solve it in the way that sundstrand solved it a decade later
+but these witnesses did not testify that honeywell already had this knowledge or that it was known to the prior_art or otherwise was a known equivalent or` reasonably foreseeable'
+it was undisputed that the sundstrand_equivalent was developed a decade later in full view of the honeywell patents
+
+my colleagues also state that the district_courts findings are predicated on witness credibility and thus are untouchable
+the district_court did not tell us what aspects strained its credulity or indeed why the district_court had sustained the jury_verdict in 2001 if tainted by the incredibility of witnesses
+deference to a district_courts findings on credibility is generally warranted but when the issue is one of objective science/technology more is required than a terse announcement by the court that no reasons will be given for its ruling
+as explained in anderson v. bessemer_city 470_u.s._564 105_s.ct._1504 84_l.ed.2d_518_(1985) deference is warranted only when competing witnesses have` told a coherent and facially plausible_story that is not contradicted by extrinsic_evidence' and when the finding is` not *1321 internally inconsistent'
+id
+no deference is owed to a district_courts conclusion predicated upon findings it did not state or explain
+see edwards v. wyatt 335_f.3d_261 274-75 3d cir.2003
+
+the district_courts reluctance to state the facts on which its conclusion rests as federal_rule of civil_procedure 52 requires negates the traditional deference
+i accept that the record in this lengthy litigation is difficult to summarize but i also accept-for it is uncontradicted-that the record is devoid of any evidence that the sundstrand_equivalent previously existed or was the` readily known equivalent' required by festo
+it was uncontradicted that the sundstrand_equivalent was developed years after the honeywell application was filed and prosecuted and only after considerable effort
+nothing in the record supports my colleagues finding that the sundstrand_equivalent was foreseeable at the time the honeywell patent_applications were prosecuted
+
+simply presenting claims of varying scope whether in independent or dependent_form is not a narrowing_amendment or argument
+the patent examining rules encourage through lowered fees the use of dependent_claims for it facilitates examination
+it is routine for broader claims to be cancelled and dependent_claims to be rewritten in independent_form
+this protocol has no relevance to whether a claimed element is amended or narrowed or argued during prosecution
+it is the narrowing of scope during prosecution that produces the presumptive_estoppel ; claim_elements and limitations that were not the subject of amendment or argument do not raise the festo_presumption and should not be deemed to raise this courts new_presumption
+cancelling an independent_claim is not an estoppel-generating act as to elements whose scope was not amended or otherwise restricted during prosecution
+
+equivalency is determined element by element warner-jenkinson 520 u.s. at 29 117_s.ct._1040 yet on the panel_majoritys presumption of surrender there is no restricting action by which to measure what was surrendered
+in festo the court was explicit that the burden is to` show [ ] that the amendment does not surrender the particular_equivalent in question'
+535 u.s. at 740 122_s.ct._1831
+my colleagues err in now holding that all equivalents of an element presented by dependent_claim are presumed surrendered by simply cancelling the independent_claim
+
+tangential relation
+the court explained that when the asserted equivalent related to` aspects of the invention that have only a peripheral relation to the reason the amendment was submitted' the presumption of estoppel would be rebutted
+id.at 738 122_s.ct._1831
+precedent illustrates that the` tangential' criterion is rebutted when` [ t ] here is no indication in the prosecution_history of any relationship between the narrowing_amendment and [ the process ] which is the alleged_equivalent in this case'
+insituform tech. inc. v. cat contracting inc. 385_f.3d_1360 1370 fed.cir.2004
+that analysis well fits this case for there is no indication in the prosecution_history of any relationship between honeywells cancellation of the independent_claim and the alleged_equivalent sundstrand apparatus or method
+
+the panel_majority states that` when honeywell rewrote the application_dependent_claims into independent_form iteffectively add [ ed ] the [ igv ] limitation to the claimed invention' maj. op.at 1315 [ alteration in original ] and therefore it provided` a direct not merely tangential relation to the equivalent' id.at 1316
+this is not the tangential_relationship contemplated by festo where the court demanded *1322 review of the reason for the narrowing_amendment and the relation of that reason to the accused equivalent
+it does not suffice to say that by narrowing a claim by adding an element ipso facto the relation to the accused equivalent_element is not tangential
+this criterion relates to why an amendment was made ; it does not become irrebuttable simply when the accused equivalent concerns the same element that was added by amendment
+
+exploration of this criterion requires at a minimum review of the reason for cancellation of the independent_claim and rewriting the dependent_claim in independent_form
+the panel_majority makes no mention of the prosecution of the original_independent_claims except to state that the examiner rejected them on the ground of obviousness
+although the panel_majority states that` the key to this inquiry is the content of the original_dependent_claims' this obscure statement leads to no analysis
+in a situation where an originally dependent_claim is asserted against an infringer under the doctrine of equivalents and the asserted limitation was first introduced in a dependent_claim then according to the panel_majority there is always more than a tangential_relationship between the reason for the amendment and the accused equivalent even when there is no finding as to the reason for the amendment
+this renders the presumption of estoppel irrebuttable whatever the reason for the amendment
+however the question is whether the subject_matter of the accused equivalent was relinquished by the patentee during prosecution
+this question should be resolved on its facts not converted into a complete_bar
+
+why does it matter ?
+these nine years of proceedings do not reflect an optimum mode of patent dispute resolution
+the jury_verdict of infringement under the doctrine of equivalents was rendered in february 2001 and all outstanding issues were resolved by the district_court by opinion rendered in 2001
+the jury was instructed in accordance with precedent instruction no._35.3..
+the test for determining equivalency is whether at the time of the asserted infringement one of ordinary_skill in the art would consider the differences between the accused product or method and the element or elements of the patent_claim not literally present to be insubstantial
+if such a person would consider those differences not to be substantial then infringement exists under the doctrine of equivalents
+honeywell must prove infringement under the doctrine of equivalents by a preponderance of the evidence
+in determining whether honeywell has proven that a feature of the hamilton sundstrand product is equivalent to an element of a patent_claim you should focus on the individual element and maintain a special vigilance against allowing the concept of equivalence to eliminate that element entirely
+
+* * * * * * it is not a requirement under the doctrine of equivalents infringement that those of ordinary_skill in the art knew of the equivalent when the patent_application was filed or when the patent issued
+the question of whether hamilton sundstrands product is equivalent to that defined in honeywells claims is to be determined as of the time of the alleged infringement
+the correctness of the instruction was not in dispute
+the verdict of no literal_infringement but of infringement under the doctrine of equivalents was sustained by the district_court
+honeywell_int l inc. v. hamilton_sundstrand_corp. 166 f. supp.2d 1008 d.del.2001
+the courts holding today takes another step to remove *1323 patent issues from the jury but adds nothing to consistency or stability or predictability of the law
+i respectfully dissent
+
+all citations
+523_f.3d_1304 86_u.s.p.q.2d_1718
+footnotes
+1
+claims 17 35 and 51 of the application that issued as the ¡¬893 provided 17
+the accessory_power_unit of claim 16 wherein said compressor has adjustable_inlet_guide_vanes the value of said flow-related parameter is substantially independent of the temperature of the compressed air said comparator means have an adjustable_control_set_point_representing said desired value of said parameter and said accessory_power_unit further comprises means for transmitting to said comparator a reset_signal for varying said set_point as a function of the position of said inlet_guide_vanes in accordance with a predetermined reset_schedule
+35
+the control_system of claim 32 wherein the compressor has adjustable_inlet_guide_vanes and said control_system further comprises a guide_vane_position_sensor and a function_generator coupled in series between the inlet_guide_vanes and said input_portion of said comparator
+51
+the method of claim 49 wherein the compressor has adjustable_inlet_guide_vanes and said method further comprises the step of adjusting the relationship between the magnitudes of said integral and proportional_control_signals and the magnitudes of said parameter_variations as a function of the position of the inlet_guide_vanes
+1
+the sundstrand_technology is patented to sundstrand
+2
+sundstrand stated to the district_court that` during the prosecution of the patents-in-suit the examiner did not reference any prior art that disclosed inlet_guide_vanes or the use of their position as part of a surge_control_system'
+appellees br.at 10
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+honeywell_intern. inc. v. hamilton_sundstrand_corp. 523_f.3d_1304 2008 86_u.s.p.q.2d_1718
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

@@ -1,0 +1,560 @@
+545_f.3d_1316
+united_states court of appeals federal circuit
+technology licensing corporation plaintiff-appellant v. videotek inc. defendant and
+gennum_corporation defendant-cross appellant
+nos._2007-1441 2007-1463
+| oct._10,_2008
+synopsis
+background patent owner filed action against competitor alleging infringement of patents relating to separation of synchronization_signals from video_signals
+parties consented to final disposition by magistrate_judge
+the united_states district court for the northern district of california richard seeborg united_states magistrate judge determined that one patent claim was indefinite for failure to satisfy written description_requirement and that other patent had not been infringed but was not invalid
+parties appealed
+
+holdings the court of appeals plager circuit_judge held that
+
+judicial_efficiency and policy of repose counseled against according deference on appeal to re-determination of patent validity by patent and trademark_office pto which acted on reissue_application while appeal was pending ;
+
+`` other_circuit' claim was not entitled to benefit of original filing_date of patent_application for failure to satisfy written description_requirement ;
+
+accused sync_separator_chips were not designed to and did not produce in practice claimed` clamped_sync_portion' at known level of fixed voltage ;
+
+anticipatory_prior_art that was cumulative to other_prior_art of record in patent_application was not material for inequitable_conduct_purposes ;
+
+claim was not automatically indefinite due to absence of internal_circuitry in written description ; and
+
+competitor did not carry its burden to prove claim was indefinite and thus invalid due to absence of internal_circuitry in written description
+
+affirmed
+
+attorneys and law firms
+*1319 timothy j. vezeau katten muchin rosenman llp of chicago il argued for plaintiff-appellant
+with him on the brief were michael a. dorfman rachel m. vorbeck and james a. gromada of washington dc
+j. donald mccarthy duane morris llp of los_angeles ca argued for defendant-cross appellant
+with him on the brief were todd r. miller jones day of los_angeles ca and gregory a. castanias of washington dc
+before newman plager and schall circuit_judges
+opinion
+plager circuit_judge
+this is a patent_case
+it is not unusual for a patent_case on appeal to turn more on a question of law or legal procedure than on the complexities of the particular technology that underlies the dispute
+this is not such a case
+this case has both legal issues and technical issues in roughly equal measure
+there is among other_issues a complex though ultimately not difficult question of allocation of the burdens of proof between the patentee and the alleged_infringer when entitlement to *1320 an earlier_filing_date is at issue
+and there is among other_issues a complex and rather difficult question of whether the written description of the earlier_application supports the later-claimed technology
+as the reader will see in the course of deciding the case the court had to parse the terms of the four applications that led to the two patents governing the particular aspect of video technology at issue.1
+
+after weighing carefully the findings and judgment of the trial_court which followed from a lengthy bench_trial and the arguments of counsel for the parties regarding the several issues in contention we affirm the trial_courts judgment
+
+background
+i
+technology and the patents-in-suit
+the technology licensing corporation` tlc' patents at issue in this case relate to the separation of synchronization_signals from video_signals
+in general the composite_video_signal received by a television contains information that allows the television to reproduce pictures on its screen one line at a time
+the incoming_video_signal includes a synchronization signal also referred to as a` sync_signal' or` sync_pulse' to indicate the beginning of the information for each line
+the sync_signal must be extracted precisely from the composite_video_signal so that the television can accurately reproduce the transmitted image
+this function is performed by circuits referred to as` sync_separators' which have been in existence since the advent of television
+sync separators are implemented today as integrated circuits
+
+in an analog video_signal one that follows for example the national television system committee` ntsc' standard used in the united_states the sync_signal is a downward or negative-going pulse preceded by an interval called a` front_porch' and followed by an interval called a` back_porch'
+the ntsc sync_signal is said to be a two-level_signal because the signal is at one voltage_level during the front_porch and back_porch intervals and reaches a different lower voltage_level during the sync_pulse
+digital video_signals such as hdtv use a more complex three-level sync_signal
+
+the process of sync_separation involves two fundamental steps
+first the` tip' or negative peak of the pulse known as the` sync_tip' is` clamped' or held to a known voltage_level by adding current to or draining current from the signal
+second the clamped sync_pulse is` sliced' by comparing it to a` slicing voltage' typically midway between the sync_tip voltage_level and the back_porch voltage_level in a two-level_signal
+the following diagram j.a
+2705 shows a sync_pulse with a front_porch a back_porch and a sync_tip that has been clamped to a known voltage
+
+*1321. ?
+the sync_separator produces a logic level sync_signal that is for example high when the video_signal is below the slicing voltage indicating the presence of a sync_pulse and low at all other times
+the tlc patents in this case are directed to methods for sync_separation that may be used with different_types of sync_signals as required by various standards and that minimize the effect of noise in the video_signal thereby providing reliable and precise recovery of sync_signals
+
+the patents-in-suit issued from a chain of continuation and continuation-in-part applications.2 j. carl cooper the sole inventor filed the first patent_application serial no._837323` the ¡¬323_application' on february 28 1992
+on december 13 1993 he filed a continuation_application which eventually issued as u.s._patent_no._5486,869` the ¡¬869_patent`
+before that patent issued cooper filed a continuation-in-part` cip' application serial no._493661` the ¡¬661_application' on june_22,_1995
+the final application a cip of the ¡¬661_application was filed on december 4 1995 and later issued as u.s._patent_no._5754,250` the ¡¬250_patent`
+in sum there are two patents-in-suit derived from four applications for patent
+cooper assigned the patents to tlc which he formed for the purpose of licensing and asserting his patents
+
+the ¡¬869_patent describes inter alia a sync_separator that involves two separate clamping operations
+claim 27 of the ¡¬869_patent is directed to the two-clamp aspect of the patented invention 27
+an apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal said sync_portion having a plurality of levels one of which may be a blanking level said apparatus including a circuitry responsive to said sync_portion to clamp the sync_tip thereof to a known level thereby providing a clamped_sync_portion and to generate at least a first_logic_level_sync_signal in response to said clamped_sync_portion ; b circuitry for clamping said sync_portion to a known level to provide a second_clamped_sync_portion ; *1322 c circuitry for providing at least one reference_signal in response to said first_logic_level_sync_signal and said second_clamped_sync_portion ; d circuitry for comparing said second_clamped_sync_portion to said reference_signal to provide said logic_level_version
+¡¬869_patent_col. 17 ll.15-31 emphases and paragraph lettering added
+
+the ¡¬869_patent also describes a sync_separator that is able to recover sync_signals from different_types of video_signals e.g. both ntsc and hdtv_signals
+claim 31 of the ¡¬869_patent relates to that aspect of the invention 31
+an apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal said sync_portion having a number of levels n one of which may be a blanking level and where n may be two or more depending on the format of said video_type_signal said apparatus including a circuitry to provide a format_signal_changeable in response to the format of said video_type_signal ; b circuitry responsive to said sync_portion to generate at least a first separated sync_signal ; c circuitry for providing at least n-1 reference_signal s in response to said sync_portion and said first separated sync_signal ; and
+( d circuitry responsive to said sync_portion and said format signal and said reference_signal s for comparing said sync_portion to said reference_signal s to provide said logic_level_version
+¡¬869_patent_col. 17 ll.41-57 emphasis and paragraph lettering added
+
+cooper added new_matter to the written description in june 1995 when he filed the ¡¬661_cip_application and again in december 1995 when he filed the cip_application that led to the ¡¬250_patent
+the ¡¬250_patent contains claims that involve only a single clamp including claim 33 33
+the method of recovering sync from a video_type_signal including the steps of a coupling said video_type_signal through a capacitor or other_circuit thereby establishing a level shifted signal having a sync_portion ; b comparing said level shifted signal to a first known reference to provide a compared signal ; c selectively adding a current to said level shifted signal wherein the amount and/or polarity of said current is responsive to said compared signal and the d.c. level of said level shifted signal is changed in response to said current ; d comparing said level shifted signal to a second known reference to provide a second compared signal which second compared signal is a logic level representation of said sync_portion
+¡¬250_patent col.28 ll.13-29 emphasis added and paragraph lettering modified
+
+when cooper added claim 33 to the ¡¬250_patent_application by amendment in december 1996 he stated that` claim 33 element [ a ] corresponds to [ capacitor ] c3 of figure 2 or alternatively to [ capacitor ] 1603 or [ resistors ] 1604_and_1605 of figure 16'
+j.a.2030
+what this means as a technical matter is that the` capacitor' specified in step a necessarily corresponds to one of the two capacitors he identified-either to capacitor c3 in figure 2 or to capacitor 1603 in figure 16
+this leaves resistors 1604_and_1605 in figure 16 to correspond with the` other_circuit' specified in step a
+figure 16 was part of the new_matter added when the cip was filed in 1995.3 exactly where the *1323 written description_support for the phrase` other_circuit' is to be found is a major point of contention in the case
+
+ii
+procedural history
+tlc filed a complaint against videotek inc.` videotek' alleging infringement of the ¡¬869_patent and ¡¬250_patent
+videotek filed a third-party_complaint against its sync_separator chip supplier gennum_corporation` gennum' seeking a right to indemnification
+gennum then filed a third-party_complaint against tlc seeking a declaratory judgment that tlcs patents were invalid unenforceable and not infringed
+tlc filed compulsory counterclaims against gennum alleging that gennum was liable for direct and indirect infringement
+tlc and videotek settled leaving only the dispute between tlc and gennum for adjudication by the trial_court
+
+gennum initially requested a jury_trial
+after a ruling by the trial_court that would have had the effect of significantly reducing the amount of damages tlc could recover if infringement were found tlc withdrew its claim for damages and sought only injunctive relief
+gennum then withdrew its request for a jury_trial
+after the magistrate_judge assigned to the case rejected tlcs argument that it had a right to a jury_trial in a declaratory judgment action to invalidate its patents tlc filed a petition for a writ of mandamus with this court
+we agreed with the magistrate_judge that tlc was not entitled to a jury_trial and denied the petition
+in re tech
+licensing_corp. 423_f.3d_1286_(fed.cir.2005)
+that decision is law of the case
+
+subsequently a bench_trial was held before the magistrate_judge sitting as the trial_court in october 2006
+tlc asserted that gennums gs 1881 gs 4881 and gs 4981 chips` the ¡¬81_family' infringed certain_claims of the ¡¬ 250 patent and that gennums gs 4882 and gs 4982 chips` the ¡¬82_family' infringed certain_claims of both the ¡¬250_patent and the ¡¬869_patent
+as discussed in more_detail below the chips in the ¡¬82_family contain both a` hard_clamp' circuit and a` soft_clamp' circuit whereas the chips in the ¡¬81_family contain only a one-clamp circuit
+
+the trial_court found that the ¡¬81_family of chips did not infringe the asserted claims of the ¡¬250_patent independent_claim 33 and dependent_claims 34-big_token__37_and_39__big_token
+with regard to the ¡¬82_family of chips the trial_court noted that gennum presented no evidence to rebut tlcs showing that the soft_clamp_circuitry of the ¡¬82_family infringed the asserted claims
+the court therefore found that tlc would be entitled to judgment in its favor on infringement by the ¡¬82_family of chips in the absence of a finding that the claims were invalid
+
+the trial_court then addressed the validity of claim 33 and the asserted dependent_claims of the ¡¬250_patent
+gennum argued that the claims were anticipated by several different prior_art references
+the trial_court however found that four of those references did not satisfy step c of claim 33` selectively adding a current to said level shifted signal wherein the amount and/or polarity of said current is responsive to said compared signal' because the disclosed methods inject only a fixed amount of current rather than a variable amount.4 deciding the issue not as a matter *1324 of claim_construction but as an` evaluation of the prior_art' the trial_court concluded that a method that adds a fixed amount of current is not within the scope of the claim because a fixed amount of current can not be` responsive' to another signal
+
+the remaining pieces of prior_art relied on by gennum were the el4581c and el4583c sync_separator_chips made by elantec which are described in data_sheets published in may 1993 and november 1993 respectively
+tlc did not dispute that the elantec_chips met all the limitations of the asserted claims of the ¡¬250_patent
+thus the issue before the trial_court was whether the elantec_chips were indeed prior_art a question that turned on thepriority date or more accurately the effective_filing_date of the asserted claims.5
+
+as discussed in more_detail later a patent must contain a written description of the claimed invention in` full clear concise and exact' terms
+35 u.s.c.¡± 112 ?
+1
+in a situation like the one here in which a patentee seeks the benefit of the filing_date of an earlier filed application compliance with the written description_requirement may turn on whether the disclosure of the earlier_application provides` adequate_support' for the claims at issue
+see vas-cath inc. v. mahurkar 935_f.2d_1555 1560 fed.cir.1991
+in this case gennum contended that claim 33 was entitled to an effective_filing_date of 1995 because the only written description_support in the ¡¬250_patent for claim 33 is found in the new_matter that was added in 1995
+therefore in gennums view the 1993 elantec_chips were anticipatory_prior_art rendering claim 33 invalid
+tlc responded that the claims were entitled to a 1992 filing_date when the original_¡¬323_application was filed because the written description of the ¡¬323_application provides adequate_support for claim 33
+thus tlc argued the elantec_chips were not available as prior_art to invalidate the claims
+
+in its opinion the trial_court first discussed the allocation of burdens and the standard of proof in a footnote tlc asserts that gennum must prove by` clear and convincing' evidence that the claims are not entitled to the priority_date_tlc claims
+even though the ultimate issue in this case is the validity of the claims tlc has not pointed to authority for the proposition that the` clear and convincing' standard applies when resolving the priority date issues
+the court need not decide the applicable_standard however because the result would be the same under either the preponderance of the evidence or a` clear and convincing' standard
+tech licensing_corp. v. gennum corp. no._01- cv-4204 slip op.at 31_n._40 2007_wl_1319528_(n.d.cal._may_4,_2007)` tlc_order and opinion`
+the trial_court then found in gennums favor concluding that the ¡¬323_application did not provide adequate written description_support for the` other_circuit' language in step a of claim 33
+in response to tlcs argument that two resistors r21 and r26 in figure 3 of the ¡¬323_application6 supported that *1325 limitation the trial_court said
+
+[ t ] he only` support' for claim 33 is the fact that r21 and r26 appear in one of several_circuit_diagrams and that there is a passing_reference to r21 albeit mislabeled in the text
+while it may be possible that a person of ordinary_skill in the art could study figure 3 and determine that r21 and r26 might have the effect of establishing a level shifted signal there is nothing from which anyone could determine with any confidence that r21 and r26 were the` other_circuit' being claimed
+id.at 33
+having determined that the asserted claims of the ¡¬250_patent were not entitled to the benefit of the ¡¬323_applications filing_date the trial_court found that the elantec_chips were prior_art that rendered the claims invalid for anticipation
+gennum also argued at trial that the ¡¬250_patent was unenforceable due to inequitable_conduct because during prosecution cooper failed to disclose to the united_states patent and trademark_office` pto' the lm 1881 prior_art chip effectively the industry standard at the time manufactured by national semiconductor
+the trial_court however found that gennum made no effort to rebut tlcs showing that every element of the lm 1881 that was pertinent to the asserted claims of the ¡¬250_patent was disclosed in a japanese_patent_reference that was already in the application_file
+the trial_court therefore found that the lm 1881 reference was not material because it was cumulative to other_prior_art already before the examiner
+
+with respect to the ¡¬869_patent the trial_court found that gennums ¡¬82_family of chips did not infringe independent_claim 27 and dependent_claims_29_and_30
+although the chips in the ¡¬82_family contain two clamp_circuits a hard_clamp and a soft_clamp the trial_court found that they did not generate two` clamped_sync_portions' in the manner required by the claims
+the trial_court also found that the ¡¬82_family of chips did not infringe claims 31 32 and 40 the other asserted claims of the ¡¬869_patent
+finally the trial_court rejected gennums challenge to the validity of claim 31 of the ¡¬869_patent on the grounds that it did not meet the written description enablement and definiteness requirements of 35 u.s.c.¡± 112
+
+accordingly the trial_court entered final_judgment in favor of gennum on all issues except gennums declaratory claims for unenforceability of the ¡¬250_patent and invalidity of claim 31 of the ¡¬869_patent
+tlc filed a timely appeal and gennum filed a timely cross-appeal
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+
+discussion
+tlc appeals the trial_courts invalidity judgment with respect to claims 33-big_token__37_and_39__big_token of the ¡¬250_patent
+tlc also appeals the judgment that gennums ¡¬82_family of chips do not infringe claims 27 29 and 30 of the ¡¬869_patent7 on cross-appeal gennum challenges the judgment of the trial_court regarding inequitable_conduct and the judgment regarding the validity of claim 31 of the ¡¬869_patent
+gennum also challenges the trial_courts claim_construction of step c in claim 33 of the ¡¬250_patent an issue we need not decide for reasons explained below
+we consider the issues on appeal in turn beginning with those raised by tlc in the main appeal
+
+*1326 i. validity of claim 33 of the ¡¬250_patent
+we turn first to the ¡¬250_patent
+since tlc has conceded that the elantec_chips described in data_sheets published in may and november of 1993 meet all the limitations of the asserted claims of the ¡¬250_patent independent_claim 33 and dependent_claims 34-big_token__37_and_39__big_token the issue is whether the elantec_chips were in fact prior_art
+the ¡¬250_patent issued from a cip_application_filed in 1995
+if claim 33 is only entitled to the benefit of the 1995 date as gennum maintains the elantec_data_sheets were indeed prior_art that anticipates claim 33
+
+tlcs counterargument is that claim 33 is entitled under 35 u.s.c.¡± 120 to the benefit of the 1992 filing_date of its ancestor the original_¡¬323_application
+that statute provides that a patent_application for an` invention disclosed in the manner provided by the first paragraph of section 112 of this title in an application previously filed in the united_states.. shall have the same effect as to such invention as though filed on the date of the prior_application..' 35 u.s.c.¡± 120 emphasis added
+in essence this means that in a chain of continuing applications a claim in a later application receives the benefit of the filing_date of an earlier_application so long as the disclosure in the earlier_application meets the requirements of 35 u.s.c.¡± 112 ?
+1 including the written description_requirement with respect to that claim
+see transco_prods inc. v. performance_contracting inc. 38_f.3d_551 556 fed.cir.1994
+if the effective_filing_date of claim 33 under ¡± 120_is_1992 then the elantec_data_sheets dated in 1993 are not prior_art to the claim
+
+the dispute as to whether claim 33 is entitled to the benefit of the ¡¬323_applications filing_date involves the` other_circuit' limitation in step a of claim 33
+gennum maintains that the only written description_support for that limitation in the ¡¬250_patent is new_matter that was added in 1995 specifically resistors 1604_and_1605 in figure 16 along with accompanying text
+tlcs position is that resistors_r21 and r26 in figure 3 of the ¡¬250_patent which were originally disclosed in figure 3 of the ¡¬323_application also correspond to and thus support the` other_circuit' limitation in claim 33
+
+the ultimate_question then is whether the disclosure of the ¡¬323_application satisfies the written description_requirement with respect to claim 33 and particularly with respect to the` other_circuit' limitation in step a
+the trial_court answered this question in the negative and therefore found that claim 33 was not entitled to the 1992 effective_filing_date of the ¡¬323_application
+accordingly the trial_court found that the elantec_data_sheets were indeed prior_art and concluded that claim 33 is invalid for anticipation
+
+on appeal tlc argues that in so doing the trial_court erred in two respects first by shifting the burden of proof to tlc to show that it is entitled to the benefit of the 1992 filing_date of the ¡¬323_application ; and second even if the trial_court applied the burden of proof correctly in concluding that the disclosure of the ¡¬323_application does not provide adequate written description_support for claim 33 of the ¡¬250_patent
+we address these issues in turn beginning with a discussion of the allocation of burdens of proof
+
+a
+the burdens of proof
+first a clarification of terminology
+we will refer to the generic problem of burdens only in the plural-burdens of proof-because there are within that phrase two distinct and quite different ideas
+one is the burden of persuasion
+that is the ultimate_burden assigned to a party who must prove something to a specified degree of certainty-beyond a reasonable *1327 doubt the criminal law standard of proof for guilt ; by a preponderance of the evidence the usual_civil_law_standard for proof of a fact ; or perhaps something in between such as` clear and convincing' the patent_law evidentiary standard for establishing that a patent otherwise presumed valid is invalid see 35 u.s.c.¡± 282 ; am
+hoist & derrick co. v. sowa & sons inc. 725_f.2d_1350 1360 fed.cir.1984
+failure to prove the matter as required by the applicable_standard means that the party with the burden of persuasion loses on that point-thus if the fact trier of the issue is left uncertain the party with the burden loses
+see generally christopher_b._mueller & laird_c._kirkpatrick evidence_¡± 3.1 1995 ; 21b charles_alan_wright & kenneth_w._graham jr. federal_practice & procedure_¡± 5122 2d ed.2005
+
+in the case before us plaintiff/patentee tlc alleging infringement by gennum has the burden of persuasion that gennum infringes under the usual_civil_law_standard of preponderance of the evidence
+in response to the argument by tlc that gennum infringes claim 33 of the ¡¬250_patent gennum raises the affirmative defense that claim 33 is invalid because it is anticipated by the prior_art
+when an alleged_infringer attacks the validity of an issued patent our well-established law places the burden of persuasion on the attacker to prove invalidity by clear and convincing_evidence
+see hybritech inc. v. monoclonal antibodies inc. 802_f.2d_1367 1375 fed.cir.1986 ; ralston purina co. v. far-mar-co inc. 772_f.2d_1570 1573 fed.cir.1985 ; am
+hoist 725 f.2d at 1360
+neither tlcs burden to prove infringement nor gennums burden to prove invalidity both ultimate_burdens of persuasion ever shifts to the other party-the risk of decisional uncertainty stays on the proponent of the proposition
+see hybritech 802 f.2d at 1375 ; ralston 772 f.2d at 1574 ; am
+hoist 725 f.2d at 1360
+
+a quite different burden is that of going forward with evidence-sometimes referred to as the burden of production-a shifting burden the allocation of which depends on where in the process of trial the issue arises
+see generally christopher_b._mueller & laird_c._kirkpatrick evidence_¡±¡± 3.1 3.2 1995 ; 21b charles_alan_wright & kenneth_w._graham jr. federal_practice & procedure_¡± 5122 2d ed.2005
+we understand and we shall use here the phrasegoing forward with evidence to mean both producing additional evidence and presenting persuasive argument based on new_evidence or evidence already of record as the case may require
+
+here tlc the plaintiff in the suit has the initial_burden of going forward with evidence to support its allegation that gennum infringes claim 33
+gennum having the ultimate_burden of proving its defense of invalidity based on anticipating prior_art then has the burden of going forward with evidence that there is such anticipating prior_art which in gennums view means art that is prior to the 1995 application date of the ¡¬250_patent
+see ralston 772 f.2d at 1573
+
+at that point tlc has the burden of going forward with evidence either that the prior_art does not actually anticipate or as was attempted in this case that it is not prior_art because the asserted claim is entitled to the benefit of a filing_date prior to the alleged prior_art
+see id
+this requires tlc to show not only the existence of the earlier_application but why the written description in the earlier_application supports the claim
+in the context of the allegedly anticipating elantec_prior_art that means producing sufficient_evidence and argument to show that an ancestor to the ¡¬250_patent with a filing_date prior to the elantec date contains a written description that supports all the limitations of claim 33 the claim being asserted
+
+*1328 assuming then that tlcs evidence and argument in support of the earlier_filing_date is now before the court the burden of going forward again shifts to the proponent of the invalidity defense gennum to convince the court that tlc is not entitled to the benefit of the earlier_filing_date
+`` convince' is the operative word because if the court is not persuaded by clear and convincing_evidence that gennum is correct gennum has failed to carry its ultimate_burden of persuasion and its defense of invalidity based on anticipation by the elantec art fails
+
+tlc argues on appeal that the trial_court improperly shifted the burden of persuasion to tlc to prove that the 1992 written description_supported the claim when the burden of persuasion on invalidity should have remained on the challenger
+gennum responds that is not what the trial_court did but argues that in any event our recent decision in poweroasis inc. v. t-mobile usa inc. 522_f.3d_1299_(fed.cir.2008) relieved gennum of that burden
+
+poweroasis was issued between the time the briefing in this case was completed and the time oral_argument in the case was held
+at oral_argument gennum took the position that the rule in poweroasis is that if the trier of fact is left in doubt about whether the effective_date resides in an ancestor patent_application the patentee not the challenger loses
+in effect gennums argument is that the risk of non-persuasion falls on the patentee because the patentee has the burden of proving that it is entitled to the earlier effective_filing_date
+
+in poweroasis the alleged_infringer t-mobile argued that the claims asserted against it by the patentee poweroasis were anticipated by the mobilestar_network a system that was in public use more than one year before the date of the cip_application from which the asserted claims arose
+since poweroasis conceded that the mobilestar_network included all the limitations of the asserted claims poweroasis countered t-mobiles position by arguing that the claims were entitled to the benefit of the filing_date of an earlier_application
+as in this case the issue then before the trial_court was whether the earlier written description provided sufficient support for the asserted claims
+the judgment of the trial_court was that poweroasis was not entitled to the benefit of the earlier_filing_date
+
+in affirming the trial_courts judgment this courts opinion noted that the trial_court` held that poweroasis had the burden of proving that it is entitled to claim priority to the filing_date of the original application'
+522 f.3d at 1303
+in our affirmance however we stated that once t-mobile satisfied its initial_burden of production by coming forward with evidence that the mobilestar_network was anticipatory_prior_art` the burden was on poweroasis to come forward with evidence to the contrary'
+id.at 1305 emphasis added
+we then concluded that the` district_court therefore correctly placed the burden on poweroasis to come forward with evidence to prove entitlement to claim priority to an earlier_filing_date'
+id.at 1305-06 emphasis added
+
+nevertheless gennum is not alone in reading poweroasis to have modified the traditional burdens rule so that the patentee has the burden of persuasion to prove it was entitled to the earlier_filing_date.8 carefully read however poweroasis *1329 says nothing more than and should be understood to say that once a challenger the alleged_infringer has introduced sufficient_evidence to put at issue whether there is prior_art alleged to anticipate the claims being asserted prior_art that is dated earlier than the apparent effective_date of the asserted patent claim the patentee has the burden of going forward with evidence and argument to the contrary
+as we noted earlier it is a long-standing rule of patent_law that because an issued patent is by statute presumed valid a challenger has the burden of persuasion to show by clear and convincing_evidence that the contrary is true
+that ultimate_burden never shifts however much the burden of going forward may jump from one party to another as the issues in the case are raised and developed
+correctly understood poweroasis is fully consistent with this understanding ; until such time as these rules are abrogated by statute by this court sitting en banc or by the supreme court the opinion in poweroasis could not be otherwise
+
+b
+application of the burdens of proof in this case
+in our case what burdens of proof did the trial_court apply and did the court misapply the applicable burdens ?
+the trial_courts only direct reference to the burdens of proof appears in the footnote quoted earlier in which the court also addressed the standard of proof
+in the footnote the court acknowledges tlcs assertion` that gennum must prove byclear and convincing evidence that the claims are not entitled to the priority_date_tlc claims' but then goes on to discuss the applicable_standard of proof clear and convincing vs. preponderance concluding that the court did not need to decide which standard applied because` the result would be the same under either'
+tlc_opinion and order slip op.at 31_n._40
+
+tlc cites to the passage in the trial_courts opinion in which the court discussed whether the written description of the ¡¬323_application specifically the proffered figure 3 also figure 3 in the ¡¬869_patent and the ¡¬250_patent provided support for the` other_circuit' limitation
+that passage reads [ t ] he only` support' for claim 33 is the fact that r21 and r26 appear in one of several_circuit_diagrams and that there is a passing_reference to r21 albeit mislabeled in the text
+while it may be possible that a person of ordinary_skill in the art could study figure 3 and determine that r21 and r26 might have the effect of establishing a level shifted signal there is nothing from which anyone could determine with any confidence that r21 and r26 were the` other_circuit' being claimed
+tlc_opinion and order slip op.at 33
+tlc argues that this passage indicates that the trial_court placed the burden on tlc to show that` anyone' would know that the written description_supported claim 33
+tlc adds that this statement further shows that the trial_court gave no deference to the examiners decision to approve the claim
+
+tlcs burdens argument is not without reason
+the trial_courts footnote is at best ambiguous regarding the burdens of proof issue
+the court certainly did not *1330 explicitly address the question of which party had what burden of proof
+furthermore the statement regarding what` anyone' could determine can be read to support tlcs position
+
+we think however that the statement should be read somewhat differently
+in the context of the case and the opinion in which this paragraph appears we understand the court to mean by` anyone' the judicial trier of fact and the following phrase to summarize the courts conclusion that giving tlcs evidence due weight gennums evidence and arguments were sufficient for the trier to conclude by clear and convincing_evidence that figure 3 does not provide adequate written support for the` other_circuit' limitation
+the footnote certainly demonstrates that tlc had fully communicated to the trial_court where on the question of invalidity the ultimate_burden of persuasion lay and we think the quoted passage is too thin a reed on which to build a conclusion that the trial_court failed to understand this or failed to view the evidence accordingly
+
+the deference issue raised by tlc also needs addressing
+tlc argues that the trial_court in rejecting its position that claim 33 was entitled to the earlier_filing_date of the ¡¬323_application failed to give proper_deference to the expertise of the pto in the matter
+the pto had of course issued the ¡¬250_patent thus imbuing it with the statutory presumption of validity
+more than that tlc has now informed the court that subsequent to the oral_argument in the case the previously-filed reissue_application regarding the ¡¬250_patent has been acted on by the pto
+on july_1,_2008 the original patent was reissued with the original claims including claim 33 unchanged
+tlc suggests this new information is` pertinent and significant' to this appeal.9
+
+in poweroasis this court went to some lengths to distinguish an earlier case ralston on this question of deference
+ralston had set out a description of the burdens of proof and the function of the burden of going forward which we have followed here
+772 f.2d at 1573-74
+at the same_time as poweroasis explained in ralston the issue of what effective_date the patent-in-suit was entitled to had been addressed by the pto because the issue was before it in the form of an interference contest
+poweroasis 522 f.3d at 1304
+in addition as the record below showed the examiner had specifically considered the prior_art on which the defendant in that case relied
+id
+thus` the defendant had the added burden of overcoming the deference due to the pto'
+id
+
+by contrast in the poweroasis case the pto had not made any determination with regard to the effective_filing_date of the various claims of the asserted patents
+beyond that the prior_art at issue had not even been before the examiner
+in this courts view there was no basis to` presume' anything about the filing_date and` no finding for the district_court to defer to'
+id.at 1305
+
+with regard to whether there was a determination by the pto of an effective_filing_date the facts of our case fall somewhere between those of ralston and poweroasis
+although the elantec_data_sheets were listed as prior_art in the patent_application and thus were before the examiner there is nothing in the record to indicate that the pto determined during the original examination that claim 33 was or was not entitled to the filing_date of the ancestor
+counsel for tlc when queried *1331 during oral_argument acknowledged that there was no express evidence that the examiner ever addressed the point
+
+thus whether the trial_court gave proper_deference to the ptos expertise in initially issuing the ¡¬250_patent is in the first instance a question of evidentiary weight
+in this circumstance the deference question is subsumed into the overall assessment by the trial_court of the evidence on the basic issue of whether tlc is entitled to the earlier_filing_date
+in the absence of some specific indication otherwise we assume that the trial_court properly included the ptos expertise in its calculations and rendered judgment accordingly
+
+whether the later reissuance of the ¡¬250_patent by the pto subsequent to the decision by the trial_court in this case is pertinent to the appeal is a different question
+it is self-evident that the ptos subsequent reaffirmation of its earlier position that claim 33 is a valid claim despite the alleged prior_art can have no legal effect as such on the already-rendered judgment of a court of competent jurisdiction
+no one suggests that the pto has power to exercise review authority over a judgment of a federal trial_court
+
+that said there remains the question of what deference if any needs to be accorded on appeal to such an administrative re-determination when it first appears at the last moment in an appeal from a trial_courts final_judgment
+it hardly needs noting that it is the trial_courts decision not the ptos that is before us on appeal
+the reissuance of the patent occurred after the trial_court rendered its final_judgment
+an appellate court ordinarily declines to consider new_evidence or argument not previously presented to the trial forum whose judgment is under review
+we think that in a circumstance such as this judicial_efficiency and the policy of repose counsels against our re-weighing of the evidence to add an additional_deference-thumb to the scale or even more disruptive our asking the trial_court to reopen the entire invalidity question to reweigh the intangible_worth of additional_deference
+
+this is not to say that the determinations made by the corps of examiners are not important or should not be worthy of appropriate deference to their expertise in these technical matters especially when we have the benefit of well-reasoned explications
+it is to say that when dealing with the intangible_worth to be accorded an administrative agencys decision making the judicial process can not be held hostage to the timing of either the agency or the litigants who have invoked the agencys further review
+in some circumstances a party may be able to obtain a stay from the trial_court while awaiting the sought-for agency action ; absent that and absent extenuating circumstances not here present the case must be decided on the record the litigants present for appeal
+
+c. review of the trial courts written description determination
+we turn now to the merits of the question of whether the trial_court on the record before it correctly determined that figure 3 of the ¡¬323_application does not provide adequate written description_support for the` other_circuit' limitation in step a of claim 33
+to satisfy the written description_requirement the disclosure of the earlier filed application must describe the later claimed invention` in sufficient detail that one skilled in the art can clearly conclude that the inventor invented the claimed invention as of the filing_date sought'
+lockwood v. am
+airlines inc. 107_f.3d_1565 1572 fed.cir.1997
+while the earlier_application need not describe the claimed subject_matter in precisely the same terms as found in the claims at issue eiselstein v. frank 52_f.3d_1035 1038 fed.cir.1995 the prior_application must *1332` convey with reasonable clarity to those skilled in the art that as of the filing_date sought [ the inventor ] was in possession of the invention' vas-cath 935 f.2d at 1563-64
+compliance with the written description_requirement is a question of fact which following a bench_trial we review for clear_error
+lampi corp. v. am
+power prods. inc. 228_f.3d_1365 1378 fed.cir.2000
+
+tlc argues that the resistors_r21 and r26 in the written description of the ¡¬ 323 application provide adequate_support for the` other_circuit' in step a of claim 33 the circuit through which the video_signal is coupled to establish a level-shifted signal
+as the trial_court correctly noted r21 and r26 appear only in figure 3 one of several_circuit_diagrams in the application
+
+?
+the text of the written description makes no mention of r26 and only briefly refers to r21 in passing` the output of the input amplifier 102 is coupled to the positive input of the amplifier op10 of dc restoration 110 via a resistor [ r21 ] of 330£s'
+¡¬869_patent_col.8 ll.18-20.10 there is no reference whatsoever in the text to a level shifting circuit much less one that consists of the resistors_r21 and r26
+in contrast the ¡¬250_patent contains new_matter describing a level shifting circuit that supports the` other_circuit' limitation in claim 33
+figure 16 contains two resistors 1604_and_1605
+
+*1333. ?
+those resistors are referred to in the following passage from the written description` the output of 1602 is coupled to a falling edge_detector 1614 to a rising edge_detector 1615 and to a d.c. level adjustment circuit shown in this preferred embodiment as a resistor network 1604_and_1605'
+¡¬250_patent col. 18 ll.4-8 emphasis added
+as noted earlier when the inventor added claim 33 during prosecution of the ¡¬250_patent he identified only resistors 1604_and_1605 as corresponding to the` other_circuit'
+at the same_time he identified two alternatives for the capacitor recited in claim 33-capacitor c3 in figure 2 which was included in the original_¡¬323_application and capacitor 1603 in figure 16
+thus although he found support for the capacitor in the original written description the only support that the inventor acknowledged for the` other_circuit' was the new_matter added in 1995
+tlc makes much of the alleged similarity between the portion of figure 3 containing r21 and r26 and the portion of figure 16 containing resistors 1604_and_1605
+tlc also points to a passage in the ¡¬250_patent that compares the operation of some circuit elements in figure 16 including resistor 1605 but not resistor 1604 to circuit 110 which is the portion of figure 3 containing r21 and r26
+see ¡¬250_patent col.19 ll.45-48` sample switch 1608 along with reference 1621 negative integrator 1607 and current providing resistor 1605 operate to d.c. restore the video_signal the same as that of circuit 110`
+essentially tlc argues that if resistors 1604_and_1605 in figure 16 provide adequate written description_support for the` other_circuit' so too must r21 and r26 in figure 3 because of the similarities between the two circuits
+
+we are not convinced
+first the ¡¬250_patent has text that describes the resistors 1604_and_1605 as part of a level shifting circuit ; there is no corresponding description regarding resistors_r21 and r26 in the ¡¬323_application
+more importantly a comparison of figure 3 with figure 16 in the ¡¬250_patent does not address whether the ¡¬323_application itself has sufficient written description for claim 33
+the pertinent question is not whether a person skilled in the art could look at both figure 3 and figure 16 and determine that the resistors in the former perform a similar function to the resistors in the latter
+rather the issue is whether a person skilled in the art would understand from the earlier_application alone without consulting the new_matter in the ¡¬250_patent *1334 that the inventor had possession of the claimed` other_circuit' in 1992 when the ¡¬323_application was filed
+
+tlc contends that coopers testimony shows that the ¡¬323_application itself adequately supported the` other_circuit' limitation because he explained how r21 and r26 establish a level shifted signal
+this evidence persuaded the trial_court that a person skilled in the art might conclude that r21 and r26 would have the effect of establishing a level shifted signal but that was all
+based on the entire record before the court the trial_court concluded that a person skilled in the art would not understand the ¡¬323_application to show that the inventor had actually invented the claimed subject_matter as of 1992
+based on our review of the same record we are not convinced that the trial_court clearly erred in finding there was clear and convincing_evidence that the ¡¬323_application did not show the inventor was in possession of the invention as of the filing_date
+we therefore affirm the trial_courts finding that claim 33 and the asserted dependent_claims were not entitled to the benefit of the 1992 filing_date and the resultant finding that the elantec_data_sheets anticipate those claims
+
+gennum makes an additional argument regarding the validity of claim 33 that we need not address
+specifically gennum argues that the trial_court erred in construing claim language in step c of claim 33 and that under the correct claim_construction there are four non-elantec_prior_art references that anticipate claim 33
+because we affirm the trial_courts determination that claim 33 is invalid as anticipated by the elantec_prior_art we need not decide this issue
+
+ii
+infringement of the ¡¬869_patent
+tlc appeals the trial_courts non-infringement judgment with respect to independent_claim 27 and dependent_claims_29_and_30 of the ¡¬ 869 patent
+infringement is a question of fact and thus following a bench_trial we review the trial_courts judgment for clear_error
+scanner techs corp. v. icos vision sys corp. 528_f.3d_1365 1382 fed.cir.2008
+
+claim 27 requires two so-called clamp_circuits which clamp the sync_pulses of the incoming_video_signal to a known voltage_level
+limitations a and b recite a first and second_clamp respectively` a circuitry responsive to said sync_portion to clamp the sync_tip thereof to a known level thereby providing a clamped_sync_portion.. b circuitry for clamping said sync_portion to a known level to provide a second_clamped_sync_portion'
+¡¬869_patent_col. 17 ll.18-24 emphasis added
+
+gennums ¡¬82_family of chips contain a` hard_clamp' circuit and a` soft_clamp' circuit that operate in the following manner the hard_clamp_circuitry continuously compares the voltage of the incoming_video_signal to a fixed voltage_level vhc
+if the voltage of the video_signal is less than vhc current is injected to raise the voltage_level of the video_signal
+in practice the video_signal will be lower than vhc only during start-up conditions which is why gennum refers to the hard_clamp as a` start-up circuit'
+once the voltage of the video_signal has reached vhc the soft_clamp_circuitry begins operation to clamp the sync_tips to a higher fixed voltage_level vsc
+the following figure from the trial_courts opinion based on a gennum data sheet with lettering added by the trial_court illustrates the effect of the hard_clamp followed by the soft_clamp on the voltage_level of the video_signal
+
+*1335. ?
+sync tips a - d occur during the start-up period while the hard_clamp_circuit injects current to raise the voltage_level to vhc
+once the voltage reaches vhc the soft_clamp circuit takes over raising the voltage_level to vsc and then holding the sync_tips at the vsc level
+tlcs infringement theory is that gennums hard_clamp_circuit satisfies limitation a of claim 27 the first clamp and that gennums soft_clamp circuit satisfies limitation b the second_clamp
+as the trial_court found there is no dispute that gennums soft_clamp operates in the manner envisioned by the patent clamping sync_tip to vsc and providing a clamped_sync_portion sync_tips k - m in the figure above
+the controversy between the parties is whether gennums hard_clamp_circuitry also performs the functions of the clamp circuitry recited in the claim
+
+the critical question addressed by the trial_court was whether gennums hard_clamp_circuit produces a` clamped_sync_portion' as required by the claims
+tlc argued that a clamped_sync_portion is generated because one or more sync_tips may happen to be at or near the vhc_level
+for example in the figure above sync_tip e is approximately at the vhc_level
+tlc also relied on another demonstrative trial exhibit that shows two successive sync_tips at or close to vhc
+despite the possibility that one or more sync_pulses might occur at the vhc_level the trial_court found that` the gennum_chips are not designed to and do not ever attempt to produce aclamped sync_portion at the level of vhc'
+tlc_order and opinion slip op.at 10
+the trial_court ultimately concluded that` it simply can not be said that the gennum_chips are designed to or do in practice *1336 produce aclamped_sync_portion at the known level of vhc even if a few_pulses at that level sometimes occur in actual operation'
+id.at 11
+because the hard_clamp does not provide a clamped_sync_portion the trial_court found that gennums ¡¬82_family of chips do not infringe claim 27 and its dependent_claims
+
+the trial_court also provided an alternative_basis for finding non-infringement
+after interpreting the claims to require that the first and second_clamped_sync_portions exist simultaneously the court found that even if the hard_clamp provides a clamped_sync_portion it does not coexist temporally with the clamped_sync_portion provided by the soft_clamp
+
+on appeal tlc argues that the trial_court erred as a matter of law in excusing infringement by gennum as de minimis
+the trial_court however did not make a finding of infringement de minimis or otherwise
+based on our reading of the opinion we understand the trial_court to have found that the few_pulses that might occur at the vhc_level would not be a clamped_sync_portion within the meaning of the claims because the hard_clamp_circuit does not perform the function of clamping or holding the sync_tips to that voltage_level
+the court did not find as tlc contends that those few_pulses actually would infringe very quickly or briefly
+
+tlc also argues that the trial_court erred as a matter of law in requiring tlc to prove that gennum intended to infringe
+this argument is based on the trial_courts statement that if there were any pulses at vhc it would be` a matter of happenstance rather than design'
+id.at 10
+nothing in the opinion however indicates that the court equated design with intent
+the fact that the gennum_chips were not designed to produce a clamped_sync_portion at vhc was merely part of the evidence considered by the trial_court in concluding that the hard_clamp_circuit does not provide a clamped_sync_portion
+
+thus we conclude that the trial_court committed no error of law in determining that the hard_clamp does not produce a clamped_sync_portion nor did the court clearly err in any of its fact findings
+we affirm the trial_courts non-infringement judgment on that basis
+because we agree with the trial_court that the hard_clamp does not provide a clamped_sync_portion we need not address tlcs arguments regarding the trial_courts holding that two clamped_sync_portions must exist simultaneously which was only an alternative_basis for the trial_courts judgment
+
+iii
+inequitable conduct
+in its cross-appeal gennum challenges the trial_courts conclusion that cooper did not commit inequitable_conduct during prosecution of the ¡¬250_patent by failing to disclose to the pto the lm 1881 prior_art
+we review the trial_courts underlying factual determinations regarding materiality and intent for clear_error and the trial_courts ultimate decision on inequitable_conduct for abuse of discretion
+star_scientific inc. v. r.j. reynolds tobacco co. 537_f.3d_1357 1365 fed.cir.2008
+
+the trial_court found that the lm 1881 prior_art was not material because it was cumulative to a japanese_patent_reference already in the ptos application_file
+gennum does not dispute that finding
+instead gennum argues that the lm 1881 anticipates claim 33 of the ¡¬250_patent and urges us to hold that an anticipatory_prior_art reference is material as a matter of law regardless of whether it was cumulative *1337 to other_prior_art of record in the patent_application
+we decline to so hold
+
+gennums assertion that the lm 1881 anticipates claim 33 is predicated on its argument that the trial_court erroneously construed step c of claim 33
+we did not reach that issue in connection with the validity of claim 33 and we need not reach it here
+even if the lm 1881 is anticipatory_prior_art as proposed by gennum under our case law a cumulative_reference is not material for inequitable_conduct_purposes
+
+in some of our cases we have looked to the current pto rule on the duty of disclosure for a definition of materiality
+see purdue pharma l.p. v. endo pharms inc. 438_f.3d_1123 1129 fed.cir.2006 ; bruno indep
+living aids inc. v. acorn mobility servs. ltd. 394_f.3d_1348 1352 fed.cir.2005
+that rule which became effective in 1992 explicitly provides that an undisclosed reference is not material when it is cumulative to information already of record in the patent_application
+37 c.f.r.¡± 1.56` [ i ] nformation is material to patentability when it is not cumulative to information already of record or being made of record in the application..'
+we have recently held that the materiality standard based on pto rule 56 did not replace but merely supplemented the pre-1992 standard established by this court
+digital_control inc. v. charles mach
+works 437_f.3d_1309 1316 fed.cir.2006
+under that standard which was based on an earlier version of rule 56 a reference is material` when a reasonable_examiner would consider it important in deciding whether to allow the application to issue as a patent'
+star_scientific 537 f.3d at 1367 quoting symantec corp. v. computer assocs
+int l inc. 522_f.3d_1279 1297 fed.cir.2008 ; see also digital_control 437 f.3d at 1314
+even under the` reasonable_examiner' test however it has long been established that a reference is not material if it is cumulative to other references already before the examiner
+star_scientific 537 f.3d at 1367 ; scripps clinic & research found
+v. genentech inc. 927_f.2d_1565 1582 fed.cir.1991 ; halliburton co. v. schlumberger tech corp. 925_f.2d_1435 1440 fed.cir.1991
+
+gennum suggests that we can` modify' the pto rule regarding cumulative_references because it was promulgated pursuant to the judicially-created doctrine of inequitable_conduct
+whether we have the power to do so is immaterial however because we are bound to follow our own precedent
+as noted even before the pto amended its rule to expressly state that a material reference is non-cumulative our cases consistently held that a cumulative_reference is not material for purposes of inequitable_conduct
+there has never been an exception for anticipatory cumulative_references and we are not inclined to create one now
+
+because gennum has failed to show clear_error in the trial_courts finding that the lm 1881 chip was not material and has not established that the trial_court abused its discretion by applying the wrong law we affirm the trial_courts judgment that the ¡¬250_patent is not unenforceable due to inequitable_conduct
+
+iv
+validity of claim 31 of the ¡¬869_patent
+the trial_court concluded that claim 31 was not invalid for any of the reasons asserted by gennum failure to satisfy the written description and enablement requirements of 35 u.s.c.¡± 112 ?
+1 *1338 and indefiniteness under 35 u.s.c.¡± 112 ?
+2
+on cross-appeal gennum challenges only the trial_courts determination regarding indefiniteness arguing that the claim is fatally indefinite because there is no structure in the written description corresponding to limitation a
+that limitation reads` circuitry to provide a format_signal_changeable in response to the format of said video_type_signal'
+¡¬869_patent_col.17 ll.46-47
+the trial_court held and the parties agree that the limitations in claim 31 including limitation a should be construed as means-plus-function limitations in accordance with 35 u.s.c.¡± 112 ?
+6
+
+judge rich writing for the en banc court explained the relationship between the second and sixth paragraphs of section 112 [ i ] f one employs means-plus-function language [ per paragraph 112-6 ] in a claim one must set forth in the specification an adequate_disclosure showing what is meant by that language
+if an applicant fails to set forth an adequate_disclosure the applicant has in effect failed to particularly point out and distinctly claim the invention as required by the second paragraph of section 112
+in re donaldson co. 16_f.3d_1189 1195 fed.cir.1994 en banc
+therefore if a claim includes a means-plus-function limitation failure to disclose adequate structure corresponding to the claimed function results in the claim being invalid for indefiniteness
+in re dossel 115_f.3d_942 946 fed.cir.1997
+whether the written description adequately sets forth structure corresponding to the claimed function must be considered from the perspective of a person skilled in the art
+intel corp. v. via techs. inc. 319_f.3d_1357 1365-66 fed.cir.2003 citing budde v. harley-davidson inc. 250_f.3d_1369 1376 fed.cir.2001
+the question is not whether one of skill in the art would be capable of implementing a structure to perform the function but whether that person would understand the written description itself to disclose such a structure
+biomedino llc v. waters techs corp. 490_f.3d_946 953 fed.cir.2007 citing med
+instrumentation & diagnostics corp. v. elekta ab 344_f.3d_1205 1212 fed.cir.2003
+
+`` a determination of claim indefiniteness is a legal conclusion that is drawn from the courts performance of its duty as the construer of patent claims'
+personalized media commc'ns llc v. int l trade comm n 161_f.3d_696 705 fed.cir.1998
+to the extent there are any factual_findings upon which a trial_courts indefiniteness conclusion depends they must be proven by the challenger by clear and convincing_evidence
+intel 319 f.3d at 1366 citing budde 250 f.3d at 1376-77
+though we review the ultimate_question of indefiniteness without deference to the trial_court personalized media 161 f.3d at 702 any factual_findings made by the court in a bench_trial in support of that conclusion are reviewed for clear_error see allen eng g corp. v. bartell indus. inc. 299_f.3d_1336 1343-44 fed.cir.2002 holding that findings of fact from a bench_trial are reviewed for clear_error
+
+in this case the parties agree that video standard detector 103 in figure 1 of the ¡¬869_patent corresponds to limitation a of claim 31
+that circuit element is shown as a` black box' i.e. nothing in the figures or text of the written description describes the details of its inner circuitry
+as our cases demonstrate however the absence of internal_circuitry in the written description does not automatically render the claim indefinite
+in *1339 intel 319 f.3d at 1366 for example we held that generic` core_logic' of a computer modified to perform a particular program was adequate corresponding structure for a claimed function although there was no specific circuitry disclosed to show how the core_logic was modified
+similarly in s3 inc. v. nvidia corp. 259_f.3d_1364 1370-71 fed.cir.2001 we held that a` selector' adequately disclosed structure for a` means.. for selectively receiving' limitation even though neither the electronic structure of the selector nor the details of its operation were described
+in that case it was unnecessary for the written description to disclose additional detail because a person skilled in the art would have recognized that the selector as shown in the patent was an electronic device with a known structure
+id
+
+gennum argued before the trial_court that no detector known in the art in 1992 when cooper filed his original patent_application could detect both analog and hdtv_signals
+presumably gennum intended that argument to support a conclusion that claim 31 was indefinite because a person skilled in the art would not have understood the detector in the written description of the ¡¬869_patent to have a well-known structure
+see id
+the only evidence that gennum presented on this point however was the testimony of its expert that he personally was not aware of any then-existing hardware that could perform the claimed function
+cooper on the other hand testified for tlc that technology to perform the claimed function was available at the relevant time and would have been known to a person skilled in the art
+because gennums expert had done no research into what circuitry was actually available the trial_court considering the evidence as a whole and taking into account the presumption of validity concluded that gennum did not carry its burden to prove claim 31 was indefinite
+on the record before us we agree that gennum failed to show that the written description of the ¡¬869_patent lacks structure corresponding to the function in limitation a of claim 31 and thus the trial_court did not err in concluding that the claim is not invalid for indefiniteness
+
+conclusion
+the judgment of the trial_court is
+
+affirmed.11
+
+costs
+each party shall bear its own costs
+
+all citations
+545_f.3d_1316 88_u.s.p.q.2d_1865
+footnotes
+1
+one small benefit the older reader may gain from a study of the technology is a better understanding of why the picture on the video screen would occasionally roll a problem this technology has mostly solved
+2
+the difference between a continuation_application and a continuation-in-part application is that a continuation contains the same disclosure found in an earlier_application whereas a continuation-in-part contains a portion or all of the disclosure of an earlier_application together with added matter not present in the earlier_application
+see transco_prods inc. v. performance_contracting inc. 38_f.3d_551 555 fed.cir.1994
+3
+it is unclear from the excerpts of the record provided by the parties on appeal whether figure 16 and its accompanying text were added as new_matter when the ¡¬661_cip_application was filed in june 1995 or when the subsequent cip_application that became the ¡¬250_patent was filed in december 1995
+for purposes of this opinion we will assume that figure 16 and its textual description were added when the application that matured into the ¡¬250_patent was filed
+as will become evident whether the new_matter was added in june or december 1995 is of no consequence as long as it was after 1993
+4
+one of the four references was the lm 1881 sync_separator chip which makes a later appearance in this case
+5
+`` priority' is a term which like` jurisdiction' has many meanings and which depends for its meaning on context
+the term is sometimes used as here when a patent_application is entitled to the benefit of the filing_date of an earlier united_states patent_application
+the statute that provides for that entitlement is 35 u.s.c.¡± 120 which does not use the term` priority'
+the term does appear in 35 u.s.c.¡± 119 which provides that an application is entitled to the benefit of the filing_date of an earlier foreign application subject to certain limitations and conditions
+and of course the term is commonly used in connection with interference practice
+for clarity we refer not to a priority date but to entitlement to the benefit of a filing_date or simply the effective_filing_date
+6
+the ¡¬323_application and the ¡¬869_patent have the same written description
+the trial_courts opinion sometimes refers to the published ¡¬869_patent ; for clarity and because timing is a critical issue we will refer to the ¡¬323_application when appropriate
+7
+tlc does not challenge the judgment of non-infringement of the ¡¬ 250 patent by the ¡¬81_family of chips or the judgment of non-infringement of claims 31 32 and 40 of the ¡¬869_patent by the ¡¬82_family of chips
+8
+see e.g. peter j. karol the presumption of validity a new crack in the armor ? 76 pat
+trademark & copyright j
+127 128 2008` [ poweroasis ] went on to hold that where such a determination [ of entitlement to an earlier_filing_date ] has not previously been made by the pto and where the defendant has introduced clearly anticipatory intervening art the burden to establish section 120 priority is on the patent owner`
+the article goes on to speculate that poweroasis could mean that a defendant should not be made to demonstrate invalidity by clear and convincing_evidence in other areas of patent_law as well thus placing` a bedrock [ principle ] of u.s. patent_law.. on shakier ground'
+id.at 129
+see also david o. taylor will high court change burden of proving invalidity ? law360 aug._01,_2008 available at http //www.law360
+com/articles/64798
+9
+letter to the clerk of the court from counsel for tlc providing supplemental authority july_1,_2008 stating that the ¡¬250_patent has been reissued as re40,411 and the ¡¬869_patent as re40,412
+10
+as noted earlier the ¡¬869_patent has the same written description as the ¡¬323_application except that the text of the ¡¬869_patent as printed mistakenly refers to r1 instead of r21
+11
+the trial_courts judgment makes reference to claims 27-29 of the ¡¬869_patent though the trial_courts opinion and tlcs briefs indicate that the asserted claims at issue were 27 29 and 30
+our affirmance is with regard to the latter
+if we have read the record incorrectly the parties may so advise
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+technology licensing_corp. v. videotek inc. 545_f.3d_1316 2008 88_u.s.p.q.2d_1865
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

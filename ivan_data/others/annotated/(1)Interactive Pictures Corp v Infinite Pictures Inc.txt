@@ -1,0 +1,55 @@
+274_F.3d_1371
+United States Court of Appeals Federal Circuit
+INTERACTIVE PICTURES CORP. ( formerly known as Omniview Inc. ) Plaintiff-Appellee v. INFINITE PICTURES INC. Defendant-Appellant and
+Bill Tillman Craig Jones and Gary Waltenbaugh ( doing business as Graphics Effects also known as Graphics EFX ) Defendants
+No._01-1029
+| Dec._20,_2001
+| Rehearing and Rehearing En Banc Denied March_21,_2002
+Synopsis
+Owner of patent for image processing system sued competitor for infringement
+The United_States_District_Court for the Eastern_District of Tennessee Robert Leon Jordan J. entered judgment on jury_verdict for owner and competitor appealed
+The Court of Appeals Lourie Circuit_Judge held that : ( 1 ) amendment of claim did not preclude subsequent assertion of infringement by equivalents ; ( 2 ) evidence supported finding of infringement by equivalents ; and ( 3 ) evidence supported damage award
+
+Affirmed
+
+Attorneys and Law Firms
+*1373 Robert F. Altherr Jr. Banner & Witcoff LTD of Washington DC argued for plaintiff-appellee
+With him on the brief were Nina L. Medlock and Bradley C. Wright
+Of counsel was Thomas H. Jackson Banner & Witcoff LTD. J. Michael Jakes Finnegan Henderson Farabow Garrett & Dunner L.L.P. of Washington DC argued for defendant-appellant
+With him on the brief was Christine E. Lehman
+Before LOURIE Circuit_Judge ARCHER Senior Circuit_Judge and GAJARSA Circuit_Judge
+Opinion
+LOURIE Circuit_Judge
+Infinite Pictures Inc. appeals from the decision of the United_States_District_Court for the Eastern_District of Tennessee denying its various motions following a jury_verdict finding Infinite and the other defendants liable for infringement of Interactive Pictures Corp. 's U.S._Patent 5,185,667 under the doctrine of equivalents and awarding $ 1 million in damages
+Because the district court did not err as a matter of law by refusing to preclude infringement by equivalents and because the jury 's finding of equivalence and award of damages were supported by substantial evidence we affirm
+
+BACKGROUND
+A
+The ¡¬667_Patent and its Prosecution History
+The ¡¬667_patent describes an image viewing system whereby a user can view a specified portion of a hemispherical_field of view in corrected perspective
+¡¬ 667 patent col._2,_ll._35-60
+The image viewing system utilizes inter_alia a camera equipped with a fisheye_lens an input_memory an image_transform_processor and an output
+Id.at_col._3,_ll._25-48 Figure 1
+In operation the fisheye_lens camera produces a circular_image of an entire hemispherical_field of view
+Id. Abstract
+As the hemispherical_field of view is mapped into a circle the fisheye_lens introduces distortion-fisheye_distortion-such that straight lines appear curved in the circular_image
+Id.at col._4,_ll._22-47
+The circular_image_data is stored in the input_memory
+Id.at_col._3,_ll._25-48
+The image_transform_processor reads the circular_image_data from the input_memory accepts user input of pan and tilt angles to specify a region of interest in the image mathematically transforms the image data in that region so as to correct the fisheye_distortion and outputs a perspective corrected view of that region to the system 's output
+Id.at col._2,_ll._35-60
+The user may also specify desired rotation and magnification of the region of interest
+Id
+The system performs the mathematical transformations electronically without moving parts id.at col._3,_ll._10-24 preferably at real time rates id.at col._4,_ll._44-47
+
+Claim 1 the only claim at issue reads as follows : 1
+A device for providing perspective corrected views of a selected portion of a hemispherical view in a desired format that utilizes no moving parts which comprises : a camera_imaging_system for receiving optical_images and for producing output_signals corresponding to said optical_images ; *1374 fisheye_lens means attached to said camera_imaging_system for producing said optical_images throughout said hemispherical_field-of-view for optical conveyance to said camera_imaging_system ; image capture means for receiving said output_signals from said camera_imaging_system and for digitizing said output_signals from said camera_imaging_system ; input_image_memory means for receiving said digitized signals ; image_transform_processor means for processing said digitized signals in said input_image_memory means according to selected viewing angles and magnification and for producing output_transform_calculation_signals according to a combination of said digitized signals said selected viewing angles and said selected magnification ; output_image_memory means for receiving said output_signals from said image_transform_processor means ; input_means for selecting said viewing angles and magnification ; microprocessor means for receiving said selected viewing angles and magnification from said input_means and for converting said selected viewing angles and magnification for input to said image_transform_processor means to control said processing of said transform processor means ; and
+output means connected to said output_image_memory means for recording said perspective corrected view according to said selected viewing angles and magnification
+Id.at col._8,_ll._27-66 ( emphasis added )
+
+Claim 1 was initially rejected by an Examiner at the U.S._Patent and Trademark Office under inter_alia 35 U.S.C.¡± 103 as being obvious over U.S._Patent 5,067,019 issued to Juday et al. in light of U.S._Patent 5,068,735 issued to Tuchiya et al
+The applicant challenged the propriety of the rejection by noting several deficiencies in the Juday reference vis-a-vis claim 1 and disputing the relevance of Tuchiya
+Additionally the applicant amended claim 1 in several ways including inserting the words `` transform calculation '' to the section reciting the `` image_transform_processor means '' so that `` output_signals '' became `` output_transform_calculation_signals ''
+That change was made without any explanation
+After receipt of the applicant 's claim amendments and arguments the Examiner allowed claim 1 without stating in the record any reasons for the allowance
+

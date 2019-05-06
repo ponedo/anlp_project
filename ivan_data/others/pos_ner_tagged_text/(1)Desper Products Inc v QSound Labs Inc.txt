@@ -1,0 +1,102 @@
+('157_F.3d_1325', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('DESPER', 'NNP', '', 'O') ('PRODUCTS', 'NNPS', '', 'O') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Spatializer_Audio_Laboratories', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellees', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('QSOUND', 'NNP', 'ORG', 'B') ('LABS', 'VBP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NN', '', 'O')
+Spatializer_Audio_Laboratories Inc. QSOUND LABS INC.
+__NEW_SENT__
+('No._97-1163', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Sept._18,_1998', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('competitors', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('product', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('patents', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('audio', 'JJ', '', 'O') ('sound', 'NN', '', 'O') ('image', 'NN', '', 'O') ('location', 'NN', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('counterclaimed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('William', 'NNP', 'PERSON', 'B') ('Duffy', 'NNP', 'PERSON', 'I') ('Keller', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court California William Duffy Keller J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Plager', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('district_court', 'JJ', '', 'O') ('correctly', 'RB', '', 'O') ('interpreted', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('prosecuting', 'VBG', '', 'O') ('attorney', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('remarks', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('applications', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('interpret', 'VB', '', 'O') ('disputed', 'VBN', '', 'O') ('claim_language', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringed', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('prosecution', 'NN', '', 'O') ('history', 'NN', '', 'O') ('estopped', 'VBD', '', 'O') ('precluded', 'JJ', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+The Court of Appeals Plager Circuit_Judge 1 2 3 4
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1327', 'NNP', '', 'O') ('Ira', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Siegel', 'NNP', 'PERSON', 'I') ('Ladas', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Parry', 'NNP', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Ira M. Siegel Ladas & Los Angeles California
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Yoon', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'ORG', 'B') ('Sonsini', 'NNP', 'ORG', 'I') ('Goodrich', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Rosati', 'NNP', 'ORG', 'I') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'I')
+James C. Yoon Wilson Sonsini Goodrich & Rosati Palo Alto California
+__NEW_SENT__
+('Mark', 'NNP', 'PERSON', 'B') ('Norman', 'NNP', 'PERSON', 'I') ('Mutterperl', 'NNP', '', 'O') ('Fulbright', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Jaworski', 'NNP', '', 'O') ('L.L.P.', 'NNP', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Mark Norman Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Koch', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Karen', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Ballotta', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Tannenbaum', 'NNP', 'GPE', 'B') ('Dallas', 'NNP', 'GPE', 'B') ('Texas', 'NNP', 'GPE', 'B')
+Robert J. Koch Karen A. Ballotta Washington DC David H. Tannenbaum Dallas Texas
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('PLAGER', 'NNP', '', 'O') ('CLEVENGER', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PLAGER', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Desper', 'NNP', 'ORG', 'B') ('Products', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Spatializer_Audio_Laboratories', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Desper', 'NN', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('QSound', 'NNP', 'ORG', 'B') ('Labs', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('QSound', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('Nos._5105,462', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'462_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('5,208,860', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'860_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('No', 'UH', '', 'O')
+Desper Products Inc. Spatializer_Audio_Laboratories Inc. Desper QSound Labs Inc. QSound U.S. Patent Nos._5105,462 5,208,860 California
+__NEW_SENT__
+('CV', 'NNP', 'ORG', 'B') ('94-7276', 'CD', 'ORG', 'I') (')', '-RRB-', '', 'O')
+CV 94-7276
+__NEW_SENT__
+('Desper', 'NN', '', 'O') ('sought', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Desper', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('``', '``', '', 'O') ('Spatializer', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') ('product', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('either', 'CC', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O')
+Desper Spatializer
+__NEW_SENT__
+('QSound', 'NNP', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('patent_infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Desper', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('QSound', 'NNP', 'ORG', 'I') ('appeals', 'NNS', '', 'O')
+Desper and QSound
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('correctly', 'RB', '', 'O') ('interpreted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('disputed', 'VBN', '', 'O') ('claim_language', 'NN', '', 'O') ('and', 'CC', '', 'O') ('properly', 'RB', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('QSound', 'NNP', 'ORG', 'B') ('surrendered', 'VBD', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('within', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Desper', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('``', '``', '', 'O') ('Spatializer', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') ('product', 'NN', '', 'O') ('falls', 'VBZ', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Desper', 'NN', '', 'O')
+QSound Desper Spatializer
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('the', 'DT', '', 'O') ("'462_patent", 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ("'860_patent", 'NNP', '', 'O') ('both', 'DT', '', 'O') ('entitled', 'JJ', '', 'O') ('*1328', 'FW', '', 'O') ('``', '``', '', 'O') ('Sound', 'NNP', '', 'O') ('Imaging', 'NNP', '', 'O') ('Method', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Apparatus', 'NNP', '', 'O') ("''", "''", '', 'O')
+two
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('level', 'NN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('assigned', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('consent', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('special_master', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('regard', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('considering', 'VBG', '', 'O') ('both', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('submissions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('after', 'IN', '', 'O') ('conducting', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('extensive', 'JJ', '', 'O') ('hearing', 'NN', '', 'O') ('during', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('both', 'DT', '', 'O') ('sides', 'NNS', '', 'O') ('put', 'VBP', '', 'O') ('on', 'RP', '', 'O') ('expert', 'NN', '', 'O') ('testimony', 'NN', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ('recommended', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('be', 'VB', '', 'O') ('entered', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Desper', 'NNP', 'GPE', 'B') ('with', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('exception', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ('deemed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('involve', 'VB', '', 'O') ('a', 'DT', '', 'O') ('disputed', 'JJ', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('precluding', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O')
+Desper one
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('adopted', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('special_master', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('recommendations', 'NNS', '', 'O') ('except', 'IN', '', 'O') ('the', 'DT', '', 'O') ('one', 'CD', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('master', 'NN', '', 'O') ('thought', 'VBD', '', 'O') ('there', 'RB', '', 'O') ('existed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('genuine', 'JJ', '', 'O') ('dispute', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Desper', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('on', 'IN', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O')
+Desper
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Desper', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O') ('under', 'IN', '', 'O') ('Fed.R.Civ.P', 'NNS', '', 'O')
+Desper
+__NEW_SENT__
+('54', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+54
+__NEW_SENT__
+('QSound', 'NNP', '', 'O') ('now', 'RB', '', 'O') ('appeals', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('ruling', 'NN', '', 'O')
+
+__NEW_SENT__

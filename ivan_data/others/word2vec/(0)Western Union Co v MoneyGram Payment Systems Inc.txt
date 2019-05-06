@@ -1,0 +1,322 @@
+626_f.3d_1361
+united states court of appeals federal circuit
+the western union company plaintiff-appellee v. moneygram payment systems inc. defendant-appellant
+nos._2010-1080 2010-1210
+| dec._7,_2010
+| rehearing and rehearing en banc denied feb._8,_2011
+* synopsis
+background money transfer service company filed action against competitor alleging infringement of its patents directed to system for performing money_transfers
+the united_states_district_court for the western_district of texas sam sparks j. entered judgment on jury_verdict in patentees favor and denied competitors motion for judgment as matter of law
+competitor appealed
+
+holdings the court of appeals lourie circuit_judge held that
+
+competitor did not waive obviousness claim ;
+
+patent_claims were obvious ; and
+
+evidence of secondary_considerations was irrelevant
+
+reversed
+
+attorneys and law firms
+*1362 david e. sipiora townsend and townsend and crew llp of denver co argued for plaintiff-appellee
+with him on the brief were ian l. saffer amanda l. swaim and kevin m. bell
+william f. lee wilmer cutler pickering hale and dorr llp of boston ma argued for defendant-appellant
+with him on the brief were joseph j. mueller megan barbero and sydenham b. alexander iii ; and william g. mcelwain of washington dc
+of counsel on the brief were martin r. lueck and emmett j. mcmahon robins kaplan miller & ciresi llp of minneapolis mn
+before rader chief judge and lourie and prost circuit_judges
+opinion
+lourie circuit_judge
+moneygram_payment_systems inc.` moneygram' appeals from the final judgment of the united_states_district_court for the western_district of texas in favor of the western_union company` western_union'
+a jury found infringement of certain claims of u.s
+patents 6,488,203 the` ¡¬203_patent` ; 6,502,747 the` ¡¬747_patent` ; 6,761,309 the` ¡¬309_patent` ; and 7,070,094 the` ¡¬094_patent` and found those patents not invalid for obviousness
+the district_court denied moneygrams renewed motion for judgment as a matter of law` jmol' on infringement and invalidity of the asserted patents
+western_union_co. v. moneygram int l inc. no._107-cv00372 dkt
+no._429 w.d.tex
+nov._17,_2009` jmol opinion`
+because we find that the asserted_claims in the patents in suit would have been obvious to a person of ordinary_skill in the art at the time of filing we reverse
+
+background
+western_union owns the ¡¬203 ¡¬747 ¡¬309 and ¡¬094_patent s directed to a system for performing money_transfers
+the ¡¬203 ¡¬747 and ¡¬309_patent s collectively the` send patents' specifically relate to methods of sending money through a financial_services_institution` fsi'
+the ¡¬094_patent_claims methods for receiving transferred money
+the patented_system relates to money_transfer services such as those offered by western_union through retail_locations where a customer may identify a recipient and tender an amount to be delivered to the recipient
+the money_transfer service collects the amount from the retail_location and completes the transaction for the customer
+some of the traditional money_transfer_systems required money senders to fill out forms with transaction_information such as recipient information and the amount of money to be transferred
+the ¡¬203_patent_claims a method of performing a formless money_transfer using an electronic_transaction_fulfillment_device` etfd'
+figure 1 from the ¡¬203_patent depicts an embodiment of the patented_system
+
+*1363. ?
+figure 1 of the ¡¬203_patent
+in the patented_system a customer has telephone access to the customer service representative` csr' at the financial institution who obtains details of the transfer and` stages' the money_transfer for the customer storing the transaction_details on a host_computer 18
+the customer is later able to complete the transaction at a retail_location where an agent is able to retrieve the transaction from the computer 18 through an etfd 22 and accept the required amount of money from the customer
+claim 1 is representative of the patented_invention 1
+a method of performing a money_transfer send_transaction the method_comprising providing a sender direct access to an employee of a financial_services_institution in order to receive transaction_details from the sender ; storing on a data_base the transaction_details provided by the sender wherein the transaction_details include a desired amount of money to be sent by the sender to a recipient ; establishing a code that corresponds to the transaction_details stored on the data_base wherein the code is established for use by the sender during the send_transaction ; storing the code on the data_base such that the code is useable to identify the send_transaction on the data_base ; entering the code into an electronic_transaction_fulfillment_device in communication with the data_base to retrieve the transaction_details from the *1364 data_base after the step of storing the code on the data_base ; and
+determining a collect_amount to be collected from the sender based on the transaction_details ; wherein the code is not provided by or to the recipient for use by the recipient during the send_transaction
+¡¬203_patent claim 1 emphases added
+
+claim 12 is dependent on claim 1 and adds the limitation that an employee of the money_transfer_business provides the transaction identifying code
+claim 16 which is also dependent on claim 1 adds the limitation of collecting the money from the sender notifying the database of the collection and recording the transaction as complete
+the ¡¬203_patent was filed on october 26 1999 and issued on december 3 2002
+the ¡¬747_patent also filed in 1999 and the ¡¬309_patent filed in 2004 are both continuations of the ¡¬203_patent
+the ¡¬309_patent_claims are similar and substantially identical in scope to the ¡¬203_patent_claims
+the ¡¬747_patent primarily adds the use of internet-based communications using an internet communications protocol` the tcp/ip_protocol' to the money_transfer_system and claims the use of a` first_computer' instead of` the data_base' used in the ¡¬203_patent
+claim 20 is illustrative 20
+a method of performing a money_transfer send_transaction through a financial_services_institution the method_comprising receiving transaction_details on a first_computer of the financial_services_institution wherein the transaction_details are provided by a sender and include a desired amount of money to be sent by the sender to a recipient ; storing the transaction_details on the first_computer ; establishing a code that corresponds to the transaction_details wherein the code is established for use by the sender during the send_transaction ; storing the code on the first_computer such that the code is useable to identify the send_transaction ; receiving the code at the first_computer from an electronic_transaction_fulfillment_device in communication with the first_computer after the step of storing the code on the first_computer ; validating the code received from the transaction_fulfillment_device by comparing the code received from the transaction_fulfillment_device with the code stored on the first_computer ; and
+transmitting a collect_amount to be collected from the sender from the first_computer to the transaction_fulfillment_device if the code received from the transaction_fulfillment_device is valid ; wherein at least a portion of the method is performed using tcp/ip and wherein the code is not provided by or to the recipient for use by the recipient during the send_transaction
+¡¬747_patent claim 20 emphases added
+during prosecution of the ¡¬747 and ¡¬309_patent s the inventors filed a terminal disclaimer limiting the terms of those patents to that of the ¡¬203_patent in response to double patenting rejections by the uspto
+
+like the patented_invention a prior_art_system owned by orlandi_valuta another money_transfer_service_company also employed technology that did not require customers to fill out forms to transfer money
+below is a figure from orlandi_valutas literature on its` red phone' system
+
+*1365. ?
+orlandi_valutas red phone technology used as early as 1997 required a customer to use a telephone to initiate a transaction with an orlandi_valuta_csr
+the telephone typically used by the customer was a red colored telephone available at the retail_location that automatically connected to an orlandi_valuta_csr in los angeles california
+the csr would enter information received from the customer into the orlandi_valuta computer system whereupon the system would fax an invoice to the retail_location of the customer or to the one that the customer had requested
+the orlandi_valuta_customer would not receive a confirmation_number for the transaction but was simply required to wait at the retail_location
+upon receipt of the fax an agent at the retail_location would call out the name of the customer who could then tender the required amount to that agent
+western_union acquired orlandi_valuta in 1997 shortly after it had developed the formless transfer system
+
+the patents in suit claim to solve shortcomings of the orlandi_valuta_system
+the inventors earney soutenburg and dean seifert both employees of western_union were also responsible for orlandi_valutas technology group following western_unions acquisition of that company
+prior to developing the patented_system later commercialized as western_unions` yellow_phone' system the inventors evaluated orlandi_valutas formless_money_transfer_system to determine if western_union could utilize it on a larger scale to support its higher volumes of money_transfers
+the inventors claim that the orlandi_valuta_system was not a viable formless option for western_union
+
+moneygram also a money_transfer_service_company and a direct competitor of western_union developed and deployed *1366 its` formfree' money_transfer_system in 2000
+like the patented_system the moneygram system provided the customer with a confirmation_number which when provided by the customer to a retail agent allowed for completion of the previously staged transaction
+this confirmation_number was also stored in a confirmation_file_database along with other information such as the transfer amount of the staged transaction
+in september 2003 when moneygram learned of the patents in suit it developed a work-around to avoid infringement of those patent_claims
+the redesigned_system no longer stored the desired amount to be sent in the confirmation_file_database for pending transactions
+instead the customer was required to provide that information again to the agent at the retail_location where the customer funded and completed the transaction
+moneygram obtained a formal noninfringement opinion from outside counsel on its redesigned_system with regard to western_unions patents
+
+in may 2007 western_union filed this lawsuit in the united_states_district_court for the western_district of texas ultimately asserting infringement of claims 1 12 16 and 21 of the ¡¬203_patent ; claim 20 of the ¡¬747_patent ; claims 12_and_22 of the ¡¬309_patent ; and claim 2 of the ¡¬094_patent
+in december 2008 the district_court construed claims of all four patents at issue
+western_union_co. v. moneygram int l inc. no._107-cv-00372 2008_wl_5731946_(w.d.tex._nov.6,_2008)
+in august 2009 the district_court granted summary judgment that moneygrams design-around system did not infringe the asserted claim of the ¡¬094_patent
+western_union_co. v. moneygram inc. no._107-cv-00372 dkt
+no._353 2009_wl_3361210_(w.d.tex._aug._21,_2009)
+
+the case was tried to a jury in september 2009
+during trial western_union withdrew its claim of infringement of the ¡¬309_patent and claim 21 of the ¡¬ 203 patent as to moneygrams redesigned_system
+following trial the jury found that moneygrams redesigned_system infringed claims 1 12 and 16 of the ¡¬203_patent and claim 20 of the ¡¬747_patent under the doctrine of equivalents
+it found that moneygrams pre-design-around system however literally infringed the same claims as well as other claims that western_union had asserted only against the earlier moneygram system claim 21 of the ¡¬ 203 patent and claims 12_and_22 of the ¡¬309_patent
+on claim 2 of the ¡¬ 094 patent also asserted only against the earlier system the jury found infringement under the doctrine of equivalents
+the jury rejected moneygrams argument that the asserted_patent_claims were obvious in light of the orlandi_valuta_prior_art_system
+the jury awarded western_union reasonable royalty damages in the amount of $ 16,529,501.81
+
+following trial moneygram renewed its jmol_motion on obviousness of the asserted_patent_claims based on the orlandi_valuta_system and on noninfringement of the asserted_patent_claims
+western_union renewed its jmol_motion on literal_infringement of the ¡¬747_patent
+the court denied all jmol_motions
+in deciding moneygrams jmol_motion on obviousness the court found that moneygram had waived its argument on the issue
+jmol op. slip op.at 31
+nevertheless the court proceeded to evaluate moneygrams motion on its merits and decided that the jury had a legally sufficient evidentiary basis upon which it could conclude that the asserted_claims were not obvious
+id.at 32
+specifically regarding the orlandi_valuta_prior_art_system the court found that it did not employ an etfd terminal at the retail_location and did not use a code
+id.at 31-32
+the court concluded that it would not have been obvious for a person of ordinary_skill in the art to combine *1367 these two elements with the existing orlandi_valuta_system
+id
+moreover it held that secondary_considerations such as commercial_success and investments made by both parties in designing systems better than the orlandi_valuta_system weighed against a finding of obviousness
+id
+thus the district_court denied moneygrams jmol_motion
+lastly the court granted a permanent injunction against moneygram
+id.at 60
+moneygram now appeals the courts rulings on claim_construction infringement and invalidity of the ¡¬203 ¡¬747 and ¡¬309_patent s.1 we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+
+discussion
+obviousness
+we begin with the district_courts denial of moneygrams jmol_motion on obviousness
+we review the denial of a jmol_motion de novo applying law from the regional circuit in this case the fifth circuit harris corp. v. ericsson inc. 417_f.3d_1241 1248 fed.cir.2005
+under fifth_circuit_law a motion for judgment as a matter of law` should be granted by the trial court if after considering all the evidence in the light [ favorable to ] and with all reasonable inferences most favorable to the party opposed to the motion the facts and inferences point so strongly and overwhelmingly in favor of one party that the court concludes that reasonable jurors could not arrive at a contrary verdict'
+bellows v. amoco oil co. 118_f.3d_268 273 5th cir.1997
+
+at the outset western_union argues that moneygram has waived its right to appeal several issues including obviousness of the asserted_patent_claims based on the orlandi_valuta_system in combination with a keypad
+it argues that the district_court properly found this argument waived below because moneygram failed to specifically raise obviousness based on a keypad device in its rule 50 a motion and that omission ran afoul of the purpose of rule 50
+therefore western_union contends moneygram can not attempt to incorporate new prior_art arguments on appeal
+
+we disagree and decide that the district_court erred in concluding that moneygram had waived its obviousness argument specifically as it related to orlandi_valuta
+rule 50 a requires that a motion for judgment as a matter of law` must specify the judgment sought and the law and facts that entitle the movant to the judgment'
+fed.r.civ.p
+50 a 2
+we have held that even a cursory motion suffices to preserve an issue on jmol so long as it` serves the purposes of rule 50 a i.e. to alert the court to the partys legal position and to put the opposing party on notice of the moving partys position as to the insufficiency of the evidence'
+blackboard inc. v. desire2learn inc. 574_f.3d_1371 1379-80 fed.cir.2009
+fifth_circuit_law applicable here also construes the rule liberally excusing` technical noncompliance' when the purposes of the rule are satisfied
+navigant consulting inc. v. wilkinson 508_f.3d_277 288-89 5th cir.2007 citation omitted
+applying that liberal standard we find no waiver here
+moneygram argued in its rule 50 a motion that it was entitled to jmol on obviousness on all asserted_claims of all asserted patents specifically listing orlandi_valuta as prior_art that rendered the claims obvious
+we agree *1368 with moneygram that those statements were sufficient to preserve moneygrams obviousness arguments as to orlandi_valuta
+
+on the merits moneygram argues that the claimed invention simply takes a known prior_art_system and adds obvious elements such as the use of an off-the-shelf_keypad to access transaction_information
+it contends that the patent_specification itself concedes the fact that the core concept of the claimed invention namely the idea of providing a customer with direct access to a csr who can store the customers transaction_details in the fsis database was well-known in the prior_art
+according to moneygram the patented_invention simply replaced the fax_machine in the orlandi_valuta_system with an off-the-shelf_keypad-a well-known device in the art
+moneygram further argues that the district_court incorrectly concluded that the orlandi_valuta_system did not use a code even though there was ample evidence that such a code existed in that system by the name` clave' and users could use the clave to obtain information about their money_transfers
+regardless whether orlandi_valuta taught that limitation moneygram argues adding a numerical code to a system that processes financial transactions would have simply been common_sense to a person of skill in the art
+as for the ¡¬747_patent which primarily added the use of internet-based communications to the ¡¬203_patent moneygram argues that such an improvement would have been obvious under this courts precedent
+on secondary_considerations relied upon by the district_court moneygram contends that they have no relation to the claimed invention
+thus moneygram contends that it established by clear and convincing evidence at trial that the asserted_claims were obvious
+it further notes that in response to its case on obviousness western_union did not even offer a rebuttal before the jury
+therefore moneygram argues there is no evidence on the record to support the jurys underlying fact findings or its ultimate_conclusion of nonobviousness
+
+western_union argues in response that the orlandi_valuta_system may share some similarities with the patented_invention but it does not teach the core concepts claimed by its patents
+western_union argues that the orlandi_valuta_system lacks at least three critical elements 1 the` code' that is established for use by the sender during the send_transaction ; 2 an etfd ; and 3 the use of the internet
+regarding the code western_union argues the jury heard testimony that the clave in the orlandi_valuta_system was not given to the customer until after the transaction had been completed and that was sufficient_evidence for the jury to find that limitation missing from the prior_art
+likewise it argues the etfd claimed is one used for completing the money_transfer transaction and no evidence presented at trial established that the fax_machine in the orlandi_valuta_system could provide similar transaction fulfillment functionality
+according to western_union the keypads known in the prior_art were not the same as an etfd and moneygram presented no evidence that such a keypad could be used to retrieve transaction_details from a database as claimed in the patents
+western_union further argues that to the extent these elements were well-known in the prior_art the jurys verdict of nonobviousness is easily supported by the lack of evidence of any motivation for one skilled in the art to have combined these elements with the orlandi_valuta_system
+it contends for example that its own witness testified that extensive coding work was required to incorporate an etfd into the commercial_embodiment of the asserted patents
+*1369 lastly western_union argues evidence of secondary_considerations such as the commercial_success of its yellow_phone_system can not be ignored in evaluating the jurys finding of nonobviousness
+
+we agree with moneygram that in light of the orlandi_valuta_system western_unions asserted_claims would have been obvious as a matter of law
+obviousness is a question of law based on underlying findings of fact
+in re kubin 561_f.3d_1351 1355 fed.cir.2009
+we review the jurys determination of underlying fact for substantial_evidence but we review the ultimate_conclusion of obviousness de novo
+boston sci scimed inc. v. cordis corp. 554_f.3d_982 990 fed.cir.2009 ; muniauction inc. v. thomson corp. 532_f.3d_1318 1324 fed.cir.2008
+the underlying factual inquiries include 1 the scope and content of the prior_art ; 2 the differences between the prior_art and the claims at issue ; 3 the level of ordinary_skill in the art ; and 4 any relevant secondary_considerations such as commercial_success long felt but unsolved needs and the failure of others
+graham v. john deere co. 383_u.s._1 17-18 86_s.ct._684 15_l.ed.2d_545_(1966)
+here the level of skill of one of ordinary_skill in the art and the scope of the claims of the patents in suit are not at issue
+the parties disputes revolve around whether the prior_art taught three specific elements of the claimed inventions whether there was a motivation to combine these elements with the prior_art_system and whether secondary_considerations support a finding of nonobviousness
+we address each in turn
+
+a
+combining an etfd and the use of the internet with the orlandi_valuta system
+western_union argues that the claimed etfd is more than a simple keypad and includes functionality that can not be achieved by simply exchanging the fax_machine in the orlandi_valuta_system for a keypad
+it argues that a keypad can not communicate with a database to retrieve the transaction_details
+it also argues that there is no evidence in the record that a keypad equivalent to the etfd was` well-known' in the prior_art
+moreover it argues the combination would not have been obvious to a person of ordinary_skill in the art
+
+we find each of these arguments unpersuasive
+the patent_specification itself describes the addition of` an electronic_transaction_fulfillment_device such as an electronic terminal having a keypad' ¡¬203_patent col.4 ll.8-10 and states that one embodiment is an fdx-400 available from western_union id
+col.4 ll.21-23
+it explains that fdx-400 comprises a numeric keypad one or more function keys and a display device
+id
+col.4 ll.23-25
+moneygram presented that evidence at trial
+it presented evidence to show that the orlandi_valuta_system used an fdx-400 device although at the csr location not at the retail_location
+it also presented testimony that various electronic keypad devices such as those used for credit card transaction processing already existed at retail_locations
+we conclude that no reasonable_jury should have found that moneygram failed to present sufficient_evidence to demonstrate that electronic_transaction_devices at least as sophisticated as the fdx-400 were commonplace in the art at the time of the invention
+
+we next address the question whether there was motivation to combine the prior_art etfd with the orlandi_valuta_system
+an obviousness determination is not the result of a rigid formula disassociated from the consideration of the facts of a case
+indeed the common_sense of those skilled in the art demonstrates why some combinations would have been obvious where *1370 others would not
+see ksr int l co. v. teleflex inc. 550_u.s._398 416 127_s.ct._1727 167_l.ed.2d_705_(2007)` the combination of familiar elements according to known methods is likely to be obvious when it does no more than yield predictable results`
+based on the supreme_courts reasoning in ksr we have subsequently held that applying computer and internet technology to replace older electronics has been commonplace in recent_years
+see muniauction inc. 532 f.3d at 1327 ; leapfrog enters. inc. v. fisher-price inc. 485_f.3d_1157 1161 fed.cir.2007
+in leapfrog we held that` [ a ] ccommodating a prior_art mechanical device that accomplishes [ the goal of teaching a child to read phonetically ] to modern_electronics would have been reasonably obvious to one of ordinary_skill in designing childrens learning devices'
+485 f.3d at 1161
+our conclusion of obviousness was based in part on the reasoning that` [ a ] pplying modern_electronics to older mechanical devices has been commonplace in recent_years'
+id
+similarly in muniauction we concluded that conducting previously known methods of bidding through an internet web browser was obvious because it amounted to no more than applying the use of the internet to existing electronic processes at a time when doing so was commonplace
+532 f.3d at 1327
+we rejected the patentees arguments that even where it was routinely done such incorporation would have been beyond the ability of a person of ordinary_skill in the art
+id
+
+here too we find the use of an electronic_transaction_device where the prior_art employed a fax_machine to be an unpatentable improvement at a time when such a transition was commonplace in the art
+see in re mettke 570_f.3d_1356 1360-61 fed.cir.2009 finding it obvious to add internet access to a prior_art kiosk that included a fax-machine
+we fail to see how it would have been difficult for a person of ordinary_skill in the art to integrate an electronic_transaction_device that was available from western_union itself into a well-known money_transfer_system that was also owned by western_union at the time of the invention
+specific limitations that western_union points to such as using the etfd to retrieve information from a database are simply routine modifications that are a part of adapting a new technology to an existing system
+here a person of ordinary_skill in the art replacing a fax_machine with an etfd that could access a database would necessarily have known how to retrieve transaction_details from the database
+
+western_union further argues that it spent significant resources in developing its commercial_embodiment of the patented_invention and that the integration of the etfd into a formless_system was not a simple one that a skilled person could accomplish without any experimentation
+although we have held that a finding of obviousness may not be proper where the prior_art merely provided a promising field for experimentation in re kubin 561 f.3d at 1359-60 the testimony that western_union relies upon here relates only to the effort that its engineers invested in software implementation of its commercial system not toward any inventive aspect claimed in the patents
+thus we conclude that the combination of the etfd with the orlandi_valuta_system would have been obvious to a person of ordinary_skill in the art at the time of the invention
+
+for the same reasons we are not persuaded by western_unions arguments that the improvements recited in claim 20 of the ¡¬747_patent render the subject matter of the claim nonobvious
+the claim primarily adds the use of internet-based communications specifically the tcp/ip_protocol to the invention patented in the *1371 ¡¬203_patent
+we conclude that it would have been obvious for a person of ordinary_skill in the art to use internet-based protocols in networking the systems used in the ¡¬203_patent
+see papyrus tech corp. v. n.y. stock exch. llc 653_f.supp.2d_402 432 s.d.n.y.2009 finding that adding` a connectionless protocol tcp/ip that has been used in electronic communications such as the internet since the 1980s' to other obvious elements of claim` adds nothing new to the field of endeavor' affirmed case no.2010-1166 2010_wl_3934367_(fed.cir._oct.7,_2010)
+
+b
+use of a code
+western_union argues and the district_court found that the fact that the orlandi_valuta_system did not provide a code to the customer meant that that system did not disclose the use of a code for that specific functionality to a person of ordinary_skill in the art
+moneygram responds that the orlandi_valuta_system did in fact use a clave to identify transactions
+moreover it contends the basic idea of identifying transactions by codes is well-known to anyone who has ever purchased or reserved an item and received a confirmation_number from a representative
+
+we agree with moneygram that the orlandi_valuta_system taught the use of a code that corresponds to a transaction in the system
+at trial moneygram established that the code printed on the invoice given to the orlandi_valuta_customer could be used to track the transaction
+in light of this evidence we conclude that it would have been common_sense for a person of ordinary_skill in the art to use a code generated at the staging phase and provided to the customer to be used at the retail_location to look up transaction_information in the manner claimed by the asserted patents
+see perfect_web techs. inc. v. infousa inc. 587_f.3d_1324 1329 fed.cir.2010 in ksr` the supreme_court instructed that factfinders may use common_sense in addition to record evidence`
+in perfect_web the patented technology involved a method of managing bulk e-mail that required repeating a series of steps until the desired quantity of e-mail had been sent
+in affirming the district_courts holding of obviousness we reasoned that where there was a failure to reach the targeted number common_sense dictated that one should try again
+id.at 1330
+
+it is undisputed here that when a csr entered a transaction into the orlandi_valuta_system it generated a corresponding code and that that code was also printed on the invoice that the customer received at the retail_location
+because in that system the transaction_details were faxed to the retail_location the customers name was used to validate and complete the transaction
+where the fax_machine is replaced with an electronic_transaction_device that is capable of retrieving information from the host_computer it would be common_sense for a person of skill to use the transaction code throughout the life of the transaction including` use by the recipient during the send_transaction'
+see ksr 550 u.s. at 421 127_s.ct._1727` a person of ordinary_skill is also a person of ordinary creativity`
+consequently other code-related limitations in the asserted_claims such as entering the code into the etfd and validation of the code by the host_computer would have also been a matter of common_sense to a person of ordinary_skill in the art
+
+western_union argues that moneygram did not separately prove that additional limitations of each of the asserted dependent claims were present in the prior_art rendering each of those claim obvious as well
+western_union argues for example that dependent claim 12 of the ¡¬203_patent *1372 adds the limitation that an employee of the money_transfer_business provides the transaction identifying code to the customer
+western_union however does not explain why such an insignificant detail would not have been obvious to a person of skill in the art
+we similarly decide that each of the other asserted_claims of the ¡¬203 and ¡¬309_patent s adds only trivial improvements that would have been a matter of common_sense to one of ordinary_skill in the art and that no reasonable_jury could find any of those claims to have been nonobvious
+we therefore conclude after considering all the evidence presented at trial in the light most favorable to western_union that each of the disputed elements of the asserted_claims was present in the prior_art that the claimed combination represents no more than` the predictable_use of prior_art_elements according to their established functions' ksr 550 u.s. at 417 127_s.ct._1727 and as such the claims would have been obvious as a matter of law
+
+c. secondary considerations
+moneygram argues that the district_courts analysis of secondary_considerations suffered from a fundamental flaw in that it failed to identify the nexus between the claimed inventions and the secondary_considerations identified by western_union
+in relying on commercial_success moneygram points out the district_court failed to explain how the fact that western_union had been transferring billions of dollars was in any way related to the patented_invention
+it contends that the district_court failed to consider western_unions brand name recognition and marketing or even the size of western_unions business prior to adopting the patented_system when it used systems such as orlandi_valuta
+it further argues that in relying on the amounts that the parties had spent on developing formless_systems the district_court failed to analyze whether those investments directly related to conceiving the claimed inventions such as an etfd
+according to moneygram absent those improper assumptions there is no legally relevant_evidence of secondary_considerations to support the nonobviousness of the inventions of the asserted_claims
+
+western_union argues that to the extent the district_courts finding of nonobviousness was based on secondary_considerations it was well-supported in the record
+it contends that it presented evidence to the jury that the yellow_phone was commercially successful transferring billions of dollars and generating millions of dollars in revenue each year
+throughout its arguments on nonobviousness western_union places significant emphasis on the fact that both parties evaluated the orlandi_valuta_system that existed at the time of the invention and decided to develop their own new and improved systems
+
+we agree with moneygram that the district_court erred in its analysis of secondary_considerations of obviousness and in its heavy reliance on them in denying moneygrams jmol of obviousness
+we find the evidence of secondary_considerations irrelevant in supporting the jury_verdict of nonobviousness
+our case law clearly requires that the patentee must establish a nexus between the evidence of commercial_success and the patented_invention
+see in re huang 100_f.3d_135 140 fed.cir.1996 holding that the proponent must offer proof` that the sales were a direct result of the unique characteristics of the claimed invention` emphasis added ; in re gpac inc. 57_f.3d_1573 1580 fed.cir.1995` for objective [ evidence of secondary_considerations ] to be accorded substantial weight its proponent must establish a nexus between the evidence and *1373 the merits of the claimed invention'
+( emphasis added
+
+here western_union failed to present any relevant_evidence proving a nexus between its commercial_success and its claimed invention
+the only evidence that western_union points us to is testimony from one of its employees explaining how the` money transfer by phone' or yellow_phone_system that allowed customers simply to pick up the phone and have a western_union csr stage a transaction for them enabled dramatic growth of western_unions business
+however western_union does not claim that it invented a formless_money_transfer_system or that systems such as orlandi_valuta are not prior_art to the claimed invention
+it can not therefore claim any commercial_success that arose from features of the system found in the prior_art as a consideration for nonobviousness of its claimed invention
+ormco corp. v. align tech. inc. 463_f.3d_1299 1312 fed.cir.2006` [ i ] f the feature that creates the commercial_success was known in the prior_art the success is not pertinent
+``
+
+similarly western_union failed to establish that investments made by itself and by moneygram in developing formless_money_transfer_systems different from orlandi_valuta have any relation to the patentable features of the claimed inventions
+western_union points to payments in the amount of $ 240,000 that moneygram made to cambridge technology partners` cambridge' for consulting services as proof of such investments
+however moneygram presented evidence at trial that moneygrams payments to cambridge were for consulting services targeted toward reinventing the entire moneygram system only part of which was addressing challenges involved in adopting a formless_system
+western_union failed to rebut that testimony or offer any other evidence that demonstrated that cambridges services were dedicated to developing the inventions claimed in the patents in suit
+mere attorney argument that both parties refused to adopt the orlandi_valuta_system specifically because it was lacking the innovative aspects of the claimed inventions is not evidence that can support a finding of nonobviousness
+see perfect_web 587 f.3d at 1332 rejecting a nonobviousness position that was` merely attorney argument lacking evidentiary support'
+thus we find that the district_courts reliance in finding nonobviousness on the amount of time and money that both parties had spent on developing formless_systems was misplaced
+
+moreover weak secondary_considerations generally do not overcome a strong prima facie case of obviousness
+see media techs
+licensing llc v. upper deck co. 596_f.3d_1334 fed.cir.2010 cert
+denied -- - u.s. -- -- 131_s.ct._305 178_l.ed.2d_144_(2010)` even if [ the patentee ] could establish the required nexus a highly successful product alone would not overcome the strong_showing of obviousness
+`` ; leapfrog enters. 485 f.3d at 1162 holding that the objective considerations of nonobviousness presented including substantial_evidence of commercial_success praise and long-felt need were inadequate to overcome a strong_showing of primary considerations that rendered the claims at issue invalid
+here where the inventions represented no more than` the predictable_use of prior_art_elements according to their established functions' ksr 550 u.s. at 417 127_s.ct._1727 the secondary_considerations advanced by western_union are inadequate to establish nonobviousness as a matter of law
+
+thus we conclude that the asserted_claims of the ¡¬203 ¡¬747 and ¡¬309_patent s would have been obvious as a matter of law and therefore reverse the district *1374 courts denial of jmol of nonobviousness
+in light of our disposition we do not reach issues of claim_construction and infringement
+
+conclusion
+we have considered western_unions remaining arguments and do not find them persuasive
+accordingly the judgment of the district_court is
+
+reversed
+
+all citations
+626_f.3d_1361 97_u.s.p.q.2d_1263
+footnotes
+* circuit_judge gajarsa did not participate in the vote
+1
+western_union cross-appealed the courts denial of its jmol_motion on literal_infringement of the ¡¬747_patent which we dismissed as an improper cross-appeal
+western_union_co. v. moneygram payment sys. inc. no.2010-1080 dkt
+no._54 fed.cir
+may_3,_2010
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+western_union_co. v. moneygram_payment_systems inc. 626_f.3d_1361 2010 97_u.s.p.q.2d_1263
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

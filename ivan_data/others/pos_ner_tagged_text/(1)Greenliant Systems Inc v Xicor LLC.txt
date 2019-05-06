@@ -1,0 +1,102 @@
+('692_F.3d_1261', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GREENLIANT', 'NNP', 'ORG', 'B') ('SYSTEMS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('and', 'CC', '', 'O')
+GREENLIANT SYSTEMS INC.
+__NEW_SENT__
+('Silicon_Storage_Technology', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('XICOR', 'NNP', 'LAW', 'B') ('LLC', 'NNP', 'LAW', 'I') ('Defendant-Appellant', 'NNP', '', 'O')
+XICOR LLC
+__NEW_SENT__
+('No._2011-1514', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Aug._22,_2012', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Competitor', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('electronic', 'JJ', '', 'O') ('memory', 'NN', '', 'O') ('devices', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Edward', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Chen', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+United_States_District_Court Northern_District California Edward M. Chen J.
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Dyk', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('surrendered', 'VBN', '', 'O') ('devices', 'NNS', '', 'O') ('produced', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('reactants', 'NNS', '', 'O') ('other', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('tetraethylorthosilicate', 'VB', '', 'O') ('(', '-LRB-', '', 'O') ('TEOS', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+The Court of Appeals Dyk Circuit_Judge TEOS
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1263', 'NFP', '', 'O') ('Jo', 'NNP', 'ORG', 'B') ('Dale', 'NNP', 'ORG', 'I') ('Carothers', 'NNP', 'ORG', 'I') ('Covington', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Burling', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Diego', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('all', 'DT', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Jo Dale Carothers Covington & Burling LLP San Diego
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Alan', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Blankenheimer', 'NNP', 'PERSON', 'I') ('Christopher', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('Longman', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Lesli', 'NNP', 'ORG', 'B') ('Rawles', 'NNP', 'ORG', 'I') ('Gallagher', 'NNP', 'ORG', 'I')
+Alan H. Blankenheimer Christopher J. Longman Lesli Rawles Gallagher
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Ian', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Miller', 'NNP', 'PERSON', 'I')
+Ian J. Miller
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Yin', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Schwartz', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Erik', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Fuehrer', 'NNP', 'PERSON', 'I') ('DLA', 'NNP', '', 'O') ('Piper', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('East', 'NNP', 'GPE', 'B') ('Palo', 'NNP', 'GPE', 'I') ('Alto', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O') ('Greenliant_Systems', 'NNS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Jeffrey', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Bragalone', 'NNP', 'PERSON', 'I') ('Shore', 'NNP', 'PERSON', 'I') ('Chan', 'NNP', '', 'O') ('Braglone', 'NNP', '', 'O') ('DePumpo', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Ronald L. Yin Michael G. Schwartz Erik R. Fuehrer East Palo Alto Greenliant_Systems Inc. Jeffrey R. Bragalone Shore Dallas
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Shore', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Christopher', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Evans', 'NNP', 'PERSON', 'I')
+Michael W. Shore Christopher L. Evans
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('PLAGER', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LINN PLAGER DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('DYK', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Xicor_LLC', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Greenliant_Systems', 'NNS', 'ORG', 'B') ('Inc', 'NNP', 'ORG', 'I')
+Xicor_LLC United_States_District_Court Northern_District California Greenliant_Systems Inc
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('final_judgment', 'JJ', '', 'O') ('pursuant', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('agreement', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('summary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('order', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Silicon_Storage_Technology', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Xicor_LLC', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('SST', 'NNP', 'ORG', 'B') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('776_F.Supp.2d_1072_(N.D.Cal.2011)', 'NNS', 'PRODUCT', 'B') ('which', 'WDT', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('claims', 'VBZ', '', 'O') ('12_and_13', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('reissued', 'VBN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No', 'NN', '', 'O')
+Xicor_LLC SST 776_F.Supp.2d_1072_(N.D.Cal.2011) 12_and_13 U.S.
+__NEW_SENT__
+('RE38,370', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('REBIG_TOKEN__¡¬370_patent__BIG_TOKEN', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rule', 'NN', '', 'O') ('against', 'IN', '', 'O') ('recapture', 'NN', '', 'O') ('``', '``', '', 'O') ('applies', 'VBZ', '', 'O') ('equally', 'RB', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('and', 'CC', '', 'O') ('should', 'MD', '', 'O') ('be', 'VB', '', 'O') ('entered', 'VBN', '', 'O') ('herein', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('See', 'VB', 'ORG', 'B') ('Greenliant_Systems', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Xicor_LLC', 'NNP', 'PERSON', 'B') ('No._11-', 'NNP', 'PERSON', 'I') ('CV-0631', 'NNP', '', 'O') ('slip', 'NN', '', 'O') ('op.at', 'NNP', '', 'O') ('3', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Cal', 'NNP', '', 'O')
+See Greenliant_Systems Inc. Xicor_LLC No._11-
+__NEW_SENT__
+('Jun._22,_2011', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+Jun._22,_2011
+__NEW_SENT__
+('The', 'DT', '', 'O') ('remaining', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('dismissed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('agreement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'CD', '', 'O') ('251', 'CD', 'CARDINAL', 'B') ('a', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('may', 'MD', '', 'O') ('within', 'IN', '', 'O') ('two', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('seek', 'VB', '', 'O') ('a', 'DT', '', 'O') ('broadening', 'JJ', '', 'O') ('reissue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('if', 'IN', '', 'O') ('among', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('things', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('originally', 'RB', '', 'O') ('claimed', 'VBD', '', 'O') ('``', '``', '', 'O') ('less', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('claim', 'VB', '', 'O') ("''", "''", '', 'O')
+35 251 two years
+__NEW_SENT__
+('See', 'VB', '', 'O') ('MBO', 'NNP', 'ORG', 'B') ('Labs.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Becton', 'NNP', 'ORG', 'B') ('Dickinson', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('602_F.3d_1306', 'CD', 'DATE', 'B') ('1313', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.2010', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+MBO Labs. Inc. Becton Dickinson & Co. 602_F.3d_1306 1313
+__NEW_SENT__
+('However', 'RB', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rule', 'NN', '', 'O') ('against', 'IN', '', 'O') ('recapture', 'NN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('precluded', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('regaining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('surrendered', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('effort', 'NN', '', 'O') ('to', 'TO', '', 'O') ('obtain', 'VB', '', 'O') ('allowance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('N.', 'NNP', 'ORG', 'B') ('Am', 'NNP', 'ORG', 'I') ('Container', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Plastipak', 'NNP', 'ORG', 'B') ('Packaging', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('415_F.3d_1335', 'VBD', '', 'O') ('1349', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.2005', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('internal', 'JJ', '', 'O') ('quotation', 'NN', '', 'O') ('marks', 'NNS', '', 'O') ('omitted', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+N. Am Container Inc. Plastipak Packaging Inc. 1349
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('presents', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('broadening', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('12_and_13', 'CD', 'DATE', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reissued', 'VBN', '', 'O') ('REBIG_TOKEN__¡¬370_patent__BIG_TOKEN', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('improperly', 'RB', '', 'O') ('recaptured', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('scope', 'NN', '', 'O') ('*1264', 'IN', '', 'O') ('that', 'IN', '', 'O') ('Xicor1', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('previously', 'RB', '', 'O') ('surrendered', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('predecessor', 'NN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5977,585', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬585_patent', 'NN', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O')
+12_and_13 Xicor1 U.S.
+__NEW_SENT__

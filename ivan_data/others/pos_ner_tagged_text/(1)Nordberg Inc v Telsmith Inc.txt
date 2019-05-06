@@ -1,0 +1,102 @@
+('82_F.3d_394', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('NORDBERG', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('TELSMITH', 'NNP', 'ORG', 'B') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+TELSMITH
+__NEW_SENT__
+('No._95-1316', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('April_24,_1996', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('for', 'IN', '', 'O') ('gyratory_rock_crusher', 'RB', '', 'O') ('brought', 'VBN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Wisconsin', 'NNP', 'GPE', 'B') ('Rudolph_T._Randa', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('881_F.Supp._1252', 'CD', '', 'O') ('held', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engage', 'VB', '', 'O') ('in', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('awarding', 'VBG', '', 'O') ('attorney', 'NN', '', 'O') ('fees', 'NNS', '', 'O')
+United_States_District_Court Wisconsin
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('employees', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('unaware', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('undisclosed', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('reference', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('conceal', 'VB', '', 'O') ("''", "''", '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('reference', 'NN', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('aware', 'JJ', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('conceal', 'VB', '', 'O') ('prior', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patented', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('with', 'IN', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('mislead', 'VB', '', 'O') ('Patent', 'NN', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NN', '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney', 'NN', '', 'O') ('fees', 'NNS', '', 'O') ('provision', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('5', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('counsel', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('outburst', 'NN', '', 'O') ('during', 'IN', '', 'O') ('oral', 'JJ', '', 'O') ('argument', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('inappropriate', 'JJ', '', 'O')
+The Court of Appeals Lourie Circuit_Judge 1 2 3 Patent and Trademark_Office 4 5
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*395', 'NNP', '', 'O') ('Appealed', 'VBD', '', 'O') ('from', 'IN', '', 'O') (':', ':', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('District', 'NNP', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Wisconsin', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('Milwaukee', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Rudolph_T._Randa', 'NN', '', 'O') ('Judge', 'NNP', '', 'O')
+U.S. District Court Wisconsin Milwaukee
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Roger', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Greer', 'NNP', 'PERSON', 'I') ('Greer', 'NNP', '', 'O') ('Burns', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Crain', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Illinois', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Roger D. Greer Chicago Illinois
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Lawrence', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Crain', 'NNP', 'PERSON', 'I')
+Lawrence J. Crain
+__NEW_SENT__
+('*396', 'NNP', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Nilles', 'NNP', 'PERSON', 'I') ('Nilles', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Nilles', 'NNP', '', 'O') ('S.C.', 'NNP', 'ORG', 'B') ('Milwaukee', 'NNP', 'ORG', 'I') ('Wisconsin', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Andrew J. Nilles S.C. Milwaukee Wisconsin
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Nilles', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Fredrickson', 'NNP', 'PERSON', 'I')
+James E. Nilles John P. Fredrickson
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('PLAGER', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('LOURIE', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+PLAGER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('Telsmith', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Wisconsin', 'NNP', 'GPE', 'B') ('holding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Nordberg', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engage', 'VB', '', 'O') ('in', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('4,478,373', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', '', 'O')
+LOURIE Circuit_Judge Telsmith Inc. United_States_District_Court Wisconsin Nordberg Inc. U.S. 4,478,373 35
+__NEW_SENT__
+('Nordberg', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Telsmith', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('881_F.Supp._1252', 'CD', '', 'O') ('36_USPQ2d_1577_(E.D.Wis.1995)', 'CD', '', 'O')
+Nordberg Inc. Telsmith Inc.
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Telsmith', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('demonstrated', 'VBN', '', 'O') ('error', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+Telsmith
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Nordberg', 'NNP', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'373_patent", 'NNP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gyratory_rock_crusher', 'RBR', '', 'O') ('sued', 'VBN', '', 'O') ('Telsmith', 'NN', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+Telsmith
+__NEW_SENT__
+('Telsmith', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+Telsmith
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('included', 'VBD', '', 'O') ('Nordberg', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('own', 'JJ', '', 'O') ('Saunders', 'NNP', '', 'O') ('U.S.', 'NNP', '', 'O') ('Patent', 'NN', '', 'O') ('3,125,304', 'CD', 'CARDINAL', 'B')
+Nordberg 3,125,304
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('public', 'JJ', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('quarry', 'NN', '', 'O') ('owned', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('operated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Tanner', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('in', 'IN', '', 'O') ('Phoenix', 'NNP', 'GPE', 'B') ('Arizona', 'NNP', 'GPE', 'B') ('more', 'JJR', 'DATE', 'B') ('than', 'IN', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('year', 'NN', 'DATE', 'I') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('filing', 'NN', '', 'O') ('date', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O')
+Nordberg the Tanner Company Phoenix Arizona more than one year
+__NEW_SENT__
+('Nordberg', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('appealed', 'VBN', '', 'O') ('these', 'DT', '', 'O') ('determinations', 'NNS', '', 'O')
+Nordberg
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('holding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('invalid', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('Telsmith', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('claim', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('conduct', 'NN', '', 'O')
+Telsmith Nordberg
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Saunders_patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Tanner_use', 'NNP', '', 'O') ('constituted', 'VBD', '', 'O') ('material_prior_art', 'CD', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclosed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'373_patent", 'NN', '', 'O')
+the United States Patent and Trademark_Office
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('however', 'RB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ('employees', 'NNS', '', 'O') ('who', 'WP', '', 'O') ('were', 'VBD', '', 'O') ('under', 'IN', '', 'O') ('a', 'DT', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('disclosure', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('those', 'DT', '', 'O') ('who', 'WP', '', 'O') ('prosecuted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'373_patent", 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('unaware', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('existence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Saunders_patent', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O')
+Nordberg
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('conceal', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Saunders_patent', 'NN', '', 'O')
+Nordberg
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('further', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relevant', 'JJ', '', 'O') ('Nordberg', 'NNP', 'NORP', 'B') ('employees', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('conceal', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Tanner_use', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('mislead', 'VB', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('believed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('good', 'JJ', '', 'O') ('faith', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('field', 'NN', '', 'O') ('testing', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('Tanner', 'NNP', 'ORG', 'B') ('occurred', 'VBD', '', 'O') ('under', 'IN', '', 'O') ('a', 'DT', '', 'O') ('confidentiality', 'NN', '', 'O') ('agreement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('material_prior_art', 'CD', '', 'O')
+Nordberg Tanner
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('intention', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('mislead', 'VB', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Nordberg', 'NNP', 'PERSON', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engage', 'VB', '', 'O') ('in', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Nordberg Nordberg
+__NEW_SENT__

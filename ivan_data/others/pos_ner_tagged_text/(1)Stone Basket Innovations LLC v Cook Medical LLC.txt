@@ -1,0 +1,252 @@
+('892_F.3d_1175', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('STONE', 'JJ', 'ORG', 'B') ('BASKET', 'NN', '', 'O') ('INNOVATIONS', 'VBZ', '', 'O') ('LLC', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O')
+STONE
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('COOK', 'NNP', '', 'O') ('MEDICAL', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2017-2330', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('June_11,_2018', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('basket-type', 'JJ', '', 'O') ('extraction', 'NN', '', 'O') ('medical', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('stones', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('biological_systems', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('transfer', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', '', 'O') ('No._1', 'NNP', '', 'O') (':16-cv-00858-LJM-TAB', 'HYPH', '', 'O') ('dismissed', 'VBN', '', 'O') ('action', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Larry', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McKinney', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2017_WL_2655612', 'CD', 'PERSON', 'I') ('denied', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('statute', 'NN', '', 'O')
+United_States_District_Court Texas Larry J. McKinney J. 2017_WL_2655612
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Wallach', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Wallach Circuit_Judge
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('substantive', 'JJ', '', 'O') ('strength', 'NN', '', 'O') ('of', 'IN', '', 'O') ('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('litigating', 'NN', '', 'O') ('position', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warrant', 'VB', '', 'O') ('attorney_fees_award', 'XX', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conduct', 'NN', '', 'O') ('in', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warrant', 'VB', '', 'O') ('attorney_fees_award', '.', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Procedural', 'JJ', '', 'O') ('Posture', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('s', 'NN', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('On', 'IN', '', 'O') ('Appeal', 'NNP', '', 'O') (';', ':', '', 'O') ('Motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Attorney', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Fees', 'NNS', '', 'O') (';', ':', '', 'O') ('Motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Joinder', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*1176', 'NFP', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('No._1', 'NNP', 'GPE', 'B') (':16-cv-00858-LJM-TAB', 'HYPH', '', 'O') ('Judge', 'NNP', '', 'O') ('Larry', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McKinney', 'NNP', 'PERSON', 'I')
+United_States_District_Court Indiana No._1 Larry J. McKinney
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Freitas', 'NNP', 'PERSON', 'I') ('Freitas', 'NNP', '', 'O') ('Angell', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Weinberg', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('Redwood', 'NNP', '', 'O') ('City', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Robert E. Freitas Angell & Weinberg
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Daniel', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Weinberg', 'NNP', 'PERSON', 'I') ('Joshua', 'NNP', 'PERSON', 'I') ('Young', 'NNP', 'PERSON', 'I')
+Daniel J. Weinberg Joshua Young
+__NEW_SENT__
+('James', 'NNP', 'PERSON', 'B') ('Richard', 'NNP', 'PERSON', 'I') ('Ferguson', 'NNP', 'PERSON', 'I') ('Mayer', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+James Richard Ferguson Mayer Brown Chicago IL
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Prost', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Wallach', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Taranto', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Prost Wallach
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Wallach', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1177', 'NFP', '', 'O') ('Appellee', 'NNP', 'ORG', 'B') ('Stone_Basket_Innovations', 'NNP', '', 'O') ('LLC', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Stone', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('Appellant', 'NNP', '', 'O') ('Cook_Medical', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Cook', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('U.S._District_Court', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('District_Court', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._6551,327', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Appellee LLC Stone Cook U.S._District_Court Indiana U.S.
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('with', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('see', 'NN', '', 'O') ('Stone_Basket_Innovations', 'NNP', '', 'O') ('LLC', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Cook_Med', 'NN', '', 'O')
+LLC
+__NEW_SENT__
+('LLC', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('Stone', 'NNP', '', 'O') ('Basket', 'NNP', '', 'O') ('I', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('No._1', 'NNP', '', 'O') (':16-cv-00858-LJM-TAB', '.', '', 'O') ('(', '-LRB-', '', 'O') ('S.D', 'NNP', '', 'O')
+LLC
+__NEW_SENT__
+('Ind', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jan._11,_2017', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1157', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('Cook', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('inter', 'JJ', '', 'O') ('alia', 'NN', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('2012', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡±', 'CD', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('Motion', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+1157 Cook 35 285 2012 285 Motion
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('denying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡±', 'CD', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('Motion', 'NN', '', 'O')
+District_Court 285
+__NEW_SENT__
+('Stone_Basket_Innovations', 'NNP', '', 'O') ('LLC', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Cook_Med', 'NN', '', 'O')
+LLC
+__NEW_SENT__
+('LLC', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('Stone_Basket_II', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('No._1', 'NNP', '', 'O') (':16-cv-00858-LJM-TAB', ':', '', 'O') ('2017_WL_2655612', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'FW', '', 'O') ('(', '-LRB-', '', 'O') ('S.D', 'NNP', '', 'O')
+LLC
+__NEW_SENT__
+('Ind', 'NNP', '', 'O')
+
+__NEW_SENT__
+('June_20,_2017', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Cook', 'NNP', 'ORG', 'B') ('appeals', 'NNS', '', 'O')
+Cook
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2012', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+28 1 2012
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('April', 'NNP', 'DATE', 'B') ('2015', 'CD', 'DATE', 'I') ('Stone', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Cook', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('U.S._District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Eastern_District', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O')
+April 2015 Stone Cook U.S._District_Court Texas Eastern_District
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('41-44', 'LS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'327_patent", 'NNP', '', 'O') ('relates', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('basket-type', 'JJ', '', 'O') ('stone', 'NN', '', 'O') ('extraction', 'NN', '', 'O') ('medical', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('stones', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('biological_systems', 'NNS', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ("'327_patent", 'NNP', '', 'O') ('Abstract', 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('1_ll._9', 'CD', 'CARDINAL', 'B') ('-12', ':', '', 'O')
+1_ll._9
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claimed', 'JJ', '', 'O') ('extraction', 'NN', '', 'O') ('basket', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('support', 'NN', '', 'O') ('filament', 'NN', '', 'O') ("''", "''", '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('wire', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('slideable', 'JJ', '', 'O') ('outer', 'JJ', '', 'O') ('sheath', 'NN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('handle', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('sheath_movement_element', 'XX', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('collapsible', 'JJ', '', 'O') ("''", "''", '', 'O') ('wire', 'NN', '', 'O') ('basket', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('collect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('stone', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('6_ll._10', 'CD', 'CARDINAL', 'B') ('16', 'CD', '', 'O') ('19', 'CD', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+6_ll._10
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('6_ll._8', 'CD', '', 'O') ('-45', 'NFP', '', 'O') ('(', '-LRB-', '', 'O') ('claim', 'VBP', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('id', 'UH', '', 'O')
+1
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('5_ll._1', 'CD', '', 'O') ('-17', '.', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('May', 'NNP', 'DATE', 'B') ('2015', 'CD', 'DATE', 'I') ('Cook', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('transfer', 'VB', '', 'O') ('venue', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', '', 'O')
+May 2015 Cook
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('59-71', 'LS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('2015', 'CD', 'DATE', 'I') ('Cook', 'NNP', 'ORG', 'B') ('served', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('invalidity', 'NN', '', 'O') ('contentions', 'NNS', '', 'O')
+October 2015 Cook
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1598-625', 'LS', 'CARDINAL', 'B')
+1598-625
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('2016', 'CD', 'DATE', 'I') ('Cook', 'NNP', 'PERSON', 'B') ('deposed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inventor', 'NN', '', 'O') ('during', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('he', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('asked', 'VBN', '', 'O') ('questions', 'NNS', '', 'O') ('about', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('contact', 'NN', '', 'O') ('with', 'IN', '', 'O') ('Stone', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('managing', 'VBG', '', 'O') ('members', 'NNS', '', 'O') ('Daniel', 'NNP', 'PERSON', 'B') ('Mitry', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Timothy', 'NNP', 'PERSON', 'B') ('Salmon', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('conception', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O')
+January 2016 Cook Stone Daniel Mitry Timothy Salmon
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1504-05', 'CD', '', 'O') ('1510', 'CD', 'DATE', 'B') ('1526-27', 'CD', '', 'O')
+1510
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inventor', 'NN', '', 'O') ('stated', 'VBD', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('addition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('sheath_movement_element', 'JJ', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('to', 'TO', '', 'O') ('overcome', 'VB', '', 'O') ('an', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('rejection', 'NN', '', 'O') ('``', '``', '', 'O') ('I', 'PRP', '', 'O') ('realize', 'VBP', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('nothing', 'NN', '', 'O') ('novel', 'JJ', '', 'O') ('about', 'IN', '', 'O') ('it', 'PRP', '', 'O') ("''", "''", '', 'O')
+1
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1510', 'CD', 'DATE', 'B')
+1510
+__NEW_SENT__
+('In', 'IN', '', 'O') ('March', 'NNP', 'DATE', 'B') ('2016', 'CD', 'DATE', 'I') ('Cook', 'NNP', 'PERSON', 'B') ('petitioned', 'VBD', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('USPTO', 'WP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('inter', 'JJ', '', 'O') ('partes', 'NNS', '', 'O') ('review', 'VBP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('IPR', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O')
+March 2016 Cook the U.S. Patent and Trademark Office 's IPR
+__NEW_SENT__
+('See', 'VB', '', 'O') ('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1628-75', 'NNP', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('Stone_Basket_II', 'VB', '', 'O') ('2017_WL_2655612', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*3', 'NN', '', 'O')
+
+__NEW_SENT__
+('Meanwhile', 'RB', '', 'O') ('upon', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('Cook', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('Transfer', 'NNP', '', 'O') ('Venue', 'NNP', '', 'O') ('J.A', 'NNP', '', 'O')
+Cook
+__NEW_SENT__
+('832-34', 'CD', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', 'ORG', 'B') ('transferred', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', '', 'O')
+Eastern_District
+__NEW_SENT__
+('Then', 'RB', '', 'O') ('in', 'IN', '', 'O') ('April', 'NNP', 'DATE', 'B') ('2016', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('joint', 'JJ', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('Trial', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Appeal', 'NNP', 'ORG', 'I') ('Board', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTAB', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ("'s", 'POS', '', 'O') ('consideration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Cook', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('petition', 'NN', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IPR', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('granted', 'VBD', '', 'O')
+April 2016 the Patent Trial and Appeal Board Cook IPR District_Court
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('841-43', 'CD', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('2016', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('PTAB', 'NN', 'ORG', 'B') ('instituted', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('IPR', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O')
+September 2016 PTAB
+__NEW_SENT__
+('Stone_Basket_II', 'NN', '', 'O') ('2017_WL_2655612', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*3', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('PTAB', 'NN', 'ORG', 'B') ("'s", 'POS', '', 'O') ('institution', 'NN', '', 'O') ('one', 'CD', '', 'O') ('of', 'IN', '', 'O') ('Stone', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('managing', 'VBG', '', 'O') ('members', 'NNS', '', 'O') ('offered', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('license', 'VB', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O') ('to', 'IN', '', 'O') ('Cook', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('exchange', 'NN', '', 'O') ('for', 'IN', '', 'O') ('$', '$', '', 'O') ('150,000.00', 'CD', 'MONEY', 'B')
+PTAB Stone 150,000.00
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+(';', ':', '', 'O') ('see', 'VB', '', 'O') ('J.A', 'NNP', 'GPE', 'B')
+J.A
+__NEW_SENT__
+('1714', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('confirming', 'VBG', '', 'O') ('license', 'NN', '', 'O') ('offer', 'NN', '', 'O') ('in', 'IN', '', 'O') ('affidavit', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Cook', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('attorney', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+1714 Cook
+__NEW_SENT__
+('However', 'WRB', '', 'O') ('negotiations', 'NNS', '', 'O') ('broke', 'VBD', '', 'O') ('*1178', 'NN', '', 'O') ('down', 'RP', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1716-22', 'NNP', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('providing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('email', 'NN', '', 'O') ('exchange', 'NN', '', 'O') ('between', 'IN', '', 'O') ('counsel', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+1716-22
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('2016', 'CD', 'DATE', 'I') ('Stone', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('requesting', 'VBG', '', 'O') ('adverse', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('IPR', 'NNP', 'ORG', 'B') ('proceeding', 'VBG', '', 'O') ('J.A', 'NNP', 'GPE', 'B')
+December 2016 Stone IPR J.A
+__NEW_SENT__
+('1724-26', 'CD', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('PTAB', 'NN', 'ORG', 'B') ('granted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('adverse', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('motion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cancelled', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'327_patent", 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('J.A', 'NNP', 'GPE', 'B')
+PTAB J.A
+__NEW_SENT__
+('1729-30', 'NN', '', 'O')
+
+__NEW_SENT__
+('That', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('month', 'NN', 'DATE', 'B') ('Stone', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'JJ', 'PERSON', 'B') ('litigation', 'NN', '', 'O') ('with', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('see', 'VBP', '', 'O') ('J.A', 'NNP', '', 'O')
+month Stone District_Court
+__NEW_SENT__
+('885', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('see', 'VBP', '', 'O') ('Stone_Basket_II', 'NN', '', 'O') ('2017_WL_2655612', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*3', 'NN', '', 'O')
+885
+__NEW_SENT__
+('In', 'IN', '', 'O') ('March', 'NNP', 'DATE', 'B') ('2017', 'CD', 'DATE', 'I') ('Cook', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('¡±', 'CD', '', 'O') ('285', 'CD', '', 'O') ('Motion', 'NN', 'ORG', 'B') ('J.A', 'NNP', 'ORG', 'I')
+March 2017 Cook Motion J.A
+__NEW_SENT__
+('1233-61', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('however', 'RB', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡±', 'NNP', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('Motion', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('determined', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('Stone_Basket_II', 'NN', '', 'O') ('2017_WL_2655612', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O')
+1233-61 District_Court 285
+__NEW_SENT__

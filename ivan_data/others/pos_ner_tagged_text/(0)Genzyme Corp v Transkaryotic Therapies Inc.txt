@@ -1,0 +1,159 @@
+('346_F.3d_1094', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GENZYME', 'NNP', 'ORG', 'B') ('CORPORATION', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Mount_Sinai_School', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Medicine', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('New_York_University', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNPS', 'ORG', 'I') ('v.', 'IN', '', 'O') ('TRANSKARYOTIC', 'NNP', 'ORG', 'B') ('THERAPIES', 'NNP', 'ORG', 'I') ('INC.', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+GENZYME Mount_Sinai_School of Medicine of New_York_University Plaintiffs-Appellants TRANSKARYOTIC THERAPIES
+__NEW_SENT__
+('No._02-1312', 'NNP', 'ORG', 'B')
+No._02-1312
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Oct._9,_2003', 'NNP', 'ORG', 'B')
+Oct._9,_2003
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Jan._21,_2004', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('human', 'JJ', '', 'O') ('enzyme', 'JJ', '', 'O') ('sued', 'JJ', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('2001_WL_1530375', 'CD', '', 'O') ('Gregory', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Sleet', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('appeal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('taken', 'VBN', '', 'O')
+United_States_District_Court the District of Delaware Gregory M. Sleet J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('calling', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('insertion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('exogenous', 'JJ', '', 'O') ('genes', 'NNS', '', 'O') ('encoding', 'VBG', '', 'O') ('enzyme', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O') ('into', 'IN', '', 'O') ('host_cell', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('chromosomal', 'JJ', '', 'O') ('material', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('process', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('called', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('insertion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('promoters', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('activated', 'VBD', '', 'O') ('endogenous', 'JJ', '', 'O') ('genes', 'NNS', '', 'O') ('encoding', 'VBG', '', 'O') ('enzyme', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O')
+The Court of Appeals Rader Circuit_Judge
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Linn', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('concurred', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('separate', 'JJ', '', 'O') ('opinion', 'NN', '', 'O')
+Linn Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1095', 'NFP', '', 'O') ('Laura', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Coruzzi', 'NNP', 'PERSON', 'I') ('Pennie', 'NNP', 'PERSON', 'I') ('&', 'CC', '', 'O') ('Edmonds', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Laura A. Coruzzi Pennie New_York NY
+__NEW_SENT__
+('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Stephen', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Rabinowitz', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Stanton', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Lawrence', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Todd', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Wagner', 'NNP', 'PERSON', 'I') ('*1096', 'NNP', '', 'O') ('Pennie', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Edmonds', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I')
+Stephen S. Rabinowitz Stanton T. Lawrence III Todd A. Wagner Pennie & Edmonds LLP Washington DC
+__NEW_SENT__
+('Leora', 'NNP', 'PERSON', 'B') ('Ben-Ami', 'NNP', 'PERSON', 'I') ('Clifford', 'NNP', 'PERSON', 'I') ('Chance', 'NNP', '', 'O') ('Rogers', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Wells', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Leora Ben-Ami Clifford New_York NY
+__NEW_SENT__
+('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Patricia', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Carson', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Vladimir', 'NNP', 'PERSON', 'B') ('Drozdoff', 'NNP', 'PERSON', 'I')
+Patricia A. Carson Vladimir Drozdoff
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('SCHALL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LINN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', '', 'O') ('RADER', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NNP', '', 'O') ('concurring-in-part', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dissenting-in-part', 'NNP', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('LINN', 'NNP', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('determined', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Transkaryotic_Therapies', 'NNS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('TKT', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('Genzyme', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('and', 'CC', '', 'O') ('Mount_Sinai_School', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Medicine', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('Genzyme', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('enzyme', 'NN', '', 'O') ('£\galactosidase_A', 'NNS', '', 'O')
+United_States_District_Court the District of Delaware Transkaryotic_Therapies Inc. Genzyme Corporation 's Mount_Sinai_School of Medicine 's Genzyme
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Genzyme', 'NNP', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('prove', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('properly', 'RB', '', 'O') ('construed', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'ORG', 'B') ('Genzyme', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('No._5356,804', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬804_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('issued', 'VBD', '', 'O') ('October', 'NNP', 'DATE', 'B') ('18', 'CD', 'DATE', 'I') ('1994', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('assigned', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('face', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Mount_Sinai_School', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Medicine', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New_York_University', 'NN', '', 'O')
+I. Genzyme Corporation U.S. Patent No._5356,804 October 18 1994
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬804_patent', 'NNP', 'PRODUCT', 'B') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('human_£\-galactosidase_A', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('£\-Gal-A', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('cells', 'NNS', '', 'O') ('engineered', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('express', 'VB', '', 'O') ('and', 'CC', '', 'O') ('secrete', 'VB', '', 'O') ('active', 'JJ', '', 'O') ('human_£\-Gal-A', 'NNS', '', 'O')
+¡¬804_patent
+__NEW_SENT__
+('Administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('£\-Gal_A', 'NN', '', 'O') ('protein', 'NN', '', 'O') ('treats', 'NNS', '', 'O') ('patients', 'NNS', '', 'O') ('suffering', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('Fabry', 'NNP', 'ORG', 'B') ('disease', 'NN', '', 'O') ('a', 'DT', '', 'O') ('condition', 'NN', '', 'O') ('triggered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('deficiency', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('enzyme', 'NN', '', 'O')
+Fabry
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('independent_claims', 'JJ', '', 'O') ('1_and_10', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'CARDINAL', 'B') ('804', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('read', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+¡¬ 804 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('human_£\-galactosidase_A', 'NNS', 'PERSON', 'B') ('comprising', 'VBG', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (')', '-RRB-', '', 'O') ('culturing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('mammalian_cell', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ('nucleotide_sequence', 'NN', '', 'O') ('encoding', 'NN', '', 'O') ('human_£\-galactosidase_A', 'NNS', '', 'O') ('controlled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('regulatory_sequence', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('promotes', 'VBZ', '', 'O') ('gene_expression', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('selectable_marker', 'NN', '', 'O') ('controlled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('different_regulatory_sequence', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('£\-galactosidase_A', 'NNS', 'PERSON', 'B') ('nucleotide_sequence', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('stably', 'RB', '', 'O') ('overexpressed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('enzymatically', 'RB', '', 'O') ('active_£\-galactosidase_A', 'NNPS', '', 'O') ('enzyme', 'JJ', '', 'O') ('is', 'VBZ', '', 'O') ('secreted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mammalian_cell', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+human_£\-galactosidase_A £\-galactosidase_A
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('isolating', 'VBG', '', 'O') ('enzymatically', 'RB', '', 'O') ('active_£\-galactosidase_A', 'VBZ', '', 'O') ('enzyme', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mammalian_cell', 'JJ', '', 'O') ('culture', 'NN', '', 'O')
+
+__NEW_SENT__
+('10', 'CD', 'CARDINAL', 'B')
+10
+__NEW_SENT__
+('A', 'DT', '', 'O') ('mammalian_cell', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ('nucleotide_sequence', 'NN', '', 'O') ('encoding', 'NN', '', 'O') ('human_£\-galactosidase_A', 'NNS', '', 'O') ('controlled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('regulatory_sequence', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('promotes', 'VBZ', '', 'O') ('gene_expression', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('selectable_marker', 'NN', '', 'O') ('controlled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('different_regulatory_sequence', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('£\-galactosidase_A', 'NNS', 'PRODUCT', 'B') ('nucleotide_sequence', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('stably', 'RB', '', 'O') ('overexpressed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('enzymatically', 'RB', '', 'O') ('active_£\-galactosidase_A', 'NNPS', '', 'O') ('enzyme', 'JJ', '', 'O') ('is', 'VBZ', '', 'O') ('secreted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mammalian_cell', 'NN', '', 'O')
+£\-galactosidase_A
+__NEW_SENT__
+('Genzyme', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('TKT', 'NN', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬804_patent', 'NNP', '', 'O')
+TKT
+__NEW_SENT__
+('TKT', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('product', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('technique', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('gene_activation', 'NN', '', 'O')
+TKT
+__NEW_SENT__
+('Under', 'IN', '', 'O') ('this', 'DT', '', 'O') ('technique', 'NN', '', 'O') ('a', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('acting', 'VBG', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('promoter', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('inserted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('host_cell', 'NN', '', 'O') ('whereupon', 'NN', '', 'O') ('the', 'DT', '', 'O') ('endogenous', 'JJ', '', 'O') ('human', 'JJ', '', 'O') ('cellular', 'JJ', '', 'O') ('gene', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('£\-Gal_A', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('activated', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('express', 'VB', '', 'O') ('the', 'DT', '', 'O') ('endogenous_human_£\-Gal_A', 'JJ', '', 'O') ('protein', 'NN', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('undisputed', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('TKT', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('technique', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('introduce', 'VB', '', 'O') ('an', 'DT', '', 'O') ('exogenous', 'JJ', '', 'O') ('£\-Gal_A', 'NN', '', 'O') ('gene', 'NN', '', 'O') ('into', 'IN', '', 'O') ('human', 'JJ', '', 'O') ('host_cells', 'NNS', '', 'O')
+TKT
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('independent_claims', 'NNP', '', 'O') ('1_and_10', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬804_patent', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('*1097', 'DT', '', 'O') ('Markman', 'NN', 'PERSON', 'B') ('hearing', 'NN', '', 'O')
+Markman
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Westview', 'NNP', 'ORG', 'B') ('Instruments', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('52_F.3d_967_(Fed.Cir.1995)', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('aff', 'NN', '', 'O') ("'d", 'VBD', '', 'O') ('517_U.S._370', 'CD', '', 'O') ('116_S.Ct._1384', 'CD', '', 'O') ('134_L.Ed.2d_577_(1996)', 'CD', 'CARDINAL', 'B')
+Markman Westview Instruments Inc. 134_L.Ed.2d_577_(1996)
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('court', 'NN', '', 'O') ('specifically', 'RB', '', 'O') ('addressed', 'VBD', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('disputed', 'VBN', '', 'O') ('claim_terms', 'NNS', '', 'O')
+four
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('disputed', 'VBN', '', 'O') ('terms', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('important', 'JJ', '', 'O') ('is', 'VBZ', '', 'O') ('``', '``', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('defined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('mean', 'VB', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('combining', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('bringing', 'VBG', '', 'O') ('together', 'RB', '', 'O') ('or', 'CC', '', 'O') ('merging', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('separate', 'JJ', '', 'O') ('elements', 'NNS', '', 'O') ("''", "''", '', 'O') ('specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('chromosome', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('host_cell', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('an', 'DT', '', 'O') ('exogenous', 'JJ', '', 'O') ('nucleotide_sequence', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('human_£\-galactosidase_A', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('promoter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('selectable_marker', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Genzyme', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Transkaryotic_Therapies', 'NNS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._00-677-', 'NNP', '', 'O') ('GMS', 'NNP', '', 'O') ('2001_WL_1530375', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('D.Del', 'NN', '', 'O')
+Genzyme Corp. Transkaryotic_Therapies Inc.
+__NEW_SENT__
+('Nov.28', 'NNP', 'DATE', 'B') ('2001', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O')
+Nov.28 2001
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('proceedings', 'NNS', '', 'O') ('both', 'CC', '', 'O') ('Genzyme', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('TKT', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+Markman Genzyme TKT
+__NEW_SENT__
+('In', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('summary_judgment_motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('TKT', 'NN', 'ORG', 'B') ('explained', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('produces', 'VBZ', '', 'O') ('human_£\-Gal_A', 'PRP', '', 'O') ('from', 'IN', '', 'O') ('cells', 'NNS', '', 'O') ('genetically', 'RB', '', 'O') ('engineered', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('overproduce', 'VB', '', 'O') ('this', 'DT', '', 'O') ('enzyme', 'NN', '', 'O') ('via', 'IN', '', 'O') ('gene_activation', 'NN', '', 'O')
+TKT
+__NEW_SENT__
+('TKT', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('gene_activation', 'NN', '', 'O') ('process', 'NN', '', 'O') ('permits', 'VBZ', '', 'O') ('controlled', 'VBN', '', 'O') ('expression', 'NN', '', 'O') ('of', 'IN', '', 'O') ('endogenous_human_£\-Gal_A', 'NN', '', 'O') ('in', 'IN', '', 'O') ('target', 'NN', '', 'O') ('cells', 'NNS', '', 'O')
+TKT
+__NEW_SENT__
+('TKT', 'NN', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('practice', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('method', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') ('requires', 'NNS', '', 'O') ('exogenously', 'RB', '', 'O') ('introduced', 'VBN', '', 'O') ('gene', 'NN', '', 'O') ('sequences', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('step', 'NN', '', 'O') ('the', 'DT', '', 'O') ('gene_activation', 'NN', '', 'O') ('protocol', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('utilize', 'VB', '', 'O')
+TKT
+__NEW_SENT__
+('A', 'DT', 'DATE', 'B') ('week', 'NN', 'DATE', 'I') ('after', 'IN', '', 'O') ('filing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('Genzyme', 'NNP', 'ORG', 'B') ('asked', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('clarify', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('interpretation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ("''", "''", '', 'O') ('particularly', 'RB', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('phrase', 'NN', '', 'O') ('``', '``', '', 'O') ('exogenous', 'JJ', '', 'O') ('nucleotide', 'NN', '', 'O') ("''", "''", '', 'O')
+A week Genzyme
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('complied', 'VBD', '', 'O') ('with', 'IN', '', 'O') ('Genzyme', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('stating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('exogenous', 'JJ', '', 'O') ("''", "''", '', 'O') ('referred', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('nucleotide_sequences', 'NNS', '', 'O') ('``', '``', '', 'O') ('exogenous', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('host_cell', 'NN', '', 'O') ('not', 'RB', '', 'O') ('exogenous', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chromosomal', 'JJ', '', 'O') ('site', 'NN', '', 'O') ("''", "''", '', 'O')
+Genzyme
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ("''", "''", '', 'O') ('Genzyme', 'NNP', 'PERSON', 'B') ('conceded', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('prevail', 'VB', '', 'O') ('on', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+Genzyme
+__NEW_SENT__
+('Thereafter', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('granting', 'VBG', '', 'O') ('TKT', 'NN', 'ORG', 'B') ("'s", 'POS', '', 'O') ('summary_judgment_motion', '.', '', 'O')
+TKT
+__NEW_SENT__
+('Genzyme', 'NNP', '', 'O') ('timely', 'RB', '', 'O') ('appealed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('defining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claim_terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('chromosomally', 'RB', '', 'O') ('integrated', 'VBN', '', 'O') ("''", "''", '', 'O') ('``', '``', '', 'O') ('regulatory_sequence', 'NN', '', 'O') ("''", "''", '', 'O') ('``', '``', '', 'O') ('stably', 'RB', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('comprising', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('exclusive', 'JJ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('hear', 'VB', '', 'O') ('Genzyme', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('appeal', 'NN', '', 'O')
+Genzyme
+__NEW_SENT__
+('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2000', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1295 1 2000
+__NEW_SENT__

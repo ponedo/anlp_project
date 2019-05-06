@@ -1,0 +1,261 @@
+('858_F.3d_1383', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ROTHSCHILD', 'NNP', '', 'O') ('CONNECTED', 'NN', '', 'O') ('DEVICES', 'VBZ', '', 'O') ('INNOVATIONS', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O')
+
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('GUARDIAN', 'NNP', 'ORG', 'B') ('PROTECTION', 'NNP', 'ORG', 'I') ('SERVICES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Alarm', 'NNP', 'ORG', 'B') ('Security', 'NNP', 'ORG', 'I') ('Group', 'NNP', 'ORG', 'I') ('LLC', 'NNP', '', 'O') ('Central', 'NNP', '', 'O') ('Security', 'NNP', '', 'O') ('Group-Nationwide', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Guardian', 'NNP', '', 'O') ('Alarm', 'NNP', '', 'O') ('Company', 'NNP', '', 'O') ('Guardian', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Georgia', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('dba', 'POS', '', 'O') ('Ackerman', 'NNP', 'ORG', 'B') ('Security', 'NNP', 'ORG', 'I') ('Systems', 'NNPS', 'ORG', 'I') ('Icon', 'NNP', 'ORG', 'I') ('Security', 'NNP', 'ORG', 'I') ('Systems', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Monitronics', 'NNPS', '', 'O') ('International', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Slomin', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Inc.', 'NNP', '', 'O') ('Defendants', 'NNS', '', 'O')
+GUARDIAN PROTECTION SERVICES INC. Alarm Security Group Georgia Inc. Ackerman Security Systems Icon Security Systems Inc.
+__NEW_SENT__
+('ADS', 'NNP', '', 'O') ('Security', 'NNP', '', 'O') ('L.P.', 'NNP', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2016-2521', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('June_5,_2017', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('home', 'NN', '', 'O') ('security', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('infringed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('personalized_consumer_product', '.', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('voluntarily', 'RB', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('granted', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Roy', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Payne', 'NNP', 'PERSON', 'I') ('United', 'NNP', '', 'O') ('States', 'NNP', '', 'O') ('Magistrate', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('2016_WL_3883549', 'CD', '', 'O') ('denied', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+United_States_District_Court Texas Roy S. Payne
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Wallach', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Wallach Circuit_Judge
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('willful', 'JJ', '', 'O') ('ignorance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_art', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('misjudged', 'VBD', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conduct', 'NN', '', 'O') ('in', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('improperly', 'RB', '', 'O') ('conflated', 'VBN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('11', 'CD', 'LAW', 'I') ('with', 'IN', '', 'O') ('statute', 'NN', '', 'O') ('providing', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('prevailing', 'VBG', '', 'O') ('party', 'NN', '', 'O') ('in', 'IN', '', 'O') ('exceptional', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('cases', 'NNS', '', 'O')
+Rule 11
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Mayer', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('concurring', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1385', 'ADD', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('Nos._2', 'NNP', 'DATE', 'B') (':15-cv-01431-JRG-RSP', '.', '', 'O') ('2:15-cv-01463-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01464-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01462-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01496-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01429-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01468-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01466-JRG-RSP', 'CD', '', 'O') ('2:15-cv-01469-JRG-RSP', 'CD', '', 'O') ('Judge', 'NNP', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Rodney', 'NNP', 'PERSON', 'I') ('Gilstrap', 'NNP', 'PERSON', 'I')
+United_States_District_Court Texas Nos._2 J. Rodney Gilstrap
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('JAY', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('JOHNSON', 'NNP', 'PERSON', 'I') ('Kizzia', 'NNP', 'PERSON', 'I') ('Johnson', 'NNP', 'PERSON', 'I') ('PLLC', 'NNP', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+JAY B. JOHNSON Kizzia Johnson Dallas
+__NEW_SENT__
+('NATHAN', 'NNP', 'ORG', 'B') ('BAILEY', 'NNP', 'ORG', 'I') ('Waller', 'NNP', 'ORG', 'I') ('Lansden', 'NNP', 'ORG', 'I') ('Dortch', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Davis', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('Nashville', 'NNP', 'ORG', 'I') ('TN', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+NATHAN BAILEY Waller Lansden Dortch & Davis LLP Nashville TN
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('ERIC', 'NNP', 'PERSON', 'B') ('BRANDON', 'NNP', 'PERSON', 'I') ('FUGETT', 'NNP', 'PERSON', 'I')
+ERIC BRANDON FUGETT
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Prost', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Mayer', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Wallach', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Prost Mayer
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Concurring', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', '', 'O') ('Mayer', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Wallach', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ('Security', 'NNP', 'ORG', 'I') ('L.P.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ADS', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('District_Court', 'NNS', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('District_Court', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('denying', 'VBG', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('2012', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+ADS Security L.P. the U.S. District_Court ADS 35 285 2012
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Rothschild', 'NNP', '', 'O') ('Connected', 'NNP', '', 'O') ('Devices', 'NNP', '', 'O') ('Innovations', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ('Prot', 'NNP', 'ORG', 'I')
+Guardian Prot
+__NEW_SENT__
+('Servs.', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._2', 'NNP', '', 'O') (':15-cv-01431-JRG-RSP', 'XX', '', 'O') ('2016_WL_3883549', 'CD', 'CARDINAL', 'B') ('at', 'IN', '', 'O') ('*4', 'FW', '', 'O') ('(', '-LRB-', '', 'O') ('E.D', 'NNP', 'GPE', 'B')
+Servs. Inc. 2016_WL_3883549 E.D
+__NEW_SENT__
+('Tex', 'NNP', '', 'O')
+
+__NEW_SENT__
+('July_18,_2016', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O')
+July_18,_2016
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NNS', 'PERSON', 'B') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Appellee', 'NNP', 'ORG', 'B') ('Rothschild', 'NNP', 'ORG', 'I') ('Connected', 'NNP', 'ORG', 'I') ('Devices', 'NNP', 'ORG', 'I') ('Innovations', 'NNP', 'ORG', 'I') ('LLC', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Rothschild', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engaged', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('conduct', 'NN', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('litigation', 'NN', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('merit', 'NN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('285', 'CD', 'CARDINAL', 'B')
+District_Court Appellee Rothschild Connected Devices Innovations LLC ADS 285
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('*1-3', 'NN', '', 'O')
+
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('exceptional', 'JJ', '', 'O') ('case', 'NN', '', 'O') ('determination', 'NN', '', 'O')
+ADS District_Court
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('possess', 'VBP', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2012', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+28 1 2012
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('instant', 'JJ', '', 'O') ('dispute', 'NN', '', 'O') ('arises', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('consequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Rothschild', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('allegation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('home', 'NN', '', 'O') ('security', 'NN', '', 'O') ('system', 'NN', '', 'O') ('infringes', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._8788,090', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Rothschild ADS U.S.
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('generally', 'RB', '', 'O') ('recites', 'VBZ', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('personalized_consumer_product', 'NNP', '', 'O') ("''", "''", '', 'O') ("'090_patent", "''", '', 'O') ('Abstract', 'NNP', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('``', '``', '', 'O') ('enable', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('user', 'NN', '', 'O') ('to', 'TO', '', 'O') ('customize', 'VB', '', 'O') ('products', 'NNS', '', 'O') ('containing', 'VBG', '', 'O') ('solids', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('fluids', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('allowing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('server', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('global', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('network', 'NN', '', 'O') ('e.g.', 'RB', '', 'O') ('the', 'DT', '', 'O') ('Internet', 'NN', '', 'O') ('to', 'TO', '', 'O') ('instruct', 'VB', '', 'O') ('the', 'DT', '', 'O') ('hardware', 'NN', '', 'O') ('mixing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('solids', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('fluids', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('user', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('preferences', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('mix', 'NN', '', 'O') ("''", "''", '', 'O') ('id', 'UH', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('1_ll._58', 'CD', 'CARDINAL', 'B') ('-62', '.', '', 'O')
+1_ll._58
+__NEW_SENT__
+('Rothschild', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('filed', 'VBN', '', 'O') ('numerous', 'JJ', '', 'O') ('lawsuits', 'NNS', '', 'O') ('against', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('parties', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O')
+Rothschild
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1086', 'CD', 'DATE', 'B') ('1097', 'CD', 'DATE', 'I')
+1086 1097
+__NEW_SENT__
+('Rothschild', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('against', 'IN', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O')
+ADS 1
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('62', 'CD', 'CARDINAL', 'B') ('73', 'CD', 'CARDINAL', 'I')
+62 73
+__NEW_SENT__
+('ADS', 'NNS', 'ORG', 'B') ('responded', 'VBD', '', 'O') ('by', 'IN', '', 'O') ('filing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('answer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('counterclaims', 'VBZ', '', 'O')
+ADS
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('84-92', 'LS', '', 'O')
+
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('subsequently', 'RB', '', 'O') ('sent', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('email', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('covers', 'VBZ', '', 'O') ('patent-ineligible_subject_matter', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1011', 'CD', 'DATE', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('anticipates', 'VBZ', '', 'O') ('claim', 'VBP', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')2', '-RRB-', '', 'O') ('J.A', 'NN', '', 'O')
+ADS Rothschild 35 1011 1 35 102 1
+__NEW_SENT__
+('*1386', 'VBZ', '', 'O') ('704', 'CD', 'CARDINAL', 'B')
+704
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('offered', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('settle', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('if', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('paid', 'VBD', '', 'O') ('ADS', 'NNP', '', 'O') ('$', '$', '', 'O') ('43,330', 'CD', 'MONEY', 'B') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O')
+ADS Rothschild 43,330
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('704', 'LS', 'CARDINAL', 'B')
+704
+__NEW_SENT__
+('Rothschild', 'NNP', '', 'O') ('rejected', 'VBD', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('offer', 'NN', '', 'O')
+ADS
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('855', 'CD', 'CARDINAL', 'B')
+855
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('next', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pleadings', 'NNS', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('covers', 'VBZ', '', 'O') ('patent-ineligible_subject_matter', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('101', 'CD', 'CARDINAL', 'B')
+ADS 1 101
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('93-104', ':', '', 'O')
+
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('sent', 'VBD', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('a', 'DT', '', 'O') ('notice', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Federal', 'NNP', 'ORG', 'B') ('Rule', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Civil', 'NNP', 'ORG', 'I') ('Procedure', 'NNP', '', 'O') ('11', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Safe_Harbor_Notice', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')3', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('included', 'VBD', '', 'O') ('copies', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('proposed', 'VBN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('11', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('sanctions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('prior_art', 'NNP', '', 'O') ('that', 'WDT', '', 'O') ('purportedly', 'RB', '', 'O') ('anticipates', 'VBZ', '', 'O') ('claim', 'VBP', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+ADS Rothschild Federal Rule of Civil 2 Safe_Harbor_Notice Rule 11 1
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('270', 'CD', 'CARDINAL', 'B') ('685', 'CD', '', 'O')
+270
+__NEW_SENT__
+('In', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Safe_Harbor_Notice', 'NNP', '', 'O') ('Rothschild', 'NNP', '', 'O') ('voluntarily', 'RB', '', 'O') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('action', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('247', 'CD', 'CARDINAL', 'B')
+247
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('opposed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('cross-motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('285,4', 'CD', 'CARDINAL', 'B') ('see', 'VB', '', 'O') ('J.A', 'NNP', '', 'O')
+ADS 285,4
+__NEW_SENT__
+('249', 'CD', 'CARDINAL', 'B') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('view', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('suit', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('objectively', 'RB', '', 'O') ('unreasonable', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('knew', 'VBD', '', 'O') ('or', 'CC', '', 'O') ('should', 'MD', '', 'O') ('have', 'VB', '', 'O') ('known', 'VBN', '', 'O') ('that', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('covers', 'VBZ', '', 'O') ('patent-ineligible_subject_matter', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', 'CARDINAL', 'B') ('101', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('see', 'VB', '', 'O') ('J.A', 'NNP', '', 'O')
+249 Rothschild Rothschild 1 ¡± 101 102 1
+__NEW_SENT__
+('261-64', 'LS', '', 'O')
+
+__NEW_SENT__
+('ADS', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('intend', 'VB', '', 'O') ('to', 'TO', '', 'O') ('test', 'VB', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('claim', 'NN', '', 'O') ('and', 'CC', '', 'O') ('instead', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('and', 'CC', '', 'O') ('over', 'IN', '', 'O') ('fifty', 'CD', 'CARDINAL', 'B') ('other', 'JJ', '', 'O') ('lawsuits', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', '', 'O') ('to', 'IN', '', 'O') ('``', '``', '', 'O') ("'exploit", 'XX', '', 'O') ('[', '-LRB-', '', 'O') (']', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('high', 'JJ', '', 'O') ('cost', 'NN', '', 'O') ('to', 'TO', '', 'O') ('defend', 'VB', '', 'O') ('complex', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('extract', 'VB', '', 'O') ('nuisance', 'NN', '', 'O') ('value', 'NN', '', 'O') ('settlements', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('``', '``', '', 'O') ('from', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('defendants', 'NNS', '', 'O')
+ADS Rothschild fifty
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('265', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('brackets', 'NNS', '', 'O') ('omitted', 'VBN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('quoting', 'VBG', '', 'O') ('Eon-Net', 'NNP', 'ORG', 'B') ('LP', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Flagstar', 'NNP', 'ORG', 'B') ('Bancorp', 'NNP', 'ORG', 'I') ('653_F.3d_1314', 'CD', 'DATE', 'B') ('1327', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Fed', 'NNP', 'ORG', 'B')
+265 Eon-Net LP Flagstar Bancorp 653_F.3d_1314 1327 Fed
+__NEW_SENT__
+('Cir', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2011', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') (')', '-RRB-', '', 'O')
+2011
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('ultimately', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('Rothschild', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Motion', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Dismiss', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBD', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Cross-Motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+District_Court Rothschild ADS
+__NEW_SENT__
+('Rothschild', 'NNP', '', 'O') ('2016_WL_3883549', 'CD', 'CARDINAL', 'B') ('at', 'IN', '', 'O') ('*4', 'NN', '', 'O')
+2016_WL_3883549
+__NEW_SENT__
+('As', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('latter', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NNP', 'PERSON', 'B') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engage', 'VB', '', 'O') ('in', 'IN', '', 'O') ('conduct', 'NN', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O') ('``', '``', '', 'O') ('exceptional', 'JJ', '', 'O') ("''", "''", '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('285', 'CD', 'CARDINAL', 'B')
+District_Court Rothschild 285
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NNS', 'PERSON', 'B') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('``', '``', '', 'O') ('decision', 'NN', '', 'O') ('to', 'TO', '', 'O') ('voluntarily', 'RB', '', 'O') ('withdraw', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('[', '-LRB-', '', 'O') ('C', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('omplaint', 'NN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('safe', 'JJ', '', 'O') ('harbor', 'NN', '', 'O') ('period', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('reasonable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('11', 'CD', 'LAW', 'I') ('is', 'VBZ', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('encourage', 'VB', '', 'O') ("''", "''", '', 'O')
+District_Court Rothschild Rule 11
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*2', 'FW', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NNS', 'PERSON', 'B') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('recited', 'VBD', '', 'O') ('``', '``', '', 'O') ('non-conclusory', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('facially', 'RB', '', 'O') ('plausible', 'JJ', '', 'O') ('arguments', 'NNS', '', 'O') ('supporting', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('eligibility', 'NN', '', 'O') ("''", "''", '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('101', 'CD', 'CARDINAL', 'B')
+District_Court Rothschild 101
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Turning', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('anticipation', 'NN', '', 'O') ('allegations', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NNS', 'PERSON', 'B') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('ADS', 'NNP', 'ORG', 'B') ('neither', 'DT', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'090_patent", 'NNP', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', 'CARDINAL', 'B') ('102', 'CD', 'CARDINAL', 'I') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('nor', 'CC', '', 'O') ('demonstrated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('conduct', 'VB', '', 'O') ('a', 'DT', '', 'O') ('reasonable', 'JJ', '', 'O') ('pre-suit', 'JJ', '', 'O') ('investigation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O')
+District_Court ADS 1 ¡± 102 1 Rothschild
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Rothschild', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('numerous', 'JJ', '', 'O') ('other', 'JJ', '', 'O') ('suits', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('against', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('companies', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('alone', 'RB', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('exceptional', 'JJ', '', 'O')
+District_Court Rothschild
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('*3', 'VBD', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('followed', 'VBD', '', 'O')
+
+__NEW_SENT__

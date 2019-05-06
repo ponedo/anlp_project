@@ -1,0 +1,266 @@
+908_f.3d_1343
+united states court of appeals federal circuit
+ancora technologies inc. plaintiff-appellant
+v. htc america inc. htc_corporation defendants-appellees
+2018-1404
+| decided november 16 2018
+| as amended november 20 2018
+synopsis
+background owner of patent describing and claiming methods of limiting a computers running of software not authorized for that computer to run brought infringement action
+competitor moved to dismiss
+the united_states_district_court for the western_district of washington no._216-cv-01919-raj richard a. jones j. 287_f.supp.3d_1168 granted motion
+patent owner appealed
+
+the court of appeals taranto circuit_judge held that claim was not directed to an abstract_idea and thus was not patent ineligible
+
+reversed and remanded
+
+procedural posture s on appeal ; motion to dismiss for failure to state a claim
+*1344 appeal from the united_states_district_court for the western_district of washington in no._216-cv-01919-raj judge richard a. jones
+attorneys and law firms
+marc lorelli brooks kushman pc southfield mi argued for plaintiff-appellant
+also represented by mark a. cantor john s. le roy john p. rondini
+irfan a. lateef knobbe martens olson & bear llp irvine ca argued for defendants-appellees
+also represented by brian christopher claassen daniel c. kiang joseph r. re
+before dyk wallach and taranto circuit_judges
+opinion
+taranto circuit_judge
+ancora_technologies inc.s u.s. patent 6,411,941 is entitled` method of restricting software operation within a license limitation'
+the patent describes and claims methods of limiting a computers running of software not authorized for that computer to run
+it issued in 2002 and the patentability of all claims was confirmed in a reexamination in 2010
+the941_patent was previously before this court in ancora_technologies inc. v. apple inc. 744_f.3d_732_(fed._cir._2014) which involved a 2011 infringement suit against apple that raised issues of claim construction and indefiniteness in this court
+
+ancora brought this action against htc_america and htc_corporation in 2016 alleging infringement of the941_patent
+htc moved to dismiss on the ground that the patents claims are invalid because their subject_matter is ineligible for patenting under 35 u.s.c ¡± 101
+the district_court granted htcs motion to dismiss concluding that the claims are directed to and ultimately claim no more than an abstract_idea
+
+we reverse
+under enfish llc v. microsoft corp. 822_f.3d_1327_(fed._cir._2016) and related authorities we conclude the claims at issue here are not directed to ineligible subject_matter
+rather we hold the claimed advance is a concrete assignment of specified functions among a computers components to improve computer_security and this claimed improvement in computer_functionality is eligible for patenting
+as a result the claims are not invalid under ¡± 101
+
+i
+a
+describing aspects of the prior-art methods it seeks to improve the941_patent states that` [ n ] umerous methods have been devised for the identifying and restricting of an unauthorized software programs operation'
+'941_patent col. 1 lines 12-14
+for example software-based methods exist that require writing a license signature on the computers hard drive but a flaw in those methods is that such a signature can be changed by hackers without damaging other aspects of computer_functionality
+id. col. 1 lines 19-26
+hardware-based methods exist that require inserting a dongle into a computer port to authenticate the software authorization but those methods are costly inconvenient and not suitable for software sold and downloaded over the internet
+id. col. 1 lines 27-32
+
+the941_patent describes an asserted improvement based on assigning certain functions to particular computer components *1345 and having them interact in specified ways
+the proposed method` relies on the use of a key and of a record'
+id. col. 1 lines 40-41
+a` key' which is` a unique identification code' for the computer is embedded in the read-only memory rom of the computers basic input output system bios module the key` can not be removed or modified'
+id. col. 1 lines 45-51
+a` record' is a` license_record' associated with a particular application` each application program that is to be licensed to run on the specified computer [ ] is associated with a license_record [ ] that consists of author name program name [ ] and number of licensed users for network'
+id. col. 1 lines 52-57
+
+the asserted innovation of the patent relates to where the license_record is stored in the computer and the interaction of that memory with other_memory to check for permission to run a program that is introduced into the computer
+the inventive method uses a modifiable part of the bios_memory-not other computer memory-to store the information that can be used when a program is introduced into the computer to determine whether the program is licensed to run on that computer
+bios_memory is typically used for storing programs that assist in the start-up of a computer not verification_structures comparable to the software-licensing structure embodied by the claimed invention
+using bios_memory rather than other_memory in the computer improves computer_security the patent indicates because successfully hacking bios_memory i.e. altering it without rendering the computer inoperable is much harder than hacking the memory used by the prior_art to store license-verification_information
+id. col. 3 lines 4-17 ; see ancora 744 f.3d at 733-34` thus the inventors stated that their method makes use of the existing computer hardware eliminating the expense and inconvenience of using additional hardware while storing the verification_information in a space that is harder and riskier for a hacker to tamper with than storage areas used by earlier methods
+``
+
+more specifically the method calls for storage of a license_record in a` verification_structure' created in a portion of bios_memory that unlike the rom of the bios` may be erased or modified' -for example an electrically erasable programmable read only memory e2prom which may be altered by` using e2prom manipulation commands'
+id. col. 1 line 65 through col. 2 line 5
+the role of the verification_structure is to` indicate that the specified program is licensed to run on the specified computer'
+id. col. 1 lines 60-62
+`` this is implemented by encrypting the license_record or portion thereof using [ the computer-specific ] key or portion thereof.. as an encryption key'
+id.at lines 59-67
+when a program has been loaded into the computers volatile_memory e.g. random access memory the computer in order to verify authorization to run that program` accesses the program under question retrieves therefrom the license_record encrypts the record utilizing the specified unique key.. and compares the so encrypted record' to the one stored in the verification_structure in the erasable modifiable bios
+id. col. 2 lines 10-19
+if the newly encrypted record does not match the one in the bios the program is halted or other action is taken
+id.at lines 19-26
+
+in the district_court the parties focused their arguments on claim 1 of the941_patent
+we therefore discuss only that claim
+it reads as follows 1
+a method of restricting software operation within a license for use with a computer including an erasable non-volatile_memory area of a bios of the computer and a volatile_memory area ; the method comprising the steps of *1346 selecting a program residing in the volatile_memory using an agent to set up a verification_structure in the erasable non-volatile_memory of the bios the verification_structure accommodating data that includes at least one license_record verifying the program using at least the verification_structure from the erasable non-volatile_memory of the bios and
+acting on the program according to the verification
+id. col. 6 line 59 through col. 7 line 4
+
+b
+on december 15 2016 ancora filed this action in the western_district of washington alleging that htc has infringed and is infringing the941_patent
+in april 2017 htc moved to dismiss under rule 12 b 6 of the federal rules of civil procedure
+htc argued that the subject_matter of the claims of the patent is ineligible for patenting under 35 u.s.c.¡± 101
+
+in may 2017 htc filed with the patent trial and appeal board a petition to institute a review of the941_patent on ¡± 101 and other grounds under the provision for review of covered business method patents set forth in section 18 of the leahy-smith america invents act pub
+l. no._112-29 125_stat._284 329-31 2011
+section 18 d 1 excludes patents` for technological_inventions' from such review
+an implementing regulation calls for consideration of` whether the claimed subject_matter as a whole recites a technological feature that is novel and unobvious over the prior_art ; and solves a technical_problem using a technical_solution'
+37 c.f.r.¡± 42.301 b
+on december 1 2017 the board rejected the request to institute a review concluding that the941_patent_claims a technical_solution to a technical_problem and comes within the` technological_inventions' exception for such reviews
+htc corp. v. ancora_techs_. inc. cbm2017-00054 2017_wl_6032605 at *3-5 p.t.a.b
+dec._1,_2017
+
+on december 14 2017 the district_court granted htcs motion to dismiss
+ancora techs. inc. v. htc_america inc. 287_f.supp.3d_1168 1170 w.d
+wash. 2017
+the court followed the two-step analytic process set forth in alice corp. v. cls bank international 573_u.s._208 134_s.ct._2347 189_l.ed.2d_296_(2014)
+at the first step because` the claims at issue are directed toward computer-related technology' the court asked` whether the focus of the claims is on the specific_asserted_improvement in computer_capabilities or instead on a process that qualifies as anabstract_idea for which computers are invoked merely as a tool'
+ancora techs. inc. 287 f.supp.3d at 1173 quoting enfish 822 f.3d at 1335-36
+the court stated that the patent_claims are` not focused on how usage of the bios to store the verification_structure leads to an improvement in computer_security' and that` the erasable non-volatile_memory of the bios.. is typically used to store data'
+id.at 1174
+the court concluded that the claims` focus is on the abstract_concept of selecting a program verifying whether the program is licensed and acting on the program according to the verification'
+id
+proceeding then to step two of the alice framework the district_court concluded that the claims contained no` inventive concept' that makes their subject_matter something significantly more than the abstract_idea in particular` [ s ] pecifying that the bios be used to house the verification_structure' calls for nothing more than` [ s ] toring data in the memory of a computer component that generally stores data'
+id.at 1175
+
+the district_court issued its final judgment on december 20 2017
+ancora timely filed a notice of appeal on december 29 *1347 2017
+see 28 u.s.c.¡± 2107 a
+we have jurisdiction to hear this appeal pursuant to 28 u.s.c.¡± 1295 a 1
+
+ii
+we review the rule 12 b 6 dismissal de novo
+see oip techs. inc. v. amazon.com inc. 788_f.3d_1359 1362 fed
+cir
+2015 following ninth circuit law
+we recently explained eligibility under 35 u.s.c.¡± 101 is a question of law based on underlying facts
+like other legal questions based on underlying facts this question may be and frequently has been resolved on a rule 12 b 6 or c motion where the undisputed facts considered under the standards required by that rule require a holding of ineligibility under the substantive standards of law
+sap_america inc. v. investpic llc 898_f.3d_1161 1166 fed
+cir
+2018 internal citations omitted
+
+section 101 defines patent-eligible subject_matter as` any new and useful process machine manufacture or composition of matter or any new and useful improvement thereof'
+35 u.s.c.¡± 101
+laws of nature natural phenomena and abstract_ideas are not eligible matter
+mayo collaborative servs
+v. prometheus labs. inc. 566_u.s._66 70 132_s.ct._1289 182_l.ed.2d_321_(2012)
+a two-step analysis determines whether claim 1 of the941_patent falls outside ¡± 101
+we ask 1 whether the claim as a whole is` directed to' patent-ineligible matter-here an abstract_idea-and 2 if so whether the elements of the claim considered individually or as an ordered combination`transform the nature of the claim into a patent-eligible application'
+alice 573 u.s. at -- -- 134 s.ct.at 2355 quoting mayo 566 u.s. at 78 132_s.ct._1289
+we conclude that claim 1 is not directed to an abstract_idea and therefore we do not reach the second step
+
+we examine the patents`claimed advance to determine whether the claims are directed to an abstract_idea'
+finjan inc. v. blue coat system inc. 879_f.3d_1299 1303 fed
+cir
+2018
+`` in cases involving software innovations this inquiry often turns on whether the claims focus onthe specific_asserted_improvement in computer_capabilities.. or instead on a process that qualifies as an` abstract_idea' for which computers are invoked merely as a tool
+`` id
+( quoting enfish 822 f.3d at 1335-36 ; see bsg tech llc v. buyseasons inc. 899_f.3d_1281 1285-86 fed
+cir
+2018
+computers are improved not only through changes in hardware ;` [ s ] oftware can make non-abstract improvements to computer technology..' enfish 822 f.3d at 1335 ; see finjan 879 f.3d at 1304
+we have several times held claims to pass muster under alice_step one when sufficiently focused on such improvements
+
+in enfish we held that the patent_claims at issue were not directed to an abstract_idea because the claimed self-referential_tables improved the way that computers operated and handled data
+the claimed self-referential_tables allowed the more efficient launching and adaptation of databases
+enfish 822 f.3d at 1333 1336 ; see bsg 899 f.3d at 1288 noting that the self-referential table in enfish` enabled programmers to construct databases in new ways that required less modeling and configuring of various tables prior to launch' ; finjan 879 f.3d at 1304-05 describing enfish
+
+in visual_memory llc v. nvidia corp. we drew a similar conclusion about claims focused on a specific_improvement in computer memory
+867_f.3d_1253 1262 fed
+cir
+2017
+the district_court had determined that the claims were directed to the abstract_concept of categorical_data_storage
+id.at 1257
+we determined that the district_court had erred because the *1348 patent was specifically` directed to an improved computer memory_system not to the abstract_idea of categorical_data_storage' and therefore was not directed to an abstract_idea
+id.at 1259
+the claims were specific and limited to certain types of data to be stored
+id
+`` none of the claims recite [ d ] all types and all forms of categorical_data_storage'
+id
+as we summarized in bsg the visual_memory claims were directed to` animproved memory_system that configured operational characteristics of a computers cache memory based on the type of processor connected to the memory_system' allowing` the claimed invention to accommodate different types of processors without compromising performance'
+899 f.3d at 1288
+this was an improvement in computer_functionality
+visual_memory 867 f.3d at 1260
+
+in finjan we held that claims to a` behavior-based virus scan' were a specific_improvement in computer_functionality and hence not directed to an abstract_idea
+879 f.3d at 1304
+the claimed technique of scanning enabled` more flexible and nuanced virus filtering' and detection of potentially dangerous code
+id
+the claims thus were directed to` a non-abstract improvement in computer_functionality' having the benefit of achieving greater computer_security
+id.at 1305
+
+in core wireless licensing s.a.r.l
+v. lg electronics inc. we held that claims to a method for making websites easier to navigate on a small-screen device were not directed to an abstract_idea
+880_f.3d_1356 1363 fed
+cir
+2018
+the claimed method involved launching a summary window to allow small-screen users to quickly access commonly used features of a website
+id.at 1359-60
+although the defendant argued that the patent was directed to the abstract_idea of indexing information we determined that the claims were directed to a specific_type of index for a specific_type of user and so not directed to an abstract_idea
+id.at 1362-63
+
+most recently in data engine technologies llc v. google llc this court held that claims to` a specific method for navigating through three-dimensional electronic spreadsheets' were` not directed to an abstract_idea'
+906_f.3d_999 1007 fed
+cir
+2018
+the method provided` a specific solution to then-existing technological problems in computers and prior_art electronic spreadsheets'
+id.at 1008
+the navigation difficulties of prior-art spreadsheets were addressed` in a particular way-by providing a highly intuitive user-friendly interface with familiar notebook tabs for navigating the three-dimensional worksheet environment'
+id
+we distinguished other cases in which we had held claims to be` simply directed to displaying a graphical user interface or collecting manipulating or organizing information' ; the claims in data engine we concluded recite` a specific structure i.e. notebook tabs within a particular spreadsheet display that performs a specific function i.e. navigating within a three-dimensional spreadsheet'
+id.at 1010-11
+
+in accordance with those precedents we conclude that claim 1 of the941_patent is not directed to an abstract_idea
+improving security-here against a computers unauthorized use of a program-can be a non-abstract computer-functionality_improvement if done by a specific technique that departs from earlier approaches to solve a specific computer problem
+see finjan 879 f.3d at 1304-05
+the claimed method here specifically identifies how that functionality_improvement is effectuated in an assertedly unexpected way a structure containing a license_record is stored in a particular modifiable non-volatile portion of the computers bios and the structure in that memory location is used for verification by interacting with the distinct computer *1349 memory that contains the program to be verified
+in this way the claim addresses a technological problem with computers vulnerability of license-authorization software to hacking
+'941_patent col. 1 lines 12-35 ; cf
+htc 2017_wl_6032605 at *3-5 ptab conclusion regarding` technological_inventions'
+it does so by relying on specific and unique characteristics of certain aspects of the bios that the patent asserts and we lack any basis for disputing were not previously used in the way now claimed and the result is a beneficial reduction of the risk of hacking
+'941_patent col. 1 line 39 through col. 2 line 59 ; id. col. 3 lines 4-17 ; id. col. 6 lines 59-67
+the prosecution history reinforces what the patent itself indicates about the change in previous verification techniques for computer_security
+see j.a
+283 examiner stating reasons for allowance summarizing patents solution of` using an agent to set up a verification_structure in the erasable non-volatile_memory of the bios' ; ancora 744 f.3d at 735-36 quoting applicants arguments to examiner
+
+in short claim 1 of the941_patent is directed to a solution to a computer-functionality problem an improvement in computer_functionality that has` the specificity required to transform a claim from one claiming only a result to one claiming a way of achieving it'
+sap_america inc. 898 f.3d at 1167
+it therefore passes muster under alice_step one as it is not directed to patent-ineligible subject_matter
+we need not and do not apply step two of the alice analysis
+see data engine 906 f.3d at 1011 ; finjan 879 f.3d at 1306 ; visual_memory 867 f.3d at 1262
+
+we do note in accord with our recognition of overlaps between some step one and step two considerations electric power group llc v. alstom s.a. 830_f.3d_1350 1353 fed
+cir
+2016 that our conclusion that the specific_improvement in this case passes muster at step one is indirectly reinforced by some of our holdings under step two
+for example in bascom global internet services v. at & t mobility we held that claims to a method and system of filtering internet content using an internet service provider isp server were a` technical_improvement over the prior_art_ways of filtering such_content'
+827_f.3d_1341 1350 1352 fed
+cir
+2016
+the prior_art disclosed two forms of content-filtering systems software was either 1` placed on local computers such that each local computer had its own tool for filtering [ content ]' ; or 2 placed on` a local server' or remote isp server
+id.at 1343-44
+but both of those systems had disadvantages the former allowed end-user modifications and was difficult to administer ; the latter ignored material differences among end users
+id
+the claimed invention addressed the disadvantages of the prior_art through a filtering system located on an isp server that used the servers ability to` to associate an individual user with a specific request' to create individually customizable filtering
+id
+in holding the claimed invention eligible under alice_step two we reasoned that although` [ f ] iltering content on the internet was already a known concept.. the patent describes how its particular arrangement of elements is a technical_improvement over the prior_art_ways of filtering such_content'
+id.at 1349-50
+a similar characterization we think applies to the technical_improvement claimed in this case and in light of the line of cases we have discussed above justifies the conclusion that claim 1 of the941_patent is not directed to an abstract_idea but to a computer-functionality_improvement
+
+the contrast with another step-two case intellectual_ventures i llc v. symantec corp. 838_f.3d_1307_(fed._cir._2016) is also instructive
+there one claimed invention required the installation of virus screening software on a telephone_network
+*1350 id.at 1319
+but because the claim at issue did not` recite [ ] any improvement to conventional virus screening software nor.. solve any problem associated with situating such virus screening on the telephone_network' we held that the patent did not identify a sufficient inventive concept under alice to transform the claimed abstract_idea into something patentable
+id.at 1320-21
+nor did the claimed method provide advantages with respect to computer function
+id.at 1320
+in the present case in contrast the record described above shows that the claimed invention moves a software-verification_structure to a bios location not previously used for this computer-security purpose and alters how the function is performed in that the bios_memory used for verification now interacts with distinct computer memory to perform a software-verification function yielding a tangible technological benefit by making the claimed system less susceptible to hacking
+thus intellectual_ventures i v. symantec is consistent with our conclusion
+
+htc does not dispute that all claims pass muster if claim 1 does
+accordingly we hold that htc has not shown the941_patents claims to be invalid under 35 u.s.c.¡± 101
+we do not have before us any question about invalidity under other provisions of title 35
+
+iii
+for the foregoing reasons we reverse the judgment of the district_court and remand the case
+
+costs to ancora
+
+reversed and remanded
+
+all citations
+908_f.3d_1343 128_u.s.p.q.2d_1565
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+ancora_technologies inc. v. htc_america inc. 908_f.3d_1343 2018 128_u.s.p.q.2d_1565
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

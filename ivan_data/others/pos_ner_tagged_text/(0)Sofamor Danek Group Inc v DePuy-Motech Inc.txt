@@ -1,0 +1,147 @@
+('74_F.3d_1216', 'CD', 'CARDINAL', 'B')
+74_F.3d_1216
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('SOFAMOR', 'NNP', 'ORG', 'B') ('DANEK', 'NNP', 'ORG', 'I') ('GROUP', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'CC', '', 'O') ('DePUY-MOTECH', 'NN', '', 'O') ('INC.', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+SOFAMOR DANEK GROUP INC.
+__NEW_SENT__
+('No._95-1209', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._24,_1996', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('for', 'IN', '', 'O') ('surgical', 'JJ', '', 'O') ('implant', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('to', 'TO', '', 'O') ('correct', 'VB', '', 'O') ('deformities', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('traumas', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('human_spine', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('Larry', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McKinney', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('1994_WL_846541', 'CD', 'PERSON', 'I') ('denied', 'VBD', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Indiana Larry J. McKinney J. 1994_WL_846541
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('merits', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('limitations', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('``', '``', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ("''", "''", '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('trial_court', 'NNP', '', 'O') ('gave', 'VBD', '', 'O') ('undue', 'JJ', '', 'O') ('weight', 'NN', '', 'O') ('to', 'IN', '', 'O') ('prosecution_history', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('device', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('likely', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('under', 'IN', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('show', 'VB', '', 'O') ('irreparable_harm', 'NN', '', 'O')
+The Court of Appeals Rader Circuit_Judge 1 2 3 4
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1218', 'FW', '', 'O') ('Spiro', 'NNP', 'PERSON', 'B') ('Bereveskos', 'NNP', 'PERSON', 'I') ('Woodard', 'NNP', 'PERSON', 'I') ('Emhardt', 'NNPS', 'PERSON', 'I') ('Naughton', 'NNP', 'PERSON', 'I') ('Moriarty', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('McNett', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Indianapolis', 'NNP', 'GPE', 'B') ('Indiana', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Spiro Bereveskos Woodard Emhardt Naughton Indianapolis Indiana
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Charles', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Reeves', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Beck', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Timothy', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Thomas', 'NNP', 'PERSON', 'I')
+Charles R. Reeves Michael D. Beck Timothy N. Thomas
+__NEW_SENT__
+('Donald', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Knebel', 'NNP', 'PERSON', 'I') ('Barnes', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Thornburg', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Indianapolis', 'NNP', 'GPE', 'B') ('Indiana', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Donald E. Knebel Barnes & Thornburg Indianapolis Indiana
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Janis', 'NNP', 'PERSON', 'I')
+Mark D. Janis
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('RADER', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('29', 'CD', 'DATE', 'I') ('1994', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Indiana', 'NNP', 'GPE', 'B') ('denied', 'VBD', '', 'O') ('Sofamor_Danek_Group', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Sofamor', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('DePuy-Motech', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('DePuy-Motech', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+December 29 1994 United_States_District_Court Indiana Sofamor_Danek_Group Inc. 's Sofamor DePuy-Motech Inc. DePuy-Motech
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Sofamor', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('meet', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('burdens', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('proof', 'NN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O')
+Sofamor
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('owns', 'VBZ', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('Nos._4641,636', 'NNP', '', 'O') ('4,815,453', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('5,005,562', 'CD', 'CARDINAL', 'B') ('on', 'IN', '', 'O') ('surgical', 'JJ', '', 'O') ('implant', 'JJ', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('correct', 'VB', '', 'O') ('deformities', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('traumas', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human_spine', 'NN', '', 'O')
+Sofamor three U.S. 4,815,453 5,005,562
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5005,562', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'562_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+U.S.
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('DePuy-Motech', 'NNP', 'ORG', 'B') ('compete', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('spinal', 'JJ', '', 'O') ('implant', 'JJ', '', 'O') ('business', 'NN', '', 'O')
+Sofamor DePuy-Motech
+__NEW_SENT__
+('DePuy-Motech', 'NNP', '', 'O') ('introduced', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('competing', 'VBG', '', 'O') ('product', 'NN', '', 'O') ('the', 'DT', '', 'O') ('MOSS-MIAMI', 'NNP', 'PERSON', 'B') ('spinal', 'NN', '', 'O') ('implant', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('market', 'NN', '', 'O')
+MOSS-MIAMI United States
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'562_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('MOSS-MIAMI_device', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('spinal', 'JJ', '', 'O') ('surgery', 'NN', '', 'O')
+MOSS-MIAMI_device
+__NEW_SENT__
+('This', 'DT', '', 'O') ('technology', 'NN', '', 'O') ('essentially', 'RB', '', 'O') ('implants', 'VBZ', '', 'O') ('rigid', 'JJ', '', 'O') ('rods', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('straighten', 'VB', '', 'O') ('or', 'CC', '', 'O') ('support', 'VB', '', 'O') ('a', 'DT', '', 'O') ('deformed', 'VBN', '', 'O') ('spine', 'NN', '', 'O')
+
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('MOSS-MIAMI_device', 'NNP', 'ORG', 'B') ('comprise', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('anchoring', 'VBG', '', 'O') ('hook', 'NN', '', 'O') ('implant', 'NN', '', 'O') ('with', 'IN', '', 'O') ('an', 'DT', '', 'O') ('open', 'JJ', '', 'O') ('back', 'RB', '', 'O') ('into', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('surgeon', 'NN', '', 'O') ('may', 'MD', '', 'O') ('place', 'VB', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O')
+MOSS-MIAMI_device
+__NEW_SENT__
+('A', 'DT', '', 'O') ('threaded_plug', 'NN', '', 'O') ('secures', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('MOSS-MIAMI_device', 'NNP', 'ORG', 'B') ('an', 'DT', '', 'O') ('external', 'JJ', '', 'O') ('nut', 'NN', '', 'O') ('further', 'RB', '', 'O') ('secures', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('threaded_plug', 'NN', '', 'O')
+MOSS-MIAMI_device
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('action', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('DePuy-Motech', 'NNP', '', 'O') ('infringed', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('spinal', 'NN', '', 'O') ('implant', 'JJ', '', 'O') ('*1219', 'JJ', '', 'O') ('patents', 'NNS', '', 'O')
+Sofamor three
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('then', 'RB', '', 'O') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'562_patent", 'NNP', '', 'O') ('to', 'TO', '', 'O') ('stop', 'VB', '', 'O') ('DePuy-Motech', 'NNP', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('activity', 'NN', '', 'O')
+Sofamor
+__NEW_SENT__
+('DePuy-Motech', 'NNP', '', 'O') ('asserted', 'VBD', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('defenses', 'NNS', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('misuse', 'NN', '', 'O')
+
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('DePuy-Motech', 'NNP', 'ORG', 'B') ('dispute', 'NN', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('MOSS-MIAMI_device', 'NNP', 'ORG', 'B') ('infringes', 'VBZ', '', 'O') ('claim', 'VBP', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'562_patent", 'NNP', '', 'O')
+Sofamor DePuy-Motech MOSS-MIAMI_device 1
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('states', 'VBZ', '', 'O') (':', ':', '', 'O') ('Implant', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('osteosynthesis', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('in', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('spine', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('anchorage', 'NN', '', 'O') ('portion', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('anchoring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('implant', 'NN', '', 'O') ('to', 'IN', '', 'O') ('bone', 'NN', '', 'O') ('and', 'CC', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('attaching', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('implant', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'VBZ', '', 'O') ('having', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('side_branches', 'NNS', '', 'O') ('defining', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('channel', 'NN', '', 'O') ('open', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('both', 'DT', '', 'O') ('sides', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('able', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('receive', 'VB', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('and', 'CC', '', 'O') ('open', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('rear_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('threaded_plug', 'NN', '', 'O') ('a', 'DT', '', 'O') ('female_thread', 'NN', '', 'O') ('formed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('inner_walls', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('side_branches', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rear_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('threaded_plug', 'NNP', '', 'O') ('being', 'VBG', '', 'O') ('screwed', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('female_thread', 'NN', '', 'O') ('to', 'TO', '', 'O') ('close', 'VB', '', 'O') ('the', 'DT', '', 'O') ('channel', 'NN', '', 'O') ('at', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('rear_portion', 'NN', '', 'O') ('the', 'DT', '', 'O') ('plug', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('face', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('towards', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('facing', 'VBG', '', 'O') ('being', 'VBG', '', 'O') ('equipped', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('gripping', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('attaching', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('plug', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('manner', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('will', 'MD', '', 'O') ('be', 'VB', '', 'O') ('clamped', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('prevent', 'VB', '', 'O') ('translation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('rotation', 'NN', '', 'O')
+two two
+__NEW_SENT__
+('Col.', 'NNP', 'DATE', 'B') ('4', 'CD', 'DATE', 'I') ('11', 'CD', 'DATE', 'I')
+Col. 4 11
+__NEW_SENT__
+('14-29', 'LS', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('1994', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('three-day', 'NN', '', 'O') ('hearing', 'NN', '', 'O') ('receiving', 'VBG', '', 'O') ('testimony', 'NN', '', 'O') ('from', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('witnesses', 'NNS', '', 'O')
+December 1994
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('Sofamor', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+Sofamor
+__NEW_SENT__
+('In', 'IN', '', 'O') ('reaching', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('decision', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'562_patent", 'NN', '', 'O')
+
+__NEW_SENT__
+('From', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('prosecution_history', 'NN', '', 'O') ('and', 'CC', '', 'O') ('extrinsic', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('fitting', 'VBG', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ("''", "''", '', 'O') ('would', 'MD', '', 'O') (':', ':', '', 'O') ('1.', 'LS', 'CARDINAL', 'B') ('use', 'VB', '', 'O') ('less', 'JJR', 'CARDINAL', 'B') ('than', 'IN', 'CARDINAL', 'I') ('three', 'CD', 'CARDINAL', 'I') ('parts', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('attach', 'VB', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('spine', 'NN', '', 'O') (';', ':', '', 'O') ('2.', 'LS', 'CARDINAL', 'B') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('anchoring', 'VBG', '', 'O') ('device', 'NN', '', 'O') ('the', 'DT', '', 'O') ('rear_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('channel', 'NN', '', 'O') ('or', 'CC', '', 'O') ('groove', 'VB', '', 'O') ('open', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('back', 'NN', '', 'O') (';', ':', '', 'O') ('3.', 'LS', 'CARDINAL', 'B') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('body', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('means', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('formed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('smooth-sided', 'JJ', '', 'O') ('branches', 'NNS', '', 'O') ('containing', 'VBG', '', 'O') ('threads', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('inner_walls', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('threaded_plug', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('tightened', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('close', 'VB', '', 'O') ('the', 'DT', '', 'O') ('channel', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+1. less than three 2. 3. two
+__NEW_SENT__
+('4.', 'LS', 'CARDINAL', 'B') ('use', 'VB', '', 'O') ('a', 'DT', '', 'O') ('plug', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('equipped', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('something', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('enables', 'VBZ', '', 'O') ('it', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('lock', 'VB', '', 'O') ('the', 'DT', '', 'O') ('rod', 'NN', '', 'O') ('against', 'IN', '', 'O') ('movement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('different', 'JJ', '', 'O') ('directions', 'NNS', '', 'O')
+4. three
+__NEW_SENT__
+('Sofamor_Danek_Group', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('DePuy-Motech', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'UH', '', 'O')
+DePuy-Motech Inc.
+__NEW_SENT__
+('IP94-350-C', 'NNP', '', 'O') ('1994_WL_846541', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*6', 'FW', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Ind', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Dec._29,_1994', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('reading', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Sofamor', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('prove', 'VB', '', 'O') ('the', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('or', 'CC', '', 'O') ('validity', 'NN', '', 'O')
+Sofamor
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('Sofamor', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('offer', 'VB', '', 'O') ('evidence', 'NN', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('irreparable_harm', 'NN', '', 'O')
+Sofamor
+__NEW_SENT__
+('Without', 'IN', '', 'O') ('a', 'DT', '', 'O') ('showing', 'NN', '', 'O') ('on', 'IN', '', 'O') ('these', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('prongs', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('balance', 'VB', '', 'O') ('hardships', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('assess', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('impact', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('injunction', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('public', 'JJ', '', 'O') ('interest', 'NN', '', 'O')
+two
+__NEW_SENT__
+('Sofamor', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O')
+Sofamor
+__NEW_SENT__

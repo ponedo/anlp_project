@@ -1,0 +1,80 @@
+882_F.3d_1121
+United States Court of Appeals Federal Circuit
+AATRIX SOFTWARE INC. Plaintiff-Appellant
+v. GREEN SHADES SOFTWARE INC. Defendant-Appellee
+2017-1452
+| Decided : February 14 2018
+Synopsis
+Background : Owner of patents directed to systems and methods for designing creating and importing data into a viewable_form on a computer brought infringement action
+Competitor moved to dismiss for patent invalidity
+The United_States_District_Court for the Middle_District of Florida No._3 :15-cv-00164-HES-MCR Harvey E. Schlesinger Senior Judge 2016_WL_1375141 determined that claims were invalid and 2016_WL_7206173 denied patent_owner 's motion for leave to amend
+Patent owner appealed
+
+Holdings : The Court of Appeals Moore Circuit_Judge held that :
+
+patent claim was not ineligible as directed to intangible embodiment and
+
+district_court 's denial of patent_owner 's motion to amend complaint was abuse of discretion
+
+Vacated in part reversed in part and remanded
+
+Reyna Circuit_Judge filed an opinion concurring in part and dissenting in part
+
+Procedural Posture ( s ) : On Appeal ; Motion to Dismiss for Failure to State a Claim ; Motion to Amend the Complaint
+*1123 Appeal from the United_States_District_Court for the Middle_District of Florida in No._3 :15-cv-00164-HES-MCR Senior Judge Harvey E. Schlesinger
+Attorneys and Law Firms
+John Bentley Lunseth II Briggs & Morgan PA Minneapolis MN argued for plaintiff-appellant
+Joseph W. Bain Shutts & Bowen LLP West Palm Beach FL argued for defendant-appellee
+Also represented by Harold Timothy Gillis Jacksonville FL
+Before Moore Reyna and Taranto Circuit_Judges
+Opinion
+Opinion concurring-in-part dissenting-in-part filed by Circuit_Judge Reyna
+Moore Circuit_Judge
+Aatrix Software Inc. ( `` Aatrix '' ) appeals the United_States_District_Court for the Middle_District of Florida 's dismissal under Rule 12 ( b ) ( 6 ) in which the district_court held claims 1 2 and 22 of U.S. Patent No._7171,615 ( `` '615_patent `` ) and claims 1 13 and 17 of U.S. Patent No._8984,393 ( `` '393_patent `` ) invalid as directed to ineligible subject_matter under 35 U.S.C.¡± 101
+Aatrix also appeals the district_court 's denial of its motion for leave to file a second amended complaint
+We vacate the district_court 's grant of the motion to dismiss reverse its denial of Aatrix 's motion for leave to file a second amended complaint and remand for further proceedings
+
+BACKGROUND
+The '615 and the '393_patent s have essentially the same specification and are directed to systems and methods for designing creating and importing data into a viewable_form on a computer so that a user can manipulate the form data and create viewable_forms and reports
+'615_patent at Abstract
+The preferred embodiment in the specification describes a data_processing_system which has three main components : a form_file a data_file and a viewer
+Id.at 3:4-31 Fig._1
+The form_file is created using in-house form development tools and is designed to model the physical characteristics of an existing form including the calculations and rule_conditions required to fill in the form
+Id.at 3:5-14
+The data_file referred to as the Aatrix Universal File ( `` AUF '' ) allows data from third-party applications to be `` seamlessly imported '' into the form_file program to populate the form fields
+Id.at 3:14-22
+The viewer generates a report by merging the data in the AUF file with the fields in the form_file performing calculations on the data and allowing the user to review and change the field values
+Id.at 3:24-31
+Claim 1 of the '615_patent is representative ( emphases added ) : 1
+A data_processing_system for designing creating and importing data into a viewable_form viewable by the user of the data_processing_system comprising : ( a ) a form_file that models the physical representation of an original paper *1124 form and establishes the calculations and rule_conditions required to fill in the viewable_form ; ( b ) a form_file creation program that imports a background_image from an original_form allows a user to adjust and test-print the background_image and compare the alignment of the original_form to the background test-print and creates the form_file ; ( c ) a data_file containing data from a user application for populating the viewable_form ; and
+( d ) a form viewer program operating on the form_file and the data_file to perform calculations allow the user of the data_processing_system to review and change the data and create viewable_forms and reports
+
+Aatrix sued Green_Shades Software Inc. ( `` Green_Shades '' ) for infringement of the '615 and '393_patent s. Green_Shades moved to dismiss the complaint under Rule 12 ( b ) ( 6 )
+It argued all claims in the asserted patents were ineligible under ¡± 101
+Aatrix argued the motion should be denied `` to permit claim construction to go forward and for the [ district_court ] to acquaint itself with the actual inventions ''
+J.A
+198 ; see also J.A
+5 204
+Aatrix also filed declarations discussing the claimed invention which the district_court did not consider in its analysis
+
+The district_court granted Green_Shades ' motion and held every claim ineligible under ¡± 101
+J.A
+33 ( holding `` the '615 and '393_Patent s to be drawn to ineligible subject_matter '' )
+Though not argued by the parties the district_court concluded claim 1 is not directed to any tangible embodiment and therefore not directed to eligible subject_matter under ¡± 101
+The district_court applied the Alice/Mayo two-step analysis to the remaining claims at issue
+The court held that '615_patent claim 2 is directed to the abstract idea of `` collecting organizing and performing calculations on data to fill out forms : a fundamental human activity that can be performed using a pen and paper ''
+J.A
+23
+It found that the claim elements do not supply an inventive concept
+It concluded '615_patent claim 22 and '393_patent claims 1 13 and 17 are substantively the same as '615_patent claim 2 and similarly directed to abstract ideas without inventive concepts
+
+Aatrix moved to modify and vacate the judgment for reconsideration and for leave to amend the complaint
+It sought reconsideration of the district_court 's tangible embodiment analysis and leave to file a second amended complaint that it argued supplied additional allegations and evidence that would have precluded a dismissal under ¡± 101 at the Rule 12 ( b ) ( 6 ) stage
+The district_court denied these motions stating that `` [ u ] pon consideration of the filings and the relevant case law the [ district_court ] sees no reason to reconsider its prior determination
+Accordingly [ Aatrix 's ] motions will be denied ''
+J.A
+34
+
+Aatrix timely appealed
+We have jurisdiction under 28 U.S.C.¡± 1295 ( a )
+

@@ -1,0 +1,25 @@
+Keyphrases:
+
+first_direction
+bits
+digital_information
+k1_bits
+second_direction
+encoding_means
+correcting
+decoding
+array
+encoding
+====================================
+top sentences:
+
+An encoding and decoding system for digital_information having a rectangular_array of bits including k1_bits in a first_direction and k2 bits in a second_direction orthogonal to the first_direction which system comprises encoding_means including an encoding adapting circuit for codes C2 for dividing the k1_bits in the first_direction into b_bits apiece , and forming a plurality of k2_X b bit rectangular_arrays each including the b_bits in the first_direction and the k2 bits in the second_direction , a C2_encoder for encoding the plurality of k2_X b bit rectangular_arrays into a plurality of n2 X b bit rectangular_arrays each including the b_bits in the first_direction and n2_bits in the second_direction , a C1_encoder for encoding the k1_bits in the first_direction into n1_bits by adding n1-k1 check bits to the k1_bits in the first_direction , and a timing generator circuit for generating timing_signals for controlling the operation of said encoding_means to thereby encode the digital_information into a codeword of a generalized_product_code including the n1_bits in the first_direction and the n2_bits in the second_direction ; and decoding means operatively connected to said encoding_means by a transmission means for decoding the digital_information encoded by the encoding_means ; wherein said C1 and C2_encoders are operative to encode in response to said timing_signals of said timing generator and wherein either said C1_encoder or said C2_encoder provides said generalized_product_code .
+8.609367
+According to the '612 patent , the digital_information is divided into a two-dimensional rectangular_array of bits , described as an array of k1_bits in the horizontal direction and an array of k2 bits in the vertical direction .
+7.939193
+An error correcting code C2 is used for data in one direction of the array , and an error correcting code C1 s used for data in the second_direction of the array .
+6.590911
+Claim 2 adds an information_matrix-forming circuit for arranging digital_information into a rectangular_array of bits , and claim 3 describes the information_matrix-forming circuit as containing RAM devices and selector means .
+6.222603
+During encoding , error correcting codes are used to add check information to the data in each direction .
+6.016432

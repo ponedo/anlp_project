@@ -1,0 +1,108 @@
+('90_F.3d_1576', 'CD', 'CARDINAL', 'B')
+90_F.3d_1576
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('VITRONICS', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('CONCEPTRONIC', 'NN', '', 'O') ('INC.', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+
+__NEW_SENT__
+('No._96-1058', 'NNP', 'ORG', 'B')
+No._96-1058
+__NEW_SENT__
+('|', 'DT', '', 'O') ('July_25,_1996', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patented', 'JJ', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reflow_soldering', 'NN', '', 'O') ('of', 'IN', '', 'O') ('surface', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('printed', 'VBN', '', 'O') ('circuit_boards', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Hampshire', 'NNP', 'GPE', 'I') ('Martin', 'NNP', '', 'O') ('F.', 'NNP', '', 'O') ('Loughlin', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the District of New_Hampshire Loughlin J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Michel', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('``', '``', '', 'O') ('solder_reflow_temperature', 'ADD', '', 'O') ("''", "''", '', 'O') ('within', 'IN', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('meant', 'VBN', '', 'O') ('peak', 'NN', '', 'O') ('reflow', 'NN', '', 'O') ('temperature', 'NN', '', 'O') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('``', '``', '', 'O') ('liquidus', 'JJ', '', 'O') ('temperature', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('trial_court', 'NNP', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('relying', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('expert', 'NN', '', 'O') ('testimony', 'NN', '', 'O') ('in', 'IN', '', 'O') ('interpreting', 'VBG', '', 'O') ('claim', 'NN', '', 'O')
+The Court of Appeals Michel Circuit_Judge 1 2
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1578', 'VBZ', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('J', 'NNP', 'PERSON', 'I')
+James J
+__NEW_SENT__
+('Foster', 'NNP', 'ORG', 'B') ('Wolf', 'NNP', 'ORG', 'I') ('Greenfield', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Sacks', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'ORG', 'B') ('Boston', 'NNP', 'ORG', 'I') ('Massachusetts', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Foster Wolf Greenfield & Sacks P.C. Boston Massachusetts
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Lawrence', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Green', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Brett', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Dorny', 'NNP', 'PERSON', 'I')
+Lawrence M. Green Brett N. Dorny
+__NEW_SENT__
+('Paul', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Hayes', 'NNP', 'PERSON', 'I') ('Weingarten', 'NNP', 'PERSON', 'I') ('Schurgin', 'NNP', 'PERSON', 'I') ('Gagnebin', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Hayes', 'NNP', 'PERSON', 'I') ('Boston', 'NNP', 'PERSON', 'I') ('Massachusetts', 'NNP', 'PERSON', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Paul J. Hayes Weingarten Schurgin Gagnebin & Hayes Boston Massachusetts
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Dean', 'NNP', 'ORG', 'B') ('G.', 'NNP', 'ORG', 'I') ('Bostock', 'NNP', 'ORG', 'I')
+Dean G. Bostock
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', 'ORG', 'I') ('and', 'CC', '', 'O') ('FRIEDMAN', 'NNP', 'ORG', 'B') ('Senior', 'JJ', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+MICHEL LOURIE Circuit_Judges FRIEDMAN Senior Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MICHEL', 'CD', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Vitronics', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Vitronics', 'NNPS', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('27', 'CD', 'EVENT', 'I') ('1995', 'CD', 'EVENT', 'I') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Hampshire', 'NNP', 'GPE', 'I') ('Civil', 'NNP', '', 'O') ('Action', 'NNP', '', 'O') ('No._91-696-', 'NNP', '', 'O') ('L', 'NNP', '', 'O') ('entering', 'VBG', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Vitronics', 'NNP', 'GPE', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('prove', 'VB', '', 'O') ('that', 'IN', '', 'O') ('Conceptronic', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Conceptronic', 'JJ', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('infringed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._4654,502', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Vitronics Corporation Vitronics the September 27 1995 United_States_District_Court the District of New_Hampshire Vitronics Conceptronic Inc. Conceptronic 1 U.S.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('submitted', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('decision', 'NN', '', 'O') ('after', 'IN', '', 'O') ('oral', 'JJ', '', 'O') ('argument', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_8,_1996', 'NNP', 'PERSON', 'B')
+May_8,_1996
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('dictates', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('interpretation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('accordance', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plaintiff', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('proposed', 'VBN', '', 'O') ('construction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'WDT', '', 'O') ('so', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('may', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('infringed', 'VBN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remand', 'NN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Patented', 'NNP', '', 'O') ('Invention', 'NN', '', 'O')
+
+__NEW_SENT__
+('Vitronics', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('Conceptronic', 'JJ', 'ORG', 'B') ('both', 'DT', '', 'O') ('manufacture', 'VBP', '', 'O') ('ovens', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('production', 'NN', '', 'O') ('of', 'IN', '', 'O') ('printed', 'VBN', '', 'O') ('*1579', 'NFP', '', 'O') ('circuit_boards', 'NNS', '', 'O')
+Conceptronic
+__NEW_SENT__
+('The', 'DT', '', 'O') ('ovens', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('solder', 'VB', '', 'O') ('electrical', 'JJ', '', 'O') ('devices', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('resistors', 'NNS', '', 'O') ('capacitors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('integrated', 'JJ', '', 'O') ('circuits', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('boards', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Several', 'JJ', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('soldering', 'VBG', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('boards', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('been', 'VBN', '', 'O') ('developed', 'VBN', '', 'O') (';', ':', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Vitronics', 'NNP', 'GPE', 'B') ('is', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('methods', 'NNS', '', 'O')
+Vitronics
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reflow_soldering', 'NN', '', 'O') ('of', 'IN', '', 'O') ('surface', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('printed', 'VBN', '', 'O') ('circuit_board', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('circuit_board', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('moved', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('conveyor', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('multizone', 'NN', '', 'O') ('oven', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('process', 'NN', '', 'O') ('a', 'DT', '', 'O') ('solder', 'NN', '', 'O') ('paste', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('placed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('circuit_board', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('soldered', 'VBN', '', 'O') ('(', '-LRB-', '', 'O') ('with', 'IN', '', 'O') ('attached', 'JJ', '', 'O') ('connectors', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('placed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('paste', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('circuit_board', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('then', 'RB', '', 'O') ('placed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('what', 'WP', '', 'O') ('is', 'VBZ', '', 'O') ('basically', 'RB', '', 'O') ('a', 'DT', '', 'O') ('conveyor', 'NN', '', 'O') ('belt', 'NN', '', 'O') ('running', 'VBG', '', 'O') ('through', 'IN', '', 'O') ('an', 'DT', '', 'O') ('oven', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('passing', 'VBG', '', 'O') ('through', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('different', 'JJ', '', 'O') ('heating', 'NN', '', 'O') ('zones', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('hottest', 'JJS', '', 'O') ('zone', 'NN', '', 'O') ('the', 'DT', '', 'O') ('solder', 'NN', '', 'O') ('paste', 'NN', '', 'O') ('melts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('forms', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('connection', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('circuit_board', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('boards', 'NNS', '', 'O') ('remain', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('last', 'JJ', '', 'O') ('heating', 'NN', '', 'O') ('zone', 'NN', '', 'O') ('for', 'IN', '', 'O') ('only', 'RB', '', 'O') ('a', 'DT', '', 'O') ('short', 'JJ', '', 'O') ('duration', 'NN', '', 'O') ('allowing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('solder', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reach', 'VB', '', 'O') ('a', 'DT', '', 'O') ('temperature', 'NN', '', 'O') ('high', 'JJ', '', 'O') ('enough', 'RB', '', 'O') ('to', 'TO', '', 'O') ('cause', 'VB', '', 'O') ('the', 'DT', '', 'O') ('solder', 'NN', '', 'O') ('to', 'TO', '', 'O') ('melt', 'VB', '', 'O') ('and', 'CC', '', 'O') ('reflow', 'VB', '', 'O') ('while', 'IN', '', 'O') ('maintaining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('devices', 'NNS', '', 'O') ('themselves', 'PRP', '', 'O') ('below', 'IN', '', 'O') ('the', 'DT', '', 'O') ('solder_reflow_temperature', 'NN', '', 'O')
+
+__NEW_SENT__
+('Due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('temperature', 'NN', '', 'O') ('differential', 'VB', '', 'O') ('the', 'DT', '', 'O') ('solder', 'NN', '', 'O') ('flows', 'VBZ', '', 'O') ('up', 'RP', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('connectors', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('a', 'DT', '', 'O') ('solid', 'JJ', '', 'O') ('connection', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'502_patent", 'NNP', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('reads', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') ('(', '-LRB-', '', 'O') ('with', 'IN', '', 'O') ('added', 'VBN', '', 'O') ('emphasis', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('disputed', 'VBN', '', 'O') ('terms', 'NNS', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reflow_soldering', 'NN', '', 'O') ('of', 'IN', '', 'O') ('surface', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('printed', 'VBN', '', 'O') ('circuit_board', 'JJ', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('moving', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('printed', 'VBN', '', 'O') ('circuit_board', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('solder', 'NN', '', 'O') ('and', 'CC', '', 'O') ('devices', 'NNS', '', 'O') ('disposed', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('surface', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('zone', 'NN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('close_proximity', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('emitting', 'JJ', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('nonfocused', 'VBN', '', 'O') ('infrared_panel_emitter', '-LRB-', '', 'O') ('said', 'VBD', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first_panel_temperature', 'NN', '', 'O') (';', ':', '', 'O') ('moving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('board', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('zone', 'NN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('close_proximity', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('nonfocused', 'VBN', '', 'O') ('infrared_panel_emitter', '-LRB-', '', 'O') ('said', 'VBD', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('second_panel_temperature', '``', '', 'O') ('lower', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('first_panel_temperature', 'NNP', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+first first at least one first second second at least one second
+__NEW_SENT__
+('moving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('board', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('zone', 'NN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('close_proximity', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('nonfocused', 'VBN', '', 'O') ('infrared_panel_emitter', '-LRB-', '', 'O') ('said', 'VBD', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('panel', 'NN', '', 'O') ('temperature', 'NN', '', 'O') ('higher', 'RBR', '', 'O') ('than', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('second_panel_temperature', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('emitting', 'VBG', '', 'O') ('surface', 'NN', '', 'O') ('heating', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('board', 'NN', '', 'O') ('and', 'CC', '', 'O') ('said', 'VBD', '', 'O') ('solder', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('solder_reflow_temperature', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('time', 'NN', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('cause', 'VB', '', 'O') ('said', 'VBD', '', 'O') ('solder', 'VB', '', 'O') ('to', 'TO', '', 'O') ('reflow', 'VB', '', 'O') ('and', 'CC', '', 'O') ('solder', 'VB', '', 'O') ('said', 'VBD', '', 'O') ('devices', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('board', 'NN', '', 'O') ('while', 'IN', '', 'O') ('maintaining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('temperature', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('devices', 'NNS', '', 'O') ('below', 'RB', '', 'O') ('said', 'VBD', '', 'O') ('solder_reflow_temperature', 'ADD', '', 'O')
+third third at least one third third third
+__NEW_SENT__

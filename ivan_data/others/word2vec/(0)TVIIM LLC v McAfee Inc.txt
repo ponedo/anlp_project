@@ -1,0 +1,341 @@
+851_f.3d_1356
+united states court of appeals federal circuit
+tviim llc plaintiff-appellant
+v. mcafee inc. defendant-appellee
+2016-1562
+| decided march_21,_2017
+synopsis
+background patentee sued alleged_infringer of patent for security_system identifying security_vulnerabilities and discrepancies for a computing_system
+the united_states_district_court for the northern_district of california no._313-cv-04545-hsg haywood s. gilliam jr. j. 2015_wl_3956313 granted in part and denied in part patentees motion for summary_judgment and denied alleged_infringers motion for summary_judgment
+following jury determination that patent was not infringed and was invalid the district court 2016_wl_74637 denied patentees motions for judgment as a matter of law and new_trial
+patentee appealed
+
+holdings the court of appeals reyna circuit_judge held that
+
+claim_terms including` as a result of/in response to' did not have multiple_ordinary_meanings ;
+
+substantial_evidence supported jurys non-infringement verdict with respect to claim_term` as a result of/in response to' ;
+
+substantial_evidence supported jurys invalidity_determination based on anticipation with respect to claim_term` as a result of/in response to' ;
+
+substantial_evidence supported jurys verdict of non-infringement with respect to claim_term` various_utility_functions' ;
+
+substantial_evidence supported jurys invalidity_verdict for anticipation with respect to claim_term` various_utility_functions' ;
+
+substantial_evidence supported jurys verdict of non-infringement with respect to claim_term` reporting the discovered vulnerabilities' ;
+
+substantial_evidence supported jurys verdict of invalidity for anticipation with respect to claim_term` reporting the discovered vulnerabilities' ; and
+
+any error by jury regarding non-infringement was harmless
+
+affirmed
+
+*1359 appeal from the united_states_district_court for the northern_district of california in no._313-cv-04545-hsg judge haywood s. gilliam jr
+attorneys and law firms
+john j. shaeffer fox rothschild llp los_angeles ca argued for plaintiff-appellant
+also represented by jeffrey h. grant ; william a. rudy denver co. joseph j. mueller wilmer cutler pickering hale and dorr llp boston ma argued for defendant-appellee
+also represented by richard wells o'neill sarah b
+petty ; nina s. tallon michael wolin washington dc
+before prost chief judge clevenger and reyna circuit_judges
+opinion
+reyna circuit_judge
+tviim llc` tviim' sued mcafee inc.` mcafee' in the united_states_district_court for the northern_district of california for infringement of u.s. patent no._6889,168`168_patent`
+a jury determined that mcafee did not infringe the168_patent and that the168_patent was invalid
+after the jury_verdict tviim filed motions for judgment as a matter of law` jmol' and for a new_trial
+the district_court denied both motions and tviim filed this appeal challenging the jury_verdict and the district_courts denial of its post-verdict motions
+we affirm because substantial_evidence supports the jurys findings of non-infringement and invalidity under a uniform_construction of the relevant claim_terms and the district_court did not abuse its discretion in denying a new_trial
+
+background
+1
+the168_patent
+the168_patent is entitled` method and apparatus for assessing the security of a computer'
+it describes` a security_system which identifies security_vulnerabilities and discrepancies for a computing_system'
+'168_patent col._1,_ll._65-67
+the168_patent both identifies potential security threats to a computer and under certain conditions recommends action to a user to stop the threat
+
+*1360 four claims of the168_patent are relevant to this appeal
+independent claim 1 recites a security_system for a computer_apparatus wherein said computer_apparatus includes a processor and system_memory said security_system comprising at least one security module which under direction from the processor accesses and analyzes selected portions of the computer_apparatus to identify vulnerabilities ; at least one utility module which under the direction from the processor performs various_utility_functions with regards to the computer_apparatus in response to the identified vulnerabilities ; and
+a security_system_memory which contains security information for performing the analysis of the computer_apparatus
+'168_patent col._10,_l._65 to col._11,_l._10 disputed terms emphasized
+
+dependent_claim 7 recites the security_system of claim 1 wherein the security modules include at least one of.. an integrity checking module which analyzes files in the system_memory to identify system vulnerabilities ; a network checking module which analyzes the computer_apparatus to identify vulnerabilities created as a result of the computer_apparatus connecting with a data network ; and
+a password checking module which analyzes passwords for users of the computer_apparatus to identify vulnerabilities
+id
+col._11,_ll._25-46 disputed term emphasized
+
+dependent_claim 9 recites` the security_system of claim 7 wherein the system_memory comprises a list of known vulnerabilities which may be employed by the integrity checking module'
+id
+col._11,_ll._62-64
+
+finally independent claim 11 recites a method of providing a security_assessment for a computer_system which includes a system_memory comprising the steps of providing a security_subsystem in the computer_system such that functionality of the security_subsystem is directed through a processor for the computer_system wherein the security performs steps comprising identifying a configuration of the system ; accessing the system_memory and performing at least one procedure to provide a security_assessment for at least one aspect of the computer_system ; as a result of any vulnerabilities discovered in the assessment identifying corrective_measures to be taken with regards to the computer_system ; reporting the discovered vulnerability and the identified corrective_measures ; and
+upon receiving an appropriate command initiating the corrective_measures
+id
+col._12,_ll._1-18 disputed terms emphasized
+
+2
+mcafee
+mcafee developed` program_updates' for microsoft windows users to protect software programs against new security threats
+program_updates detects and installs updates for numerous non-windows programs such as apple itunes and adobe acrobat
+to do so it scans a users computer to determine whether any of the non-windows programs are installed
+if it detects such a program program_updates makes two determinations 1 whether the *1361 national vulnerability database` nvd' lists any vulnerabilities in the currently installed version of that program ; and 2 whether an update is available
+if an update is available program_updates will install the update
+
+prior to installing an update program_updates does not provide users with a detailed report of security threats ; rather it tells the user whether an update is` critical' or merely` recommended'
+j.a
+2044-46 3338
+if an update is available program_updates will install the available_update whether or not the nvd lists any known vulnerabilities
+by contrast if no software_update is available program_updates will not take action even if it detects a vulnerability
+without an available_update program_updates will not provide users with any information about a detected_vulnerability
+j.a
+2047-48
+to summarize the presence of a known vulnerability is irrelevant to whether program_updates installs an update
+
+3
+prior art
+at trial mcafee argued that two prior_art references anticipated the168_patent and in the alternative that their combination would have rendered the168_patent obvious
+
+the first reference hostguard is a software program developed by several named inventors of the168_patent
+hostguard first detects computer security threats and then reports them to the user
+j.a
+1090 3796-97
+these detailed reports include file names and locations the particular nature of the vulnerability and steps the user can take to combat the threat
+hostguard requires the user to decide whether to take corrective_action
+thus the user not hostguard itself takes any desired corrective_action
+j.a
+3796
+
+the second reference system security scanner` s3' is a` security_assessment tool' that` evaluates system vulnerabilities from the inside'
+j.a
+3799
+s3 allows a user to select which specific_vulnerabilities to assess and then provides a` detailed description' of detected vulnerabilities to the user
+j.a
+3816 3801 3836
+for example it offers a` long description' report that identifies` bugs' that create exploitable weaknesses in the system
+j.a
+2610-11 ; see also j.a
+2293 testimony that s3 provides users with reports on` specific_vulnerabilities found on specific computers'
+s3 does not fix vulnerabilities itself ; rather it requires a user to open a new window and take corrective_action
+
+4
+district court proceedings
+tviim sued mcafee in 2013 alleging that program_updates infringed the168_patent
+mcafee counterclaimed for declarations of non-infringement invalidity and inequitable_conduct
+
+mcafee moved for summary_judgment that hostguard anticipated the asserted claims of the168_patent
+in its motion mcafee argued that all claim_terms should be given their plain and ordinary_meaning
+in its opposition tviim asked the district_court to construe only one term` vulnerability'
+the district_court denied mcafees motion on anticipation because material issues of fact remained for trial
+the district_court also ruled that` vulnerability' should` have its plain and ordinary_meaning and is not limited in scope topre-existing security problems or vulnerabilities'
+j.a
+567
+the court then asked for supplemental briefing on the plain and ordinary_meaning of` vulnerability'
+the parties agreed that a` vulnerability' is an` exploitable weakness in a computer_system'
+j.a
+633
+the court adopted that construction and asked if it needed to construe any other terms
+both parties said no further construction was necessary
+
+*1362 the case went to trial and the jury returned a verdict that 1 mcafee did not infringe the168_patent ; 2 the168_patent was invalid ; and 3 tviim did not obtain the168_patent through inequitable_conduct
+the jurys general verdict of invalidity did not distinguish between obviousness and anticipation
+the inequitable_conduct issue is not subject to this appeal
+
+tviim filed motions for jmol and a new_trial arguing that the jury had rendered an inconsistent_verdict
+according to tviim the jury could not have arrived at both a non-infringement and invalidity_determination using a single_construction of three claim_terms` as a result of/in response to' ;` various_utility_functions' ; and` reporting the discovered vulnerabilities'
+tviim concedes that it did not seek construction of any of these terms before or during trial
+opening_br.at 70
+
+the district_court denied tviims motions
+it found that the jurys verdict was not inconsistent because substantial_evidence supported both a non-infringement and invalidity_verdict under a single_construction of all three claim_terms
+j.a
+6-8
+
+tviim timely appeals
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+standard of review
+we review denials of motions for jmol and motions for new_trial under the law of the regional circuit-here the ninth_circuit
+intouch techs. inc. v. vgo commc'ns inc. 751_f.3d_1327 1338 fed
+cir
+2014
+the ninth_circuit reviews denials of jmol de novo
+harper v. city of los_angeles 533_f.3d_1010 1021 9th_cir
+2008
+in the ninth_circuit the district_court grants jmol when` the evidence construed in the light most favorable to the nonmoving party permits only one reasonable conclusion and that conclusion is contrary to the jurys verdict'
+id
+( quotation_marks and citation omitted
+a district_court must uphold a jurys verdict` if it is supported by substantial_evidence which is evidence adequate to support the jurys conclusion even if it is also possible to draw a contrary conclusion'
+id
+( quotation_marks and citation omitted
+substantial evidence is` such relevant evidence as a reasonable_mind might accept as adequate to support a conclusion'
+theme promotions inc. v. news am
+mktg
+fsi 546_f.3d_991 1000 9th_cir
+2008 quotation_marks and citation omitted
+whether a claim is anticipated is a question of fact mphj tech
+invs. llc v. ricoh ams corp. 847_f.3d_1363 1378 fed
+2017 as is the question of infringement applied_med res corp. v. u.s. surgical corp. 448_f.3d_1324 1332 fed
+2017 as is the question of infringement applied_med
+cir
+2006
+
+the ninth_circuit reviews the denial of a motion for new_trial for abuse of discretion
+incalza v. fendi n
+am. inc. 479_f.3d_1005 1013 9th_cir
+2007
+it reverses the denial only if the record lacks any evidence supporting the verdict or if the district_court makes a mistake of law
+molski v. m.j. cable inc. 481_f.3d_724 729 9th_cir
+2007
+
+discussion
+1
+non-infringement and invalidity
+claim terms must be construed the same way for the purpose of determining invalidity and infringement
+amgen inc. v. hoechst marion roussel inc. 314_f.3d_1313 1330 fed
+cir
+2003
+a district_courts determination that a claim_term has a`plain and ordinary_meaning may be inadequate when [ the claim ] term has more than oneordinary_meaning
+`` o2 micro int l ltd. v. beyond innovation tech co. 521_f.3d_1351 1361 fed
+cir
+2008
+
+we first address tviims argument that the jury rendered an inconsistent *1363 verdict of infringement and invalidity because the claim_terms` as a result of/in response to'` various_utility_functions' and` reporting the discovered vulnerabilities' have more than one ordinary_meaning
+we note that tviim did not seek construction of any of the three terms at trial
+it never presented multiple_ordinary_meanings of the three terms or showed that they are open to varying interpretations
+we are not persuaded that any of the three terms has multiple_ordinary_meanings and we discern no error in the district_court submitting them to the jury without specific instruction
+tviim argues that it is not seeking a new claim construction of any terms on appeal
+to be sure it has waived any new construction
+`` [ a ] party may not introduce new claim construction arguments on appeal or alter the scope of the claim construction positions it took below
+moreover litigants waive their right to present new claim construction disputes if they are raised for the first time after trial'
+conoco inc. v. energy & envtl
+int l l.c. 460_f.3d_1349 1358-59 fed
+cir
+2006 citations omitted
+thus tviim` can not be allowed to create a new claim construction dispute following the close of the jury trial'
+broadcom corp. v. qualcomm inc. 543_f.3d_683 694 fed
+cir
+2008
+
+we next address whether substantial_evidence supports the jurys verdict of non-infringement based on using the same construction it used for its invalidity_verdict
+see harper 533 f.3d at 1021
+we conclude that the jury_verdict is supported by substantial_evidence
+
+a
+`` as a result of/in response to' there was no dispute at trial that the term` as a result of/in response to' requires a causal_relationship between corrective_action and the discovered vulnerability
+mcafees expert_dr._rubin testified that program_updates installs software_updates regardless of whether a vulnerability exists and that the only requirement for update installation is the availability of an update
+j.a
+2444` the only determining factor whether program_updates will update software is if theres an update available`
+in other_words the presence of a vulnerability is irrelevant to whether program_updates installs a software_update
+as a result with program_updates there is no causal_relationship between corrective_action and the discovered vulnerability
+we find dr._rubins testimony on this point to be substantial_evidence supporting the jurys non-infringement verdict
+
+we also find that substantial_evidence supports the jury_verdict of invalidity based on anticipation
+dr._rubin testified that the prior_art anticipated the168_patent by initiating corrective_action in response to a detected_vulnerability
+see e.g. j.a
+2476 explaining how hostguard discloses the` as a result of any vulnerabilities' limitation of claim 11 ; j.a
+2494 concluding that s3 anticipates claim 1
+tviim insists that the jury failed to distinguish` all' vulnerabilities from` potential' vulnerabilities
+but tviim failed to clarify its position during claim construction
+moreover the jury was free to credit dr._rubins testimony that hostguard and s3 anticipate claims 1_and_11 even in the face of opposing arguments from tviim
+we thus find dr._rubins testimony to be substantial_evidence supporting the jurys invalidity_determination
+
+b
+`` various utility functions' tviim and mcafee presented competing expert_testimony on infringement
+tviims expert dr. garuba testified that program_updates satisfies the` various_utility_functions' term by performing four functions identifying the threat accessing *1364 the update downloading the update and installing the update
+j.a
+2123-24
+mcafees expert_dr._rubin disagreed and testified that program_updates performs only one function-downloading software_updates via multiple steps
+j.a
+2445` [ t ] he only thing that [ program_updates ] does is it updates the programs
+`` ; see also j.a
+2454-55
+given the conflicting expert_testimony we find that a reasonable_mind might accept dr._rubins testimony over dr. garubas
+thus substantial_evidence supports the jurys verdict of non-infringement
+see versata software inc. v. sap am. inc. 717_f.3d_1255 1263 fed
+cir
+2013 affirming jury award as supported by substantial_evidence despite competing expert_testimony
+
+dr._rubins testimony also supports the jurys invalidity_verdict for anticipation
+he explained how s3 performs` different utility functions'
+j.a
+2493
+tviim expert eric knight also testified that hostguard` corrected at a minimum ownership and permission' i.e. different functions
+j.a
+2620
+thus the testimony that the prior_art and168_patent both perform multiple functions constitutes substantial_evidence in support of the jurys verdict of invalidity
+
+given the testimony at trial we find that a uniform_construction of` various_utility_functions' would allow the jury to arrive at verdicts of non-infringement and invalidity as both are supported by substantial_evidence
+
+c.` reporting the discovered vulnerabilities' at trial tviim argued that program_updates infringes` reporting the discovered vulnerabilities' by providing a` risk_rating' to users prior to installation i.e. whether a particular update is` critical' or simply` recommended'
+when pressed about what vulnerability information is provided to users by program_updates tviims expert dr. yu responded` [ n ] othing more than just a risk_rating'
+j.a
+2046
+in other_words although program_updates reports the risk level to the user it does not report any specific information on vulnerabilities
+dr._rubin testified that such a risk_rating does not constitute` reporting the discovered vulnerabilities' because program_updates does not report` something like a [ common vulnerabilities and exposures ] number or a specific description of the vulnerability'
+j.a
+2455
+program_updates will not report any detected_vulnerability to a user if no update is available
+we find this testimony to be substantial_evidence supporting the jurys non-infringement verdict
+
+regarding invalidity for anticipation the record demonstrates that unlike program_updates hostguard and s3 provide users with specific reports on detected vulnerabilities
+see e.g. j.a
+2478 dr._rubin` so here we see the actual vulnerability is described' [ in s3 ] ; j.a
+3796 hostguard brochure describing` reports [ that ] are written in plain english and are formatted to effectively communicate the results of the security_assessment' ; j.a
+3841-78 examples of` vulnerability descriptions' in s31 program_updates by contrast does not provide any detailed vulnerability descriptions
+j.a
+2002 2046 2455
+given this evidence presented we find that the jury_verdict of invalidity is supported by substantial_evidence
+
+*1365 as with the other two terms tviim has not persuaded us that a jury could not arrive at a non-infringement and invalidity_verdict based on a single_construction of` reporting the discovered vulnerabilities'
+because substantial_evidence supports the jurys verdicts the district_court did not abuse its discretion by denying tviims motion for a new_trial
+
+2
+any potential error in claim construction was harmless
+on appeal tviim concedes that substantial_evidence supports the jurys finding for either non-infringement or invalidity but argues it does not support both
+opening_br.at 73` [ a ] ny single_ordinary_meaning_construction could support either infringement or invalidity'
+( emphasis omitted ; see also j.a
+2638 tviims counsel stating at trial` i think theres questions of fact with respect to infringement
+``
+
+thus by tviims own admission the jurys invalidity_determination could be proper under` any single_ordinary_meaning_construction'
+opening br
+73
+this concession is determinative because even if we were to find an inconsistent_verdict substantial_evidence under` any' construction supports the jurys verdict of invalidity
+consequently any potential error by the jury regarding non-infringement was harmless
+cf
+senju pharm co. v. lupin ltd. 780_f.3d_1337 1353 fed
+cir
+2015 affirming the district_courts invalidity_finding and therefore not reaching non-infringement arguments ; mobilemedia ideas llc v. apple inc. 780_f.3d_1159 1173 fed
+cir
+2015 holding that because the patent was invalid the court` need not reach apples argument that its accused iphones do not infringe'
+
+conclusion
+the jurys findings of non-infringement and invalidity under a single_construction of all three disputed claim_terms are supported by substantial_evidence
+even if error occurred in the jurys verdict of infringement we agree with mcafee that substantial_evidence supports the jurys invalidity_finding
+this renders any error harmless
+in light of these findings we hold that the district_courts denial of tviims motion for jmol is supported by substantial_evidence and that the district_court did not abuse its discretion in denying tviims motion for a new_trial
+we therefore affirm
+
+affirmed
+
+costs
+no costs
+
+all citations
+851_f.3d_1356 122_u.s.p.q.2d_1381
+footnotes
+1
+tviim asserts that the jury and district_court improperly construed` vulnerabilities' to include` discrepancies'
+but the district_court specifically found that` the intrinsic evidence does not clearly excludediscrepancies from the scope of the claim_termvulnerability
+`` j.a
+634
+tviim did not appeal that construction
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+tviim llc v. mcafee inc. 851_f.3d_1356 2017 122_u.s.p.q.2d_1381
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

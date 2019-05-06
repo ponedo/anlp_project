@@ -1,0 +1,74 @@
+851_F.3d_1356
+United States Court of Appeals Federal Circuit
+TVIIM LLC Plaintiff-Appellant
+v. MCAFEE INC. Defendant-Appellee
+2016-1562
+| Decided : March_21,_2017
+Synopsis
+Background : Patentee sued alleged_infringer of patent for security_system identifying security_vulnerabilities and discrepancies for a computing_system
+The United_States_District_Court for the Northern_District of California No._3 :13-cv-04545-HSG Haywood S. Gilliam Jr. J. 2015_WL_3956313 granted in part and denied in part patentee 's motion for summary_judgment and denied alleged_infringer 's motion for summary_judgment
+Following jury determination that patent was not infringed and was invalid the District Court 2016_WL_74637 denied patentee 's motions for judgment as a matter of law and new_trial
+Patentee appealed
+
+Holdings : The Court of Appeals Reyna Circuit_Judge held that :
+
+claim terms including `` as a result of/in response to '' did not have multiple ordinary meanings ;
+
+substantial_evidence supported jury 's non-infringement verdict with respect to claim term `` as a result of/in response to '' ;
+
+substantial_evidence supported jury 's invalidity determination based on anticipation with respect to claim term `` as a result of/in response to '' ;
+
+substantial_evidence supported jury 's verdict of non-infringement with respect to claim term `` various_utility_functions '' ;
+
+substantial_evidence supported jury 's invalidity verdict for anticipation with respect to claim term `` various_utility_functions '' ;
+
+substantial_evidence supported jury 's verdict of non-infringement with respect to claim term `` reporting the discovered vulnerabilities '' ;
+
+substantial_evidence supported jury 's verdict of invalidity for anticipation with respect to claim term `` reporting the discovered vulnerabilities '' ; and
+
+any error by jury regarding non-infringement was harmless
+
+Affirmed
+
+*1359 Appeal from the United_States_District_Court for the Northern_District of California in No._3 :13-cv-04545-HSG Judge Haywood S. Gilliam Jr
+Attorneys and Law Firms
+JOHN J. SHAEFFER Fox Rothschild LLP Los Angeles CA argued for plaintiff-appellant
+Also represented by JEFFREY H. GRANT ; WILLIAM A. RUDY Denver CO. JOSEPH J. MUELLER Wilmer Cutler Pickering Hale and Dorr LLP Boston MA argued for defendant-appellee
+Also represented by RICHARD WELLS O'NEILL SARAH B
+PETTY ; NINA S. TALLON MICHAEL WOLIN Washington DC
+Before Prost Chief Judge Clevenger and Reyna Circuit_Judges
+Opinion
+Reyna Circuit_Judge
+TVIIM LLC ( `` TVIIM '' ) sued McAfee Inc. ( `` McAfee '' ) in the United_States_District_Court for the Northern_District of California for infringement of U.S. Patent No._6889,168 ( `` '168_patent `` )
+A jury determined that McAfee did not infringe the '168_patent and that the '168_patent was invalid
+After the jury_verdict TVIIM filed motions for judgment as a matter of law ( `` JMOL '' ) and for a new_trial
+The district_court denied both motions and TVIIM filed this appeal challenging the jury_verdict and the district_court 's denial of its post-verdict motions
+We affirm because substantial_evidence supports the jury 's findings of non-infringement and invalidity under a uniform construction of the relevant claim terms and the district_court did not abuse its discretion in denying a new_trial
+
+BACKGROUND
+1
+The '168_Patent
+The '168_patent is entitled `` Method and Apparatus for Assessing the Security of a Computer ''
+It describes `` a security_system which identifies security_vulnerabilities and discrepancies for a computing_system ''
+'168_patent col._1,_ll._65-67
+The '168_patent both identifies potential security threats to a computer and under certain conditions recommends action to a user to stop the threat
+
+*1360 Four claims of the '168_patent are relevant to this appeal
+Independent claim 1 recites : A security_system for a computer_apparatus wherein said computer_apparatus includes a processor and system_memory said security_system comprising : at least one security module which under direction from the processor accesses and analyzes selected portions of the computer_apparatus to identify vulnerabilities ; at least one utility module which under the direction from the processor performs various_utility_functions with regards to the computer_apparatus in response to the identified vulnerabilities ; and
+a security_system_memory which contains security information for performing the analysis of the computer_apparatus
+'168_patent col._10,_l._65 to col._11,_l._10 ( disputed terms emphasized )
+
+Dependent_claim 7 recites : The security_system of claim 1 wherein the security modules include at least one of.. an integrity checking module which analyzes files in the system_memory to identify system vulnerabilities ; a network checking module which analyzes the computer_apparatus to identify vulnerabilities created as a result of the computer_apparatus connecting with a data network ; and
+a password checking module which analyzes passwords for users of the computer_apparatus to identify vulnerabilities
+Id
+col._11,_ll._25-46 ( disputed term emphasized )
+
+Dependent_claim 9 recites : `` The security_system of claim 7 wherein the system_memory comprises a list of known vulnerabilities which may be employed by the integrity checking module ''
+Id
+col._11,_ll._62-64
+
+Finally independent claim 11 recites : A method of providing a security_assessment for a computer_system which includes a system_memory comprising the steps of : providing a security_subsystem in the computer_system such that functionality of the security_subsystem is directed through a processor for the computer_system wherein the security performs steps comprising : identifying a configuration of the system ; accessing the system_memory and performing at least one procedure to provide a security_assessment for at least one aspect of the computer_system ; as a result of any vulnerabilities discovered in the assessment identifying corrective_measures to be taken with regards to the computer_system ; reporting the discovered vulnerability and the identified corrective_measures ; and
+upon receiving an appropriate command initiating the corrective_measures
+Id
+col._12,_ll._1-18 ( disputed terms emphasized )
+

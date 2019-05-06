@@ -1,0 +1,144 @@
+('81_F.3d_1554', 'CD', 'CARDINAL', 'B')
+81_F.3d_1554
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('AMHIL', 'NNP', '', 'O') ('ENTERPRISES', 'NNP', '', 'O') ('LTD.', 'NN', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('WAWA', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('dba', 'NN', '', 'O') ('Wawa_Food_Market', 'NNP', '', 'O') ('Defendant', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N_Plastics', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Ivonis', 'NNP', 'ORG', 'B') ('Mazzarolo', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'VBZ', 'ORG', 'I')
+M & N_Plastics Inc. Ivonis Mazzarolo Defendants-Appellees
+__NEW_SENT__
+('No._95-1258', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('April_18,_1996', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('plastic', 'JJ', '', 'O') ('beverage', 'NN', '', 'O') ('container', 'NN', '', 'O') ('lids', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('convenience', 'NN', '', 'O') ('store', 'NN', '', 'O') ('chain', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('allegedly', 'RB', '', 'O') ('provided', 'VBD', '', 'O') ('infringing', 'NN', '', 'O') ('lids', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('customers', 'NNS', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('lids', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('manufacturer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('sole', 'JJ', '', 'O') ('officer', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('John', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Hargrove', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', 'PERSON', 'I') ('District', 'NNP', 'PERSON', 'I') ('Judge', 'NNP', '', 'O') ('dismissed', 'VBD', '', 'O') ('officer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('1995_WL_131296', 'CD', 'CARDINAL', 'B')
+The United States District Court the District of Maryland John R. Hargrove Senior District 1995_WL_131296
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rich', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('reference', 'NN', '', 'O') ('to', 'IN', '', 'O') ('``', '``', '', 'O') ('substantially', 'RB', '', 'O') ('vertical', 'JJ', '', 'O') ("''", "''", '', 'O') ('faces', 'VBZ', '', 'O') ('side', 'NN', '', 'O') ('edges', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('side', 'NN', '', 'O') ('walls', 'NNS', '', 'O') ('required', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('components', 'NNS', '', 'O') ('deviate', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('slightly', 'RB', '', 'O') ('if', 'IN', '', 'O') ('at', 'RB', '', 'O') ('all', 'RB', '', 'O') ('from', 'IN', '', 'O') ('vertical', 'JJ', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('accused', 'VBN', '', 'O') ('devices', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('patent', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('assignee', 'NN', '', 'O') ('waived', 'VBD', '', 'O') ('right', 'RB', '', 'O') ('to', 'TO', '', 'O') ('appeal', 'VB', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+The Court of Appeals Rich Circuit_Judge 1 2 3
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*1556', 'LS', '', 'O') ('Appealed', 'VBD', '', 'O') ('from', 'IN', '', 'O') (':', ':', '', 'O') ('U.S._District_Court', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('(', '-LRB-', '', 'O') ('Baltimore', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Senior', 'JJ', '', 'O') ('Judge', 'NNP', '', 'O') ('Hargrove', 'NNP', 'PERSON', 'B')
+the District of Maryland Baltimore Hargrove
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Maurice', 'NNP', 'PERSON', 'B') ('U.', 'NNP', 'PERSON', 'I') ('Cahn', 'NNP', 'PERSON', 'I') ('Beveridge', 'NNP', 'PERSON', 'I') ('DeGrandi', 'NNP', 'PERSON', 'I') ('Weilacher', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Young', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Maurice U. Cahn Beveridge DeGrandi Weilacher & Young Washington DC
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Young', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Rauchholz', 'NNP', 'PERSON', 'I')
+Richard G. Young William F. Rauchholz
+__NEW_SENT__
+('Thomas', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Young', 'NNP', 'PERSON', 'I') ('Young', 'NNP', '', 'O') ('MacFarlane', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Wood', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'ORG', 'B') ('Troy', 'NNP', 'ORG', 'I') ('Michigan', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Thomas N. Young MacFarlane & Wood P.C. Troy Michigan
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Donna', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Berry', 'NNP', 'PERSON', 'I')
+Donna L. Berry
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Grove', 'NNP', 'PERSON', 'I')
+Andrew M. Grove
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RICH', 'NNP', '', 'O') ('NEWMAN', 'NN', 'ORG', 'B') ('and', 'CC', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RICH', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Amhil', 'NNP', 'ORG', 'B') ('Enterprises', 'NNPS', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('judgments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('U.S._District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('Civil', 'NNP', '', 'O') ('Action', 'NN', '', 'O') ('No', 'NN', '', 'O')
+Amhil Enterprises Ltd. Amhil two U.S._District_Court the District of Maryland
+__NEW_SENT__
+('HAR-93-1349', 'XX', '', 'O')
+
+__NEW_SENT__
+('Amhil_Enters', 'NNS', 'ORG', 'B') ('Ltd.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Wawa_Inc.', 'NNP', '', 'O') ('34_USPQ2d_1640', 'NNP', '', 'O') ('1994_WL_750535_(D.Md.1994)', 'CD', 'CARDINAL', 'B') ('[', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') ('I', 'PRP', '', 'O') (']', '-RRB-', '', 'O') (';', ':', '', 'O') ('Amhil_Enters', 'NNPS', 'ORG', 'B') ('Ltd.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Wawa_Inc.', 'NNP', '', 'O') ('34_USPQ2d_1645', 'NNP', 'QUANTITY', 'B') ('1995_WL_131296', 'NNP', 'QUANTITY', 'I') ('(', '-LRB-', 'QUANTITY', 'I') ('D.Md.1995', 'ADD', '', 'O') (')', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('Amhil_II', 'NNP', 'NORP', 'B') (']', '-RRB-', '', 'O')
+Amhil_Enters Ltd. 1994_WL_750535_(D.Md.1994) Amhil Amhil_Enters Ltd. 34_USPQ2d_1645 1995_WL_131296 ( Amhil_II
+__NEW_SENT__
+('In', 'IN', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') ('I', 'PRP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('defendant', 'NN', '', 'O') ('Ivonis', 'NNP', 'PERSON', 'B') ('Mazzarolo', 'NNP', 'PERSON', 'I') ("'s", 'POS', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('Mazzarolo', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('personal', 'JJ', '', 'O') ('jurisdiction', 'NN', '', 'O')
+Amhil Ivonis Mazzarolo 's Mazzarolo
+__NEW_SENT__
+('In', 'IN', '', 'O') ('Amhil_II', 'NNP', 'GPE', 'B') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('defendant', 'NN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N_Plastics', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('(', '-LRB-', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', '', 'O') ('Patent', 'NN', '', 'O') ('No._4421,244', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'244_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('both', 'CC', '', 'O') ('literally', 'RB', '', 'O') ('and', 'CC', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Amhil_II M & M & N 's Amhil
+__NEW_SENT__
+('Amhil', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('previously', 'RB', '', 'O') ('dismissed', 'VBN', '', 'O') ('its', 'PRP$', '', 'O') ('infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('against', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('defendant', 'NN', '', 'O') ('Wawa', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('d/b/a', 'CC', '', 'O') ('Wawa_Food_Market', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('Wawa', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('by', 'IN', '', 'O') ('stipulation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('order', 'NN', '', 'O') ('dated', 'VBN', '', 'O') ('4_March_1994', 'CD', '', 'O')
+Amhil Wawa Inc.
+__NEW_SENT__
+('In', 'IN', '', 'O') ('that', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('stipulation', 'NN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('conceded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('properly', 'RB', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+M & N
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('Amhil_II', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('reach', 'VB', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') ('I', 'PRP', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('mooted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('our', 'PRP$', '', 'O') ('affirmance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Amhil_II', 'NNP', 'NORP', 'B')
+Amhil_II Amhil Amhil_II
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O')
+
+__NEW_SENT__
+('Amhil', 'VB', '', 'O') ('a', 'DT', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('corporation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'244_patent", 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Plastic', 'JJ', 'WORK_OF_ART', 'I') ('Lids', 'NNP', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Containers', 'NNPS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('and', 'CC', '', 'O') ('which', 'WDT', '', 'O') ('lists', 'VBZ', '', 'O') ('Hubert', 'NNP', 'PERSON', 'B') ('Van', 'NNP', 'PERSON', 'I') ('Melle', 'NNP', 'PERSON', 'I') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O')
+Canadian `` Plastic Lids for Containers '' Hubert Van Melle
+__NEW_SENT__
+('Figs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('1', 'CD', 'CARDINAL', 'B') ('3', 'CD', 'CARDINAL', 'I') ('and', 'CC', 'CARDINAL', 'I') ('4', 'CD', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'244_patent", 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('reproduced', 'VBN', '', 'O') ('below', 'RB', '', 'O') ('as', 'IN', '', 'O') ('figures', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('2', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('3', 'CD', 'CARDINAL', 'B') ('respectively', 'RB', '', 'O')
+1 3 and 4 1 2 3
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('--', ':', '', 'O') ('--', ':', '', 'O') ('-', ':', '', 'O') ('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('thin', 'JJ', '', 'O') ('flexible', 'JJ', '', 'O') ('plastic', 'JJ', '', 'O') ('container', 'NN', '', 'O') ('lid', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('example', 'NN', '', 'O') ('in', 'IN', '', 'O') ('convenience', 'NN', '', 'O') ('stores', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('fast-food', 'JJ', '', 'O') ('establishments', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('cover', 'VB', '', 'O') ('beverage', 'NN', '', 'O') ('containers', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('professes', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('lids', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('improvement', 'NN', '', 'O') ('over', 'IN', '', 'O') ('prior_lids', 'NNS', '', 'O') ('because', 'IN', '', 'O') ('in', 'IN', '', 'O') ('manufacture', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('facilitate', 'VBP', '', 'O') ('fabrication', 'NN', '', 'O') ('by', 'IN', '', 'O') ('improving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('strip', 'NN', '', 'O') ('ability', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mold', 'NN', '', 'O') ('in', 'IN', '', 'O') ('shipping', 'NN', '', 'O') ('and', 'CC', '', 'O') ('storage', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('require', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('smaller', 'JJR', '', 'O') ('volume', 'NN', '', 'O') ('than', 'IN', '', 'O') ('prior_lids', 'NNS', '', 'O') ('*1557', 'VBD', '', 'O') ('required', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('use', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('enhanced', 'VBN', '', 'O') ('rim-gripping', 'VBG', '', 'O') ('ability', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('secure', 'JJ', '', 'O') ('hold', 'NN', '', 'O')
+
+__NEW_SENT__
+('Amhil', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('defendants', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ("'244_patent", 'NNP', '', 'O') (':', ':', '', 'O') ('Wawa', 'NNP', 'ORG', 'B') ('M', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Mazzarolo', 'NNP', 'GPE', 'B')
+three Wawa M & N Mazzarolo
+__NEW_SENT__
+('Wawa', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('New', 'NNP', 'GPE', 'B') ('Jersey', 'NNP', 'GPE', 'I') ('corporation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('primarily', 'RB', '', 'O') ('a', 'DT', '', 'O') ('middle', 'JJ', '', 'O') ('Atlantic', 'JJ', 'LOC', 'B') ('regional', 'JJ', '', 'O') ('convenience', 'NN', '', 'O') ('store', 'NN', '', 'O') ('chain', 'NN', '', 'O') ('with', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('stores', 'NNS', '', 'O') ('located', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Maryland', 'NNP', 'GPE', 'B')
+New Jersey Atlantic Maryland
+__NEW_SENT__
+('Wawa', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('providing', 'VBG', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('cup_lids', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('customers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('cover', 'VB', '', 'O') ('beverages', 'NNS', '', 'O') ('purchased', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Wawa', 'NNP', 'ORG', 'B') ('stores', 'NNS', '', 'O')
+one Wawa
+__NEW_SENT__
+('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('a', 'DT', '', 'O') ('Florida', 'NNP', 'GPE', 'B') ('corporation', 'NN', '', 'O') ('manufactures', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('cup_lids', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Wawa', 'NNP', '', 'O')
+M & N Florida
+__NEW_SENT__
+('Two', 'CD', 'CARDINAL', 'B') ('partial', 'JJ', '', 'O') ('cross-sectional', 'JJ', '', 'O') ('drawings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('accused', 'VBN', '', 'O') ('lids', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('depicted', 'VBN', '', 'O') ('below', 'IN', '', 'O') ('in', 'IN', '', 'O') ('figure', 'NN', '', 'O') ('4', 'CD', 'CARDINAL', 'B')
+Two M & N 4
+__NEW_SENT__
+('Mazzarolo', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('citizen', 'NN', '', 'O') ('who', 'WP', '', 'O') ('resides', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('Vaudreuil', 'NNP', 'ORG', 'B') ('Quebec', 'NNP', 'ORG', 'I') ('Canada', 'NNP', 'ORG', 'I')
+Mazzarolo Canadian Vaudreuil Quebec Canada
+__NEW_SENT__
+('He', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('majority', 'NN', '', 'O') ('shareholder', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('75', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('officer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('sole', 'JJ', '', 'O') ('director', 'NN', '', 'O') ('of', 'IN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('the', 'DT', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') ('M', 'NNP', 'PRODUCT', 'I') ("''", "''", 'PRODUCT', 'I') ('in', 'IN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('stands', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('Mazzarolo', 'NNP', 'PERSON', 'B')
+75 % M & N the `` M '' M & N Mazzarolo
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('--', ':', '', 'O') ('--', ':', '', 'O') ('-', ':', '', 'O')
+
+__NEW_SENT__
+('Amhil', 'NNP', 'PERSON', 'B') ('has', 'VBZ', '', 'O') ('appealed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('dismissing', 'VBG', '', 'O') ('Mazzarolo', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('Amhil', 'NNP', 'PERSON', 'B') ('I', 'PRP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('no-literal-infringement', 'CD', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('remaining', 'VBG', '', 'O') ('defendant', 'NN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('M', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('N', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Amhil_II', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Amhil Mazzarolo Amhil M & N
+__NEW_SENT__

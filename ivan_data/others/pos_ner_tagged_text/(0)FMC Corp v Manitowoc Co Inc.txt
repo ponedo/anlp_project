@@ -1,0 +1,93 @@
+('835_F.2d_1411', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('FMC', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('The', 'DT', '', 'O') ('MANITOWOC', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('INC.', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+
+__NEW_SENT__
+('No._87-1220', 'NNP', 'ORG', 'B')
+No._87-1220
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._16,_1987', 'NNP', 'GPE', 'B')
+Dec._16,_1987
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('brought', 'VBN', '', 'O') ('seeking', 'VBG', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('damages', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('antitrust_laws', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('common-law', 'NN', '', 'O') ('unfair_competition', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('actions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', '', 'O') ('Eastern_Division', 'NN', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Hart', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('654_F.Supp._915', 'CD', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('noninfringed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('appeal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('taken', 'VBN', '', 'O')
+United_States_District_Court the Northern_District of William T. Hart J. 654_F.Supp._915
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Markey', 'NNP', 'ORG', 'I') ('Chief_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('alleged', 'VBN', '', 'O') ('infringer', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prove', 'VB', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('on', 'IN', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O')
+The Court of Appeals Markey Chief_Judge
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Baldwin', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('concurred', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('result', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1412', 'NFP', '', 'O') ('Raymond', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Niro', 'NNP', 'PERSON', 'I') ('Niro', 'NNP', 'PERSON', 'I') ('Scavone', 'NNP', 'PERSON', 'I') ('Haller', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Niro', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Raymond P. Niro Niro Scavone Haller & Chicago Ill.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Timothy', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Haller', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Vitale', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Megley', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Kamp', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Slater', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jerry', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Santangelo', 'NNP', 'PERSON', 'I') ('Sperling', 'NNP', '', 'O') ('Slater', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Spitz', 'NNP', '', 'O') ('P.C.', 'NNP', 'GPE', 'B') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', '', 'O') ('Phillip', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Mayer', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Leydig', 'NNP', 'ORG', 'B') ('Voit', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Mayer', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Rhodes', 'NNP', 'PERSON', 'I') ('Chadwell', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Kayser', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Timothy J. Haller Robert A. Vitale Jr. Richard B. Megley Ronald C. Kamp Paul E. Slater Jerry M. Santangelo Slater & P.C. Chicago Phillip H. Mayer Leydig Voit & Mayer Richard S. Rhodes Chadwell & Chicago Ill.
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Berton', 'NNP', 'PERSON', 'B') ('Scott', 'NNP', 'PERSON', 'I') ('Sheppard', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Charles', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Mottier', 'NNP', 'PERSON', 'I') ('Leydig', 'NNP', '', 'O') ('Voit', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Mayer', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('C.', 'NNP', 'PERSON', 'B') ('Lee', 'NNP', 'PERSON', 'I') ('Cook', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Brian', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Redding', 'NNP', 'PERSON', 'I') ('Marsha', 'NNP', 'PERSON', 'I') ('K.', 'NNP', 'PERSON', 'I') ('Hoover', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Julia', 'NNP', 'ORG', 'B') ('D.', 'NNP', 'ORG', 'I') ('Mannix', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Chadwell', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Kayser', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('MARKEY', 'NNP', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('BALDWIN', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('SMITH', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judge', 'NNP', '', 'O')
+Berton Scott Sheppard Charles H. Mottier Voit & Mayer C. Lee Cook Jr. Brian J. Redding Marsha K. Hoover Julia D. Mannix of Chadwell & Chicago SMITH Circuit
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MARKEY', 'JJ', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', '', 'O') ('Eastern_Division', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Hart', 'NNP', '', 'O') ('J', 'NNP', '', 'O')
+United_States_District_Court the Northern_District of
+__NEW_SENT__
+(')', '-RRB-', '', 'O') ('upholding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._3485,383', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'383", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('The', 'DT', 'ORG', 'B') ('Manitowoc', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Manitowoc', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('finding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ("'383_patent", 'NNP', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('FMC', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('FMC', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('resolving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('raised', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('FMC', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('attorney', 'NN', '', 'O') ('fees', 'NNS', '', 'O') ('antitrust', 'JJ', '', 'O') ('violation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unfair_competition', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Manitowoc', 'NNP', 'PERSON', 'B')
+U.S. The Manitowoc Company Inc. Manitowoc FMC Corporation FMC FMC Manitowoc
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('5', 'CD', 'DATE', 'I') ('1980', 'CD', 'DATE', 'I') ('FMC', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('heavy', 'JJ', '', 'O') ('lift', 'NN', '', 'O') ('cranes', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ("'383_patent", 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Manitowoc', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('maintenance', 'NN', '', 'O') ('and', 'CC', '', 'O') ('threatened', 'VBD', '', 'O') ('enforcement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('constituted', 'VBN', '', 'O') ('unfair_competition', 'NN', '', 'O') ('because', 'IN', '', 'O') ('FMC', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('forced', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('``', '``', '', 'O') ('design', 'VB', '', 'O') ('around', 'RP', '', 'O') ("''", "''", '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('procured', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+September 5 1980 FMC Manitowoc FMC
+__NEW_SENT__
+('Manitowoc', 'NNP', 'PERSON', 'B') ('then', 'RB', '', 'O') ('sued', 'VBD', '', 'O') ('FMC', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('FMC', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('alleging', 'VBG', '', 'O') ('violation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antitrust_laws', 'NNS', '', 'O')
+Manitowoc FMC FMC
+__NEW_SENT__
+('The', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('cases', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('formally', 'RB', '', 'O') ('consolidated', 'VBN', '', 'O') ('but', 'CC', '', 'O') ('were', 'VBD', '', 'O') ('treated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('tried', 'VBN', '', 'O') ('together', 'RB', '', 'O')
+two
+__NEW_SENT__
+('Proceedings', 'NNS', '', 'O') ('encompassed', 'VBD', '', 'O') ('over', 'IN', '', 'O') ('six', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('and', 'CC', '', 'O') ('involved', 'JJ', '', 'O') ('participation', 'NN', '', 'O') ('for', 'IN', '', 'O') ('varying', 'VBG', '', 'O') ('periods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('magistrates', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('district', 'NN', '', 'O') ('judges', 'NNS', '', 'O')
+six years two four
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('pretrial', 'JJ', '', 'O') ('skirmishes', 'NNS', '', 'O') ('generated', 'VBN', '', 'O') ('over', 'IN', '', 'O') ('1000', 'CD', 'CARDINAL', 'B') ('entries', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('80', 'CD', 'CARDINAL', 'B') ('docket', 'NN', '', 'O') ('pages', 'NNS', '', 'O')
+1000 80
+__NEW_SENT__
+('The', 'DT', '', 'O') ('record', 'NN', '', 'O') ('exceeded', 'VBD', '', 'O') ('17,000', 'CD', 'CARDINAL', 'B') ('pages', 'NNS', '', 'O')
+17,000
+__NEW_SENT__
+('On', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('30', 'CD', 'DATE', 'I') ('1987', 'CD', 'DATE', 'I') ('after', 'IN', '', 'O') ('conducting', 'VBG', '', 'O') ('six', 'CD', 'DATE', 'B') ('weeks', 'NNS', 'DATE', 'I') ('of', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('hearing', 'VBG', '', 'O') ('numerous', 'JJ', '', 'O') ('witnesses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('rendering', 'VBG', '', 'O') ('many', 'JJ', '', 'O') ('rulings', 'NNS', '', 'O') ('Judge', 'NNP', '', 'O') ('Hart', 'NNP', 'PERSON', 'B') ('entered', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('comprehensive', 'JJ', '', 'O') ('60-', 'NN', 'CARDINAL', 'B') ('*1413', 'NFP', '', 'O') ('page', 'NN', '', 'O') ('set', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clearly', 'RB', '', 'O') ('stated', 'VBN', '', 'O') ('findings', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('conclusions', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('he', 'PRP', '', 'O') ('incorporated', 'VBD', '', 'O') ('his', 'PRP$', '', 'O') ('evaluations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('and', 'CC', '', 'O') ('his', 'PRP$', '', 'O') ('reasoning', 'NN', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('which', 'WDT', '', 'O') ('he', 'PRP', '', 'O') ('appended', 'VBD', '', 'O') ('drawings', 'NNS', '', 'O') ('admitted', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('exhibits', 'NNS', '', 'O')
+January 30 1987 six weeks Hart 60-
+__NEW_SENT__
+('FMC', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Manitowoc', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('654_F.Supp._915', 'CD', '', 'O') ('2_USPQ2d_1969_(N.D.Ill.1987)1', 'CD', 'CARDINAL', 'B') ('The', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('the', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('actions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('contentions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('thoroughly', 'RB', '', 'O') ('set', 'VBN', '', 'O') ('forth', 'RP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('above-cited', 'JJ', '', 'O') ('reports', 'NNS', '', 'O')
+FMC Corp. Manitowoc Co. 2_USPQ2d_1969_(N.D.Ill.1987)1
+__NEW_SENT__
+('Familiarity', 'NN', '', 'O') ('therewith', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('presumed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('discussion', 'NN', '', 'O') ('here', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ('limited', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('facts', 'NNS', '', 'O') ('involved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('disposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+
+__NEW_SENT__

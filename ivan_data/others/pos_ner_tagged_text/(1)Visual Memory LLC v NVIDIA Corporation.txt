@@ -1,0 +1,243 @@
+('867_F.3d_1253', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('VISUAL', 'NNP', 'ORG', 'B') ('MEMORY', 'NNP', '', 'O') ('LLC', 'NNP', 'ORG', 'B') ('Plaintiff-Appellant', 'NNP', '', 'O')
+VISUAL LLC
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('NVIDIA', 'JJ', '', 'O') ('CORPORATION', 'NNS', '', 'O') ('Defendant-Appellee', 'JJ', '', 'O')
+
+__NEW_SENT__
+('2016-2254', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('August', 'NNP', 'DATE', 'B') ('15', 'CD', 'DATE', 'I') ('2017', 'CD', 'DATE', 'I')
+August 15 2017
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('computer_memory_system', 'NN', '', 'O') ('connectable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('processor', 'VB', '', 'O') ('and', 'CC', '', 'O') ('having', 'VBG', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('No._1', 'NNP', '', 'O') (':15-cv-00789-RGA', 'NNP', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Andrews', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2016_WL_3041847', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O')
+United_States_District_Court the District of Delaware Richard G. Andrews J. 2016_WL_3041847
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Stoll', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('patent-eligible', 'JJ', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('improved', 'JJ', '', 'O') ('computer_memory_system', 'RBS', '', 'O') ('not', 'RB', '', 'O') ('to', 'IN', '', 'O') ('abstract_idea', 'VB', '', 'O') ('of', 'IN', '', 'O') ('categorical_data_storage', 'NNP', '', 'O')
+The Court of Appeals Stoll Circuit_Judge
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Hughes', 'NNS', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Hughes
+__NEW_SENT__
+('*1254', 'NNPS', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('No._1', 'NNP', 'GPE', 'B') (':15-cv-00789-RGA', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Andrews', 'NNP', 'PERSON', 'I')
+United_States_District_Court the District of Delaware No._1 Richard G. Andrews
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Richard', 'NNP', 'PERSON', 'B') ('Charles', 'NNP', 'PERSON', 'I') ('Weinblatt', 'NNP', 'PERSON', 'I') ('Stamoulis', 'NNP', 'PERSON', 'I') ('&', 'CC', '', 'O') ('Weinblatt', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('Wilmington', 'NNP', '', 'O') ('DE', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Richard Charles Weinblatt Stamoulis
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Stamatios', 'NNP', 'PERSON', 'B') ('Stamoulis', 'NNP', 'PERSON', 'I')
+Stamatios Stamoulis
+__NEW_SENT__
+('Maximilian', 'JJ', '', 'O') ('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('Grant', 'NNP', 'ORG', 'B') ('Latham', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Watkins', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'ORG', 'I') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Grant Latham & Watkins LLP Washington DC
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Gabriel', 'NNP', 'PERSON', 'B') ('Bell', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('Gregory', 'NNP', 'PERSON', 'I') ('Frenkel', 'NNP', '', 'O') ('Menlo', 'NNP', '', 'O') ('Park', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+Gabriel Bell Richard Gregory
+__NEW_SENT__
+('Before', 'IN', '', 'O') ("O'Malley", 'NNP', 'PERSON', 'B') ('Hughes', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Stoll', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+O'Malley Hughes Stoll
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', '', 'O') ('Hughes', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*1255', 'JJ', '', 'O') ('Stoll', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Visual_Memory', 'NN', '', 'O') ('LLC', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('complaint', 'NN', '', 'O') ('against', 'IN', '', 'O') ('NVIDIA', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I')
+LLC NVIDIA Corporation
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Visual_Memory', 'NN', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('No._5953,740', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('drawn', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('patent-ineligible_subject_matter', 'VB', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('its', 'PRP$', '', 'O') ('complaint', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('under', 'IN', '', 'O') ('Federal_Rule', 'NNP', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O') ('12', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+Visual_Memory U.S. Patent No._5953,740 Federal_Rule 6
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('instead', 'RB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'740_patent", 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('improvement', 'NN', '', 'O') ('to', 'IN', '', 'O') ('computer_memory_systems', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('abstract_idea', 'NN', '', 'O')
+
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remand', 'NN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'740_patent", 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('computer', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('frequently', 'RB', '', 'O') ('use', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('three-tiered', 'JJ', '', 'O') ('memory_hierarchy', 'NN', '', 'O') ('to', 'TO', '', 'O') ('enhance', 'VB', '', 'O') ('performance', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('tiers', 'NNS', '', 'O') ('include', 'VBP', '', 'O') (':', ':', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('low-cost', 'NN', '', 'O') ('low-speed_memory', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('magnetic', 'JJ', '', 'O') ('disk', 'NN', '', 'O') ('for', 'IN', '', 'O') ('bulk', 'JJ', '', 'O') ('storage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('data', 'NNS', '', 'O') (';', ':', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('medium-speed_memory', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('serves', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('an', 'DT', '', 'O') ('expensive', 'JJ', '', 'O') ('high-speed_memory', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('acts', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('cache', 'NN', '', 'O') ('memory', 'NN', '', 'O')
+three 1 2 3
+__NEW_SENT__
+("'740_patent", 'NNP', '', 'O') ('col.', 'XX', '', 'O') ('1_ll._54', 'CD', '', 'O') ('-64', '.', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'JJ', '', 'O') ('memory', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('expensive', 'JJ', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('typically', 'RB', '', 'O') ('smaller', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('and', 'CC', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('always', 'RB', '', 'O') ('store', 'VB', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('data', 'NNS', '', 'O') ('required', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('processor', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('memory_hierarchy', 'NN', '', 'O') ('alleviates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('limitations', 'NNS', '', 'O') ('imposed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('size', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('allows', 'VBZ', '', 'O') ('code', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('data1', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('transferred', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('during', 'IN', '', 'O') ('operation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('ensure', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('currently', 'RB', '', 'O') ('executing', 'VBG', '', 'O') ('program', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('quick', 'JJ', '', 'O') ('access', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('required', 'VBN', '', 'O') ('data', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Replacement', 'NN', '', 'O') ('algorithms', 'NNS', '', 'O') ('determine', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('data', 'NNS', '', 'O') ('should', 'MD', '', 'O') ('be', 'VB', '', 'O') ('transferred', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('and', 'CC', '', 'O') ('which', 'WDT', '', 'O') ('data', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('should', 'MD', '', 'O') ('be', 'VB', '', 'O') ('replaced', 'VBN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('executed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('continually', 'RB', '', 'O') ('grouped', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('thereby', 'RB', '', 'O') ('facilitating', 'VBG', '', 'O') ('rapid', 'JJ', '', 'O') ('access', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('currently', 'RB', '', 'O') ('executing', 'VBG', '', 'O') ('program', 'NN', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('memory_systems', 'NNS', '', 'O') ('lacked', 'VBD', '', 'O') ('versatility', 'NN', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('were', 'VBD', '', 'O') ('designed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('optimized', 'VBN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('selected', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('in', 'IN', '', 'O') ('that', 'DT', '', 'O') ('system', 'NN', '', 'O')
+
+__NEW_SENT__
+('Designing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('memory_system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('every', 'DT', '', 'O') ('processor_type', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('expensive', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('substituting', 'VBG', '', 'O') ('any', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('would', 'MD', '', 'O') ('decrease', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('efficiency', 'NN', '', 'O')
+
+__NEW_SENT__
+('Memory', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('operate', 'VB', '', 'O') ('with', 'IN', '', 'O') ('multiple', 'JJ', '', 'O') ('types', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('processors', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('the', 'DT', '', 'O') ('design', 'NN', '', 'O') ('tradeoffs', 'NNS', '', 'O') ('often', 'RB', '', 'O') ('diminished', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('performance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('computers', 'NNS', '', 'O')
+one
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ('purports', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('overcome', 'VB', '', 'O') ('these', 'DT', '', 'O') ('deficiencies', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('memory_system', 'NN', '', 'O') ('with', 'IN', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('tailored', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('with', 'IN', '', 'O') ('multiple', 'JJ', '', 'O') ('different', 'JJ', '', 'O') ('processors', 'NNS', '', 'O') ('without', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accompanying', 'VBG', '', 'O') ('reduction', 'NN', '', 'O') ('in', 'IN', '', 'O') ('performance', 'NN', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('12', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('separate', 'JJ', '', 'O') ('caches', 'NNS', '', 'O') (':', ':', '', 'O') ('internal_cache', 'JJ', '', 'O') ('16', 'CD', 'CARDINAL', 'B') ('pre-fetch', 'NN', '', 'O') ('cache', 'NN', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('write', 'VB', '', 'O') ('buffer_cache', 'NN', '', 'O') ('20', 'CD', 'CARDINAL', 'B')
+12 three 16 18 20
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('3_ll._34', 'NNP', '', 'O') ('-53', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('schematic', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('memory_system', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('shown', 'VBN', '', 'O') ('below', 'RB', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (':', ':', '', 'O')
+1
+__NEW_SENT__
+('*1256.', 'NNP', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('caches', 'NNS', '', 'O') ('possess', 'VBP', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('programmable', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('memory_system', 'NN', '', 'O')
+three
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('turned', 'VBN', '', 'O') ('on', 'RP', '', 'O') ('information', 'NN', '', 'O') ('about', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('self-configure', 'VB', '', 'O') ('the', 'DT', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('depending', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('internal_cache', 'NN', '', 'O') ('16', 'CD', 'CARDINAL', 'B') ('can', 'MD', '', 'O') ('store', 'VB', '', 'O') ('both', 'CC', '', 'O') ('code', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('can', 'MD', '', 'O') ('store', 'VB', '', 'O') ('only', 'RB', '', 'O') ('code', 'NN', '', 'O') ('data', 'NNS', '', 'O')
+16
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('4_ll._30', 'NNP', '', 'O') ('-35', ':', '', 'O')
+
+__NEW_SENT__
+('Similarly', 'RB', '', 'O') ('write', 'VB', '', 'O') ('buffer_cache', 'NN', '', 'O') ('20', 'CD', 'CARDINAL', 'B') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('programmed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('buffer', 'VB', '', 'O') ('data', 'NNS', '', 'O') ('``', '``', '', 'O') ('solely', 'RB', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bus_master', 'NNP', '', 'O') ('other', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system_processor', 'NN', '', 'O') ("''", "''", '', 'O') ('or', 'CC', '', 'O') ('to', 'TO', '', 'O') ('buffer', 'VB', '', 'O') ('``', '``', '', 'O') ('data', 'NNS', '', 'O') ('writes', 'VBZ', '', 'O') ('by', 'IN', '', 'O') ('any', 'DT', '', 'O') ('bus_master', 'NNP', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('system_processor', 'NN', '', 'O') ("''", "''", '', 'O')
+20
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('4_ll._35', 'NNP', '', 'O') ('-43', ':', '', 'O')
+
+__NEW_SENT__
+('By', 'IN', '', 'O') ('separating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('functionality', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('caches', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('defining', 'VBG', '', 'O') ('those', 'DT', '', 'O') ('functions', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('system', 'NN', '', 'O') ('can', 'MD', '', 'O') ('``', '``', '', 'O') ('achieve', 'VB', '', 'O') ('or', 'CC', '', 'O') ('exceed', 'VB', '', 'O') ('the', 'DT', '', 'O') ('performance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('system', 'NN', '', 'O') ('utilizing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('cache', 'RB', '', 'O') ('many', 'JJ', '', 'O') ('times', 'NNS', '', 'O') ('larger', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cumulative', 'JJ', '', 'O') ('size', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('subject', 'JJ', '', 'O') ('caches', 'NNS', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('4_ll._24', 'NNP', '', 'O') ('-26', 'NN', '', 'O')
+
+__NEW_SENT__
+('Using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('programmable_operational_characteristic', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('processor_type', 'NN', '', 'O') ('can', 'MD', '', 'O') ('also', 'RB', '', 'O') ('improve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O')
+
+__NEW_SENT__
+('Fast', 'JJ', '', 'O') ('page', 'NN', '', 'O') ('mode', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('well-known', 'JJ', '', 'O') ('technique', 'NN', '', 'O') ('for', 'IN', '', 'O') ('speeding', 'VBG', '', 'O') ('up', 'RP', '', 'O') ('access', 'NN', '', 'O') ('to', 'IN', '', 'O') ('main_memory', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('fast_page_mode', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('row', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('memory', 'NN', '', 'O') ('page', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('accessed', 'VBN', '', 'O') ('without', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('continually', 'RB', '', 'O') ('re-specify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('row', 'NN', '', 'O') ('address', 'NN', '', 'O') ('thereby', 'RB', '', 'O') ('reducing', 'VBG', '', 'O') ('access', 'NN', '', 'O') ('time', 'NN', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('register', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('holds', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('page', 'NN', '', 'O') ('address', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('recently', 'RB', '', 'O') ('accessed', 'VBN', '', 'O') ('page', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('main_memory', 'NN', '', 'O') ('constitutes', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('advance', 'NN', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('fast_page_mode', 'NNP', '', 'O') ('memory', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('divided', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('pages', 'NNS', '', 'O') ('containing', 'VBG', '', 'O') ('either', 'CC', '', 'O') ('code', 'NN', '', 'O') ('or', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('bias', 'NN', '', 'O') ('towards', 'IN', '', 'O') ('code', 'NN', '', 'O') ('pages', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('pages', 'NNS', '', 'O') ('depending', 'VBG', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('processor', 'NN', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('4_ll._55', 'NNP', '', 'O') ('-58', 'NNS', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('processor_type', 'NN', '', 'O') ('the', 'DT', '', 'O') ('register', 'NN', '', 'O') ('will', 'MD', '', 'O') ('hold', 'VB', '', 'O') ('the', 'DT', '', 'O') ('address', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('recently', 'RB', '', 'O') ('accessed', 'VBN', '', 'O') ('code', 'NN', '', 'O') ('page', 'NN', '', 'O') (';', ':', '', 'O') ('for', 'IN', '', 'O') ('another', 'DT', '', 'O') ('processor_type', 'NN', '', 'O') ('the', 'DT', '', 'O') ('register', 'NN', '', 'O') ('will', 'MD', '', 'O') ('hold', 'VB', '', 'O') ('the', 'DT', '', 'O') ('address', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('most', 'RBS', '', 'O') ('recently', 'RB', '', 'O') ('accessed', 'VBN', '', 'O') ('non-code', 'JJ', '', 'O') ('page', 'NN', '', 'O')
+one
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('discloses', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('combining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('selective', 'JJ', '', 'O') ('open', 'JJ', '', 'O') ('page', 'NN', '', 'O') ('bias', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fast_page_mode', 'NNP', '', 'O') ('offers', 'VBZ', '', 'O') ('faster', 'JJR', '', 'O') ('access', 'NN', '', 'O') ('to', 'IN', '', 'O') ('main_memory', 'NN', '', 'O') ('and', 'CC', '', 'O') ('increases', 'VBZ', '', 'O') ('system', 'NN', '', 'O') ('performance', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('5_ll._6', 'CD', '', 'O') ('-8', ':', '', 'O')
+
+__NEW_SENT__
+('Taken', 'VBN', '', 'O') ('together', 'RB', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('multiple', 'JJ', '', 'O') ('mode', 'NN', '', 'O') ('operation', 'NN', '', 'O') ("''", "''", '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ('confers', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('substantial', 'JJ', '', 'O') ('advantage', 'NN', '', 'O') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('allow', 'VB', '', 'O') ('[', '-LRB-', '', 'O') ('ing', 'VBG', '', 'O') (']', '-RRB-', '', 'O') ('different', 'JJ', '', 'O') ('types', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('processors', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('installed', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('[', '-LRB-', '', 'O') ('same', 'JJ', '', 'O') (']', '-RRB-', '', 'O') ('subject', 'JJ', '', 'O') ('memory_system', 'NN', '', 'O') ('without', 'IN', '', 'O') ('*1257', 'UH', '', 'O') ('significantly', 'RB', '', 'O') ('compromising', 'VBG', '', 'O') ('their', 'PRP$', '', 'O') ('individual', 'JJ', '', 'O') ('performance', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('5_ll._25', 'NNP', '', 'O') ('-29', ':', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('reflect', 'VBP', '', 'O') ('these', 'DT', '', 'O') ('technological', 'JJ', '', 'O') ('improvements', 'NNS', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('recites', 'NNS', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('computer_memory_system', 'NN', '', 'O') ('connectable', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('having', 'VBG', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('more', 'JJR', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('characteristics', 'NNS', '', 'O') ('being', 'VBG', '', 'O') ('defined', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('configuration', 'NN', '', 'O') ('by', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('computer', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('processor', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('system', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('connectable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('said', 'VBD', '', 'O') ('processor', 'NN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bus', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('system', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('main_memory', 'NN', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('bus', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+one
+__NEW_SENT__
+('a', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('bus', 'NN', '', 'O') (';', ':', '', 'O') ('wherein', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('programmable_operational_characteristic', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('system', 'NN', '', 'O') ('determines', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('data', 'NNS', '', 'O') ('stored', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('cache', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at_col.', 'NNP', '', 'O') ('6_ll._28', 'NNP', '', 'O') ('-38', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('further', 'RB', '', 'O') ('define', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('programmable_operational_characteristic', 'JJ', '', 'O') ('i.e.', 'FW', '', 'O') ('determining', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'JJ', '', 'O') ('stores', 'NNS', '', 'O') ('both', 'CC', '', 'O') ('code', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-code', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('claim', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'JJ', '', 'O') ('buffers', 'NNS', '', 'O') ('data', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('both', 'CC', '', 'O') ('the', 'DT', '', 'O') ('bus_master', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('claim', 'NN', '', 'O') ('3', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+2 3
+__NEW_SENT__
+('Independent', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('6', 'CD', 'CARDINAL', 'B') ('recites', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('fast_page_mode', 'NNP', '', 'O') ('embodiment', 'NN', '', 'O')
+6
+__NEW_SENT__
+('Visual_Memory', 'NN', '', 'O') ('sued', 'VBD', '', 'O') ('NVIDIA', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'740_patent", 'NN', '', 'O')
+NVIDIA
+__NEW_SENT__
+('Believing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('patent-ineligible_subject_matter', 'VB', '', 'O') ('NVIDIA', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('state', 'VB', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('pursuant', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Federal_Rule', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Civil_Procedure', 'NN', '', 'O') ('12', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+NVIDIA 6
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('NVIDIA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O')
+NVIDIA
+__NEW_SENT__
+('Under', 'IN', '', 'O') ('step', 'NN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Alice', 'NNP', 'PERSON', 'B') ('test', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('abstract_idea', 'NN', '', 'O') ('of', 'IN', '', 'O') ('categorical_data_storage', 'NNP', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('humans', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('practiced', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('many', 'JJ', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I')
+one Alice many years
+__NEW_SENT__
+('Visual_Memory', 'NN', '', 'O') ('LLC', 'NNP', 'ORG', 'B') ('v.', 'CC', '', 'O') ('NVIDIA', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('No._1', 'NNP', '', 'O') ('5-789', 'CD', '', 'O') ('2016_WL_3041847', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('*4', 'FW', '', 'O') ('(', '-LRB-', '', 'O') ('D.', 'NNP', 'PERSON', 'B') ('Del', 'NNP', 'PERSON', 'I')
+LLC NVIDIA Corp. D. Del
+__NEW_SENT__
+('May_27,_2016', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+May_27,_2016
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('step-two', 'NN', '', 'O') ('analysis', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('inventive_concept', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('computer', 'NN', '', 'O') ('components-a', 'NNP', '', 'O') ('main_memory', 'NN', '', 'O') ('cache', 'NN', '', 'O') ('bus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('processor-were', 'JJ', '', 'O') ('generic', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('conventional', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'740_patent", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('programmable_operational_characteristics', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('provide', 'VB', '', 'O') ('the', 'DT', '', 'O') ('inventive_concept', 'NN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('represent', 'VBP', '', 'O') ('generic', 'JJ', '', 'O') ('concepts', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('determine', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('data', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('stored', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cache', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('fails', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('explain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('mechanism', 'NN', '', 'O') ('for', 'IN', '', 'O') ('accomplishing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('result', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*7', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('Visual_Memory', 'NN', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__

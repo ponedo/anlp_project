@@ -1,0 +1,132 @@
+('346_F.3d_1051', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ELAN', 'NNP', 'ORG', 'B') ('PHARMACEUTICALS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Athena', 'NNP', 'ORG', 'B') ('Neurosciences', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('MAYO', 'NNP', 'ORG', 'B') ('FOUNDATION', 'NNP', '', 'O') ('FOR', 'IN', '', 'O') ('MEDICAL', 'NNP', '', 'O') ('EDUCATION', 'NNP', '', 'O') ('AND', 'CC', '', 'O') ('RESEARCH', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+ELAN PHARMACEUTICALS INC. Athena Neurosciences Inc. MAYO
+__NEW_SENT__
+('No._00-1467', 'NNP', 'ORG', 'B')
+No._00-1467
+__NEW_SENT__
+('|', 'DT', '', 'O') ('DECIDED', 'NNS', '', 'O') (':', ':', '', 'O') ('Oct._2,_2003', '.', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('disclosing', 'VBG', '', 'O') ('``', '``', '', 'O') ('recipe', 'NN', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('transgenic', 'JJ', '', 'O') ('mice', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('medical', 'JJ', '', 'O') ('research', 'NN', '', 'O') ('center', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('175_F.Supp.2d_1209', 'CD', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Alsup', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBN', '', 'O')
+United_States_District_Court Northern_District California William H. Alsup J.
+__NEW_SENT__
+('Superceding', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('prior', 'JJ', '', 'O') ('opinion', 'NN', '', 'O') ('243_F.3d_567', 'CD', 'CARDINAL', 'B') ('2000_WL_1720837', 'CD', '', 'O') ('the', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('reversed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+243_F.3d_567 the Court of Appeals
+__NEW_SENT__
+('On', 'IN', '', 'O') ('rehearing', 'VBG', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Pauline', 'NNP', '', 'O') ('Newman', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('reference', 'NN', '', 'O') ('must', 'MD', '', 'O') ('be', 'VB', '', 'O') ('enabling', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('anticipating', 'VBG', '', 'O')
+the Court of Appeals
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1052', 'NFP', '', 'O') ('Lynn', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Pasahow', 'NNP', '', 'O') ('Fenwick', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('West_LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Mountain_View', 'NN', 'CARDINAL', 'B') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Lynn H. Fenwick & West_LLP Mountain_View
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Beth', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Parker', 'NNP', 'PERSON', 'I') ('Mary', 'NNP', 'PERSON', 'I') ('T.', 'NNP', 'PERSON', 'I') ('Huser', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('S.', 'NNP', 'PERSON', 'B') ('Christian', 'NNP', 'PERSON', 'I') ('Platt', 'NNP', 'PERSON', 'I') ('Bingham', 'NNP', 'PERSON', 'I') ('McCutchen', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') (';', ':', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Hixson', 'NNP', 'PERSON', 'I') ('Bingham', 'NNP', 'PERSON', 'B') ('McCutchen', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Francisco', 'NNP', 'GPE', 'I') ('CA', 'NNP', 'GPE', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Charlene', 'NNP', 'ORG', 'B') ('M.', 'NNP', 'ORG', 'I') ('Morrow', 'NNP', 'ORG', 'I') ('Fenwick', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('West_LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Mountain_View', 'NN', 'CARDINAL', 'B') ('CA', 'NNP', '', 'O')
+Beth H. Parker Mary T. Huser S. Christian Platt Bingham McCutchen LLP Palo Alto Thomas S. Hixson Bingham McCutchen San Francisco CA Charlene M. Morrow Fenwick & West_LLP Mountain_View
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Hillman', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'GPE', 'B') ('MA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Robert E. Hillman Fish & Richardson P.C. Boston
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Shelley', 'NNP', 'ORG', 'B') ('K.', 'NNP', 'ORG', 'I') ('Wessels', 'NNP', 'ORG', 'I') ('Karen', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Boyd', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Kurtis', 'NNP', '', 'O') ('D.', 'NNP', '', 'O') ('MacFerrin', 'NNP', '', 'O') ('Fish', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Richardson', 'NNP', '', 'O') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Menlo', 'NNP', 'GPE', 'B') ('Park', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O')
+Shelley K. Wessels Karen I. Boyd P.C. Menlo Park
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Chad', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Hanson', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', 'GPE', 'B') ('MN', 'NNP', '', 'O')
+Chad A. Hanson Fish & Richardson P.C. Minneapolis
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('GAJARSA', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN GAJARSA DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PAULINE', 'NNP', 'ORG', 'B') ('NEWMAN', 'NN', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+PAULINE NEWMAN Circuit_Judge
+__NEW_SENT__
+('The', 'DT', '', 'O') ('initial', 'JJ', '', 'O') ('opinion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('reported', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('Elan', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Mayo_Foundation', 'NN', '', 'O') ('304_F.3d_1221', 'CD', '', 'O') ('64_USPQ2d_1292_(Fed.Cir.2002)', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('vacated', 'VBN', '', 'O') ('314_F.3d_1299_(Fed.Cir.2002)', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('replaced', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('this', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('decision', 'NN', '', 'O')
+Elan Pharmaceuticals Inc.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Mayo_Foundation', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalidity', 'NN', '', 'O') ('held', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('Elan', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('United_States_Patent_No._5612,486', 'NN', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬486_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('``', '``', '', 'O') ('Transgenic', 'JJ', 'WORK_OF_ART', 'B') ('Animals', 'NNS', 'WORK_OF_ART', 'I') ('Harboring', 'NNP', 'WORK_OF_ART', 'I') ('APP', 'NNP', 'WORK_OF_ART', 'I') ('Allele', 'NNP', 'WORK_OF_ART', 'I') ('Having', 'NNP', 'WORK_OF_ART', 'I') ('Swedish_Mutation', 'NN', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('and', 'CC', '', 'O') ('Patent', 'NNP', 'PERSON', 'B') ('No._5850,003', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬003_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Transgenic', 'JJ', 'WORK_OF_ART', 'I') ('Rodents', 'NNS', 'WORK_OF_ART', 'I') ('Harboring', 'NNP', 'WORK_OF_ART', 'I') ('APP', 'NNP', 'WORK_OF_ART', 'I') ('Allele', 'NNP', 'WORK_OF_ART', 'I') ('Having', 'NNP', 'WORK_OF_ART', 'I') ('Swedish_Mutation', 'NN', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('United_States_Patent_No._5455,169', 'NN', 'GPE', 'B') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Nucleic', 'NNP', 'WORK_OF_ART', 'I') ('Acids', 'NNPS', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Diagnosing', 'NNP', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Modeling', 'NNP', 'WORK_OF_ART', 'I') ('Alzheimer', 'NNP', 'WORK_OF_ART', 'I') ("'s", 'POS', 'WORK_OF_ART', 'I') ('Disease', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Mullan_reference', 'NN', '', 'O') (')1', '.', '', 'O')
+United_States_District_Court Northern_District California Elan two United_States_Patent_No._5612,486 Transgenic Animals Harboring APP Allele Having Swedish_Mutation '' Patent No._5850,003 `` Transgenic Rodents Harboring APP Allele Having Swedish_Mutation '' United_States_Patent_No._5455,169 `` Nucleic Acids for Diagnosing and Modeling Alzheimer 's Disease ''
+__NEW_SENT__
+('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('questions', 'NNS', '', 'O') ('raised', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('petitions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('clarify', 'VBP', '', 'O') ('that', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('requires', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('assertedly', 'RB', '', 'O') ('anticipating', 'VBG', '', 'O') ('disclosure', 'NN', '', 'O') ('enabled', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reference', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('invention', 'NN', '', 'O') ('without', 'IN', '', 'O') ('undue', 'JJ', '', 'O') ('experimentation', 'NN', '', 'O')
+
+__NEW_SENT__
+('Applying', 'VBG', '', 'O') ('this', 'DT', '', 'O') ('rule', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('remand', 'VBP', '', 'O') ('for', 'IN', '', 'O') ('determination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Mullan_reference', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('enabling', 'VBG', '', 'O') ('disclosure', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('remanded', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Elan', 'NNP', 'GPE', 'B') ('invention', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brains', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('people', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('Alzheimer', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('disease', 'NN', '', 'O') ('contain', 'VBP', '', 'O') ('abnormal', 'JJ', '', 'O') ('tangles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('deposits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('plaques', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('principal', 'JJ', '', 'O') ('component', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plaques', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('protein', 'NN', '', 'O') ('fragment', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('beta-amyloid', 'JJ', '', 'O') ('peptide', 'NN', '', 'O') ('or', 'CC', '', 'O') ('betaAP', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('also', 'RB', '', 'O') ('designated', 'VBN', '', 'O') ('aAP', 'CD', '', 'O') ('and', 'CC', '', 'O') ('Aa', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O')
+Elan Aa
+__NEW_SENT__
+('The', 'DT', '', 'O') ('formation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('betaAP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('brain', 'NN', '', 'O') ('tissue', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('*1053', 'FW', '', 'O') ('believed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('induce', 'VB', '', 'O') ('or', 'CC', '', 'O') ('foster', 'JJ', '', 'O') ('formation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Alzheimer', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('disease', 'NN', '', 'O') ('plaques', 'NNS', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('believed', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mechanism', 'NN', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('betaAP', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('formed', 'VBN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('abnormal_cleavage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('protein', 'NN', '', 'O') ('produced', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('brain', 'NN', '', 'O') ('cells', 'NNS', '', 'O') ('called', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('amyloid', 'NN', '', 'O') ('precursor', 'NN', '', 'O') ('protein', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('APP', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('abnormal_cleavage', 'NN', '', 'O') ('occurs', 'VBZ', '', 'O') ('when', 'WRB', '', 'O') ('an', 'DT', '', 'O') ('enzyme', 'NN', '', 'O') ('produced', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brain', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('beta-secretase', 'NN', '', 'O') ('cleaves', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('APP', 'NNP', '', 'O') ('molecule', 'NN', '', 'O') ('between', 'IN', '', 'O') ('amino_acids', 'NNS', '', 'O') ('596_and_597', 'CD', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('enzyme', 'NN', '', 'O') ('produced', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brain', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('gamma-secretase', 'NN', '', 'O') ('releases', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('betaAP', 'NNP', '', 'O') ('fragment', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cleaved', 'JJ', '', 'O') ('APP', 'NNP', '', 'O')
+second
+__NEW_SENT__
+('The', 'DT', '', 'O') ('mechanism', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('illustrated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Elan', 'NNP', 'GPE', 'B') ('brief', 'NN', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O')
+Elan
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Humans', 'NNS', '', 'O') ('who', 'WP', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('develop', 'VB', '', 'O') ('Alzheimer', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('disease', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('believed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('break', 'VB', '', 'O') ('down', 'RP', '', 'O') ('the', 'DT', '', 'O') ('APP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('manner', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('form', 'VB', '', 'O') ('significant', 'JJ', '', 'O') ('amounts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('betaAP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brain', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Swedish_mutation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('abnormal', 'JJ', '', 'O') ('gene2', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('discovered', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('chromosome', 'NN', '', 'O') ('21', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Swedish', 'JJ', 'NORP', 'B') ('family', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('has', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('unusually', 'RB', '', 'O') ('high', 'JJ', '', 'O') ('incidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('early-onset', 'JJ', '', 'O') ('Alzheimer', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('disease', 'NN', '', 'O')
+21 Swedish
+__NEW_SENT__
+('This', 'DT', '', 'O') ('mutation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Mullan', 'NNP', 'GPE', 'B') ('patent', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('variation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('nucleotides', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('encode', 'NN', '', 'O') ('codons', 'VBZ', '', 'O') ('670_and_6713', 'IN', '', 'O') ('wherein', 'WRB', '', 'O') ('lysine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('methionine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('amino_acids', 'NNS', '', 'O') ('normally', 'RB', '', 'O') ('encoded', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('these', 'DT', '', 'O') ('positions', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('replaced', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('asparagine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('leucine', 'NN', '', 'O')
+Mullan
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Elan_patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('transgenic_rodents', 'NNS', '', 'O') ('whose', 'WP$', '', 'O') ('genetic', 'JJ', '', 'O') ('makeup', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('modified', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Swedish_mutation', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬486_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('transgenic_rodent_comprising', 'NN', '', 'O')
+
+__NEW_SENT__
+('a', 'DT', '', 'O') ('diploid', 'JJ', '', 'O') ('genome', 'DT', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('transgene', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('heterologous_APP_polypeptide', 'NNP', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Swedish_mutation', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('amino_acid', 'JJ', '', 'O') ('residues', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('positions', 'NNS', '', 'O') ('corresponding', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('positions', 'NNS', '', 'O') ('595_and_596', 'CD', '', 'O') ('in', 'IN', '', 'O') ('human_APP695', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('asparagine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('leucine', 'NN', '', 'O') ('respectively', 'RB', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('transgene', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('expressed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('human_APP_polypeptide', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Swedish_mutation', 'NN', 'DATE', 'B') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('polypeptide', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('processed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('ATF-betaAPP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sufficient_amount', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('detectable', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('brain_homogenate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('transgenic_rodent', 'NN', '', 'O')
+Swedish_mutation
+__NEW_SENT__
+('Dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('add', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('limitations', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('rodent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('murine', 'JJ', '', 'O') ('(', '-LRB-', '', 'O') ('mouse', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transgene', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('nonhomologously', 'RB', '', 'O') ('integrated', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬003_patent', 'NNP', 'ORG', 'B') ('differ', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('in', 'IN', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('include', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('promoter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('polyadenylation', 'NN', '', 'O') ('site', 'NN', '', 'O')
+¡¬003_patent
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('transgenic_rodent_comprising', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1054', 'VB', '', 'O') ('a', 'DT', '', 'O') ('diploid', 'JJ', '', 'O') ('genome', 'FW', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('transgene', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('in', 'IN', '', 'O') ('operable', 'JJ', '', 'O') ('linkage', 'NN', '', 'O') ('a', 'DT', '', 'O') ('promoter', 'NN', '', 'O') ('a', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('segment', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('heterologous_APP_polypeptide', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('polyadenlyation', 'NN', '', 'O') ('site', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('APP', 'NNP', '', 'O') ('polypeptide', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('Swedish_mutation', 'NN', '', 'O') ('whereby', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('amino_acid', 'JJ', '', 'O') ('residues', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('positions', 'NNS', '', 'O') ('corresponding', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('positions', 'NNS', '', 'O') ('595_and_596', 'CD', '', 'O') ('in', 'IN', '', 'O') ('human_APP695', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('asparagine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('leucine', 'NN', '', 'O') ('respectively', 'RB', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('transgene', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('expressed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('human_APP_polypeptide', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Swedish_mutation', 'NN', 'DATE', 'B') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('polypeptide', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('processed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('ATF-betaAPP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sufficient_amount', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('detectable', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('brain_homogenate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('transgenic_rodent', 'NN', '', 'O')
+Swedish_mutation
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Mullan_reference', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('cited', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('in', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Elan_patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('distinguished', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('amendment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Elan', 'NNP', 'ORG', 'B') ('claims', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('clause', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('refers', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('production', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ATF-betaAPP', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('detectable', 'JJ', '', 'O') ('amounts', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rodent', 'JJ', '', 'O') ('brain', 'NN', '', 'O')
+Elan
+__NEW_SENT__

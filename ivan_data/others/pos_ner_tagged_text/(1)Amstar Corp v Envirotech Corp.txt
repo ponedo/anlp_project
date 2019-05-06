@@ -1,0 +1,90 @@
+('730_F.2d_1476', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Federal_Circuit', 'NN', 'ORG', 'I')
+United States Court of Appeals Federal_Circuit
+__NEW_SENT__
+('AMSTAR', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff/Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('ENVIROTECH', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Energy_Fuels_Nuclear', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants/Appellees', 'CD', '', 'O')
+Energy_Fuels_Nuclear Inc.
+__NEW_SENT__
+('Appeal', 'NNP', '', 'O') ('No._83-1090', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('March_27,_1984', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Suit', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('brought', 'VBN', '', 'O') ('charging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('apparatus', 'NN', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('enable', 'VB', '', 'O') ('industrial', 'JJ', '', 'O') ('enterprises', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('separate', 'VB', '', 'O') ('solids', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('large', 'JJ', '', 'O') ('volume', 'NN', '', 'O') ('of', 'IN', '', 'O') ('liquid', 'NN', '', 'O')
+Suit
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Utah', 'NNP', 'GPE', 'I') ('Bruce', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Jenkins', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('although', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+United_States_District_Court the District of Utah Bruce S. Jenkins J.
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Federal_Circuit', 'NNP', '', 'O') ('Markey', 'NNP', 'PERSON', 'B') ('Chief_Judge', 'NN', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('infringed', 'VBN', '', 'O') ('notwithstanding', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('that', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('avoided', 'VBN', '', 'O') ('because', 'IN', '', 'O') ('infringer', 'NN', '', 'O') ('added', 'VBD', '', 'O') ('mechanical', 'JJ', '', 'O') ('premixing', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('apparatus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('because', 'IN', '', 'O') ('infringer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('brief', 'NN', '', 'O') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('reverse', 'JJ', '', 'O') ('statement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('ignored', 'VBN', '', 'O') ('numerous', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unanimous', 'JJ', '', 'O') ('contrary', 'JJ', '', 'O') ('authorities', 'NNS', '', 'O') ('distorted', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('quotation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('presented', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('estoppel', 'JJ', '', 'O') ('argument', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('that', 'DT', '', 'O') ('distortion', 'NN', '', 'O') ('infringer', 'NN', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('pay', 'VB', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('an', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('double', 'JJ', '', 'O') ('holder', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('costs', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O')
+The Court of Appeals Markey Chief_Judge 1 2
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Davis', 'NNP', 'PERSON', 'B') ('Circuit', 'NNP', 'PERSON', 'I') ('Judge', 'NNP', '', 'O') ('concurred', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('dissented', 'VBD', '', 'O') ('with', 'IN', '', 'O') ('statement', 'NN', '', 'O')
+Davis Circuit
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1477', 'VBZ', '', 'O') ('Gerald', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Griffin', 'NNP', 'PERSON', 'I') ('New_York_City', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiff/appellant', 'NN', '', 'O')
+Gerald W. Griffin
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Norman', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Zivin', 'NNP', 'PERSON', 'I') ('New_York_City', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Donald', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Holbrook', 'NNP', 'PERSON', 'I') ('Salt', 'NNP', 'GPE', 'B') ('Lake', 'NNP', 'GPE', 'I') ('City', 'NNP', 'GPE', 'I') ('Utah', 'NNP', 'GPE', 'I')
+Norman H. Zivin Donald B. Holbrook Salt Lake City Utah
+__NEW_SENT__
+('V.', 'NNP', 'PERSON', 'B') ('Bryan', 'NNP', 'PERSON', 'I') ('Medlock', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Dallas', 'NNP', 'PERSON', 'B') ('Tex.', 'NNP', 'PERSON', 'I') ('for', 'IN', '', 'O') ('defendants/appellees', 'NNS', '', 'O')
+V. Bryan Medlock Jr. Dallas Tex.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Ray', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('Dallas', 'NNP', '', 'O') ('Tex', 'NNP', '', 'O')
+Ray G. Wilson
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MARKEY', 'JJ', 'ORG', 'B') ('Chief_Judge', 'NN', 'ORG', 'I') ('and', 'CC', '', 'O') ('FRIEDMAN', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('DAVIS', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judges', 'NNPS', 'ORG', 'I')
+MARKEY Chief_Judge FRIEDMAN DAVIS Circuit Judges
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1478', 'JJ', '', 'O') ('MARKEY', 'NNS', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('that', 'DT', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Utah', 'NNP', 'GPE', 'I') ('finding', 'VBG', '', 'O') ('non-infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._3523,889', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'889_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+United_States_District_Court the District of Utah U.S.
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('1979', 'CD', 'DATE', 'I') ('Amstar', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Amstar', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('Envirotech', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Envirotech', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Energy_Fuels_Nuclear', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('EFN', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('charging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('apparatus', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('1_through_10', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'889_patent", '``', '', 'O') ('active', 'JJ', '', 'O') ('inducement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('others', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('infringe', 'VB', '', 'O') ('and', 'CC', '', 'O') ('contributory', 'JJ', '', 'O') ('infringement', 'NN', '', 'O')
+January 1979 Amstar Corporation Amstar Envirotech Corporation Envirotech Energy_Fuels_Nuclear Inc. EFN
+__NEW_SENT__
+('Envirotech', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('EFN', 'NNP', 'ORG', 'B') ('asserted', 'VBD', '', 'O') ('defenses', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'JJ', '', 'O') ('invalidity', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('for', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('certain', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O')
+Envirotech EFN 35 103 the Patent and Trademark Office
+__NEW_SENT__
+('The', 'DT', '', 'O') ('action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('tried', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('from', 'IN', '', 'O') ('June', 'NNP', 'DATE', 'B') ('22', 'CD', 'DATE', 'I') ('through', 'IN', '', 'O') ('June_30,_1981', 'NNP', '', 'O')
+June 22
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('transcript', 'NN', '', 'O') ('ran', 'VBD', '', 'O') ('over', 'IN', '', 'O') ('1,150', 'CD', 'CARDINAL', 'B') ('pages', 'NNS', '', 'O')
+1,150
+__NEW_SENT__
+('Some', 'DT', 'CARDINAL', 'B') ('300', 'CD', 'CARDINAL', 'I') ('exhibits', 'NNS', '', 'O') ('totaled', 'VBD', '', 'O') ('over', 'IN', 'CARDINAL', 'B') ('4,000', 'CD', 'CARDINAL', 'I') ('pages', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('technical', 'JJ', '', 'O') ('diagrams', 'NNS', '', 'O') ('photos', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('articles', 'NNS', '', 'O')
+Some 300 over 4,000
+__NEW_SENT__
+('In-court', 'NN', '', 'O') ('and', 'CC', '', 'O') ('videotaped', 'VBN', '', 'O') ('experiments', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('demonstrated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('conducted', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('on-site', 'JJ', '', 'O') ('inspection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('laboratory', 'NN', '', 'O') ('version', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Envirotech', 'NNP', 'ORG', 'B') ('equipment', 'NN', '', 'O')
+Envirotech
+__NEW_SENT__
+('After', 'IN', '', 'O') ('submission', 'NN', '', 'O') ('of', 'IN', '', 'O') ('counsels', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('supplemental', 'JJ', '', 'O') ('memoranda', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Memorandum', 'NNP', 'PERSON', 'B') ('Decision', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_3,_1983', 'CD', '', 'O')
+Memorandum Decision
+__NEW_SENT__

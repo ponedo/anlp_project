@@ -1,0 +1,218 @@
+	In transfer printers in general, the ink ribbon is wound on two spools, one spool for supplying the ribbon for positioning on the substrate, and the other spool for taking up the ribbon after use.	9.8849374632228
+	Generally the known arrangements drive only the spool onto which ribbon is taken up (the take-up spool) and rely upon some form of "slipping clutch" arrangement on the spool from which ribbon is drawn (the supply spool) to provide a resistive force so as to ensure that the ribbon is maintained in tension during the printing and ribbon winding processes and to prevent ribbon overrun when the ribbon is brought to rest.	8.420741645396575
+	If tape tension is too low, the take-up spool is rotated to decrease the length of tape between the spools and if tape tension is too high, the supply spool is rotated to increase the length of tape between the spools.	8.355990822448145
+	A slipping clutch provides a constant resistive torque to the supply spool, and the constant torque causes the tension in the ribbon to vary as the supply spool outer diameter changes with the draw of ribbon.	8.197526865972128
+	The take-up spool rotates and takes up a given length of ribbon per rotation, while the supply spool is rotated to feed out the same length of ribbon, independent of the constantly changing spool diameter.	8.162484486661517
+	Mathematical processing results in a "correction" amount of ribbon that needs to be added to or removed from the ribbon path between the spools during the next ribbon feed.	7.74449860819315
+	Figure 1 of the ï¿½ï¿½572 patent shows the two ribbon spools 7 and 11, with ribbon 6 extending between them and passing under the print head at 4:	7.37661347670456
+	It is not inconsistent for "drive the spools in a tape transport direction" to mean "apply torque to cause rotation," and for "drive the spools" to mean "apply torque to the spools".	7.231657296651061
+	Although Markem's tape drives rotate both spools during the tape tension adjustment process, only a single spool is rotated to achieve each adjustment.	6.846543578034359
+	Markem states that Zipher conceded that "drive the spools in a tape transport direction" means that both spools are rotated in the tape transport direction.	6.8203970459763195
+	This addition or removal of ribbon maintains ribbon tension within acceptable limits.	6.7629972640066605
+	The prosecution history distinguishes the resistance drag of the second spool as in Barrus, and requires that "to drive the spools" includes both rotation torque and holding torque.	6.42613808767301
+	Too much clutch force can break the ribbon or require more power to drive the ribbon, and too little clutch force can cause the supply spool to overrun.	6.410544367182218
+	The specification does not suggest that an energized motor actively applying torque to either rotate a spool or hold it steady does not "drive" the spool.	6.369476828923788
+	There is no suggestion that the apparatus can operate in push-pull mode, that is the motor driving the take-up spool operating to pull the ribbon and the motor driving the supply spool operating to push the associated spool in a direction which assists tape transport.	6.068943575768277
+	If the derived value of t is too low (below a different predetermined limit), then a short section of ribbon can be removed from the length of ribbon between the spools....	5.632105870838494
+	The patent explains that "tension in the ribbon between the two spools must however be closely controlled to avoid the tension becoming too high (resulting in over tightening of the ribbon on the spools or even ribbon breakage) or the tension becoming too low (resulting in loss of positional control as a result of the ribbon becoming slack)." Id. col.19	5.629462974391799
+	When an external torque (resulting from tension in the print ribbon) is applied to the spools, these electromagnetic forces create an opposing torque to keep the motor in its current angular position, thereby maintaining tension in the print ribbon.	5.478995829914422
+	two motors, at least one of which is a stepper motor; two tape spool supports on which spools of tape are mounted, each spool being driveable by a respective one of said motors; a controller adapted to control energization of said two motors such that tape is transported in at least one direction between spools of tape mounted on the spool supports; wherein the controller energizes both said motors to drive the spools in a tape transport direction, and said controller calculates a length of tape to be added to or subtracted from tape extending between said spools in order to maintain tension in said tape between predetermined limit values and controls said motors to drive the spools to add or subtract the calculated length of tape to or from the tape extending between said spools.	5.466608057489055
+	The Court of Appeals held that term "drive the spools" meant application of torque to the spools, whether the torque causes rotation or resists it.	5.401496296234304
+	In another prior apparatus, a motor coupled to the supply spool "acts as a feedback transducer to enable appropriate control of the motor driving the take-up spool to take account of changing spool diameters while maintaining a constant ribbon speed".	5.216756148279619
+	The district court acknowledged that the ordinary meaning of "drive" can be broad enough to encompass not only the rotation of the spools but also application of a holding torque that prevents the spool from rotating.	5.021312704048794
+	said spools in order to maintain tension in said tape between predetermined limit values".	4.960207326973639
+	The ï¿½ï¿½572 patent is directed to an improvement in controlling the movement and tension of the ribbon.	4.8634467707316755
+	The district court explained in its reconsideration opinion that the use of the plural word "spools" in the claim clause "to drive the spools to add or subtract the calculated length of tape" means that both spools must rotate.	4.724281888549043
+	The ï¿½ï¿½572 patent describes optically monitoring the radii of the spools and using the data "to calculate the step rate and the number of steps required by each motor to drive the spools in an appropriate manner so as to feed the ribbon a predetermined distance".	4.507855539757518
+	In accordance with the "push-pull" mode of the ï¿½ï¿½572 patent, both the take-up spool and the supply spool are driven to particular angular positions by stepper motors that receive commands from a microcontroller.	4.474025672102056
+	The term "drive" is used throughout the specification in connection with the motor control of the spools.	4.4311432223730804
+	The district court pointed to a passage in the specification which states that prior art devices "drive only the spool onto which ribbon is taken up," ï¿½ï¿½572 patent col.1 ll.37-38, suggesting that a supply spool controlled by a slipping clutch is not driven.	4.381545909207984
+	Zipher argues that the district court erred in limiting the claim phrase "drive the spools" to mean "rotate the spools".	4.359212950643241
+	If the derived value of t is too high (above a predetermined limit), then a small step adjustment can be made to either or both of the motors to add a short section of ribbon to the length of ribbon between the spools.	4.349644980681006
+	The court further explained that both spools must rotate to add or subtract a single calculated length of tape.	4.297600622236829
+	All that the cited passage suggests is that a de-energized motor that does not provide drag is not driving a spool.	4.275591283380434
+	In transfer printing, ink is carried by a ribbon that is moved into contact with the substrate to be printed, and a print head impresses upon the ribbon and causes the ink to transfer from the ribbon to the substrate.	4.244943106386077
+	The examiner's amendment accords with the ï¿½ï¿½572 patent's requirement that the motors apply torque to the spools, whether the torque causes rotation or resists it.	4.23188815832067
+	Some rely upon stepper motors, others on DC motors to directly or indirectly drive the spools.	4.223194474534855
+	The district court acknowledged that "drive" can include the application of torque, and the specification uses "drive" to encompass both rotation and torque applied to the spools.	4.158819976777755
+	Thus, according to Markem, "drive" requires that the spool "rotate," for example in the claim clause "controls said motors to drive the spools to add or subtract the calculated length of tape".	4.1414427511097225
+	The specification does not support the district court's conclusion that to "drive" the spools means only to provide rotational torque.	3.948041968433914
+	The court declined to view the claim clause "each spool being driveable by a respective one of said motors" to include driving to control tape movement or torque.	3.9223293952356943
+	The court concluded that "the fact that only the take-up spool is described as being 'driven' suggests that driving a spool means actively rotating it, not passively or indirectly controlling its motion".	3.918621332940402
+	The district court concluded that "drive" cannot mean "apply torque" or else the specification would not have stated that "only" the supply spool is driven.	3.8798216753225856
+	The push-pull limitation requires the controller to energize both motors to drive the spools.	3.704158137746186
+	Examples of conventional clutch or drag-type drive mechanisms are discussed in the ï¿½ï¿½572 patent, including mechanisms in which, instead of a slipping clutch, a motor connected to the supply spool supplies a resistive force to provide ribbon tension.	3.6830652089749703
+	Although the claim does not explicitly include terms for measuring tension, the specification describes as the invention the maintaining of the ribbon tension (t) within a predetermined amount, and "mathematical processing" whereby the "addition or removal of ribbon maintains ribbon tension within acceptable limits".	3.6712725365043934
+	Markem's expert witness, Peter Landers, agreed with Zipher's expert that when power is applied to a stepper motor it is held in position so that even when the spool of the printer is not rotating it will "hold the [ribbon] tension to the level it was set before".	3.489221568088132
+	The district court's construction that "drive" requires that the supply spool must always rotate to control the tension is incorrect.	3.4430199679023903
+	The ï¿½ï¿½572 patent explains that prior art transfer printers rely upon a wide range of different approaches to the problem of how to drive the ribbon spools.	3.3899610470636725
+	The ï¿½ï¿½572 patent states that if motor 92 is pulling, the drive circuit 108 for that motor is enabled and therefore the rotation angle for the spool being driven (94) is known.	3.3395399369308296
+	It is clear that in the configuration of Barrus et al the controller does not energize both motors to push-pull drive the spools of tape.	3.334506792873063
+	Zipher's expert witness, Professor Kuc, explained that an advantage of a stepper motor is that "when it's still, it's got a holding torque to keep the ribbon in place".	3.2983310792177343
+	The ï¿½ï¿½572 patent describes its method of estimating ribbon tension (t ), and explains how tension is maintained within predetermined limits:	3.2342246706247257
+	The ï¿½ï¿½572 patent distinguishes this prior apparatus from what the ï¿½ï¿½572 patent calls the "push-pull" mechanism of the ï¿½ï¿½572 apparatus, explaining that although this [prior art] arrangement does avoid the need for example of a capstan drive interposed between the two spools so as to achieve reliable ribbon delivery speeds, only one of the motors is driven to deliver torque to assist ribbon transport.	3.19014380653873
+	The patent specification explains the problems with the "slipping clutch" that has been used to provide ribbon tension in prior art printers.	3.123595406492545
+	Thus the court concluded that the patentee intended a narrow interpretation of "drive" in the claim, excluding the role of applying torque to a spool to hold it in place.	3.110822171151518
+	If the motor's maximum holding torque is exceeded by the external torque, the motor shaft will rotate; thus "holding torque" also specifies the minimum amount of external torque needed to rotate the shaft of a stepper motor commanded to hold steady in its current position.	2.9293115828769873
+	A tape drive comprising:	2.8751363419551335
+	The district court observed that "most of the references to driving the spools in the specification could accommodate either proposed construction;" that is, "drive" could mean applying only rotational torque, or it could also include application of a holding torque.	2.8620399013827993
+	However, the cited passage in the specification does not limit "driving" to rotation, or negate the substance of the invention, which requires that separate motors control the movement of the spools as appropriate to provide torque and tension.	2.765602343510327
+	The patent states that such dynamically changing ribbon tension requires tight tolerances in clutch force, which is difficult to maintain because wear in the clutch tends to change the resistive force of the clutch.	2.720523005571697
+	The holding torque results from the electromagnetic attraction between poles of the rotor and poles of the stator in an energized stepper motor at rest.	2.613774360246369
+	col.22	2.5999988838549695
+	The examiner had found that claim 68 contained allowable subject matter because the prior art did not teach a tape drive that maintains tape tension "between upper and lower limit values and then controls the motors to add or subtract the calculated length of tape to the tape extending between the spools".	2.4187327762291955
+	However, the court found that other usages in the specification support limiting "drive" to mean only the narrower "rotate" and concluded that "when the specification uses 'drive' to refer to the spools, it supports Markem's narrower construction of rotating the spools rather than merely controlling them".	2.4096145276574874
+	Based on the district court's ruling that the term "drive" in the ï¿½ï¿½572 claims requires that both spools are rotated together to adjust the tape, the court granted summary judgment of non-infringement.	2.3561808597976626
+	The district court reasoned that giving "drive" a meaning broader than "rotation" in the final clause of the claim (the tension control clause) would be contradictory to the meaning of "drive" in the tape transport clause, which states that "the controller energizes both said motors to drive the spools in a tape transport direction".	2.2791551554386884
+	On our holding that "drive" is properly construed to mean the application of torque to the spools, whether the torque causes rotation or resists it, we vacate the judgment of non-infringement, and remand for determination of infringement on the corrected claim constructions.	2.2638863464084387
+	See Barrus col.4 ll.5-15.	2.2010311429905394
+	Zipher argues that this construction would exclude the holding torque function that is necessary to accomplish the tension correction described in the specification, see ï¿½ï¿½572 patent col.22 ll.17-19 (stating that if tension is too high "a small step adjustment can be made to either or both of the motors to add a short section of ribbon").	2.164613628231761
+	The district court discussed that the claim that became claim 1 of the patent (claim 68 of the application) was initially dependent on claims 64 and 65 of the application, which recited that the controller energized the motors "so as to push-pull drive the spools in a tape transport direction".	2.1468536656761725
+	This active energization of the ï¿½ï¿½572 patent's motors is distinct from Barrus, where passive resistive torque is created by lowering the resistance in the output circuit of a motor acting as a generator.	2.0261177056000585
+	The specification states that "a measure of tape tension may be calculated by reference to a measure of motor step rate, the calibration data related to the step rate, and the power consumed by the motor," and further, that a "measure of tension t may be calculated from the measures of power supplied to the two motors, measures of the spool radii, calibration factors for the two motors related to the step rate of the motors".	1.972072970271841
+	We discern no indication that the added phrase "to drive the spools" in the examiner's amendment was intended or understood to limit "drive" to "rotate," for that was not an issue of examination.	1.805260033088281
+	Simply put, the printer must be able to measure tension so that the controller can "calculate a length of tape to be added to or subtracted from tape extending between	1.7555374006813167
+	The applicant then rewrote claim 68 in independent form with some modifications including deletion of the "push-pull" term, and the examiner added an amendment in which "controls said motors to add or subtract the calculated length of tape" was changed to "controls said motors to drive the spools to add or subtract the calculated length of tape".	1.740054475058663
+	The patent states: "Given these constraints, typical printer designs have compromised performance by way of limiting the rate of acceleration, the rate of deceleration, and the maximum speed capability of the ribbon transport system.	1.5359925582005052
+	The ï¿½ï¿½572 patent is directed to a heat transfer printing apparatus that provides increased control over the acceleration, deceleration, speed, and positional accuracy of the printing operation, while minimizing waste of unused portions of the ink ribbon.	1.515580698842154
+	The district court determined that because the claim clause "controls said motors to drive the spools" already used the word "control," the patentee could not have intended "control" and "drive" to mean the same thing.	1.497183430534316
+	The court reasoned that "without having a reasonable estimate of the current tape tension, it is not possible to identify whether the tension is approaching or exceeding the limit values".	1.3176393844394658
+	As described in the ï¿½ï¿½572 patent, stepper motors rotate by selectively energizing electromagnets around the outside of the motor, referred to as the "stator," to interact with permanent magnets or electromagnets on the shaft or "rotor" of the motor.	1.2979924664623606
+	Claim 1, the broadest claim of the ï¿½ï¿½572 patent, is directed to a tape drive that corrects tension divergences from the predetermined limit in this manner:	1.2949513350018456
+	Rather, Zipher had distinguished Barrus as regulating tension by varying drag applied by a motor acting as a generator, and the examiner's amendment reflects that distinction.	1.230350415799593
+	In contrast to claim 64, Barrus et al energize one motor and de-energize the other motor for a pull-drag drive operation....	1.2183337231994886
+	As the district court reasoned, "without having a reasonable estimate of the current tape tension, it is not possible to identify whether the tension is approaching or exceeding the limit values".	1.1789405767114516
+	Id. col.22 ll.16-42.	1.1558525964727455
+	ll.38-41.	1.0003438390990471
+	Appl.	1.0003438390990471
+	Appl.	1.0003438390990471
+	ll.38-42.	1.0003438390990471
+	Thus motor 93 acts as a generator and a back-emf is generated across each of the motor windings 97 to 100.	0.9838923279514697
+	Markem-Imaje, 2010 WL 114947, at *1.	0.8698023436323445
+	See Topliff v. Topliff, 145 U.S. 156, 171,	0.8671099052001447
+	The drive circuit for the motor being pulled (93) is disabled (line 104 low).	0.8557698786871801
+	Unlike DC (direct current) motors, which are analog devices that simply rotate when power is supplied, stepper motors have discrete angular positions or "steps" and can be forced or driven to stay in particular step positions.	0.8494912660740275
+	The district court declined this request, but stated that "some method of deriving a tension measurement, whether directly or indirectly, is a necessary predicate to maintaining tension 'between predetermined limit values.' "	0.8330977339564459
+	Zipher argues that the claim does not explicitly recite measuring tension, and that construing the claims to require tension measurement would import a limitation into the claims from the specification and violate the mandate of Rambus Inc. v. Infineon Tech.	0.7979582458155773
+	I would, however, affirm the district court's finding that "some method of deriving a tension measurement, whether directly or indirectly, is a necessary predicate to maintaining tension 'between predetermined values.' "	0.7911742711581231
+	The district court also cited a passage where "the specification describes a circumstance in which the take-up motor is energized to rotate and the supply motor is de-energized".	0.7839532805152822
+	Claims 64 and 65 were rejected during prosecution as anticipated by U.S. Patent No. 5,366,303 ("Barrus").	0.7568297582025129
+	Markem had asked the district court to hold that "using a contactless means of tension measurement that occurs during the rotation of both motors is a necessary and inherent aspect of such measurement because the specification does not describe any other method of such measurement".	0.7551420497495642
+	Zipher points out that the motor functions in the specification "include [ ] rotating, holding steady, stopping, accelerating, decelerating, and all the other drive functions the motors perform," Zipher Br. 44.	0.7432323237563006
+	The patent states that "It will be appreciated that maintaining adequate tension is an essential requirement for proper functioning of the printer".	0.7069928193632616
+	col.20	0.6973313236062461
+	Col.20	0.6973313236062461
+	As the district court found, "some method of deriving a tension measurement, whether directly or indirectly" is required.	0.6849879832111486
+	Zipher also appeals the district court's construction that the claims require "some method of deriving a tension measurement," Markem, 2008 WL 4116666, at *12.	0.658025359997305
+	We therefore reverse the district court's determination that the claims require "some method of deriving a tension measurement".	0.6575193073559843
+	Thus while the invention is flexible as to how tension is measured, and permits measurement through indirect methods, some method of measurement is contemplated and required, as found by the trial court.	0.5401005477392208
+	ll.32-38.	0.500428155208879
+	2008 WL 4116666, (D.N.H. Aug. 28, 2008).	0.4674418973243903
+	Thus, though "some method of deriving a tension measurement" may be required to make a claimed device operational, it is not proper to incorporate that method into the claim construction.	0.44579404692539903
+	Zipher argues that "drive" in this phrase has the inclusive meaning of not only rotate but also "hold steady in a commanded position".	0.4028546784970184
+	Following a claim construction hearing, the district court construed "driveable" and "drive" to mean "rotateable" and "rotate," as proposed by Markem, rejecting Zipher's broader construction.	0.38581104588862764
+	My colleagues' reliance on the "mandate" of Rambus Inc. v. Infineon Tech.	0.37291198275107895
+	Id. col.1 ll.44-46.	0.32207067722013155
+	In thermal transfer printing, the print head is heated, facilitating transfer and adherence of the ink to the substrate.	0.3115454460112588
+	Zipher argues that the term "drive" has a meaning similar to that of "control," and is not limited to rotation motion.	0.3062419820440644
+	Thermal transfer printers are used for such tasks as printing on plastic packaging and other surfaces to which ink does not readily adhere.	0.30060830262568977
+	2008 WL 4116666 (D.N.H. Aug. 28, 2008) (claim construction).	0.28064778169335314
+	Overall printer performance has as a result been compromised".	0.2693857088185187
+	THE PATENTED INVENTION	0.250444593776465
+	ï¿½ï¿½572 patent col.23	0.2502140776044395
+¡°	The ï¿½ï¿½572 patent, entitled "Tape Drive and Printing Apparatus," describes and claims a device for transfer printing.	0.23102117873099265
+	All Citations 657 F.3d 1293, 100 U.S.P.Q.2d 1068 Footnotes Markem-Imaje Corp. v. Zipher Ltd., No. 07-CV-06, 2010 WL 114947 (D.N.H. Jan. 12, 2010) (final judgment); Markem Corp. v. Zipher, Ltd., 2009 WL 2855011 (D.N.H. Sept. 1, 2009) (claim construction reconsideration);	0.22794799209921182
+	Id. col.1 l.66-col.2 l.4.	0.21586133877505526
+	ll.35-40.	0.21021530447734466
+	ll.19-22, 30-34.	0.21021530447734466
+	In systems where the thermal printing is part of a mechanized and automated process, the printing step must keep pace with the production line, with minimal down time.	0.20084882806415802
+	ll.25-28.	0.14484363176369744
+	See, e.g., Honeywell Int'l Inc. v. Universal Avionics Sys. Corp., 488 F.3d 982, 990 (Fed.Cir.2007) (construing the claim term "look ahead distance" to include a time limitation because "time is inherent in the calculation of 'look ahead distance,' " as shown by the specification); Network Commerce, Inc. v. Microsoft Corp., 422 F.3d 1353, 1360 (Fed.Cir.2005) (limiting the term "download component" to a component capable of performing certain functions, based on the consistent usage in the specification).	0.10337464445746251
+	ï¿½ï¿½572 patent col.1 ll.33-44.	0.10295614352482424
+	Id. col.2 ll.39-42.	0.09635508234650643
+	No. 10/380,182, Examiner's Interview Summary (Sept. 7, 2006) (J.A. 1019).	0.09006907423135808
+	See On Demand Mach. Corp. v. Ingram Indus	0.08377226754138878
+	The claims cannot transcend the invention that entitles the inventor to a patent.	0.08341451992986691
+	In Rambus, the district court interpreted claim language requiring a response to a "read request" to mean that the "read request" must include address and control information.	0.07978121696621887
+	AG, 318 F.3d 1081 (Fed.Cir.2003), is misguided, as "all rules of construction must be understood in terms of the factual settings that produced them, and applied in fidelity to their origins".	0.07956418148021505
+	We agree that "drive" need not be narrowly construed merely because a broader construction would make it similar to the word "control" that is also used in the claim.	0.07771520300061129
+	This court has no authority to enlarge the scope of the patent beyond what the patentee described as its invention, notwithstanding my colleagues' curious analogy to a car and its tailpipe.	0.06937733448083976
+	Hearing Tr.	0.06786124126763529
+	Hearing Tr.	0.06786124126763529
+	I concur in Part	0.0670765360909082
+	A claim to an engine providing motive power to a car should not be construed to incorporate a limitation for an exhaust pipe, though an engine may not function without one.	0.061523344338352805
+	Id. at col.5	0.05350671484528589
+	Competitor brought action against patentee, seeking a declaration that its product did not infringe a patent claiming a device for transfer printing.	0.05271967048946977
+	See Bass Pro Trademarks v. Cabela's Inc., 485 F.3d 1364, 1369 (Fed.Cir.2007) ("Claims are construed to implement the invention described in the specification".).	0.05070461259118187
+	See Retractable Techs., Inc. v. Becton, Dickinson & Co., 653 F.3d 1296, 1305 (Fed.Cir.2011) ("In reviewing the intrinsic record to construe the claims, we strive to capture the scope of the actual invention, rather than ... allow the claim language to become divorced from what the specification conveys is the invention".).	0.05009322613651756
+	Maj.	0.04838007978229838
+	Accordingly, I respectfully dissent from Part II of the court's decision.	0.02806058232634687
+	Claim construction receives plenary review on appeal.	0.027783618282411274
+	708, 15 L.Ed.2d 572 (1966), and as stated by Judge Rich for this court, "the descriptive part of the specification aids in ascertaining the scope and meaning of the claims inasmuch as the words of the claims must be based on the description.	0.02398375635998171
+	The panel majority's contrary result ignores the paramount importance of the specification in claim construction.	0.023779495485999787
+	The grant of summary judgment also receives plenary review.	0.02370633876469614
+	This court reversed, holding that the district court's construction conflicted with the specification, which indicated that the address and control information were part of the request packet, not the read request.	0.02213369048917229
+	The United States District Court for the District of New Hampshire, Paul J. Barbadoro, J., entered summary judgment for competitor, and patentee appealed.	0.02208904708075495
+	In traversing this rejection, the applicant stated:	0.01883951767886003
+	NEWMAN, Circuit Judge, dissenting.	0.01722999834846294
+	Such an arrangement is not provided in the prior devices, and is described as solving various problems encountered with prior devices.	0.014454104886349066
+	Cyanamid Co., 774 F.2d 448, 452 (Fed.Cir.1985).	0.011971450240573866
+	No. 10/380,182, Amendment dated July 6, 2006, at 11 (J.A. 995).	0.011495355455505759
+	The district court concluded that the prosecution history "does not cut strongly in either direction".	0.011266730652630829
+	658 (1892) ("The object of the patent law is to secure to inventors a monopoly of what they have actually invented or discovered....").	0.01028661465286589
+	AG that "the claims need not recite every component necessary to enable operation of a working device".	0.010281243185025423
+	From my colleagues' flawed view of the law of claim construction, and their reversal of the trial court's correct and well reasoned construction, I respectfully dissent.	0.009418058978425735
+	40:21-23 (J.A. 340).	0.007780647548345524
+	21:6-23:1 (J.A. 321-23).	0.007780647548345524
+	Claims do not stand alone, but rather, are part of a "fully integrated written instrument," consisting of a specification that concludes with claims.	0.007561681868915943
+	As recognized by the Supreme Court, it "is fundamental that claims are to be construed in light of the specifications and both are to be read with a view to ascertaining the invention," United States v. Adams, 383 U.S. 39, 49,	0.006930650117833289
+	1339-40 (Fed.Cir.2006) ("In general, the scope and outer boundary of claims is set by the patentee's description of his invention". (citing Phillips, 415 F.3d at 1313-14)).	0.006373217481106755
+	Markem, 2008 WL 4116666, at *11.	0.005384877436214696
+	Markem, 2009 WL 2855011, at *1.	0.005384877436214696
+	See Markem, 2008 WL 4116666, at *6.	0.005384877436214696
+	Markem, 2008 WL 4116666, at *6.	0.005384877436214696
+	Markem, 2008 WL 4116666, at *11.	0.005384877436214696
+	Markem, 2008 WL 4116666, at *12.	0.005384877436214696
+	Markem stresses that "claim terms are normally used consistently throughout the patent," Phillips v. AWH Corp., 415 F.3d 1303, 1314 (Fed.Cir.2005) (en banc), and that "a claim term should be construed consistently with its appearance in other places in the same claim or in other claims of the same patent".	0.005352711730157399
+	Standard Oil Co. v. Am.	0.003249305300984736
+	Op.	0.0032384249297352295
+	Where the specification clearly and consistently sets the scope of a disputed claim, that scope governs the construction of the claim.	0.003210649720082882
+	Markem, 2008 WL 4116666, at & n. 4.	0.003201947576173435
+	The specification "is the single best guide to the meaning of a disputed term," Phillips, 415 F.3d at 1315 (quoting Vitronics Corp. v. Conceptronic, 90 F.3d 1576, 1582 (Fed.Cir.1996)), for the specification shows what the inventor actually invented.	0.0031031979593233996
+	Nothing in the specification or the overall invention as presented in the claim and as argued to the patent examiner requires the narrow construction.	0.0029485070299221598
+	The examiner's Summary states that the added language "more clearly defines the scope of claim 68".	0.002389028346593063
+	The operation of Markem's accused devices was not disputed, as the district court explained:	0.0016468408417445477
+	Phillips v. AWH Corp., 415 F.3d 1303, 1315 (Fed.Cir.2005) (en banc) (quoting Markman v. Westview Instruments, Inc., 52 F.3d 967, 978 (Fed.Cir.1995) (en banc)).	0.0013708924183932839
+	That a device will only operate if certain elements are included is not grounds to incorporate those elements into the construction of the claims.	0.0013264236577066172
+	318 F.3d 1081, 1093 (Fed.Cir.2003)	0.001195121680417953
+	Modine Mfg. Co. v. Int'l Trade Comm'n, 75 F.3d 1545, 1551 (Fed.Cir.1996).	0.0010239846656736778
+	825, 36 L.Ed.	0.0010217505915196894
+	Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc).	0.0009378225903344374
+	By contrast, in this case the specification fully supports the district court's construction.	0.0009001725648548552
+	Id. at & n. 8.	0.0005119010738135054
+	The specification is, thus, the primary basis for construing the claims".	0.00041632434902681665
+	Id. (quoting Rexnord Corp. v. Laitram Corp., 274 F.3d 1336, 1342 (Fed.Cir.2001)).	0.0002920912091197418
+	Where a limitation is placed in a claim by the specification, the claim must be construed to include the limitation.	0.00019875582588430317
+	Zipher appeals, stating that the judgment was based on an erroneous claim construction.	0.00015936554282820498
+	Both parties argue that the prosecution history favors their position.	0.00010751900990211295
+	Background:	8.324081408611229e-05
+	Markem Corp. v. Zipher Ltd.,	1.9141355646003263e-05
+	Id.	4.784431494836632e-06
+	Id.	4.784431494836632e-06
+	Id. at *6.	4.784431494836632e-06
+	Id. at *7.	4.784431494836632e-06
+	Id.	4.784431494836632e-06
+	Id.	4.784431494836632e-06
+	Id.	4.784431494836632e-06
+	Id.	4.784431494836632e-06
+	We agree with Zipher.	3.4362059637170324e-06
+	318 F.3d at 1091-93.	3.232655831093911e-06
+	86 S.Ct.	2.9708525258429725e-06
+	12 S.Ct.	2.9708525258429725e-06
+	., Inc., 442 F.3d 1331,	1.6163279155469555e-06
+	I of the court's decision.	1.5279843618223205e-06
+	U.S. Patent No. 7,150,572,	3.5909989709002325e-09
+	1.	0.0
+	.	0.0
+	at 1300-01.	0.0
+	ï¿½ï¿½572 patent, claim 1.	0.0

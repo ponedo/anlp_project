@@ -1,0 +1,147 @@
+('839_F.3d_1111', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('MASSACHUSETTS', 'NNP', 'ORG', 'B') ('INSTITUTE', 'NNP', 'ORG', 'I') ('OF', 'IN', 'ORG', 'I') ('TECHNOLOGY', 'NNP', 'ORG', 'I') ('Children', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('Medical_Center_Corporation', 'NN', '', 'O') ('Plaintiffs-Appellees', 'NNS', '', 'O')
+MASSACHUSETTS INSTITUTE OF TECHNOLOGY Children 's
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('SHIRE', 'NNP', 'ORG', 'B') ('PHARMACEUTICALS', 'NNP', 'ORG', 'I') ('INC.', 'NN', 'ORG', 'I') ('NKA', 'NNP', '', 'O') ('Shire', 'NNP', '', 'O') ('Pharmaceuticals', 'NNPS', '', 'O') ('LLC', 'NNP', '', 'O') ('Shire_Regenerative_Medicine', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+SHIRE PHARMACEUTICALS INC.
+__NEW_SENT__
+('2015-1881', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('October', 'NNP', 'DATE', 'B') ('13', 'CD', 'DATE', 'I') ('2016', 'CD', 'DATE', 'I')
+October 13 2016
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patent', 'NN', '', 'O') ('assignees', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('three-dimensional_scaffolding', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('growing', 'VBG', '', 'O') ('cells', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('vitro', 'NN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('organ_tissue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('vivo', 'NNS', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Massachusetts', 'NNP', 'GPE', 'I') ('Mark', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Wolf', 'NNP', 'PERSON', 'I') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('construed', 'VBD', '', 'O') ('specific', 'JJ', '', 'O') ('terms', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('infringement', 'NN', '', 'O')
+United_States_District_Court the District of Massachusetts Mark L. Wolf
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Stoll', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Stoll Circuit_Judge
+__NEW_SENT__
+('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unmistakable_disclaimer', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('including', 'VBG', '', 'O') ('skin', 'NN', '', 'O') ('in', 'IN', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('vascularized_organ_tissue', 'ADD', '', 'O') ("''", "''", '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unmistakable_disclaimer', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('preclude', 'VB', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('cells', 'NNS', '', 'O') ('derived', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vascularized_tissue', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('both', 'DT', '', 'O') ('parenchymal', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('non-parenchymal', 'JJ', '', 'O') ('cells', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('three-dimensional_scaffold', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('indefinite', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('ordinary', 'JJ', '', 'O') ('meaning', 'NN', '', 'O') ('meant', 'VBD', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('supporting', 'VBG', '', 'O') ('structure', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('allows', 'VBZ', '', 'O') ('cells', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('attach', 'VB', '', 'O') ('along', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('width', 'JJ', '', 'O') ('length', 'NN', '', 'O') ('and', 'CC', '', 'O') ('height', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+("O'Malley", 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('concurring', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+O'Malley Circuit_Judge
+__NEW_SENT__
+('*1113', 'VB', '', 'O') ('Appeal', 'VB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Massachusetts', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('No._1', 'NNP', '', 'O') (':13-cv-10020-MLW', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Wolf', 'NNP', 'PERSON', 'I')
+United_States_District_Court the District of Massachusetts Mark L. Wolf
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('DARYL', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('WIESEN', 'NNP', 'PERSON', 'I') ('Goodwin', 'NNP', '', 'O') ('Procter', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('MA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+DARYL L. WIESEN Boston MA
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('KEVIN', 'NNP', 'ORG', 'B') ('PAUL', 'NNP', 'ORG', 'I') ('MARTIN', 'NNS', 'ORG', 'I')
+KEVIN PAUL MARTIN
+__NEW_SENT__
+('SANDRA', 'NNP', '', 'O') ('KUZMICH', 'NNP', '', 'O') ('Frommer', 'NNP', '', 'O') ('Lawrence', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Haug', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+New York
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('EDGAR', 'NNP', 'ORG', 'B') ('HAUG', 'NNP', 'ORG', 'I') ('LAURA', 'NNP', 'ORG', 'I') ('ANN', 'NNP', '', 'O') ('FANELLI', 'NNP', '', 'O') ('RUSSELL', 'VBZ', '', 'O') ('ALAN', 'NNP', 'PERSON', 'B') ('GARMAN', 'NNP', 'PERSON', 'I') ('JONATHAN', 'NNP', 'PERSON', 'I') ('HERSTOFF', 'NNP', 'PERSON', 'I')
+EDGAR HAUG LAURA ALAN GARMAN JONATHAN HERSTOFF
+__NEW_SENT__
+('Before', 'IN', '', 'O') ("O'Malley", 'NNP', 'PERSON', 'B') ('Chen', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Stoll', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+O'Malley Chen
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Concurring', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', 'ORG', 'B') ("O'Malley", 'NNP', 'ORG', 'I')
+Circuit_Judge O'Malley
+__NEW_SENT__
+('Stoll', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Massachusetts', 'NNP', 'ORG', 'B') ('Institute', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Technology', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Children', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Medical_Center_Corporation', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('MIT', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Shire', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Shire_Regenerative_Medicine', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Shire', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('Nos._5770', 'NNP', '', 'O') ('193_and_5759,830', 'CD', '', 'O')
+Massachusetts Institute of Technology MIT Shire Pharmaceuticals Inc. Shire_Regenerative_Medicine Inc. Shire U.S.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('193', 'CD', '', 'O') ('and', 'CC', '', 'O') ('¡¬830_patent', 'NNP', '', 'O') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('three-dimensional_scaffolding', 'VBG', '', 'O') ('for', 'IN', '', 'O') ('growing', 'VBG', '', 'O') ('cells', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('vitro', 'NN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('organ_tissue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('vivo', 'NNS', '', 'O')
+¡¬
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('vascularized_organ_tissue', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('cells', 'NNS', '', 'O') ('derived', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vascularized_tissue', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('determination', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('three-dimensional_scaffold', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('indefinite', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('stipulated', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('below', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('field', 'NN', '', 'O') ('of', 'IN', '', 'O') ('organ', 'NN', '', 'O') ('transplantation', 'NN', '', 'O') ('surgeons', 'NNS', '', 'O') ('face', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('challenge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('donor', 'NN', '', 'O') ('scarcity', 'NN', '', 'O') ('in', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('technical', 'JJ', '', 'O') ('complexity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('transplanting', 'VBG', '', 'O') ('whole', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('segmented', 'JJ', '', 'O') ('organs', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('organ', 'NN', '', 'O') ('recipients', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Given', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('limited', 'JJ', '', 'O') ('availability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('implantable', 'JJ', '', 'O') ('organs', 'NNS', '', 'O') ('scientists', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('developed', 'VBN', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('growing', 'VBG', '', 'O') ('artificial', 'JJ', '', 'O') ('organ_tissue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('vitro1', 'NN', '', 'O') ('by', 'IN', '', 'O') ('seeding', 'VBG', '', 'O') ('cells', 'NNS', '', 'O') ('onto', 'IN', '', 'O') ('support', 'NN', '', 'O') ('structures', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('scaffolds', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('matrices', 'NNS', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('scaffolds', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('engineered', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('cells', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('attach', 'VB', '', 'O') ('and', 'CC', '', 'O') ('grow', 'VB', '', 'O') ('while', 'IN', '', 'O') ('enabling', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('diffusion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('vital', 'JJ', '', 'O') ('cell', 'NN', '', 'O') ('nutrients', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cells', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('contribute', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('growth', 'NN', '', 'O') ('of', 'IN', '', 'O') ('new', 'JJ', '', 'O') ('functional', 'JJ', '', 'O') ('tissue', 'NN', '', 'O')
+
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('scientists', 'NNS', '', 'O') ('created', 'VBD', '', 'O') ('organ_tissue', 'NN', '', 'O') ('with', 'IN', '', 'O') ('scaffolds', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('either', 'DT', '', 'O') ('``', '``', '', 'O') ('permanent', 'JJ', '', 'O') ("''", "''", '', 'O') ('synthetic', 'JJ', '', 'O') ('polymers', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('biodegradable', 'VB', '', 'O') ('non-synthetic', 'JJ', '', 'O') ('materials', 'NNS', '', 'O') ('like', 'IN', '', 'O') ('collagen', 'NN', '', 'O')
+
+__NEW_SENT__
+('Preferably', 'RB', '', 'O') ('these', 'DT', '', 'O') ('scaffolds', 'NNS', '', 'O') ('eventually', 'RB', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('absorbed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('leaving', 'VBG', '', 'O') ('behind', 'IN', '', 'O') ('the', 'DT', '', 'O') ('newly', 'RB', '', 'O') ('formed', 'VBN', '', 'O') ('tissue', 'NN', '', 'O')
+
+__NEW_SENT__
+('With', 'IN', '', 'O') ('the', 'DT', '', 'O') ('former', 'JJ', '', 'O') ('method', 'NN', '', 'O') ('however', 'RB', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('permanent', 'JJ', '', 'O') ("''", "''", '', 'O') ('synthetic', 'JJ', '', 'O') ('matrix', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('absorbed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O')
+
+__NEW_SENT__
+('Drawbacks', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('latter', 'JJ', '', 'O') ('collagen-based', 'JJ', '', 'O') ('matrix', 'NN', '', 'O') ('included', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('inability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('control', 'VB', '', 'O') ('the', 'DT', '', 'O') ('collagen', 'NN', '', 'O') ('structure', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('configuration', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('variable', 'JJ', '', 'O') ('absorption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('collagen', 'NN', '', 'O') ('matrix', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('surrounding', 'VBG', '', 'O') ('tissue', 'NN', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('generally', 'RB', '', 'O') ('understood', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('in', 'IN', '', 'O') ('engineering', 'VBG', '', 'O') ('thick', 'JJ', '', 'O') ('organs', 'NNS', '', 'O') ('like', 'IN', '', 'O') ('a', 'DT', '', 'O') ('liver', 'NN', '', 'O') ('or', 'CC', '', 'O') ('pancreas', 'VB', '', 'O') ('the', 'DT', '', 'O') ('cells', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('center', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('*1114', 'RB', '', 'O') ('artificial', 'JJ', '', 'O') ('structure', 'NN', '', 'O') ('tended', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('die', 'VB', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cell', 'NN', '', 'O') ('density', 'NN', '', 'O') ('increased', 'VBD', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('was', 'VBD', '', 'O') ('due', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decreased', 'VBN', '', 'O') ('diffusion', 'NN', '', 'O') ('rate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('oxygen', 'NN', '', 'O') ('and', 'CC', '', 'O') ('nutrients', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inner', 'JJ', '', 'O') ('cells', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('center', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('growing', 'VBG', '', 'O') ('structure', 'NN', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('prior_art_methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('tissue', 'NN', '', 'O') ('engineering', 'NN', '', 'O') ('therefore', 'RB', '', 'O') ('were', 'VBD', '', 'O') ('primarily', 'RB', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('thinner', 'JJR', '', 'O') ('organs', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('artificial_skin', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('face', 'NN', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('challenges', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬193', 'NN', 'GPE', 'B') ('and', 'CC', '', 'O') ('¡¬830_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('Drs', 'NNP', '', 'O')
+¡¬193
+__NEW_SENT__
+('Vacanti', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Langer', 'NNP', 'PERSON', 'B') ('developed', 'VBD', '', 'O') ('biodegradable', 'JJ', '', 'O') ('synthetic', 'JJ', '', 'O') ('matrices', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('provide', 'VBP', '', 'O') ('support', 'NN', '', 'O') ('for', 'IN', '', 'O') ('cell', 'NN', '', 'O') ('growth', 'NN', '', 'O') ('and', 'CC', '', 'O') ('enhance', 'VB', '', 'O') ('the', 'DT', '', 'O') ('formation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('blood_vessels', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('i.e.', 'FW', '', 'O') ('vascularization', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('growing', 'VBG', '', 'O') ('cell', 'NN', '', 'O') ('mass', 'NN', '', 'O') ('after', 'IN', '', 'O') ('implantation', 'NN', '', 'O')
+Vacanti Langer
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specifications', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬193', 'NN', 'GPE', 'B') ('and', 'CC', '', 'O') ('¡¬830_patent', 'NNP', '', 'O') ('s', 'POS', '', 'O') ('state', 'NN', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('he', 'PRP', '', 'O') ('design', 'NN', '', 'O') ('and', 'CC', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scaffolding', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('primary', 'JJ', '', 'O') ('importance', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scaffolding', 'NN', '', 'O') ('must', 'MD', '', 'O') ('be', 'VB', '', 'O') ('``', '``', '', 'O') ('shaped', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('maximize', 'VB', '', 'O') ('surface', 'NN', '', 'O') ('area', 'NN', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('adequate', 'JJ', '', 'O') ('diffusion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nutrients', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('growth', 'NN', '', 'O') ('factors', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cells', 'NNS', '', 'O') ("''", "''", '', 'O')
+¡¬193
+__NEW_SENT__
+('¡¬193_patent_col.', 'NNP', '', 'O') ('6_ll._25', 'NNP', '', 'O') ('-27', 'HYPH', '', 'O') (';', ':', '', 'O') ('¡¬830_patent', 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('10_ll._12', 'CD', '', 'O') ('-15', ':', '', 'O')
+
+__NEW_SENT__
+('While', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art_methods', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('generally', 'RB', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('grow', 'VB', '', 'O') ('only', 'RB', '', 'O') ('artificial_skin', 'NN', '', 'O') ('the', 'DT', '', 'O') ('scaffolding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('can', 'MD', '', 'O') ('support', 'VB', '', 'O') ('the', 'DT', '', 'O') ('growth', 'NN', '', 'O') ('of', 'IN', '', 'O') ('organs', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('varying', 'VBG', '', 'O') ('thicknesses', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Indeed', 'RB', '', 'O') ('the', 'DT', '', 'O') ('specifications', 'NNS', '', 'O') ('describe', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('an', 'DT', '', 'O') ('object', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('``', '``', '', 'O') ('provid', 'VB', '', 'O') ('[', '-LRB-', '', 'O') ('e', 'LS', '', 'O') (']', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('variety', 'NN', '', 'O') ('of', 'IN', '', 'O') ('organs', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('skin', 'NN', '', 'O') ('liver', 'NN', '', 'O') ('kidneys', 'VBZ', '', 'O') ('blood_vessels', 'NN', '', 'O') ('nerves', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('muscles', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('functionally', 'RB', '', 'O') ('resemble', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('naturally', 'RB', '', 'O') ('occurring', 'JJ', '', 'O') ('organ', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('¡¬193_patent_col.', 'NNP', '', 'O') ('3_ll._9', 'CD', '', 'O') ('-13', ':', '', 'O')
+
+__NEW_SENT__

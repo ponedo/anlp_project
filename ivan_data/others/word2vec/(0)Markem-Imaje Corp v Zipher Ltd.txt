@@ -1,0 +1,288 @@
+657_f.3d_1293
+united states court of appeals federal circuit
+markem-imaje corporation plaintiff-appellee v. zipher ltd. and videojet_technologies inc. defendants-appellants
+no._2010-1305
+| sept._9,_2011
+| rehearing denied oct._27,_2011
+synopsis
+background competitor brought action against patentee seeking a declaration that its product did not infringe a patent claiming a device for transfer_printing
+the united_states_district_court for the district of new_hampshire paul j. barbadoro j. entered summary_judgment for competitor and patentee appealed
+
+the court of appeals held that term` drive the spools' meant application of torque to the spools whether the torque causes rotation or resists it
+
+vacated and remanded
+
+newman circuit_judge filed dissenting opinion
+
+attorneys and law firms
+*1294 kurt l. glitzenstein fish & richardson p.c. of boston ma argued for plaintiff-appellee
+with him on the brief was michael clark lynn
+kara f. stoll finnegan henderson farabow garrett & dunner llp of washington dc argued for defendants-appellants
+with her on the brief were j. michael jakes and susan y. tull
+of counsel was joyce craig
+before newman clevenger and linn circuit_judges
+opinion
+opinion for the court filed per_curiam
+dissenting opinion filed by circuit_judge newman
+per_curiam
+markem-imaje_corp. sued zipher_ltd. and videojet_technologies inc. together` zipher' in the united_states_district_court for the district of new_hampshire requesting a declaratory judgment that ziphers u.s._patent_no._7150,572 the ¡¬572_patent is not infringed by markem
+the district_court granted summary_judgment of noninfringement,1 and zipher_appeals
+we conclude that the district_court erred in construing a critical claim_term ; thus the summary_judgment of non-infringement is vacated and the case is remanded for further proceedings on the corrected claim_construction
+
+the patented invention
+the ¡¬572_patent entitled` tape drive and printing apparatus' describes and claims a device for transfer_printing
+in transfer_printing ink is carried by a ribbon that is moved into contact with the substrate to be printed and a print_head impresses upon the ribbon and causes the ink to transfer from the ribbon to the substrate
+in thermal transfer_printing the print_head is heated facilitating transfer and adherence of the ink to the substrate
+thermal transfer printers are used for such tasks as printing on plastic packaging and other surfaces to which ink does not readily adhere
+in systems where the thermal printing is part of a mechanized and automated process the printing step must keep pace with the production line with minimal down time
+the ¡¬572_patent is directed to a heat transfer_printing apparatus that provides increased control over the acceleration deceleration *1295 speed and positional accuracy of the printing operation while minimizing waste of unused portions of the ink_ribbon
+
+in transfer printers in general the ink_ribbon is wound on two spools one spool for supplying the ribbon for positioning on the substrate and the other spool for taking up the ribbon after use
+the ¡¬572_patent explains that prior_art transfer printers
+rely upon a wide range of different approaches to the problem of how to drive the ribbon_spools
+some rely upon stepper_motors others on dc motors to directly or indirectly drive the spools
+generally the known arrangements drive only the spool onto which ribbon is taken up the take-up spool and rely upon some form of` slipping clutch' arrangement on the spool from which ribbon is drawn the supply_spool to provide a resistive_force so as to ensure that the ribbon is maintained in tension during the printing and ribbon winding processes and to prevent ribbon overrun when the ribbon is brought to rest
+¡¬572_patent_col.1 ll.33-44
+the patent states that` it will be appreciated that maintaining adequate tension is an essential requirement for proper functioning of the printer'
+id
+col.1 ll.44-46
+the ¡¬572_patent is directed to an improvement in controlling the movement and tension of the ribbon
+
+figure 1 of the ¡¬572_patent shows the two ribbon_spools 7_and_11 with ribbon 6 extending between them and passing under the print_head at 4
+
+?
+the patent specification explains the problems with the` slipping clutch' that has been used to provide ribbon_tension in prior_art printers
+a slipping clutch provides a constant resistive torque to the supply_spool and the constant torque causes the tension in the ribbon to vary as the supply_spool outer diameter changes with the draw of ribbon
+the patent states that such dynamically changing ribbon_tension requires tight tolerances in clutch force which is difficult to maintain because wear in the clutch tends to change the resistive_force of the clutch
+too much clutch force can break the ribbon or require more power to drive the ribbon and *1296 too little clutch force can cause the supply_spool to overrun
+the patent states` given these constraints typical printer designs have compromised performance by way of limiting the rate of acceleration the rate of deceleration and the maximum speed capability of the ribbon transport system
+overall printer performance has as a result been compromised'
+id
+col.1 l.66-col.2 l.4
+
+examples of conventional clutch or drag-type drive mechanisms are discussed in the ¡¬572_patent including mechanisms in which instead of a slipping clutch a motor connected to the supply_spool supplies a resistive_force to provide ribbon_tension
+in another prior_apparatus a motor coupled to the supply_spool` act [ s ] as a feedback transducer to enable appropriate control of the motor driving the take-up spool to take account of changing spool diameters while maintaining a constant ribbon speed'
+id
+col.2 ll.39-42
+the ¡¬572_patent distinguishes this prior_apparatus from what the ¡¬572_patent calls the` push-pull' mechanism of the ¡¬572 apparatus explaining that
+although this [ prior_art ] arrangement does avoid the need for example of a capstan drive interposed between the two spools so as to achieve reliable ribbon delivery speeds only one of the motors is driven to deliver torque to assist ribbon transport
+there is no suggestion that the apparatus can operate in push-pull mode that is the motor driving the take-up spool operating to pull the ribbon and the motor driving the supply_spool operating to push the associated spool in a direction which assists tape transport
+id
+col.2 ll.43-51
+
+in accordance with the` push-pull' mode of the ¡¬572_patent both the take-up spool and the supply_spool are driven to particular angular positions by stepper_motors that receive commands from a microcontroller
+the take-up spool rotates and takes up a given length of ribbon per rotation while the supply_spool is rotated to feed out the same length of ribbon independent of the constantly changing spool diameter
+such an arrangement is not provided in the prior_devices and is described as solving various problems encountered with prior_devices
+
+as described in the ¡¬572_patent stepper_motors rotate by selectively energizing electromagnets around the outside of the motor referred to as the` stator' to interact with permanent magnets or electromagnets on the shaft or` rotor' of the motor
+id
+col.20 ll.38-41
+unlike dc direct current motors which are analog devices that simply rotate when power is supplied stepper_motors have discrete angular positions or` steps' and can be forced or driven to stay in particular step positions
+ziphers expert_witness professor kuc explained that an advantage of a stepper_motor is that` when its still its got a holding torque to keep the ribbon in place'
+hearing tr
+40:21-23 j.a
+340
+
+the holding torque results from the electromagnetic attraction between poles of the rotor and poles of the stator in an energized stepper_motor at rest
+when an external_torque resulting from tension in the print_ribbon is applied to the spools these electromagnetic forces create an opposing torque to keep the motor in its current angular position thereby maintaining tension in the print_ribbon
+if the motors maximum holding torque is exceeded by the external_torque the motor shaft will rotate ; thus` holding torque' also specifies the minimum amount of external_torque needed to rotate the shaft of a stepper_motor commanded to hold steady in its current position
+markems expert_witness peter landers agreed with ziphers expert that when power is applied to a stepper_motor it is held in *1297 position so that even when the spool of the printer is not rotating it will` hold the [ ribbon ] tension to the level it was set before'
+hearing tr
+21:6-23:1 j.a
+321-23
+
+the ¡¬572_patent describes optically monitoring the radii of the spools and using the data` to calculate the step_rate and the number of steps required by each motor to drive the spools in an appropriate manner so as to feed the ribbon a predetermined distance'
+col.20 ll.25-28
+the patent explains that` [ t ] ension in the ribbon between the two spools must however be closely controlled to avoid the tension becoming too high resulting in over tightening of the ribbon on the spools or even ribbon breakage or the tension becoming too low resulting in loss of positional control as a result of the ribbon becoming slack'
+id
+col.19 ll.32-38
+the ¡¬572_patent describes its method of estimating ribbon_tension t and explains how tension is maintained within predetermined limits if the derived value of t is too high above a predetermined limit then a small_step_adjustment can be made to either or both of the motors to add a short_section of ribbon to the length of ribbon between the spools
+if the derived value of t is too low below a different predetermined limit then a short_section of ribbon can be removed from the length of ribbon between the spools.. [ m ] athematical processing results in a` correction' amount of ribbon that needs to be added to or removed from the ribbon path between the spools during the next ribbon feed
+this addition or removal of ribbon maintains ribbon_tension within acceptable_limits
+id
+col.22 ll.16-42
+claim 1 the broadest claim of the ¡¬572_patent is directed to a tape_drive that corrects tension divergences from the predetermined limit in this manner 1
+a tape_drive comprising two motors at least one of which is a stepper_motor ; two tape spool supports on which spools of tape are mounted each spool_being driveable by a respective one of said motors ; a controller adapted to control energization of said two motors such that tape is transported in at least one direction between spools of tape mounted on the spool supports ; wherein the controller energizes both said motors to drive the spools in a tape_transport_direction and
+said controller calculates a length of tape to be added to or subtracted from tape extending between said spools in order to maintain tension in said tape between predetermined_limit_values and controls said motors to drive the spools to add or subtract the calculated_length of tape to or from the tape extending between said spools
+following a claim_construction hearing the district_court construed` driveable' and` drive' to mean` rotateable' and` rotate' as proposed by markem rejecting ziphers broader_construction
+markem 2008_wl_4116666 at *11
+the district_court explained in its reconsideration opinion that the use of the plural word` spools' in the claim_clause` to drive the spools to add or subtract the calculated_length of tape' means that both spools must rotate
+markem 2009_wl_2855011 at *1
+the court further explained that both spools must rotate to add or subtract a single calculated_length of tape
+markem-imaje 2010_wl_114947 at *1
+
+the operation of markems accused devices was not disputed as the district_court explained although markems tape_drives rotate both spools during the tape_tension adjustment *1298 process only a single spool is rotated to achieve each adjustment
+if tape_tension is too low the take-up spool is rotated to decrease the length of tape between the spools and if tape_tension is too high the supply_spool is rotated to increase the length of tape between the spools
+id
+based on the district_courts ruling that the term` drive' in the ¡¬572 claims requires that both spools are rotated together to adjust the tape the court granted summary_judgment of non-infringement
+zipher_appeals stating that the judgment was based on an erroneous claim_construction
+
+discussion
+claim construction receives plenary_review on appeal
+cybor corp. v. fas techs. inc. 138_f.3d_1448 1456 fed.cir.1998 en banc
+the grant of summary_judgment also receives plenary_review
+
+i. zipher argues that the district_court erred in limiting the claim phrase` drive the spools' to mean` rotate the spools'
+zipher argues that` drive' in this phrase has the inclusive meaning of not only rotate but also` hold steady in a commanded position'
+the district_court acknowledged that the ordinary meaning of` drive' can be broad enough to encompass not only the rotation of the spools but also application of a holding torque that prevents the spool from rotating
+markem 2008_wl_4116666 at *3 & n. 4
+the district_court observed that` [ m ] ost of the references to driving the spools in the specification could accommodate either proposed construction ;' that is` drive' could mean applying only rotational torque or it could also include application of a holding torque
+id.at *6
+however the court found that other usages in the specification support limiting` drive' to mean only the narrower` rotate' and concluded that` when the specification usesdrive to refer to the spools it supports markems narrower construction of rotating the spools rather than merely controlling them'
+id.at *7
+
+the district_court reasoned that giving` drive' a meaning broader than` rotation' in the final clause of the claim the tension control clause would be contradictory to the meaning of` drive' in the tape transport clause which states that` the controller energizes both said motors to drive the spools in a tape_transport_direction'
+markem states that zipher conceded that` drive the spools in a tape_transport_direction' means that both spools are rotated in the tape_transport_direction
+markem stresses that` claim_terms are normally used consistently throughout the patent' phillips v. awh_corp. 415_f.3d_1303 1314 fed.cir.2005 en banc and that` a claim_term should be construed consistently with its appearance in other places in the same claim or in other claims of the same patent'
+id
+( quoting rexnord corp. v. laitram corp. 274_f.3d_1336 1342 fed.cir.2001
+thus according to markem` drive' requires that the spool` rotate' for example in the claim_clause` controls said motors to drive the spools to add or subtract the calculated_length of tape'
+zipher argues that this construction would exclude the holding torque function that is necessary to accomplish the tension correction described in the specification see ¡¬572_patent col.22 ll.17-19 stating that if tension is too high` a small_step_adjustment can be made to either or both of the motors to add a short_section of ribbon'
+
+the district_court determined that because the claim_clause` controls said motors to drive the spools' already used the word` control' the patentee could not have intended` control' and` drive' to mean the same thing
+the court declined *1299 to view the claim_clause` each spool_being driveable by a respective one of said motors' to include driving to control tape movement or torque
+the district_court pointed to a passage in the specification which states that prior_art devices` drive only the spool onto which ribbon is taken up' ¡¬572_patent_col.1 ll.37-38 suggesting that a supply_spool controlled by a slipping clutch is not driven
+the district_court concluded that` drive' can not mean` apply torque' or else the specification would not have stated that` only' the supply_spool is driven
+see markem 2008_wl_4116666 at *6
+thus the court concluded that the patentee intended a narrow interpretation of` drive' in the claim excluding the role of applying torque to a spool to hold it in place
+
+zipher argues that the term` drive' has a meaning similar to that of` control' and is not limited to rotation motion
+we agree that` drive' need not be narrowly construed merely because a broader_construction would make it similar to the word` control' that is also used in the claim
+nothing in the specification or the overall invention as presented in the claim and as argued to the patent examiner requires the narrow construction
+
+the district_court also cited a passage where` the specification describes a circumstance in which the take-up motor is energized to rotate and the supply motor is de-energized'
+id
+the ¡¬572_patent states that
+if motor 92 is pulling the drive_circuit 108 for that motor is enabled and therefore the rotation angle for the spool_being driven 94 is known
+the drive_circuit for the motor being pulled 93 is disabled line 104 low
+thus motor 93 acts as a generator and a back-emf is generated across each of the motor windings 97_to_100
+¡¬572_patent col.23 ll.35-40
+the court concluded that` the fact that only the take-up spool is described as beingdriven suggests that driving a spool means actively rotating it not passively or indirectly controlling its motion'
+markem 2008_wl_4116666 at *6
+however the cited passage in the specification does not limit` driving' to rotation or negate the substance of the invention which requires that separate motors control the movement of the spools as appropriate to provide torque and tension
+all that the cited passage suggests is that a de-energized_motor that does not provide drag is not driving a spool
+the specification does not suggest that an energized_motor actively applying torque to either rotate a spool or hold it steady does not` drive' the spool
+
+zipher points out that the motor functions in the specification` include [ ] rotating holding steady stopping accelerating decelerating and all the other drive functions the motors perform' zipher br
+44
+the term` drive' is used throughout the specification in connection with the motor control of the spools
+it is not inconsistent for` drive the spools in a tape_transport_direction' to mean` apply torque to cause rotation' and for` drive the spools' to mean` apply torque to the spools'
+the district_court acknowledged that` drive' can include the application of torque and the specification uses` drive' to encompass both rotation and torque applied to the spools
+the specification does not support the district_courts conclusion that to` drive' the spools means only to provide rotational torque
+
+both parties argue that the prosecution_history favors their position
+the district_court concluded that the prosecution_history` does not cut strongly in either direction'
+markem 2008_wl_4116666 at *11
+the district_court discussed that the claim that became claim 1 of the patent claim 68 of the application was initially dependent on claims 64_and_65 of the *1300 application which recited that the controller energized the motors` so as to push-pull_drive the spools in a tape_transport_direction'
+id.at *8 & n. 8
+claims 64_and_65 were rejected during prosecution as anticipated by u.s. patent no._5366,303` barrus'
+in traversing this rejection the applicant stated in contrast to claim 64 barrus_et_al energize one motor and de-energize the other motor for a pull-drag drive operation..
+the push-pull limitation requires the controller to energize both motors to drive the spools
+it is clear that in the configuration of barrus_et_al the controller does not energize both motors to push-pull_drive the spools of tape
+appl
+no._10_/380,182 amendment dated july_6,_2006 at 11 j.a
+995
+the examiner had found that claim 68 contained allowable subject matter because the prior_art did not teach a tape_drive that maintains tape_tension` between upper and lower limit_values and then controls the motors to add or subtract the calculated_length of tape to the tape extending between the spools'
+
+the applicant then rewrote claim 68 in independent form with some modifications including deletion of the` push-pull' term and the examiner added an amendment in which` controls said motors to add or subtract the calculated_length of tape' was changed to` controls said motors to drive the spools to add or subtract the calculated_length of tape'
+the examiners summary states that the added language` more clearly defines the scope of claim 68'
+appl
+no._10_/380,182 examiners interview summary sept._7,_2006 j.a
+1019
+we discern no indication that the added phrase` to drive the spools' in the examiners amendment was intended or understood to limit` drive' to` rotate' for that was not an issue of examination
+rather zipher had distinguished barrus as regulating tension by varying drag applied by a motor acting as a generator and the examiners amendment reflects that distinction
+
+the examiners amendment accords with the ¡¬572_patents requirement that the motors apply torque to the spools whether the torque causes rotation or resists it
+this active energization of the ¡¬572_patents motors is distinct from barrus where passive resistive torque is created by lowering the resistance in the output circuit of a motor acting as a generator
+see barrus col.4 ll.5-15
+the prosecution_history distinguishes the resistance drag of the second spool as in barrus and requires that` to drive the spools' includes both rotation torque and holding torque
+the district_courts construction that` drive' requires that the supply_spool must always rotate to control the tension is incorrect
+
+ii
+zipher also appeals the district_courts construction that the claims require` some method of deriving a tension_measurement' markem 2008_wl_4116666 at *12
+markem had asked the district_court to hold that` using a contactless means of tension_measurement that occurs during the rotation of both motors is a necessary and inherent aspect of such_measurement because the specification does not describe any other method of such_measurement'
+id
+the district_court declined this request but stated that` some method of deriving a tension_measurement whether directly or indirectly is a necessary_predicate to maintaining tensionbetween predetermined_limit_values
+`` id
+the court reasoned that` [ w ] ithout having a reasonable_estimate of the current_tape_tension it is not possible to identify whether the tension is approaching or exceeding the limit_values'
+id
+
+zipher argues that the claim does not explicitly recite measuring tension and that construing the claims to require tension *1301 measurement would import a limitation into the claims from the specification and violate the mandate of rambus_inc. v. infineon_tech
+ag that` the claims need not recite every component necessary to enable operation of a working device'
+318_f.3d_1081 1093 fed.cir.2003
+we agree with zipher
+that a device will only operate if certain elements are included is not grounds to incorporate those elements into the construction of the claims
+a claim to an engine providing motive power to a car should not be construed to incorporate a limitation for an exhaust pipe though an engine may not function without one
+thus though` some method of deriving a tension_measurement' may be required to make a claimed device operational it is not proper to incorporate that method into the claim_construction
+we therefore reverse the district_courts determination that the claims require` some method of deriving a tension_measurement'
+
+on our holding that` drive' is properly construed to mean the application of torque to the spools whether the torque causes rotation or resists it we vacate the judgment of non-infringement and remand for determination of infringement on the corrected claim_constructions
+
+vacated and remanded
+
+newman circuit_judge dissenting
+i concur in part i of the courts decision
+i would however affirm the district_courts finding that` some method of deriving a tension_measurement whether directly or indirectly is a necessary_predicate to maintaining tensionbetween predetermined values
+`` as the district_court reasoned` [ w ] ithout having a reasonable_estimate of the current_tape_tension it is not possible to identify whether the tension is approaching or exceeding the limit_values'
+markem_corp. v. zipher_ltd. 2008_wl_4116666 *12 d.n.h
+aug._28,_2008
+the panel majoritys contrary result ignores the paramount importance of the specification in claim_construction
+see retractable techs. inc. v. becton dickinson & co. 653_f.3d_1296 1305 fed.cir.2011` in reviewing the intrinsic record to construe the claims we strive to capture the scope of the actual invention rather than.. allow the claim_language to become divorced from what the specification conveys is the invention`
+accordingly i respectfully dissent from part ii of the courts decision
+
+claims do not stand alone but rather are part of a` fully integrated written instrument' consisting of a specification that concludes with claims
+phillips v. awh_corp. 415_f.3d_1303 1315 fed.cir.2005 en banc quoting markman v. westview instruments inc. 52_f.3d_967 978 fed.cir.1995 en banc
+as recognized by the supreme court it` is fundamental that claims are to be construed in light of the specifications and both are to be read with a view to ascertaining the invention' united states v. adams 383_u.s._39 49 86_s.ct._708 15_l.ed.2d_572_(1966) and as stated by judge rich for this court` the descriptive part of the specification aids in ascertaining the scope and meaning of the claims inasmuch as the words of the claims must be based on the description
+the specification is thus the primary basis for construing the claims'
+standard oil co. v. am
+cyanamid co. 774_f.2d_448 452 fed.cir.1985
+
+the specification` is the single best guide to the meaning of a disputed term' phillips 415 f.3d at 1315 quoting vitronics corp. v. conceptronic 90_f.3d_1576 1582 fed.cir.1996 for the specification shows what the inventor actually invented
+see bass pro trademarks v. cabelas inc. 485_f.3d_1364 1369 fed.cir.2007` claims are construed to implement the invention described in the specification`
+*1302 where the specification clearly and consistently sets the scope of a disputed claim that scope governs the construction of the claim
+see on demand mach corp. v. ingram indus. inc. 442_f.3d_1331 1339-40 fed.cir.2006` in general the scope and outer boundary of claims is set by the patentees description of his invention'
+( citing phillips 415 f.3d at 1313-14
+this court has no authority to enlarge the scope of the patent beyond what the patentee described as its invention notwithstanding my colleagues curious analogy to a car and its tailpipe
+maj. op.at 1300-01
+where a limitation is placed in a claim by the specification the claim must be construed to include the limitation
+see e.g. honeywell int l inc. v. universal avionics sys corp. 488_f.3d_982 990 fed.cir.2007 construing the claim_term` look ahead distance' to include a time limitation because` time is inherent in the calculation oflook ahead distance` as shown by the specification ; network commerce inc. v. microsoft corp. 422_f.3d_1353 1360 fed.cir.2005 limiting the term` download component' to a component capable of performing certain functions based on the consistent usage in the specification
+the claims can not transcend the invention that entitles the inventor to a patent
+see topliff v. topliff 145_u.s._156 171 12_s.ct._825 36_l.ed._658_(1892)` the object of the patent law is to secure to inventors a monopoly of what they have actually invented or discovered..'
+
+my colleagues reliance on the` mandate' of rambus_inc. v. infineon_tech
+ag 318_f.3d_1081 fed.cir.2003 is misguided as` [ a ] ll rules of construction must be understood in terms of the factual settings that produced them and applied in fidelity to their origins'
+modine mfg co. v. int l trade comm n 75_f.3d_1545 1551 fed.cir.1996
+in rambus the district_court interpreted claim_language requiring a response to a` read request' to mean that the` read request' must include address and control_information
+this court reversed holding that the district_courts construction conflicted with the specification which indicated that the address and control_information were part of the request packet not the read request
+318 f.3d at 1091-93
+
+by contrast in this case the specification fully supports the district_courts construction
+although the claim does not explicitly include terms for measuring tension the specification describes as the invention the maintaining of the ribbon_tension t within a predetermined amount and` mathematical processing' whereby the` addition or removal of ribbon maintains ribbon_tension within acceptable_limits'
+u.s._patent_no._7150,572 col.22 ll.38-42
+as the district_court found` some method of deriving a tension_measurement whether directly or indirectly' is required
+markem 2008_wl_4116666 at *12
+simply put the printer must be able to measure tension so that the controller can` calculate a length of tape to be added to or subtracted from tape extending between said spools in order to maintain tension in said tape between predetermined_limit_values'
+¡¬572_patent claim 1
+the specification states that` a measure of tape_tension may be calculated by reference to a measure of motor step_rate the calibration data related to the step_rate and the power consumed by the motor' and further that a` measure of tension t may be calculated from the measures of power supplied to the two motors measures of the spool radii calibration factors for the two motors related to the step_rate of the motors'
+id.at col.5 ll.19-22 30-34
+thus while the invention is flexible as to how tension is measured and permits measurement through indirect methods some method of measurement is contemplated and required as found by the trial_court
+
+*1303 from my colleagues flawed view of the law of claim_construction and their reversal of the trial_courts correct and well reasoned construction i respectfully dissent
+
+all citations
+657_f.3d_1293 100_u.s.p.q.2d_1068
+footnotes
+1
+markem-imaje_corp. v. zipher_ltd. no._07- cv-06 2010_wl_114947 d.n.h
+jan. 12 2010 final judgment ; markem_corp. v. zipher ltd. 2009_wl_2855011 d.n.h
+sept. 1 2009 claim_construction reconsideration ; 2008_wl_4116666 d.n.h
+aug._28,_2008 claim_construction
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only markem-imaje_corp. v. zipher_ltd. 657_f.3d_1293 2011 100_u.s.p.q.2d_1068
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

@@ -1,0 +1,147 @@
+('274_F.3d_1371', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('INTERACTIVE', 'NNP', 'ORG', 'B') ('PICTURES', 'NNP', 'ORG', 'I') ('CORP.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('formerly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Omniview', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('INFINITE', 'NNP', 'ORG', 'B') ('PICTURES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NN', '', 'O') ('and', 'CC', '', 'O')
+INTERACTIVE PICTURES CORP. Omniview Inc. INFINITE PICTURES INC.
+__NEW_SENT__
+('Bill', 'NNP', 'PERSON', 'B') ('Tillman', 'NNP', 'PERSON', 'I') ('Craig', 'NNP', 'PERSON', 'I') ('Jones', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Gary', 'NNP', 'PERSON', 'B') ('Waltenbaugh', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('doing', 'VBG', '', 'O') ('business', 'NN', '', 'O') ('as', 'IN', '', 'O') ('Graphics', 'NNP', '', 'O') ('Effects', 'NNPS', '', 'O') ('also', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Graphics', 'NNP', 'ORG', 'B') ('EFX', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Defendants', 'NNS', '', 'O')
+Bill Tillman Craig Jones Gary Waltenbaugh Graphics EFX
+__NEW_SENT__
+('No._01-1029', 'RB', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._20,_2001', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('March_21,_2002', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('image', 'NN', '', 'O') ('processing', 'NN', '', 'O') ('system', 'NN', '', 'O') ('sued', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Tennessee', 'NNP', 'GPE', 'B') ('Robert', 'NNP', 'PERSON', 'B') ('Leon', 'NNP', 'PERSON', 'I') ('Jordan', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('jury_verdict', 'NN', '', 'O') ('for', 'IN', '', 'O') ('owner', 'NN', '', 'O') ('and', 'CC', '', 'O') ('competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Tennessee Robert Leon Jordan J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('amendment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('preclude', 'VB', '', 'O') ('subsequent', 'JJ', '', 'O') ('assertion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('damage', 'NN', '', 'O') ('award', 'NN', '', 'O')
+The Court of Appeals Lourie Circuit_Judge 1 2 3
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1373', 'NFP', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Altherr', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Banner', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Witcoff', 'NNP', 'PERSON', 'I') ('LTD', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Robert F. Altherr Jr. Banner & Witcoff LTD Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Nina', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Medlock', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bradley', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Wright', 'NNP', 'PERSON', 'I')
+Nina L. Medlock Bradley C. Wright
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Jackson', 'NNP', 'PERSON', 'I') ('Banner', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Witcoff', 'NNP', '', 'O') ('LTD.', 'NNP', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Jakes', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Thomas H. Jackson Banner & J. Michael Jakes Finnegan Henderson Farabow Garrett & Dunner L.L.P. Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Christine', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Lehman', 'NNP', 'PERSON', 'I')
+Christine E. Lehman
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('ARCHER', 'NNP', '', 'O') ('Senior', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Infinite', 'NNP', 'ORG', 'B') ('Pictures', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Tennessee', 'NNP', 'GPE', 'B') ('denying', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('various', 'JJ', '', 'O') ('motions', 'NNS', '', 'O') ('following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('jury_verdict', 'NN', '', 'O') ('finding', 'VBG', '', 'O') ('Infinite', 'NNP', 'NORP', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('defendants', 'NNS', '', 'O') ('liable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Interactive', 'NNP', 'ORG', 'B') ('Pictures', 'NNPS', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('U.S._Patent', 'JJ', '', 'O') ('5,185,667', 'CD', 'CARDINAL', 'B') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('awarding', 'VBG', '', 'O') ('$', '$', 'MONEY', 'B') ('1', 'CD', 'MONEY', 'I') ('million', 'CD', 'MONEY', 'I') ('in', 'IN', '', 'O') ('damages', 'NNS', '', 'O')
+Infinite Pictures Inc. United_States_District_Court Tennessee Infinite Interactive Pictures Corp. 's 5,185,667 $ 1 million
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('err', 'VB', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('by', 'IN', '', 'O') ('refusing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('preclude', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalence', 'NN', '', 'O') ('and', 'CC', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('supported', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('substantial', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬667_Patent', 'NN', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('Prosecution', 'NNP', '', 'O') ('History', 'NN', '', 'O')
+¡¬667_Patent
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬667_patent', 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('image', 'NN', '', 'O') ('viewing', 'VBG', '', 'O') ('system', 'NN', '', 'O') ('whereby', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('user', 'NN', '', 'O') ('can', 'MD', '', 'O') ('view', 'VB', '', 'O') ('a', 'DT', '', 'O') ('specified', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hemispherical_field', 'NN', '', 'O') ('of', 'IN', '', 'O') ('view', 'NN', '', 'O') ('in', 'IN', '', 'O') ('corrected', 'VBN', '', 'O') ('perspective', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬', 'NNP', '', 'O') ('667', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('col._2,_ll._35-60', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('image', 'NN', '', 'O') ('viewing', 'VBG', '', 'O') ('system', 'NN', '', 'O') ('utilizes', 'VBZ', '', 'O') ('inter_alia', 'NN', '', 'O') ('a', 'DT', '', 'O') ('camera', 'NN', '', 'O') ('equipped', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fisheye_lens', 'NNP', '', 'O') ('an', 'DT', '', 'O') ('input_memory', 'NN', '', 'O') ('an', 'DT', '', 'O') ('image_transform_processor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('output', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at_col._3,_ll._25-48', 'JJ', '', 'O') ('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('In', 'IN', '', 'O') ('operation', 'NN', '', 'O') ('the', 'DT', '', 'O') ('fisheye_lens', 'JJ', '', 'O') ('camera', 'NN', '', 'O') ('produces', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('circular_image', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('entire', 'JJ', '', 'O') ('hemispherical_field', 'NN', '', 'O') ('of', 'IN', '', 'O') ('view', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.', 'NNP', 'NORP', 'B') ('Abstract', 'NNP', '', 'O')
+Id.
+__NEW_SENT__
+('As', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hemispherical_field', 'NN', '', 'O') ('of', 'IN', '', 'O') ('view', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('mapped', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('circle', 'NN', '', 'O') ('the', 'DT', '', 'O') ('fisheye_lens', 'JJ', '', 'O') ('introduces', 'VBZ', '', 'O') ('distortion-fisheye_distortion-such', 'RB', '', 'O') ('that', 'IN', '', 'O') ('straight', 'JJ', '', 'O') ('lines', 'NNS', '', 'O') ('appear', 'VBP', '', 'O') ('curved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('circular_image', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('col._4,_ll._22-47', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('circular_image_data', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('stored', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('input_memory', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at_col._3,_ll._25-48', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('image_transform_processor', 'NNP', '', 'O') ('reads', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('circular_image_data', 'NNP', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('input_memory', 'JJ', '', 'O') ('accepts', 'VBZ', '', 'O') ('user', 'NN', '', 'O') ('input', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pan', 'NN', '', 'O') ('and', 'CC', '', 'O') ('tilt', 'NN', '', 'O') ('angles', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('specify', 'VB', '', 'O') ('a', 'DT', '', 'O') ('region', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('image', 'NN', '', 'O') ('mathematically', 'RB', '', 'O') ('transforms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('image', 'NN', '', 'O') ('data', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('that', 'DT', '', 'O') ('region', 'NN', '', 'O') ('so', 'IN', '', 'O') ('as', 'IN', '', 'O') ('to', 'TO', '', 'O') ('correct', 'VB', '', 'O') ('the', 'DT', '', 'O') ('fisheye_distortion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('outputs', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('perspective', 'NN', '', 'O') ('corrected', 'VBN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('region', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('output', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._2,_ll._35-60', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('user', 'NN', '', 'O') ('may', 'MD', '', 'O') ('also', 'RB', '', 'O') ('specify', 'VB', '', 'O') ('desired', 'VBN', '', 'O') ('rotation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('region', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('system', 'NN', '', 'O') ('performs', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('mathematical', 'JJ', '', 'O') ('transformations', 'NNS', '', 'O') ('electronically', 'RB', '', 'O') ('without', 'IN', '', 'O') ('moving', 'VBG', '', 'O') ('parts', 'NNS', '', 'O') ('id.at', 'NNP', '', 'O') ('col._3,_ll._10-24', 'NN', '', 'O') ('preferably', 'RB', '', 'O') ('at', 'IN', '', 'O') ('real', 'JJ', '', 'O') ('time', 'NN', '', 'O') ('rates', 'NNS', '', 'O') ('id.at', 'NNP', '', 'O') ('col._4,_ll._44-47', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('reads', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('device', 'NN', '', 'O') ('for', 'IN', '', 'O') ('providing', 'VBG', '', 'O') ('perspective', 'NN', '', 'O') ('corrected', 'VBN', '', 'O') ('views', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('selected', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hemispherical', 'JJ', '', 'O') ('view', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('format', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('utilizes', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('moving', 'VBG', '', 'O') ('parts', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('comprises', 'VBZ', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('camera_imaging_system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('optical_images', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('output_signals', 'NNS', '', 'O') ('corresponding', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('optical_images', 'NNS', '', 'O') (';', ':', '', 'O') ('*1374', 'DT', '', 'O') ('fisheye_lens', 'NNP', '', 'O') ('means', 'VBZ', '', 'O') ('attached', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('camera_imaging_system', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('optical_images', 'NNS', '', 'O') ('throughout', 'RB', '', 'O') ('said', 'VBD', '', 'O') ('hemispherical_field-of-view', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('optical', 'JJ', '', 'O') ('conveyance', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('camera_imaging_system', 'NN', '', 'O') (';', ':', '', 'O') ('image', 'NN', '', 'O') ('capture', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('output_signals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('camera_imaging_system', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('digitizing', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('output_signals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('camera_imaging_system', 'NN', '', 'O') (';', ',', '', 'O') ('input_image_memory', 'NNP', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('digitized', 'VBN', '', 'O') ('signals', 'NNS', '', 'O') (';', ':', '', 'O') ('image_transform_processor', 'ADD', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('processing', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('digitized', 'VBN', '', 'O') ('signals', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('input_image_memory', 'NNP', '', 'O') ('means', 'VBZ', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('selected', 'VBN', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('output_transform_calculation_signals', 'NNS', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('digitized', 'VBN', '', 'O') ('signals', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('selected', 'VBN', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('said', 'VBD', '', 'O') ('selected', 'VBN', '', 'O') ('magnification', 'NN', '', 'O') (';', ':', '', 'O') ('output_image_memory', 'DT', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('output_signals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('image_transform_processor', 'NNP', '', 'O') ('means', 'NNS', '', 'O') (';', ':', '', 'O') ('input_means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('selecting', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O') (';', ',', '', 'O') ('microprocessor', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('selected', 'VBN', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('input_means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('converting', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('selected', 'VBN', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O') ('for', 'IN', '', 'O') ('input', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('image_transform_processor', 'XX', '', 'O') ('means', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('control', 'VB', '', 'O') ('said', 'VBD', '', 'O') ('processing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('transform', 'NN', '', 'O') ('processor', 'NN', '', 'O') ('means', 'VBZ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('output', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('output_image_memory', 'DT', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('recording', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('perspective', 'NN', '', 'O') ('corrected', 'VBN', '', 'O') ('view', 'NN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('selected', 'VBN', '', 'O') ('viewing', 'VBG', '', 'O') ('angles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('magnification', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('col._8,_ll._27-66', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('was', 'VBD', '', 'O') ('initially', 'RB', '', 'O') ('rejected', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('an', 'DT', '', 'O') ('Examiner', 'NNP', 'NORP', 'B') ('at', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S._Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('under', 'IN', '', 'O') ('inter_alia', 'NNP', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('as', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('obvious', 'JJ', '', 'O') ('over', 'IN', '', 'O') ('U.S._Patent', 'JJ', '', 'O') ('5,067,019', 'CD', 'CARDINAL', 'B') ('issued', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('Juday', 'NNP', 'ORG', 'B') ('et', 'NNP', '', 'O') ('al.', 'NN', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S._Patent', 'NN', '', 'O') ('5,068,735', 'CD', 'CARDINAL', 'B') ('issued', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('Tuchiya', 'NNP', '', 'O') ('et', 'NN', '', 'O') ('al', 'NNP', '', 'O')
+Claim 1 Examiner the U.S._Patent and Trademark Office 35 103 5,067,019 Juday 5,068,735
+__NEW_SENT__
+('The', 'DT', '', 'O') ('applicant', 'NN', '', 'O') ('challenged', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('propriety', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rejection', 'NN', '', 'O') ('by', 'IN', '', 'O') ('noting', 'VBG', '', 'O') ('several', 'JJ', '', 'O') ('deficiencies', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Juday', 'NNP', 'DATE', 'B') ('reference', 'NN', '', 'O') ('vis-a-vis', 'CD', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('disputing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('relevance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Tuchiya', 'NNP', '', 'O')
+Juday 1
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('applicant', 'JJ', '', 'O') ('amended', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('ways', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('inserting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('words', 'NNS', '', 'O') ('``', '``', '', 'O') ('transform', 'VB', '', 'O') ('calculation', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('section', 'NN', '', 'O') ('reciting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('image_transform_processor', '.', '', 'O') ('means', 'NNS', '', 'O') ("''", "''", '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('output_signals', 'NNS', '', 'O') ("''", "''", '', 'O') ('became', 'VBD', '', 'O') ('``', '``', '', 'O') ('output_transform_calculation_signals', 'NNS', '', 'O') ("''", "''", '', 'O')
+1
+__NEW_SENT__
+('That', 'DT', '', 'O') ('change', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('without', 'IN', '', 'O') ('any', 'DT', '', 'O') ('explanation', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('receipt', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('applicant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claim', 'NN', '', 'O') ('amendments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('arguments', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('allowed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('without', 'IN', '', 'O') ('stating', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('any', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('allowance', 'NN', '', 'O')
+Examiner 1
+__NEW_SENT__

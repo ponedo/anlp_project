@@ -1,0 +1,405 @@
+103_f.3d_1571
+united_states_court of appeals federal circuit
+wang laboratories inc. plaintiff-appellant v. mitsubishi electronics america inc. and mitsubishi_electric_corporation defendants/cross-appellants
+nos._95-1276 95-1324
+| jan._3,_1997
+| rehearing denied ; suggestion for rehearing in banc declined march_12,_1997
+synopsis
+holder of two patents for single in-line_memory_module simm sued alleged_infringer
+alleged infringer filed declaratory_judgment_action
+cases were consolidated
+the united_states_district_court for the central_district of california john g. davies j. granted partial_summary_judgment in favor of alleged_infringer 1994_wl_782694 and subsequently entered judgment on jury_verdict in favor of alleged_infringer 1995_wl_491434
+parties appealed
+the court of appeals rich circuit_judge held that 1 prosecution_history_estoppel precluded finding of infringement of one patent ; 2 patentee had granted implied license to alleged_infringer with respect to one patent ; 3 patent was not invalid ; and 4 one patent was literally infringed
+
+affirmed
+
+mayer circuit_judge concurred in part and concurred in judgment
+
+attorneys and law firms
+*1572 thomas j. scott howrey & simon washington d.c. argued for plaintiff-appellant
+with him on the brief were robert f. ruyak and sheila r. schreiber
+*1573 john w. kozak leydig voit & mayer ltd. chicago il argued for defendants/cross-appellants
+with him on the brief were mark e. phelps brett a. hesterberg and steven p. petersen
+of counsel on the brief were les j. weinstein martin j. trupiano james b. woodruff daniel e. robbins graham & james of los angeles california
+before rich mayer and schall circuit_judges
+opinion
+opinion for the court filed by circuit_judge rich
+concurring in part and concurring in the judgment opinion filed by circuit_judge mayer
+rich circuit_judge
+appellant wang_laboratories inc. sued mitsubishi_electronics_america inc. for infringement of two patents
+mitsubishi and its parent mitsubishi_electric_corporation collectively` mitsubishi' filed a declaratory_judgment_action and the cases were consolidated in the united_states_district_court for the central_district of california
+the district_court granted mitsubishi partial_summary_judgment of non-infringement of one patent
+a jury then found both patents not invalid and that mitsubishi literally infringed the other_patent
+but the jury concluded that wangs conduct in dealing with mitsubishi created an implied license from wang to mitsubishi to practice the invention claimed in the patent held infringed
+wang appeals and mitsubishi cross-appeals
+since we agree that mitsubishi was licensed there was no infringement and we therefore affirm
+
+background
+the two patents in suit relate to memory_modules known as` single in-line memory modules' or simms
+generally wangs simm_design consists of nine memory_chips with one reserved for parity checking
+the module is sometimes described as a` times nine' or` x9' module
+the parity chip independently stores additional information allowing a device to verify the validity of data stored in and retrieved from the other eight memory_chips
+the nine chips are encased in plastic carriers having leads` leaded' and are arranged in one row along with associated decoupling_capacitors to protect the chips on a substrate with 30 connective terminal_pins
+when mounted on the printed-circuit` mother board' of a computer containing the computers central processing unit for example these modules allow the computer to write and read data in binary format to and from the simms for storage
+in developing its simm wang used 64-kilobit` 64k' memory_chips
+together eight 64k_memory_chips could store 512 kilobits or 64 kilobytes of data eight binary digits or` bits' constitute one` byte'
+more recent simms may contain 256-kilobit` 256k' or larger memory_chips
+
+james clayton the named inventor in the patents in suit joined wang_laboratories in the fall of 1982
+at the time computer memory components remained relatively large expensive and difficult to upgrade
+in the spring of 1983 clayton developed the simm as a smaller lower cost replaceable form of computer memory
+on september 2 1983 clayton with wang as assignee applied for a patent on the simm_invention application serial number 528,817
+the original application contained three claims all of which the patent and trademark office` pto' rejected on june_13,_1985
+the pto based its rejection in part on obviousness of the claimed subject_matter
+wang amended the application to cancel claims 1 2 and 3 and to add claims 4 5 and 6
+the new_claims clarified that the invention consisted of a single_row of memory_chips packaged in` plastic_leaded_chip_carriers' for mounting on` epoxy-glass' printed circuit boards
+the ptos final_office_action however rejected the amended claims this time solely based on obviousness
+
+wang submitted a file_wrapper_continuation_application serial number 873,879 on june_12,_1986 replacing claims 4 5 and 6 with claim 7
+wang then abandoned the initial application
+in` remarks' accompanying the continuation_application wang argued that the single new_claim recited a unique specific combination of elements distinguishable from the prior_art in particular from` [ t ] he edi_edh-4816_publication describ [ ing ] a single in-line_memory_module *1574 which consists of eight ceramic chips mounted on a ceramic substrate
+the module contains thirty-two terminal_pins and ten decoupling_capacitors on the main voltages'
+in contrast wang claimed` nine memory_chips eight for data one for parity contained in plastic_leaded_chip_carriers and mounted on a [ sic ] epoxy-glass pc [ printed circuit ] board of particular dimensions
+the module has thirty terminal_pins and eight decoupling_capacitors connected between the memory_chips to suppress voltage spikes'
+the application resulted in patent_no._4656,605605_patent issued april_7,_1987
+the single_claim reads emphasis ours 1
+a memory_module for installation on a printed circuit_motherboard_comprising eight data_memory_chips for storing digital_data each having a data_input and output a control_input and an address_input and each being packaged in a plastic_leaded_chip_carrier ; a ninth_memory_chip for storing error_detection and correction_information associated with the eight data_memory_chips said ninth_memory_chip having a data_input and output a control_input and an address_input interconnected with those of the eight memory_chips and a control_input to provide writing in or reading out of the ninth_memory_chip at times other than when said bytes of digital_information are written into or read out of the eight data_memory_chips to thereby facilitate said error_detection and correction operation ; an epoxy-glass printed circuit_board_substrate having a length and width adequate for mounting thereon only in a single_row said nine memory_chips and for interconnecting the control_inputs and the address_inputs of the memory_chips so that bytes of digital_information may be input to or output from the memory_chips one at a time ; the substrate including thirty terminals for providing access to the data_inputs and outputs control_inputs and address_inputs of the nine memory_chips to enable reading and writing of bytes of digital_information into and out of the eight memory_chips and to enable reading and writing of error_detection and correction_information into and out of the eight memory_chips ; support_means for supporting the memory_module at an angle with respect to the printed circuit motherboard when the memory_module is installed thereon ; and
+eight decoupling_capacitors mounted on said substrate and connected between the nine memory_chips for suppressing transient voltage spikes between said memory_chips
+
+wang filed another application on february 20 1987 as a continuation of application number 873,879
+this application comprised two claims and led to patent_no._4727,513513_patent which issued on february 23 1988
+the two claims of the513_patent are as follows 1
+a memory_module for installation on a printed circuit_motherboard_comprising
+nine data_memory_chips for storing digital_data each having a data_input and output control_input and an address_input and each being packaged in a plastic_leaded_chip_carrier wherein said ninth_memory_chip is for storing detection and correction_information associated with the eight data_memory_chips an epoxy-glass printed circuit_board_substrate having a length and width adequate for mounting thereon only in a single_row said nine memory_chips and for interconnecting the control_inputs and the address_inputs of the memory_chips so that bytes of digital_information may be input to or output from the memory_chips the substrate including thirty terminals for providing access to the data_inputs and outputs control_inputs and address_inputs of the nine memory_chips and to enable reading and writing of information into and out of the nine chips support_means for supporting the memory_module at an angle with respect to a motherboard and
+decoupling_capacitors mounted on said substrate and coupled to the memory_chips for suppressing transient voltages
+2
+the module of claim 1 wherein all nine memory_chips are interconnected such that data is input to or output from the ninth *1575 memory_chips [ sic ] when data is input to or output from the other eight memory_chips
+
+a panel of wang employees including clayton introduced the simm_technology to members of the computer industry press in june 1983
+after giving a detailed description of their invention wang personnel answered questions
+according to the panelists wang hoped to preempt the anticipated future introduction of 256k_chips by japanese manufacturers in a format known as the small outline integrated circuit or soic
+by combining eight existing 64k_chips into a 64-kilobyte package wang could introduce immediately a smaller denser lower cost memory option
+the panel went on to note an expected struggle at the joint electronic device council` jedec' a committee of the electronic industries association invested with responsibility for setting industry standards over which format would become the memory_module standard
+
+clayton described the period preceding the upcoming jedec meetings with manufacturers awaiting indication of which way the market would go before committing to a module design
+he explained wangs belief that the present introduction of its new package should be the catalyst to sway the industry to its approach
+clayton revealed that wang would not produce simms
+instead wang intended to encourage others to produce the modules and would then buy simms for use in its products
+the panel indicated that companies already were preparing to make simms
+in response to questions a panelist stated that wang was not seeking patent_rights in the simm,1 that no licensing agreements were involved for the companies approached by wang to make simms and that simm makers could sell their products to third parties
+panelist daniel devlin summarized wangs goal` hopefully if they sell it and if they have enough interest and the market gets big enough we get the advantage of the cost_reduction because of the volumes involved'
+numerous trade publications carried simm stories in their july or august 1983 issues
+
+wang subsequently brought its simms to jedec and sought to persuade the group to designate wangs design a standard
+wang argued for adoption of the simm from september 1983 through june 1986 when jedec accepted the simm as a standard
+during that period wang did not inform jedec of its ongoing pursuit of patent_rights in the simm
+meanwhile several manufacturers cooperated with wang to begin mass producing and marketing simms
+as predicted in the 1983 press presentation a large_market developed for the modules and wang became a high volume purchaser
+
+mitsubishi first met with wang regarding simms in december 1983
+in their meetings wang supplied drawings and other details to mitsubishi and repeatedly requested that mitsubishi manufacture simms
+mitsubishi researched the possibility of producing simms for wang but did not proceed with the project at that time
+after mitsubishi began making 256k_memory_chips however mitsubishi decided to assemble 256k_simms incorporating the new chips into a simm similar to wangs for sale to wang and others
+mitsubishi declined to assess engineering costs to wang contrary to its asserted practice when creating a custom product exclusively for a particular purchaser
+
+in 1985 meetings in the context of ongoing contacts between the two companies mitsubishi and wang discussed mitsubishis new 256k_simms.2 in one meeting clayton suggested that mitsubishi modify its simm by placing the decoupling_capacitors on the same_side of the substrate with the chips as in the original wang design
+mitsubishi complied
+mitsubishi went on to mass produce 256k_simms ; and in 1987 wang began buying mitsubishi_simms
+wang never informed mitsubishi of its patent applications *1576 patents or of any intent to execute a license or receive royalties until a december 22 1989 letter accusing mitsubishi of infringing the605 and513_patent s which had issued in 1987_and_1988 respectively
+
+wang sued mitsubishi for infringement on june_4,_1992 in the united_states_district_court for the eastern district of virginia
+wang argued that mitsubishi literally infringed the513_patent and infringed the605_patent under the doctrine of equivalents
+mitsubishi had the case transferred to the united_states_district_court for the central_district of california and filed counterclaims seeking a declaratory judgment of invalidity non-infringement and unenforceability as well as alleging assorted state and federal antitrust violations
+mitsubishi also asserted several affirmative defenses including the defense that wangs conduct created an implied license
+
+wang moved for summary_judgment that mitsubishi infringed the605_patent under the doctrine of equivalents because the nine decoupling_capacitors beneath nine memory_chips in mitsubishis simms are equivalent to the` eight decoupling_capacitors.. between the nine memory_chips' claimed in wangs605_patent
+the court denied wangs motion
+mitsubishi then sought summary adjudication that prosecution_history_estoppel barred wang from relying on the doctrine of equivalents with regard to this` eight capacitor limitation'
+for support mitsubishi focused on wangs june_12,_1986 amendment and accompanying remarks distinguishing claim 7 from the edi_edh-4816_publication disclosing 10 capacitors
+
+the district_court agreed that wang relied on the` unique_combination of elements' in its design including exactly eight capacitors and granted partial_summary_judgment of non-infringement by mitsubishi of the605_patent
+
+the parties tried the remaining issues to a jury
+at the close of evidence each side was denied judgment as a matter of law` jmol' under rule 50 a
+next wang and mitsubishi fought over the formulation of the implied license instruction to the jury
+wang submitted legal_estoppel language ; mitsubishi objected and offered equitable_estoppel or estoppel by conduct as the basis of its license
+the final instruction merged the parties competing proposals into one instruction which read as follows one who owns a patent as patentee or assignee having the right to exclude others from making using or selling what is claimed may agree to let another do one or more of those acts
+this is called a license and the person allowed to do the set of acts is a licensee
+an implied license is a form of implied-in-fact contract
+in order to proved [ sic ] the defense of implied license [ mitsubishi ] must establish by a preponderance of the evidence that 1 there was an existing relationship between wang and [ mitsubishi ] ; 2 within that relationship wang transferred a right to use simm_invention to [ mitsubishi ] ; 3 the right was transferred for valuable_consideration ; and 4 wang has now denied the existence of the right it transferred to [ mitsubishi ]
+in deciding whether [ mitsubishi has ] proved the existence of an implied license you may consider statements and conduct of wang from which one would reasonably infer wangs consent to mitsubishis making using or selling products to persons other than wang under the patents
+if you find that a right to make use or sell the simm_invention was granted to [ mitsubishi ] then you should find and [ sic ] implied license was granted to [ mitsubishi ] by wang
+the relevant question to the jury on the special_verdict_form read` has mitsubishi proven by a preponderance of the evidence that wang licensed mitsubishi to make use or sell the subject_matter of the513_patent ?'
+the jury answered` yes'
+on other_issues the jury determined that mitsubishi failed to prove that the605 or513_patent s were invalid for obviousness or for the alleged nondisclosure of the inventors best_mode
+the jury further found that the mitsubishi_simms infringed the513_patent claims but that infringement was not willful
+in its advisory_capacity the jury concluded that mitsubishi did not prove its defenses of inequitable conduct equitable_estoppel laches patent misuse or unclean hands
+
+*1577 after the verdict the court held a hearing on mitsubishis equitable_defenses then directed wang to draft a proposed judgment and findings of fact and conclusions of law adopting the jurys determinations on the equitable_defenses which wang did
+mitsubishi objected to wangs drafts and protested that although the findings and conclusions did not cover the implied license wang wrote findings on other_issues which contradicted and undermined the jurys implied license verdict
+furthermore wang had written that the jury found an implied license` under the doctrine of legal_estoppel'
+notwithstanding mitsubishis objections the court entered both the judgment and the findings of fact and conclusions of law
+
+on march_6,_1995 the parties argued six motions to the district_court
+wangs motions addressed the implied_license_defense
+first wang moved for rule 50 b jmol because wang believed that no reasonable_jury could find mitsubishi provided valuable_consideration for a license as required by wangs formulation of implied license elements based on legal_estoppel
+second wang sought a partial_new_trial on the implied_license_defense
+third wang moved to amend the judgment based on its theory that the implied license conclusion mandated a finding that an implied contract existed and that assuming an absence of other consideration mitsubishi must have promised royalties to wang
+
+mitsubishi moved for jmol contending that because clayton admitted he knew a best_mode which comprised two power pins and two ground pins wired in a symmetrical configuration and because the patent contains no express disclosure of that wiring scheme the jury erred in finding mitsubishi failed to prove that wang concealed the inventors best_mode
+next mitsubishi asserted that the evidence required a finding of obviousness and therefore invalidation of wangs patents under 35 u.s.c.¡± 103
+last mitsubishi argued that five differences between mitsubishis modules and the simm claimed in the513_patent bar a finding of literal infringement of the513_patent
+the court denied all six motions
+
+analysis
+wang appeals the partial_summary_judgment of non-infringement of the605_patent based on prosecution_history_estoppel and the resolution of the implied license_issue to negate infringement of the513_patent
+mitsubishi cross-appeals from the judgment on best_mode nonobviousness and infringement
+
+the605_patent prosecution history estoppel
+wang asserts that the district_court erred when it ruled that prosecution_history_estoppel_limits the scope of the605_patent to simms with exactly eight capacitors
+since the estoppel ruling prevents wang from resorting to the doctrine of equivalents to extend the patents scope to cover nine capacitors and given that mitsubishis modules with nine capacitors do not literally infringe the605_patent the court granted partial_summary_judgment providing that mitsubishis modules with nine capacitors do not infringe the605_patent
+the issue of whether the estoppel extends to the513_patent is not before us
+see mark i mktg corp. v. r.r
+donnelley & sons co. 66_f.3d_285 291 36_uspq2d_1095 1100 fed.cir.1995 cert
+denied 516_u.s._1115 116_s.ct._917 133_l.ed.2d_847_(1996) extended estoppel from parent to patent from continuation_application
+summary judgment is appropriate when no genuine issue of material fact exists and judgment is proper as a matter of law
+fed.r.civ.p
+56 c
+we review grants of summary_judgment de novo
+conroy v. reebok int l ltd. 14_f.3d_1570 1575 29_uspq2d_1373 1377 fed.cir.1994
+
+application of the doctrine of equivalents may allow a patentee to recover for infringement though the accused device falls outside the literal scope of the claims if the differences between the claimed invention and the device are insubstantial
+see e.g. pall corp. v. micron separations inc. 66_f.3d_1211 1218 36_uspq2d_1225 1229-30 fed.cir.1995
+prosecution history estoppel acts as one check on application of the doctrine of equivalents mark i 66 f.3d at 291 36 uspq2d at 1100 by precluding a patentee from regaining through litigation coverage *1578 of subject_matter relinquished during prosecution of the application for the patent
+zenith lab. inc. v. bristol-myers squibb co. 19_f.3d_1418 1424 30_uspq2d_1285 1290 fed.cir.1994
+whether estoppel applies is a question of law
+labounty mfg. inc. v. united_states int l trade comm n 867_f.2d_1572 1576 9_uspq2d_1995 1998 fed.cir.1989
+we examine the statements and actions of the patentee before the pto during prosecution haynes international inc. v. jessop steel co. 8_f.3d_1573 1578 28_uspq2d_1652 1656 fed.cir.1993 ; pall 66 f.3d at 1219 36 uspq2d at 1230 and ask what a competitor reasonably may conclude the patentee surrendered to gain issuance of the patent
+haynes 8 f.3d at 1578 28 uspq2d at 1656
+arguments and amendments made to secure allowance of a claim especially those distinguishing prior_art presumably give rise to prosecution_history_estoppel
+pall 66 f.3d at 1219 36 uspq2d at 1230
+once prosecution_history_estoppel_limits the scope of a patent the patentee may not recover for infringement where infringement would require an equivalence between a claim element and an aspect of theaccused item that falls within the estoppel
+southwall technologies inc. v. cardinal ig co. 54_f.3d_1570 1579 34_uspq2d_1673 1679-80 fed.cir
+) cert
+denied 516_u.s._987 116_s.ct._515 133_l.ed.2d_424_(1995)
+
+wang amended its claims to distinguish its simms from prior_art
+during the prosecution leading to issuance of the605_patent wang twice faced rejection of its claims for obviousness
+following the final_office_action rejecting all three claims and citing the edi_edh-4816_publication wang submitted a file_wrapper_continuation_application that condensed the definition of the invention into a single_claim
+the new_claim added several limitations including for the first time exact numbers of terminals and decoupling_capacitors
+in remarks accompanying the new_claim wang identified the 30 terminals and the eight decoupling_capacitors as features distinguishing its claimed simm from the memory_module disclosed in the edi publication with 32 terminals and 10 decoupling_capacitors
+wang emphasized the` unique_combination of elements' in its simm and cited extensive` exact copying of the invention' as evidence of patentability
+after considering wangs submission the pto allowed the narrowed claim
+
+wangs actions before the pto trigger prosecution_history_estoppel
+the pto rejected claims as obvious in light of prior_art ; the patentee amended adding limitations arguing distinctions from the prior_art which persuaded the pto to allow the amended claim
+in wang_laboratories inc. v. toshiba corp. 993_f.2d_858 26_uspq2d_1767_(fed.cir.1993) for example an earlier lawsuit for infringement of the same two patents this court held that wang had limited the scope of its patents to simms with 1 exactly nine memory_chips 2 in a single_row
+id.at 868 993_f.2d_858 26 uspq2d at 1776
+we held that prosecution_history_estoppel attached because wang had claimed its invention with precision to distinguish a plurality of prior_art references in the field of this invention
+id
+similarly we now hold that wang likewise limited its claim to exactly eight capacitors
+a competitor such as mitsubishi would reasonably conclude that wang surrendered coverage of simms not meeting the eight capacitors limitation
+therefore we affirm the district_courts grant of partial_summary_judgment of non-infringement of the605_patent
+
+the513_patent implied license
+mitsubishi argued at trial that wangs conduct had created an implied license to it under the513_patent
+the parties agreed to submit mitsubishis implied_license_defense to the jury and the jury found an implied license to exist
+the district_court entered judgment on the verdict and added the rationale that the implied license arose` under the doctrine of legal_estoppel'
+focusing on the legal_estoppel rationale wang moved for jmol or a new_trial on the implied license_issue because according to wang a reasonable_jury could not have found facts to support legal_estoppel and because the court misapplied the law of legal_estoppel
+see fed.r.civ.p
+50 b and 59 a
+wang also moved the court to infer contract terms requiring mitsubishi to pay royalties to wang as part of the implied license
+see fed.r.civ.p
+59 e
+the district *1579 court denied the motions
+wang now seeks a reversal of the judgment or new_trial on the implied_license_defense
+in an appeal from a judgment following denial of jmol we must affirm factual_findings that are supported by substantial_evidence we then review legal_conclusions to determine whether the factual_findings can bear them
+railroad_dynamics inc. v. a. stucki co. 727_f.2d_1506 1512 220_uspq_929 935-36 fed.cir.1984 ; perkin-elmer corp. v. computervision corp. 732_f.2d_888 893 221_uspq_669 672-73 fed.cir.1984
+we review the denial of a motion for a new_trial for abuse of discretion
+railroad_dynamics 727 f.2d at 1512 220 uspq at 935-36
+
+because the second step of this review will require us to determine whether the factual_findings support the conclusion of law we must first ascertain what facts the jury found relating to mitsubishis implied_license_defense
+id
+the special_verdict_form asked the jury to answer only the ultimate question of whether an implied license exists so the jury_instructions serve as our most direct guide to what the jury decided.3 see newell cos. inc. v. kenney mfg co. 864_f.2d_757 765 9_uspq2d_1417 1423 fed.cir.1988 we accept factual_findings presumed from jury_verdict subject to substantial_evidence_test
+in order to arrive at its affirmative answer on the implied license question the jury necessarily found that 1 a relationship existed between wang and mitsubishi 2 within that relationship wang granted to mitsubishi a right to use its simm_inventions 3 wang received valuable_consideration for that grant of right 4 wang denied that mitsubishi had an implied license and 5 wangs statements and conduct created the impression that wang consented to mitsubishi making using or selling wangs patented inventions including sales to consumers other than wang
+separately the jury found that mitsubishi made used or sold several versions of simms that would infringe the513_patent but for the license
+
+with regard to the factual component of our review wang challenges only the finding of valuable_consideration
+before we can apply the substantial_evidence_test to this finding however it becomes necessary to look beyond the jury_instructions and verdict to discover what the jury understood to constitute` valuable_consideration'
+the district_courts order denying wangs motion for jmol identified three benefits conferred on wang 1 by agreeing to manufacture and sell simms mitsubishi contributed to a` high volume supply and downward pressure on [ the ] price' of simms which benefited wang as a purchaser of simms ; 2 mitsubishi absorbed development and tooling costs ; and 3 mitsubishi redesigned its simms to conform to wangs preferred design
+the district_court ruled that each form of consideration was supported by substantial_evidence
+
+looking to the record in search of substantial_evidence wangs own statements show that when the company introduced its simm_design in june 1983 wang intended to buy simms from other producers rather than produce simms itself
+eventually wang hoped to` get the advantage of the cost_reduction because of the volumes involved'
+the evidence indicates that wang considered lower_prices and a larger market to be of value to it as they obviously were as a large user of simms
+in time jedec adopted wangs simm_design as a standard in what became a multi-billion dollar market
+the market grew ; prices dropped
+the record contains evidence that mitsubishi contributed to this advantageous outcome
+claytons notes about mitsubishi for example contain references to prices` dropping to mid-teens'
+wang introduced evidence that dozens of producers have participated in making the simm_market and that mitsubishi sold $ 361 *1580 million worth of simms between april 1985 and march 1994
+a reasonable_person could conclude from the evidence that mitsubishi supplied consideration to wang by helping wang achieve the market scenario it sought and valued
+
+substantial evidence of the second and third benefits also appears on the record
+mitsubishi personnel testified that they made design changes to accommodate wangs needs specifically moving the capacitors onto the same_side of the substrate as the memory_chips
+similarly testimony indicated that mitsubishi declined to assess development and tooling charges to wang because it understood wang was permitting mitsubishi to sell simms to other customers
+claytons notes reveal that from the first meeting onward he closely followed mitsubishis development and tooling of simms with 64k or 256k_chips in plccs
+clayton clearly wanted mitsubishi to make 64k_simms which mitsubishi decided against but clayton also sought` to open [ communication with ] japan for us on a 256k x9 simm'
+all the while wang and mitsubishi exchanged designs and samples
+a reasonable_person could conclude that wang received something it valued because mitsubishi was persuaded to follow wangs design suggestions but was led to believe the resultant simms were not custom products for wang and did not assess charges
+although wang points to contrary evidence we can not reevaluate credibility or substitute our choices for those of the jury
+perkin-elmer 732 f.2d at 893 221 uspq at 672-73
+therefore these findings survive the substantial_evidence_test
+
+with the findings of fact firmly in hand we now turn to the legal_conclusion that an implied license exists
+see met-coil sys corp. v. korners unltd. inc. 803_f.2d_684 687 231_uspq_474 476 fed.cir.1986 implied license is question of law
+in patent law an implied license merely signifies a patentees waiver of the statutory right to exclude others from making using or selling the patented invention
+spindelfabrik suessen-schurr stahlecker & grill gmbh v. schubert & salzer maschinenfabrik aktiengesellschaft 829_f.2d_1075 1081 4_uspq2d_1044 1048 fed.cir.1987
+in the words of the supreme_court no formal granting of a license is necessary in order to give it effect
+any language used by the owner of the patent or any conduct on his part exhibited to another from which that other may properly infer that the owner consents to his use of the patent in making or using it or selling it upon which the other acts constitutes a license and a defense to an action for a tort
+de_forest radio tel co. v. united_states 273_u.s._236 241 47_s.ct._366 367 71_l.ed._625_(1927)
+since de_forest this court and others have attempted to identify and isolate various avenues to an implied license
+as a result courts and commentators relate that implied licenses arise by acquiescence by conduct by equitable_estoppel estoppel in pais or by legal_estoppel
+see amp inc. v. united_states 182_ct.cl._86 389_f.2d_448 452_nn._4 -5 156_uspq_647 649_nn._4 -5 1968 ; robert l. harmon patents and the federal circuit ¡± 6.2 c 3d ed
+1994 & supp.1996 ; 6 ernest b. lipscomb iii walker on patents ¡± 20:14-20:17 3d ed
+1987 & supp.1995
+these labels describe not different kinds of licenses but rather different categories of conduct which lead to the same conclusion an implied license
+the label denotes the rationale for reaching the legal result
+
+one of our predecessor courts observed that` courts generally have first looked for facts which give rise to an estoppel in the process of concluding that there is an implied license'
+amp 389 f.2d at 452 156 uspq at 649
+the opinions that hew most closely to the de_forest language and the` entire_course of conduct' analysis rely on the doctrine of equitable_estoppel because de_forest requires that conduct of the patentee led the other to act
+bandag inc. v. al bolsers tire stores inc. 750_f.2d_903 925-26 223_uspq_982 998-99 fed.cir.1984 ; stickle v. heublein inc. 716_f.2d_1550 1559 219_uspq_377 383 fed.cir.1983
+in bandag we reversed a conclusion of implied license because the infringer failed to show an awareness of the conduct which supposedly created the license
+*1581 bandag 750 f.2d at 925-26 223 uspq at 998-99
+in stickle we affirmed that no implied license existed absent the required nexus between the patentees conduct and the infringing actions given that the course of infringing action only began later and distinct from the cited conduct
+stickle 716 f.2d at 1559 219 uspq at 383-84
+
+neither this court nor the supreme_court however has required a formal finding of equitable_estoppel as a prerequisite to a legal_conclusion of implied license
+see amp 389 f.2d at 453-54 156 uspq at 651
+to do so would remove all distinction between the doctrines
+rather the estoppel doctrines serve as guidelines
+see id.at 451-52 182_ct.cl._86 389_f.2d_448 156 uspq at 649-50
+the primary difference between the estoppel analysis in implied license cases and the analysis in equitable_estoppel cases is that implied license looks for an affirmative grant of consent or permission to make use or sell i.e. a license
+see stickle 716 f.2d at 1559 219 uspq at 383-84
+equitable estoppel on the other hand focuses on` misleading' conduct suggesting that the patentee will not enforce patent_rights
+a.c. aukerman co. v. r.l
+chaides constr co. 960_f.2d_1020 1041-44 22_uspq2d_1321 1335-38 fed.cir.1992
+in aukerman we described a typical equitable_estoppel situation as one in which 1 the infringer knows of the patent 2 the patentee objects to the infringers activities 3 but the patentee does not seek relief until much later 4 thereby misleading the infringer to believe the patentee will not act
+id.at 1042-43 960_f.2d_1020 22 uspq2d at 1335-36
+thus the two doctrines are not conterminous
+illustratively both the jury in its advisory_capacity and the district_court decided against mitsubishi on the defense of equitable_estoppel per se with misleading conduct as a required component of that defense
+
+legal estoppel refers to a narrower category of conduct encompassing scenarios where a patentee has licensed or assigned a right received consideration and then sought to derogate from the right granted
+spindelfabrik 829 f.2d at 1080 4 uspq2d at 1048 ; amp 389 f.2d at 452 156 uspq at 649-50
+in amp for example a patentee granted a license to and received payment from the united_states for use of an` idea' which later became the subject_matter of its patent
+id.at 453-54 182_ct.cl._86 389_f.2d_448 156 uspq at 651
+the patentee then discovered a preexisting_patent covering an aspect of the invention
+id.at 451 182_ct.cl._86 389_f.2d_448 156 uspq at 648
+after acquiring the preexisting_patent the patentee sued the government for infringement of the preexisting_patent
+id
+the court of claims held that an implied license barred patentee from using the preexisting-but-after-acquired patent to derogate from the express license negotiated under the other_patent
+id.at 454 182_ct.cl._86 389_f.2d_448 156 uspq at 651
+
+we review issues of law like the implied_license_defense de novo
+guinn v. kopf 96_f.3d_1419 1421 40_uspq2d_1157 1159 fed.cir.1996
+in this process we review judgments rather than opinions
+see e.g. baxter healthcare corp. v. spectramed inc. 49_f.3d_1575 1582 34_uspq2d_1120 1125 fed.cir
+) cert
+denied 516_u.s._906 116_s.ct._272 133_l.ed.2d_194_(1995)
+moreover we may affirm a district_courts action where the record offers a route to affirm that neither expands nor contracts the rights established for either party by the judgment
+consolidated aluminum corp. v. foseco int l ltd. 910_f.2d_804 815 15_uspq2d_1481 1489 fed.cir.1990
+here we agree with the district_court that the factual_findings support the jurys legal_conclusion on the implied_license_defense although we do not necessarily agree with all of the district_courts reasoning
+the jurys findings may support an implied license in the nature of legal_estoppel given the transfer of a right for consideration and the subsequent suit for infringement but we instead follow the lead of our predecessor the united_states_court of claims and focus on an alternative form of estoppel
+see amp 389 f.2d at 452 156 uspq at 650 rejected equitable_estoppel and affirmed based on legal_estoppel
+
+although judicially implied licenses are rare under any doctrine mitsubishi proved that the` entire_course of conduct' between the parties over a six-year period led mitsubishi *1582 to infer consent to manufacture and sell the patented products
+see de_forest 273 u.s. at 241 47 s.ct.at 367
+furthermore the level of interaction between the parties while mitsubishi designed and made simms distinguishes this scenario from bandag where the infringer based its failed defense on conduct unknown to the infringer when the infringement occurred
+see bandag 750 f.2d at 925-26 223 uspq at 998-99
+the record shows that wang tried to coax mitsubishi into the simm_market that wang provided designs suggestions and samples to mitsubishi and that wang eventually purchased simms from mitsubishi before accusing mitsubishi years later of infringement
+we hold as a matter of law that mitsubishi properly inferred consent to its use of the invention of wangs patents
+
+the findings that wang bestowed` a right to use the simm_invention' and that mitsubishi supplied valuable_consideration to wang support our holding that wangs conduct created a license
+this falls short of the express licenses or assignments usually discussed in conjunction with legal_estoppel but it constitutes part of a course of conduct that transcends` unilateral expectations.. of one party'
+stickle 716 f.2d at 1559 219 uspq at 383
+wang not only led mitsubishi to infer consent wang obtained payment
+wang publicly announced its desired compensation
+wang also manifested this desire in other ways for example by wangs efforts at jedec to have its simm_designated a standard
+with the contributions of mitsubishi and others wang received exactly the remuneration it desired wangs design is an industry standard and the benefits of a large_market and lower_prices for simms redound to this day
+in sum wang consented to mitsubishis use of the invention granted the right to make use or sell the patented simms without interference from wang and received consideration
+therefore we agree with the district_courts determination reiterated in denying wangs motion to amend the judgment that mitsubishi possesses an irrevocable royalty-free license under the513_patent
+
+because the jurys findings of fact are supported by substantial_evidence and the jury reached the correct legal_conclusion based on its findings we affirm the judgment regarding mitsubishis implied_license_defense
+in reaching this result we hold that mitsubishis implied license is in the nature of equitable rather than legal_estoppel because the license arose from an accord implicit in the entire_course of conduct between the parties as discussed in de_forest and subsequent cases relying on equitable_estoppel as a guideline
+we further hold that the district_court did not abuse its discretion by denying wang a partial_new_trial on this issue
+
+nonobviousness best mode & infringement513_patent
+the three issues raised in mitsubishis cross-appeal remain for disposition
+first mitsubishi asks us to reclassify several memory_modules predating wangs invention as analogous_prior_art relevant to the nonobviousness of wangs simm see toshiba 993 f.2d at 863-64 26 uspq2d at 1773 analogous means relevant to nonobviousness and to hold the605 and513_patent s invalid for lack of nonobvious subject_matter
+see panduit corp. v. dennison mfg co. 810_f.2d_1561 1566 1_uspq2d_1593 1595-96 fed.cir.1987 legal_conclusion regarding nonobviousness relies on a factual_foundation including definition of the scope and content of prior_art
+in denying mitsubishi jmol on this issue the district_court summarized substantial_evidence supporting the jurys presumed finding that the modules cited by mitsubishi fall outside the scope of the analogous_prior_art
+on appeal mitsubishi added nothing to detract from these findings
+with the factual_foundation intact we affirm the conclusion on nonobviousness
+see panduit 810 f.2d at 1566 1 uspq2d at 1596
+
+next mitsubishi disputes the finding that wangs patents are not invalid for failure to disclose claytons conceded best_mode of practicing the invention
+see 35 u.s.c.¡± 112 1996
+noncompliance with the best_mode requirement involves a bifurcated factual inquiry
+great n. corp. v. henry molded prod. inc. 94_f.3d_1569 1571 39_uspq2d_1997 1999 fed.cir.1996
+the factfinder must determine that subjectively *1583 the inventor knew a better_mode of practicing the invention than the specification discloses and that the inventor concealed the better_mode
+id
+the substantial_evidence standard applies on appeal
+id
+although wang admits that the specifications do not explicitly disclose claytons contemplated best_mode mitsubishi failed to convince the jury that wang concealed claytons best_mode
+the district_court ruled that one skilled in the art would discern this best_mode from the disclosure
+after reviewing the record we agree that substantial_evidence supports the jury_verdict
+
+finally mitsubishi argues that the district_court incorrectly interpreted wangs513_patent claims in upholding the infringement verdict
+see moleculon research corp. v. cbs inc. 793_f.2d_1261 1269-70 229_uspq_805 811 fed.cir.1986 claim interpretation is premise for factual comparison of claims to accused device
+courts must interpret disputed terms in patent claims as a matter of law based on the prosecution_history the specification and the claims themselves
+markman v. westview instruments inc. 52_f.3d_967 979 34_uspq2d_1321 1329 fed.cir.1995 affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+in its motion for jmol mitsubishi interpreted five phrases in the513_patents claims
+in seeking reversal mitsubishi reiterates its interpretation of those same claim elements
+
+mitsubishi first asks us to interpret` a plastic_leaded_chip_carrier' to refer solely to the` plcc' made by texas instruments and used by clayton in designing the simm
+we hold that this language serves to distinguish the simm chip carriers from ceramic chip carriers found in the prior_art and that this language does not limit the claims to a particular make and model of plastic chip carrier
+second mitsubishi asserts that` substrate.. adequate for mounting thereon only in a single_row said nine memory_chips' limits substrate size to the bare minimum required for mounting nine chips in a single_row
+we hold that this language does not foreclose extension of the substrate for some purpose where the extra space can not hold additional chips
+third mitsubishi contends that` thirty terminals for providing access' counts only terminals actively connected to a memory chip
+we hold that` terminals' need not be connected
+fourth mitsubishi argues that` the ninth_memory_chip is for storing detection and correction_information' means that the ninth_chip must store two distinct kinds of information
+we hold that this language does not necessarily refer to two types of information especially given that wang described the ninth_chip as a` parity_feature' storing only one kind of data known as` parity bits'
+fifth mitsubishi states that` support_means for supporting the memory_module at an angle' limits the claim to the style of pins used by clayton in designing the simm
+we hold that this language does not mandate a pin style matching claytons initial style
+therefore we arrive at the same interpretation as the district_court
+since mitsubishi does not deny that the claims as understood by the district_court read on the accused modules we affirm the finding of infringement
+
+affirmed
+
+mayer circuit_judge concurring in part and concurring in the judgment
+i join the courts opinion insofar as it affirms the judgment of noninfringement of the605_patent and the finding of an implied license to mitsubishi of the513_patent
+on the courts disposition of the cross-appeal i concur in the judgment
+
+all citations
+103_f.3d_1571 41_u.s.p.q.2d_1263
+footnotes
+1
+clayton mentioned that wangs legal office was investigating only the possibility of patenting the parity_feature
+2
+wang states that little evidence exists as to the exact number or content of meetings from december 1983_through_1989 but admits that the parties remained in contact and that from 1985 forward` about sixty meetings' took place many addressing simm_technology
+mitsubishi counters that wang lost calendars and notebooks that would have filled in details of the discussions
+3
+as mentioned above the district_court entered findings of fact on mitsubishis equitable_defenses but not the implied_license_defense
+we agree with mitsubishi that some of the courts findings directly contradict the jury_findings ; where that occurs we accept the jurys findings and consider the courts erroneous given that the court later upheld the jury_findings in denying jmol
+see newell 864 f.2d at 762 9 uspq2d at 1421 courts fact finding subject to clearly erroneous standard ; see also therma-tru corp. v. peachtree doors inc. 44_f.3d_988 995 33_uspq2d_1274 1278 fed.cir.1995 jury_verdict operates as finding of fact precluding contrary judicial findings
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+wang_laboratories inc. v. mitsubishi_electronics_america inc. 103_f.3d_1571 1997 41_u.s.p.q.2d_1263
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

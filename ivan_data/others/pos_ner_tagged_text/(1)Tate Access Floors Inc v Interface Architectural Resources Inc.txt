@@ -1,0 +1,198 @@
+('279_F.3d_1357', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('TATE', 'NNP', '', 'O') ('ACCESS', 'NNP', '', 'O') ('FLOORS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Tate_Access_Floors_Leasing', 'VBG', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellees', 'NNPS', '', 'O') ('v.', 'CC', '', 'O') ('INTERFACE', 'NNP', 'ORG', 'B') ('ARCHITECTURAL', 'NNP', 'ORG', 'I') ('RESOURCES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NN', '', 'O')
+Tate_Access_Floors_Leasing Inc. INTERFACE ARCHITECTURAL RESOURCES INC.
+__NEW_SENT__
+('No._01-1275', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Feb._7,_2002', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('raised', 'VBN', '', 'O') ('access_flooring_panels', 'NNPS', '', 'O') ('brought', 'VBN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('sought', 'VBD', '', 'O') ('preliminary', 'JJ', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B') ('J.', 'NNP', 'PERSON', 'B') ('Frederick', 'NNP', 'PERSON', 'I') ('Motz', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('injunction', 'NN', '', 'O') ('132_F.Supp.2d_365', 'NN', '', 'O')
+United_States_District_Court the District of Maryland J. Frederick Motz J.
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('assertion', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('accused', 'VBD', '', 'O') ('device', 'NN', '', 'O') ('merely', 'RB', '', 'O') ('practiced', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('or', 'CC', '', 'O') ('that', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('provide', 'VB', '', 'O') ('defense', 'NN', '', 'O') ('to', 'TO', '', 'O') ('claim', 'VB', '', 'O') ('of', 'IN', '', 'O') ('literal', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('by', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('holder', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('demonstrated', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('reasonable_likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('merits', 'NNS', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('warrant', 'VB', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge 1 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1360', 'NNP', '', 'O') ('Darle', 'NNP', '', 'O') ('M.', 'NNP', '', 'O') ('Short', 'NNP', '', 'O') ('Oliff', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Berridge', 'NNP', '', 'O') ('PLC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Alexandria', 'NNP', 'ORG', 'B') ('VA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Alexandria VA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Oliff', 'NNP', 'PERSON', 'I') ('Thomas', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Pardini', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Julie', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Zink', 'NNP', 'PERSON', 'I')
+James A. Oliff Thomas J. Pardini Julie E. Zink
+__NEW_SENT__
+('Mitchell', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Stockwell', 'NNP', '', 'O') ('Kilpatrick', 'NNP', '', 'O') ('Stockton', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Atlanta', 'NNP', 'GPE', 'B') ('GA', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Mitchell G. Atlanta GA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Pratt', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Turton', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Heather', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Gorman', 'NNP', 'PERSON', 'I')
+John S. Pratt Michael J. Turton Heather C. Gorman
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('PLAGER', 'VBD', '', 'O') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O')
+DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Defendant-Appellant', 'JJ', '', 'O') ('Interface', 'NNP', '', 'O') ('Architectural', 'NNP', '', 'O') ('Resources', 'NNPS', '', 'O') ('Inc.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Interface', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('seeks', 'VBZ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('granting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Plaintiff-Appellees', 'NNP', '', 'O') ('Tate', 'NNP', '', 'O') ('Access', 'NNP', '', 'O') ('Floors', 'NNPS', '', 'O') ('Inc.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Tate_Access_Floors_Leasing', 'VBG', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('together', 'RB', '', 'O') ('``', '``', '', 'O') ('Tate', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('to', 'TO', '', 'O') ('preliminarily', 'RB', '', 'O') ('enjoin', 'VB', '', 'O') ('Interface', 'NNP', 'PERSON', 'B') ('from', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('1-BIG_TOKEN__4_and_8__BIG_TOKEN', 'CD', 'MONEY', 'B') ('-10', 'IN', 'MONEY', 'I') ('of', 'IN', 'MONEY', 'I') ('United', 'NNP', 'MONEY', 'I') ('States', 'NNP', 'MONEY', 'I') ('Patent', 'NNP', 'MONEY', 'I') ('No._4625,491', 'NNP', 'MONEY', 'I') ('(', '-LRB-', 'MONEY', 'I') ('the', 'DT', 'MONEY', 'I') ('``', '``', 'MONEY', 'I') ('¡¬491_patent', 'NNP', 'MONEY', 'I') ('``', '``', 'MONEY', 'I') (')', '-RRB-', 'MONEY', 'I')
+United_States_District_Court the District of Maryland Tate_Access_Floors_Leasing Inc. Tate Interface 1-BIG_TOKEN__4_and_8__BIG_TOKEN -10 of United States Patent No._4625,491 ( the `` ¡¬491_patent `` )
+__NEW_SENT__
+('Interface', 'NN', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('by', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('because', 'IN', '', 'O') ('Tate', 'NNP', 'ORG', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('requisite', 'JJ', '', 'O') ('showing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('reasonable_likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O')
+Tate
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬491_Patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Tate', 'NNP', '', 'O') ('owns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('pertains', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('raised', 'VBN', '', 'O') ('access_flooring_panels', '.', '', 'O')
+¡¬491_patent
+__NEW_SENT__
+('¡¬491_patent', 'NN', '', 'O') ('col._1,_ll._6-9', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Raised', 'VBN', '', 'O') ('access_flooring_panels', 'NNPS', '', 'O') ('provide', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('elevated_floor', 'NN', '', 'O') ('under', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('materials', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('cables', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('pipes', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('run', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_ll._15-19', 'NNS', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('rest', 'VBP', '', 'O') ('on', 'IN', '', 'O') ('pedestals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('They', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('placed', 'VBN', '', 'O') ('side-by-side', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('an', 'DT', '', 'O') ('elevated_floor', 'NN', '', 'O')
+
+__NEW_SENT__
+('By', 'IN', '', 'O') ('lifting', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('removing', 'VBG', '', 'O') ('certain', 'JJ', '', 'O') ('panels', 'NNS', '', 'O') ('one', 'PRP', '', 'O') ('can', 'MD', '', 'O') ('access', 'VB', '', 'O') ('the', 'DT', '', 'O') ('materials', 'NNS', '', 'O') ('underneath', 'IN', '', 'O') ('the', 'DT', '', 'O') ('floor', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_ll._30-32', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('addressed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', '', 'O') ('have', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('laminated', 'JJ', '', 'O') ('top', 'JJ', '', 'O') ('surface', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_ll._57-63', 'NNS', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('transparent', 'JJ', '', 'O') ('laminate', 'JJ', '', 'O') ('protects', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('covers', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('decorative', 'JJ', '', 'O') ('top', 'JJ', '', 'O') ('surface', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('decorative', 'JJ', '', 'O') ('panels', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('formed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('heat', 'NN', '', 'O') ('bonding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('decorative_top_layer', 'NN', 'ORG', 'B') ('onto', 'IN', '', 'O') ('a', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('layers', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('underlying', 'VBG', '', 'O') ('kraft', 'NN', '', 'O') ('paper', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('resin', 'NN', '', 'O')
+decorative_top_layer
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('edges', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('laminated', 'JJ', '', 'O') ('panels', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('brittle', 'JJ', '', 'O') (';', ':', '', 'O') ('without', 'IN', '', 'O') ('protection', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('chip', 'NN', '', 'O') ('crack', 'NN', '', 'O') ('and', 'CC', '', 'O') ('appear', 'VBP', '', 'O') ('aesthetically', 'RB', '', 'O') ('unpleasing', 'VBG', '', 'O')
+
+__NEW_SENT__
+('Prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('the', 'DT', '', 'O') ('industry', 'NN', '', 'O') ('employed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('add-on', 'NN', '', 'O') ('trim_strip', 'NN', '', 'O') ('to', 'TO', '', 'O') ('protect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('edges', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('look', 'VB', '', 'O') ('better', 'RB', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_ll._33-36', 'VBD', '', 'O')
+Id.at
+__NEW_SENT__
+('Such', 'JJ', '', 'O') ('trim', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('problematic', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('increased', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('cost', 'NN', '', 'O') ('of', 'IN', '', 'O') ('panels', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('tended', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('crack', 'VB', '', 'O') ('and', 'CC', '', 'O') ('become', 'VB', '', 'O') ('loose', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('collect', 'VB', '', 'O') ('dirt', 'NN', '', 'O') ('and', 'CC', '', 'O') ('moisture', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_ll._42-46', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬491_patent', 'NNP', 'ORG', 'B') ('addresses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('problems', 'NNS', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('edges', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('without', 'IN', '', 'O') ('employing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('add-on', 'NN', '', 'O') ('trim_strip', 'NN', '', 'O')
+¡¬491_patent
+__NEW_SENT__
+('Instead', 'RB', '', 'O') ('of', 'IN', '', 'O') ('adding', 'VBG', '', 'O') ('trim', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', 'ORG', 'B') ('solves', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('problem', 'NN', '', 'O') ('of', 'IN', '', 'O') ('brittle', 'JJ', '', 'O') ('edges', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('removing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('top', 'JJ', '', 'O') ('decorative_layer', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('periphery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('an', 'DT', '', 'O') ('integral', 'JJ', '', 'O') ('trim', 'NN', '', 'O') ('edge', 'NN', '', 'O')
+¡¬491_patent
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._1,_l._67', 'NN', '', 'O') ('to', 'TO', '', 'O') ('col._2,_l._4', 'VB', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('1_and_8', 'CD', 'CARDINAL', 'B') ('read', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+two 1_and_8 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('floor_panel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('elevated_floors', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('rectangular', 'JJ', '', 'O') ('base', 'NN', '', 'O') ('structure', 'NN', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('supported', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('corners', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('load_surface', 'NN', '', 'O') ('operable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('loads_thereon', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('load_surface', 'NN', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('decorative', 'JJ', '', 'O') ('exposed', 'VBN', '', 'O') ('surface', 'NN', '', 'O') ('layer', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('side', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('opposite', 'JJ', '', 'O') ('said', 'VBD', '', 'O') ('load_surface', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('providing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('inner_body_portion', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('appearance', 'NN', '', 'O') ('contrasting', 'VBG', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('appearance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('decorative_surface_layer', 'NNP', '', 'O') ('said', 'VBD', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('border', 'NN', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('edges', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('panels', 'NNS', '', 'O') ('*1361', 'VB', '', 'O') ('along', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('said', 'VBD', '', 'O') ('decorative_surface_layer', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('removed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('expose', 'VB', '', 'O') ('said', 'VBD', '', 'O') ('inner_body_portion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thereby', 'RB', '', 'O') ('provide', 'VB', '', 'O') ('an', 'DT', '', 'O') ('integral', 'JJ', '', 'O') ('contrasting', 'VBG', '', 'O') ('border', 'NN', '', 'O') ('around', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('decorative_surface_layer', 'NN', '', 'O')
+
+__NEW_SENT__
+('8', 'CD', 'CARDINAL', 'B')
+8
+__NEW_SENT__
+('A', 'DT', '', 'O') ('floor_panel', 'JJ', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('rectangular', 'JJ', '', 'O') ('support', 'NN', '', 'O') ('structure', 'NN', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('load_surface', 'NN', '', 'O') ('operable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('loads_thereon', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('layered', 'VBN', '', 'O') ('laminated', 'JJ', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('load_surface', 'NN', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('visible', 'JJ', '', 'O') ('decorative_layer', 'NN', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('also', 'RB', '', 'O') ('providing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('inner_layer', 'NN', '', 'O') ('contrasting', 'VBG', '', 'O') ('with', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('decorative_layer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('thickness', 'NN', '', 'O') ('substantially', 'RB', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('the', 'DT', '', 'O') ('thickness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decorative_layer', 'JJ', '', 'O') ('adjacent', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('decorative_layer', 'NN', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('side', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('facing', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('load_surface', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('floor', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('border', 'NN', '', 'O') ('extending', 'VBG', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('edges', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('panel', 'NN', '', 'O') ('along', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('decorative_layer', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('removed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('expose', 'VB', '', 'O') ('said', 'VBD', '', 'O') ('inner_layer', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._4,_l._67', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('col._5,_l._11', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('col._5,_l._37', 'NNP', '', 'O') ('to', 'IN', '', 'O') ('col._6,_l._11', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('figures', 'NNS', '', 'O') ('depicting', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('embodiment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('floor_panels', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('periphery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panels', 'NNS', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('sloping', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('beveled', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('flat', 'JJ', '', 'O') ('horizontal_portion', 'NN', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('Figure', 'NN', '', 'O') ('4', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', '', 'O') ('depicts', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('panel', 'NN', '', 'O') ('with', 'IN', '', 'O') ('edges', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('appear', 'VBP', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O')
+4
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('B', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Accused', 'NNP', '', 'O') ('Product', 'NN', '', 'O')
+
+__NEW_SENT__
+('Interface', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('accused', 'VBN', '', 'O') ('floor_panels', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('decorative_top_layer', 'NN', 'ORG', 'B') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('beveled', 'VBN', '', 'O') ('edge', 'NN', '', 'O') ('but', 'CC', '', 'O') ('no', 'DT', '', 'O') ('horizontal', 'JJ', '', 'O') ('single-layered', 'JJ', '', 'O') ('portion', 'NN', '', 'O')
+Interface decorative_top_layer
+__NEW_SENT__
+('An', 'DT', '', 'O') ('example', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('panels', 'NNS', '', 'O') ('follows', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('*1362.', 'NNS', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('Interface', 'NN', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('panels', 'NNS', '', 'O') ('fall', 'VBP', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scope', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', '', 'O') ('as', 'RB', '', 'O') ('properly', 'RB', '', 'O') ('construed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('virtue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('simple', 'JJ', '', 'O') ('beveled', 'VBN', '', 'O') ('edges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('border', 'NN', '', 'O') ("''", "''", '', 'O') ('limitations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_8', 'CD', 'CARDINAL', 'B') ('encompass', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('the', 'DT', '', 'O') ('horizontal_portion', 'NN', '', 'O') ('depicted', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('4', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬491_patent', 'NNP', '', 'O')
+1_and_8 4
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Interface', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('panels', 'NNS', '', 'O') ('lack', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('horizontal_portion', 'NN', '', 'O') ('formed', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single_layer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'NN', '', 'O') ('and', 'CC', '', 'O') ('contain', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('a', 'DT', '', 'O') ('beveled', 'VBN', '', 'O') ('edge', 'NN', '', 'O') ('Interface', 'NNP', 'PERSON', 'B') ('maintains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('panels', 'NNS', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O')
+Interface Interface
+__NEW_SENT__
+('Tate', 'NNP', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('panels', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('beveled', 'VBN', '', 'O') ('edges', 'NNS', '', 'O') ('meet', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('border', 'NN', '', 'O') ("''", "''", '', 'O') ('limitations', 'NNS', '', 'O') ('notwithstanding', 'IN', '', 'O') ('the', 'DT', '', 'O') ('absence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('horizontal_portion', 'NN', '', 'O') ('formed', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single_layer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'NN', '', 'O')
+
+__NEW_SENT__

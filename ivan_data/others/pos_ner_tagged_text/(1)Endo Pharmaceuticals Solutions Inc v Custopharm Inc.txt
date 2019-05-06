@@ -1,0 +1,234 @@
+('894_F.3d_1374', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ENDO', 'JJ', 'ORG', 'B') ('PHARMACEUTICALS', 'NNP', 'ORG', 'I') ('SOLUTIONS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Bayer', 'NNP', 'ORG', 'B') ('Intellectual', 'NNP', 'ORG', 'I') ('Property', 'NNP', 'ORG', 'I') ('GMBH', 'NN', 'ORG', 'I') ('Bayer_Pharma_AG', 'NNP', '', 'O') ('Plaintiffs-Appellees', 'NNS', '', 'O')
+ENDO PHARMACEUTICALS SOLUTIONS INC. Bayer Intellectual Property GMBH
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('CUSTOPHARM', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+
+__NEW_SENT__
+('2017-1719', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('July_13,_2018', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentees', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('Abbreviated_New_Drug_Application', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('and', 'CC', '', 'O') ('market', 'VB', '', 'O') ('a', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'JJ', '', 'O') ('intramuscular_injection', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('testosterone', 'NN', '', 'O') ('replacement', 'NN', '', 'O') ('therapy', 'NN', '', 'O') ('patents', 'NNS', '', 'O')
+two
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('alleging', 'VBG', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('bench_trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('No._1', 'NNP', '', 'O') (':14-cv-01422-SLR-SRF', 'NNP', '', 'O') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('234_F.Supp.3d_587', 'NN', 'PERSON', 'I') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+the District of Delaware Sue L. Robinson J. 234_F.Supp.3d_587
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Chen', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Chen Circuit_Judge
+__NEW_SENT__
+('skilled_artisan', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('motivated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('articles', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('lower', 'VB', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'VB', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('over', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Procedural', 'JJ', '', 'O') ('Posture', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('s', 'NN', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('On', 'IN', '', 'O') ('Appeal', 'NNP', '', 'O') (';', ':', '', 'O') ('Judgment', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*1376', 'NN', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('No._1', 'NNP', '', 'O') (':14-cv-01422-SLR-SRF', 'NN', '', 'O') ('Judge', 'NNP', '', 'O') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I')
+United_States_District_Court the District of Delaware Sue L. Robinson
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Nevin', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Gewertz', 'NNP', 'PERSON', 'I') ('Bartlit', 'NNP', 'PERSON', 'B') ('Beck', 'NNP', 'PERSON', 'I') ('Herman', 'NNP', '', 'O') ('Palenchar', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Scott', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Nevin M. Gewertz Bartlit Beck Chicago IL
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Adam', 'NNP', 'PERSON', 'B') ('Mortara', 'NNP', 'PERSON', 'I') ('John', 'NNP', 'PERSON', 'B') ('Scott', 'NNP', 'PERSON', 'I') ('McBride', 'NNP', 'PERSON', 'I') ('Taylor', 'NNP', 'PERSON', 'I') ('A.R', 'NNP', 'PERSON', 'I')
+Adam Mortara John Scott McBride Taylor A.R
+__NEW_SENT__
+('Meehan', 'NNP', '', 'O') ('Faye', 'NNP', '', 'O') ('Paul', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Douglass', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Hochstetler', 'NNP', 'PERSON', 'I') ('Kelley', 'NNP', 'ORG', 'B') ('Drye', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Warren', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Douglass C. Hochstetler Kelley Drye & Warren Chicago
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Constantine', 'NNP', 'PERSON', 'B') ('Koutsoubas', 'NNP', 'PERSON', 'I') ('Sarita', 'NNP', 'PERSON', 'I') ('Mutha', 'NNP', 'PERSON', 'I') ('Mark', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('Scott', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Clifford', 'NNP', 'ORG', 'B') ('Katz', 'NNP', 'ORG', 'I') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', '', 'O')
+Constantine Koutsoubas Sarita Mutha Mark J. Scott Clifford Katz New York
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Moore', 'NNP', 'PERSON', 'B') ('Linn', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Chen', 'NNP', 'PERSON', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+Moore Linn Chen
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Chen', 'NNP', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I')
+Chen Circuit_Judge
+__NEW_SENT__
+('Endo', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Solutions', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Endo', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') ('holds', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('approved', 'VBN', '', 'O') ('New', 'NNP', 'ORG', 'B') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('AveedTHE_R', 'NNP', 'ORG', 'B') ('a', 'DT', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('TU', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('intramuscular_injection', 'NN', '', 'O')
+Endo Pharmaceuticals Solutions Inc. Endo New Drug Application AveedTHE_R TU
+__NEW_SENT__
+('Bayer', 'NNP', 'ORG', 'B') ('Intellectual', 'NNP', 'ORG', 'I') ('Property', 'NNP', 'ORG', 'I') ('GmbH', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Bayer_Pharma_AG', 'NNP', 'PRODUCT', 'B') ('(', '-LRB-', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('own', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('listed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'EVENT', 'B') ('Orange', 'NNP', 'EVENT', 'I') ('Book', 'NNP', 'EVENT', 'I') ('for', 'IN', '', 'O') ('AveedTHE_R', 'NNP', '', 'O') ('U.S.', 'NNP', '', 'O') ('Patent', 'NN', '', 'O') ('Nos._7718,640', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('8,338,395', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Bayer Intellectual Property GmbH Bayer_Pharma_AG Bayer two the Orange Book 8,338,395
+__NEW_SENT__
+('Custopharm', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Custopharm', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('predecessor-in-interest', 'JJS', '', 'O') ('Paddock', 'NNP', 'ORG', 'B') ('Laboratories', 'NNPS', 'ORG', 'I') ('LLC', 'NNP', '', 'O') ('submitted', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Abbreviated_New_Drug_Application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('FDA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('approval', 'NN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('and', 'CC', '', 'O') ('market', 'VB', '', 'O') ('a', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('version', 'NN', '', 'O') ('of', 'IN', '', 'O') ('AveedTHE_R', 'NNP', '', 'O')
+Custopharm Inc. 's Paddock Laboratories the U.S. Food and Drug Administration FDA
+__NEW_SENT__
+('In', 'IN', '', 'O') ('connection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ANDA', 'NNP', '', 'O') ('filing', 'VBG', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ('made', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Paragraph', 'NNP', 'ORG', 'B') ('IV', 'NNP', 'ORG', 'I') ('certification', 'NN', '', 'O') ('and', 'CC', '', 'O') ('gave', 'VBD', '', 'O') ('notice', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('certification', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Endo', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('on', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('8', 'CD', 'DATE', 'I') ('2014', 'CD', 'DATE', 'I')
+Custopharm Paragraph IV Endo Bayer October 8 2014
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('20', 'CD', 'DATE', 'I') ('2014', 'CD', 'DATE', 'I') ('Endo', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('brought', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('action', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'395_patent", 'NNP', '', 'O') ('s.', 'NN', '', 'O') ('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('proceedings', 'NNS', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ('stipulated', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Endo', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('limited', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('claim', 'VB', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NNP', '', 'O')
+November 20 2014 Endo Bayer Custopharm Endo Bayer 2 18
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('four-day', 'JJ', 'DATE', 'B') ('bench_trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('proven', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B')
+four-day Custopharm 35 103
+__NEW_SENT__
+('Custopharm', 'NNP', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('below', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('find', 'VBP', '', 'O') ('no', 'DT', '', 'O') ('reversible', 'JJ', '', 'O') ('errors', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('AveedTHE_R', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('long-acting', 'JJ', '', 'O') ('injectable', 'JJ', '', 'O') ('testosterone', 'NN', '', 'O') ('replacement', 'NN', '', 'O') ('therapy', 'NN', '', 'O') ('for', 'IN', '', 'O') ('men', 'NNS', '', 'O') ('suffering', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('physiologically', 'RB', '', 'O') ('low', 'JJ', '', 'O') ('levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('testosterone', 'NN', '', 'O') ('also', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('hypogonadism', 'NN', '', 'O')
+AveedTHE_R
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('2003', 'CD', 'DATE', 'B') ('priority_date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'395_patent", 'NNP', '', 'O') ('s', 'POS', '', 'O') ('then-existing', 'VBG', '', 'O') ('testosterone', 'NN', '', 'O') ('replacement', 'NN', '', 'O') ('therapies', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('significant', 'JJ', '', 'O') ('shortcomings', 'NNS', '', 'O')
+2003 three
+__NEW_SENT__
+('First', 'RB', 'ORDINAL', 'B') ('the', 'DT', '', 'O') ('existing', 'VBG', '', 'O') ('injectable', 'JJ', '', 'O') ('therapies', 'NNS', '', 'O') ('required', 'VBD', '', 'O') ('patients', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('visit', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('doctors', 'NNS', '', 'O') ('*1377', 'NFP', '', 'O') ('every', 'DT', 'DATE', 'B') ('two', 'CD', 'DATE', 'I') ('or', 'CC', 'DATE', 'I') ('three', 'CD', 'DATE', 'I') ('weeks', 'NNS', 'DATE', 'I') ('to', 'TO', '', 'O') ('receive', 'VB', '', 'O') ('intramuscular_injections', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('available', 'JJ', '', 'O') ('topical', 'JJ', '', 'O') ('therapies', 'NNS', '', 'O') ('required', 'VBN', '', 'O') ('daily', 'JJ', 'DATE', 'B') ('application', 'NN', '', 'O')
+First every two or three weeks daily
+__NEW_SENT__
+('Second', 'RB', 'ORDINAL', 'B') ('the', 'DT', '', 'O') ('available', 'JJ', '', 'O') ('therapies', 'NNS', '', 'O') ('required', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('prescribing', 'VBG', '', 'O') ('doctor', 'NN', '', 'O') ('to', 'TO', '', 'O') ('adjust', 'VB', '', 'O') ('the', 'DT', '', 'O') ('dosage', 'NN', '', 'O') ('or', 'CC', '', 'O') ('intervals', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('administration', 'NN', '', 'O') ('for', 'IN', '', 'O') ('each', 'DT', '', 'O') ('patient', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('required', 'VBD', '', 'O') ('doctors', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('frequently', 'RB', '', 'O') ('monitor', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('patients', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('testosterone_levels', 'NNS', '', 'O')
+Second
+__NEW_SENT__
+('Third', 'RB', 'ORDINAL', 'B') ('the', 'DT', '', 'O') ('pre-2003', 'NN', 'DATE', 'B') ('therapies', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('provide', 'VB', '', 'O') ('stable', 'JJ', '', 'O') ('testosterone_levels', 'NNS', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('periods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('low', 'JJ', '', 'O') ('testosterone', 'NN', '', 'O') ('between', 'IN', '', 'O') ('treatments', 'NNS', '', 'O')
+Third pre-2003
+__NEW_SENT__
+('Patients', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('experience', 'VB', '', 'O') ('elevated', 'JJ', '', 'O') ('testosterone_levels', 'NNS', '', 'O') ('immediately', 'RB', '', 'O') ('after', 'IN', '', 'O') ('an', 'DT', '', 'O') ('injection', 'NN', '', 'O') ('but', 'CC', '', 'O') ('testosterone_levels', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('fall', 'VB', '', 'O') ('to', 'IN', '', 'O') ('below', 'IN', '', 'O') ('the', 'DT', '', 'O') ('normal', 'JJ', '', 'O') ('physiological', 'JJ', '', 'O') ('range', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('next', 'JJ', '', 'O') ('injection', 'NN', '', 'O')
+
+__NEW_SENT__
+('AveedTHE_R', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('patented', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('addressed', 'VBD', '', 'O') ('some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('shortcomings', 'NNS', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('initial', 'JJ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('injections', 'NNS', '', 'O') ('AveedTHE_R', 'NNP', 'PRODUCT', 'B') ('is', 'VBZ', '', 'O') ('only', 'RB', '', 'O') ('administered', 'VBN', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('times', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('year', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('works', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('nearly', 'RB', '', 'O') ('all', 'DT', '', 'O') ('men', 'NNS', '', 'O') ('suffering', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('hypogonadism', 'NN', '', 'O') ('thus', 'RB', '', 'O') ('obviating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('need', 'NN', '', 'O') ('for', 'IN', '', 'O') ('doctors', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('personalize', 'VB', '', 'O') ('testosterone', 'NN', '', 'O') ('replacement', 'NN', '', 'O') ('therapy', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patients', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('AveedTHE_R', 'NNP', 'LOC', 'B') ('avoided', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('fluctuations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('testosterone_levels', 'NNS', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('injectable', 'JJ', '', 'O') ('products', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('before', 'IN', '', 'O') ('2003', 'CD', 'DATE', 'B')
+AveedTHE_R 1 two AveedTHE_R five 2 3 AveedTHE_R 2003
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('2', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NNP', '', 'O') ('cover', 'NN', '', 'O') ('AveedTHE_R', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('formulation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('injection', 'NN', '', 'O') ('regimen', 'NNS', '', 'O')
+Claim 2 18
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('entitled', 'VBD', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Methods', 'NNPS', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Pharmaceutical', 'NNP', 'WORK_OF_ART', 'I') ('Compositions', 'NNPS', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Reliable', 'NNP', 'WORK_OF_ART', 'I') ('Achievement', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Acceptable', 'NNP', 'WORK_OF_ART', 'I') ('Serum', 'NNP', 'WORK_OF_ART', 'I') ('Testosterone', 'NNP', 'WORK_OF_ART', 'I') ('Levels', 'NNPS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('issued', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('parent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('and', 'CC', '', 'O') ('share', 'VB', '', 'O') ('a', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('specification', 'NN', '', 'O')
+`` Methods and Pharmaceutical Compositions for Reliable Achievement of Acceptable Serum Testosterone Levels ''
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('2', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') ('covers', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('750', 'CD', 'CARDINAL', 'B') ('mg_dosage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('formulated', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('intramuscular_injection', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('form', 'NN', '', 'O') ('for', 'IN', '', 'O') ('single_injection', 'NN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('contains', 'VBZ', '', 'O') ('750', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'VB', '', 'O')
+Claim 2 750 TU 1 1 750
+__NEW_SENT__
+("'640_patent", 'NNP', '', 'O') ('col._13,_ll._29-31', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('reads', 'VBZ', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('formulated', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('intramuscular_injection', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('form', 'NN', '', 'O') ('for', 'IN', '', 'O') ('single_injection', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('contains', 'VBZ', '', 'O') ('250', 'CD', 'CARDINAL', 'B') ('mg/ml', 'NNP', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('mixture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O') ('and', 'CC', '', 'O') ('benzyl', 'NNS', '', 'O') ('benzoate', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('castor_oil', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('40_to_42', 'JJ', 'CARDINAL', 'B') ('vol', 'NN', '', 'O') ('%', 'NN', '', 'O')
+Claim 1 250 40_to_42
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('col._13,_ll._24-28', 'FW', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('18', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NNP', '', 'O') ('covers', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('750', 'CD', 'CARDINAL', 'B') ('mg_dosage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('described', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('14', 'CD', 'CARDINAL', 'B') (':', ':', '', 'O') ('The', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('14', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('each', 'DT', '', 'O') ('dose', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('750', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('of', 'IN', '', 'O') ('TU', 'NNP', '', 'O')
+Claim 18 750 TU 14 14 750 mg
+__NEW_SENT__
+("'395_patent", 'NNP', '', 'O') ('col._16,_ll._1-2', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBD', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('14', 'CD', 'PERSON', 'I') ('reads', 'VBZ', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('disease', 'NN', '', 'O') ('or', 'CC', '', 'O') ('symptom', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('deficient', 'JJ', '', 'O') ('endogenous', 'JJ', '', 'O') ('levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('testosterone', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('man', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('administering', 'VBG', '', 'O') ('by', 'IN', '', 'O') ('intramuscular_injection', 'NN', '', 'O') ('a', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('testosterone', 'NN', '', 'O') ('undecanoate', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('TU', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('essentially', 'RB', '', 'O') ('of', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('co-solvent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('castor_oil', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('42', 'CD', 'PERCENT', 'B') ('percent', 'NN', 'PERCENT', 'I') ('or', 'CC', '', 'O') ('less', 'JJR', '', 'O') ('by', 'IN', '', 'O') ('volume', 'NN', '', 'O') ('the', 'DT', '', 'O') ('method', 'NN', '', 'O') ('further', 'JJ', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('i', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('an', 'DT', '', 'O') ('initial', 'JJ', '', 'O') ('phase', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('initial', 'JJ', '', 'O') ('intramuscular_injections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('at', 'IN', '', 'O') ('an', 'DT', '', 'O') ('interval', 'NN', '', 'O') ('of', 'IN', '', 'O') ('4', 'CD', 'DATE', 'B') ('weeks', 'NNS', 'DATE', 'I') ('between', 'IN', '', 'O') ('injections', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('dose', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('500', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('to', 'IN', 'QUANTITY', 'I') ('1000', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('followed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('(', '-LRB-', '', 'O') ('ii', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('maintenance', 'NN', '', 'O') ('phase', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('subsequent', 'JJ', '', 'O') ('intramuscular_injections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('at', 'IN', '', 'O') ('an', 'DT', '', 'O') ('interval', 'NN', '', 'O') ('of', 'IN', '', 'O') ('10', 'CD', 'DATE', 'B') ('weeks', 'NNS', 'DATE', 'I') ('between', 'IN', '', 'O') ('injections', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('dose', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('500', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('to', 'IN', 'QUANTITY', 'I') ('1000', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', '', 'O')
+Claim 14 TU 42 percent 2 TU 4 weeks 500 mg to TU TU 10 weeks 500 mg to
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._15,_ll._17-31', 'DT', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('key', 'JJ', '', 'O') ('elements', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('both', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('dispute', 'NN', '', 'O') ('are', 'VBP', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('750', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('vehicle', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('co-solvent', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('benzyl-benzoate', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('castor_oil', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('42', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('or', 'CC', '', 'O') ('less', 'JJR', '', 'O') ('by', 'IN', '', 'O') ('volume', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('an', 'DT', '', 'O') ('injection', 'NN', '', 'O') ('schedule', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('initial', 'JJ', '', 'O') ('injections', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('an', 'DT', '', 'O') ('interval', 'NN', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'DATE', 'B') ('weeks', 'NNS', 'DATE', 'I') ('followed', 'VBN', '', 'O') ('*1378', 'RB', '', 'O') ('by', 'IN', '', 'O') ('injections', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('ten', 'CD', 'DATE', 'B') ('week', 'NN', 'DATE', 'I') ('intervals', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ("'395_patent", 'NNP', '', 'O') ('only', 'RB', '', 'O') (')', '-RRB-', '', 'O')
+1 750 TU 2 42 % 3 two four weeks ten week
+__NEW_SENT__
+('Bayer', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Endo', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'395_patent", 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('20', 'CD', 'DATE', 'I') ('2014', 'CD', 'DATE', 'I')
+Bayer Endo Custopharm November 20 2014
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('proceeded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench_trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sole', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'640_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NNP', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('skilled_artisan', 'NN', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('consisted', 'VBD', '', 'O') ('primarily', 'RB', '', 'O') ('of', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('scientific', 'JJ', '', 'O') ('articles', 'NNS', '', 'O') (':', ':', '', 'O') ('Behre,1', 'VB', '', 'O') ('Nieschlag,2', 'UH', '', 'O') ('and', 'CC', '', 'O') ('von', 'NNP', '', 'O') ('Eckardstein3', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('Articles', 'NNPS', '', 'O') (')', '-RRB-', '', 'O')
+2 18 three
+__NEW_SENT__
+('These', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B') ('describe', 'VBP', '', 'O') ('small', 'JJ', '', 'O') ('clinical', 'JJ', '', 'O') ('studies', 'NNS', '', 'O') ('involving', 'VBG', '', 'O') ('1000', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('injections', 'NNS', '', 'O')
+Articles 1000 TU
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B') ('report', 'VBP', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('250', 'CD', 'CARDINAL', 'B') ('mg/ml', 'NNP', 'ORG', 'B') ('TU', 'NNP', 'ORG', 'I') ('in', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O')
+Articles 250 mg/ml TU
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('or', 'CC', '', 'O') ('describe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('co-solvent', 'NN', '', 'O')
+Articles
+__NEW_SENT__
+('While', 'IN', '', 'O') ('the', 'DT', '', 'O') ('actual', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('studies', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('40', 'CD', 'CARDINAL', 'B') ('%_castor_oil', 'CD', '', 'O') ('and', 'CC', '', 'O') ('60', 'CD', 'CARDINAL', 'B') ('%_benzyl', 'NNS', '', 'O') ('benzoate', 'VBP', '', 'O') ('this', 'DT', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('reported', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('unknown', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('skilled_artisan', 'NN', '', 'O') ('until', 'IN', '', 'O') ('2007', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('2003', 'CD', 'DATE', 'B') ('priority_date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O')
+40 60 2007 years 2003
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2007', 'CD', 'DATE', 'B') ('Saad4', 'NFP', '', 'O') ('disclosed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B') ('was', 'VBD', '', 'O') ('40', 'CD', 'CARDINAL', 'B') ('%_castor_oil', 'CD', '', 'O') ('and', 'CC', '', 'O') ('60', 'CD', 'CARDINAL', 'B') ('%_benzyl', 'NNS', '', 'O') ('benzoate', 'NN', '', 'O') ('also', 'RB', '', 'O') ('sold', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('NebidoTHE_R', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('1000', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('injection', 'NN', '', 'O') ('later', 'RB', '', 'O') ('marketed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('Europe', 'NNP', 'LOC', 'B') ('by', 'IN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B')
+2007 Articles 40 60 1000 TU Europe Bayer
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', '', 'O') ('Custopharm', 'NNP', '', 'O') ('introduced', 'VBD', '', 'O') ('Pushpalatha5', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Riffkin6', 'NNP', 'ORG', 'B') ('as', 'IN', '', 'O') ('prior_art', 'NN', '', 'O')
+Pushpalatha5 Riffkin6
+__NEW_SENT__
+('Pushpalatha', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('article', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('effects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('commercially', 'RB', '', 'O') ('marketed', 'VBN', '', 'O') ('product-Proluton', 'NNP', 'ORG', 'B') ('Depot', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Proluton', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+product-Proluton Depot Proluton
+__NEW_SENT__
+('Proluton', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('injectable', 'JJ', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hydroxyprogesterone', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mixture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('40', 'CD', 'CARDINAL', 'B') ('%_castor_oil', 'CD', '', 'O') ('and', 'CC', '', 'O') ('60', 'CD', 'CARDINAL', 'B') ('%_benzyl', 'NNS', '', 'O') ('benzoate', 'NN', '', 'O')
+Proluton 40 60
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('administered', 'VBN', '', 'O') ('once', 'RB', '', 'O') ('a', 'DT', 'DATE', 'B') ('week', 'NN', 'DATE', 'I') ('to', 'IN', '', 'O') ('pregnant', 'JJ', '', 'O') ('women', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('prevent', 'VB', '', 'O') ('miscarriage', 'NN', '', 'O')
+a week
+__NEW_SENT__
+('Riffkin', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('article', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parenteral', 'JJ', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('steroids', 'NNS', '', 'O')
+Riffkin
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('castor_oil', 'NN', '', 'O') ('and', 'CC', '', 'O') ('benzyl', 'NNS', '', 'O') ('benzoate', 'VBP', '', 'O') ('vehicle', 'NN', '', 'O') ('to', 'TO', '', 'O') ('improve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('solvent', 'NN', '', 'O') ('abilities', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('castor_oil', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('four-day', 'JJ', 'DATE', 'B') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Custopharm', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('met', 'VBN', '', 'O') ('its', 'PRP$', '', 'O') ('burden', 'NN', '', 'O') ('of', 'IN', '', 'O') ('proving', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('disputed', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O')
+four-day Custopharm
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('750', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('TU', 'NNP', '', 'O') ('injection', 'NN', '', 'O') ('dosage', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('skilled_artisan', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('motivated', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('lower', 'VB', '', 'O') ('the', 'DT', '', 'O') ('dosage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('TU', 'NNP', 'ORG', 'B') ('from', 'IN', '', 'O') ('1000', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('to', 'IN', '', 'O') ('750', 'CD', '', 'O') ('mg', 'NN', '', 'O') ('due', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('concerns', 'NNS', '', 'O') ('patients', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('being', 'VBG', '', 'O') ('overdosed', 'VBN', '', 'O')
+750 Custopharm TU 1000
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('inherently', 'RB', '', 'O') ('*1379', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('benzyl', 'NNS', '', 'O') ('benzoate', 'VBP', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('co-solvent', 'NN', '', 'O') ('or', 'CC', '', 'O') ('the', 'DT', '', 'O') ('particular', 'JJ', '', 'O') ('ratio', 'NN', '', 'O') ('of', 'IN', '', 'O') ('solvent', 'NN', '', 'O') ('to', 'IN', '', 'O') ('co-solvent', 'NN', '', 'O') ('claimed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ('simply', 'RB', '', 'O') ('because', 'IN', '', 'O') ('this', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('what', 'WP', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('studies', 'NNS', '', 'O') ('forming', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B')
+Articles Articles
+__NEW_SENT__
+('Citing', 'VBG', 'ORG', 'B') ('Par', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('TWI', 'NNP', 'ORG', 'B') ('Pharmaceutical', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('773_F.3d_1186', 'CD', '', 'O') ('1194-95', 'NNP', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Fed', 'NNP', 'ORG', 'B')
+Citing Par Pharmaceuticals Inc. TWI Pharmaceutical Inc. 1194-95 Fed
+__NEW_SENT__
+('Cir', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2014', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Continental', 'NNP', '', 'O') ('Can', 'MD', '', 'O') ('Co.', 'NNP', '', 'O') ('USA', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('948_F.2d_1264', 'CD', '', 'O') ('1268-69', 'NNP', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Fed', 'NNP', 'ORG', 'B')
+2014 Monsanto Co. 1268-69 Fed
+__NEW_SENT__
+('Cir', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1991', 'LS', 'DATE', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('inherency', 'NN', '', 'O') ('may', 'MD', '', 'O') ('only', 'RB', '', 'O') ('supply', 'VB', '', 'O') ('a', 'DT', '', 'O') ('missing', 'VBG', '', 'O') ('claim', 'NN', '', 'O') ('limitation', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('natural', 'JJ', '', 'O') ('result', 'NN', '', 'O') ("''", "''", '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('elements', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('necessarily', 'RB', '', 'O') ('present', 'JJ', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O')
+1991
+__NEW_SENT__
+('Custopharm', 'VB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('reasoned', 'VBD', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('establish', 'VB', '', 'O') ('that', 'IN', '', 'O') ('alternative', 'JJ', '', 'O') ('vehicles', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Articles', 'NNPS', 'GPE', 'B')
+Articles
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('injection', 'NN', '', 'O') ('schedule', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'395_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('unpersuaded', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Custopharm', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('argument', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('skilled_artisan', 'NN', '', 'O') ('to', 'TO', '', 'O') ('arrive', 'VB', '', 'O') ('at', 'IN', '', 'O') ('this', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('schedule', 'NN', '', 'O')
+Custopharm
+__NEW_SENT__
+('Custopharm', 'NNP', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__

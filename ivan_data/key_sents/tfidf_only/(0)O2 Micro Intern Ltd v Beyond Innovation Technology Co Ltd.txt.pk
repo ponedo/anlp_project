@@ -1,0 +1,315 @@
+	BiTEK's inverter controllers have feedback control loops.	4.826262543132355
+	SPI/FSP and Lien Chang manufacture and sell inverter modules incorporating BiTEK's inverter controllers.	2.7083923601374966
+	Gradzki discloses an inverter controller that regulates lamp power irrespective of the level of the feedback signal.	2.213349867807923
+	as disclosing a feedback technique to generate a feedback signal indicative of power being supplied to the load.	2.1685303181834734
+	B. Accused Devices BiTEK manufactures and sells inverter controllers.	2.0642663637350367
+	The controllers are capable of shutting off the feedback signal's control over power when a feedback signal falls below a predetermined threshold.	1.9364358102447596
+	BiTEK submits that its inverter controllers do not satisfy this limitation in two circumstances because, during those circumstances, the feedback signal in BiTEK's switch continues to control the power delivered to the load even though the feedback signal falls below the predetermined threshold.	1.9281800836043645
+	BiTEK asserts that, during the ignition period, the feedback signal is below the predetermined threshold, but the feedback circuit still controls power delivered to the load, in violation of the claims' requirements.	1.9278292614292991
+	During this delay period, the feedback circuit is designed to continue to rely on the feedback signal to control the power for 32 microseconds after the feedback signal falls below the predetermined threshold.	1.92478763038422
+	O2 Micro then asserts that "the 'only if' language distinguished Gradzki by claiming a feedback system responsive to the feedback signal's being above or below a predetermined threshold," which is tangential to whether or not the feedback signal is used during "ignition of the lamp" and other non-steady state operations.	1.8897771076305432
+	The converter circuit uses a feedback control loop (40) to affect the switches' ON times.	1.766060172435034
+	O2 Micro alleges that BiTEK's inverter controllers infringe several claims of the ï¿½ï¿½ 615 patent, the ï¿½ï¿½722 patent, and the ï¿½ï¿½129 patent.	1.6314066405261876
+	The examiner observed that the feedback loop described in the originally filed claims was obvious, stating that "Gradzki et al. teaches the utilization of the technique for a feedback loop circuit between the load and the drive circuitry supplying a feedback signal indicative of power being supplied to the load".	1.5713455884101994
+	O2 Micro alleged that four of BiTEK's products (BIT3105, BIT3106, BIT3107 and BIT3193) infringe one or more of the patents-in-suit.	1.4539277701203264
+	The Examiner looks to Gradzki et al.	1.4432511749067616
+	The examiner found that, like the application's pending claims, Gradzki discloses an inverter controller that regulates lamp power irrespective of the level of the feedback signal.	1.4324499633894883
+	In January 2004, O2 Micro filed suit against BiTEK, SPI/FSP, and Lien Chang in the United States District Court for the Eastern District of Texas.	1.4050113389208176
+	Specifically, O2 Micro amended Claim 1 of the ï¿½ï¿½ 615 patent to require that the feedback control loop circuit control the conduction state of the switches "only if said feedback signal is above a predetermined threshold" (the " 'only if' limitation").	1.4046233784669133
+	First, O2 Micro argues that the claims do not apply in the two circumstances identified by BiTEK.	1.3803238674144045
+	The district court's equivalents ruling focused on "only if," not "feedback signal" or "adjustment".	1.3580630275855372
+	An error amplifier (32) compares the feedback signal (FB) and the reference voltage (REF) to produce a comparison signal (CMP).	1.3227246035149232
+	Defendants-Appellants BiTEK and Lien Chen asserted that "only if" should mean "exclusively or solely in the event that," while defendant SPI/FSP asserted that it should mean "never except when".	1.2570566265471923
+	Q: What did the additional language, "only if said feedback signal is above a predetermined threshold," pertain to?	1.2509995193078973
+	The "objectively apparent" reason for the patentee's amendment was to require the feedback circuit to be operational "only if said feedback signal is above a predetermined threshold," as the claim language clearly states.	1.205895678839415
+	The equivalent alleged by O2 Micro is a feedback circuit that, during non-steady state operations, may be operational even though the claim language is not satisfied (i.e., the feedback signal is not above the predetermined threshold).	1.1620533395601473
+	a feedback control loop circuit receiving a feedback signal indicative of power being supplied to said load, and adapted to generate a second signal pulse signal for controlling the conduction state of said second plurality of switches only if said feedback signal is above a predetermined threshold; '615 patent col. 10 l.67-col. 11 l.5.	1.1481156477452352
+	Significantly, however, Gradzki et al. discloses a feedback system, maintains [sic] the voltage at the CRECT pin equal to the voltage at the DIN pin, thereby regulating lamp power (Gradzki et al., column 4, lines 64-67).	1.1181816127760362
+	Opinion Defendants-Appellants Beyond Innovation Technology Company Limited ("BiTEK"), SPI Electronic Company Limited and FSP Group (collectively, "SPI/FSP"), and Lien Chang Electronic Enterprise Company Limited ("Lien Chang") appeal a final judgment by the United States District Court for the Eastern District of Texas.	1.1143368913665757
+	To the feedback control loop, the converter circuit provides a feedback signal (FB) indicative of the total current (and, thus, power) at the load and a reference voltage (REF) indicative of the desired load conditions (for example, the desired total current at the load).	1.1038059847299995
+	Innovation Tech. Co., No. 2:04-CV-32 (E.D.Tex. Aug. 26, 2005).	1.0971841136644374
+	During prosecution of the application, the examiner rejected the ï¿½ï¿½615 patent under 35 U.S.C. ï¿½ï¿½ 103 as unpatentable over a combination of U.S. Patent No. 5,384,516 to Kawabata ("Kawabata") and U.S. Patent No. 6,011,360 to Gradzki ("Gradzki").	1.0776948415855092
+	In response to the examiner's rejection, O2 Micro added the "only if" language to the independent claims, amending claim 1 of the ï¿½ï¿½615 patent, for example, to require that the feedback control loop circuit controls the conduction state of the switches "only if said feedback signal is above a predetermined threshold".	1.0405762637178473
+	During prosecution, the examiner rejected the ï¿½ï¿½615 patent as obvious in light of Gradzki.	1.0255420766911125
+	In contrast to [the prior art], Applicant's invention of independent claim 1 requires, inter alia, a DC/AC converter circuit that includes a feedback control loop circuit between the load and the drive circuitry receiving a feedback signal indicative of power supplied to the load and adapted to generate a second pulse signal for controlling the conduction state of a second plurality of switches only if said feedback signal is above a predetermined threshold.	1.0109281155520147
+	The patents-in-suit describe a converter circuit that employs a feedback control loop to control the amount of power delivered from the DC power source (the "drive") to the CCFL (the "load").	1.0001034509990465
+	The parties presented a dispute to the district court regarding the scope of the asserted claims-What do the patents mean when they say that the feedback signal controls power "only if said feedback signal is above a predetermined threshold"?	0.992839917840018
+	Innovation Tech. Co., No. 2:04-CV-32 (E.D.Tex. May 2, 2006).	0.9845902877103437
+	Innovation Tech. Co., No. 2:04-CV-32 (E.D.Tex. May 8, 2006).	0.9845902877103437
+	Innovation Tech. Co., No. 2:04-CV-32 (E.D.Tex. May 8, 2006).	0.9845902877103437
+	When powered by a battery or other DC power source, a CCFL uses a DC-to-AC converter circuit because CCFLs are designed to run on AC power.	0.9784358104574766
+	O2 Micro provided little explanation for the amendment, stating that "in contrast to [the prior art], Applicant's invention of independent claim 1 requires, inter alia, a DC/AC converter circuit that includes a feedback control loop circuit ... adapted to generate a second pulse signal ... only if said feedback signal is above a predetermined threshold".	0.9393418843550624
+	In response, Dr. Rhyne explained why the reaction of the circuit was "essentially the same as it would be even if the feedback were not present".	0.9199411850894351
+	Innovation Tech. Co., No. 2:04-CV-32, slip op.	0.8899831843054776
+	The parties dispute whether this feature satisfies the "only if" limitation recited by the asserted claims, which requires "a feedback control loop circuit ... adapted to generate a second signal pulse signal for controlling ... [the] switches only if said feedback signal is above a predetermined threshold". (emphasis added).	0.8854966912426414
+	Such a delay was purposely created to ensure that the feedback signal would not cease to control the power to the load because of a temporary fall below the threshold.	0.8804658165444456
+	Innovation Tech. Co., No. 2:04-CV-32, 2007 WL 869576 (E.D.Tex. Mar. 21, 2007).	0.8438964814055332
+¡°	The patents-in-suit1 are directed to DC-to-AC converter circuits, which convert low voltage direct current ("DC") into higher voltage alternating current ("AC").	0.7933036201282923
+	Id. O2 Micro points to no portion of the record where it argued that the accused devices satisfied the "feedback signal" or "adjustment" limitations under the doctrine of equivalents.	0.7845629866203738
+	The jury also found that Lien Chang contributorily infringed and all three Defendants-Appellants willfully infringed.	0.7838195540008348
+	On appeal, BiTEK relies exclusively on these two circumstances to avoid infringement under the claim, asserting that the "only if" limitation is therefore not satisfied.	0.7755309876903099
+	Thus, when the value of the feedback signal (FB) is within a permitted range (i.e., during normal operation), the current sense comparator (42) allows the comparison signal (CMP) to flow through switch 38; however, when the value of the feedback signal is outside that range (e.g., during an open circuit or short circuit condition), the current sense comparator substitutes a minimum voltage (Vmin) for the comparison signal (CMP) at switch 38.	0.7349173593351435
+	While Defendants-Appellants are foreign entities that operate abroad, Defendants-Appellants' inverter controllers and modules are used in monitors sold in the United States.	0.698101668277074
+	To protect the circuitry from damage during an open-circuit condition (such as when a CCFL breaks or becomes disconnected), the feedback signal (FB) may also be compared to a reference value (not shown in Figure 2) at the current sense comparator (42).	0.6937771144902404
+	Plaintiff-Appellee O2 Micro International Ltd. ("O2 Micro").	0.6762829841584866
+	On appeal, O2 Micro supplements this argument, asserting that the doctrine of equivalents should presumptively be available for other claim terms (namely, "feedback signal" and "adjustment") because these terms were not added by amendment.	0.6727989483922976
+	Noting that the terms "feedback signal" and "adjustment" were present in the originally filed claims, O2 Micro argues that its expert's equivalents analysis focused on these terms, not the "only if" claim language.	0.6605368715667579
+	Second, O2 Micro disputes BiTEK's allegations regarding the operation of its devices during those circumstances and, consequently, asserts that, even if the claims apply, the accused devices still infringe.	0.6558434878083386
+	Owner of patents relating to inverter controllers, which convert low voltage direct current (DC) into higher voltage alternating current (AC), brought infringement action against competitors.	0.6418852144657952
+	at 2 (E.D.Tex. Aug. 26, 2005).	0.6252346313011329
+	During pre-trial proceedings, BiTEK filed a motion in limine seeking to prevent O2 Micro from alleging infringement under the doctrine of equivalents as to the "only if" limitation, asserting that prosecution history estoppel barred that theory.	0.6080744399550208
+	E.g., Biotec Biologische Naturverpackungen GmbH & Co. KG v. Biocorp, Inc., 249 F.3d 1341,	0.596047108440159
+	If a pair of switches along a conduction path are ON simultaneously, the circuit will deliver more power to the load.	0.5955902419201723
+	So if the only time it makes any sense to use feedback to control power to a lamp is after it's lit, after this threshold is reached, what did you give up, if anything, by adding the "only if" language to the claims?	0.5829896109927947
+	As issued, it requires, in relevant part, a DC/AC converter circuit comprising:	0.5680729556427019
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	O2 Micro Int'l Ltd. v. Beyond	0.5582669035031373
+	While O2 Micro points to two additional excerpts of the trial transcript, the generalized testimony regarding "virtually insignificant" current flow is insufficient to establish that either the "feedback signal" or "adjustment" limitations were infringed under the doctrine of equivalents.	0.524437647460744
+	In O2 Micro's brief, it asserts that only three pages of trial testimony directly addressed the issue of equivalents; however, in these pages, O2 Micro's expert opines that the asserted equivalents are insubstantially different from the "only if" limitation, with no discussion regarding either "feedback signal" or "adjustment".	0.49840455375087783
+	We agree with Defendants-Appellants that no waiver has occurred.	0.49838311051212064
+	There are two circumstances in which Defendants-Appellants assert that the "only if" limitation is not satisfied: (1) the pre-ignition, start-up phase, and (2) a 32-microsecond delay.	0.4690928605235906
+	The second circumstance applies only to the BIT3193 product, which implements a 32-microsecond delay.	0.4582626887350958
+	Also called inverter controllers, these circuits may be used to control the amount of power delivered to cold cathode fluorescent lamps ("CCFLs") that are used to backlight the screens of laptop computers and televisions.	0.44475454715454554
+	First, O2 Micro contends that Defendants-Appellants have waived any challenge to the construction of "only if" because Defendants-Appellants failed to object to the jury instructions as lacking a construction of that term.	0.4410752953667016
+	Contending that Defendants-Appellants' current construction is that "only if" allows for "no exceptions," O2 Micro notes that the word "exception" was never used in Defendants-Appellants' claim construction briefs.	0.4277859342834321
+	Likewise, Defendants-Appellants argued to the jury that "only if" does not allow for exceptions.	0.42623255179080577
+	equivalents.5 "	0.4156386991459905
+	Thus, we conclude Defendants-Appellants have not waived these arguments.	0.4156125908992955
+	We turn now to Defendants-Appellants' arguments with respect to the doctrine of	0.40763154934363616
+	The parties concede that, for the purposes of this litigation, the first three products (BIT3105, BIT3106, and BIT3107) are the same, and the fourth (BIT3193) differs from the others in only one material respect.	0.4061683669418177
+	Thus, by adjusting the overlap between switches' ON times, the circuit can precisely control the amount of power delivered to the load.	0.3951981702408357
+	O2 Micro contends that this "only if" limitation only applies during "steady state operation," while Defendants-Appellants contend that the "only if" limitation applies at all times without exception.	0.3871087173359364
+	The first circumstance is when an unlit lamp lights up (called "start-up" or "ignition").	0.3764791983738164
+	Accordingly, Defendants-Appellants seek a construction that specifies that "only if" has no exceptions and is not limited to "steady state operation".	0.37592357785665165
+	Defendants-Appellants original motion in limine sought to prevent O2 Micro from arguing equivalents to "only if".	0.3582304570644647
+	During normal operation, the drive circuitry (50) receives the comparison signal (94) and may use it to adjust the switches' ON times, thereby regulating the power to the load.	0.34472374398657335
+	In the latter case, the minimum voltage minimizes the overlap of the switches' ON times, reducing the power to a safer level while avoiding shutdown if the lamp remains operable.	0.3294896210598005
+	Defendants-Appellants timely appealed to this court.	0.3285414981445458
+	Defendants-Appellants presented evidence to the contrary.	0.32818888904738974
+	On appeal, Defendants-Appellants allege error in both theories of infringement liability.	0.3225683531174409
+	O2 Micro also argues that, if the failure to construe "only if" was error, it was not prejudicial error because O2 Micro presented evidence sufficient to prove literal infringement under the construction proposed by Defendants-Appellants.	0.3127973496222408
+	Second, O2 Micro also asserts that Defendants-Appellants have waived their proposed claim constructions of "only if" by asserting a new construction on appeal.	0.30602096393026085
+	According to Defendants-Appellants, because O2 Micro has failed to rebut this presumption, it should not have been allowed to argue that the accused devices infringe under the doctrine of equivalents.	0.30549643103294705
+	O2 Micro acknowledges that Defendants-Appellants presented these arguments during the Markman hearing and that the district court issued a claim construction order months before trial.	0.30354228015857815
+	Essentially, O2 Micro argues that exceptions to the "only if" limitation (e.g., during non-steady state operations) are merely tangential to the limitation itself.	0.2975085769683057
+	Second, Defendants-Appellants assert that the jury should not have been permitted to find infringement under the doctrine of equivalents.	0.28935618813186004
+	Defendants-Appellants disagree and submit that the claims apply at all times-not just to steady state operation-with no exceptions.	0.2664374457213153
+	In response, Defendants-Appellants argue that the purpose of a Markman hearing is to determine the meaning of claim terms.	0.2611331691208831
+	Micro Int'l Ltd. v. Sumida Corp., 2:03-CV-07 (E.D.Tex. Mar. 8, 2005) (claim construction order construing claim language in the same patents).	0.26043112683151376
+	This equivalent is simply not tangential to the reason for the amendment.	0.24823077584519188
+	O2 Micro, on the other hand, asserts that this limitation is satisfied by the accused devices.	0.2460988232064367
+	O2 Micro provided little explanation for the amendment, merely stating:	0.243946187644239
+	We agree with Defendants-Appellants that prosecution history estoppel prevents application of the doctrine of equivalents for the "only if" limitation.	0.24221880547339472
+	In spite of the differences in word choice, Defendants-Appellants seemed to agree that these constructions are substantially identical in meaning.	0.23344273703618143
+	At the district court, O2 Micro attempted to rebut the Festo presumption by arguing that the alleged equivalent is merely tangential to this amendment.	0.22657583220144328
+	However, O2 Micro appears to offer two alternate theories for why Festo should not apply.	0.2202291153139002
+	O2 Micro asserts that the claims would be understood by one of ordinary skill in the art to only apply to "the steady state operation of the switching circuit".	0.2201057749120178
+	Accordingly, we turn to the merits of Defendants-Appellants' appeal of the district court's failure to construe the claim term "only if".	0.21900331239665105
+	Under O2 Micro's theory, the jury verdict must be upheld if the jury could have found infringement under either theory because Defendants-Appellants failed to object to the district court's use of a general verdict form.	0.21196451207770056
+	Accordingly, we agree with Defendants-Appellants that the district court erred in allowing the jury to find infringement under the doctrine of equivalents.	0.20662842433849088
+	On appeal, Defendants-Appellants argue that the district court erred in allowing the jury to find infringement under the doctrine of equivalents.	0.20661431090865937
+	Defendants-Appellants propose the same construction on appeal as was presented to the district court.	0.2056495830172755
+	Because Defendants-Appellants' position was previously made clear to the district court and the district court did not clearly indicate that it was open to changing its claim construction, Defendants-Appellants need not have renewed their objections by reasserting them when jury instructions were given.	0.20068616426915778
+	Because we vacate the jury verdict, the remaining issues raised by Defendants-Appellants (which are premised on that jury verdict) are rendered moot.	0.19604134305738527
+	Because these issues were fully litigated and decided at the Markman stage of the litigation, Defendants-Appellants assert that no objection to the jury instruction was required to preserve error.	0.1929953843259973
+	In Defendants-Appellants' view, by failing to provide a construction of this term, the district court effectively submitted a legal question to the jury.	0.19113972290755216
+	As shown in Figure 2 of the ï¿½ï¿½615 patent, the converter circuit includes a number of switches (80) placed between the drive (12) and the load (20).	0.18726506458239256
+	O2 Micro also brought the inventor of the patents-in-suit to testify regarding the meaning of "only if":	0.18648141692227155
+	In response to the examiner's rejection, O2 Micro added a limitation to each of the independent claims.	0.18638582347220192
+	First, Defendants-Appellants contend that the district court's failure to construe the claim term "only if" was legal error that infected the literal infringement inquiry.	0.18535281836113285
+	Defendants-Appellants, on the other hand, contend that a construction of "only if" would certainly have changed the result.	0.1840794207718621
+	At the Markman hearing, Defendants-Appellants argued that the district court should construe the claim term "only if," but disagreed regarding what specific meaning should be ascribed to it.	0.18345737001511228
+	See, e.g., Biotec Biologische Naturverpackungen GmbH & Co. KG v. Biocorp, Inc., 249 F.3d 1341, 1349 (Fed.Cir.2001) (deciding that disputed issue was the proper application of a claim term to an accused process rather the scope of the term); U.S. Surgical Corp. v. Ethicon, Inc., 103 F.3d 1554, 1568 (Fed.Cir.1997) (Claim construction "is not an obligatory exercise in redundancy".).	0.18169945082602798
+	Accordingly, Defendants-Appellants find error in the jury instruction allowing for infringement under the doctrine of equivalents and O2 Micro's arguments at trial alleging infringement on this basis.	0.17480496802109016
+	O2 Micro presented expert testimony to support its argument that the claim limitation "only if" applies only during certain periods of operation-"normal operation"-and that this claim limitation "has nothing to do with start-up".	0.17398587788073722
+	O2 Micro presented evidence that the accused devices satisfied the "only if" limitation both literally and under the doctrine of equivalents.	0.1719545879382138
+	While Defendants-Appellants employ different arguments in support, these new arguments simply incorporate an understanding of the parties' dispute that has developed through the course of litigation.	0.16796924618218456
+	To begin, O2 Micro correctly notes that prosecution history estoppel is a "flexible" doctrine, not a "rigid" one.	0.15803003278381914
+	On appeal, Defendants-Appellants argue that the district court's failure to construe the claim term "only if" was error because the parties disputed whether or not this claim language allows for exceptions.	0.15617150392276205
+	A jury found that Defendants-Appellants willfully induced the infringement of claims 1, 15, 35, and 39 of U.S. Patent No. 6,259,615 ("the ï¿½ï¿½615 patent"), claims 12 and 16 of U.S. Patent No. 6,396,722 ("the ï¿½ï¿½722 patent"), and claims 13, 16, and 17 of U.S. Patent No. 6,804,129 ("the ï¿½ï¿½129 patent"), all of which are owned by	0.15525717740972567
+	O2 Micro agrees that the addition of "only if" constituted a narrowing amendment made for a substantial reason relating to patentability.	0.1541627895150395
+	Bell & Howell Document Mgmt.	0.14689225098546202
+	O2 Micro, on the other hand, maintained that no construction was necessary because the claim term "only if" consists of "two simple, plain English words".	0.1421567289557456
+	Taita Chem. Co. v.	0.1398650342329109
+	At trial, O2 Micro asked its expert, Dr. Rhyne: "Do the 'only if' limitations also infringe under the doctrine of equivalents?" J.A. 6328.	0.13902268345991606
+	O2 Micro notes that this court has repeatedly held that a district court is not obligated to construe terms with ordinary meanings,2 lest trial courts be inundated with requests to parse the meaning of every word in the asserted claims.	0.13642965184651223
+	Defendants-Appellants respond by re-affirming the construction proposed to the district court-namely, "only if" means "solely or exclusively in the event	0.13299873499902687
+	Drive circuitry (50) associated with each switch determines when and how long a given switch will be turned on ("ON time").	0.13129399601064007
+	O2 Micro counters that the claim term "only if" does not need to be construed because the parties agree that the term is a "common term" with a "common meaning".	0.13018202145982236
+	Defendants-Appellants contend that, because the claim term "only if" was added during prosecution to overcome a prior art rejection, the Festo presumption should apply.	0.12709881526343325
+	Defendants-Appellants note that these new arguments simply recognize that the effect of their proposed construction is to prohibit exceptions to the "only if" limitation.	0.12688306644072259
+	Defendants-Appellants argue that, while the arguments advanced in support of their construction may have changed, the construction itself remains the same.	0.12682642720066017
+	Defendants-Appellants assert that, because this presents an issue of claim construction, it is a question of law that must be decided by the court.	0.12637553986539807
+	at 1371-72 (holding that amendment was not tangential to accused equivalent because the prosecution history reveals no reason for the amendment);	0.12616597353556833
+	Only when the lamp is lit ... we control power at that time.	0.12595375797592115
+	O2 Micro also alleges that the doctrine of equivalents instruction would not be error so long as the jury could have found any limitation to be met by equivalents.	0.11906752325273919
+	O2 Micro asserts, however, that a party waives its objections to a claim construction by not objecting to the jury instructions containing (or, in this case, lacking) that construction.	0.11767591137163647
+	As a threshold matter, however, O2 Micro argues that Defendants-Appellants waived any challenge to the construction of "only if" by: (1) failing to object to the jury instructions as lacking a construction of that claim term and (2) offering a different construction of the claim term on appeal than was presented to the district court.	0.11719828006690262
+	Thus, the Festo presumption applies to this limitation, and, in order to avail itself of the doctrine of equivalents, O2 Micro must rebut the "presumption that the patentee has surrendered all territory between the original claim limitation and the amended claim limitation".	0.11247034054233217
+	However, after considering supplemental briefing, the district court changed course, ruling that O2 Micro was allowed to argue that the "only if" limitation is infringed under the doctrine of equivalents.	0.11066729360440405
+	Device Alliance, Inc., 244 F.3d 1365, 1380 (Fed.Cir.2001) (finding no error in court's refusal to construe "irrigating" and "frictional heat").	0.10807051217862482
+	The Supreme Court provided three vehicles6 through which a plaintiff may do so.	0.10324013631106228
+	The district court originally granted this motion, instructing O2 Micro to first approach the bench before "offering any evidence relating to infringement of the 'only if' limitation under the doctrine of equivalents".	0.10181754653666128
+	During the hearing, the district court astutely summarized the dispute as concerning whether or not "there can be an exception" to the "only if" language.	0.09954422191981495
+	Conoco, Inc. v. Energy & Envtl.	0.09811453627278416
+	O2 Micro asserts that the jury verdict, which found "infringement," should not be vacated unless we find error in both theories of liability (i.e., literal infringement and infringement under the doctrine of equivalents).	0.09639030952289078
+	Defendants-Appellants also argue that the district court erred by allowing the jury to reach a verdict based upon an erroneous legal conclusion-namely, that "only if" allows exceptions.	0.09496400276841856
+	At the claim construction hearing, the district court astutely recognized that the dispute "boils down to whether [the court] believes there can be an exception".	0.09493545250681794
+	See id.  "The inquiry into whether a patentee can rebut the Festo presumption under the 'tangential' criterion focuses on the patentee's objectively apparent reason for the narrowing amendment".	0.09325037312902695
+	On appeal, O2 Micro supplements its argument supporting the doctrine of equivalents instruction by asserting that the instruction was proper because the jury could have found that other claim terms were infringed by the doctrine of equivalents.	0.0915034195374768
+	However, the parties presented a handful of additional terms for the court to construe.	0.09027123587945274
+	Without any analysis, the district court's opinion simply stated, "The court ... is persuaded by O2's argument that the amendment bears only a tangential relationship to the equivalent at issue".	0.08059199662894709
+	Accordingly, we turn directly to the issue of whether the rationale behind the narrowing amendment was merely tangential (i.e., peripheral, or not directly relevant) to the alleged equivalent.	0.07732290173178172
+	Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722, 733, 122 S.Ct.	0.07464463940385091
+	Q:	0.06683641550643063
+	In ruling that the doctrine of equivalents was available with respect to the "only if" limitation, the district court simply stated that it was "persuaded by O2's argument that the amendment bears only a tangential relationship to the equivalent at issue".	0.0647002072104249
+	We find this decision to be in error because, while Elekta Instrument may not require the court to construe this claim term, we find that Markman does.	0.0637453661900948
+	World Learning Ctrs., Inc., 213 F.3d 209, 223 (5th Cir.2000) ( "Failure to object [to a proposed jury instruction] may be disregarded if the party's position has previously been made clear to the court and it is plain that a further objection would have been unavailing".); Bender v. Brumley, 1 F.3d 271, 277 (5th Cir.1993) (finding "oral on-the-record objections to the jury charge" were not required to preserve objection where appellant "had earlier filed written objections to the proffered jury instructions").	0.0631522009381507
+	Cardiac Pacemakers, Inc. v. St. Jude Med., Inc., 381 F.3d 1371, 1381 (Fed.Cir.2004) (under Seventh Circuit law).	0.06262777296949953
+	Id. (also citing Insituform Techs., Inc. v. CAT Contracting, Inc., 385 F.3d 1360, 1370 (Fed.Cir.2004)).	0.05914539278748914
+	For the reasons stated, the parties' arguments regarding the meaning and legal significance of the "only if" limitation were improperly submitted to the jury.3	0.0570332977378802
+	Shoketsu Kinzoku Kogyo Kabushiki Co., 344 F.3d 1359, 1367 (Fed.Cir.2003) (en banc).	0.0564378466721055
+	It is true, as defendants argue, that Elekta Instrument, S.A. v. O.U.R. Scientific International, Inc., 214 F.3d 1302 (Fed.Cir.2000), applies the ordinary meaning of "only" (being solely; exclusively) to a claim term and evaluates the evidence in that light.	0.052485106285954514
+	The three vehicles are: "(1) 'the alleged equivalent would have been unforeseeable at the time ... the narrowing amendment' was made; (2) 'the rationale underlying the narrowing amendment bore no more than a tangential relation to the equivalent' at issue; and (3) 'there was "some other reason" suggesting that the patentee could not reasonably have been expected to have described the alleged equivalent.' " Honeywell Int'l Inc. v. Hamilton Sundstrand Corp., 370 F.3d 1131, 1140 (Fed.Cir.2004) (quoting Festo, 344 F.3d at 1368).	0.05167167047422812
+	; Mentor H/S, Inc. v. Med.	0.051449210914828146
+	We note, in passing, that the parties' claim construction arguments are fraught with problems.	0.046831050289359466
+	Instruments, Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1567 (Fed.Cir.1996) ("Generalized testimony as to the overall similarity between the claims and the accused infringer's product or process will not suffice [to prove infringement under the doctrine of equivalents].").	0.046734471413542235
+	Westlake Styrene, LP, 351 F.3d 663, 667 (5th Cir.2003) (stating that there is no need to object where a litigant "had previously filed sufficient objections"); Rizzo v. Children's	0.04630838065689345
+	Int'l, L.C., 460 F.3d 1349, 1357 (Fed.Cir.2006).	0.044801141292030784
+	See, e.g., Nystrom v. TREX Co., 424 F.3d 1136, 1143 (Fed.Cir.2005) (construing "board" in light of intrinsic record); Unitherm Food Sys., Inc. v. Swift-Eckrich, Inc., 375 F.3d 1341, 1350 (Fed.Cir.2004) (construing "golden brown" even though colors "are commonly used terms with well-accepted plain definitions that rarely need construction"), rev'd on other grounds, 546 U.S. 394, 126 S.Ct. 980, 163 L.Ed.2d 974 (2006); Toro Co. v. White Consol.	0.04320167050026939
+	In this case, for example, the parties agreed that "only if" has a common meaning, but then proceeded to dispute the scope of that claim term, each party providing an argument identifying the alleged circumstances when the requirement specified by the claim term must be satisfied (e.g., at all times or during steady state operation).	0.04220270298265139
+	The district court in this case, as in Cardiac Pacemakers, rendered a claim construction order following a Markman hearing during which the parties' positions were fully litigated.	0.04127375404420431
+	Int'l Rectifier Corp. v. IXYS Corp., 515 F.3d 1353, 1358 (Fed.Cir.2008). "	0.037305544772387074
+	Because we determine that the district court is in the best position to determine the proper construction of this claim term in the first instance, we remand for further proceedings consistent with this opinion.4 B. Doctrine of Equivalents	0.03697000677668718
+	Nothing in Elekta Instrument, however, requires the court to construe claim terms that have a well-understood meaning. "Only if" has a well-understood definition, capable of application by both the jury and this court in considering the evidence submitted in support of an infringement or invalidity case.	0.03614280674883669
+	U.S. Surgical, 103 F.3d at 1568.	0.03342061494778063
+	During the claim construction hearing, the district court acknowledged that this dispute over the scope of the asserted claims "boils down to whether I believe there can be an exception".	0.03341447135270121
+	Neither party has argued either that the equivalent was unforeseeable or that there was "some other reason" why the patentee could not have described the alleged equivalent.	0.033237969603625
+	Biagro W. Sales, Inc. v. Grow More, Inc., 423 F.3d 1296, 1306 (Fed.Cir.2005) ("Whether the patentee has overcome the presumption on this ground is determined by the court on the basis of the public record".). "	0.02855207470115305
+	VACATED AND REMANDED.	0.027319976894392743
+	We agree. "When the claim construction is resolved pre-trial, and the patentee presented the same position in the Markman proceeding as is now pressed, a further objection to the district court's pre-trial ruling may indeed have been not only futile but unnecessary".	0.02442711985211654
+	This reference value preferably reflects the minimum or maximum current permitted by the system.	0.019062296823429328
+	Applicant's invention of independent claim 18 has been similarly amended.	0.018978577645977414
+	Tex.	0.017708041557729506
+	After deliberations, the jury found that each Defendant-Appellant had induced infringement of each asserted claim of each patent.	0.016973851114772717
+	The United States District Court for the Eastern District of Texas, T. John Ward, J., 2007 WL 869576, inter alia granted patent owner a permanent injunction.	0.016550695481560438
+	577 (1996) (explaining why judges "are the better suited to find the acquired meaning of patent terms").	0.016133517764495762
+	1349 (Fed.Cir.2001) (finding no error in non-construction of "melting")	0.015733369001430873
+	Before addressing the claim construction issue on the merits, we turn to these waiver arguments.	0.015496500149275205
+	While "a waiver may occur if a party raises a new issue on appeal .... [a] waiver will not necessarily occur ... if a party simply presented new or additional arguments in support of 'the scope of its claim construction....' " CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1370-71 (Fed.Cir.2002) (citation omitted).	0.015157907460547265
+	In this case, the parties dispute whether or not the "only if" limitation allows for exceptions.	0.015128142378947527
+	In order to maintain the public notice function of a patent, "that reason should be discernible from the prosecution history record".	0.012834351247567592
+	C. District Court Proceedings	0.01219738298530757
+	Moreover, both parties presented arguments regarding whether or not the "only if" claim language allows exceptions.	0.012154597564079491
+	ï¿½ï¿½615 patent's Figure 2	0.012134107833830848
+	competitors did not waive on appeal any objection to claim construction determined at Markman hearing; arguments regarding the meaning and legal significance of "only if" limitation were improperly submitted to the jury; and prosecution history estoppel barred patent owner from relying on the doctrine of equivalents.	0.010227453702676335
+	Only if," between my patent lawyer and examiner, they added in to try to clarify, make the entire invention more easier to understand.	0.010072779185820138
+	These deficiencies support the rationale underlying the rule that the court, and not the jury, should resolve claim construction disputes.	0.010024772190393341
+	The doctrine of equivalents allows the patentee to claim those insubstantial alterations that were not captured in drafting the original patent claim but which could be created through trivial changes".	0.009968545926793063
+	I. BACKGROUND	0.009342846058540745
+	The district court entered a final judgment and permanent injunction.	0.008885473527931481
+	The corresponding jury instructions explained that infringement may be found either literally or under the doctrine of equivalents.	0.008468712652466666
+	The district court generated a jury form containing general questions regarding "infringement" and included jury instructions explaining that a claim limitation may be satisfied either literally or under the doctrine of equivalents.	0.00821005476206973
+	The Court of Appeals, Prost, Circuit Judge, held that:	0.008036573960656228
+	For simplicity, we refer to the disclosure of the ï¿½ï¿½615 patent and omit the parallel citations to the ï¿½ï¿½722 patent and the ï¿½ï¿½129 patent.	0.007434453226648335
+	Indus., Inc., 199 F.3d 1295, 1299 (Fed.Cir.1999) (construing "cover," "included," "attachment," and "removable").	0.007414163749331045
+	1831 ("The patentee should bear the burden of showing that the amendment does not surrender the particular equivalent in question".).	0.007047499650408152
+	J.A. 7638.	0.006464021568987856
+	J.A. 7626.	0.006464021568987856
+	J.A. 6550-51.	0.006464021568987856
+	See Phillips, 415 F.3d at 1314-19 (emphasizing the importance of the intrinsic record in claim construction).	0.006423332729416401
+	For the above reasons, we vacate the jury verdict, the final judgment of infringement, and the permanent injunction, and we remand to the district court for further proceedings consistent with this opinion.	0.00632584407840539
+	If the patentee fails to rebut the Festo presumption, then prosecution history estoppel bars the patentee from relying on the doctrine of equivalents for the accused element".	0.006261422368395513
+	Without the benefit of the district court's explanation of its rationale, we examine the prosecution history and parties' arguments to the district court.	0.006183622831792272
+	The district court held a Markman hearing in August 2005.	0.0060045139893724325
+	When the district court failed to adjudicate the parties' dispute regarding the proper scope of "only if," the parties presented their arguments to the jury.	0.005498018399067689
+	In some cases, the ordinary meaning of claim language ... may be readily apparent even to lay judges, and claim construction in such cases involves little more than the application of the widely accepted meaning of commonly understood words".	0.005328149359286632
+	However, when a patent claim is narrowed during prosecution, prosecution history estoppel may limit application of the doctrine of equivalents.	0.0049824259743415705
+	After receiving this amendment, the examiner issued a notice of allowance.	0.004898845162185234
+	After trial, the parties submitted proposed verdict forms that asked separate questions regarding literal infringement and infringement under the doctrine of equivalents.	0.004784381852494754
+	Thus, it was error for the district court to allow the jury to consider infringement under the doctrine of equivalents.	0.004499134812321609
+	A claim construction order always dictates how the court will instruct the jury regarding a claim's scope.	0.004361392574308307
+	See Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 29, 117 S.Ct. 1040, 137 L.Ed.2d	0.004251649603360998
+	First, an inventor's self-serving statements are rarely relevant to the proper construction of a claim term.	0.00410993856664937
+	A. Claim Construction	0.004100334915620098
+	146 (1997) ("The doctrine of equivalents must be applied to individual elements of the claim, not to the invention as a whole".);	0.004029515506641346
+	Because we find error in both literal infringement and infringement under the doctrine of equivalents, we need not decide this issue.	0.003925555920138758
+	See Markman v. Westview Instruments, Inc., 517 U.S. 370, 388-89, 116 S.Ct.	0.0038978170635733294
+	Second, the parties' claim construction arguments appear to contain no support from the intrinsic record.	0.0034396875178844314
+	122 S.Ct. 1831.	0.0032347590943087633
+	However, in many cases, the meaning of a claim term as understood by persons of skill in the art is not readily apparent.	0.003231438148536027
+	DISCUSSION	0.002950378378642911
+	Words of a claim are generally given their ordinary and customary meaning, which is the meaning a term would have to a person of ordinary skill in the art after reviewing the intrinsic record at the time of the invention.	0.002944697026465822
+	We review issues relating to the application of prosecution history estoppel de novo".	0.0027965708819001596
+	As noted above, the district court provided a general verdict form that asked the jury whether each defendant "infringed" each of the asserted claims.	0.002668518735538163
+	A determination that a claim term "needs no construction" or has the "plain and ordinary meaning" may be inadequate when a term has more than one "ordinary" meaning or when reliance on a term's "ordinary" meaning does not resolve the parties' dispute.	0.0026130244171948367
+	Markman v. Westview Instruments, Inc., 52 F.3d 967, 976 (Fed.Cir.1995) (en banc), aff'd 517 U.S. 370, 116 S.Ct.	0.0023944881120865433
+	All Citations 521 F.3d 1351, 86 U.S.P.Q.2d 1304 Footnotes The patents-in-suit are related-the ï¿½ï¿½129 patent is a continuation of a continuation of the ï¿½ï¿½722 patent, which is a continuation of the ï¿½ï¿½615 patent-and share a common specification.	0.0023092369148591087
+	III. CONCLUSION	0.0022879586354831805
+	For the reasons explained below, we vacate and remand for further proceedings.	0.0021680401960108174
+	We do not find the infringement evidence to be clearly in favor of either party, and cannot conclude that the lack of a construction did not result in harm.	0.00215060851002865
+	I think that's what it is.	0.0020801871634860366
+	The term "only if" needs no construction aside from the construction previously adopted by the court for the phrases in which the term appears.	0.0020721045162540447
+	I don't think I gave up anything.	0.0019646457523469917
+	By failing to construe this term, the district court left the jury free to consider these arguments.	0.0018205042873882867
+	The parties agree that the "only if" limitation was added to the claims by a "narrowing amendment ... made for a substantial reason relating to patentability".	0.0017469761807616055
+	When the parties raise an actual dispute regarding the proper scope of these claims, the court, not the jury, must resolve that dispute.	0.0015850122389860152
+	Rather, "claim construction is a matter of resolution of disputed meanings and technical scope, to clarify and when necessary to explain what the patentee covered by the claims, for use in the determination of infringement".	0.00154647020743237
+	To me, there's no change to my original invention's intent.	0.0014919724902027198
+	When the parties present a fundamental dispute regarding the scope of a claim term, it is the court's duty to resolve it.	0.0014440757630374565
+	Phillips v. AWH Corp., 415 F.3d 1303, 1312-13 (Fed.Cir.2005) (en banc). "	0.001315068307116241
+	With respect to literal infringement, the parties dispute whether the district court's failure to construe the claim term "only if" was legal error.	0.0013009933925159209
+	However, in its Markman order, the district court ruled that this term "needs no construction" because it "has a well-understood definition, capable of application by both the jury and this court in considering the evidence submitted in support of an infringement or invalidity case".	0.0011819605599426946
+	The parties agreed, for the most part, that a previously issued claim construction order (from a different case pending before the same court) controlled in this case.	0.0011786538853533607
+	Prods.	0.0011418818948067298
+	Id.; accord Festo, 535 U.S. at 740, 122 S.Ct.	0.001088707488755516
+	I think it just make it clear that you and I can understand.	0.0008606399406496522
+	Each party shall bear its own costs.	0.0008587982086959396
+	This first circumstance applies to all four products.	0.0007618403239871398
+	The same holds true in the Fifth Circuit.	0.0007609347803221358
+	This court has construed other "ordinary" words for these and other related reasons.	0.0007557100864267824
+	In deciding that " 'only if' needs no construction" because the term has a "well-understood definition," the district court failed to resolve the parties' dispute because the parties disputed not the meaning of the words themselves, but the scope that should be encompassed by this claim language.	0.0007073292518816217
+	The claim term "only if" (one of the additional terms disputed by the parties) is the only term whose construction was appealed to this court.	0.0006660565755826469
+	At trial, the "only if" limitation was a key issue disputed by the parties.	0.000613159482646162
+	The purpose of claim construction is to "determine the meaning and scope of the patent claims asserted to be infringed".	0.0005134125452394679
+	II.	0.0004679680584373337
+	In this case, the "ordinary" meaning of a term does not resolve the parties' dispute, and claim construction requires the court to determine what claim scope is appropriate in the context of the patents-in-suit.	0.0004562121042713767
+	v. Altek Sys., 132 F.3d 701, 706 (Fed.Cir.1997).	0.0003915310339566337
+	The district court's decisions recognize that this was the claim term at issue for the purposes of these discussions.	0.00037163201265276154
+	However, the district court declined to construe this term, stating:	0.0003626240030551327
+	Actually, in my opinion, specification did not change. "	0.0003135525148624938
+	See id. at 979 (holding that claim construction is a matter of law).	0.0002607630080458929
+	We find this argument to be without merit.	0.00017937850002524831
+	We, however, recognize that district courts are not (and should not be) required to construe every limitation present in a patent's asserted claims.	0.00017453870805335126
+	Claim 1 of the ï¿½ï¿½615 patent is representative of the asserted claims for the issues presented by this appeal.	0.00016776081624878927
+	No other reason is provided or suggested by the prosecution history.	0.0001519395297394345
+	We address each of these arguments in turn.	8.856142871428428e-05
+	We have jurisdiction pursuant to 28 U.S.C. ï¿½ï¿½ 1295(a)(1).	7.017196854732158e-05
+	Background:	6.913700462789447e-05
+	Holdings:	3.553395674109331e-05
+	Competitors appealed.	2.559917506185585e-05
+	This dispute over the scope of the asserted claims is a question of law.	1.610990710114458e-05
+	Id. at 1369 (emphasis added).	1.5487834544594657e-05
+	1384, 134 L.Ed.2d	6.891512523647508e-06
+	1831, 152 L.Ed.2d	6.891512523647508e-06
+	1384, 134 L.Ed.2d	6.891512523647508e-06
+	Festo, 344 F.3d at 1368.	4.814389130640836e-06
+	Festo, 344 F.3d at 1367.	4.814389130640836e-06
+	The record, however, does not support this argument.	2.2077598632516154e-06
+	Id. at 1314.	1.7474014451337393e-06
+	Id.	1.7474014451337393e-06
+	Id.	1.7474014451337393e-06
+	See Festo Corp. v.	1.1846178803638414e-09
+	See id.	3.536947250918449e-11
+	; see id.	2.3579648339456326e-11
+	See O2	0.0
+	that".	0.0
+	577 (1996).	0.0
+	A:	0.0
+	A:	0.0
+	944 (2002).	0.0
+	See Festo, 535 U.S. at 738,	0.0

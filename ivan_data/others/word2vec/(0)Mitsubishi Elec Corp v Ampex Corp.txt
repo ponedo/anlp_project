@@ -1,0 +1,313 @@
+190_f.3d_1300
+united states court of appeals federal_circuit
+mitsubishi electric corporation plaintiff-appellant v. ampex corporation defendant cross-appellant
+nos._97-1502 97-1538
+| aug._30,_1999
+| rehearing denied ; suggestion for rehearing en banc declined nov._1,_1999
+synopsis
+patentee brought action for infringement of patents relating to transmission and use of digital_information
+the united_states_district_court for the central_district of california edward rafeedie j. entered judgment upon jury_verdict finding both patents invalid but that one patent was infringed if valid
+patentee appealed and alleged infringer filed conditional cross-appeal
+the court of appeals pauline newman circuit_judge held that 1 patentee failed to preserve objection to verdict_form ; 2 first patent was invalid due to prior public_use ; and 3 second patent was invalid as obvious
+
+affirmed
+
+attorneys and law firms
+*1301 wayne m. smith graham & james llp los_angeles california argued for plaintiff-appellant
+with him on the brief were les j. weinstein and vincent j. belusko
+robert c. morgan fish & neave new_york new_york argued for defendant cross-appellant
+of counsel were norman h. beamer marta e. gross kevin p.b
+johnson and kurtis d. macferrin
+also of counsel was craig n. hentschel arnold & porter los_angeles california
+before newman circuit_judge skelton senior circuit_judge and lourie circuit_judge
+opinion
+pauline newman circuit_judge
+mitsubishi electric corporation appeals the judgment of the united_states_district_court for the central_district of california concerning mitsubishis united_states_patent_no._4336,612` the612_patent` and united_states_patent_no._4665,533` the533_patent`1 the jury_verdict was that the asserted claims of both patents were invalid and that none of the asserted claims of the612_patent was infringed either literally or under the doctrine of equivalents but that claim 1 of the533_patent was literally infringed if valid
+on appeal_mitsubishi requests either a new_trial or judgment in its favor as a matter of law
+ampex has filed a conditional cross-appeal of the verdict that it infringes the533_patent
+
+the district_court entered judgment on the jury_verdicts and denied all post-trial motions
+we affirm the judgment
+
+i
+the612_patent
+the612_patent entitled` error correction encoding and decoding system' *1302 granted on june_22,_1982 is directed to a system for correcting errors that occur during the transmission recording or reproduction of digital_information
+for example in making a digital recording of music on magnetic tape errors may occur when a particle of dust lands on a recording head
+this dust can cause strings of erroneous binary bits called a` burst error'
+in the error correction system of the612_patent digital_information the data to be transmitted or recorded or reproduced is arranged in an array of bits and is encoded such that when errors occur they can be located and corrected on decoding allowing accurate recovery of the original information
+
+according to the612_patent the digital_information is divided into a two-dimensional rectangular_array of bits described as an array of k1_bits in the horizontal direction and an array of k2 bits in the vertical direction
+during encoding error correcting codes are used to add check information to the data in each direction
+an error correcting code c2 is used for data in one direction of the array and an error correcting code c1 s used for data in the second_direction of the array
+the term` product code' refers generally to the use of these codes
+because the system uses these codes for data in both the horizontal and the vertical directions the systems error correction capability is enhanced
+claim 1 of the612_patent describes the claimed system as follows 1
+an encoding and decoding system for digital_information having a rectangular_array of bits including k1_bits in a first_direction and k2 bits in a second_direction orthogonal to the first_direction which system comprises
+encoding_means including an encoding adapting circuit for codes c2 for dividing the k1_bits in the first_direction into b_bits apiece and forming a plurality of k2_x b bit rectangular_arrays each including the b_bits in the first_direction and the k2 bits in the second_direction a c2_encoder for encoding the plurality of k2_x b bit rectangular_arrays into a plurality of n2 x b bit rectangular_arrays each including the b_bits in the first_direction and n2_bits in the second_direction a c1_encoder for encoding the k1_bits in the first_direction into n1_bits by adding n1-k1 check bits to the k1_bits in the first_direction and a timing generator circuit for generating timing_signals for controlling the operation of said encoding_means to thereby encode the digital_information into a codeword of a generalized_product_code including the n1_bits in the first_direction and the n2_bits in the second_direction ; and decoding means operatively connected to said encoding_means by a transmission means for decoding the digital_information encoded by the encoding_means ; wherein said c1 and c2_encoders are operative to encode in response to said timing_signals of said timing generator and wherein either said c1_encoder or said c2_encoder provides said generalized_product_code
+claim 2 adds an information_matrix-forming circuit for arranging digital_information into a rectangular_array of bits and claim 3 describes the information_matrix-forming circuit as containing ram devices and selector means
+claim 11 adds elements including an erasure weight calculation circuit and an erasure location calculation circuit
+
+the explanation of this technology and much of the discussion of its technological and legal significance was presented at trial through the testimony of expert_witnesses
+experts for both sides testified to the meaning of various technical terms as used in this system the scope of the claims as applied to the accused device the content *1303 of the prior_art the relation of the patented technology to the prior_art and other aspects relating to both validity and infringement
+the issues at trial and indeed on appeal were complex in fact and law
+no challenge is raised as to the technical competence and admissibility of the expert_testimony see generally kumho_tire_co. v. carmichael 526_u.s._137 119_s.ct._1167 143_l.ed.2d_238_(1999) although the parties dispute the opinions expressed and the conclusions drawn by the expert_witnesses
+
+the district_court and the federal_circuit on appeal each reviewing the jurys verdicts must determine whether the law was correctly stated including the jury_instructions on claim construction and whether there was substantial_evidence to support the jurys verdicts
+see e.g. al-site corp. v. vsi int l inc. 174_f.3d_1308 1314 50_u.s.p.q.2d_1161 1164 fed.cir.1999 after interpreting the claims district_court instructed jury to apply its construction of the claims to determine infringement ; shatterproof glass corp. v. libbey-owens ford co. 758_f.2d_613 626 225_u.s.p.q._634 643 fed.cir.1985 in reviewing a district_courts denial of a motion for new_trial we review the jury_instructions as a whole to determine whether clear error occurred such that the jury was misled
+)
+
+a
+the verdict of invalidity of the612_patent
+the verdict_form asked the jury to decide as to each claim in suit whether the claim was proven invalid by clear and convincing evidence
+the verdict_form did not distinguish among the three principal grounds of invalidity that had been argued at trial 1 obviousness in view of a publication by the inventors over a year before the filing of the continuation-in-part_application that became the612_patent 2 an invalidating public_use based on a demonstration at an audio engineering society convention and 3 an invalidating public_use and sale of an ibm device the ibm 3850 described as closely similar to the mitsubishi device
+
+mitsubishi states that if any one of these three grounds was erroneously submitted for jury_verdict the verdict must be vacated and a new_trial granted because it is not possible for the appellate court to know whether the verdict was founded on the ground that was submitted in error
+mitsubishi also states that its` challenge to the jurys invalidity verdicts is premised on the absence of substantial_evidence to support the legal theories underlying those verdicts'
+
+the supreme court has ruled that when liability is argued to the jury on alternate legal theories one of which is not legally correct or is not a permissible jury question a general_verdict of liability can not stand lest it have been based on the incorrect or impermissible theory
+in maryland v. baldwin 112_u.s._490 5_s.ct._278 28_l.ed._822_(1884) the court stated of a general_verdict that` its generality prevents us from perceiving upon which plea they found
+if therefore upon any one issue error was committed either in the admission of evidence or in the charge of the court the verdict can not be upheld..' id.at 493 5_s.ct._278
+this principle has been applied to multiple claims as well as to multiple theories when one of the claims or theories should not have been submitted to the jury
+see sunkist growers inc. v. winckler & smith citrus prods co. 370_u.s._19 82_s.ct._1130 8_l.ed.2d_305_(1962) ; united new_york & new jersey sandy hook pilots assoc
+v. halecki 358_u.s._613 79_s.ct._517 3_l.ed.2d_541_(1959)
+
+although the ninth circuit in which this case was tried has recognized an exception whereby the district_court has discretion to depart from this general *1304 rule see traver v. meshriy 627_f.2d_934 938 9th cir.1980 we need not consider the applicability of this procedure for mitsubishi did not preserve an objection on this ground and has not shown that any ground of invalidity was improperly presented for jury_verdict
+
+before the case was submitted to the jury mitsubishi submitted a proposed verdict_form that separated various grounds of invalidity
+in response to the trial courts concern about undue complexity the verdict_form was revised collapsing these grounds into a single question of invalidity
+mitsubishi argues that the generality of the ensuing verdict led to an unreviewable and thus fatally flawed judgment
+ampex on the other_hand argues that based on the procedures and statements before the district_court mitsubishi waived this objection to the form of the verdict
+
+in response to ampexs waiver argument mitsubishi directs us to the trial_judges statements regarding verdict_form simplification and to the fact that mitsubishi raised its arguments relating to the form of verdict in post-trial motion
+mitsubishi emphasizes that it originally proposed a fully itemized verdict_form
+mitsubishi also states that it` does not claim that the use of the general_verdict was in error' and that its only concern is that we can not on appeal review the verdict because we do not know its legal basis
+however the time to raise this objection was before submission of the case to the jury
+mitsubishi had argued that the verdict_form should include special_interrogatories for each claim yet did not press the argument for the separate theories of invalidity
+we conclude that mitsubishi did not preserve its objection to the form of the verdict as grounds for reversal or a new_trial
+see hoechst celanese corp. v. bp chemicals ltd. 78_f.3d_1575 1581 38_u.s.p.q.2d_1126 1131 fed.cir.1996 appellant waived objection by acquiescing in and proposing the verdict_form ; mccord v. maguire 873_f.2d_1271 1274 9th_cir.1989 amended by 885_f.2d_650 650 9th_cir.1989 where appellant challenged general_verdict based on insufficient_evidence for various factual theories underlying verdict but where at trial appellant did not request a special verdict as to each factual theory appellant waived right to raise such a challenge ; 9 james wm
+moore et al. moores federal practice49.20 [ 5 ] 3d ed.1997 to avoid possible waiver on subsequent appeal the objection to the form or content of special_interrogatories must be made before the jury is discharged
+
+nonetheless we have reviewed the evidentiary basis for issues on which mitsubishi relies in its argument that there was not substantial_evidence to support the jury_verdict
+a principal issue was the nature and content of a mitsubishi demonstration at an audio engineering society aes convention
+although mitsubishi did not dispute that a device was demonstrated in may 1978 the parties disputed whether the invention as recited in the claims was used at the demonstration
+mitsubishi describes the demonstrated device as` some prototype device whatever its structure' and states that there was no evidence of encoding/recording at the demonstration
+thus mitsubishi argues that there was not substantial_evidence that the claimed invention was used in public and that the question of invalidity based on public_use should not have been presented to the jury
+
+witnesses presented testimonial documentary and opinion evidence on the issue
+there was a 1978 report written by one of the mitsubishi inventors which included circuit diagrams of the recorder that was present at the aes convention and of its encoding and decoding circuitry
+the inventors report stated that` the performance' of the device was demonstrated and the inventor testified that the demonstration *1305 device had encoding and decoding circuitry but that he could not remember whether this circuitry was used in the demonstration
+there was also testimony that the demonstration included a tape editing demonstration
+ampexs expert_witness testified that based on his review of the written and testimonial evidence the invention of the612_patent was used at the demonstration
+
+there was no criticism of the jury instruction on the applicable law which was as follows a public_use for the purpose of barring access to the patent system is a use for more than a year before the patents earliest effective filing date whereby [ the ] completed` invention' is used in public without restriction and in circumstances other than substantially for the purpose of experiment
+the test is not whether the invention was present at a public place but whether it was actually used in public as recited in the claims of the patent
+although both sides debate issues of credibility and recollection after the passage of eighteen years we conclude that the documentary_evidence itself could support a finding that the claimed invention was used in public in may 1978.2 since this issue suffices to sustain the verdict of invalidity we do not discuss the other_grounds that were asserted by ampex
+see e.g. w.l
+gore & assocs. inc. v. garlock inc. 721_f.2d_1540 1549 220_u.s.p.q._303 309 fed.cir.1983` in view of our affirmance of the judgment reached on claim 1_under_102 a we need not discuss other asserted grounds of invalidity of claim 1
+``
+
+ii
+the533_patent
+the533_patent entitled` digital signal transmission system' granted on may_12,_1987 describes a method of improving the transmission of digital_data by placing synchronizing codes into a stream of data
+
+ampex argued at trial that claim 1 the only_claim of the533_patent was invalid raising the grounds of indefiniteness anticipation and obviousness
+the jury rendered a verdict that claim 1 was invalid but if valid was infringed
+the verdict_form again did not distinguish among the asserted grounds of invalidity
+mitsubishi seeks reversal or a new_trial on the issue of validity arguing that the ground of indefiniteness is a question of law and should not have been presented for jury_verdict
+mitsubishi also argues that neither anticipation nor obviousness was supported by legally sufficient_evidence
+mitsubishi again argues that the verdict can not be sustained if any single ground was submitted to the jury in error
+for the reasons that we deem this argument to have been waived with respect to the612_patent it is waived with respect to the533_patent
+ampex cross-appeals on the issue of infringement
+
+the invention
+in the transmission of digital_data it was known that a segment of digital_data could be represented as a matrix of rows and columns of data
+the matrix as a whole constitutes a block and a block comprises multiple frames where each frame is equated to one row of the matrix
+the prior_art transmission format consisted of a stream of frames with a given number of *1306 frames forming a block
+when transmitting digital_data in a continuous stream it was known to place synchronization_codes before each frame and before each block to be used as markers or identifiers
+these identifiers would indicate where a frame or block began and where a frame or block ended
+in the prior_art separate codes were used for frames and for blocks ; thus two codes were needed to indicate the point in a data_stream where both a new frame and a new_block began
+
+in the method of the533_patent instead of using separate block and frame codes two` frame_synchronous_codes' are used
+one code is used for the start of a frame that also begins a new_block and a second_code is used for the start of a frame that does not begin a new_block
+in the533 system the start of each new_block does not require insertion of two codes
+ampex argued that this change was not novel or if novel would have been obvious to a person of ordinary_skill in this field
+ampex also argued invalidity on the ground of indefiniteness of the claims
+
+figures 3_and_4 of the533_patent illustrate the invention figure 3 representing the prior_art and figure 4 representing the533 invention
+
+fig._3
+?
+fig._4
+in these figures 20 represents a prior_art frame_synchronization code 21 through 24 represent various frames of data 25 represents a prior_art block synchronization code and 31 and 32 represent the frame_synchronous_codes of the533 invention
+the case was tried through the testimony of expert_witnesses
+the witnesses explained the circuitry that locates the synchronization_codes or` markers' and that then reports to the rest of the system the beginning of a frame or the beginning of a block
+this circuitry is shown in figure 7 of the533_patent
+
+*big_token__1307_fig._7__big_token
+?
+when a digital signal receiver processes an incoming serial stream of data 3 it uses a circuit called a` shift_register' 41 along with` comparators' 42a and 42b to search for block and frame identifying codes
+each comparator checks the data_stream one bit at a time comparing the data_stream pattern to a reference pattern
+when for example a comparator finds the block synchronization code it sends out a signal indicating the beginning of a block
+in this way two signals are sent one representing the first_frame in each block and the other representing the remaining frames in each block
+an or_gate analyzes these signals looking for an output from either the block synchronization comparator circuit or the frame_synchronization comparator circuit
+if it detects either one then it sends a signal to indicate the beginning of a frame
+further because a block synchronous code represents both the beginning of a block and the beginning of a frame the comparator_42a can cause the circuitry to generate both a block synchronous signal and a frame synchronous signal
+
+figure 5 depicts a pair of synchronous code patterns of the invention such that both codes are fifteen bits long and the second_code is the binary complement of the first 111110011010110_and_000001100101001
+code 31 marks the position of only the first_frame of a each block
+code 32 on the other_hand marks the position of the remaining frames
+as illustrated by figure 5 and figure 7 of the533_patent and as described in the specification comparator 42a signals if it detects 111110011010110 while comparator 42b signals if it detects 000001100101001
+
+fig.5
+?
+as the expert_witnesses explained the technology much attention was given to the concept of cross-correlation
+the experts explained that a cross-correlation function measures the likelihood that a comparator could mistake one code for the *1308 other
+on a plot of the cross-correlation function there is a number associated with all the possible offsets of one synchronization code with respect to the other_code
+the cross-correlation function can be visualized by picturing the two figure 5 codes juxtaposed one above the other but offset so that the upper_code is to the left of the lower_code and no bits overlap
+holding the lower_code stationary and moving the upper_code to the right one bit at a time first one bit overlaps the lower_code then two and so on
+at each step a calculation is made and through this calculation a value of the cross correlation function is generated
+this calculation involves focusing on where bits overlap each overlapping bit being compared to the bit directly below it and subtracting the number of disagreements from the number of agreements
+
+when the two synchronization_codes of figure 5 are lined up one directly above the other all bits of one code disagree with all bits of the other_code
+at this point the value of the cross-correlation function is a large negative number
+figure 6 of the533_patent shows the full graph of this function
+
+fig._6
+?
+claim 1 the only_claim of the533_patent follows 1
+in a digital signal transmission system for transmitting data by dividing a digital_data signal train into frames giving respectively frame_synchronous_code_signals to said frames grouping said frames into blocks and giving a block_synchronous_code_signal to each block the improvement comprising selecting a first_code_pattern only for said frame_synchronous_code_signals and a second_code_pattern for said block_synchronous_code_signal and for said frame_synchronous_code_signals said first and second_code_patterns exhibiting a low cross-correlation function ; transmitting said data with only said second_code_pattern of said first and second_code_patterns inserted prior to each data_block and only said first_code_pattern of said first and second_code_patterns inserted prior to each data_frame within each block ; receiving and detecting each of said first and said second_code_patterns to produce respective first and second_detection_signals upon detection thereof ; combining said first and second_detection_signals to produce a frame_synchronization_signal used for frame_synchronization of each data_frame ; and
+using said second detection signal for block synchronization of each data_block
+
+obviousness
+the trial_judge correctly instructed the jury that an obviousness determination requires consideration of the following *1309 one what was the scope and contents of the prior_art at the time the alleged invention was conceived ; what were the differences if any between the prior_art at the time the alleged invention was conceived ; what were the differences if any between the prior_art and the alleged invention that is what does this alleged invention add to what was already known ; and three what was the level of ordinary_skill in the prior_art at the time the alleged invention was made
+in making your determination you should also consider [ secondary considerations ]..
+in order to be patentable an invention must not be obvious to a hypothetical person of ordinary_skill in the art at the time the invention was made.. see e.g. graham v. john deere co. 383_u.s._1 86_s.ct._684 15_l.ed.2d_545 148_uspq_459_(1966)
+with respect to how to analyze a combination of prior_art_references the court instructed the jury as follows the mere existence in the prior_art of individual features of a patented invention does not without more invalidate the patent under the obviousness test
+there must be evidence that the bringing together of such features or steps would have been obvious to an ordinarily skilled person
+it is improper to combine prior_art_references solely because the inventors patent itself suggests the new combination of old elements
+thus to combine any of the teachings of the prior_art there must be some teaching or suggestion supporting the combination
+further you may not combine the features of prior products where the prior_art itself teaches against the combination
+we discern no flaw in these instructions
+the jury found claim 1 of the533_patent invalid
+we review this verdict for substantial_evidence in support of any necessary findings of fact and for correct application of the law to these findings
+
+three references of particular relevance to the issue of obviousness are 1 an article by merwin w. williard entitled` optimum code patterns for pcm_synchronization' presented at the national_telemetering_conference in may 1962 the` optimum_codes_williard_article' ; 2 a second article by williard entitled` mean time to establish pcm_synchronization' presented at the national symposium on space electronics and telemetry in october 1962 the` synchronization_williard_article' ; and 3 an article by g.e
+goode and j.l
+phillips entitled` optimum pcm frame synchronization codes and correlation detection' presented at the national_telemetering_conference in may 1961 the` goode and phillips_article'
+
+mitsubishi argues that it was improper for the ampex witness to compare the synchronization_williard_article with figure 7 of the533_patent
+in support of this position mitsubishi states that figure 7 was directed to an abandoned claim
+mitsubishi also argues that none of the prior_art_references shows the fourth step of the claim combining the signals` to produce a frame_synchronization_signal used for frame_synchronization of each data_frame'
+mitsubishi also challenges the conclusion by ampexs expert_witness that based on the references there was nothing new or unobvious in the claimed invention
+
+the533_patent prosecution_history illuminates the relevance of figure 7
+the examiner had rejected the claims in the533_patent application as inoperative premised on an inadequacy in figure 7
+the rejection dealt with the relative positions of and gate 44 and frame delay_circuit 45
+according to the examiner the invention was` incapable of carrying out the frame synchronous pulse communication as described in the specification' because *1310 in the original figure 7 one of the inputs of the and gate had a feedback from its own output
+responding to this rejection and in its appeal brief in the patent office mitsubishi explained that claim 6 a claim that was canceled prior to allowance was the only_claim that dealt with and gate 44 and the delay_circuit 45
+in explaining this issue as it related to pending claim 5-which issued as claim 1 of the533_patent -mitsubishis stated claim 5 on the other_hand defines appellant=s invention in terms of the functions provided by for example the comparators 42a 42b shift_register 41 and or_gate 43 in providing a block synchronization pulse signal 47 at the output of comparator_42a and in providing a frame_synchronization pulse at the output of or_gate 43 shown in figure 7
+note that the step of` combining said first and second_detection_signals to produce a frame_synchronization_signal used for frame_synchronization of each data_frame' as recited in claim 5 is indeed performed by the or_gate 43
+thus the and gate 44 and the delay_circuit 45 shown in figure 7 which are alleged by the examiner as being inoperable are neither used nor needed to implement the invention defined by pending claim 5
+thus mitsubishi argued that except for items 44_and_45 figure 7 showed with blocks what the claim described in words
+
+ampexs expert presented sufficient_evidence for the jury to find that the synchronization_williard_article teaches all but one of the elements of claim 1
+the article develops equations to evaluate digital synchronization systems in terms of the time required to acquire synchronization and in terms of the percentage of data lost due to loss in pattern synchronization and then applies the equations to the saturn rocket telemetry systems
+the article discusses a system that transmits ten-bit words and that has a most repetitive_data_cycle defined by a synchronization pattern or code
+each of these repetitive_data_cycles consists of twenty-seven data words plus a thirty-bit_synchronization_word
+the system also uses a 10:1 countdown from the highest rate data cycle
+the beginning of each of these countdown cycles is defined by reversing the polarity of all the bits in the primary_synchronization_pattern
+
+the synchronization_williard_article states that after primary_synchronization is obtained which is synchronization on the most repetitive pattern synchronization on the subcycle pattern is necessary
+for subcycle synchronization the system looks for a reversal of polarity of all synchronization bits in the prime synchronization pattern once every ten groups ; that is the system looks for a secondary_synchronization_pattern or code that is the complement of the primary_synchronization_pattern
+
+ampexs expert testified that the thirty-bit or primary synchronization word marked the most repetitive_data_cycle or` frame' and constituted what was referred to in the533_patent as a` frame_synchronization pattern'
+referring to the 10:1 countdown cycle the ampex_expert explained that` something special [ was ] happening every tenth frame'
+the williard system divided up the data_stream into` blocks' as that term is used in the533_patent of ten frames each frame beginning with the primary_synchronization_pattern or thirty-bit_synchronization_word and each block beginning with the complement of the primary_synchronization_pattern
+ampexs expert testified that what was happening in this williard_synchronization_article was the same as was happening in figure 4 of the533_patent
+
+when asked to compare figure 7 of the533_patent with figure 3 of the synchronization_williard_article ampexs expert reached a similar conclusion
+the expert explained that figure 3 illustrated *1311 the synchronization detection circuitry of the saturn system
+the witness compared figure 3 with figure 7 and explained that the thirty-bit complement detector of williards figure 3 corresponded to the block comparator circuitry of the533_patent and that the thirty-bit prime sync detector of williards figure 3 corresponded to the frame comparator circuitry of the533_patent
+he explained that the or_gate of williards figure 3 corresponded to the or_gate 43 of the533_patent
+each or_gate signaled if either the frame signal or the block signal was detected the or_gate signal indicating that a frame was beginning
+in an element-by-element comparison between the figures the witness explained that each figure had two comparators one shift_register and one or_gate
+
+fig._7
+?
+*1312 the evidence at trial was that the synchronization_williard_article taught the use of synchronization_codes that were complements of each other and that the533 specification also taught the use of complements
+however this article did not state that its choice of codes` exhibited a low cross-correlation function' as set forth in claim 1
+the jury could have found this aspect in either the earlier_williard_article the optimum_codes_williard_article or the goode and phillips_article both of which were in evidence at trial and discussed by at least one of the expert_witnesses
+mitsubishi argues that the earlier_optimum_codes_williard_article can not be relied on for rendering the combination obvious because in this earlier_article williard taught away from complements while the mitsubishi invention advocates the use of complements
+mitsubishi also argues that the goode and phillips_article does not suggest combining its teachings with the synchronization_williard_article
+
+the optimum_codes_williard_article in discussing the reasons for choosing a particular secondary_synchronization_pattern states that` any secondary_sync_pattern though not needing any special autocorrelation properties should have minimum cross-correlation characteristics with the primary_sync_pattern'
+williard explained that he did not know of any equipment designed to search independently for primary_synchronization and secondary synchronization but that` if such equipment were planned it would be desirable to choose a secondary_sync_pattern with good autocorrelation properties and also good cross-correlation properties with the primary_sync_pattern'
+after discussing the use of complements as a possible method of minimizing cross-correlation the earlier_williard_article discussed the advantages and disadvantages of such a use and stated that` complements are therefore never the answer'
+summarizing his results williard stated that` [ s ] econdary sync patterns should always be chosen to minimize cross-correlation with prime sync patterns'
+
+mitsubishi argues that the earlier_optimum_codes_williard_article teaches away from the later williard article and that they would not reasonably have been combined by a person of ordinary_skill in the field
+mitsubishi stresses that williard said` complements are never the answer' in his earlier_article
+however williard teaches the use of complements in his later article
+the earlier_article teaches that one should minimize the cross-correlation between primary and secondary_synchronization_patterns
+although the earlier_article states that using complements is disadvantageous the article considers complements in the context of minimizing cross-correlation
+in his later article williard teaches the use of complements in the context of a specific system described by the expert as teaching the preferred embodiment of the533 invention
+on this evidence a reasonable_jury could have found that by employing complements in a system that according to the ampex_expert is not technologically different from that of the533_patent the teaching of williards later specific article superseded the broadly stated negative teaching of the earlier_article
+
+the goode and phillips_article also provides for the use of complements
+both the goode and phillips_article and the williard_synchronization_article discuss synchronization_codes for telemetry systems
+the goode and phillips_article describes the use of primary and secondary synchronization_codes and recommends that one should first choose a code with among other things a good_autocorrelation_function
+then the article suggests using the complement of the first_code for the complement would have the same favorable properties as the first_code such as the same autocorrelation function
+the goode *1313 and phillips_article states` when the original_code is received a large positive spike is produced at sync time but when the complement of the original_code is received an equally large negative spike is produced
+hence both of these maximally distinguishable codes may be detected and separated in an efficient manner'
+
+mitsubishi argues that the goode and phillips_article is inapposite stating that goode and phillips discuss the concept of` cyclic' cross-correlation instead of the` non-periodic' cross-correlation of the533_patent
+however mitsubishis expert like the prosecution_history explained that the term` autocorrelation' is highly relevant to the cross-correlation of the codes
+the expert testified that` autocorrelation is what you get if you calculate cross-correlation when the two things you are comparing are identical'
+he then explained that` instead of calling [ this ] cross-correlation you call this autocorrelation the comparison of a pattern with itself as you shift it in time against itself'
+the ampex_expert testified that the goode and phillips_article disclosed codes with a small cross-correlation function
+the goode and phillips_article like the533 prosecution_history teaches that when choosing a primary and secondary_synchronization_pattern one should first select a code with a good_autocorrelation_function and then select its complement
+in view of the expert_testimony and the documentary_evidence a reasonable_jury could have concluded that the goode and phillips_article would have taught one of ordinary_skill in the field to use complementary synchronization_codes and that such codes would have exhibited a small or low cross-correlation function as claimed in the533_patent
+
+we have carefully considered mitsubishis criticisms of the evidence of obviousness
+we conclude that the suggestion to combine the subject matter of the synchronization_williard_article with code patterns exhibiting a low cross-correlation function could reasonably have been found in the optimum_codes_williard_article or the goode and phillips_article
+on the evidence and the explanations of the expert_witnesses a reasonable_jury could have concluded that the second williard article in combination with either the first williard article or the goode and phillips_article provided all of the elements of the claimed invention and that the invention as a whole would have been obvious to a person of ordinary_skill in this specialized field
+
+in denying mitsubishis post-trial motions the district_court remarked` what you had in this case was two competing scientific technological witnesses one of whom claimed that the invention was invalid.. and the other who claimed it was not'
+the court commented that` the jury apparently chose to believe the one witness over the other'
+we take the district_courts remark as a forthright evaluation of the proceedings at trial
+it is well recognized that the persuasiveness of the presentation of complex technology-based issues to lay persons depends heavily on the relative skill of the experts
+see generally kumho_tire_co. v. carmichael 526_u.s._137 119_s.ct._1167 143_l.ed.2d_238_(1999) ; daubert v. merrell dow pharmaceuticals inc. 509_u.s._579 113_s.ct._2786 125_l.ed.2d_469_(1993) ; fed.r.evid
+702` if scientific technical or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue a witness qualified as an expert by knowledge skill experience training or education may testify thereto in the form of an opinion or otherwise`
+the issue at trial was the conclusions to be drawn from the evidence raising issues of evaluation weight and as the trial_judge remarked credibility
+on appeal the admissibility of the scientific and technologic evidence presented by the experts for both sides is not challenged
+we conclude that the judgment of invalidity on *1314 the ground of obviousness is supported by the evidence and must be affirmed
+we thus do not reach the other_grounds of invalidity
+the conditional cross-appeal is dismissed
+
+costs
+costs to ampex
+
+affirmed
+
+all citations
+190_f.3d_1300 51_u.s.p.q.2d_1910
+footnotes
+1
+mitsubishi electric corp. v. ampex_corp. no
+cv 95-8236-er c.d
+cal. april_24,_1997
+2
+this may 1978 demonstration occurred more than a year before the may_16,_1980 filing of the continuation-in-part_application that issued as the612_patent but less than a year before the january 16 1979 filing of the parent_united_states_application
+mitsubishi states by footnote in its brief that it` has always maintained' that claims 1 2 and 11 in suit are entitled to the filing date of the parent_united_states_application
+however on appeal_mitsubishi presents no argument or discussion in support of this position
+perforce it is abandoned
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+mitsubishi elec corp. v. ampex_corp. 190_f.3d_1300 1999 51_u.s.p.q.2d_1910
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

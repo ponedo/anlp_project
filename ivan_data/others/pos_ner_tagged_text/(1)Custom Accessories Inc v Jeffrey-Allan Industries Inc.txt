@@ -1,0 +1,69 @@
+('807_F.2d_955', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('CUSTOM', 'NNP', '', 'O') ('ACCESSORIES', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('JEFFREY-ALLAN', 'NNP', '', 'O') ('INDUSTRIES', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellee', 'VB', '', 'O')
+
+__NEW_SENT__
+('Appeal', 'NN', '', 'O') ('No._85-2728', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._12,_1986', '.', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('James', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Moran', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('mud', 'NN', '', 'O') ('flap', 'NN', '', 'O') ('and', 'CC', '', 'O') ('splash', 'NN', '', 'O') ('guard_assemblies', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('invalid', 'JJ', '', 'O')
+United_States_District_Court Northern_District Illinois James B. Moran J.
+__NEW_SENT__
+('Holder', 'NN', 'ORG', 'B') ('appealed', 'VBD', '', 'O')
+Holder
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Edward', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Smith', 'NNP', 'PERSON', 'I') ('Circuit_Judge', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('old', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('unpatentable', 'JJ', '', 'O') ('nature', 'NN', '', 'O') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('element', 'NN', '', 'O') ('in', 'IN', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('for', 'IN', '', 'O') ('mud', 'NN', '', 'O') ('flap', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('splash', 'NN', '', 'O') ('guard_assemblies', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('determine', 'VB', '', 'O') ('that', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('District_Court', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('objective_evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nonobviousness', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('included', 'VBD', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('copying', 'NN', '', 'O') ('and', 'CC', '', 'O') ('commercial', 'JJ', '', 'O') ('success', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('District_Court', 'NNP', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('sufficient', 'JJ', '', 'O') ('required', 'VBN', '', 'O') ('findings', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('regard', 'NN', '', 'O') ('to', 'IN', '', 'O') ('scope', 'NN', '', 'O') ('and', 'CC', '', 'O') ('content', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('differences', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('art', 'NN', '', 'O') ('and', 'CC', '', 'O') ('objective_evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nonobviousness', 'NN', '', 'O')
+The Court of Appeals Edward S. Smith Circuit_Judge 1 2 3
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*956', 'NNP', 'PERSON', 'B') ('Richard', 'NNP', 'PERSON', 'I') ('D.', 'NNP', 'PERSON', 'I') ('Harris', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Dick', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Harris', 'NNP', 'ORG', 'I') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+*956 Richard D. Harris Dick & Harris Chicago Ill.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('Eugene', 'NNP', 'PERSON', 'I') ('Dick', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Max', 'NNP', 'PERSON', 'B') ('Shaftal', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Dick', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Harris', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Brezina', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Brezina', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Buckingham_P.C.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Richard Eugene Dick Max Shaftal Dick & Chicago John C. Brezina Brezina & Chicago Ill.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Brezina', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Brezina', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Buckingham_P.C.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('Before', 'IN', '', 'O') ('DAVIS', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('SMITH', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', 'ORG', 'I') ('and', 'CC', '', 'O') ('RE', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O')
+David C. Brezina Brezina & Chicago Ill. DAVIS SMITH Circuit_Judges
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('EDWARD', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('SMITH', 'NNP', 'PERSON', 'I') ('Circuit_Judge', 'NN', 'PERSON', 'I')
+EDWARD S. SMITH Circuit_Judge
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Custom', 'NNP', 'ORG', 'B') ('Accessories', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Custom', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'ORG', 'B') ('Eastern', 'NNP', 'ORG', 'I') ('Division', 'NNP', 'ORG', 'I') ('holding', 'VBG', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103_claims_1', 'CD', '', 'O') ('and', 'CC', '', 'O') ('6', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('Patent', 'NNP', '', 'O') ('No._4264,083', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'083_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Custom Accessories Inc. United_States_District_Court Northern_District Illinois Eastern Division 35 6 United States
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('*957', 'NNP', '', 'O') ('Background', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('recited', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('unless', 'IN', '', 'O') ('otherwise', 'RB', '', 'O') ('indicated', 'VBN', '', 'O') ('are', 'VBP', '', 'O') ('either', 'CC', '', 'O') ('uncontested', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('are', 'VBP', '', 'O') ('findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+
+__NEW_SENT__
+('FED.R.CIV.P', 'JJ', '', 'O')
+
+__NEW_SENT__
+('52', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+52
+__NEW_SENT__

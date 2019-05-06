@@ -1,0 +1,162 @@
+('304_F.3d_1216', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('NOVO', 'NNP', '', 'O') ('NORDISK', 'NNP', 'PERSON', 'B') ('A/S', 'NNP', '', 'O') ('Novo', 'NNP', 'PERSON', 'B') ('Nordisk', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('North', 'NNP', 'ORG', 'B') ('America', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Novo', 'NNP', 'ORG', 'B') ('Nordisk', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('BECTON', 'NNP', 'GPE', 'B') ('DICKINSON', 'NNP', '', 'O') ('AND', 'CC', '', 'O') ('COMPANY', 'NNP', '', 'O') ('Defendant-Cross', 'NNP', '', 'O') ('Appellant', 'NNP', '', 'O')
+NORDISK Novo Nordisk North America Inc. Novo Nordisk Pharmaceuticals Inc. BECTON
+__NEW_SENT__
+('Nos._01-1095', 'NNP', 'ORG', 'B') ('01-1114', 'CD', '', 'O')
+Nos._01-1095
+__NEW_SENT__
+('|', 'DT', '', 'O') ('DECIDED', 'NNS', '', 'O') (':', ':', '', 'O') ('Sept._19,_2002', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('syringe', 'NN', '', 'O') ('patents', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Southern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', '', 'O') ('Barbara', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Jones', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('96_F.Supp.2d_309', 'NN', '', 'O')
+United_States_District_Court the Southern District Barbara S. Jones J.
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Pauline', 'NNP', '', 'O') ('Newman', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('substantial_evidence', 'NN', '', 'O') ('existed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('reasonable_jury', 'NN', '', 'O') ('to', 'TO', '', 'O') ('conclude', 'VB', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('syringe', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('miscarriage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('justice', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('occur', 'VB', '', 'O') ('by', 'IN', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('refusal', 'NN', '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('jury', 'NN', '', 'O') ('instruction', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('``', '``', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('try', 'VB', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('correct', 'JJ', '', 'O') ('legal', 'JJ', '', 'O') ('standard', 'NN', '', 'O') ('for', 'IN', '', 'O') ('determination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('new', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warranted', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('grounds', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('appeal', 'VB', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+The Court of Appeals 1 2 3 4
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1217', 'RB', 'PERSON', 'B') ('Edward', 'NNP', 'PERSON', 'I') ('V.', 'NNP', 'PERSON', 'I') ('Filardi', 'NNP', 'PERSON', 'I') ('Skadden', 'NNP', 'PERSON', 'I') ('Arps', 'NNP', 'PERSON', 'I') ('Slate', 'NNP', 'PERSON', 'I') ('Meagher', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Flom', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+*1217 Edward V. Filardi Skadden Arps Slate Meagher & Flom LLP of New_York NY
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Smith', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Desiree', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Garbar', 'NNP', 'PERSON', 'I')
+Robert B. Smith Desiree M. Garbar
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Krause', 'NNP', 'PERSON', 'I') ('Fitzpatrick', 'NNP', '', 'O') ('Cella', 'NNP', '', 'O') ('Harper', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Scinto', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', '', 'O') ('NY', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O')
+John A. Krause
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Clayton', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Douglas', 'NNP', 'PERSON', 'B') ('Sharrott', 'NNP', 'PERSON', 'I')
+Ronald A. Clayton Douglas Sharrott
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Lee', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Goldberg', 'NNP', 'PERSON', 'I')
+Lee A. Goldberg
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('SCHALL', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN SCHALL BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PAULINE', 'NNP', 'ORG', 'B') ('NEWMAN', 'NN', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+PAULINE NEWMAN Circuit_Judge
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Novo', 'NNP', '', 'O') ('Nordisk', 'NNP', '', 'O') ('companies', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Novo', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern', 'NNP', '', 'O') ('*1218', 'NNP', '', 'O') ('District', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', '', 'O') ('entered', 'VBD', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('jury_verdict', 'NN', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+United_States_District_Court U.S
+__NEW_SENT__
+('Patents', 'NNP', '', 'O') ('No._5462,535', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬535_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('No._5999,323', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬323_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._5984,906', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬906_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('invalid', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('same-invention', 'NN', '', 'O') ('double', 'JJ', '', 'O') ('patenting', 'NN', '', 'O') ('and', 'CC', '', 'O') ('obviousness', 'JJ', '', 'O')
+No._5999,323 U.S.
+__NEW_SENT__
+('Becton', 'NNP', 'ORG', 'B') ('Dickinson', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Becton', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('conditionally', 'RB', '', 'O') ('cross-appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('pre-trial', 'JJ', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('anticipation', 'NN', '', 'O')
+Becton Dickinson and Company Becton
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('judgment,1', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('cross-appeal', 'NN', '', 'O')
+
+__NEW_SENT__
+('DISCUSSION', 'NN', 'ORG', 'B')
+DISCUSSION
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬535', 'NNS', 'CARDINAL', 'B') ('¡¬323', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('¡¬906_patent', 'NNP', '', 'O') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pen-shaped', 'JJ', '', 'O') ('insulin', 'NN', '', 'O') ('delivery', 'NN', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('by', 'IN', '', 'O') ('diabetic', 'JJ', '', 'O') ('patients', 'NNS', '', 'O')
+¡¬535
+__NEW_SENT__
+('The', 'DT', '', 'O') ('system', 'NN', '', 'O') ('comprises', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('pen-shaped', 'JJ', '', 'O') ('syringe', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('insulin-containing', 'JJ', '', 'O') ('cartridge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('inject', 'VB', '', 'O') ('a', 'DT', '', 'O') ('measured', 'VBN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('needle', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('turn', 'VBP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('diameter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O')
+
+__NEW_SENT__
+('Needle', 'NN', '', 'O') ('diameter', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('important', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('insulin_injection_systems', 'NNPS', '', 'O') ('for', 'IN', '', 'O') ('crystallization', 'NN', '', 'O') ('and', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('aspects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('solutions', 'NNS', '', 'O') ('limit', 'VBP', '', 'O') ('their', 'PRP$', '', 'O') ('ability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('very', 'RB', '', 'O') ('narrow', 'JJ', '', 'O') ('needles', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Conversely', 'RB', '', 'O') ('the', 'DT', '', 'O') ('pain', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('injection', 'NN', '', 'O') ('increases', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('size', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬535', 'NNS', 'NORP', 'B') ('and', 'CC', '', 'O') ('¡¬323_patent', 'NNP', 'CARDINAL', 'B') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('specific', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('injection', 'NN', '', 'O') ('pens', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('needles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('30', 'CD', 'QUANTITY', 'B') ('gauge', 'NN', 'QUANTITY', 'I') ('(', '-LRB-', '', 'O') ('G-30', 'NNP', '', 'O') (')BIG_TOKEN__2_Claim_1__BIG_TOKEN', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬535_patent', 'NNP', 'PRODUCT', 'B') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O')
+¡¬535 ¡¬323_patent 30 gauge ¡¬535_patent
+__NEW_SENT__
+('1', 'LS', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('An', 'DT', '', 'O') ('insulin_injection_system', 'NNP', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('pen', 'NN', '', 'O') ('shaped', 'VBN', '', 'O') ('syringe', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('cartridge', 'NN', '', 'O') ('with', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('injection_needle', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('G30_needle', 'NN', 'ORG', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('cartridge', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('insulin_type', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('may', 'MD', '', 'O') ('freely', 'RB', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('G30_needle', 'NN', '', 'O')
+G30_needle
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬906_patent', 'NNP', '', 'O') ('defines', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('thinner', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('G-29', 'NNP', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (':', 'SYM', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1 1
+__NEW_SENT__
+('An', 'DT', '', 'O') ('insulin', 'NN', '', 'O') ('system', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('pen', 'NN', '', 'O') ('shaped', 'VBN', '', 'O') ('syringe', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('cartridge', 'NN', '', 'O') ('with', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('injection_needle', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('thinner', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('a', 'DT', '', 'O') ('G-29_needle', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('cartridge', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('insulin_type', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('may', 'MD', '', 'O') ('freely', 'RB', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('needle', 'NN', '', 'O') ('thinner', 'NN', '', 'O') ('than', 'IN', '', 'O') ('a', 'DT', '', 'O') ('G-29_needle', 'NN', '', 'O')
+G-29_needle
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('thinner', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('G-29', 'NNP', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬906_claims', 'NNPS', 'NORP', 'B') ('to', 'TO', '', 'O') ('mean', 'VB', '', 'O') ('``', '``', '', 'O') ('thinner', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('29', 'CD', 'CARDINAL', 'B') ('gauge', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('thinner', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('30', 'CD', 'CARDINAL', 'B') ('gauge', 'NN', '', 'O') ("''", "''", '', 'O')
+¡¬906_claims 29 30
+__NEW_SENT__
+('Becton', 'NNP', 'PERSON', 'B') ('stipulated', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('infringement', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('Novo', 'NNP', 'ORG', 'B') ('agrees', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('double', 'JJ', '', 'O') ('patenting', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬906_claims', 'NNPS', 'LOC', 'B') ('is', 'VBZ', '', 'O') ('correct', 'JJ', '', 'O')
+Becton Novo ¡¬906_claims
+__NEW_SENT__
+('Obviousness-The', 'LS', '', 'O') ('¡¬535', 'NNS', 'NORP', 'B') ('and', 'CC', '', 'O') ('¡¬323_Patent', 'JJ', 'CARDINAL', 'B') ('s.', 'NN', '', 'O') ('The', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬535', 'NNS', 'NORP', 'B') ('and', 'CC', '', 'O') ('¡¬323_patent', 'NNP', 'CARDINAL', 'B') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('references', 'NNS', '', 'O') ('offered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Becton', 'NNP', 'ORG', 'B')
+¡¬535 ¡¬323_Patent ¡¬535 ¡¬323_patent Becton
+__NEW_SENT__
+('These', 'DT', '', 'O') ('references', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('general', 'JJ', '', 'O') ('categories', 'NNS', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('category', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('pen-style', 'NN', '', 'O') ('insulin_injection_systems', ':', '', 'O') ('but', 'CC', '', 'O') ('either', 'DT', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('state', 'VB', '', 'O') ('the', 'DT', '', 'O') ('needle_size', 'NN', '', 'O') ('or', 'CC', '', 'O') ('shows', 'VBZ', '', 'O') ('needles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('27_and_28', 'CD', 'DATE', 'B') ('gauge', 'NN', '', 'O')
+first 27_and_28
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('U.S._Patent_No._4973,318', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Holm', 'NNP', 'GPE', 'B') ('patent', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('describes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('pen-shaped', 'JJ', '', 'O') ('insulin_injection_system', 'NNP', '', 'O') ('substantially', 'RB', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('that', 'DT', '', 'O') ('shown', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Novo', 'NNP', 'ORG', 'B') ('patents', 'NNS', '', 'O') ('except', 'IN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('state', 'VB', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O') ('gauge', 'NN', '', 'O')
+Holm Novo
+__NEW_SENT__
+('The', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('category', 'NN', '', 'O') ('of', 'IN', '', 'O') ('references', 'NNS', '', 'O') ('shows', 'VBZ', '', 'O') ('30', 'CD', 'CARDINAL', 'B') ('gauge', 'NN', '', 'O') ('needles', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('insulin_injection', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('in', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('pens', 'NNS', '', 'O')
+second 30
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('*1219', 'NN', '', 'O') ('U.S._Patent_No._4552,561', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Eckenhoff', 'NNP', 'PERSON', 'B') ('patent', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('shows', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('30', 'CD', 'QUANTITY', 'B') ('gauge', 'NN', 'QUANTITY', 'I') ('needle', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('rotary', 'JJ', '', 'O') ('syringe', 'NN', '', 'O') ('for', 'IN', '', 'O') ('insulin_injection', 'NN', '', 'O') ('and', 'CC', '', 'O') ('U.S._Patent_No._4894,054', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Miskinyar', 'NNP', 'PERSON', 'B') ('patent', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('describes', 'VBZ', '', 'O') ('syringes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('insulin_injection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('needle', 'NN', '', 'O') ('diameters', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('range', 'NN', '', 'O') ('of', 'IN', '', 'O') ('23_to_30', 'JJ', 'CARDINAL', 'B') ('gauge', 'NN', '', 'O')
+Eckenhoff 30 gauge Miskinyar 23_to_30
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('there', 'EX', '', 'O') ('were', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('significant', 'JJ', '', 'O') ('disputes', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scope', 'NN', '', 'O') ('and', 'CC', '', 'O') ('content', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('level', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('nature', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Graham', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('John', 'NNP', 'ORG', 'B') ('Deere', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('383_U.S._1', 'CD', '', 'O') ('17', 'CD', 'CARDINAL', 'B') ('86_S.Ct._684', 'CD', '', 'O') ('15_L.Ed.2d_545', 'CD', '', 'O') ('148_USPQ_459', 'CD', '', 'O') ('467', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1966', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+Graham John Deere Co. 17 467 1966
+__NEW_SENT__
+('The', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('question', 'NN', '', 'O') ('argued', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('of', 'IN', '', 'O') ('motivation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('teachings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('references', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('device', 'NN', '', 'O')
+
+__NEW_SENT__
+('Novo', 'NNP', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Becton', 'NNP', 'PERSON', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('establish', 'VB', '', 'O') ('a', 'DT', '', 'O') ('motivation', 'NN', '', 'O') ('supported', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('whereby', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('field', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('motivated', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('teachings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('references', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('insulin', 'NN', '', 'O') ('pen', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬535', 'NNS', 'NORP', 'B') ('and', 'CC', '', 'O') ('¡¬323_patent', 'NNP', 'CARDINAL', 'B') ('s', 'VBZ', '', 'O')
+Becton ¡¬535 ¡¬323_patent
+__NEW_SENT__
+('Becton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('experts', 'NNS', '', 'O') ('Dr.', 'NNP', '', 'O') ('Snyderman', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Dr.', 'NNP', '', 'O') ('Sherwin', 'NNP', 'PERSON', 'B') ('testified', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('well', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('thinner', 'JJR', '', 'O') ('needles', 'NNS', '', 'O') ('reduced', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('pain', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('self-administered', 'JJ', '', 'O') ('insulin_injections', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('knowledge', 'NN', '', 'O') ('provided', 'VBD', '', 'O') ('motivation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('needle_size', 'NN', '', 'O')
+Becton Snyderman Sherwin
+__NEW_SENT__
+('Novo', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('expert', 'NN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Charles', 'NNP', 'PERSON', 'B') ('testified', 'VBD', '', 'O') ('similarly', 'RB', '', 'O') ('stating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('trick', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('get', 'VB', '', 'O') ('the', 'DT', '', 'O') ('needle_size', 'NN', '', 'O') ('down', 'RP', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('pain', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('insulin', 'NN', '', 'O') ('needle', 'NN', '', 'O') ('injections', 'NNS', '', 'O')
+Novo Charles
+__NEW_SENT__
+('Novo', 'NNP', 'ORG', 'B') ('stresses', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('commercial', 'JJ', '', 'O') ('success', 'NN', '', 'O') ('and', 'CC', '', 'O') ('copying', 'NN', '', 'O')
+Novo
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('Novo', 'NNP', 'ORG', 'B') ('points', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('absence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('documentary', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('motivation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('criticizes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('presentation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('conclusory', 'NN', '', 'O') ("''", "''", '', 'O') ('testimony', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Becton', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('witnesses', 'NNS', '', 'O') ('these', 'DT', '', 'O') ('are', 'VBP', '', 'O') ('matters', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('weight', 'NN', '', 'O') ('and', 'CC', '', 'O') ('credibility', 'NN', '', 'O')
+Novo Becton
+__NEW_SENT__
+('There', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('substantial_evidence', 'NN', '', 'O') ('whereby', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('reasonable_jury', 'NN', '', 'O') ('could', 'MD', '', 'O') ('have', 'VB', '', 'O') ('found', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('known', 'VBN', '', 'O') ('pain', 'NN', '', 'O') ('reduction', 'NN', '', 'O') ('provided', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('requisite', 'JJ', '', 'O') ('motivation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('narrow', 'VB', '', 'O') ('the', 'DT', '', 'O') ('needle', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Beattie', 'NNP', '', 'O') ('974_F.2d_1309', 'NNP', '', 'O') ('1311', 'CD', 'DATE', 'B') ('24_USPQ2d_1040', 'CD', '', 'O') ('1041-42', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1992', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('motivation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('references', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fact', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+1311
+__NEW_SENT__
+('The', 'DT', '', 'O') ('jury_verdict', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('vulnerable', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('ground', 'NN', '', 'O')
+
+__NEW_SENT__

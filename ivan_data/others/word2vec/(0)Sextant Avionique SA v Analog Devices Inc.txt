@@ -1,0 +1,521 @@
+172_f.3d_817
+united_states court of appeals federal circuit
+sextant avionique s.a. plaintiff-appellant v. analog devices inc. defendant-cross-appellant
+nos._98-1063 98-1077
+| feb._26,_1999
+synopsis
+patentee brought action against competitor alleging infringement of patents for accelerometers
+the united_states_district_court for the northern_district of california susan illston j. granted summary_judgment for competitor on claim of literal_infringement and granted judgment as a matter of law on claim of infringement under the doctrine of equivalents
+patentee appealed
+the court of appeals lourie circuit_judge held that 1 term` metallization' in patents referred to a deposited metallic_material and patents were thus not literally infringed by device that used doped_silicon_materials ; 2 patentee was barred by prosecution_history_estoppel from asserting as to first patent that use of doped_silicon on capacitor_plates was equivalent to patentees` metallization' limitation ; 3 as to second patent amendment of claim to include` metallization' limitation was presumptively related to patentability such that prosecution_history_estoppel was applicable ; and 4 presumption that amendment was related to patentability precluded any claim that accused device had element equivalent to` metallization' limitation
+
+affirmed
+
+smith senior_circuit_judge dissented in part and filed opinion
+
+attorneys and law firms
+*819 elliot e. polebaum fried frank harris shriver & jacobson of washington dc argued for plaintiff-appellant
+of counsel on the brief was maxim h. waldbaum fried frank harris shriver & jacobson of new_york new_york
+william f. lee hale and dorr llp of boston massachusetts argued for defendant cross-appellant
+with him on the brief were donald r. steinberg and william g. mcelwain of washington dc
+before lourie circuit_judge smith senior_circuit_judge and gajarsa circuit_judge
+opinion
+opinion for the court filed by circuit_judge lourie
+senior_circuit_judge smith joins as to part i. and part_ii
+a b and c.1 but dissents as to part_ii
+c.2 and files a separate opinion
+lourie circuit_judge
+sextant_avionique s.a. appeals from the decision of the united_states_district_court for the northern_district of california granting summary_judgment that analog_devices inc. did not literally infringe any claim of sextants patents and granting judgment as a matter of law that analog did not infringe under the doctrine of equivalents.1 we affirm
+
+i
+background
+a. sextants` marcillat' and` boura' patents
+sextants patents pertain generally to accelerometers which are small devices capable of detecting acceleration and which find utility in avionic and automotive applications
+the first of sextants patents at issue in this appeal *820 u.s._patent 4,663,972 was issued to inventor gerard marcillat on march_6,_1985
+one embodiment disclosed in the marcillat_patent shows a` test_body' 6 connected to and supported by two` flexible_blades' 4_and_5
+the flexible_blades are anchored at their` lower ends' to a` fixed_part'
+the test_body further comprises` lateral edges' 16_and_17 having metallized edges 18_and_19
+the fixed_part comprises two` wings' 20_and_21 having metallized edges 22_and_23
+this configuration thus produces two capacitors the first formed by plates 19_and_22 the second by plates 18_and_23 with air gaps in between the capacitor_plates
+this embodiment is shown in figure 2 of marcillat
+
+fig._2
+?
+the accelerometer operates as follows when the device is subject to an accelerative force in the` sensitive_axis' i.e. from left to right in fig._2 the test_body sways like a pendulum within the fixed_part and thus varies the distance between the capacitor_plates
+this variation corresponds electrically to a change in the capacitance of the capacitors which can be detected by circuitry residing elsewhere on the fixed_part
+specifically the specification discloses that signals can travel from the metallized edges 18_and_19 of the test_body to the detection circuitry by metallizing the edges of the flexible_blades 4_and_5
+
+the specification also discloses that the accelerometer can be manufactured using semiconductor_processing_techniques
+for example the specification discloses that the claimed` pendular_structure' can be` formed i [ n ] a single piece by micro-machining a crystalline silicon or quartz wafer which may further serve as [ a ] substrate for an integrated electronic circuit'
+marcillat_patent col._3,_ll._10-13
+
+claim 2 of marcillat which is representative of the claims at issue reads as follows 2
+an accelerometer_sensor_comprising
+a flat_pendular_structure made from one and the same_crystalline_wafer said structure having in a same_plane [ ] a flat fixed_part two parallel_blades flexible in the said plane and delimiting therebetween a space each of said blades having a first_end_portion fixedly connected to said fixed_part and a second_end_portion said structure further comprising a flat_test_body connected to the second_end_portions of said blades so as to be suspended from the fixed_part and to be able to move in translation in the said plane along a sensitive_axis said flat_test_body extending at least partially into said space wherein electrical_connections between the test_body and the fixed_part of the pendular_structure are *821 formed by metallizations formed on the thin_faces of said flexible_blades
+marcillat_patent col._8,_ll._33-47 paragraphing added
+
+the second of sextants patents u.s._patent 4,711,128 was issued to inventor andre boura on april_14,_1986
+the boura_patent is not formally related to the marcillat_patent ; it is not for example derived from any application related to marcillat by continuation or division
+however bouras written description makes clear that his invention constituted an improvement over marcillats invention
+in fact the` field of the invention' is described by boura as` an accelerometer using an accelerometric_sensor with flat_pendular_structure of the type described in u.s. pat
+4,663,927 [ i.e. marcillat ]'
+boura_patent col._1,_ll._8-10
+this statement is followed by bouras` description of the prior art' which focuses on marcillats disclosure of a magnetic circuit capable of returning the test_body to a proper rest position
+the` aim' of bouras invention is summarized as` to provide.. an accelerometric_sensor of a type similar to the one described above [ i.e. marcillats sensor ]' id.at ll
+49-50 but which has an improved return mechanism
+specifically bouras mechanism involved applying certain optimal mathematically-derived voltages to the various capacitor_plates of the sensor structure
+
+claim 1 the only independent claim in the boura_patent reads as follows 1
+an accelerometer_sensor_comprising
+a flat_pendular_structure made from one and the same_crystalline_wafer said structure having in a same_plane [ ] a flat fixed_part at least two parallel_blades flexible in the same_plane and delimiting therebetween a space each of said blades having a first_end_portion fixedly connected to said fixed_part and a second_end_portion said structure further comprising a flat_test_body connected to the second_end_portions of said blades so as to be suspended from the flat fixed_part and to be able to move in translation in the same_plane along a sensitive_axis under the effect of an acceleration with a position which varies in relation with said acceleration said flat_test_body extending at least partially into said space wherein said flat_test_body comprises at least a first edge which carries a first metallization having first and second_opposite_faces and said flat fixed_part comprises at least a second and third edge carrying respectively a second and third_metallizations said second and third_metallizations respectively facing said first and second_opposite_faces so as to form capacitors whose capacities vary depending on the position of said test_body said first metallization being brought to a first_voltage_v0 whereas the second and the third_metallizations are respectively brought to a second and third_voltages_v1 and v2 which are capable of generating an electrostatic return force on the flat_test_body
+id. col._5,_ll._15-42 paragraphing added
+
+b
+the prosecution histories of marcillat and boura
+the salient portions of the prosecution_history of the marcillat_patent are easily summarized
+original application claim 7 generically claimed` capacitor_plates'
+this claim was rejected under 35 u.s.c.¡± 103 over a prior_art_patent issued to rudolf in light of other references
+rudolf discloses an accelerometer formed by semiconductor_processing_techniques in which the test_body a pivotable flap is formed in monocrystalline_silicon that has been doped with impurities to make it conductive
+similar to the marcillat disclosure the test_body of rudolf constitutes one of the capacitor_plates of the sensor
+in distinguishing over this art marcillat canceled claim 7 and substituted claim 26 *822 in its place
+claim 26 was more explicit as to the nature of the capacitor_plates claiming the plates as` metallizations'
+marcillats amendment was accompanied by the following statement` in rudolf the flap and attachment_means comprise monocrystalline_silicon heavily doped with boron and form a capacitor_plate without metallizations..' joint_app.at_a2224
+application claim 26 eventually issued as claim 14 in the marcillat_patent
+the term` metallization' also appears in other claims of marcillat to describe the composition of structures other than capacitor_plates such as the electrical_connections claimed in marcillats claim 2 quoted above
+in addition to the` metallization' limitation the parties do not dispute that the claim_limitations` made from one and the same_crystalline_wafer' and` flat fixed_part' were added to the claims of marcillat to distinguish them over the prior_art
+
+as originally filed the boura_application contained one independent claim claim 1 which read as follows in an accelerometer using at least one accelerometric_sensor with a flat_pendular_structure formed by micromachining a substrate formed of a fine monocrystal wafer and comprising a flat mobile mass suspended from the rest of the structure by means of two thin parallel strips situated on each said of said mass said mobile mass comprises at least one mobile capacitor_plate and the fixed_part of the pendular_element comprises at least two fixed capacitor_plates disposed on each side of the mobile_plate and the mobile_plate is brought to a first_voltage_v0 whereas the fixed plates are respectively brought to [ ] second and third_voltages_v1 and v2 which are capable of generating an electrostatic recall force fr on the mobile mass
+id.at 2281
+this claim was rejected under 35 u.s.c.¡± 112 ?
+2 for indefiniteness and under 35 u.s.c.¡± 103 in light of a prior_art_patent issued to deval u.s._patent 4,345,474
+the statement accompanying the examiners rejection read` although deval provides a common_ground_potential between fixed plates.. it would have been an obvious design modification to provide a common_ground_potential between [ the ] mobile capacitor_plates.. and to vary the voltage to the fixed plates
+forming [ the wafer in deval ] by micromachining a monocrystal would have been an obvious manufacturing expedient'
+id.at a2302
+
+after this rejection was made in boura the examiner of the marcillat_application allowed the marcillat_claims
+accordingly sextants attorney the same attorney who was prosecuting the marcillat_application canceled claim 1 in boura and substituted claim 10 in its place which eventually issued as claim 1 in the boura_patent quoted above
+boura stated the following about claim 10 [ deval ] does not present a flat_pendular_structure but a structure comprising a flat_test_body hinged for rotation..
+in contrast [ ] with the applicants sensor [ devals ] capacity_electrodes of the test_body are formed by a thin_layer of metal which covers the two sides of this test_body and does not consist in [ sic ] metallizations formed on edge_portions of this test_body
+in addition [ devals ] capacity_electrodes of the fixed structure cover the faces of the two side members which are facing the two sides of the test_body
+this is quite different from the applicants sensor in which these capacity_electrodes are formed on the edge_portions of the fixed flat part
+an important advantage of the applicants structure consists in that due to the parallel_flexible_blades.. the capacity_electrodes remain substantially parallel [ when the test_body moves ]
+therefore a high precision can be obtained
+[ t ] he width of the facing metallizations which form the capacity_electrodes [ of deval ] is substantially equal to the thickness of the substrate which consists *823 of a fine wafer
+the surfaces of these facing metallizations are very small and it was not foreseeable that it would be possible to obtain a sufficient return force fr which is proportional to the area of the facing metallizations
+id.at a2310-11
+thus boura argued that claim 10 was distinguishable from deval because 1 deval disclosed a flat rotational structure as opposed to the` flat_pendular_structure' of the claim 2 deval disclosed forming capacitors on the sides of the test_body and flat fixed_part instead of their` edges' 3 deval did not disclose parallel_flexible_blades permitting the capacitor_plates of the sensor to remain parallel and 4 deval did not enable the use of a return force
+other statements made by boura concerning the` good results' that are obtained by his structure have no relation to distinguishing the prior_art from claim 10 and are therefore not noted here
+see id.at a2311-12
+however new_claim 10 contained the three limitations that marcillat had added to his claims in order to overcome the rudolf reference
+
+boura_claim 1 is similar in many respects to marcillat_claim 2
+in fact comparison of marcillat_claim 2 and boura_claim 1 shows that through amendment the language of these claims became substantially identical except for the` wherein' clauses
+sextant does not dispute that use of this format was an attempt to secure a quick_allowance of the boura_claims even though the marcillat_claims had been allowed by a different examiner
+thus through this strategy the` metallization'` made from one and the same_crystalline_wafer' and` flat fixed_part' limitations became part of the claims of boura
+
+c. the district court proceedings
+sextant sued analog for infringement inter alia of claim 2 of marcillat and claim 1 of boura
+analogs accused devices are fabricated using semiconductor_processing_techniques and use a deposited doped polysilicon layer for those structures corresponding to the test_body and blades of the claims
+analog moved for summary_judgment of noninfringement and for construction of certain disputed limitations of the claims
+see sextant_avionique s.a. v. analog_devices inc. no
+c-95-2838 si n.d.cal
+feb._6,_1997 order granting summary_judgment
+the court construed six limitations four of them in favor of analogs interpretation,2 and thereafter granted summary_judgment of no literal_infringement to analog
+particularly relevant here the court construed the term` metallization' to mean a deposited metallic_material and in so doing noted the relevance of the prosecution_history in which marcillat distinguished his claims over rudolfs use of doping to achieve suitable conductivity
+see id.at 14-15
+because analog did not use a deposited metallic layer but instead used a doped polycrystalline silicon layer the court held that analogs device did not literally infringe any claim of the marcillat_patent
+
+analog later successfully moved for judgment as a matter of law arguing that prosecution_history_estoppel barred sextant from asserting that analogs devices infringed either patent under the doctrine of equivalents
+concerning the marcillat_patent the court concluded that
+marcillat added the` metallization' limitations to his patent to distinguish rudolf and by so doing he surrendered an accelerometer in which the test_body and attachment_means are conductive without the addition of an additional deposited metal layer
+the court furthermore finds that analogs accused devices are conductive without the addition of a deposited metal layer and therefore fall within the scope of the` metallization' estoppel
+accordingly sextant is estopped from claiming infringement under the doctrine of equivalents as to the *824` metallization' element of the marcillat_patent_claims
+sextant_avionique s.a. v. analog_devices inc. no
+c-95-2838 si slip op.at 9 n.d.cal
+sept._29,_1997 order granting judgment as a matter of law
+the court also concluded that marcillats addition of the` made from one and the same_crystalline_wafer' and` flat fixed_part' limitations also created estoppels which precluded sextants equivalence theories against analogs accused devices
+see id.at 9-13
+
+the court next addressed the impact of prosecution_history_estoppel on the boura_patent and concluded that the estoppels present in the marcillat_file_history were applicable to limit the scope of equivalence of the same claim_terms in the boura_patent
+the court explained that
+analog argues that bouras amendments to his claim_language in response to the section 112 [ rejection ] should create an estoppel
+the court agrees with analog that under the unusual facts of this case prosecution_history_estoppel_applies
+see pall corp. v. micron separations inc. 66_f.3d_1211 1220 fed.cir.1995` [ change made in order to more particularly point out the applicants invention are ] not presumed to raise an estoppel but is reviewed on its facts with the guidance of precedent'
+on having his claims rejected as indefinite by the examiner boura incorporated the claim_terms of the marcillat_patent which had recently been allowed and then argued that these claim_terms addressed the examiners concerns
+of particular importance is the timing of bouras amendments
+the claims of the marcillat_patent had been allowed on october 22 1986 after marcillat had narrowed and redrafted his claims to the satisfaction of the examiner
+boura incorporated the terms from the marcillat_patent i.e
+`` metallization'` made from one and the same_crystalline_wafer' and` flat fixed_part' into his own patent application on may_15,_1987
+it appears that bouras intent in adding these terms was to secure quick_allowance of the boura_application and to avoid the objections raised during marcillats prosecution of his patent
+under these circumstances the court finds that boura should be estopped from asserting infringement under the doctrine of equivalents against analog as to these claim elements [ ]
+because sextant is estopped from asserting infringement under the doctrine of equivalents as to the individual` metallization'` made from one and the same wafer' and` flat fixed_part' limitations of the boura_claims the court grants judgment in favor of analog on sextants doctrine of equivalents claim as regards the boura_patent
+id.at 14-15 brackets in quote from pall in original
+
+sextant appealed the noninfringement rulings to this court
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1 1994
+
+ii
+discussion
+a
+standard of review
+judgment as a matter of law jmol is appropriate when` a party has been fully heard on an issue and there is no legally sufficient evidentiary basis for a reasonable jury to find for that party on that issue'
+fed.r.civ.p
+50 a 1
+we review a district_courts decision on a motion for jmol de novo reapplying the jmol standard
+see markman v. westview instruments inc. 52_f.3d_967 975 34_uspq2d_1321 1326 fed.cir.1995 en banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577 38_uspq2d_1461_(1996)
+summary judgment is appropriate when there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law
+fed.r.civ.p
+56 c
+we similarly review a district_courts grant of summary_judgment de novo reapplying the summary_judgment standard
+see conroy v. reebok int l ltd. 14_f.3d_1570 1575 29_uspq2d_1373 1377 fed.cir.1994
+
+*825 b
+claim construction and literal infringement
+`` an infringement analysis entails two steps
+the first_step is determining the meaning and scope of the patent_claims asserted to be infringed
+the second_step is comparing the properly construed claims to the device accused of infringing'
+markman 52 f.3d at 976 34 uspq2d at 1326
+the first_step claim_construction is a question of law which we review de novo
+see cybor corp. v. fas techs. inc. 138_f.3d_1448 1456 46_uspq2d_1169 1174 fed.cir.1998 en banc
+the second_step is factual
+see north am vaccine inc. v. american cyanamid co. 7_f.3d_1571 1574 28_uspq2d_1333 1335 fed.cir.1993
+when construing a claim a court principally consults the evidence intrinsic to the patent viz. the claims themselves the written description portion of the specification and the prosecution_history
+see vitronics corp. v. conceptronic inc. 90_f.3d_1576 1582-83 39_uspq2d_1573 1576-77 fed.cir.1996
+
+sextant argues that the court erred in its construction of the four claim_limitations that were construed against it viz.` metallization'` one and the same_crystalline_wafer'` flat fixed_part' and` two parallel_blades'
+because we conclude that the district_court did not err in its construction of the term` metallization' and therefore that summary_judgment of no literal_infringement was properly granted to analog we need not address sextants arguments with respect to the latter three limitations
+
+sextants claim_construction arguments hinge on an ironic contention that the evidence intrinsic to its own patent is ambiguous and insufficient to construe the claims thus requiring resort to extrinsic_evidence such as expert testimony
+we disagree that the intrinsic_evidence is insufficient to construe the term` metallization'
+we start first with the claim_language
+see vitronics 90 f.3d at 1582 39 uspq2d at 1576
+the term` metallization' certainly connotes the use of a metallic_material
+while sextant was free to act as its own_lexicographer and to define this term in a manner different from its plain meaning see id
+(` although words in a claim are generally given their ordinary and customary meaning a patentee may choose to be his own_lexicographer and use terms in a manner different from their ordinary meaning as long as the special definition of the term is clearly stated in the patent specification or file_history
+`` it has not done so here
+the marcillat specification discloses only the deposition of metallic_materials see marcillat_patent col._8,_ll._1-8` the metal deposited on the pendular_structure.. may be gold or a gold_alloy such as a chromium-gold_alloy for example
+however.. these circuits are preferably made from silver or aluminum..' emphasis added and does not otherwise suggest that the term` metallization' can include conductive materials generally or materials made conductive by doping
+in fact the specifications of both marcillat and boura use the concepts of` metallization' and` conductors' in related but somewhat different contexts suggesting that they do not have identical meanings
+see e.g. marcillat_patent col._7,_ll._3-5` this conducting strip being connected to a metallized one of the thin_faces of the flexible blade' ; boura_patent col._3,_ll._20-22` [ t ] he edges of the mobile teeth are covered by metallizations which extend the conducting layer at right angles
+``
+
+the prosecution_history of the marcillat_patent in which the applicant distinguished his` metallized' structure over the` doped_silicon' structure of rudolf strengthens our conclusion that the term` metallization' denotes only metallic_materials not doped_silicon_materials
+the extrinsic_evidence proffered by sextant can not alter the construction indicated by the intrinsic_evidence thereby injecting an ambiguity where none exists
+see bell & howell document management prods co. v. altek sys. 132_f.3d_701 706 45_uspq2d_1033 1038 fed.cir.1997 holding *826 that extrinsic_evidence may not be relied upon during claim_construction when the intrinsic_evidence is sufficient to construe the claim
+accordingly the district_court did not err in its construction of the term` metallization' and it therefore did not err in granting summary_judgment that analogs device which uses doped polysilicon did not literally infringe any of the claims of the marcillat or boura_patents
+
+c. prosecution history estoppel
+as we recently restated en banc an accused device that does not literally infringe a claim may still infringe under the doctrine of equivalents if each limitation of the claim is met in the accused device either literally or equivalently
+prosecution_history_estoppel provides a legal limitation on the application of the doctrine of equivalents by excluding from the range of equivalents subject_matter surrendered during prosecution of the application for the patent
+the estoppel may arise from matter surrendered as a result of amendments to overcome patentability rejections or as a result of argument to secure allowance of a claim
+prosecution_history_estoppel is a legal question subject to de novo review on appeal
+cybor 138 f.3d at 1459-60 46 uspq2d at 1177-78 citations omitted
+
+1
+the marcillat patent
+sextant makes several arguments concerning the district_courts alleged` misapplication' of the law of prosecution_history_estoppel following the supreme_courts decision in warner-jenkinson co. v. hilton davis chemical co. 520_u.s._17 117_s.ct._1040 137_l.ed.2d_146 41_uspq2d_1865_(1997)
+we have considered these arguments but find them unpersuasive
+again we focus exclusively on the` metallization' limitation because it is dispositive
+
+we recently stated that
+[ w ] hen determining whether prosecution_history_estoppel_applies to limit the doctrine of equivalents a court must examine the reason why an applicant amended a claim
+see warner-jenkinson 520_u.s._17 117 s.ct.at 1049 137_l.ed.2d_146 41 uspq2d at 1872
+if such examination indicates that a patent_applicant has made a substantive change to his claim that clearly responds to an examiners rejection of that claim as unpatentable over prior_art prosecution_history_estoppel_applies to that claim ; only the question of the scope of the estoppel remains
+no presumption needs to be applied in such a case because the reason for the amendment is clear
+bai v. l & l_wings inc. 160_f.3d_1350 1355 48_uspq2d_1674 1677 fed.cir.1998
+in this case original claim 7 of marcillat was drawn broadly to capacitor_plates
+this claim was rejected over rudolf to which marcillat responded by amending his claim to include the` metallization' limitation and by distinguishing rudolf on the basis that it disclosed the use of doped_silicon
+marcillats amendment was thus clearly responsive to the examiners prior_art_rejection
+under such circumstances prosecution_history_estoppel plainly applies
+
+as to the scope of estoppel sextant contends that analogs accused devices differ too substantially from the device disclosed in rudolf for prosecution_history_estoppel to preclude a conclusion that analog infringes the marcillat_patent under the doctrine of equivalents
+our case law recognizes that the scope of prosecution_history_estoppel` may have a limiting effect within a spectrum ranging from great to small to zero
+the effect may or may not be fatal to application of a range of equivalents broad enough to encompass a particular accused product'
+hughes_aircraft_co. v. united_states 717_f.2d_1351 1363 219_uspq_473 481 fed.cir.1983
+the scope of estoppel i.e. what subject_matter has been surrendered during prosecution by the patentee is to be *827 viewed from the vantage point of a reasonable_competitor of the patentee see haynes_int l v. jessop_steel_co. 8_f.3d_1573 1578 28_uspq2d_1652 1656 fed.cir.1993 on rehearing 15_f.3d_1076 29_uspq2d_1958_(fed.cir.1994) and is determined with reference to the prior_art and any amendments and/or arguments made in an attempt to distinguish such_art see festo corp. v. shoketsu kinzoku kogyo kabushiki co. 72_f.3d_857 864 37_uspq2d_1161 1165 fed.cir.1995 vacated on other_grounds 520_u.s._1111 117_s.ct._1240 137_l.ed.2d_323_(1997)
+
+here it is clear that sextant is estopped from successfully asserting that analogs devices employing doped_silicon are equivalent to the` metallization' of the claims
+as noted above marcillats` metallization' limitation was added in response to the examiners citation of rudolf which disclosed the use of doped_silicon
+in addition to the amendment marcillat argued that its claim was distinguishable over rudolf because rudolfs capacitor_plate` comprise [ d ] monocrystalline_silicon heavily doped with boron.. without metallizations'
+joint_app.at_a2224
+the effect of marcillats amendment and argument was clearly to surrender silicon materials made conductive by doping
+analogs doped-polysilicon devices thus fall within the scope of the estoppel and therefore do not infringe the marcillat_patent under the doctrine of equivalents
+accordingly the district_court did not err in granting judgment to analog as a matter of law on sextants claim that analog infringed the marcillat_patent under the doctrine of equivalents
+
+sextant next argues that the courts application of prosecution_history_estoppel was` demonstratively erroneous as to scope because it is apparent that analog is not practicing the surrendered prior_art'
+sextants opening brief at 39
+we disagree
+if analog were practicing the prior_art it would have had a complete defense to sextants infringement charge and prosecution_history would be irrelevant
+case law has established that the prior_art and prosecution_history_estoppel provide independent` policy oriented' limitations on the doctrine of equivalents
+see loctite corp. v. ultraseal ltd. 781_f.2d_861 870 228_uspq_90 96 fed.cir.1985 overruled on other_grounds by nobelpharma ab v. implant innovations inc. 141_f.3d_1059 46_uspq2d_1097_(fed.cir.1998) en banc ; see also haynes_int l inc. v. jessop_steel_co. 8_f.3d_1573 1579 28_uspq2d_1652 1656-57 fed.cir.1993 on rehearing 15_f.3d_1076 29_uspq2d_1958_(fed.cir.1994)
+therefore the fact that sextant is not practicing the prior_art is not fatal to the application of prosecution_history_estoppel
+
+2
+the boura patent
+sextant contends that the district_court had no basis to hold that prosecution_history_estoppel_applies to limit the range of equivalents otherwise affordable to the term` metallization' in the claims of boura and it makes two arguments in support of that contention
+sextant first argues that boura amended claim 1 to overcome the examiners indefiniteness rejection under 35 u.s.c.¡± 112 ?
+2 which sextant characterizes as the` principle rejection' pending at that time
+sextant cites the supreme_courts opinion in warner-jenkinson to support its contention that amendments made in response to ¡± 112 rejections do not give rise to prosecution_history_estoppel
+sextant next argues that the court erred in` incorporating' the file_history of marcillat into the file_history of boura thereby raising in boura the estoppel that was present in marcillat
+sextant contends that such action was improper because the two applications were not formally related and therefore a reasonable_competitor desiring to assess the claim_scope of boura would not investigate the file_history of marcillat
+
+the supreme_court in warner-jenkinson held that whether prosecution_history_estoppel applied to limit the doctrine of equivalents depended on the *828 reason disclosed in the prosecution_history for the amendment to the claims
+see warner-jenkinson 520 u.s. at 30 117 s.ct.at 1049 137_l.ed.2d_146 41 uspq2d at 1871` petitioner reaches too far in arguing that the reason for an amendment during patent_prosecution is irrelevant to any subsequent estoppel`
+if the claims were amended for a reason` related to patentability' prosecution_history_estoppel_applies
+see 520 u.s. at 29-35 117 s.ct.at 1049-51 137_l.ed.2d_146 41 uspq2d at 1871-73 ; bai 160 f.3d at 1355 48 uspq2d at 1677
+on the other_hand if the claims were amended for a reason that was not` related to patentability' prosecution_history_estoppel does not apply absent a` clear and unmistakable_surrender' of certain subject_matter
+see warner-jenkinson 520 u.s. at 31-33 117 s.ct.at 1050 137_l.ed.2d_146 41 uspq2d at 1872 ; litton sys. inc. v. honeywell inc. 140_f.3d_1449 1458 46_uspq2d_1321 1327 fed.cir.19983 finally if the patent_prosecution record does not disclose the reason for an amendment a court must presume that the amendment was made for purposes of patentability and that prosecution_history_estoppel_applies and provide the patentee with an opportunity to rebut that presumption
+see warner-jenkinson 520 u.s. at 33-35 117 s.ct.at 1051 137_l.ed.2d_146 41 uspq2d at 1873.4
+
+the court did not resolve the issue whether an amendment made in response to a ¡± 112 rejection is an amendment made for` reasons of patentability' that gives rise to prosecution_history_estoppel
+see bai 160 f.3d at 1355 48 uspq2d at 1678 noting that the` meaning of the wordpatentability was not made clear [ by the supreme_court in warner-jenkinson ] but the context of the courts discussion was patentability over the prior_art
+`` ; litton 140 f.3d at 1457 46 uspq2d at 1327 noting that`related to patentability encompassed amendmentsmade to avoid the prior_art
+``
+
+on the one hand it is clear that a patent_applicant must comply with ¡± 112 in order to obtain a patent ; failure to meet the requirements of that section results in the denial of a patent and a basis for denial of a patent is a form of` patentability' requirement
+on the other_hand the patent statute uses the title` conditions for patentability' as the heading for the novelty and nonobviousness provisions see 35 u.s.c.¡±¡± 102 103 whereas ¡± 112 only refers to the requirements of the specification
+see also and compare 35 u.s.c
+ch
+10 ¡±¡± 101-105 1994 entitled` patentability of inventions' with id
+ch
+11 ¡±¡± 111- *829 122 entitled` application for a patent' ; id.¡± 282 2 & 3 drawing a distinction between invalidity based on` any ground specified in part ii [ ¡±¡± 100-212 ] of this title as a condition for patentability` and` failure to comply with any requirement of sections 112_or_251 of this title'
+( emphasis added
+thus there are arguments on both sides of the issue
+
+in any event we need not resolve this issue because it is not necessary to resolve this case
+although neither the parties nor the district_court emphasized that the ¡± 112 rejection in boura was combined with a ¡± 103 rejection over the deval_reference that was the fact and sextants contention that boura amended his claims to` overcome a ¡± 112 rejection not a ¡± 103 rejection' sextants reply brief at 7 is belied by the prosecution_history
+first the addition of the` metallization' limitation was not responsive to the examiners ¡± 112 ?
+2 rejection and can not be said to have been added for purposes of clarity or precision of the claim_language
+the ¡± 112 rejection was accompanied by the following remarks from the examiner` claim 1 would appear to be an improvement type claim but it is not clear what the improvement is
+see 37 c.f.r.¡± 1.75 e
+consistent terminology should be used
+for example line 2 recites apendular_structure whereas lines 7-8 recite apendular_element
+in line 13recall should be -return-'
+joint app.at a2301
+second bouras remarks accompanying his amendment were directed to distinguishing the claims over deval albeit in respects not relevant to the` metallization' limitation
+thus we are not presented with the situation in which an applicant has amended his claims for the purpose of overcoming a ¡± 112 ?
+2 rejection
+cf
+litton 140 f.3d at 1461 46 uspq2d at 1329-30
+
+instead this case involves the situation in which the prosecution_history of boura does not disclose the reason for the addition of the` metallization' limitation
+like the 6.0 ph limitation in warner-jenkinson addition of this limitation was not necessary to overcome the prior_art_rejection based on deval that was pending at the time of the amendment
+limiting the claims of boura to capacitor_plates comprising` metallizations' could not have distinguished over deval because deval disclosed this exact arrangement` it is necessary to form capacitor electrodes on the confronting faces of pendulum 11 and stator 10 if the latter is insulating
+all electrodes may be formed as a thin metal layer
+the layer may be obtained by evaporation and deposition under vacuum for example'
+deval474_patent col._2,_ll._41-45 emphasis added
+furthermore and not surprisingly boura did not attempt to argue that the claims were distinguishable from deval on the basis of the inclusion of the term` metallization' in the claims
+boura instead argued that his claim as amended was distinguishable from deval on the basis of the location of the metallization i.e. because deval disclosed capacity_electrodes formed on the sides of the structure while the claim as amended claimed an edge-wise configuration
+see joint app.at a2310` in contrast [ ] with the applicants sensor [ devals ] capacity_electrodes of the test_body are formed by a thin_layer of metal which covers the two sides of this test_body and does not consist in [ sic ] metallizations formed on edge_portions of this test_body`
+thus while the prosecution_history discloses the reason for the addition of the` edge' limitation it does not disclose the reason that the term` metallization' was added to the claims of boura
+accordingly we must under warner-jenkinson rebuttably presume that this limitation was added for a reason` related to patentability' and that prosecution_history_estoppel_applies to limit the range of equivalents that might otherwise be affordable to the` metallization' limitation
+
+sextant has not rebutted this presumption
+as we have already noted it is sextants contention that boura amended his claims to overcome a ¡± 112 rejection a *830 reason which sextant opines is not` related to patentability'
+however we have already dismissed this contention as unsupported by and even contrary to the prosecution_history
+because sextant has not established that boura did not amend his claims for reasons unrelated to patentability we conclude that the presumption has not been rebutted and that prosecution_history_estoppel_applies to the` metallization' limitation.5
+
+having concluded that prosecution_history_estoppel_applies under operation of the warner-jenkinson_presumption we are left with the question of the scope of that estoppel
+see bai 160 f.3d at 1355 48 uspq2d at 1677 after a court finds that prosecution_history_estoppel_applies` only the question of the scope of the estoppel remains`
+because none of our cases prior to the instant case has applied the warner-jenkinson_presumption or addressed the scope of any estoppel arising therefrom we consult the supreme_courts discussion of the presumption for guidance we are left with the problem however of what to do in a case like the one at bar where the record seems not to reveal the reason for including the lower ph limit of 6.0
+in our view holding that certain reasons for a claim_amendment may avoid the application of prosecution_history_estoppel is not tantamount to holding that the absence of a reason for an amendment may similarly avoid such an estoppel
+mindful that claims do indeed serve both a definitional and a notice_function we think the better rule is to place the burden on the patent-holder to establish the reason for an amendment required during patent_prosecution
+the court then would decide whether that reason is sufficient to overcome prosecution_history_estoppel as a bar to application of the doctrine of equivalents to the element added by that amendment
+where no explanation is established however the court should presume that the pto had a substantial reason related to patentability for including the limiting element added by amendment
+in those circumstances prosecution_history_estoppel would bar the application of the doctrine equivalents as to that element
+the presumption we have described one subject to rebuttal if an appropriate reason for a required amendment is established gives proper deference to the role of claims in defining an invention and providing public_notice and to the primacy of the pto in ensuring that the claims allowed cover only subject_matter that is properly patentable in a proffered patent application
+applied in this fashion prosecution_history_estoppel places reasonable limits on the doctrine of equivalents and further insulates the doctrine from any feared conflict with the patent act
+warner-jenkinson 520 u.s. at 33-34 117 s.ct.at 1051 137_l.ed.2d_146 41 uspq2d at 1873 emphasis added
+
+our cases have addressed the meaning to be attributed to the courts statement that prosecution_history_estoppel` bars' any equivalency with respect to the limitation
+see generally litton sys. inc. v. honeywell inc. 145_f.3d_1472 47_uspq2d_1106_(fed.cir.1998) denial of suggestion for rehearing en banc plager clevenger and gajarsa jj. dissenting ; *831 hughes_aircraft_co. v. united_states 148_f.3d_1384 47_uspq2d_1542_(fed.cir.1998) denial of suggestion for rehearing en banc clevenger and gajarsa jj. dissenting
+in litton a case dealing not with the warner-jenkinson_presumption but with an amendment clearly made for reasons related to patentability we rejected the accused infringers argument that` any claim_language amended during prosecution for reasons related to patentability has no range of equivalents'
+litton 140 f.3d at 1456 46 uspq2d at 1326 emphasis added
+we reasoned that the supreme_court had endeavored` to not change so substantially the rules of the game' concerning the scope of estoppel id.at 1457 46 uspq2d at 1326 brackets and quotations omitted and that supreme_court case law predating warner-jenkinson embraced the concept of scope in the context of amendments made to avoid prior_art see id.at 1457 46 uspq2d at 1326 citing keystone driller co. v. northwest eng g corp. 294_u.s._42 47-48 55_s.ct._262 79_l.ed._747_(1935) and smith v. magic city kennel club 282_u.s._784 788-790 51_s.ct._291 75_l.ed._707_(1931)
+thus we concluded for amendments made for reasons related to patentability that` [ a ] careful_reading of the supreme_courts opinion in context shows that warner-jenkinson did not effect a change in the scope of subject_matter precluded by an estoppel but only in the circumstances that may trigger an estoppel'
+id. 140_f.3d_1449 46 uspq2d at 1327
+
+however a similarly careful_reading shows that the supreme_court announced a different rule of scope to be applied when a presumption arises
+the courts language is unequivocal` in those circumstances [ i.e. when the warner-jenkinson_presumption applies ] prosecution_history_estoppel would bar the application of the doctrine of equivalents as to that element'
+warner-jenkinson 520 u.s. at 33 117 s.ct.at 1051 137_l.ed.2d_146 41 uspq2d at 1873 emphasis added
+this language was not used by the court in its foregoing discussion of the effect of amendments clearly made for reasons` related to patentability' i.e. for the purpose of distinguishing the claims over the prior_art
+see litton 140 f.3d at 1456-58 46 uspq2d at 1326-27 rejecting the notion that prosecution_history arising from an amendment made for reasons related to patentability` bars' the application of the doctrine of equivalents as to the amended limitation
+instead that language was confined to the discussion of the operation of the presumption suggesting that it is only operative in that circumstance
+
+this reading of warner-jenkinson is strengthened by consideration of the policies that the court desired to foster in that case
+central to the courts rationale for creating the presumption was the idea that` claims.. serve both a definitional and public_notice_function' and that the public should be able to assess the literal_scope of claims and effective extension of claim_scope under the doctrine of equivalents with reasonable certainty
+see warner-jenkinson 520 u.s. at 33-35 117 s.ct.at 1051 137_l.ed.2d_146 41 uspq2d at 1873.6 this policy of` public_notice' is heavily implicated in the circumstance in which the presumption is operative because by definition it is unclear to one reading the prosecution_history why a particular amendment was made
+accordingly the court through the operation of the presumption placed the burden on the patentee to clarify his reasons
+the patentees failure to so clarify and thereby rebut the presumption should not work to *832 the detriment of the public by allowing an uncertain range of equivalency to remain as to the limitation at issue
+
+moreover and as a practical matter anyone desiring to assess the possible scope of an estoppel arising from the operation of the warner-jenkinson_presumption faces a difficult task
+as we noted previously in our discussion of the marcillat_patent the scope of prosecution_history_estoppel has traditionally been determined with reference to the prior_art and any amendments and/or arguments made in an attempt to distinguish such_art
+see page 15 supra
+however in the circumstance in which a presumption is operative because the record is unclear concerning the reason for an amendment it is unlikely that the prior_art or the patentees arguments if any will be of assistance in an estoppel analysis
+the lack of relevant information concerning the scope of surrendered subject_matter is further exacerbated if the patentee does not provide clarification during rebuttal
+indeed this case is an example of the futility of a scope analysis in the circumstance in which the presumption is operative
+unguided by the prosecution_history the prior_art applicants argument during prosecution and sufficient evidence in rebuttal to the presumption we have no way to set reasonable limits on how far beyond the literal_scope of the term` metallization' the estoppel will allow the doctrine of equivalents to reach
+we can expect reasonable_competitors assessing the file_history of boura to be equally puzzled as to the scope of any potential estoppel
+thus it is logical and fair that prosecution_history_estoppel arising from the operation of the warner-jenkinson_presumption allows the doctrine of equivalents no room to operate
+finding the supreme_courts language clear we hold that in circumstances in which the warner-jenkinson_presumption is applicable i.e. where the reason for an amendment is unclear from an analysis of the prosecution_history record and unrebutted by the patentee the prosecution_history_estoppel arising therefrom is total and completely` bars' the application of the doctrine of equivalents as to the amended limitation
+the district_court thus correctly rendered judgment that analog was not liable to sextant under the doctrine of equivalents because sextant could not show equivalency to the` metallization' limitation.7 because this estoppel bars infringement under the doctrine of equivalents it is unnecessary for us to address the scope of any other possible estoppels applicable to boura
+
+we have considered the parties remaining arguments but find them either without merit or unnecessary to resolve given our disposition of the case
+
+conclusion
+the district_court did not err in its construction of the` metallization' limitation which appears in the claims of both the marcillat and boura_patents
+the court did not err in granting summary_judgment that analogs devices do not literally infringe the claims of either of these patents
+moreover the court did not err in concluding that prosecution_history_estoppel precluded sextant from asserting that analogs use of doped_silicon is equivalent to the` metallization' limitation of the marcillat_claims
+finally the courts judgment that analog does not infringe under the doctrine of equivalents is affirmed because the unrebutted operation of the warner-jenkinson_presumption concerning the` metallization' limitation bars the operation of the doctrine of equivalents as to that element
+the judgment of the district_court is therefore
+
+affirmed
+
+*833 smith senior_circuit_judge dissenting in part
+i agree with the majoritys analysis of the district_courts claim_construction and i agree that the district_court properly granted summary_judgment that analogs device did not literally infringe the claims of either the marcillat or boura_patents
+i also agree with the majority that sextant is estopped by the prosecution_history of the marcillat_patent from asserting that analogs device infringes the claims of that patent under the doctrine of equivalents
+i dissent however from the majoritys holding that the warner-jenkinson_presumption estops sextant from relying on the doctrine of equivalents with respect to the boura_patent
+
+the majority opinion
+the majority affirms the district_courts summary_judgment that the boura_patent is not infringed under the doctrine of equivalents based on the following reasoning
+( 1 boura did not disclose the reason for adding the` metallization' limitation and therefore under warner-jenkinson we must presume that the limitation was added for reasons related to patentability
+( 2 sextant has not rebutted this presumption
+( 3 therefore the warner-jenkinson_presumption applies and the application of the doctrine of equivalents is barred so no equivalents of` metallizations' are covered by the boura_patents claims
+
+i disagree that the warner-jenkinson_presumption applies here
+the boura_prosecution_history clearly shows the reason the` metallization' limitation was added boura distinguished his invention from the deval prior_art_patent by requiring that the metallizations be on the edge not the side
+in his response to the first office action boura replaced original rejected claim 1 with new_claim 10 containing the` metallization' limitation
+boura distinguished the newly claimed invention from that of the deval_reference as follows` in contrast [ ] with the applicants sensor in this cited patent the capacity_electrodes of the test_body are formed by a thin_layer of metal which covers the two sides of this test_body and does not consist in metallizations formed on edge_portions of this body
+...
+this is quite different from the applicants sensor in which these capacity_electrodes are formed on edge_portions of the flat fixed_part' emphasis added
+
+the quoted passage makes it clear that boura added the` metallization' limitation in order to contrast his invention with and distinguish it from that disclosed by deval not by requiring metallizations per se but by requiring that the metallizations be on the edge of the test_body and not on the side.1 therefore the record shows that the` metallization' limitation was added for reasons related to patentability and the warner-jenkinson_presumption should not apply
+
+the majority acknowledges that boura added the` metallization-on-the-edge' limitation in response to a rejection over deval but splits the limitation into two parts` metallization' and` on-the-edge'
+since deval discloses capacitors formed from metallizations the majority reasons that part of the limitation could not have been added in order to distinguish the invention from the prior_art
+since the record does not disclose any other reason for adding the` metallization' limitation the majority applies the warner-jenkinson_presumption finds it unrebutted and bars application of the doctrine of equivalents
+
+our cases applying the warner-jenkinson_presumption do not support such a delicate parsing of claim_limitations
+for example in the recent case of *834 bai v. l & l_wings inc. 160_f.3d_1350 fed.cir.1998 we held that the warner-jenkinson_presumption did not apply
+in bai the applicant claimed a target game including a fabric-covered dish-shaped glove
+original claims 1-3 were rejected over a combination of four prior_art_patents including one hartel that disclosed a dish-shaped structure
+in response bai amended claim 1 to include all the limitations of original claims 1-3 along with two additional limitations that the glove be` hemispherical' and that it include a` strap mounted on the rear side'
+id.at 1352 and n. 1
+the amended claim was allowed
+
+the district_court concluded that bai had added the` hemispherical' limitation in response to the obviousness rejection despite bais argument that the limitation was added merely to clarify the claimed structure and not to distinguish over the prior_art
+id.at 1353 1354
+on appeal we agreed that the amendment` was clearly an attempt by bai to differentiate his invention over the hartel patent'
+id.at 1355
+
+we reached this conclusion despite the fact that bai had added the` strap' limitation at the same time as the` hemispherical' limitation
+the bai_court never considered whether the` hemispherical' limitation was necessary to distinguish the prior_art in view of the simultaneous` strap' limitation and in fact rejected bais argument that` the amendment could not have been made to overcome prior_art because it was not necessary to overcome the prior_art_rejection'
+id.at 1356
+the bai_court held that bai was estopped from raising the issue of the necessity of the` hemispherical' limitation
+`` whether or not thehemispherical limitation was superfluous the prosecution record clearly reveals that bai made this amendment to overcome prior_art'
+id. citing american permahedge v. barcana 105_f.3d_1441 1446` [ c ] lear assertions made during prosecution in support of patentability whether or not actually required to secure allowance may create an estoppel
+``
+
+the majority in this case by contrast reasons that because the` metallization' limitation was disclosed in the prior_art it could not have been necessary to distinguish bouras invention and therefore was not added for a reason related to patentability
+the bai_court rejected the very logic relied on by the majority in this case
+panel decisions are binding on future cases unless overturned by the court en banc
+see umc elecs co. v. united_states 816_f.2d_647 652_n._6_(fed.cir.1987)` a panel of this court is bound by prior precedential decisions unless and until overturned en banc`
+the majoritys approach today is foreclosed by bai.2
+
+as a colleague so eloquently stated` [ w ] e require practitioners who appear before this court to apply rigorous logic and consistency in their advocacy ; we should require no less of ourselves whenever we are providing directions to the bar'
+litton_systems inc. v. honeywell inc. 145_f.3d_1472 1478 fed.cir.1998 gajarsa j. dissenting from denial of rehearing en banc
+the inconsistency engendered by the majoritys approach in this case does a disservice to the development of our jurisprudence
+
+in addition i am uneasy with application of the warner-jenkinson_presumption for the first_time on appeal because i do not believe that sextant has had an adequate opportunity to rebut the presumption
+this court should not lightly conclude that the record presents no reason for a claim_amendment long after the parties have exhausted their opportunities to present evidence and arguments
+this is especially so when that conclusion requires the court to limit patent_claims to their literal_terms
+here the district_court concluded that the record did in fact *835 establish the reason for the amendment in the boura_patent-' to secure quick_allowance of the boura_application and to avoid the objections raised during marcillats prosecution of his patent'
+thus the court never applied the warner-jenkinson_presumption to the boura_patents claims and never presented sextant with an opportunity to rebut it.3 to apply the presumption first in this court with the effect of completely barring the doctrine of equivalents is unfair to litigants and adds to the unpredictability of patent litigation
+from this point on litigants will have to worry about the warner-jenkinson_presumption being applied for the first_time on appeal and their claims being limited to their literal_terms because this court disagrees with the trial_court on the reason a claim was amended
+this development can not be welcomed by anyone
+
+regardless of the propriety of applying the warner-jenkinson_presumption for the first_time on appeal the presumption should not even apply in this case since the boura_prosecution_history shows that the` metallization on the edge not the side' limitation was added to distinguish the claimed accelerometer from the deval_reference
+since the presumption does not apply there was no burden on sextant to rebut it and no bar to application of the doctrine of equivalents
+
+the district courts opinion
+i also disagree with the district_courts treatment of the boura_patent
+the district_court held that the marcillat_patents prosecution_history applied to the boura_patents claims even though the marcillat and boura_applications were not related by continuation or division and shared no common inventors because the boura_claims were amended to correspond to the language of the marcillat_claims after the marcillat_claims were indicated allowable
+the court found that the timing of the amendment and the similarity of the claim_language indicated that boura added the terms` to secure quick_allowance of the boura_application and to avoid the objections raised during marcillats prosecution of his patent'
+the court concluded that the marcillat_patents prosecution_history created an estoppel with respect to the boura_patents claims
+
+we have recently confirmed that` [ a ] s a basic proposition the standard for determining whether subject_matter has been relinquished is whether one of ordinary skill in the art would objectively conclude from the prosecution_history that an applicant surrendered it'
+litton_systems inc. v. honeywell inc. 140_f.3d_1449 1462 fed.cir.1998 citing mark i mktg corp. v. r.r
+donnelley & sons co. 66_f.3d_285 291 fed.cir.1995
+see also desper products inc. v. qsound labs inc. 157_f.3d_1325 1338 fed.cir.1998` in determining the scope of what if any subject_matter has been surrendered the standard is an objective one what would a reasonable_competitor reading the prosecution_history conclude has been surrendered
+`` ; wang labs. inc. v. mitsubishi elecs
+america inc. 103_f.3d_1571 1578 fed.cir.1997` we examine the statements *836 and actions of the patentee before the pto during prosecution and ask what a competitor reasonably may conclude the patentee surrendered to gain issuance of the patent'
+( citation omitted
+
+we have found a basis for prosecution_history_estoppel in statements made by patent_applicants in a variety of contexts during prosecution
+see e.g. haynes_int l inc. v. jessop_steel_co. 8_f.3d_1573 1579 fed.cir.1993 and cases cited therein
+but we have never based a finding of prosecution_history_estoppel on a statement made by a different applicant during prosecution of an unrelated application nor have we ever hinted that competitors should examine the file histories of applications other than the one in suit in order to determine the scope of equivalents that may be accorded the patentee
+the district_courts importation of the marcillat_patents prosecution_history into the boura_patent was erroneous and should be reversed
+
+conclusion
+the district_courts holding that the prosecution_history of the marcillat_patent estops sextant from asserting the doctrine of equivalents in the boura_patent is contrary to our precedent and should be reversed
+in addition the majoritys holding that the` metallization' part of bouras` metallization-on-the-edge' limitation is subject to the warner-jenkinson_presumption is contrary to our precedent and to the facts of this case
+i would reverse the district_courts holding with respect to the boura_patent and remand for further proceedings to determine whether analogs device infringes the claims of the boura_patent under the doctrine of equivalents as those equivalents are limited by the prosecution_history of the boura_patent and our controlling precedents
+i therefore dissent from that part of the panels disposition of this case
+
+all citations
+172_f.3d_817 49_u.s.p.q.2d_1865
+footnotes
+1
+analog_devices also filed a cross-appeal in this action
+however recognizing that it did not have standing to cross-appeal because its arguments were merely alternative grounds in support of affirmance of the district_court analog withdrew its cross-appeal during oral argument
+2
+the court construed the claim_limitations` pendular_structure'` in a same_plane'` metallization'` one and the same_crystalline_wafer'` flat fixed_part' and` two parallel_blades'
+the court construed all but the first two of these limitations in analogs favor
+3
+in addition as we have stated earlier [ e ] ven arguments made during prosecution without amendments to claim_language-if sufficient to evince a clear and unmistakable_surrender of subject_matter-may estop an applicant from recapturing that surrendered matter under the doctrine of equivalents
+see hoganas ab v. dresser indus. inc. 9_f.3d_948 952 28_uspq2d_1936 1939 fed.cir.1993
+estoppel by clear and unmistakable_surrender without claim_amendments may arise even when the arguments to the examiner were not necessary to distinguish prior_art
+texas instruments inc. v. united_states int l trade comm n 988_f.2d_1165 1174-75 26_uspq2d_1018 1025 fed.cir.1993
+this principle presupposes that the applicant has made the surrender unmistakable enough that the public may reasonably rely on it
+litton 140 f.3d at 1458 46 uspq2d at 1327
+4
+the claim at issue in warner-jenkinson was rejected over prior_art that disclosed an ultrafiltration process operating at a ph above 9.0
+in response the applicant amended his claim to encompass processes operating` at a ph from approximately 6.big_token__0_to_9__big_token0'
+thus while the 9.0 limitation was clearly added to distinguish the prior_art the` reason for adding the lower limit of 6.0 [ was ] unclear'
+warner-jenkinson 520 u.s. at 32 117 s.ct.at 1050 137_l.ed.2d_146 41 uspq2d at 1872
+the court thus concluded that while prosecution_history_estoppel did not necessarily apply to the 6.0 limitation because it` was not related to avoiding the prior_art' the court created a rebuttable presumption that the 6.0 limitation had been added for a reason` related to patentability'
+see 520 u.s. at 31-35 117 s.ct.at 1050-51 137_l.ed.2d_146 41 uspq2d at 1872-73
+5
+our decision concerning sextants inability to rebut the operation of the warner-jenkinson_presumption rests upon a fully developed record in which sextant has consistently maintained that its amendments were made for the purpose of traversing a ¡± 112 rejection-an argument which we have found unpersuasive
+however we recognize that it may be necessary in other circumstances for this court to remand to the district_court to allow a patentee an opportunity to rebut the operation of the presumption
+remand is especially necessary when this court determines for the first_time that the presumption is applicable and the patentee has not had a chance to develop the record concerning the reason for the amendment at issue
+because sextant has been fully heard with respect to its ¡± 112 argument we see no reason for a remand here
+6
+see also warner-jenkinson 520 u.s. at 28-29 117 s.ct.at 1048-49 137_l.ed.2d_146 41 uspq2d at 1871` we.. share the concern.. that the doctrine of equivalents as it has come to be applied since graver tank [ & mfg co. v. linde air products co. 339_u.s._605 70_s.ct._854 94_l.ed._1097_(1950) ] has taken on a life of its own unbounded by the patent_claims
+there can be no denying that the doctrine of equivalents when applied broadly conflicts with the definitional and public-notice_function of the statutory claiming requirement`
+7
+because we affirm the district_court on a different rationale we need not reach sextants argument that the district_court erred in` incorporating' the marcillat_file_history into the boura file_history
+1
+the record does not make it clear precisely what distinguishes a` side' of the test_body from an` edge'
+perhaps an` edge' is perpendicular to the plane of the flat accelerometer wafer while a` side' is parallel to that plane
+regardless the record is clear that the limitation was added in order to distinguish the deval_reference
+2
+the majoritys approach is also inconsistent with insituform techs. inc. v. cat contracting inc. 161_f.3d_688_(fed.cir.1998) and hughes_aircraft_co. v. united_states 140_f.3d_1470_(fed.cir.1998)
+3
+the majority states that a remand although necessary in some cases is not called for here because sextant has had a chance to explain the reason for the` metallization' limitation
+however if this record is sufficient for us to apply the warner-jenkinson_presumption for the first_time on appeal it is hard to envision a case in which it would not be sufficient
+in order for this court to consider the doctrine of equivalents and prosecution_history_estoppel the trial_court must decide those issues
+see singleton v. wulff 428_u.s._106 120 96_s.ct._2868 49_l.ed.2d_826_(1976)
+in order for the trial_court to decide the issues of doctrine of equivalents and prosecution_history_estoppel it must consider the reasons that the claim_limitations were added see warner-jenkinson 520 u.s. at 33 117_s.ct._1040 and therefore must give the parties an opportunity to submit evidence and arguments explaining the reasons for the claim_limitations
+thus in every case in which this court applies the warner-jenkinson_presumption the patentee will have had at least the same opportunity that sextant has had in this case to` rebut' the presumption
+future litigants should not be fooled by the majoritys implication that they will be treated differently than sextant is today
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+sextant_avionique s.a. v. analog_devices inc. 172_f.3d_817 1999 49_u.s.p.q.2d_1865
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

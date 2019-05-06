@@ -1,0 +1,111 @@
+507_F.3d_1340
+United States Court of Appeals Federal Circuit
+Z4 TECHNOLOGIES INC. Plaintiff-Appellee v. MICROSOFT CORPORATION Defendant-Appellant and
+Autodesk Inc. Defendant
+No._2006-1638
+| Nov._16,_2007
+| Rehearing and Rehearing En Banc Denied Jan._30,_2008
+* Synopsis
+Background : Assignee of patents related to prevention of software_piracy sued competitor for infringement
+After jury found that competitor had infringed patents and did not prove that patents were invalid the United_States_District_Court for the Eastern_District of Texas Leonard Davis J. 2006_WL_2401099 denied competitor 's renewed motions for judgment as a matter of law and motion for new_trial
+Competitor appealed
+
+Holdings : The Court of Appeals Linn Circuit_Judge held that :
+
+as used in patent_claims term `` user '' meant `` a person or a person using a computer '' ;
+
+substantial_evidence supported jury_verdict finding of infringement of `` user '' limitation even under modified claim construction ;
+
+substantial_evidence supported finding of infringement of patent_claims ' `` password '' and `` authorization_code '' limitations ;
+
+patents ' `` automatic '' and `` electronic '' claim limitations did not require that initiation of registration communication commence without any user interaction ;
+
+substantial_evidence supported jury 's determination that patents were not invalid for anticipation ;
+
+erroneous instruction did not warrant new_trial on issue of anticipation ; and
+
+refusing to give competitor 's requested jury instruction was not abuse of discretion
+
+Affirmed
+
+Attorneys and Law Firms
+*1343 Frank A. Angileri Brooks Kushman P.C. of Southfield MI argued for plaintiff-appellee
+With him on the brief were Ernie L. Brooks Thomas A. Lewry and John S. Le Roy
+John E. Gartman Fish & Richardson P.C. of San Diego CA argued for defendant-appellant
+With him on the brief were Matthew C. Bernstein Seth M. Sproul and John M. Bustamante
+Also on the brief were Robert E. Hillman and John A. Dragseth of Boston MA
+Of counsel on the brief was Isabella Fu Microsoft_Corporation of Redmond WA
+Before LOURIE and LINN Circuit_Judges and BUCKLO District Judge
+** Opinion
+*1344 LINN Circuit_Judge
+Microsoft_Corporation ( `` Microsoft '' ) appeals from a final judgment of the United_States_District_Court for the Eastern_District of Texas z4 Techs. Inc. v. Microsoft_Corp. No._06-_cv-142 2006_WL_2401099 ( E.D.Tex
+Aug. 18 2006 )
+The district_court denied Microsoft 's renewed motion for judgment as a matter of law ( `` JMOL '' ) following a jury_trial in which the jury found that Microsoft had infringed z4 Technologies Inc. 's ( `` z4 's '' ) U.S
+Patents No._6044,471 ( `` the ¡¬471_patent `` ) and No._6785,825 ( `` the ¡¬825_patent `` ) and had failed to prove these patents invalid
+z4 Techs. Inc. v. Microsoft_Corp. No._06-_cv-142 2006_WL_2401099 ( E.D.Tex
+Aug. 18 2006 ) ( `` JMOL_Opinion `` )
+Because substantial_evidence supports the jury 's verdict and because the district_court did not abuse its discretion in denying Microsoft 's motion for a new_trial we affirm
+
+I
+BACKGROUND
+z4 is the assignee of two patents related to the prevention of software_piracy
+The inventor of these patents David Colvin ( `` Colvin '' ) founded and owns z4
+The ¡¬825_patent_claims priority to the ¡¬471_patent through continuation applications and thus shares an effective filing date of June_4,_1998
+Because these patents also share a common specification we will refer generically to `` the specification '' in reference to both the ¡¬471 and ¡¬825_patent s. These patents are directed specifically to the problem of `` illicit copying and unauthorized use '' of computer software
+¡¬825_patent col.1 ll.21-25
+The patent specification explains that `` [ t ] he advent of the Internet has contributed to the proliferation of pirated software known as 'warez ' which is easily located and readily downloaded ''
+Id
+col.1 ll.33-35
+Prior art solutions to this problem were either easily circumvented or imposed substantial burdens on the consumer
+For example requiring the entry of a serial_number was `` easily defeated by transferring the serial_number.. to one or more unauthorized_users ''
+Id
+col.1 ll.45-51
+Similarly the use of `` hardware keys '' which must be physically present to enable the software proved `` relatively expensive for the developer and cumbersome for the authorized user ''
+Id
+col.1 ll.36-44
+
+z4 's invention `` controls the number of copies of authorized software by monitoring registration_information '' and by `` [ r ] equiring authorized users to periodically update a password or authorization_code provided by a password administrator ''
+¡¬471_patent col.3 ll.15-24
+More particularly the patents disclose a multi-step user authorization scheme whereby an initial password or authorization_code grants the user a `` grace_period '' for a fixed number of uses or period of time
+Users must then submit registration_information to a representative of the software developer to receive a second password or authorization_code which is required to enable the product for use beyond this grace_period
+In the patented system users are able to choose between a manual registration mode and an automatic or electronic registration mode
+Upon receipt of the registration_information the software_representative compares the submitted information to previously-stored registration_information and determines whether the user is authorized
+If the user is not authorized the software_representative may disable the software
+
+On September 22 2004 z4 sued Microsoft and Autodesk Inc. ( `` Autodesk '' ) 1 alleging infringement of claim 32 of the ¡¬471_patent and claims 44_and_131 of the ¡¬825_patent
+Claim 32 of the ¡¬471_patent reads *1345 as follows with disputed portions highlighted :
+
+32
+A computer readable storage medium having data stored therein representing software executable by a computer the software including instructions to reduce use of the software by unauthorized_users the storage medium comprising : instructions for requiring a password associated with the software ; instructions for enabling the software after the password has been communicated to the software ; instructions for subsequently requiring a new password to be communicated to the software for continued_operation of the software ; and instructions for automatically contacting an authorized representative of the software to communicate registration_information and obtaining authorization for continued_operation of the software
+Claims 44_and_131 of the ¡¬825_patent are identical for purposes of this appeal
+They differ only in their definition of the `` initial_authorization_period '' or grace_period
+Claim 44 reads as follows with disputed portions highlighted : 44
+A method for reducing unauthorized software use the method comprising : providing a representative to monitor software license compliance ; associating a first_authorization_code with the software the first_authorization_code enabling the software on a computer for use by a user for an initial_authorization_period the initial_authorization_period being based on usage of the software ; supplying the first_authorization_code with the software ; requiring the user to enter the first_authorization_code to at least partially enable the software on the computer for use by the user during the initial_authorization_period ; requiring the user to contact the representative for retrieval of at least one additional_authorization_code to repeat the enablement of the software on the computer for use by the user during a subsequent_authorization_period beyond the initial_authorization_period and allowing the repeat of the enablement of the software to be performed prior to the expiration of the initial_authorization_period so the enablement of the software can be continuous from the initial_authorization_period to the subsequent_authorization_period the software being enabled on the computer for use by the user during the subsequent_authorization_period beyond the initial_authorization_period requiring without further communication with the representative following entry of the at least one additional_authorization_code ; requiring the user to selectively choose either manual or electronic registration and provide registration_information to the representative prior to retrieval of the at least one additional_authorization_code the registration_information including computer specific information ; comparing previously stored registration_information related to at least one of the software the user and the computer with the registration_information provided by the user to the representative to determine if the user is an authorized or an unauthorized_user ; and.at least partially disabling the software if the user [ sic ] an unauthorized_user
+
+In the litigation z4 alleged that Microsoft 's `` Product Activation '' feature as implemented in its `` Office '' group of software applications and its `` Windows '' operating system infringed each of the asserted claims beginning in 2000_and_2001 respectively
+Microsoft countered that it did not *1346 infringe z4 's patents that the ¡¬471 and ¡¬825_patent s were invalid for anticipation and obviousness and that both patents were unenforceable due to inequitable conduct by Colvin
+In particular Microsoft contended that it had developed its own technology to reduce software_piracy called the Licensing Verification Program ( `` LVP '' ) which it implemented in its 1998 Brazilian Publisher ( `` BP 98 '' ) software product
+Because this product was released prior to the filing date of z4 's patents Microsoft alleged that it constituted a prior invention sufficient to invalidate the asserted claims
+
+A magistrate judge held a Markman hearing and subsequently construed several disputed claim terms
+z4 Techs. Inc. v. Microsoft_Corp. No._06-_cv-142 2005_WL_2304993_(E.D.Tex._Sep._20,_2005) ( `` Claim Construction Opinion `` )
+Later during the course of the jury_trial the court construed an additional term `` user '' which had become central to Microsoft 's litigation arguments
+z4 Techs. Inc. v. Microsoft_Corp. No._06-_cv-142 ( E.D.Tex
+Apr._12,_2006 ) ( `` Supplemental Claim Construction Opinion `` )
+The jury returned a verdict of willful_infringement of all three asserted claims against Microsoft and awarded damages of $ 115 million
+
+Following the jury_verdict Microsoft filed various renewed motions for JMOL under Rule 50 ( b ) and a motion for a new_trial under Rule 59 ( a ) of the Federal Rules of Civil Procedure
+The district_court denied all of Microsoft 's motions for JMOL and a new_trial thereby upholding the jury 's verdict in its entirety
+The district_court also held both patents to be enforceable
+JMOL_Opinion at 2
+It declined however to issue a permanent injunction against Microsoft
+See z4 Techs. Inc. v. Microsoft_Corp. 434_F.Supp.2d_437_(E.D.Tex.2006)
+
+Based on the jury 's finding of willful_infringement z4 requested enhanced damages
+Although the district_court chose not to enhance damages to the maximum of three times the jury_verdict it did award an additional $ 25 million against Microsoft
+JMOL_Opinion at 47
+It also awarded attorney 's fees to z4 based on the jury 's willfulness verdict and its own determination of litigation misconduct by Microsoft
+Id.at 43
+Microsoft timely appealed
+We have jurisdiction pursuant to 28 U.S.C.¡± 1295 ( a ) ( 1 )
+

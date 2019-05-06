@@ -1,0 +1,162 @@
+('192_F.3d_1353', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('TEC', 'NNP', 'ORG', 'B') ('AIR', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('DENSO', 'NNP', '', 'O') ('MANUFACTURING', 'NNP', '', 'O') ('MICHIGAN', 'VBD', '', 'O') ('INC.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('formerly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Nippondenso', 'NNP', 'ORG', 'B') ('Manufacturing', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Denso_Corporation', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('formerly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Nippondenso', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+TEC AIR INC. Nippondenso Manufacturing USA Inc. Nippondenso Co. Ltd.
+__NEW_SENT__
+('No._99-1011', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Sept._30,_1999', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', 'ORG', 'B') ('Rehearing', 'NNP', 'ORG', 'I') ('Denied', 'VBN', 'ORG', 'I') (';', ':', 'ORG', 'I') ('Suggestion', 'NN', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Rehearing', 'VBG', 'ORG', 'I') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Declined', 'VBN', 'PERSON', 'B') ('Nov._8,_1999', 'NNP', 'PERSON', 'I')
+| Rehearing Denied ; Suggestion for Rehearing Declined Nov._8,_1999
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('and', 'CC', '', 'O') ('device', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('properly', 'RB', '', 'O') ('balanced', 'VBN', '', 'O') ('injected-molded', 'JJ', '', 'O') ('fans', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('radiator', 'NN', '', 'O') ('and', 'CC', '', 'O') ('condenser_assemblies', 'NNS', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('awarded', 'VBN', '', 'O') ('damages', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('Blanche', 'NNP', '', 'O') ('M.', 'NNP', '', 'O') ('Manning', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('denied', 'VBD', '', 'O') ('manufacturer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('or', 'CC', '', 'O') ('new_trial', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('manufacturer', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Northern_District Illinois
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Mayer', 'NNP', 'ORG', 'I') ('Chief_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('whether', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('statutory', 'JJ', '', 'O') ('on-sale', 'NN', '', 'O') ('bar', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('question', 'NN', '', 'O') ('for', 'IN', '', 'O') ('jury', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('whether', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('was', 'VBD', '', 'O') ('question', 'NN', '', 'O') ('for', 'IN', '', 'O') ('jury', 'NN', '', 'O') (';', ',', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('owner', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('entire_market_value_rule', 'NNP', 'PERSON', 'B')
+The Court of Appeals Mayer Chief_Judge 1 2 3 entire_market_value_rule
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1356', 'NFP', '', 'O') ('Jerold', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Jacover', 'NNP', 'PERSON', 'I') ('Brinks', 'NNP', 'PERSON', 'I') ('Hofer', 'NNP', 'PERSON', 'I') ('Gilson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Lione', 'NNP', 'PERSON', 'I') ('Chicago', 'NNP', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Jerold A. Jacover Brinks Hofer Gilson & Lione Illinois
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Kaplan', 'NNP', 'PERSON', 'I') ('Rodney', 'NNP', 'PERSON', 'I') ('A.', 'NNP', 'PERSON', 'I') ('Daniel', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bradley', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Lane', 'NNP', 'PERSON', 'I')
+Richard A. Kaplan Rodney A. Daniel Bradley G. Lane
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('McCarthy', 'NNP', 'PERSON', 'I')
+James M. McCarthy
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Streff', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Kirkland', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Ellis', 'NNP', 'ORG', 'I') ('Chicago', 'NNP', 'ORG', 'I') ('Illinois', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+William A. Streff Jr. Kirkland & Ellis Chicago Illinois
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Steadman', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Jay', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Alexander', 'NNP', 'PERSON', 'I') ('Kirkland', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Ellis', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Paul R. Steadman Jay I. Alexander Kirkland & Ellis Washington
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Kenneth', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Jurek', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Rosanne', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Faraci', 'NNP', 'PERSON', 'I') ('McDermott', 'NNP', 'ORG', 'B') ('Will', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Emery', 'NNP', 'ORG', 'I') ('Chicago', 'NNP', 'GPE', 'B') ('Illinois', 'NNP', 'GPE', 'B')
+Kenneth J. Jurek Rosanne J. Faraci McDermott Will & Emery Chicago Illinois
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('Chief_Judge', 'VBP', '', 'O') ('MICHEL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judges', 'NNPS', 'ORG', 'I')
+LOURIE Circuit Judges
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MAYER', 'NNS', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Denso', 'NNP', 'ORG', 'B') ('Manufacturing', 'NNP', 'ORG', 'I') ('Michigan', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Denso_Corporation', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Denso', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('24', 'CD', 'EVENT', 'I') ('1998', 'CD', 'EVENT', 'I') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('No._91-', 'NNP', '', 'O') ('CV-4488', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('entered', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('or', 'CC', '', 'O') ('alternatively', 'RB', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('new_trial', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('damages', 'NNS', '', 'O')
+Denso Manufacturing Michigan Inc. Denso the September 24 1998 Northern_District Illinois Denso
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O')
+
+__NEW_SENT__
+('Tec_Air', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Tec_Air', 'ADD', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('owns', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('Nos._4047', 'NNP', '', 'O') ('692_and_4107,257', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('Swin_patents', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('have', 'VBP', '', 'O') ('effective', 'JJ', '', 'O') ('filing', 'NN', '', 'O') ('dates', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('24', 'CD', 'DATE', 'I') ('1975', 'CD', 'DATE', 'I')
+Tec_Air Inc. Tec_Air U.S. September 24 1975
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Swin_patents', 'NNS', '', 'O') ('describe', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('properly', 'RB', '', 'O') ('balanced', 'VBN', '', 'O') ('injected-molded', 'JJ', '', 'O') ('fans', 'NNS', '', 'O')
+
+__NEW_SENT__
+('One', 'CD', 'CARDINAL', 'B') ('way', 'NN', '', 'O') ('to', 'TO', '', 'O') ('balance', 'VB', '', 'O') ('a', 'DT', '', 'O') ('plastic', 'JJ', '', 'O') ('fan', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('use', 'VB', '', 'O') ('balance', 'NN', '', 'O') ('``', '``', '', 'O') ('pads', 'NNS', '', 'O') ("''", "''", '', 'O') ('``', '``', '', 'O') ('lugs', 'NNS', '', 'O') ("''", "''", '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('plugs', 'NNS', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('deposits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('plastic', 'NN', '', 'O') ('located', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('appropriate', 'JJ', '', 'O') ('places', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fan', 'NN', '', 'O')
+One
+__NEW_SENT__
+('To', 'TO', '', 'O') ('create', 'VB', '', 'O') ('these', 'DT', '', 'O') ('lugs', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('hollow', 'JJ', '', 'O') ('column', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('formed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('steel', 'NN', '', 'O') ('fan', 'NN', '', 'O') ('mold', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('fills', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('molten', 'JJ', '', 'O') ('plastic', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('injection-molding', 'JJ', '', 'O') ('process', 'NN', '', 'O')
+
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('entered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('fan', 'NN', '', 'O') ('molding', 'NN', '', 'O') ('business', 'NN', '', 'O') ('in', 'IN', '', 'O') ('1972', 'CD', 'DATE', 'B') ('like', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('manufacturers', 'NNS', '', 'O') ('it', 'PRP', '', 'O') ('used', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('these', 'DT', '', 'O') ('columns', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('grinding', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('drilling', 'VBG', '', 'O') ('holes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('mold_inserts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('refilling', 'VBG', '', 'O') ('them', 'PRP', '', 'O') ('if', 'IN', '', 'O') ('needed', 'VBN', '', 'O')
+Tec_Air 1972
+__NEW_SENT__
+('A', 'DT', '', 'O') ('mold_insert', 'NN', '', 'O') ('forms', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('overall', 'JJ', '', 'O') ('fan', 'NN', '', 'O')
+
+__NEW_SENT__
+('Tec_Air', 'PRP', 'ORG', 'B') ('also', 'RB', '', 'O') ('inserted', 'VBD', '', 'O') ('replaceable', 'JJ', '', 'O') ('brass', 'NN', '', 'O') ('rods', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('hollowed-out', 'JJ', '', 'O') ('sections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mold_insert', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('drilled', 'VBN', '', 'O') ('more', 'RBR', '', 'O') ('easily', 'RB', '', 'O') ('because', 'IN', '', 'O') ('brass', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('softer', 'JJR', '', 'O') ('metal', 'NN', '', 'O') ('than', 'IN', '', 'O') ('steel', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('brass', 'NN', '', 'O') ('plug', 'NN', '', 'O') ('method', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Tec_Air
+__NEW_SENT__
+('In', 'IN', '', 'O') ('June', 'NNP', 'DATE', 'B') ('1974', 'CD', 'DATE', 'I') ('Tec_Air', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('employee', 'NN', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('Swin', 'NNP', 'PERSON', 'I') ('Sr.', 'NNP', 'PERSON', 'I') ('conceived', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('method', 'NN', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Swin_patents-inserting', 'JJ', '', 'O') ('adjustable_screws', 'NN', '', 'O') ('into', 'IN', '', 'O') ('hollowed-out', 'JJ', '', 'O') ('sections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mold_insert', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('the', 'DT', '', 'O') ('fan', 'NN', '', 'O') ('hub', 'NN', '', 'O')
+June 1974 Tec_Air Richard Swin Sr.
+__NEW_SENT__
+('These', 'DT', '', 'O') ('screws', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('accessible', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('front', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('cavity-side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mold', 'NN', '', 'O')
+
+__NEW_SENT__
+('Throughout', 'IN', '', 'O') ('the', 'DT', '', 'O') ('development', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('continued', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('market', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('fans', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('fan', 'NN', '', 'O') ('molds', 'NNS', '', 'O')
+Tec_Air
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('in', 'IN', '', 'O') ('June', 'NNP', 'DATE', 'B') ('1974', 'CD', 'DATE', 'I') ('Tec_Air', 'NNP', 'ORG', 'B') ('offered', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('sell', 'VB', '', 'O') ('Keeprite', 'NNP', 'ORG', 'B') ('Products', 'NNPS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Keeprite', 'NNP', 'NORP', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('injected-', 'RB', '', 'O') ('*1357', 'PRP$', '', 'O') ('molded', 'VBN', '', 'O') ('fans', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('corresponding', 'JJ', '', 'O') ('mold', 'NN', '', 'O')
+June 1974 Tec_Air Keeprite Products Keeprite
+__NEW_SENT__
+('Keeprite', 'NNP', 'NORP', 'B') ('placed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('in', 'IN', '', 'O') ('July', 'NNP', 'DATE', 'B') ('1974', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('created', 'VBD', '', 'O') ('drawings', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Keeprite_fan', 'NNP', 'PERSON', 'B')
+Keeprite July 1974 Tec_Air Keeprite_fan
+__NEW_SENT__
+('One', 'CD', 'CARDINAL', 'B') ('drawing', 'NN', '', 'O') ('dated', 'VBN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('16', 'CD', 'DATE', 'I') ('1974', 'CD', 'DATE', 'I') ('shows', 'VBZ', '', 'O') ('``', '``', '', 'O') ('balance_plugs', 'NNS', '', 'O') ("''", "''", '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fan', 'NN', '', 'O') ('but', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('specify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('creating', 'VBG', '', 'O') ('them', 'PRP', '', 'O')
+One August 16 1974
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('24', 'CD', 'DATE', 'I') ('1974', 'CD', 'DATE', 'B') ('Tec_Air', 'NNP', 'ORG', 'B') ('asked', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('mold', 'NN', '', 'O') ('maker', 'NN', '', 'O') ('Jack', 'NNP', 'PERSON', 'B') ('Dearhammer', 'NNP', 'PERSON', 'I') ('at', 'IN', '', 'O') ('Mid', 'NNP', 'ORG', 'B') ('City', 'NNP', 'ORG', 'I') ('Tool', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Die', 'VB', 'ORG', 'I') ('to', 'TO', '', 'O') ('quote', 'VB', '', 'O') ('it', 'PRP', '', 'O') ('a', 'DT', '', 'O') ('price', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('mold_insert', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Keeprite_fan', 'NNP', '', 'O')
+September 24 1974 Tec_Air Jack Dearhammer Mid City Tool & Die
+__NEW_SENT__
+('The', 'DT', '', 'O') ('sketch', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('this', 'DT', '', 'O') ('price', 'NN', '', 'O') ('quotation', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('show', 'VB', '', 'O') ('balance_plugs', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('Dearhammer', 'NNP', 'ORG', 'B') ('ultimately', 'RB', '', 'O') ('made', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('mold_insert', 'JJ', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('balance_plugs', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('inserting', 'VBG', '', 'O') ('adjustable_screws', 'NN', '', 'O') ('into', 'IN', '', 'O') ('hollowed-out', 'JJ', '', 'O') ('sections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mold', 'NN', '', 'O')
+Dearhammer
+__NEW_SENT__
+('In', 'IN', '', 'O') ('another', 'DT', '', 'O') ('attempt', 'NN', '', 'O') ('to', 'TO', '', 'O') ('solicit', 'VB', '', 'O') ('business', 'NN', '', 'O') ('Tec_Air', 'CD', 'ORG', 'B') ('sent', 'VBD', '', 'O') ('sample', 'NN', '', 'O') ('fans', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Howard', 'NNP', 'ORG', 'B') ('Industries', 'NNP', 'ORG', 'I') ('on', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('14', 'CD', 'DATE', 'I') ('1974', 'CD', 'DATE', 'I')
+Tec_Air Howard Industries August 14 1974
+__NEW_SENT__
+('These', 'DT', '', 'O') ('fans', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('model', 'NN', '', 'O') ('number', 'NN', '', 'O') ('4B-60-21', 'CD', 'CARDINAL', 'B')
+4B-60-21
+__NEW_SENT__
+('On', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('13', 'CD', 'DATE', 'I') ('1974', 'CD', '', 'O') ('Dearhammer', 'NNP', 'ORG', 'B') ('returned', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('the', 'DT', '', 'O') ('mold_insert', 'NN', '', 'O') ('used', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('4B-60-21', 'CD', 'PRODUCT', 'B') ('fan', 'NN', '', 'O') ('after', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('modified', 'VBN', '', 'O') ('it', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patented_invention', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('adjustable_screws', 'NN', '', 'O')
+August 13 Dearhammer Tec_Air 4B-60-21
+__NEW_SENT__
+('Prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('sending', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('mold', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Dearhammer', 'NNP', 'GPE', 'B') ('however', 'RB', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('accumulated', 'VBD', '', 'O') ('thousands', 'NNS', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('4B-60-21', 'CD', 'PRODUCT', 'B') ('fans', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('inventory', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('were', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('balancing', 'NN', '', 'O') ('techniques', 'NNS', '', 'O')
+Dearhammer Tec_Air thousands 4B-60-21
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1991', 'CD', 'DATE', 'B') ('Tec_Air', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('manufactured', 'VBD', '', 'O') ('radiator', 'NN', '', 'O') ('and', 'CC', '', 'O') ('condenser_assemblies', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('included', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('fan', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('balanced', 'VBN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('method', 'NN', '', 'O')
+1991 Tec_Air Denso
+__NEW_SENT__
+('Tec_Air', 'PRP', 'ORG', 'B') ('won', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('phase', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trifurcated', 'VBN', '', 'O') ('trial', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('appeal', 'VB', '', 'O')
+Tec_Air Denso
+__NEW_SENT__
+('A', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('then', 'RB', '', 'O') ('heard', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('phase', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('offered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('for', 'IN', '', 'O') ('sale', 'NN', '', 'O') ('more', 'JJR', 'DATE', 'B') ('than', 'IN', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('year', 'NN', 'DATE', 'I') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('effective', 'JJ', '', 'O') ('filing', 'NN', '', 'O') ('date', 'NN', '', 'O') ('and', 'CC', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O')
+Denso Tec_Air more than one year
+__NEW_SENT__
+('The', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('returned', 'VBD', '', 'O') ('special', 'JJ', '', 'O') ('interrogatories', 'NNS', '', 'O') ('indicating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('neither', 'CC', '', 'O') ('sold', 'VBD', '', 'O') ('nor', 'CC', '', 'O') ('offered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('for', 'IN', '', 'O') ('sale', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('critical_date', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented_invention', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O')
+Tec_Air
+__NEW_SENT__
+('The', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('jury', 'NN', '', 'O') ('subsequently', 'RB', '', 'O') ('awarded', 'VBD', '', 'O') ('damages', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('$', '$', 'MONEY', 'B') ('25.2', 'CD', 'MONEY', 'I') ('million', 'CD', 'MONEY', 'I') ('which', 'WDT', '', 'O') ('corresponds', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('royalty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('6.5', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('infringing', 'VBG', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Denso', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('entire', 'JJ', '', 'O') ('radiator', 'NN', '', 'O') ('and', 'CC', '', 'O') ('condenser_assemblies', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('nevertheless', 'RB', '', 'O') ('less', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('the', 'DT', '', 'O') ('royalty', 'NN', '', 'O') ('requested', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B')
+$ 25.2 million 6.5 % Denso Tec_Air
+__NEW_SENT__
+('Denso', 'NNP', '', 'O') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('or', 'CC', '', 'O') ('alternatively', 'RB', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('new_trial', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('damages', 'NNS', '', 'O') ('issues', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('because', 'IN', '', 'O') ('although', 'IN', '', 'O') ('the', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('showed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Tec_Air', 'CD', 'ORG', 'B') ('possessed', 'VBD', '', 'O') ('mold_inserts', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('adjustable_screws', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('critical_date', 'NN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('evidence', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Tec_Air', 'PRP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('use', 'VB', '', 'O') ('these', 'DT', '', 'O') ('inserts', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('commercial', 'JJ', '', 'O') ('products', 'NNS', '', 'O')
+Tec_Air Tec_Air
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('only', 'RB', '', 'O') ('that', 'IN', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('establish', 'VB', '', 'O') ('a', 'DT', '', 'O') ('prima', 'NN', '', 'O') ('facie', 'NN', '', 'O') ('case', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'NN', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('suggestion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('cited', 'VBN', '', 'O') ('references', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('also', 'RB', '', 'O') ('that', 'IN', '', 'O') ('Tec_Air', 'NNP', 'ORG', 'B') ('produced', 'VBD', '', 'O') ('sufficient', 'JJ', '', 'O') ('objective', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nonobviousness', 'NN', '', 'O')
+Denso Tec_Air
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('properly', 'RB', '', 'O') ('used', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('entire_market_value_rule', 'NNP', 'PERSON', 'B') ('in', 'IN', '', 'O') ('measuring', 'VBG', '', 'O') ('damages', 'NNS', '', 'O') ('because', 'IN', '', 'O') ('each', 'DT', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ('assembly', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('functioning', 'NN', '', 'O') ('unit', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('included', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('infringing', 'NN', '', 'O') ('fan', 'NN', '', 'O')
+entire_market_value_rule Denso
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('then', 'RB', '', 'O') ('denied', 'VBD', '', 'O') ('Denso', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('new_trial', 'NNP', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('the', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('damage', 'NN', '', 'O') ('award', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('neither', 'CC', '', 'O') ('excessive', 'JJ', '', 'O') ('nor', 'CC', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O') ('of', 'IN', '', 'O') ('improper', 'JJ', '', 'O') ('considerations', 'NNS', '', 'O')
+Denso
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('followed', 'VBD', '', 'O')
+
+__NEW_SENT__

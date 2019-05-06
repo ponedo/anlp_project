@@ -1,0 +1,90 @@
+('355_F.3d_1361', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('LIQUID', 'NNP', '', 'O') ('DYNAMICS', 'VBD', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('VAUGHAN', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Cross', 'NNP', '', 'O') ('Appellant', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Nos._03-1146', 'NNP', '', 'O') ('03-1147', 'CD', '', 'O') ('03-1208', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._23,_2004', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Rehearing', 'VBG', '', 'O') ('Denied', 'NNP', '', 'O') ('March_10,_2004', 'RB', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('apparatus', 'NN', '', 'O') ('for', 'IN', '', 'O') ('handling', 'VBG', '', 'O') ('waste', 'NN', '', 'O') ('water', 'NN', '', 'O') ('slurries', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('storage', 'NN', '', 'O') ('tanks', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', '', 'O') ('2002_WL_1769979', 'NNP', '', 'O') ('Suzanne', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Conlon', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('appeal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('taken', 'VBN', '', 'O')
+United_States_District_Court the Northern_District of Suzanne B. Conlon J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('requirement', 'NN', '', 'O') ('that', 'IN', '', 'O') ('liquid', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('follow', 'VB', '', 'O') ('``', '``', '', 'O') ('substantial_helical_flow_path', 'NNP', '', 'O') ("''", "''", '', 'O') ('meant', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('flow', 'NN', '', 'O') ('pattern', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('generally', 'RB', '', 'O') ('though', 'IN', '', 'O') ('not', 'RB', '', 'O') ('necessarily', 'RB', '', 'O') ('perfectly', 'RB', '', 'O') ('spiral', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('fill', 'VB', '', 'O') ('much', 'RB', '', 'O') ('though', 'IN', '', 'O') ('not', 'RB', '', 'O') ('necessarily', 'RB', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('tank', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('volume', 'NN', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Lourie', 'JJ', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('dissented', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+Lourie Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1362', 'NNP', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Hetzler', 'NNP', 'PERSON', 'I') ('Fitch', 'NNP', 'PERSON', 'I') ('Even', 'RB', '', 'O') ('Tabin', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Flannery', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Mark W. Hetzler Fitch Tabin & Flannery Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Jon', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Birmingham', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Schroer', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Fitch', 'NNP', 'ORG', 'B') ('Even', 'RB', '', 'O') ('etc.', 'FW', '', 'O') ('of', 'IN', '', 'O') ('Boulder', 'NNP', 'GPE', 'B') ('CO.', 'NNP', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Carlson', 'NNP', 'PERSON', 'I') ('Christensen', 'NNP', '', 'O') ("O'Connor", 'NNP', '', 'O') ('Johnson', 'NNP', '', 'O') ('Kindness', 'NNP', '', 'O') ('PLLC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Seattle', 'NNP', 'GPE', 'B') ('WA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O')
+Jon A. Birmingham Steven C. Schroer Fitch Boulder Robert J. Carlson Seattle
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ward', 'NNP', 'PERSON', 'B') ('Brown', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Walters', 'NNP', 'PERSON', 'I')
+Ward Brown Mark P. Walters
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('GAJARSA', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LOURIE GAJARSA DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Liquid_Dynamics', 'NNS', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Liquid_Dynamics', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('by', 'IN', '', 'O') ('assignment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('*1363', 'JJ', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('Patent', 'NNP', '', 'O') ('No._5458,414', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬414_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Vaughan', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Vaughan', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬414_patent', 'NNP', '', 'O')
+Liquid_Dynamics Corporation United States United_States_District_Court Northern_District Illinois the Vaughan Company Vaughan
+__NEW_SENT__
+('Vaughan', 'NNP', 'ORG', 'B') ('cross-appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('dismissal', 'NN', '', 'O') ('as', 'IN', '', 'O') ('moot', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('counterclaims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Vaughan
+__NEW_SENT__
+('Liquid_Dynamics', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Vaughan', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No._01-', 'NNP', '', 'O') ('C6934', 'NNP', '', 'O') ('2002', 'CD', 'DATE', 'B') ('U.S.', 'NNP', 'GPE', 'B') ('Dist', 'NNP', '', 'O')
+Liquid_Dynamics Corp. Vaughan Co. Inc. 2002 U.S.
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('14102', 'CD', '', 'O') ('2002_WL_1769979', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Ill', '.', '', 'O')
+
+__NEW_SENT__
+('July', 'NNP', 'DATE', 'B') ('31', 'CD', 'DATE', 'I') ('2002', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Liquid_Dynamics', 'NNS', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+July 31 2002
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('construing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('substantial_helical_flow_path', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('requiring', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('flow', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('emanates', 'VBZ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tank', 'NN', '', 'O') ('center', 'NN', '', 'O') ('and', 'CC', '', 'O') ('returns', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('center', 'NN', '', 'O') ('after', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('rotation', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+one
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Liquid_Dynamics', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Vaughan', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('414', 'CD', 'DATE', 'I') ('patent', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('271', 'CD', 'CARDINAL', 'B') ('et', 'NN', '', 'O') ('seq', 'FW', '', 'O')
+Vaughan ¡¬ 414 35 271
+__NEW_SENT__
+('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B')
+United_States_District_Court Northern_District Illinois
+__NEW_SENT__
+('Vaughan', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Vaughan
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('after', 'IN', '', 'O') ('construing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬414_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('comparing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('products', 'NNS', '', 'O') ('granted', 'VBD', '', 'O') ('Vaughan', 'NNP', 'GPE', 'B') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('mooted', 'VBD', '', 'O') ('Vaughan', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('counterclaims', 'NNS', '', 'O')
+Vaughan Vaughan
+__NEW_SENT__

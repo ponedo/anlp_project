@@ -1,0 +1,99 @@
+545_F.3d_1316
+United States Court of Appeals Federal Circuit
+TECHNOLOGY LICENSING CORPORATION Plaintiff-Appellant v. VIDEOTEK INC. Defendant and
+Gennum Corporation Defendant-Cross Appellant
+Nos._2007-1441 2007-1463
+| Oct._10,_2008
+Synopsis
+Background : Patent owner filed action against competitor alleging infringement of patents relating to separation of synchronization_signals from video_signals
+Parties consented to final disposition by magistrate judge
+The United States District Court for the Northern District of California Richard Seeborg United States Magistrate Judge determined that one patent claim was indefinite for failure to satisfy written description_requirement and that other patent had not been infringed but was not invalid
+Parties appealed
+
+Holdings : The Court of Appeals Plager Circuit_Judge held that :
+
+judicial efficiency and policy of repose counseled against according deference on appeal to re-determination of patent validity by Patent and Trademark Office ( PTO ) which acted on reissue application while appeal was pending ;
+
+`` other_circuit '' claim was not entitled to benefit of original filing date of patent_application for failure to satisfy written description_requirement ;
+
+accused sync_separator chips were not designed to and did not produce in practice claimed `` clamped sync_portion '' at known level of fixed voltage ;
+
+anticipatory prior art that was cumulative to other prior art of record in patent_application was not material for inequitable conduct purposes ;
+
+claim was not automatically indefinite due to absence of internal_circuitry in written description ; and
+
+competitor did not carry its burden to prove claim was indefinite and thus invalid due to absence of internal_circuitry in written description
+
+Affirmed
+
+Attorneys and Law Firms
+*1319 Timothy J. Vezeau Katten Muchin Rosenman LLP of Chicago IL argued for plaintiff-appellant
+With him on the brief were Michael A. Dorfman Rachel M. Vorbeck and James A. Gromada of Washington DC
+J. Donald McCarthy Duane Morris LLP of Los_Angeles CA argued for defendant-cross appellant
+With him on the brief were Todd R. Miller Jones Day of Los_Angeles CA and Gregory A. Castanias of Washington DC
+Before NEWMAN PLAGER and SCHALL Circuit_Judges
+Opinion
+PLAGER Circuit_Judge
+This is a patent_case
+It is not unusual for a patent_case on appeal to turn more on a question of law or legal procedure than on the complexities of the particular technology that underlies the dispute
+This is not such a case
+This case has both legal issues and technical issues in roughly equal measure
+There is among other_issues a complex though ultimately not difficult question of allocation of the burdens of proof between the patentee and the alleged infringer when entitlement to *1320 an earlier filing date is at issue
+And there is among other_issues a complex and rather difficult question of whether the written description of the earlier application supports the later-claimed technology
+As the reader will see in the course of deciding the case the court had to parse the terms of the four applications that led to the two patents governing the particular aspect of video technology at issue.1
+
+After weighing carefully the findings and judgment of the trial_court which followed from a lengthy bench trial and the arguments of counsel for the parties regarding the several issues in contention we affirm the trial_court 's judgment
+
+BACKGROUND
+I
+Technology and the Patents-in-Suit
+The Technology Licensing Corporation ( `` TLC '' ) patents at issue in this case relate to the separation of synchronization_signals from video_signals
+In general the composite_video_signal received by a television contains information that allows the television to reproduce pictures on its screen one line at a time
+The incoming video_signal includes a synchronization signal ( also referred to as a `` sync_signal '' or `` sync_pulse '' ) to indicate the beginning of the information for each line
+The sync_signal must be extracted precisely from the composite_video_signal so that the television can accurately reproduce the transmitted image
+This function is performed by circuits referred to as `` sync_separators '' which have been in existence since the advent of television
+Sync separators are implemented today as integrated circuits
+
+In an analog video_signal ( one that follows for example the National Television System Committee ( `` NTSC '' ) standard used in the United States ) the sync_signal is a downward or negative-going pulse preceded by an interval called a `` front_porch '' and followed by an interval called a `` back_porch ''
+The NTSC sync_signal is said to be a two-level_signal because the signal is at one voltage_level during the front_porch and back_porch intervals and reaches a different lower voltage_level during the sync_pulse
+Digital video_signals such as HDTV use a more complex three-level sync_signal
+
+The process of sync_separation involves two fundamental steps
+First the `` tip '' or negative peak of the pulse ( known as the `` sync_tip '' ) is `` clamped '' or held to a known voltage_level by adding current to or draining current from the signal
+Second the clamped sync_pulse is `` sliced '' by comparing it to a `` slicing voltage '' typically midway between the sync_tip voltage_level and the back_porch voltage_level in a two-level_signal
+The following diagram ( J.A
+2705 ) shows a sync_pulse with a front_porch a back_porch and a sync_tip that has been clamped to a known voltage :
+
+*1321. ?
+The sync_separator produces a logic level sync_signal that is for example high when the video_signal is below the slicing voltage indicating the presence of a sync_pulse and low at all other times
+The TLC patents in this case are directed to methods for sync_separation that may be used with different_types of sync_signals as required by various standards and that minimize the effect of noise in the video_signal thereby providing reliable and precise recovery of sync_signals
+
+The patents-in-suit issued from a chain of continuation and continuation-in-part applications.2 J. Carl Cooper the sole inventor filed the first patent_application Serial No._837323 ( `` the ¡¬323 application '' ) on February 28 1992
+On December 13 1993 he filed a continuation application which eventually issued as U.S._Patent_No._5486,869 ( `` the ¡¬869_patent `` )
+Before that patent issued Cooper filed a continuation-in-part ( `` CIP '' ) application Serial No._493661 ( `` the ¡¬661_application '' ) on June_22,_1995
+The final application a CIP of the ¡¬661_application was filed on December 4 1995 and later issued as U.S._Patent_No._5754,250 ( `` the ¡¬250_patent `` )
+In sum there are two patents-in-suit derived from four applications for patent
+Cooper assigned the patents to TLC which he formed for the purpose of licensing and asserting his patents
+
+The ¡¬869_patent describes inter alia a sync_separator that involves two separate clamping operations
+Claim 27 of the ¡¬869_patent is directed to the two-clamp aspect of the patented invention : 27
+An apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal said sync_portion having a plurality of levels one of which may be a blanking level said apparatus including : ( a ) circuitry responsive to said sync_portion to clamp the sync_tip thereof to a known level thereby providing a clamped sync_portion and to generate at least a first_logic_level_sync_signal in response to said clamped sync_portion ; ( b ) circuitry for clamping said sync_portion to a known level to provide a second clamped sync_portion ; *1322 ( c ) circuitry for providing at least one reference_signal in response to said first_logic_level_sync_signal and said second clamped sync_portion ; ( d ) circuitry for comparing said second clamped sync_portion to said reference_signal to provide said logic_level_version
+¡¬869_patent_col. 17 ll.15-31 ( emphases and paragraph lettering added )
+
+The ¡¬869_patent also describes a sync_separator that is able to recover sync_signals from different_types of video_signals e.g. both NTSC and HDTV signals
+Claim 31 of the ¡¬869_patent relates to that aspect of the invention : 31
+An apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal said sync_portion having a number of levels N one of which may be a blanking level and where N may be two or more depending on the format of said video_type_signal said apparatus including : ( a ) circuitry to provide a format signal changeable in response to the format of said video_type_signal ; ( b ) circuitry responsive to said sync_portion to generate at least a first separated sync_signal ; ( c ) circuitry for providing at least N-1 reference_signal ( s ) in response to said sync_portion and said first separated sync_signal ; and
+( d ) circuitry responsive to said sync_portion and said format signal and said reference_signal ( s ) for comparing said sync_portion to said reference_signal ( s ) to provide said logic_level_version
+¡¬869_patent_col. 17 ll.41-57 ( emphasis and paragraph lettering added )
+
+Cooper added new_matter to the written description in June 1995 when he filed the ¡¬661 CIP application and again in December 1995 when he filed the CIP application that led to the ¡¬250_patent
+The ¡¬250_patent contains claims that involve only a single clamp including claim 33 : 33
+The method of recovering sync from a video_type_signal including the steps of : ( a ) coupling said video_type_signal through a capacitor or other_circuit thereby establishing a level shifted signal having a sync_portion ; ( b ) comparing said level shifted signal to a first known reference to provide a compared signal ; ( c ) selectively adding a current to said level shifted signal wherein the amount and/or polarity of said current is responsive to said compared signal and the D.C. level of said level shifted signal is changed in response to said current ; ( d ) comparing said level shifted signal to a second known reference to provide a second compared signal which second compared signal is a logic level representation of said sync_portion
+¡¬250_patent col.28 ll.13-29 ( emphasis added and paragraph lettering modified )
+
+When Cooper added claim 33 to the ¡¬250_patent_application by amendment in December 1996 he stated that `` Claim 33 element [ ( a ) ] corresponds to [ capacitor ] C3 of figure 2 or alternatively to [ capacitor ] 1603 or [ resistors ] 1604_and_1605 of Figure 16 ''
+J.A.2030
+What this means as a technical matter is that the `` capacitor '' specified in step ( a ) necessarily corresponds to one of the two capacitors he identified-either to capacitor C3 in Figure 2 or to capacitor 1603 in Figure 16
+This leaves resistors 1604_and_1605 in Figure 16 to correspond with the `` other_circuit '' specified in step ( a )
+Figure 16 was part of the new_matter added when the CIP was filed in 1995.3 Exactly where the *1323 written description support for the phrase `` other_circuit '' is to be found is a major point of contention in the case
+

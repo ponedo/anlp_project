@@ -1,0 +1,333 @@
+925_f.2d_1435
+united states court of appeals federal circuit
+halliburton company plaintiff-appellant v. schlumberger technology corporation defendant-appellee
+no._90-1191
+| feb._13,_1991
+| rehearing denied march_15,_1991
+synopsis
+patentholder appealed from judgment of the united_states_district_court for the southern_district of texas sim lake iii j. 722_f.supp._324 which held patents invalid
+the court of appeals rader circuit_judge held that failure to disclose cumulative_references which were not more_material than those which were cited to the examiner was not inequitable_conduct
+
+reversed
+
+attorneys and law firms
+*1436 donald r. dunner finnegan henderson farabow garrett & dunner washington d.c. argued for plaintiff-appellant
+with him on the brief were allen m. sokal and richard l. stroup
+ronald l. palmer baker & botts dallas tex. argued for defendant-appellee
+with him on the brief were mitchell d. lukin sylvia m. egner baker & botts houston tex
+and dana m. raymond and richard g. berkley brumbaugh graves donohue & raymond new york city of counsel
+before newman and rader circuit_judges and skelton senior circuit_judge
+opinion
+*1437 rader circuit_judge
+halliburton company halliburton sued schlumberger technology corporation schlumberger for infringement of u.s._patent_nos._4388,529529_patent 4,409,481481_patent and 4,424,444444_patent
+these patents embrace tools and techniques for neutron_logging of oil wells
+specifically the patents disclose use of high_energy_neutrons to measure the properties of underground geological_formations
+
+the united_states_district_court for the southern_district of texas determined that halliburton did not disclose important prior_art to the patent and trademark office pto during the application process
+hence the district_court found halliburton had engaged in inequitable_conduct
+the district_court refused to enforce halliburtons patents and awarded schlumberger $ 3,375,000.00 in attorney fees and expenses
+see halliburton_co. v. schlumberger_technology_corp. 722_f.supp._324 12_uspq2d_1765_(s.d.tex.1989)
+halliburton appeals from this judgment and order
+this court reverses
+
+background
+oil producers use well logging to detect oil in geological_formations
+this process involves lowering a complex instrument into a well_borehole
+as the logging tool moves down the borehole it measures or logs the properties of the surrounding geological_formation
+
+in neutron well logging the instrument emits high_energy_neutrons 14 million electron_volts as it descends into the borehole
+the neutrons collide with the nuclei of atoms in the borehole and the surrounding earth
+these collisions generate high-energy inelastic gamma rays
+these collisions also quickly drain energy from the neutrons
+as the neutrons slow down or moderate they become thermal_neutrons 0.025 electron_volts
+the nuclei of surrounding atoms capture these thermal_neutrons
+when this capture or neutron_decay occurs the capturing atoms emit capture_gamma_rays
+
+the logging tool detects these capture_gamma_rays
+a count of capture_gamma_rays reveals the neutron_population and the rate of neutron_decay
+different materials capture neutrons at different rates
+thus measuring the decay of thermal_neutrons tells much about the composition of formations around the borehole
+oil for instance captures thermal_neutrons at a different rate than saltwater
+figure 1 of the481_patent depicts the logging tool
+
+?
+*1438 during decay the thermal_neutron_population changes in proportion to its size
+therefore exponential_equations express these neutron_decay_rates
+these equations express scientific principles governing exponential growth and decay.1 the equations describe the results of any process in which a population-in this case thermal_neutrons-changes at a rate proportional to its size
+after measurement of the capture_gamma_rays by the logging instrument these equations express the neutron_decay_rate
+
+early in its use however neutron_decay logging presented a major problem
+the well casing itself made up of metal and cement absorbs neutrons and emits gamma rays
+an accurate logging technique therefore must distinguish between gamma ray feedback from the well casing and feedback from the surrounding geological_formations
+in addition water oil gas or air in the borehole may capture thermal_neutrons and further distort the logging measurements
+early thermal neutron_decay tools could not account for decay occurring within the borehole itself
+to compensate for this limitation these early tools assumed that decay within the borehole occurred faster than in the formation
+
+under this assumption the early logging methods delayed gamma ray measurement for an instant after a high-energy burst to allow borehole nuclei to capture thermal_neutrons
+these early methods arbitrarily attributed all measurements after the delay to the formation
+this technique became known as` timing out the bore-hole'
+because borehole conditions vary this technique was fraught with uncertainty
+
+appellants patents
+the claims at issue cover techniques and tools to measure capture_gamma_rays
+capture gamma rays represent the thermal_neutron_population after the inelastic gamma rays associated with fast_neutrons have all dissipated
+the patents describe pulse-moderation neutron systems
+these systems generate short bursts or pulses of fast_neutrons about once per millisecond a thousand times per second
+during and after each short burst of neutrons the fast_neutrons rapidly moderate into thermal_neutrons
+the thermal_neutron_population gradually declines as the surrounding atoms capture neutrons and emit capture_gamma_rays
+
+claim 1 of the444_patent is representative of the technology involved in each of the halliburton_patents a method for simultaneously measuring the thermal_neutron_decay_time of materials in and about a well_borehole comprising the steps of generating in a well_borehole a relatively short duration discrete burst of fast_neutrons which are rapidly moderated by interaction with nuclei of materials in the borehole and surrounding earth_formations and slowed down to thermal energy creating a thermal_neutron_population in the borehole and surrounding earth_formations ; detecting in the borehole radiations representative of the thermal_neutron_population in the borehole and surrounding earth_formations in at least four time_intervals subsequent to said burst of fast_neutrons and generating at least four count signals representative of said thermal_neutron_population during said at least four time_intervals ; and
+combining said at least four count signals according to a predetermined relationship to simultaneously separate the borehole and formation decay components *1439 and to derive at least two measurement signals representative of the thermal_neutron_decay_time of the borehole medium and the earth formation medium in the vicinity of the borehole
+
+the halliburton_inventions eliminate the imprecise` timing out' technique
+instead the inventions measure capture_gamma_rays at four distinct time_intervals
+halliburtons method then uses the two-exponential_equation to separate the borehole readings from the readings in the surrounding formation
+
+in essence the halliburton_inventions assume the two-exponential_equation represents mathematically the total neutron_population at any particular time
+this equation has four unknowns.2 after making four gamma ray measurements at different times the halliburton method solves the equations for the four unknowns
+two of these values provide the neutron_decay feedback for the geological_formations around the borehole
+the other two values provide the neutron_decay information for the borehole itself
+the calculated value for each of the unknowns ensures that the resulting two-exponential_equation matches the neutron_populations at the four different time_gates
+
+by taking four measurements to obtain four data_points and then using a computer program to derive the unknowns from the data_points the patented inventions omit the` timing out' technique of the prior_art
+the inventions thus facilitate a more reliable measurement of thermal neutron_decay in the geological_formation
+they also reduce the demand for continuous neutron bursts and take capture gamma radiation readings sooner
+these measurements therefore encompass practically the entire thermal neutron_decay_curve
+finally the patents teach mathematical processing of those measurements to determine the thermal neutron characteristics of the borehole and the formation
+
+during the patent application process appellant did not disclose to the pto any prior_art reference
+however examiner_willis cited six patents directed to pulse-moderation systems
+at trial the district_court determined that appellant should have disclosed seven other patents of which it was aware
+the district_court determined that this failure to disclose constituted inequitable_conduct which made the patents unenforceable
+
+discussion
+the doctrine of inequitable_conduct requires a trial_court to undertake a two-step analysis
+the trial_court must discern whether the withheld references satisfy a threshold_level of materiality
+the court must also determine whether the applicants conduct satisfies a threshold showing of intent to mislead.3 see j.p._stevens & co. v. lex_tex ltd. 747_f.2d_1553 1559-60 223_uspq_1089 1092 fed.cir.1984 cert
+denied 474_u.s._822 106_s.ct._73 88_l.ed.2d_60_(1985)
+these initial determinations are questions of fact which this court reviews under a clearly erroneous standard
+next assuming satisfaction of the thresholds the trial_court must balance materiality and intent
+under sea indus. inc. v. dacor corp. 833_f.2d_1551 1559 4_uspq2d_1772 1777 fed.cir.1987
+the more_material the omission the less culpable the intent required and vice versa
+n.v. akzo v. e.i
+dupont de nemours 810_f.2d_1148 1153 1_uspq2d_1704 1708 fed.cir.1987
+the trial_court has discretion *1440 to determine inequitable_conduct
+this court reviews that discretionary determination under an abuse of discretion standard
+kingsdown_medical_consultants ltd. v. hollister_inc. 863_f.2d_867 876 9_uspq2d_1384 1392 fed.cir.1988 cert
+denied 490_u.s._1067 109_s.ct._2068 104_l.ed.2d_633_(1989)
+
+materiality
+pto rule 56 is the appropriate starting point in determining the threshold_level of materiality
+this broad standard most closely delineates how an applicant ought to conduct business with the pto
+american hoist & derrick co. v. sowa & sons inc. 725_f.2d_1350 1363 220_uspq_763 773 fed.cir.1984
+information is material if there is` substantial likelihood that a reasonable examiner would consider it important in deciding whether to allow the application to issue as a patent'
+37 c.f.r.¡± 1.56 1989
+
+however a patentee has no obligation to disclose an otherwise material reference if the reference is cumulative or less_material than those already before the examiner
+see specialty_composites v. cabot corp. 845_f.2d_981 992 6_uspq2d_1601 1609 fed.cir.1988
+therefore if the references found by examiner_willis more closely related to the halliburton_applications than the uncited art halliburton did not engage in inequitable_conduct
+with these standards in mind this court reviews the district_courts materiality findings
+the non-disclosed prior_art was u.s. patent no._4326,129 to neufeld four texaco_patents u.s._patent_nos._3930,152 3,940,611 3,940,613 and 3,979,300 and two so-called skip-a-beat patents u.s._patent_nos._3733 486_and_4002,904 also to texaco
+examiner_willis cited six references
+the most pertinent of these were u.s._patent_nos._4122 338_and_4152,590 both to smith
+
+the cited references
+halliburtons method of measuring directly the neutron_decay for the borehole and formation is a direct extension of the methods in the cited references
+both of the smith_patents assume the existence of the mathematical relationship expressed by the two-exponential_equation
+the smith_patents however measure the neutron_population at only two time_gates
+thus the smith methods can calculate only two of the four unknowns in the two-exponential_equation
+they must rely on other information to estimate the remaining two unknowns
+
+the smith590_patent relies on the timing-out technique
+the590_patent thus assumes that the value of the exponential component due to borehole decay will eventually reach zero
+this assumption reduces the two-exponential_equation to a single_exponential_equation with only two unknowns
+thus by measuring at two separate time_gates the smith patent obtains two data_points from which it computes the two unknowns due to the formation
+
+the smith338_patent uses the salinity of the borehole water to estimate the two unknowns attributable to the borehole
+the338_patent bases its estimation from prior knowledge of how salt water responds to neutron irradiation
+having estimated the two unknowns the two-exponential_equation becomes a single_exponential_equation with two unknowns
+measurement at two time_gates permits calculation of the unknowns based on two data_points
+
+the district_court erroneously dismissed the cited references as less_material because they relied on the timing-out technique
+the smith_patents however like the halliburton_patents assume the two-exponential_equation and describe a method to calculate the unknowns related to the formation component of the decay
+in the art of neutron well logging the smith_patents were highly material to halliburtons applications
+the most pertinent prior_art in the field was thus before the examiner
+nonetheless schlumberger asserts that halliburton remained obliged to disclose the uncited references to the examiner
+
+the neufeld patent
+the district_court emphasized appellants failure to disclose the neufeld_patent
+the neufeld_patent recognizes that the exponential *1441 equation derived from both the borehole and the formation the two-exponential_equation expresses total thermal neutron_decay
+neufeld however reaches these results in a very different_way than appellants claimed inventions and the cited references
+
+neufeld derives its neutron_decay_results mathematically
+in practice the neufeld device discharges random bursts of neutrons into the borehole
+a detector measures the entire gamma ray feedback
+by comparing the detector output with the neutron burst neufeld then computes a formation and borehole decay_rate from the continuous feedback
+
+the patent claims at issue on the other hand measure directly the neutron_decay_results
+the inventions emit pulses at regular_intervals
+between each pulse the claimed inventions measure the decay_rate directly
+
+the district_court found that both appellants patent claims and the neufeld_patent recognize exponential relationships in deriving the decay_rate
+based on this similarity the district_court concluded that neufeld was highly material to examination of appellants patents
+the district_court however did not appreciate the significance of the differences between neufeld and the claims at issue which make neufeld less_material than the cited references
+
+when weighing whether uncited prior_art is more_material than that before the examiner a trial_court considers similarities and differences between prior_art and the claims of the patent
+in making this determination the trial_court must consider portions of prior_art references which teach away from the claimed invention
+see bausch & lomb inc. v. barnes-hind/hydrocurve inc. 796_f.2d_443 448-49 230_uspq_416 420 fed.cir.1986 cert
+denied 484_u.s._823 108_s.ct._85 98_l.ed.2d_47_(1987)
+
+both neufeld and appellants claimed inventions recognize the two-exponential_equation
+this equation simply expresses mathematically an axiom of exponential_decay
+thus the two-exponential_equation is not a critical component of either neufeld or appellants claimed inventions but rather a scientific truism acknowledged by both
+a reasonable patent examiner would not consider neufeld important merely because both neufeld and appellants patents acknowledge this scientific equation
+
+the district_court nonetheless found that the` principal invention of the patents-in-suit is their method for measuring and simultaneously decomposing the entire neutron_decay_curve.. by a two-exponential relationship'
+halliburton 722 f.supp.at 333 12 uspq2d at 1772
+this finding is clearly erroneous
+appellant claims a method of measuring directly the formation and borehole components of the decay_curve between regular neutron pulses in four time_gates
+by misconstruing the crux of appellants claimed inventions the district_court also missed the significance of the differences from the neufeld reference
+
+the district_court itself noted these substantial differences between neufelds and appellants subject matter
+for instance neufeld depends on continuous random energy pulses and achieves a 50 % radiation use rate
+appellant uses short discrete neutron bursts at regular_intervals having a radiation use rate of 1.5 %
+neufeld continuously detects gamma rays between random pulses
+appellant detects gamma rays in four distinct time_gates after each pulse
+neufeld performs a correlation calculation to derive a decay_curve from both inelastic and capture gamma ray data
+appellant directly measures separate borehole and formation components of the decay_curve using only capture_gamma_rays
+halliburton 722 f.supp.at 334 12 uspq2d at 1772-73
+
+these significant differences distinguish the neufeld disclosure and appellants claimed inventions
+comparing these differences with the similarities leads to the conclusion that neufeld is less_material than the cited references
+in sum while in the same field of endeavor neufeld was far less_material to appellants applications *1442 than the cited references
+neufeld disclosed a technique that emitted neutrons and measured capture_gamma_rays very differently from that claimed by appellants patents
+therefore no disclosure_obligation attached to neufeld
+
+the texaco patents
+the district_court also based its inequitable_conduct finding on appellants failure to disclose the four texaco_patents
+the texaco_patents also recognize the two-exponential_equation
+they also disclose a way to get both the borehole and formation thermal_neutron_decay_times
+however the texaco_patents like neufeld use a method different from appellants claimed inventions to get these results
+therefore the texaco_patents are also less_material than the cited references
+
+the texaco disclosures show the continuous emission of fast_neutrons
+these continuous emissions vary harmonically as a function of time
+texaco also modulates these emissions at three different frequencies
+each frequency generates both inelastic and thermal gamma rays
+these rays in turn generate a phase coherent thermal_neutron_population
+a detector continuously measures the relative phase angle of these neutron_populations
+the tangents of these phase angles show the neutron_decay time for both the borehole and formation
+
+texacos method is unlike that disclosed in appellants patents or in the cited references
+appellants claimed inventions measure different feedback data in a different_way
+the texaco_patents therefore are not more_material to appellants patents than the cited references
+
+in determining that the texaco_patents were material the district_court noted that appellants patent attorney mr
+beard used the611_patent as a template in drafting the444 application
+however because the texaco_patents are less_material than the cited references mr
+beards alleged use of the611_patent as a template for the background portions of the444 specification does not raise its level of materiality
+
+the skip-a-beat patents
+the skip-a-beat patents describe a method for eliminating inaccurate gamma radiation readings originating from the neutron pulse generator foreign material or the detector crystal
+several claims of appellants patents include a step which uses this background correction method along with many other limitations on which appellant based patentability
+the inclusion in claims of a step that is known to the art does not require the applicant to disclose under pain of inequitable_conduct references that describe each known step
+the inventors did not represent that they invented this step which is included in only some of the claims
+see generally stevenson v. international trade comm n 612_f.2d_546 555 67_ccpa_109 204_uspq_276 284 1979
+in any event because the skip-a-beat patents are less_material than the cited references no disclosure_obligation attached
+
+intent
+inequitable conduct requires an intent to act inequitably
+fmc_corp. v. manitowoc co. 835_f.2d_1411 1415 5_uspq2d_1112 1115 fed.cir.1987
+materiality of an undisclosed reference does not presume an intent to deceive
+allen organ co. v. kimball int l inc. 839_f.2d_1556 1567 5_uspq2d_1769 1778 fed.cir.1988
+further a mere showing that references having some degree of materiality were not disclosed does not establish inequitable_conduct
+fmc_corp. 835 f.2d at 1411 5 uspq2d at 1115
+
+this record contains no direct evidence that appellant intended to mislead the pto by withholding references
+such direct evidence of intent to mislead is often absent
+rohm & haas co. v. crystal chem co. 722_f.2d_1556 1571 220_uspq_289 301 fed.cir.1983
+the district_court concluded however that appellant was grossly negligent in failing to disclose the withheld material references
+from this finding of gross_negligence the district_court inferred intent
+
+gross_negligence does not of itself justify an inference of intent to deceive
+*1443 kingsdown 863 f.2d at 876 9 uspq2d at 1392
+this court has clarified that negligent conduct can support an inference of intent only when` viewed in light of all the evidence including evidence indicative of good faith' the conduct is culpable enough` to require a finding of intent to deceive'
+id
+
+appellant admits awareness of the withheld references
+appellants counsel however did not consider the references material
+as discussed above the withheld references obtain the neutron_decay_curve in an entirely different_way than disclosed by halliburtons patents
+while all acknowledge the two-exponential_equation the equation is not part of the claims in any of the patents
+in light of these facts mr
+beards assertion that he did not intend to mislead is objectively reasonable
+see argus chem corp. v. fibre glass-evercoat co. 759_f.2d_10 14 225_uspq_1100 1103 fed.cir
+) cert
+denied 474_u.s._903 106_s.ct._231 88_l.ed.2d_230_(1985)
+
+the district_court cited various actions by halliburton or its representatives in support of its holding that halliburton withheld the references with intent to deceive
+with respect to neufeld the district_court held that beards involvement with the prosecution of the patents-in-suit imposed an obligation to disclose neufeld
+the court held that beards failure to disclose neufeld constituted gross_negligence because` a reasonable person in beards position should have known of the materiality of neufeld and disclosed it to the pto'
+halliburton 722 f.supp.at 336 12 uspq2d at 1774
+the trial_court further cited halliburtons attempt due to fear of infringement to purchase neufeld contemporaneous with the prosecution of the patents-in-suit
+id.at 336-37 12 uspq2d at 1774
+the district_court held that halliburtons gross_negligence justified finding an intent to deceive
+id.at 337 12 uspq2d at 1774
+
+as support for finding intent to deceive with respect to the texaco_patents the district_court cited halliburtons belief that the texaco_patents were material and that its tmd tool infringed the texaco_patents
+the district_court further cited beards alleged use of the611_patent as a template in drafting the444_patent and the examiners failure to reference any prior_art that disclosed the key features of halliburtons inventions
+id.at 337-38 12 uspq2d at 1775
+the district_court relied on other similar factors with respect to the skip-a-beat patents to find intentional non-disclosure
+id.at 340 12 uspq2d at 1777
+
+this court need not decide whether the factors relied upon by the district_court tend to support a finding of carelessness or gross_negligence in prosecuting halliburtons applications or whether they simply show halliburtons appreciation of the narrow technological basis of its claimed inventions
+see in re jerabek 789_f.2d_886 891 229_uspq_530 533 fed.cir.1986
+as kingsdown made abundantly clear gross_negligence alone does not compel the inference of intent to deceive
+gross_negligence can not elevate itself by its figurative boot-straps to an intent to mislead based on the identical factors used to establish gross_negligence in the first instance unless all the facts and circumstances indicate sufficient culpability
+an applicants conduct in its entirety must` manifest [ ] a sufficiently culpable state of mind to warrant a determination that it was inequitable'
+consolidated aluminum corp. v. foseco int l ltd. 910_f.2d_804 809 15_uspq2d_1481 1484 fed.cir.1990
+
+moreover as stated above the cited references were more pertinent to the halliburton_applications than were the withheld references
+halliburton had no obligation to disclose cumulative_references
+specialty_composites 845 f.2d at 992 6 uspq2d at 1609 ; j.p._stevens 747 f.2d at 1559-60 223 uspq at 1092
+halliburton did not act with culpable_intent
+halliburton could not have acted with culpable_intent with respect to cumulative_references
+the district_courts finding to the contrary is clearly erroneous
+
+conclusion
+the record does not support a finding of intent to mislead
+nor does the record support a finding that the withheld references *1444 were more_material than the cited references
+the district_courts materiality and intent findings are clearly erroneous
+therefore no balance of materiality and intent is necessary
+this court concludes that appellant did not engage in inequitable_conduct
+
+reversed
+
+all citations
+925_f.2d_1435 17_u.s.p.q.2d_1834
+footnotes
+1
+these equations represent the derivative of the population_size the rate at which it changes with some multiple k of the population_size itself
+if the population is decreasing as in the case of neutron_decay the following equation results p = ?
+k dp/dt in this formula p is the population_size
+dp/dt is the rate of population change
+k is a proportionality constant
+the solution to the differential equation is p t = ae ?
+kt decay of radioactive material is a well-known example of exponential_decay
+2
+the equation in footnote 1 supra expresses radioactive decay for a single irradiated material
+in neutron_logging the borehole and formation are irradiated thus requiring two terms in the equation p t = ae -kt formation + be -lt borehole
+a and b are the thermal_neutron_population in the formation and borehole at an initial time t. k and l are the lifetime of the thermal_neutrons in the formation and borehole
+a b k and l are the four unknowns
+3
+kingsdown_medical_consultants ltd. v. hollister_inc. 863_f.2d_867 9_uspq2d_1384 fed.cir.1988 did not remove from the patent law the requirement to show threshold_levels of materiality and intent prior to engaging in the balancing test enunciated by j.p._stevens & co. v. lex_tex ltd. 747_f.2d_1553 223_uspq_1089 fed.cir.1984 cert
+denied 474_u.s._822 106_s.ct._73 88_l.ed.2d_60_(1985)
+kingsdown did discard the idea that a finding of gross_negligence itself satisfies the intent threshold
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only halliburton_co. v. schlumberger_technology_corp. 925_f.2d_1435 1991 17_u.s.p.q.2d_1834
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

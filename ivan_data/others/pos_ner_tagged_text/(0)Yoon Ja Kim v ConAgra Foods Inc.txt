@@ -1,0 +1,171 @@
+('465_F.3d_1312', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('YOON', 'NNP', 'GPE', 'B') ('JA', 'NNP', '', 'O') ('KIM', 'NNP', '', 'O') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('CONAGRA', 'NNP', 'ORG', 'B') ('FOODS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendant-Cross', 'NNP', '', 'O') ('Appellant', 'NNP', '', 'O')
+YOON CONAGRA FOODS INC.
+__NEW_SENT__
+('Nos._05-1414', 'VB', '', 'O') ('05-1420', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Sept._20,_2006', 'NNP', 'ORG', 'B')
+Sept._20,_2006
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'VBG', '', 'O') ('Denied', 'NNP', '', 'O') ('Oct._17,_2006', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('breadmaking', 'VBG', '', 'O') ('sued', 'JJ', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('counterclaim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('jury', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Northern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('William', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Hart', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('2005_WL_1311597', 'CD', '', 'O') ('granted', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('final_judgment', 'JJ', '', 'O') ('finding', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+the United States District Court the Northern District Illinois William T. Hart JMOL
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('appealed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('competitor', 'NN', '', 'O') ('cross-appealed', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Dyk', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Dyk Circuit_Judge
+__NEW_SENT__
+('phrase', 'VB', '', 'O') ('``', '``', '', 'O') ('potassium_bromate_replacer_composition', 'NN', '', 'O') ("''", "''", '', 'O') ('meant', 'VBD', '', 'O') ('potassium_bromate', 'JJ', '', 'O') ('substitute', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('expert', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusory', 'JJ', '', 'O') ('testimony', 'NN', '', 'O') ('that', 'IN', '', 'O') ('additional', 'JJ', '', 'O') ('ingredients', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('materially', 'RB', '', 'O') ('affected', 'VBN', '', 'O') ('pertinent', 'JJ', '', 'O') ('characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('bread', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('insufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('establish', 'VB', '', 'O') ('infringement', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('substantial', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('verdict', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('original', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('breadmaking', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('surrender', 'VB', '', 'O') ('disputed', 'VBN', '', 'O') ('claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Schall', 'NN', 'ORG', 'B') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+Schall Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1315', 'NFP', '', 'O') ('Dean', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Pelletier', 'NNP', '', 'O') ('McAndrews', 'NNP', 'ORG', 'B') ('Held', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Malloy', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Dean A. McAndrews Held & Malloy Ltd. Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Murphy', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Rushman', 'NNP', 'PERSON', 'I')
+James P. Murphy Jonathan M. Rushman
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Schroeder', 'NNP', 'PERSON', 'I') ('Bingham', 'NNP', 'PERSON', 'B') ('McCutchen', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O')
+Robert A. Schroeder Bingham McCutchen Los Angeles
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Leung', 'NNP', 'PERSON', 'I')
+Kevin K. Leung
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Horton', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Passarelli', 'NNP', 'PERSON', 'I') ('McGrath', 'NNP', 'PERSON', 'I') ('North', 'NNP', 'PERSON', 'I') ('Mullin', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Kratz', 'NNP', 'PERSON', 'I') ('PC', 'NNP', '', 'O') ('LLO', 'NNP', 'ORG', 'B') ('of', 'IN', '', 'O') ('Omaha', 'NNP', '', 'O') ('Nebraska', 'NNP', '', 'O')
+Robert C. Horton John P. Passarelli McGrath North Mullin & Kratz LLO
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('SCHALL', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('ARCHER', 'NNP', '', 'O') ('Senior', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O')
+DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1316', 'CC', '', 'O') ('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', 'CARDINAL', 'B') ('DYK', 'NNP', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NNP', '', 'O') ('concurring-in-part', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dissenting-in-part', 'NNP', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', '', 'O') ('SCHALL', 'NNP', '', 'O')
+
+__NEW_SENT__
+('DYK', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Yoon', 'NNP', 'PERSON', 'B') ('Ja', 'NNP', 'PERSON', 'I') ('Kim', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No', 'NN', '', 'O')
+Yoon Ja Kim U.S.
+__NEW_SENT__
+('Re', 'IN', '', 'O')
+
+__NEW_SENT__
+('36,355', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('dependent_claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('claim', 'VBP', '', 'O') ('10', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ('Foods', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+36,355 5 10 ConAgra Foods Inc. ConAgra
+__NEW_SENT__
+('ConAgra_cross-appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('all', 'DT', '', 'O') ('respects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('relates', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('breadmaking', 'VBG', '', 'O')
+
+__NEW_SENT__
+('Oxidizing', 'JJ', '', 'O') ('agents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('breadmaking_process', 'NN', '', 'O') ('to', 'TO', '', 'O') ('strengthen', 'VB', '', 'O') ('dough', 'NN', '', 'O') ('increase', 'VB', '', 'O') ('loaf', 'JJ', '', 'O') ('volume', 'NN', '', 'O') ('contribute', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('fine', 'JJ', '', 'O') ('crumb', 'JJ', '', 'O') ('grain', 'NN', '', 'O') ('and', 'CC', '', 'O') ('increase', 'VB', '', 'O') ('shelf', 'NN', '', 'O') ('life', 'NN', '', 'O')
+
+__NEW_SENT__
+('Since', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('early', 'JJ', 'DATE', 'I') ('1900', 'CD', 'DATE', 'I') ("'s", 'POS', 'DATE', 'I') ('potassium_bromate', 'NN', 'DATE', 'I') ('was', 'VBD', '', 'O') ('widely', 'RB', '', 'O') ('used', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('slow-acting', 'JJ', '', 'O') ('oxidant', 'NN', '', 'O') ('to', 'TO', '', 'O') ('improve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('quality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('bread', 'NN', '', 'O')
+the early 1900 's potassium_bromate
+__NEW_SENT__
+('However', 'RB', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1990', 'CD', 'DATE', 'B') ("'s", 'POS', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('growing', 'VBG', '', 'O') ('concern', 'NN', '', 'O') ('about', 'IN', '', 'O') ('the', 'DT', '', 'O') ('carcinogenic', 'JJ', '', 'O') ('effects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('potassium_bromate', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', 'ORG', 'B') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ('encouraged', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('baking', 'NN', '', 'O') ('industry', 'NN', '', 'O') ('to', 'TO', '', 'O') ('seek', 'VB', '', 'O') ('suitable', 'JJ', '', 'O') ('alternatives', 'NNS', '', 'O')
+1990 the Food and Drug Administration
+__NEW_SENT__
+('Kim', 'NNP', 'PERSON', 'B') ('a', 'DT', '', 'O') ('food', 'NN', '', 'O') ('chemist', 'NN', '', 'O') ('believed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ascorbic', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('and', 'CC', '', 'O') ('food_acid', 'NNP', '', 'O') ('would', 'MD', '', 'O') ('serve', 'VB', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('suitable', 'JJ', '', 'O') ('alternative', 'NN', '', 'O') ('to', 'IN', '', 'O') ('potassium_bromate', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('breadmaking_process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('applied', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('that', 'DT', '', 'O') ('composition', 'NN', '', 'O')
+Kim
+__NEW_SENT__
+('On', 'IN', '', 'O') ('April_23,_1996', 'NNP', 'PERSON', 'B') ('Kim', 'NNP', 'PERSON', 'I') ('obtained', 'VBD', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._5510,129', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('potassium_bromate_replacer_composition', 'NN', '', 'O')
+April_23,_1996 Kim U.S.
+__NEW_SENT__
+('However', 'RB', '', 'O') ('a', 'DT', 'DATE', 'B') ('few', 'JJ', 'DATE', 'I') ('weeks', 'NNS', 'DATE', 'I') ('later', 'RB', 'DATE', 'I') ('Kim', 'NNP', 'PERSON', 'B') ('surrendered', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('reissue_application', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('an', 'DT', '', 'O') ('error', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('arisen', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O')
+a few weeks later Kim the Patent and Trademark Office
+__NEW_SENT__
+('After', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('her', 'PRP$', '', 'O') ('reissue_application', 'NN', '', 'O') ('Kim', 'NNP', 'PERSON', 'B') ('obtained', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬355', 'JJ', 'GPE', 'B') ('reissue', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('26', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I')
+Kim ¡¬355 October 26 1999
+__NEW_SENT__
+('On', 'IN', '', 'O') ('April_9,_2001', 'NNP', 'PERSON', 'B') ('Kim', 'NNP', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ('induced', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('independent_claims', 'JJ', '', 'O') ('5_and_10', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reissued', 'JJ', '', 'O') ('¡¬355_patent1', 'NNP', 'PERSON', 'B') ('Claims', 'NNS', 'PERSON', 'I') ('5_and_10', 'CD', '', 'O') ('were', 'VBD', '', 'O') ('newly', 'RB', '', 'O') ('added', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reissue_application', 'NN', '', 'O')
+April_9,_2001 Kim ConAgra ConAgra ¡¬355_patent1 Claims
+__NEW_SENT__
+('The', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('conduct', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ('required', 'VBD', '', 'O') ('licensees', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('``', '``', '', 'O') ('Healthy_ChoiceTHE_R', 'NN', 'PRODUCT', 'B') ("''", "''", '', 'O') ('brand', 'NN', '', 'O') ('name', 'NN', '', 'O') ('to', 'TO', '', 'O') ('use', 'VB', '', 'O') ('recipes', 'NNS', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B')
+ConAgra Healthy_ChoiceTHE_R ConAgra
+__NEW_SENT__
+('Kim', 'NNP', 'PERSON', 'B') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Healthy_ChoiceTHE_R', 'JJ', '', 'O') ('Natural', 'NNP', '', 'O') ('Wheat', 'NNP', '', 'O') ('product', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Healthy_ChoiceTHE_R', 'NN', 'PRODUCT', 'B') ('7-Grain', 'CD', '', 'O') ('and', 'CC', '', 'O') ('Whole_Grain_products', 'VBZ', '', 'O') ('infringed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('10.2', 'CD', 'CARDINAL', 'B') ('ConAgra', 'NNP', 'ORG', 'B') ('stipulated', 'VBD', '', 'O') ('*1317', 'NNP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bread', 'NN', '', 'O') ('recipes', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('included', 'VBD', '', 'O') ('ascorbic', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('and', 'CC', '', 'O') ('food_acid', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ranges', 'NNS', '', 'O') ('specified', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('5_and_10', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent', 'NN', '', 'O')
+Kim 5 Healthy_ChoiceTHE_R 10.2 ConAgra
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('10', 'CD', 'PERSON', 'I') ('differs', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('contains', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('additional', 'JJ', '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('yeast', 'NN', '', 'O')
+Claim 10 5
+__NEW_SENT__
+('On', 'IN', '', 'O') ('June_30,_2003', 'NNP', 'PERSON', 'B') ('ConAgra', 'NNP', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('counterclaim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent3', 'NN', 'ORDINAL', 'B') ('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('10', 'CD', 'DATE', 'I') ('2003', 'CD', 'DATE', 'I') ('ConAgra', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recapture', 'NN', '', 'O') ('rule', 'NN', '', 'O')
+June_30,_2003 ConAgra ¡¬355_patent3 November 10 2003 ConAgra
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_26,_2004', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('Judge', 'NNP', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Hart', 'NNP', 'PERSON', 'I') (')', '-RRB-', '', 'O') ('denied', 'VBD', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O')
+William T. Hart ConAgra
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('then', 'RB', '', 'O') ('proceeded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('trial', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('each', 'DT', '', 'O') ('party', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('case-in-chief', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('opposing', 'VBG', '', 'O') ('party', 'NN', '', 'O') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('under', 'IN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('50', 'CD', 'LAW', 'I') ('of', 'IN', '', 'O') ('the', 'DT', 'LAW', 'B') ('Federal', 'NNP', 'LAW', 'I') ('Rules', 'NNPS', 'LAW', 'I') ('of', 'IN', 'LAW', 'I') ('Civil', 'NNP', 'LAW', 'I') ('Procedure', 'NNP', 'LAW', 'I') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('reserved', 'VBD', '', 'O') ('ruling', 'NN', '', 'O') ('on', 'IN', '', 'O') ('both', 'DT', '', 'O') ('motions', 'NNS', '', 'O')
+JMOL Rule 50 the Federal Rules of Civil Procedure
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('13', 'CD', 'DATE', 'I') ('2004', 'CD', 'DATE', 'I') ('a', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') (';', ':', '', 'O') ('that', 'IN', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('induced', 'VBN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('licensing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('Healthy', 'JJ', 'PRODUCT', 'B') ('Choice', 'NNP', 'PRODUCT', 'I') ('THE_R', 'NN', 'PRODUCT', 'I') ('7-Grain', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Whole_Grain_products', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inducement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('willful', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('that', 'DT', '', 'O') ('claim', 'VBP', '', 'O') ('5', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('dependent_claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+October 13 2004 ConAgra 10 Healthy Choice THE_R 5
+__NEW_SENT__
+('ConAgra', 'NNP', 'ORG', 'B') ('renewed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('arguing', 'VBG', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O')
+ConAgra JMOL
+__NEW_SENT__
+('On', 'IN', '', 'O') ('April_28,_2005', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('partially', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('ConAgra', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('that', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+ConAgra JMOL 10
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('final_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('April_28,_2005', 'NNP', '', 'O') ('finding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬355_patent', 'NNP', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Kim', 'NNP', 'PERSON', 'B') ('timely', 'RB', '', 'O') ('appealed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('ConAgra_cross-appealed', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+Kim
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2000', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1 2000
+__NEW_SENT__

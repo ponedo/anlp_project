@@ -1,0 +1,180 @@
+('268_F.3d_1352', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('BALLARD', 'NNP', '', 'O') ('MEDICAL', 'NNP', '', 'O') ('PRODUCTS', 'VBZ', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('ALLEGIANCE', 'NNP', 'ORG', 'B') ('HEALTHCARE', 'NNP', 'ORG', 'I') ('CORP.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Sorenson_Critical_Care', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNS', 'ORG', 'I')
+ALLEGIANCE HEALTHCARE CORP. Sorenson_Critical_Care Inc. Defendants-Appellees
+__NEW_SENT__
+('No._00-1393', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('DECIDED', 'NNS', '', 'O') (':', ':', '', 'O') ('Oct._9,_2001', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('maker', 'NN', '', 'O') ('of', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('device', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('drawn', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('ventilating', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('aspirating', 'VBG', '', 'O') ('tracheobronchial_catheters', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Utah', 'NNP', 'GPE', 'I') ('Bruce', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Jenkins', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+The United States District Court the District of Utah Bruce S. Jenkins J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bryson', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('reference', 'NN', '', 'O') ('to', 'IN', '', 'O') ('prosecution_history', 'JJ', '', 'O') ('estoppel', 'NN', '', 'O') ('in', 'IN', '', 'O') ('connection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('literal', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warrant', 'VB', '', 'O') ('reversal', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('valve', 'NN', '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('limited', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('vacuum', 'VB', '', 'O') ('valves', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('static', 'JJ', '', 'O') ('internal', 'JJ', '', 'O') ('seal', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+The Court of Appeals Bryson Circuit_Judge 1 2 3
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1354', 'NNP', '', 'O') ('Roy', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Hardin', 'NNP', 'PERSON', 'I') ('Locke', 'NNP', 'PERSON', 'I') ('Liddell', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Sapp', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Roy W. Hardin Locke Liddell & Sapp LLP Dallas
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Craig', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Weinstock', 'NNP', 'PERSON', 'I') ('John', 'NNP', 'PERSON', 'B') ('Wilson', 'NNP', 'PERSON', 'I') ('Jones', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Boyd', 'NNP', 'PERSON', 'I')
+Craig L. Weinstock John Wilson Jones Steven S. Boyd
+__NEW_SENT__
+('David', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Trask', 'NNP', 'PERSON', 'I') ('Trask', 'NNP', 'PERSON', 'I') ('Britt', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Salt_Lake_City', 'NNP', '', 'O') ('UT', 'NNP', 'ORG', 'B') ('representing', 'VBG', '', 'O') ('Sorenson_Critical_Care', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+David V. Trask Trask Britt UT Sorenson_Critical_Care Inc.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Ashton', 'NNP', 'PERSON', 'I') ('Prince', 'NNP', '', 'O') ('Yeates', 'NNPS', '', 'O') ('&', 'CC', '', 'O') ('Geldzahler', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Salt_Lake_City', 'NNP', '', 'O') ('UT', 'NNP', 'ORG', 'B') ('representing', 'VBG', '', 'O') ('Allegiance_Healthcare_Corp.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+John P. Ashton UT BRYSON DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('BRYSON', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Ballard', 'NNP', 'ORG', 'B') ('Medical', 'NNP', 'ORG', 'I') ('Products', 'NNP', 'ORG', 'I') ('owns', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('Nos._4569,344', 'NNP', 'PRODUCT', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬344_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('4,696,296', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬296_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('drawn', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('ventilating', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('aspirating', 'VBG', '', 'O') ('tracheobronchial_catheters', 'NNS', '', 'O')
+Ballard Medical Products U.S. Nos._4569,344 4,696,296
+__NEW_SENT__
+('Ballard', 'NNP', '', 'O') ('sued', 'VBD', '', 'O') ('Sorenson_Critical_Care', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Allegiance_Healthcare_Corp.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Sorenson', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('multiple', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬296_patent_s.', 'NNPS', '', 'O') ('On', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('ruled', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Sorenson', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('disputed', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('either', 'CC', '', 'O') ('literally', 'RB', '', 'O') ('or', 'CC', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Sorenson Sorenson
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('tracheobronchial', 'JJ', '', 'O') ('catheter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('performs', 'VBZ', '', 'O') ('both', 'CC', '', 'O') ('ventilation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('aspiration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('breathing', 'NN', '', 'O') ('passages', 'NNS', '', 'O')
+
+__NEW_SENT__
+('During', 'IN', '', 'O') ('ventilation', 'NN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('pumps', 'VBZ', '', 'O') ('air', 'NN', '', 'O') ('into', 'IN', '', 'O') ('and', 'CC', '', 'O') ('out', 'IN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('respiratory', 'JJ', '', 'O') ('system', 'NN', '', 'O')
+
+__NEW_SENT__
+('During', 'IN', '', 'O') ('aspiration', 'NN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('uses', 'VBZ', '', 'O') ('vacuum_pressure', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('evacuate', 'VB', '', 'O') ('fluids', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('have', 'VBP', '', 'O') ('accumulated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('lungs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('Ballard', 'NNP', 'PERSON', 'B') ('treats', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('representative', 'NN', '', 'O') ('for', 'IN', '', 'O') ('purposes', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'VBP', '', 'O') ('4', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬296_patent', 'NNP', '', 'O')
+two Ballard 1 4
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('the', 'DT', 'PERSON', 'I') ('¡¬344_patent', 'NNP', '', 'O') ('reads', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('pertinent_part', 'NNP', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 of the 1
+__NEW_SENT__
+('An', 'DT', '', 'O') ('indwelling', 'VBG', '', 'O') ('ventilating/aspirating', 'VBG', '', 'O') ('apparatus', 'NN', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('medical', 'JJ', '', 'O') ('patient', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('subjected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('involuntary_respiratory_therapy', 'ADD', '', 'O') ('and', 'CC', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('fluids', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trachea', 'NN', '', 'O') ('and/or', 'CC', '', 'O') ('bronchi', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('evacuated', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('apparatus_comprising', 'NN', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('normally', 'RB', '', 'O') ('closed', 'VBN', '', 'O') ('normally', 'RB', '', 'O') ('internal', 'JJ', '', 'O') ('sealed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('internally', 'RB', '', 'O') ('sterile', 'JJ', '', 'O') ('vacuum', 'NN', '', 'O') ('control', 'NN', '', 'O') ('mechanism', 'NN', '', 'O') ('sealed', 'VBN', '', 'O') ('against', 'IN', '', 'O') ('external', 'JJ', '', 'O') ('entry', 'NN', '', 'O') ('of', 'IN', '', 'O') ('contamination', 'NN', '', 'O') ('the', 'DT', '', 'O') ('vacuum', 'NN', '', 'O') ('control', 'NN', '', 'O') ('mechanism', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('valve_means..', 'NN', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('biased', 'VBN', '', 'O') ('normally', 'RB', '', 'O') ('closed', 'VBN', '', 'O') ('internal', 'JJ', '', 'O') ('seal', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('means', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('selectively', 'RB', '', 'O') ('manually', 'RB', '', 'O') ('locked', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('closed_position', 'NN', '', 'O') ('to', 'TO', '', 'O') ('prohibit', 'VB', '', 'O') ('inadvertent', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('intentional', 'JJ', '', 'O') ('actuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('means', 'VBZ', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('selectively', 'RB', '', 'O') ('manually', 'RB', '', 'O') ('place', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('unlocked_closed_position', 'NN', '', 'O') ('accommodating', 'VBG', '', 'O') ('subsequent', 'JJ', '', 'O') ('selective', 'JJ', '', 'O') ('manual', 'JJ', '', 'O') ('actuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('means', 'VBZ', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('manually', 'RB', '', 'O') ('displaced', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('unlocked_closed_position', 'NN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('unlocked', 'JJ', '', 'O') ('open_position', 'NN', '', 'O') ('accommodating', 'VBG', '', 'O') ('aspiration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fluids', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trachea-bronchi', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter_tube', 'NN', '', 'O') ('and', 'CC', '', 'O') ('across', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('responsive', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('vacuum_suction', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('distal', 'JJ', '', 'O') ('tip', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter_tube', 'NN', '', 'O') ('as', 'RB', '', 'O') ('long', 'RB', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('manually', 'RB', '', 'O') ('retained', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('open_position', 'NN', '', 'O') ('counter', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bias', 'NN', '', 'O') ('imposed', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('biased', 'JJ', '', 'O') ('seal', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('means', 'VBZ', '', 'O') ('which', 'WDT', '', 'O') ('isolate', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('vacuum_suction', 'NN', '', 'O') ('from', 'IN', '', 'O') ('atmospheric', 'JJ', '', 'O') ('contamination', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('4', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬296_patent', 'NNP', '', 'O') ('reads', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('pertinent_part', 'NNP', '', 'O') (':', ':', '', 'O') ('4', 'CD', 'CARDINAL', 'B')
+Claim 4 4
+__NEW_SENT__
+('An', 'DT', '', 'O') ('indwelling', 'VBG', '', 'O') ('ventilating', 'VBG', '', 'O') ('aspirating', 'VBG', '', 'O') ('apparatus', 'NN', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('medial', 'JJ', '', 'O') ('patient', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('subjected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('involuntary_respiratory_therapy', 'ADD', '', 'O') ('and', 'CC', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('secretions', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('*1355', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trachea', 'NN', '', 'O') ('and/or', 'CC', '', 'O') ('bronchi', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('evacuated', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('apparatus_comprising', 'NN', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('*', 'NFP', '', 'O') ('vacuum', 'NN', '', 'O') ('control', 'NN', '', 'O') ('valve_structure', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('valve', 'NN', '', 'O') ('body', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('having', 'VBG', '', 'O') ('fluid_flow', 'JJ', '', 'O') ('passageway_means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('valve_means', 'NNS', '', 'O') ('operable', 'JJ', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('body', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('between', 'IN', '', 'O') ('non-activated', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('activated', 'VBN', '', 'O') ('positions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('respectively', 'RB', '', 'O') ('prohibit', 'VB', '', 'O') ('and', 'CC', '', 'O') ('accommodate', 'JJ', '', 'O') ('vacuum', 'NN', '', 'O') ('caused', 'VBD', '', 'O') ('fluid_flow', 'JJ', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('passageway_means', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('control', 'NN', '', 'O') ('valve_structure', 'NN', '', 'O') ('further', 'JJ', '', 'O') ('comprising', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (')', '-RRB-', '', 'O') ('means', 'VBZ', '', 'O') ('biasing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('non-activated', 'JJ', '', 'O') ('vacuum', 'NN', '', 'O') ('prohibiting', 'VBG', '', 'O') ('position', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('actuator', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('manually', 'RB', '', 'O') ('displacing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('non-activated', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('activated', 'VBN', '', 'O') ('position', 'NN', '', 'O') ('counter', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bias', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('valve_means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('prevents', 'VBZ', '', 'O') ('bacterial', 'JJ', '', 'O') ('contamination', 'NN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('passageway_means', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter_tube', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('means', 'VBZ', '', 'O') ('by', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('said', 'VBD', '', 'O') ('valve_structure', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('envelope', 'NN', '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('below', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('taken', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬296_patent_s', 'JJ', '', 'O') ('depicts', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Ballard', 'NNP', 'PERSON', 'B') ('invention', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('subject', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') (':', ':', '', 'O')
+1 Ballard
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('focus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('labeled', 'VBN', '', 'O') ('40', 'CD', 'CARDINAL', 'B')
+40
+__NEW_SENT__
+('The', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬296_patent_s', 'JJ', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('important', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('remain', 'VBP', '', 'O') ('closed', 'JJ', '', 'O') ('during', 'IN', '', 'O') ('ventilation', 'NN', '', 'O') ('because', 'IN', '', 'O') ('suction', 'NN', '', 'O') ('would', 'MD', '', 'O') ('interfere', 'VB', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('ventilate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O')
+
+__NEW_SENT__
+('Periodically', 'RB', '', 'O') ('an', 'DT', '', 'O') ('operator', 'NN', '', 'O') ('can', 'MD', '', 'O') ('open', 'VB', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('manually', 'RB', '', 'O') ('which', 'WDT', '', 'O') ('introduces', 'VBZ', '', 'O') ('vacuum_pressure', 'JJ', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('aspirates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('lungs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Figures', 'NNS', '', 'O') ('3_and_8', 'CD', 'PERSON', 'B') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬296_patent_s', 'JJ', '', 'O') ('shown', 'VBN', '', 'O') ('below', 'IN', '', 'O') ('detail', 'NN', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Ballard', 'NNP', 'PERSON', 'B') ('valve', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('open_positions', 'NNS', '', 'O') ('respectively', 'RB', '', 'O')
+3_and_8 Ballard
+__NEW_SENT__
+('*1356.', 'NNP', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('FIG._8', 'NNS', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed_position', 'NN', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O') ('280', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('286', 'CD', 'CARDINAL', 'B') ('are', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('raised', 'VBN', '', 'O') ('position', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sealing', 'VBG', '', 'O') ('member', 'NN', '', 'O') ('288', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('shape-', 'NN', '', 'O') ('*1357', 'NN', '', 'O') ('retaining', 'VBG', '', 'O') ('highly', 'RB', '', 'O') ('elastic', 'JJ', '', 'O') ('substance', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('synthetic', 'JJ', '', 'O') ('rubber', 'NN', '', 'O') ('blocks', 'NNS', '', 'O') ('both', 'CC', '', 'O') ('vacuum_pressure', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('fluid_flow', 'JJ', '', 'O') ('across', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_bore', 'NN', '', 'O') ('322', 'CD', 'CARDINAL', 'B')
+280 286 288 322
+__NEW_SENT__
+('To', 'TO', '', 'O') ('open', 'VB', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('the', 'DT', '', 'O') ('operator', 'NN', '', 'O') ('manually', 'RB', '', 'O') ('depresses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O')
+
+__NEW_SENT__
+('Depressing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O') ('causes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stretch', 'VB', '', 'O') ('the', 'DT', '', 'O') ('sealing', 'VBG', '', 'O') ('member', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve_bore', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'RB', '', 'O') ('longer', 'RBR', '', 'O') ('entirely', 'RB', '', 'O') ('blocked', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Opening', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('valve_bore', 'NN', '', 'O') ('introduces', 'NNS', '', 'O') ('vacuum_pressure', 'JJ', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('draws', 'VBZ', '', 'O') ('fluid', 'JJ', '', 'O') ('back', 'RB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('lungs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('absence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manual', 'JJ', '', 'O') ('pressure', 'NN', '', 'O') ('the', 'DT', '', 'O') ('elastic', 'JJ', '', 'O') ('sealing', 'VBG', '', 'O') ('member', 'NN', '', 'O') ('biases', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('and', 'CC', '', 'O') ('actuator', 'NN', '', 'O') ('to', 'TO', '', 'O') ('return', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed_position', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('prevent', 'VB', '', 'O') ('accidental', 'JJ', '', 'O') ('opening', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('cause', 'VB', '', 'O') ('unintended', 'JJ', '', 'O') ('aspiration', 'NN', '', 'O') ('the', 'DT', '', 'O') ('operator', 'NN', '', 'O') ('can', 'MD', '', 'O') ('rotate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('posts', 'VBZ', '', 'O') ('302_and_304', 'CD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O') ('align', 'NN', '', 'O') ('with', 'IN', '', 'O') ('valve', 'NN', '', 'O') ('body', 'NN', '', 'O') ('posts', 'NNS', '', 'O') ('354_and_356', 'CD', '', 'O') ('which', 'WDT', '', 'O') ('prevents', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('actuator', 'NN', '', 'O') ('from', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('depressed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('TRACH-EZE', 'NNP', '', 'O') ('device', 'NN', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('Sorenson', 'NNP', 'PERSON', 'B') ('is', 'VBZ', '', 'O') ('shown', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') ('figure', 'NN', '', 'O') ('taken', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('Sorenson', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Pat', 'NNP', '', 'O')
+Sorenson Sorenson U.S.
+__NEW_SENT__
+('No._5919,174', 'NN', 'ORG', 'B') (':', ':', '', 'O')
+No._5919,174
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed_position', 'NN', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sorenson', 'NNP', 'PERSON', 'B') ('valve', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('raised', 'VBN', '', 'O') ('so', 'IN', '', 'O') ('that', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('seal', 'NN', '', 'O') ('38', 'CD', 'CARDINAL', 'B') ('is', 'VBZ', '', 'O') ('positioned', 'VBN', '', 'O') ('along', 'IN', '', 'O') ('plane', 'NN', '', 'O') ('49', 'CD', 'CARDINAL', 'B') ('thus', 'RB', '', 'O') ('preventing', 'VBG', '', 'O') ('any', 'DT', '', 'O') ('fluid_flow', 'JJ', '', 'O') ('along', 'IN', '', 'O') ('passageway', 'NN', '', 'O') ('51', 'CD', 'CARDINAL', 'B')
+Sorenson 38 49 51
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('open_position', 'NN', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('depressed', 'JJ', '', 'O') ('so', 'IN', '', 'O') ('that', 'DT', '', 'O') ('seal', 'NN', '', 'O') ('38', 'CD', 'CARDINAL', 'B') ('descends', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('well', 'RB', '', 'O') ('53', 'CD', 'CARDINAL', 'B')
+38 53
+__NEW_SENT__
+('Fluid', 'NNP', '', 'O') ('may', 'MD', '', 'O') ('then', 'RB', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('passageway', 'NN', '', 'O') ('51', 'CD', 'CARDINAL', 'B') ('around', 'IN', '', 'O') ('the', 'DT', '', 'O') ('shaft', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O')
+51
+__NEW_SENT__
+('O-ring', 'VBG', '', 'O') ('seal', 'NN', '', 'O') ('37', 'CD', 'CARDINAL', 'B') ('impedes', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('flow', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fluid', 'NN', '', 'O') ('up', 'RP', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('mechanism', 'NN', '', 'O')
+37
+__NEW_SENT__
+('While', 'IN', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed_position', 'NN', '', 'O') ('the', 'DT', '', 'O') ('cap', 'NN', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('rotated', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('position', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('prevents', 'VBZ', '', 'O') ('depression', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plunger', 'NN', '', 'O') ('thus', 'RB', '', 'O') ('locking', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('closed_position', 'NN', '', 'O')
+15
+__NEW_SENT__
+('Ballard', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1-BIG_TOKEN__20_and_26__BIG_TOKEN', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('4-6', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('*1358', 'NNPS', '', 'O') ('¡¬296_patent', 'NNP', '', 'O')
+4-6
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('extended', 'JJ', '', 'O') ('pretrial', 'JJ', '', 'O') ('conference', 'NN', '', 'O') ('at', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('considered', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Subsequently', 'RB', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('granting', 'VBG', '', 'O') ('Sorenson', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O')
+Sorenson
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('based', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('ruling', 'NN', '', 'O') ('on', 'IN', '', 'O') ('materials', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('submitted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344_patent', 'NNP', '', 'O') ('distinguishing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('valve', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('catheter', 'NN', '', 'O') ('from', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('devices', 'NNS', '', 'O')
+the Patent and Trademark Office
+__NEW_SENT__
+('Those', 'DT', '', 'O') ('statements', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('required', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬344', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬296_patent_s', 'NNS', '', 'O') ('be', 'VB', '', 'O') ('construed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('exclude', 'VB', '', 'O') ('catheter', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('valve_structure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sort', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('Sorenson', 'NNP', 'ORG', 'B') ('device', 'NN', '', 'O')
+Sorenson
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('prosecution_history', 'JJ', '', 'O') ('estoppel', 'NN', '', 'O') ('foreclosed', 'VBD', '', 'O') ('Ballard', 'NNP', 'PERSON', 'B') ('from', 'IN', '', 'O') ('establishing', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Ballard
+__NEW_SENT__

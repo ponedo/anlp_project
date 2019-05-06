@@ -1,0 +1,420 @@
+181_f.3d_1313
+united states court of appeals federal circuit
+loral fairchild corporation plaintiff-appellant v. sony corporation and sony electronics inc. defendants-appellees and
+matsushita electric industrial company ltd. matsushita electric corporation of america nec corporation nec america inc. nec technologies inc. canon inc. canon u.s.a. inc. toshiba corp. toshiba america inc. toshiba america consumer products inc. toshiba america information systems inc. toshiba america electronic components inc. hitachi ltd. hitachi home electronics america inc. fuji photo film co. ltd. fuji photo film usa inc. sanyo electric co. ltd. sanyo fisher usa corp. mitsubishi electric corp. mitsubishi electric sales america lg electronics inc. lg electronics u.s.a. inc. samsung electronics co. ltd. samsung electronics america inc. national semiconductor corporation and fairchild semiconductor corp. defendants
+no._97-1017
+| decided june_8,_1999
+| rehearing denied ; suggestion for rehearing in banc declined july_16,_1999
+* synopsis
+patent assignee brought infringement action against electronics manufacturer
+after jury returned verdict in favor of assignee on issues of ownership validity and infringement under the doctrine of equivalents the united_states_district_court for the eastern_district of new_york 931_f.supp._1014 granted manufacturers motion for judgment as matter of law jmol holding that manufacturer did not infringe patents
+assignee appealed
+the court of appeals archer senior_circuit_judge held that 1 process patent was not infringed literally or under doctrine of equivalents ; 2 patent for structure of charge coupled device ccd was not infringed under doctrine of equivalents ; and 3 assignee was barred by prosecution_history_estoppel from asserting that accused devices infringed structure patent
+
+affirmed
+
+attorneys and law firms
+*1315 john b. wyss wiley rein & fielding of washington dc argued for plaintiff-appellant
+with him on the brief were james h. wallace jr. and gregory r. lyons
+of counsel on the brief was r. carl moy william mitchell college of law of st. paul mn
+charles e. lipsey finnegan henderson farabow garrett & dunner l.l.p. of washington d.c. argued for defendants-appellees
+with him on the brief were douglas b. henderson donald r. dunner barry w. graham j. michael jakes and howard a. kwon
+of counsel was steven m. anzalone
+before michel circuit_judge archer senior_circuit_judge ** and plager circuit_judge
+opinion
+archer senior_circuit_judge
+loral fairchild corporation loral appeals the july_23,_1996 judgment of the united_states_district_court for the eastern_district of new_york no._91- cv-5056 holding that sony corporation and sony electronics inc. sony did not infringe lorals patents
+as pertinent here the court held on summary_judgment that sony did not literally infringe united_states_patent_no._3931,674 the674_patent and contrary to the jurys verdict that it also did not infringe the patent under the doctrine of equivalents
+the court also held again contrary to the jurys verdict that sony did not infringe *1316 united_states_patent_no._3896,485 the485_patent under the doctrine of equivalents.1 we affirm
+
+background
+i
+procedural background
+loral assignee of the674 and485_patent s brought an infringement suit against a number of japanese electronics manufacturers including those who manufacture and sell semiconductors and consumer electronic devices and those who purchase semiconductors and manufacture consumer electronic devices.2 the district_court resolved a number of issues as a matter of law clarifying and limiting the issues that needed to go to trial
+see loral_fairchild_corp. v. victor_co. of japan ltd. 906_f.supp._813_(e.d.n.y.1995) granting defendants motion for summary_judgment on marking
+in connection with its preliminary holdings the district_court held a two day` markman hearing' to resolve the claim construction issues
+see loral_fairchild_corp. v. victor_co. of japan ltd. 906_f.supp._798_(e.d.n.y.1995) construing disputed claims of the patents
+
+following the construction of the claims sony moved for summary_judgment that it neither literally infringed nor infringed under the doctrine of equivalents either of the patents at issue
+the court granted sonys motion of no literal_infringement as to both patents but denied the motion as to infringement under the doctrine of equivalents
+see order granting in part_sonys motion for summary_judgment of non-infringement of the674_patent civil_action_nos._92-0128-_arr 91-5056-arr december 14 1995 ; order granting in part and denying in part_sonys motion for summary_judgment of non-infringement of the485_patent and denying toshibas motion for summary_judgment on invalidity of the485_patent civil_action_nos._92-0128-_arr 91-5056-arr december 15 1995
+
+concerned about potential prejudice to the defendants in this case the court also separated the trial of each of the manufacturing_defendants
+sonys trial proceeded first
+
+the trial was held in january 1996 on the issues of ownership infringement under the doctrine of equivalents and validity
+after five weeks of trial the jury was given a detailed set of written instructions with integrated special verdicts for separate factual issues
+after four days of deliberation the jury found that loral owned both patents that sony infringed both patents under the doctrine of equivalents and had induced infringement of the674_patent and that sony failed to prove that any of the claims at issue were invalid
+
+following the verdict the court considered sonys motion for judgment as a matter of law and in the alternative for a new trial
+the court granted sonys motion holding inter alia that infringement of the674_patent was precluded by prosecution_history_estoppel3 and that infringement of the485_patent could not stand under a proper claim interpretation
+loral_fairchild_corp. v. victor_co. of japan ltd. 931_f.supp._1014 e.d.n.y.1996
+the case was certified for appeal to this court under fed.r.civ.p
+54 b
+
+*1317 ii
+the technology
+the patents at issue describe inventions in semiconductor technology known as charge coupled devices ccd
+this technology has proven useful in devices where there is a need to store a continuously changing image such as camcorders cameras copiers and facsimile machines
+
+the imager of a camcorder for example localizes on its surface electrical_charges created from light to which it has been exposed into an array of many small points or pixels each of which can contain a packet of electrical_charge thus defining a picture corresponding to the view that the user intends to record
+the ccd which collects the charges associated with the changing image is part of a semiconductor_structure further housing a thin layer of nonconductive insulation and a series of gate_electrodes on the top_surface of the material
+when voltage is applied to one of these gate_electrodes it creates a` potential_well' in the semiconductor_substrate beneath the electrode
+a packet of electrical_charge representing a pixel can be stored in the potential_well and by alternately applying two different voltages to adjacent gate_electrodes the charge_packets can be forced to move through the semiconductor_substrate in one direction
+by transporting the charge_packets the image is stored and removed to allow the next image to be stored
+backward movement of the charge_packets is prevented by ion implanted barriers
+
+a
+the674_patent
+the674_patent claims a six step process for fabricating a self-aligned ccd
+it was invented by dr. gilbert f. amelio
+at issue here is claim 1 which reads 1
+a process for fabricating a charge coupled device_structure in a semiconductor_substrate comprising the steps of
+[ 1 ] selectively applying at least one layer of insulation_material to said semiconductor_substrate ; [ 2 ] selectively forming a plurality of spaced-apart first_gate_electrodes on the uppermost_surface of said at least one layer of insulation_material ; [ 3 ] forming a first_insulation_layer over said plurality of first_gate_electrodes ; [ 4 ] forming implanted_barrier_regions in said semiconductor_substrate in the intervals between said plurality of spaced-apart first_gate_electrodes the edges of said implanted_barrier_regions being aligned with the vertical_edges of the insulation_layer on the respective_first_gate_electrodes ; [ 5 ] selectively forming a plurality of second_gate_electrodes on said uppermost_surface of said at least one insulating_layer between said plurality of spaced-apart first_gate_electrodes each of said second_gate_electrodes substantially occupying the space between adjacent first_gate_electrode and
+[ 6 ] connecting each of said second_gate_electrodes to an individual_adjacent_first_gate_electrode to form a composite_electrode for a charge coupled element
+[ bracketed numbers added to facilitate reference ]
+
+the sequence of steps in the claim defines an insulated gate_masking process
+see fig._4 of the674_patent below
+the insulated gate is used as a mask when the ion_implantation barriers are established
+when the ions are implanted the insulated gate blocks implantation into the semiconductor_substrate directly below it resulting in implantation limited to the regions 44 46 48 50 between the gate_electrodes
+the insulation 54 56 58 60 62 covers the first_gate_electrodes 43 45 47 49 51 when the ions are implanted
+
+*1318. ?
+loral brought suit against sony claiming that sonys process of fabricating ccds infringed the674_patent
+sonys fabrication_process is an uninsulated or naked_gate_masking_process
+it is undisputed that the sony_process performs all the steps of the674 process ; however it performs step four prior to step three
+in sonys process the ion_implantation occurs prior to the insulation on the first_gate_electrodes
+thus the gate alone rather than the gate with insulation on it serves as the mask in the sony_process
+
+prior to the trial the district_court construed claim 1 of the674_patent to require formation of the insulation_layer over the first_gate_electrodes before implantation of the barrier_regions
+in other words the claim requires a chronological process_sequence with step three preceding step four
+see loral 906 f.supp.at 806
+under this construction the court granted summary_judgment in favor of sony holding that there was no literal_infringement because its process performs claimed step four before step three
+however the court denied the motion for summary_judgment on infringement under the doctrine of equivalents
+
+when the case proceeded to trial the jury found that sonys fabrication_process infringed claim 1 of the674_patent under the doctrine of equivalents
+the jury also found that sony did not prove prosecution_history_estoppel and that sonys process was not covered by the prior_art
+
+on sonys motion for jmol the court rejected the jurys advisory verdict on the issue of prosecution_history_estoppel and held that prosecution_history_estoppel barred a finding that sony infringed claim 1 of the674_patent under the doctrine of equivalents
+the court held that during prosecution the patentee limited his claim to insulated gate_masking i.e
+performing step three before step four and that loral was estopped from recapturing naked_gate_masking through the doctrine of equivalents
+
+b
+the485_patent
+the485_patent ed technology was invented by dr. james m. early
+claim 1 of the485_patent reads
+
+1
+structure which comprises a. a light_sensing_element comprising a first region of semiconductor_material overlaid by a first electrode separated from said semiconductor_material by insulation said light_sensing_element being capable of containing a charge_packet ; b. an adjacent region of said semiconductor_material disposed for receiving said charge_packet from said light_sensing_element ; c. means for controlling the transfer of said charge_packet from said light_sensing_element to said adjacent regions ; and
+*1319 d._charge_sink_means having a contact for applying a bias_thereto buried within said semiconductor_material and disposed for receiving excess_charge accumulated in said light_sensing_element said charge_sink_means extending laterally from said contact toward said light_sensing_element while beneath the surface of said semiconductor_material
+( emphasis added
+the485_patent teaches a vertical_overflow_drain for a ccd to limit` blooming'
+blooming is the spreading of light on a video image which distorts the image
+it occurs because a pixel on the surface of the ccd has a limited capacity to store electrical_charge
+when the pixel is full the excess_electrical_charge will overflow into the adjacent pixels causing a distortion of the image being recorded
+to prevent blooming a ccd includes an overflow structure to store and dissipate the excess_charge from the light_sensing_elements
+initially lateral overflow drains located adjacent to the pixels were created
+however surface overflow drains occupied valuable light sensing space on the chips surface
+the485_patent teaches a vertical_overflow_drain located below the pixel where the excess_electrical_charge will drain downward into the charge_sink the n-type region
+see fig._1 of the485_patent below
+*f.3d1319
+?
+the district_court construed the` charge_sink_means' of claim 1 of the485_patent as describing a means-plus-function limitation
+it held that the charge_sink_means is a region of semiconductor_material doped opposite to the surrounding semiconductor_material
+in the above figure the charge_sink_means is the elliptical region 14 with an n+ doping
+the surrounding semiconductor_material is a p-type_substrate
+the charge_sink_region extends from the ohmic contact region 16 toward the light_sensing_element 28a
+the electrical lead 26 is connected to the metallic conducting material 24 so that external electrical contact may be established with the buried charge_sink_region 14
+the electrons 32 are accumulated in the potential_wells defined by the dashed lines 30
+when excess electrons 32a accumulate in the potential_wells they will overflow into the charge_sink_region 14
+the court held that the charge_sink_means of claim 1 of the485_patent is a separate and distinct_structure surrounded by and submerged in the semiconductor_material
+
+sonys ccds also permit excess_charge accumulation to drain vertically beneath the pixels
+however in sonys device the entire n-type_substrate acts as a vertical *1320 overflow drain as illustrated below
+in sonys device the contacts 18a 18b 18c are connected to the n-type_substrate and to the power supply sources 16 17
+
+?
+see fig._1 of yonemoto u.s. patent 4,875,100 sony trial ex
+705 case no._91- cv-5056-arr
+
+prior to trial the court granted summary_judgment in favor of sony holding that there was no literal_infringement
+the jury found that sony infringed under the doctrine of equivalents
+on sonys motion for jmol the district_court held that no reasonable_jury could find infringement under the doctrine of equivalents because sony had no equivalent to the charge_sink_means of claim 1 of the485_patent
+in addition the court held that loral limited its claim scope to overcome prior_art during prosecution to a charge_sink which is a separate_structure buried within the substrate extending parallel to the surface from a contact toward the light_sensor
+accordingly the district_court held that loral was estopped by the prosecution_history from claiming that sony infringed under the doctrine of equivalents
+
+discussion
+we review the district_courts grant of summary_judgment of no literal_infringement de novo see conroy v. reebok int l ltd. 14_f.3d_1570 1575 29_uspq2d_1373 1377 fed.cir.1994 with all justifiable factual inferences being drawn in favor of the party opposing summary_judgment
+see anderson v. liberty lobby inc. 477_u.s._242 255 106_s.ct._2505 91_l.ed.2d_202_(1986)
+summary judgment is appropriate when there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law
+fed.r.civ.p
+56 c
+
+we also review the courts grant of jmol under fed.r.civ.p
+50 a de novo
+see burroughs wellcome co. v. barr lab inc. 40_f.3d_1223 1227 32_uspq2d_1915 1919 fed.cir.1994
+on appeal we apply the same standard as did the district_court - examining the record in the light most favorable to the non-movant and drawing inferences in its favor to determine if substantial_evidence supports the jury verdict
+see id
+we affirm the jmol if the jurys factual findings are not supported by substantial_evidence or if the jurys legal conclusions express or implied can not be supported by those findings
+see anderson 477 u.s. at 250 106_s.ct._2505 ; burroughs wellcome 40 f.3d at 1227 32 uspq2d at 1919
+
+*1321 i
+the674_patent
+a. literal infringement
+an infringement analysis entails two steps 1 the claims must be construed ; and 2 the properly construed claims must be compared to the allegedly infringing device
+see markman v. westview instruments inc. 52_f.3d_967 976 34_uspq2d_1321 1326 fed.cir.1995 in banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+claim construction is a question of law that we review de novo
+id.at 981-983 34 uspq2d at 1331-33
+in construing the claims the court looks to the patent itself the prosecution_history and if necessary extrinsic evidence
+see vitronics corp. v. conceptronic inc. 90_f.3d_1576 1582-83 39_uspq2d_1573 1576-77 fed.cir.1996
+whether the properly construed claims read on sonys accused products is a question of fact
+see charles greiner & co. v. mari-med mfg. inc. 962_f.2d_1031 1034 22_uspq2d_1526 1528 fed.cir.1992
+
+we agree with the district_courts claim construction
+claim 1 of the674_patent recites a process_sequence requiring formation of the insulation_layer over the first_gate_electrodes prior to implantation of the barrier_regions
+the relevant part of the claim_language states [ 3 ] forming a first_insulation_layer over said plurality of first_gate_electrodes ; [ 4 ] forming implanted_barrier_regions in said semiconductor_substrate in the intervals between said plurality of spaced-apart first_gate_electrodes the edges of said implanted_barrier_regions being aligned with the vertical_edges of the insulation_layer on the respective_first_gate_electrodes ; emphasis added
+by the literal language of the claim the edges of the implantation barrier_regions are aligned with the edges of the insulation_layer ; hence the insulation_layer must already be in place in order to align the barrier_regions with it during ion_implantation
+the specification supports this construction
+the specification teaches that the` ion-implanted_barrier_regions.. are vertically aligned with the respective outer edges of the thermally-grown thin oxide layer'
+the reference to the thermally-grown oxide layer is the insulation_layer
+nowhere does the specification suggest implanting the barrier_regions prior to growing the insulation_layer
+
+the prosecution_history also supports this interpretation
+during prosecution the patent applicant limited his claim to the sequence of steps enumerated the examiner has rejected claims 17-big_token__24_and_26__big_token under 35 u.s.c.¡± 112 as vague and indefinite
+in particular the examiner points out that in the original_claim the implanted regions are not in fact aligned with the first_gate_electrode but are aligned with the oxide_surface covering the first_gate_electrodes
+the cancellation of claim 18 and the addition of a new_step to claim 17 as well as additional_language in claim 17 results in the correct_recitation that the implanted barriers are aligned with the vertical_edges of the first_insulation_layer over the respective_first_gate_electrodes
+
+this language clarifies what the applicant saw as his invention namely that the ion implanted regions are aligned with the oxide covering of the gate not the gate itself thereby limiting the claim to insulated gate_masking - the performance of step three prior to step four
+in response to a rejection under 35 u.s.c.¡± 102 that the claims were unpatentable over walden u.s._patent_no._3852,799 in view of boleky u.s._patent_no._3745,647 the applicant also argued that` the present_invention is directed to a process_sequence..
+this sequence of steps goes far beyond the teaching of boleky and therefore is not rendered obvious by it'
+( emphasis added
+this language in the prosecution_history supports the construction of claim 1 as limited to performance of the sequence of process_steps in chronological order
+
+*1322 although not every process claim is limited to the performance of its steps in the order written the language of the claim the specification and the prosecution_history support a limiting construction in this case
+accordingly the claim was properly construed as only covering a fabrication_process where insulation is formed prior to ion_implantation
+it is not disputed that the sony_process implants barrier_regions prior to forming insulation and we therefore affirm the district_courts grant of summary_judgment of no literal_infringement of the674_patent
+
+b
+infringement under the doctrine of equivalents
+the jury returned a special verdict finding that sonys fabrication_process infringed claim 1 of the674_patent under the doctrine of equivalents and that sony failed to prove prosecution_history_estoppel.4
+
+in warner-jenkinson co. v. hilton davis chem co. 520_u.s._17 117_s.ct._1040 137_l.ed.2d_146_(1997) the supreme_court endorsed the continued vitality of the doctrine of equivalents
+because the doctrine of equivalents` has taken on a life of its own unbounded by the patent claims' the court held that the doctrine must be applied as an objective inquiry on an element-by-element basis
+id.at 28-29 117_s.ct._1040
+more importantly to this case the court affirmed that prosecution_history_estoppel continues to be a defense to infringement
+id.at 40 117_s.ct._1040` prosecution_history_estoppel continues to be available as a defense to infringement..'
+
+the touchstone of prosecution_history_estoppel is that a patentee is unable to reclaim through the doctrine of equivalents what was surrendered or disclaimed in order to obtain the patent
+warner-jenkinson 520 u.s. at 30 117_s.ct._1040 ; see also cybor corp. v. fas tech inc. 138_f.3d_1448 1460 46_uspq2d_1169 1178 fed.cir.1998 in banc ; hughes aircraft co. v. united states 140_f.3d_1470 1476 46_uspq2d_1285 1290 fed.cir.1998 ; litton_systems inc. v. honeywell inc. 140_f.3d_1449 1456 46_uspq2d_1321 1325 fed.cir.1998 ; pall corp. v. micron separations inc. 66_f.3d_1211 1219 36_uspq2d_1225 1231 fed.cir.1995 cert
+denied 520_u.s._1115 117_s.ct._1243 137_l.ed.2d_326_(1997)
+
+prosecution_history_estoppel applies to matter surrendered as a result of amendments to overcome patentability rejections see warner-jenkinson 520 u.s. at 30-31 117_s.ct._1040 ; cybor 138 f.3d at 1460 46 uspq2d at 1178 and as a result of argument to secure allowance of a claim
+see e.g. wang lab. inc. v. mitsubishi elec. inc. 103_f.3d_1571 1578 41_uspq2d_1263 1269 fed.cir.1997 ; hoganas ab v. dresser indus. inc. 9_f.3d_948 952 28_uspq2d_1936 1939 fed.cir.1993 ; texas instruments inc. v. united_states_int l_trade_comm n 988_f.2d_1165 1174-75 26_uspq2d_1018 1025 fed.cir.1993
+
+in its analysis of prosecution_history_estoppel the supreme_court in warner-jenkinson articulated a rebuttable_presumption that arises whenever an amendment to a claim is made but the reason for that amendment is not shown by the patentee
+mindful that claims do indeed serve both a definitional and a notice function we think the better rule is to place the burden on the patent-holder to establish the reason for an amendment required during patent prosecution
+the court then would decide whether that reason is sufficient to overcome prosecution_history_estoppel as a bar to application of the doctrine of equivalents to the element added by that amendment
+where no explanation is established however the court should presume that the pto had a substantial reason related *1323 to patentability for including the limiting element added by amendment
+in those circumstances prosecution_history_estoppel would bar the application of the doctrine [ sic of ] equivalents
+520 u.s. at 33 117_s.ct._1040
+
+here the rebuttable_presumption would not apply because the applicant provided an explanation regarding the amendments to the claims during prosecution
+nevertheless the reasons those amendments were made are relevant in determining what subject_matter was disclaimed
+see id.at 33_n._7 117_s.ct._1040` what is permissible for a court to explore is the reason right or wrong for the objection and the manner in which the amendment addressed and avoided the objection
+`` ; see also hughes aircraft 140 f.3d at 1476 46 uspq2d at 1290` in evaluating the reason behind an amendment a court must determine what subject_matter the patentee actually surrendered
+`` ; litton_systems 140 f.3d at 1456 46 uspq2d at 1325` [ t ] he reason for claim amendments remains relevant to application of [ prosecution_history ] estoppel
+``
+
+prosecution_history_estoppel is a legal question subject to de novo review on appeal
+see cybor 138 f.3d at 1460 46 uspq2d at 1178
+thus we review without deference to the district_court whether the amendments made to the claims during prosecution of the application had a purpose related to patentability which would give rise to an estoppel and if so what claim coverage had been surrendered
+
+as originally filed claim 1 of the application resulting in the674_patent read 1
+a process for fabricating a semiconductor_structure comprising the steps of [ 1 ] selectively forming a plurality of spaced-apart first_gate_electrodes ; [ 2 ] selectively forming a second gate electrode between and spaced slightly apart from adjacent ones of said first_gate_electrodes ; and
+[ 3 ] forming barrier_regions in a semiconductor_substrate beneath said second_gate_electrodes said barrier_regions extending in said substrate beyond a boundary defined by the outer perimeter of said second_gate_electrodes thereby providing barrier_regions having outer boundaries precisely aligned between the boundaries of said first and said second_gate_electrodes
+[ bracketed numbers added to facilitate reference ]
+
+as originally filed claim 2 of the application resulting in the674_patent read 2
+the process as recited in claim 1 and further comprising the step of forming a first_insulation_layer over said first_gate_electrodes prior to the step of forming barrier_regions in said semiconductor_substrate whereby the outer lateral surfaces of said first_insulation_layer are aligned with the correspondent surface of said barrier_regions
+( emphasis added
+
+original_claim 1 provided no explicit order of the claimed process_steps and thus would cover both naked and insulated gate_masking_processes
+original_claim 2 specified that insulation occur` prior to' formation of barrier_regions in the semiconductor_substrate i.e. insulated gate making processes
+
+by preliminary_amendment before an office action on the merits issued the applicant canceled claims 1-10 and added claims 17-27
+new claims 17_and_18 read 17
+a process for fabricating a charge coupled device_structure in a semiconductor_substrate comprising the steps of [ 1 ] selectively applying at least one layer of insulation_material to said semiconductor_substrate ; [ 2 ] selectively forming a plurality of spaced-apart first_gate_electrodes *1324 on the uppermost_surface of said at least one layer of insulation_material ; [ 3 ] forming implanted_barrier_regions in said semiconductor_substrate in the intervals between said plurality of spaced-apart first_gate_electrodes the edges of said implanted_barrier_regions being aligned with the respective_first_gate_electrodes ; and
+[ 4 ] selectively forming a plurality of second_gate_electrodes on said uppermost_surface of said at least one insulating_layer between said plurality of spaced-apart first_gate_electrodes one of said second_gate_electrodes substantially occupying the space between each of said plurality of first_gate_electrodes
+[ bracketed numbers added to facilitate reference ]
+18
+the process recited in claim 17 further comprising the step of forming a first_insulation_layer over said plurality of first_gate_electrodes prior to the step of forming implanted_barrier_regions in said semiconductor_substrate whereby the edges of said implanted_barrier_regions are aligned with the vertical_edges of the first_insulation_layer on the respective_first_gate_electrodes
+( emphasis added
+
+like originally filed claim 1 claim 17 still claimed both naked and insulated gate_processes
+furthermore claim 18 like claim 2 included the limitation of forming the insulation_layer` prior to' forming implanted_barrier_regions in the substrate
+
+the examiner rejected claims 17_and_18 on the merits as being vague and indefinite under 35 u.s.c.¡± 112 in claim 17 the edges of the implanted regions are not aligned with the first_gate_electrodes but are aligned with the oxide_surface covering the first_gate_electrodes and it is not clear that only one second electrode occupies the spaces between all of the first_gate_electrodes
+also no apparent relationship has been set forth between the two sets of gate_electrodes and the barrier region
+
+the examiner also rejected claims 17_and_18` under 35 u.s.c.¡± 103 as unpatentable over walden [ u.s._patent_no._3852,799 ] in view of boleky [ u.s._patent_no._3745,647 ]' because the examiner` considered [ it ] obvious that the oxide surrounding waldens first electrodes 46 49 etc
+may be used as mask in forming his regions 43 53 etc [
+] as in boleky at 20
+`` 5
+
+in response to the rejection under 35 u.s.c.¡± 112 the applicant stated that [ t ] he examiner has rejected claims 17-big_token__24_and_26__big_token under 35 u.s.c.¡± 112 as vague and indefinite
+in particular the examiner points out that in the original_claim the implanted regions are not in fact aligned with the first_gate_electrode but are aligned with the oxide_surface covering the first_gate_electrodes
+the cancellation of claim 18 and the addition of a new_step to claim 17 as well as additional_language in claim 17 results in the correct_recitation that the implanted barriers are aligned with the vertical_edges of the first_insulation_layer over the respective first_gate_electrode
+after amendment claim 17 read 17
+( amended a process for fabricating a charge coupled device_structure in a semiconductor_substrate comprising the steps of [ 1 ] selectively applying at least one layer of insulation_material to said semiconductor_substrate ; [ 2 ] selectively forming a plurality of spaced-apart first_gate_electrodes on the uppermost_surface of said *1325 at least one layer of insulation_material ; [ 3 ] forming a first_insulation_layer over said plurality of first_gate_electrodes ; [ 4 ] forming implanted_barrier_regions in said semiconductor_substrate in the intervals between said plurality of spaced-apart first_gate_electrodes the edges of said implanted_barrier_regions being aligned with the vertical_edges of the insulation_layer on the respective_first_gate_electrodes ; and
+[ 5 ] selectively forming a plurality of second_gate_electrodes on said uppermost_surface of said at least one insulating_layer between said plurality of spaced-apart first_gate_electrodes one of said second_gate_electrodes substantially occupying the space between each of said plurality of first_gate_electrodes [
+] each of said second_gate_electrodes comprising in combination with an individual_adjacent_first_gate_electrode a composite_electrode for a charge coupled element
+[ bracketed numbers added to facilitate reference additions underlined deletions in brackets ]6
+
+in response to the rejection under 35 u.s.c.¡± 103 the applicant argued it is submitted that the thrust of the boleky reference is the lateral inward diffusion of the dopant impurities as shown by the points of penetration 40
+the use of the insulated gate as a mask shows a technique that is generally known in the semiconductor_art
+the present_invention is directed to a process_sequence which includes this masking_feature as one step but which further includes the unique and distinctive_steps of connecting a single_first_gate_electrode to a single_adjacent_second_gate_electrode to form a composite_gate_electrode
+thus not only is self-alignment of the implanted barriers obtained but a composite_electrode for inclusion in a charge-coupled element is formed
+this sequence of steps goes far beyond the teaching of boleky and therefore is not rendered obvious by it
+( emphasis added
+
+we must examine the reasoning behind the amendment to determine if it was made for purposes of patentability
+see warner-jenkinson 520 u.s. at 33 & n. 7 40 117_s.ct._1040
+loral argues that the indefiniteness_rejection under ¡± 112 and the subsequent amendment were in response to a drafting error by the prosecuting attorney when the preliminary_amendment was filed replacing claims 1-10 with claims 17-27
+thus loral asserts that the amendments were not made to overcome prior_art i.e. not for purposes of patentability but only to clarify the alignment of the various components formed in the process
+
+the district_court held that although ostensibly the applicant amended claim 17 only in response to an indefiniteness_rejection under ¡± 112 and not to a rejection under ¡± 102 or ¡± 103 based on prior_art the applicants double_reference to the process` sequence' and direct reference to the boleky prior_art patent when arguing with respect to the ¡± 103 rejection was to the contrary
+moreover the district_court found support for this conclusion in the applicants contemporaneous prosecution of a divisional_application directed to the semiconductor_device itself
+in that divisional_application the independent claim covered structures made by both naked and insulated gate_masking_processes
+during examination that claim was rejected under ¡± 102 in light of the article written by dr._erb which disclosed structures formed by a naked_gate_masking_process
+more importantly the applicant failed to *1326 cite the erb_article to the examiner in the related process application which issued as the674_patent
+the district_court held that because the only difference between the erb process and the674 process was naked versus insulated gate_masking respectively the failure to cite erb in the process application and the subsequent abandonment of the device claim in light of the erb rejection evidenced the applicants reliance on that difference in order to avoid citing erb as` crippling prior_art'
+
+we agree with the district_court that the amendments made during prosecution were made in response to prior_art and thus were made for purposes of patentability
+an applicant may not avoid the conclusion that an amendment was made in response to prior_art by discussing the amendment under the rubric of a clarification due to a ¡± 112 indefiniteness_rejection
+cf
+sextant avionique s.a. v. analog devices inc. 172_f.3d_817 829-30 49_u.s.p.q.2d_1865 1873 fed.cir.1999
+if that were permitted amendments made in response to a ¡± 102 or ¡± 103 rejection would tend to be disguised as responding to the ¡± 112 rejection in an attempt to avoid the creation of prosecution_history_estoppel
+as noted above warner-jenkinson directs that an examination of the reasoning behind an amendment must be made in order to determine what subject_matter if any was surrendered
+520 u.s. at 33_n._7 117_s.ct._1040
+
+the applicants double_reference to a process` sequence' in response to the ¡± 103 rejection over walden in view of boleky indicates that the applicant intended a specific order to the process_steps in the claims as the district_court held
+further the cancellation of claim 18 which claimed insulated gate_masking_processes and the inclusion of much of the canceled claim_language in claim 17 is persuasive evidence of an intent on the part of the applicant to disclaim naked_gate_processes
+specifically additional step [ three ] in claim 17 of` forming a first_insulation_layer over said plurality of first_gate_electrodes' and the additional_language in step [ four ] where the edges of the implanted_barrier_regions are to be aligned with the` vertical_edges of the insulation_layer' are direct quotations from canceled claim 18
+to be sure the language` prior to' from claim 18 was not incorporated into claim 17
+yet the placement of the insulation step [ three ] before the implantation step [ four ] in combination with the cancellation of claim 18 further demonstrates the applicants surrender of subject_matter was directed to naked_gate_processes
+
+we also consider important as discussed by the district_court that the applicant was aware of the disclosure of naked_gate_processes in dr._erbs article citing it in the contemporaneous divisional_application directed to the semiconductor_device
+the district_court noted that the difference between the claimed invention and the disclosure in dr._erbs article was that the latter was directed to naked masking process
+
+based on the totality of the evidence surrounding the prosecution of the674_patent we are convinced that the district_court correctly held that the amendments were made for purposes related to patentability in response to prior_art and not solely to correct drafting errors as loral asserts
+because application claim 17 claim 1 of the674_patent was amended for the purposes of patentability prosecution_history_estoppel now precludes loral from reclaiming the subject_matter surrendered by that amendment
+the subject_matter surrendered was directed to naked_gate_masking_processes
+thus loral can not assert the doctrine of equivalents against sonys accused process which unquestionably involved exactly those naked_gate_masking_processes
+
+finally loral argues that the discussion in response to the ¡± 103 rejection indicates that amended claim 17 still encompassed both naked and insulated gate_processes
+in particular loral relies upon the statement that` [ t ] he use of the insulated gate as a mask shows a technique that is generally known in the semiconductor_art'
+*1327 loral asserts that this admission indicates that the examiner could not have relied on the distinction between naked and insulated gate_processes as the reason for granting the patent
+furthermore loral notes that the krambeck patent cited by the examiner and the testimony of sonys expert witnesses clearly indicate the interchangeability of naked and insulated gate_masking_processes and the obviousness of one over the other
+thus loral argues that naked_gate_processes could not be subject_matter which the applicant disclaimed through amendment
+rather loral relies on the statement that` [ t ] he present_invention is directed to a process_sequence which includes this masking_feature as one step but which further includes the unique and distinctive_steps of connecting a single_first_gate_electrode to a single_adjacent_second_gate_electrode to form a composite_gate_electrode'
+
+if this were the only pertinent part of the prosecution_history lorals argument might have appeal
+however the entire record must be analyzed using an objective standard to determine what has been surrendered during prosecution
+see modine mfg co. v. united_states_int l_trade_comm n 75_f.3d_1545 1555 37_uspq2d_1609 1616 fed.cir.1996
+as we have discussed the amendment to claim 17 inserting verbatim most of the language of canceled claim 18 the references to the` sequence' of the process_steps and the pertinence that dr._erbs article discussed in the abandoned divisional_application would have had if a naked_gate_masking_process had been claimed are sufficient to demonstrate a surrender by the applicant of naked_gate_masking_processes.7 this is so notwithstanding the applicants own general characterization of the distinguishing features of the invention in responding to the ¡± 103 rejection
+
+we agree with the district_court that prosecution_history_estoppel bars lorals claim of infringement of the674_patent under the doctrine of equivalents
+
+ii
+the485_patent
+the jury found that sonys ccds infringed the485_patent under the doctrine of equivalents
+on motion for jmol the district_court held that no reasonable_jury could have found that sonys devices infringed because they contained no equivalent structure to the claimed charge_sink_means and that prosecution_history_estoppel bars infringement under the doctrine of equivalents
+we agree
+
+a
+the` all elements' rule
+the disputed portion of claim 1 of the485_patent reads d._charge_sink_means having a contact for applying a bias_thereto buried within said semiconductor_material and disposed for receiving excess_charge accumulated in said light_sensing_element said charge_sink_means extending laterally from said contact toward said light_sensing_element while beneath the surface of said semiconductor_material
+( emphasis added
+the doctrine of equivalents requires that the accused device have an identical or equivalent element for each limitation contained in the claim-sometimes known as the` all elements' rule
+see warner-jenkinson 520 u.s. at 18 29 117_s.ct._1040` each element contained in a patent claim is deemed material to defining the scope of the patented invention and thus the doctrine of equivalents must be applied to individual elements of the claim not to the invention as a whole
+it is important to ensure that the application of the doctrine even as to an individual element is not allowed such broad play as to effectively eliminate that *1328 element in its entirety`
+see also dolly inc. v. spalding & evenflo cos. 16_f.3d_394 399 29_uspq2d_1767 1769 fed.cir.1994 ; perkin-elmer corp. v. westinghouse elec corp. 822_f.2d_1528 1532-33 3_uspq2d_1321 1324-25 fed.cir.1987 ; pennwalt corp. v. durand-wayland inc. 833_f.2d_931 935 4_uspq2d_1737 1739-40 fed.cir.1987 in banc
+
+claim 1 of the485_patent and the specification define the charge_sink_means both as to structure and location
+the specification calls for a distinct region of semiconductor_material doped opposite to the surrounding semiconductor_material
+the claim_language locates this structure as` buried within the semiconductor_material' and provides that it` extend [ s ] laterally [ i.e. parallel to the surface ] from said contact toward said light_sensing_element while beneath the surface of the semiconductor_material'
+the district_court properly construed the claim to mean' claim 1 of the485_patent defines the charge_sink_means as a distinct_structure of semiconductor_material doped opposite from its surrounding semiconductor_material
+the claim also locates that structure within the semiconductor_material
+according to the claim the charge_sink_means must extend parallel to the top_surface of the semiconductor and perpendicular to a contact toward a light_sensing_element'
+loral 931 f.supp.at 1023
+
+the court also noted that fig._1 of the485_patent reproduced above` provides excellent depiction of the location of the charge_sink_structure'
+id.at 1019
+the prosecution of the485_patent fully supports the district_courts claim interpretation and indicates that only a narrow range of equivalents can be afforded the charge_sink location and structure
+
+the district_court determined that sonys accused devices do not contain an equivalent to the claimed charge_sink_means and therefore can not infringe
+in the sony_device the entire_substrate_functions as charge_sink
+there is no structure doped opposite to the surrounding semiconductor_material as required by the claims of the485_patent
+because the entire_substrate_functions as a charge_sink in the sony_device nothing is` buried within' the substrate as the claim requires
+sony also has no charge_sink_structure extending laterally from the contact to the light_sensing_element
+finally sonys substrate is not` beneath the surface' as contemplated by the claim_language
+accordingly it is quite clear that sonys device contains no equivalent to the precisely described charge_sink in the485_patent
+the district_court correctly held that sony can not infringe under the doctrine of equivalents
+
+b
+prosecution history estoppel
+we also agree with the district_court that prosecution_history_estoppel would bar loral from claiming that sonys devices infringe under the doctrine of equivalents
+prosecution_history_estoppel is a question of law that we review de novo
+see cybor 138 f.3d at 1460 46 uspq2d at 1178
+
+when the application for claim 1 of the485_patent was first filed the charge_sink limitation read charge_sink_means buried within said semiconductor_material and disposed in proximity to said light_sensing_element for receiving excess_charge accumulated in said light_sensing_element
+
+the examiner rejected application_claim 1 and other claims on the ground that` these claims do not recite the location of the charge_sink_region other than it be within the semiconductor_material and adjacent to the light sensitive element
+this reads on surface diffused sinks like [ the prior_art ]'
+in response application_claim 1 was amended to read charge_sink_means buried within said semiconductor_material and disposed for receiving excess_charge accumulated in said light_sensing_element said charge_sink_means extending laterally toward *1329 said light_sensing_element while beneath the surface of said semiconductor_material
+in response to additional objections by the examiner the claim was further amended to better define the location of the charge_sink_means
+because these amendments were made to overcome the examiners prior_art based rejections loral is estopped from reclaiming the relinquished subject_matter
+we agree with the district_court that loral is limited to a charge_sink_means that is a separate_structure buried within the substrate extending laterally from a contact toward the light_sensor
+prosecution_history_estoppel bars loral from recapturing under the doctrine of equivalents claim scope encompassing the sony_device
+
+the district_court therefore correctly granted jmol to sony that it did not infringe the485_patent
+
+conclusion
+for the reasons set forth above the judgment of the district_court is affirmed
+
+affirmed
+all citations
+181_f.3d_1313 50_u.s.p.q.2d_1865
+footnotes
+* circuit_judge clevenger circuit_judge rader and circuit_judge schall did not participate in the vote
+** senior_circuit_judge glenn l. archer jr. vacated the position of chief judge on december 24 1997
+1
+the court granted sonys motion for summary_judgment of literal non-infringement of the485_patent but this has not been appealed
+2
+the proceedings against this latter group of defendants was severed and stayed after they agreed to be bound by certain rulings made in the cases against the manufacturing_defendants from whom they purchased the semiconductors
+3
+the district_court granted sonys jmol motion pertaining to infringement under the doctrine of equivalents of the674_patent on three grounds first that the erb_article is ¡± 102 a prior_art ; second that the work of drs
+erb and su which culminated in the article is ¡± 102 g prior_art ; and third that prosecution_history_estoppel applies
+because we agree with the district_court as to the third ground we need not consider the first two grounds for granting jmol
+4
+the jury also found that neither the article nor the antecedent work of dr._erb and dr. su were prior_art and therefore did not limit the application of the doctrine of equivalents
+5
+claim 17 was additionally rejected under 35 u.s.c.¡± 102 as anticipated by either krambeck u.s._patent_no._3735,156 or doo u.s._patent_no._3796,928
+as this aspect of the prosecution_history was not relied upon by the district_court we do not consider it further
+6
+claim 17 was further amended by examiners amendment at the close of prosecution
+claim 17 was renumbered as claim 1 when the674_patent issued
+7
+because it is not necessary to our decision we express no opinion on the district_courts conclusion of an` unmistakable surrender or abandonment' of naked_gate_processes even if the amendments were made solely to address the ¡± 112 rejection
+loral 931 f.supp.at 1038
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+loral_fairchild_corp. v. sony corp. 181_f.3d_1313 1999 50_u.s.p.q.2d_1865
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

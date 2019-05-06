@@ -1,0 +1,370 @@
+882_f.3d_1121
+united states court of appeals federal circuit
+aatrix software inc. plaintiff-appellant
+v. green shades software inc. defendant-appellee
+2017-1452
+| decided february 14 2018
+synopsis
+background owner of patents directed to systems and methods for designing creating and importing data into a viewable_form on a computer brought infringement action
+competitor moved to dismiss for patent invalidity
+the united_states_district_court for the middle_district of florida no._315-cv-00164-hes-mcr harvey e. schlesinger senior judge 2016_wl_1375141 determined that claims were invalid and 2016_wl_7206173 denied patent_owners motion for leave to amend
+patent owner appealed
+
+holdings the court of appeals moore circuit_judge held that
+
+patent claim was not ineligible as directed to intangible_embodiment and
+
+district_courts denial of patent_owners motion to amend complaint was abuse of discretion
+
+vacated in part reversed in part and remanded
+
+reyna circuit_judge filed an opinion concurring in part and dissenting in part
+
+procedural posture s on appeal ; motion to dismiss for failure to state a claim ; motion to amend the complaint
+*1123 appeal from the united_states_district_court for the middle_district of florida in no._315-cv-00164-hes-mcr senior judge harvey e. schlesinger
+attorneys and law firms
+john bentley lunseth ii briggs & morgan pa minneapolis mn argued for plaintiff-appellant
+joseph w. bain shutts & bowen llp west palm beach fl argued for defendant-appellee
+also represented by harold timothy gillis jacksonville fl
+before moore reyna and taranto circuit_judges
+opinion
+opinion concurring-in-part dissenting-in-part filed by circuit_judge reyna
+moore circuit_judge
+aatrix_software inc.` aatrix' appeals the united_states_district_court for the middle_district of floridas dismissal under rule 12 b 6 in which the district_court held claims 1 2 and 22 of u.s. patent no._7171,615`615_patent` and claims 1 13 and 17 of u.s. patent no._8984,393`393_patent` invalid as directed to ineligible_subject_matter under 35 u.s.c.¡± 101
+aatrix also appeals the district_courts denial of its motion for leave to file a second amended complaint
+we vacate the district_courts grant of the motion to dismiss reverse its denial of aatrixs motion for leave to file a second amended complaint and remand for further proceedings
+
+background
+the615 and the393_patent s have essentially the same specification and are directed to systems and methods for designing creating and importing data into a viewable_form on a computer so that a user can manipulate the form data and create viewable_forms and reports
+'615_patent at abstract
+the preferred_embodiment in the specification describes a data_processing_system which has three main components a form_file a data_file and a viewer
+id.at 3:4-31 fig._1
+the form_file is created using in-house form development tools and is designed to model the physical characteristics of an existing form including the calculations and rule_conditions required to fill in the form
+id.at 3:5-14
+the data_file referred to as the aatrix universal file` auf' allows data from third-party_applications to be` seamlessly imported' into the form_file program to populate the form fields
+id.at 3:14-22
+the viewer generates a report by merging the data in the auf file with the fields in the form_file performing calculations on the data and allowing the user to review and change the field values
+id.at 3:24-31
+claim 1 of the615_patent is representative emphases added 1
+a data_processing_system for designing creating and importing data into a viewable_form viewable by the user of the data_processing_system comprising a a form_file that models the physical representation of an original paper *1124 form and establishes the calculations and rule_conditions required to fill in the viewable_form ; b a form_file creation program that imports a background_image from an original_form allows a user to adjust and test-print the background_image and compare the alignment of the original_form to the background test-print and creates the form_file ; c a data_file containing data from a user_application for populating the viewable_form ; and
+( d a form viewer program operating on the form_file and the data_file to perform calculations allow the user of the data_processing_system to review and change the data and create viewable_forms and reports
+
+aatrix sued green_shades_software inc.` green_shades' for infringement of the615 and393_patent s. green_shades moved to dismiss the complaint under rule 12 b 6
+it argued all claims in the asserted patents were ineligible under ¡± 101
+aatrix argued the motion should be denied` to permit claim_construction to go forward and for the [ district_court ] to acquaint itself with the actual inventions'
+j.a
+198 ; see also j.a
+5 204
+aatrix also filed declarations discussing the claimed invention which the district_court did not consider in its analysis
+
+the district_court granted green_shades motion and held every claim ineligible under ¡± 101
+j.a
+33 holding` the615 and393_patent s to be drawn to ineligible_subject_matter'
+though not argued by the parties the district_court concluded claim 1 is not directed to any tangible_embodiment and therefore not directed to eligible_subject_matter under ¡± 101
+the district_court applied the alice/mayo two-step analysis to the remaining claims at issue
+the court held that615_patent claim 2 is directed to the abstract_idea of` collecting organizing and performing calculations on data to fill out forms a fundamental human activity that can be performed using a pen and paper'
+j.a
+23
+it found that the claim_elements do not supply an inventive_concept
+it concluded615_patent claim 22 and393_patent claims 1 13 and 17 are substantively the same as615_patent claim 2 and similarly directed to abstract_ideas without inventive_concepts
+
+aatrix moved to modify and vacate the judgment for reconsideration and for leave to amend the complaint
+it sought reconsideration of the district_courts tangible_embodiment analysis and leave to file a second amended complaint that it argued supplied additional allegations and evidence that would have precluded a dismissal under ¡± 101 at the rule 12 b 6 stage
+the district_court denied these motions stating that` [ u ] pon consideration of the filings and the relevant_case_law the [ district_court ] sees no reason to reconsider its prior_determination
+accordingly [ aatrixs ] motions will be denied'
+j.a
+34
+
+aatrix timely appealed
+we have jurisdiction under 28 u.s.c.¡± 1295 a
+
+discussion
+i
+`` we review a district_courts dismissal for failure to state a claim under the law of the regional circuit'
+content_extraction & transmission llc v. wells fargo bank nat l ass n 776_f.3d_1343 1346 fed
+cir
+2014
+the eleventh_circuit reviews the grant of rule 12 b 6 motions de novo accepting as true the complaints factual_allegations and construing them in the light most favorable to the plaintiff
+speaker v. u.s. dep't of health & human servs
+ctrs
+for disease control & prevention 623_f.3d_1371 1379 11th_cir
+2010
+
+*1125 we have held that patent_eligibility can be determined at the rule 12 b 6 stage
+see e.g. genetic techs ltd. v. merial l.l.c. 818_f.3d_1369 1373 fed
+cir
+2016 ; content_extraction 776 f.3d at 1346 1351
+this is true only when there are no factual_allegations that taken as true prevent resolving the eligibility question as a matter of law
+indeed we have explained that` plausible factual_allegations may preclude dismissing a case under ¡± 101 where for examplenothing on th [ e ] record.. refutes those allegations as a matter of law or justifies dismissal under rule 12 b 6
+`` fairwarning_ip llc v. iatric sys. inc. 839_f.3d_1089 1097 fed
+cir
+2016 quoting bascom glob
+internet servs. inc. v. at & t mobility llc 827_f.3d_1341 1352 fed
+cir
+2016
+if there are claim_construction disputes at the rule 12 b 6 stage we have held that either the court must proceed by adopting the non-moving partys constructions bascom 827 f.3d at 1352 ; content_extraction 776 f.3d at 1349 or the court must resolve the disputes to whatever extent is needed to conduct the ¡± 101 analysis which may well be less than a full formal claim_construction
+genetic techs. 818 f.3d at 1373
+
+this is not a case where patent_ineligibility was properly adjudicated with finality at the rule 12 b 6 stage
+the district_court erred to the extent it determined that claim 1 of the615_patent is ineligible because it is not directed to a tangible_embodiment
+the district_court granted this rule 12 b 6 motion without claim_construction
+we have some doubt about the propriety of doing so in this case but need not reach that issue because it did err when it denied leave to amend without claim_construction and in the face of factual_allegations spelled out in the proposed second amended complaint that if accepted as true establish that the claimed combination contains inventive components and improves the workings of the computer
+
+as a preliminary matter the district_court erred to the extent it held that claim 1 of the615_patent is ineligible solely because it is directed to an intangible_embodiment
+we have held that claims to pure data and claims to transitory signals embedded with data are directed to ineligible_subject_matter under ¡± 101
+digitech image techs. llc v. elecs
+for imaging inc. 758_f.3d_1344 1348-50 fed
+cir
+2014 ; in re nuijten 500_f.3d_1346 1353-57 fed
+cir
+2007
+but the rationale of those decisions-failure of the claimed matter to come within any of the four statutory categories process machine manufacture composition of matter-does not apply here
+it remains true after alice corp. pty
+v. cls bank international -- - u.s. -- -- 134_s.ct._2347 189_l.ed.2d_296_(2014) that` [ a ] ¡± 101 analysis begins by identifying whether an invention fits within one of the four statutorily provided categories of patent-eligible_subject_matter'
+ultramercial inc. v. hulu llc 772_f.3d_709 713-14 fed
+cir
+2014 post-alice ; digitech 758 f.3d at 1348-50 post-alice
+claim 1 of the615_patent meets that requirement
+like many claims that focus on software innovations it is a system claim
+it claims a data_processing_system which clearly requires a computer operating software a means for viewing and changing data and a means for viewing forms and reports
+this is very much a tangible system.1 the district_court *1126 erred in holding claim 1 ineligible because it was directed to intangible matter and should have instead performed an alice/mayo_analysis of claim 1
+
+the district_court did perform an alice/mayo_analysis on the remaining claims and dismissed pursuant to rule 12 b 6 concluding that the claims are ineligible
+the subsequent refusal to permit an amended complaint was erroneous because at that stage there certainly were allegations of fact that if aatrixs position were accepted would preclude the dismissal
+
+the district_court denied without explanation aatrixs motion to amend its complaint
+the eleventh_circuit reviews a district_courts denial of leave to amend for abuse of discretion
+mann v. palmer 713_f.3d_1306 1316 11th_cir
+2013
+a district_court should freely give leave to amend a complaint` when justice so requires'
+fed
+r. civ
+p. 15 a 2 ; see perez v. wells fargo n.a. 774_f.3d_1329 1340 11th_cir
+2014
+a district_court may deny a motion to amend on numerous grounds such as` undue delay undue prejudice to the defendants and futility of the amendment'
+mann 713 f.3d at 1316 ; see also perez 774 f.3d at 1340-41 listing other factors
+the eleventh_circuit reviews de novo a district_courts denial of leave to amend for futility
+mann 713 f.3d at 1316
+a justification for denying leave to amend may be declared or apparent from the record
+see garfield v. ndc health corp. 466_f.3d_1255 1270 11th_cir
+2006 citing foman v. davis 371_u.s._178 182 83_s.ct._227 9_l.ed.2d_222_(1962)
+
+in this case the district_court denied aatrixs motions stating in full that` [ u ] pon consideration of the filings and the relevant_case_law the court sees no reason to reconsider its prior_determination'
+j.a
+34
+the district_court gave no reason for its denial of aatrixs motion to amend and this is not a case where the record contains` ample and obvious grounds for denying leave to amend'
+rhodes v. amarillo hosp
+dist. 654_f.2d_1148 1154 5th cir
+19812 indeed the only argument green_shades makes on appeal is that the amendment would be futile because the claims` at issue are invalid on their face and a more carefully drafted complaint would do nothing to alter' their validity
+appellees br
+4 12
+we do not agree
+
+the proposed second amended complaint contains allegations that taken as true would directly affect the district_courts patent_eligibility analysis
+these allegations at a minimum raise factual disputes underlying the ¡± 101 analysis such as whether the claim_term` data_file' constitutes an inventive_concept alone or in combination with other elements sufficient to survive an alice/mayo_analysis at the rule 12 b 6 stage
+alice/mayo_step two requires that we consider whether the claims contain` aninventive_concept sufficient totransform the claimed abstract_idea into a patent-eligible_application'
+alice 134 s.ct.at 2357 quoting mayo collaborative servs
+v. prometheus labs. inc. 566_u.s._66 72 79 132_s.ct._1289 182_l.ed.2d_321_(2012)
+we have held that patentees who adequately allege their claims contain inventive_concepts survive a *1127 ¡± 101 eligibility analysis under rule 12 b 6
+see e.g. bascom 827 f.3d at 1352 so holding after analysis of allegations
+here allowing aatrix to file the proposed amended complaint which alleges facts directed to the inventive_concepts in its claimed invention would not be futile
+see fairwarning_ip 839 f.3d at 1097
+
+aatrixs proposed second amended complaint supplies numerous allegations related to the inventive_concepts present in the claimed form_file technology
+it describes the development of the patented invention including the problems present in prior_art computerized form_file creation
+j.a
+418-33
+it then presents specific_allegations directed to` improvements and problems solved by the aatrix patented inventions'
+j.a
+454-57 emphasis removed
+as directed to the claimed data_file for example the proposed second amended complaint alleges the inventions claimed in the aatrix_patents allow data to be imported into the viewable_electronic_form from outside_applications
+prior art forms solutions allowed data to be extracted only from widely available databases with published database schemas not the proprietary_data_structures of application software
+the inventions of the aatrix_patents allowed data to be imported from an end user_application without needing to know proprietary database schemas and without having to custom program the form_files to work with each outside application
+the inventions of the aatrix_patents permit data to be retrieved from a user_application and inserted into a form eliminating the need for hand typing in the values and eliminating the risk of transcription error
+j.a
+455 ?
+109 ; see also j.a
+431-32 ? ?
+43-46 describing the development and success of the claimed data_file despite the difficulty in obtaining data from other software vendors given proprietary_data_structures
+these allegations about the claimed data_file claim that the data_file is directed to an improvement in importing data from third-party_software_applications
+
+the complaint also alleges that` [ t ] his invention in-creased the efficiencies of computers processing tax forms'
+j.a
+429 ?
+39
+the complaint alleges that the claimed invention` saved storage space both in the users computers ram random access memory which is fast short-term storage used by running programs and hard disk permanent slower storage used for files and programs when not running'
+j.a
+429 ?
+38
+the claimed invention according to the complaint reduces the risk of` thrashing' a condition which slowed down prior_art systems
+j.a
+429-30 ?
+39
+the complaint alleges that the claimed software uses less memory results in faster processing speed and reduces the risk of thrashing which makes the computer process forms more efficiently
+j.a
+429 ?
+39
+these allegations suggest that the claimed invention is directed to an improvement in the computer technology itself and not directed to generic components performing conventional_activities
+we have repeatedly held that inventions which are directed to improvements in the functioning and operation of the computer are patent eligible
+see e.g. visual memory llc v. nvidia corp. 867_f.3d_1253 1258-59 fed
+cir
+2017 ; amdocs israel ltd. v. openet telecom inc. 841_f.3d_1288 1300-02 fed
+cir
+2016 ; enfish llc v. microsoft corp. 822_f.3d_1327 1336 fed
+cir
+2016 ; see also ddr holdings llc v. hotels.com l.p. 773_f.3d_1245 1257 fed
+cir
+2014
+viewed in favor of aatrix as the district_court must at the rule 12 b 6 stage the complaint alleges that the claimed combination improves the functioning and operation of the *1128 computer itself
+these allegations if accepted as true contradict the district_courts conclusion that the claimed combination was conventional or routine
+j.a
+26
+therefore it was an abuse of discretion for the district_court to deny leave to amend
+
+while the ultimate determination of eligibility under ¡± 101 is a question of law like many legal_questions there can be subsidiary fact questions which must be resolved en route to the ultimate legal determination
+relevant to this case the second_step of the alice/mayo_test requires examining` the elements of the claim to determine whether it contains aninventive_concept sufficient totransform the claimed abstract_idea into a patent-eligible_application'
+alice 134 s.ct.at 2357 quoting mayo 566 u.s. at 72 79 132_s.ct._1289
+if the elements involve` well-understood routine [ and ] conventional_activity previously engaged in by researchers in the field' mayo 566 u.s. at 73 132_s.ct._1289 they do not constitute an` inventive_concept'
+we have explained that the second_step of the alice/mayo_test is satisfied when the claim limitations` involve more than performance ofwell-understood routine [ and ] conventional_activities previously known to the industry
+`` content_extraction 776 f.3d at 1347-48 quoting alice 134 s.ct.at 2359 ; see also affinity_labs of tex. llc v. directv llc 838_f.3d_1253 1262 fed
+cir
+2016 holding that the features constituting the inventive_concept in step two of alice/mayo` must be more thanwell-understood routine conventional_activity` quoting mayo 566 u.s. at 79-80 132_s.ct._1289 ; intellectual_ventures i llc v. erie indem co. 850_f.3d_1315 1328 fed
+cir
+2017 same ; bascom 827 f.3d at 1350` [ i ] t is of course now standard for a ¡± 101 inquiry to consider whether various claim_elements simply recitewell-understood routine conventional activit [ ies ]
+`` quoting alice 134 s.ct.at 2359
+whether the claim_elements or the claimed combination are well-understood routine conventional is a question of fact
+and in this case that question can not be answered adversely to the patentee based on the sources properly considered on a motion to dismiss such as the complaint the patent and materials subject to judicial notice
+
+there are concrete_allegations in the second amended complaint that individual elements and the claimed combination are not well-understood routine or conventional_activity
+there are also concrete_allegations regarding the claimed combinations improvement to the functioning of the computer
+we have been shown no proper basis for rejecting those allegations as a factual matter
+
+below even on the motion to dismiss aatrix argued the district_court should have held claim_construction proceedings to obtain a full_understanding of the claims prior to granting green_shades motion to dismiss
+it argued the claims are directed to specific structures defined in the claim language
+on the other hand aatrix did not clearly explain which claim_terms required construction or propose a construction of any particular term
+we need not decide whether it was proper on that record for the court to grant the motion to dismiss without claim_construction the need for claim_construction might be apparent just from the claim_terms themselves to arrive at` a full_understanding of the basic character of the claimed subject_matter'
+bancorp servs. l.l.c
+v. sun life assur co. of canada u.s. 687_f.3d_1266 1273-74 fed
+cir
+2012
+we conclude that aatrix is entitled to file its proposed second amended complaint and that ruling makes it unnecessary to decide whether the district_court erred by ruling on the ¡± 101 motion prior to claim_construction
+*1129 the briefing and argument on appeal demonstrate a need for claim_construction to be conducted on remand after the amended complaint is filed
+
+on appeal aatrix argues for example that the claimed` data_file' imports data from third-party_applications into a viewable_electronic_form without program-ming each form_file to work with each third-party application which improves interoperability with third-party_software
+aatrix cites the specification as support for its argument that the claimed data_file contains an inventive_concept directed to improved importation of data and interoperability with third-party_software
+it explains that through the data_file` data from the vendor_application is seamlessly imported into the program' and the data_file imports` only the data for a selected reporting period based on the guidelines programmed into the forms'
+'615_patent at 3:14-19 ; 10:59-67 ; see also id.at 12:21-24` by examining the data requirements for a form the vendor_application can determine what data it should supply in the auf to correctly fill in as much of the form as possible`
+the specification describes the structure of the data_file including the` forms index file' that` provides the vendor_application with information on the forms available to the program'
+id.at 9:46-60 ; see id.at 9:45-12:24
+it explains that` allow [ ing ] data to be imported into the viewable_electronic_form from outside_applications' is a` principal object and advantage of the present invention'
+id.at 2:46-48 ; see also id.at 5:1-6` in its preferred_embodiment the main program 800 pulls information from the users payroll or accounting applications export_file thus filling in 900 certain information on the form without the user having to type it in
+with the export_file a lot of information that would normally have to be manually filled in is tagged for populating fields`
+green_shades argues that this purported improvement in importation of data is in fact a routine and conventional use of a computer however at oral argument green_shades conceded that nothing in the specification describes this importation of data as conventional
+oral arg.at 34:34-35:53
+
+in assessing the claims under alice/mayo_step two the district_court found that the claimed` data_file containing data from a user_application for populating the viewable_form' describes` awell understood androutine component and function of a computer'
+j.a
+26
+the district_court supplied no reasoning or evidence for its finding that the claimed data_file` describes awell understood androutine component and function of a computer' j.a
+26 nor is there any in the record at this stage of the proceedings
+
+at least since the proposal of the second amended complaint and perhaps even before allegations as to facts and the proper construction of the claims have precluded the courts conclusion that the claimed` data_file' is` awell understood androutine component and function of a computer'
+j.a
+26
+the` data_file' limitation may reflect as aatrix argues an improvement in the importation of data from third-party_software_applications
+cf
+enfish 822 f.3d at 1337` here the claims are not simply directed to any form of storing tabular data but instead are specifically directed to a self-referential table for a computer database`
+in light of the allegations made by aatrix the district_court could not conclude at the rule 12 b 6 stage that the claimed elements were well-understood routine or conventional
+cf
+affinity_labs of tex. llc v. amazon.com inc. 838_f.3d_1266 1270 fed
+cir
+2016 rejecting criticism of conclusion that the claims recited` routine and generic processing and storing capabilities of computers *1130 generally' where it was not suggested those elements were new or inventive ; content_extraction 776 f.3d at 1347 noting the concept of` data collection recognition and storage is undisputedly well-known' emphasis added
+thus allowing aatrix to file the proposed amended complaint would not have been futile
+
+we vacate the district_courts dismissal pursuant to rule 12 b 6
+there are factual_allegations in the second amended complaint which when accepted as true prevent dismissal pursuant to rule 12 b 6
+nothing in this opinion should be viewed as going beyond the rule 12 b 6 stage
+summary judgment for example involves different standards than rule 12 b 6
+on remand the district_court should resolve as necessary claim_construction issues
+
+conclusion
+for the foregoing reasons we vacate the district_courts dismissal under rule 12 b 6 and reverse its denial of aatrixs motion for leave to file a second amended complaint
+
+reversed-in-part vacated-in-part and remanded
+
+reyna circuit_judge concurring-in-part dissenting-in-part
+i concur with the majoritys decision to vacate and remand to the district_court on the motion to dismiss
+like the majority i find that the district_court erred in its conclusion that claim 1 of the615_patent was directed to an abstract_idea because the patent lacked a` tangible_embodiment'
+i believe that the` tangible_embodiment' requirement imposed by the district_court also underlined its decision to deny aatrixs motion for leave to file a second_amended_complaint.1 therefore i would vacate and remand on the motion for leave to file a second_amended_complaint as well
+as a court we should have decided on this issue alone
+
+i respectfully disagree with the majoritys broad statements on the role of factual evidence in a ¡± 101 inquiry
+our precedent is clear that the ¡± 101 inquiry is a legal_question
+see intellectual_ventures i llc v. capital one fin corp. 850_f.3d_1332 1338 fed
+cir
+2017
+in a manner contrary to that standard the majority_opinion attempts to shoehorn a significant factual component into the alice ¡± 101 analysis
+the problem here is twofold
+
+first the majority_opinion attempts to shift the character of the ¡± 101 inquiry from a legal_question to a predominately factual_inquiry
+the risk of this approach is that it opens the door in both steps of the alice inquiry for the introduction of an inexhaustible array of extrinsic evidence such as prior_art publications other patents and expert opinion.2 similarly the majority_opinion strongly suggests that the district_court must require claim_construction where the meaning of a claim_term is placed in controversy even where as here proposed claim_constructions are not presented to the court
+maj. op.at 1228-29
+one effect of this approach is that a plaintiff facing a 12 b 6 motion may simply amend its complaint to allege extrinsic facts that once alleged must be taken as true regardless of its consistency with the intrinsic record
+the majority asserts that its opinion is not intended to extend beyond the 12 b 6 stage but that is not the problem
+the problem is that the 12 b 6 procedure is converted into a full blown *1131 factual_inquiry on the level of ¡± 102 ¡± 103 and ¡± 112 inquiries
+clearly this approach would turn the utility of the 12 b 6 procedure on its head in particular in the context of ¡± 101 which is primarily focused on the` allegations' in the patent-the claims and written description
+that said despite the majoritys attempt to cabin its opinion to 12 b 6 i see little to prevent argument that these notions extend also to summary judgment proceedings
+
+second the posture of the case on appeal does not support the majority_opinion
+the motion to dismiss on appeal only challenges the first amended complaint
+there was no motion to dismiss filed challenging the second_amended_complaint
+therefore the` new' allegations and evidence3 discussed by the majority were not raised before the district_court
+thus the part of the majority_opinion devoted to the second_amended_complaint is dicta
+as an appellate court we should not pass judgment on matters not addressed by the district_court
+here we must first give the district_court the opportunity to perform a ¡± 101 analysis in light of this new complaint which we can later review if at all
+see singleton v. wulff 428_us_106 120 96_s.ct._2868 49_l.ed.2d_826_(1976)` it is the general rule of course that a federal appellate court does not consider an issue not passed upon below`
+nor should we prejudge whether the second_amended_complaint survives a rule 12 b 6 motion to dismiss in the first instance particularly when the defendant green_shades has had no opportunity to present arguments with respect to the new pleading
+
+the majority attempts to expand this courts law regarding patent_eligibility under ¡± 101 at the rule 12 b 6 stage
+this contradicts our case law that patent_ineligibility under ¡± 101 is a question of law and that it can be appropriately decided on a motion to dismiss
+see e.g. secured mail sols
+llc v. universal wilde inc. 873_f.3d_905 912 fed
+cir
+2017` [ t ] his court has determined claims to be patent-ineligible at the motion to dismiss stage based on intrinsic evidence from the specification without need forextraneous fact finding outside the record
+``
+
+for these reasons i respectfully concur-in-part and dissent-in-part from the majority_opinion
+
+all citations
+882_f.3d_1121 125_u.s.p.q.2d_1737
+footnotes
+1
+the district_court recognized that claims drawn to a computer system are not intangible elsewhere in its analysis
+in assessing dependent claim 2 of the615_patent the district_court noted that it is directed to a tangible_embodiment because it adds a client computer and server computer limitation to the data_processing_system of claim 1
+it then explained that claim 2` describes the structural components and functional limitations of said components of a data_processing_system i.e. software program on generic computers'
+j.a
+22 emphasis added ; see also j.a
+24
+it failed however to appreciate that claim 1 is similarly directed to a data_processing_system
+2
+the eleventh_circuit adopted as binding precedent all decisions of the former fifth circuit handed down before october 1 1981
+bonner v. city of prichard ala. 661_f.2d_1206 1209 11th_cir
+1981 en banc
+1
+for purposes of this dissent` second_amended_complaint' refers to the proposed second_amended_complaint that was filed on april_26,_2016
+2
+see infra note 3
+3
+aatrixs new allegations in the second_amended_complaint included the background and development of the inventions of the aatrix_patents ; specific_allegations and diagrams spelling out the technology of the aatrix_patents ; the prosecution history of the patents with the relevant uspto file wrappers attached as exhibits ; a large number of prior_art and patentably distinct means and methods of creating displaying and filling out forms on computers such as aatrixs own` monolithic_software ;' hundreds of search results by the uspto disclosing prior_art in the field ; eleven patents or publications disclosing prior_art and/or patentably distinct means and methods cited by the uspto in the prosecution of the applications for the aatrixs patents ; several products for creating designing and filling out forms allegedly distinct from aatrixs patents on sale before the date of invention ; alternate methods for creating displaying and filling out forms such as superforms and the use of sdks to launch monolithic_software ; and the allegedly many improvements objectives and advantages over the prior_art that the inventions of aatrixs patents provide including improvements in the functioning of the computer components of the inventions
+j.a
+407-09
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+aatrix_software inc. v. green_shades_software inc. 882_f.3d_1121 2018 125_u.s.p.q.2d_1737
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

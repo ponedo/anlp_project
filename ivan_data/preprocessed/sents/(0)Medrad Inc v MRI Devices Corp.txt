@@ -1,0 +1,219 @@
+	Background:
+	Owner of patent for overlapping radio frequency coils used in magnetic resonance imaging (MRI) sued competitor for infringement.
+	The United States District Court for the Western District of Pennsylvania, Terrence F. McVerry, J., determined that patent was invalid, and owner appealed. 
+	The Court of Appeals, Bryson, Circuit Judge, held that patent was invalid as anticipated. 
+	Opinion Medrad, Inc., brought this action in the United States District Court for the Western District of Pennsylvania, CA No. 02-2044, alleging that MRI Devices Corp. ("MRIDC") was infringing Medrad's patent, U.S. Patent No. 6,396,273 ("the '273 patent").
+	The district court referred the case to a magistrate judge under 28 U.S.C. �� 636(b)(1).
+	After a hearing, the magistrate judge recommended that MRIDC's motion for partial summary judgment of invalidity be granted and that Medrad's motion for a preliminary injunction be denied.
+	The district court adopted the magistrate judge's recommendation.
+	We affirm. 
+	This case arises from a dispute over devices known as radio frequency coils ("RF coils"), which are used in magnetic resonance imaging ("MRI").
+	MRI uses nuclear magnetic resonance to create detailed images of a patient's internal anatomy.
+	See generally David D. Stark & William G. Bradley, Jr.,
+	1 Magnetic Resonance Imaging 1-14 (3d ed.1999).
+	In the MRI process, a portion of the patient's body is placed in an extremely strong magnetic field.
+	The magnetic field causes the nuclei within the atoms of the body to partially align with the magnetic field in equilibrium.
+	The partial alignment of the nuclei creates a net magnetization within the body in the direction of the magnetic field.
+	A second, time-varying, magnetic field is then created in an orthogonal direction by applying electrical current in pulses to RF coils that surround the body.
+	The second magnetic field drags the net magnetization of the body away from the direction of the main magnetic field.
+	According to the laws of quantum mechanics, the affected nuclei, and thus the net magnetization, will precess around the direction of the main magnetic field at a rate known as the Larmor frequency, before dephasing and eventually realigning with the main magnetic field.
+	E. Mark Haacke, Magnetic Resonance Imaging:
+	Physical Principles and Sequence Design 5-8 (1999).
+	The precession induces a current in the RF coils, which can be measured.
+	That signal can then be used to reconstruct an image of the internal tissues of the portion of the patient's body that was under study. 
+	It was well known in the prior art that the current in the RF coils could be detected at a much higher signal-to-noise ratio if many small overlapping RF coils were used in a "phased array" to receive the signal from the precessing nuclei.
+	It was advantageous for the same coils to be used both to create the time-varying magnetic field ("transmission") and to receive the resulting signal from the precessing nuclei ("reception").
+	The problem, however, was that identical pulses of current could not be passed through the overlapping coils during transmission, because that would result in the magnetic field in the overlap region being roughly twice as large as in the areas of the coil outside of the overlap.
+	According to the inventor, George J. Misic, that is the problem the '273 patent was meant to solve. 
+	Claim 1 of the '273 patent is representative of the six claims that Medrad asserted against MRIDC.
+	It provides as follows: 
+	A magnetic resonance imaging system for forming images of a region of interest, comprising: 
+	a first phased array coil formed of a plurality of electrically conductive members and defining a first array volume; a second phased array coil formed of a second plurality of electrically conductive members and defining a second array volume, said second phased array coil disposed at least partially within the first array volume, said first and second array phased array coils cooperating to define a coil subsystem; and a coil interface subsystem operably coupled to the coil subsystem, said coil interface subsystem, in a first selectable state, processing RF power such that a substantially uniform first magnetic field is applied to the region of interest, and, in a second selectable state, receiving a response of the region of interest to the first magnetic field. 
+	The district court granted summary judgment of invalidity of the six asserted claims based on its construction of certain terms in those claims.
+	The magistrate judge's report and recommendation, on which the district court's ruling was predicated, found that Medrad's invention was anticipated by a prior art publication and invention.
+	Interpreting the claim term "region of interest" to refer to the portion of the patient's body being scanned and the claim term "substantially uniform first magnetic field" to mean "a sufficient uniformity to give a good image," the magistrate judge concluded that all of the elements of the invention were found in the cited prior art.
+	The magistrate judge rejected Medrad's argument on invalidity because he concluded that Medrad's proposed definitions of the pertinent claim terms were "not supported by the ordinary use of the language or the language of the '273 patent".
+	In addition to granting summary judgment of invalidity, the district court denied the motion for a preliminary injunction and dismissed the motion for summary judgment of noninfringement as moot.  
+	For purposes of invalidity, the parties contest the court's construction of the terms "substantially uniform magnetic field" and "region of interest".
+	For purposes of infringement and the preliminary injunction, the parties additionally contest the court's construction of the terms "selectable state" and "phased array coil".
+	We review the district court's construction of claims de novo.
+	Markman v. Westview Instruments, Inc., 52 F.3d 967, 979-81 (Fed.Cir.1995). 
+1	As Mr. Misic explained, the '273 patent sought to address how to make the time-varying magnetic field spatially uniform across the imaged area in an arrangement with overlapping RF coils.
+	A uniform magnetic field is a benefit to magnetic resonance imaging because it "provides greater image uniformity. " '273 patent, col. 2, II.
+	38-39.
+	The patent solves that problem by pulsing the current to the overlapping coils with a phase delay.
+	Id., col. 5, II.
+	56-57.
+	When an appropriate delay is applied to the pulses, the magnetic field from one coil partially constructively interferes and partially deconstructively interferes with the magnetic field from the second coil in the overlap region "to provide the most uniform transmit field possible".
+	Id., col. 6, II.
+	6-7.
+	The main dispute among the parties is how uniform the magnetic field has to be and over what spatial extent, or region of interest.  
+	1.
+	The district court defined the claim term "region of interest" as "the portion of the body that is being scanned".
+	Medrad insists that such a definition is inconsistent with the purpose of the invention, which is to make it possible to take MRI images over overlapping coils.
+	See id., col. 5, II.
+	49-52.
+	In other words, as claim 1 states, the invention concerns a phased array "for forming images of a region of interest" and a phased array must include at least two coils.
+	Thus, Medrad maintains it is impossible to define "region of interest" in such a way that permits the region of interest to be located within only one coil, as the district court's definition implicitly does.
+	Medrad therefore urges us to construe the region of interest as the entire three-dimensional volume of the coil array system or, at the very least, the portion of the patient's anatomy lying within both coils. 
+	Medrad's restrictive construction fails for a number of reasons.
+	First, the claim calls for "phased array coils"; it does not call for a phased array.
+	The coils may act in certain instances as a phased array, but that does not mean they must always act as a phased array.
+	Instead, they could act individually, allowing the region of interest to lie only within one coil.
+	By analogy, a car may have four-wheel drive, but that does not mean that the car is incapable of delivering power to only two wheels. 
+	Second, it is impossible to read both claim
+	1 and dependent claim 2 together while maintaining Medrad's definition.
+	Wright Med.
+	Tech
+	., Inc. v. Osteonics Corp., 122 F.3d 1440, 1445 (Fed.Cir.1997) ("We must not interpret an independent claim in a way that is inconsistent with a claim which depends from it".).
+	Claim 1 states that in the "first selectable state" the coil interface subsystem "processes RF power such that a substantially uniform first magnetic field is applied to the region of interest".
+	Claim 2 claims the imaging system of claim 1, but with the further limitation that the coil interface subsystem is required to process and direct the RF power to "said first phased array coil or said second phased array coil" in the first selectable state.
+	In the invention of claim 2, the RF power thus goes to one coil or the other, but not both.
+	The magnetic field is created by one coil and is substantially uniform only within that coil.
+	That means that the region of interest may lie entirely within one coil and does not have to be the entire three-dimensional volume of the coil subsystem, as Medrad maintains. 
+	Third, the district court's definition is consistent with Mr. Misic's own description of the claimed invention.
+	At his deposition, he asserted that his invention applied to situations in which only one of the two coils was transmitting.
+	In fact, at trial he suggested that doing so might have unique benefits in curing certain artifacts in MRI imaging, since the "best way to do that, if you can transmit [only] over the area that you're trying to image, you won't get anything to fold in from way outside of that". 
+	Fourth, the district court's interpretation of the "region of interest" as referring to the "portion of the body being scanned" finds substantial support within the patent.
+	The preamble of claim 1 states that the invention is "for forming images of a region of interest".
+	In describing the process of forming such images, the specification states that the invention "can be used for imaging a knee, a foot, an ankle, a wrist or a hand". '273 patent, col. 5, II.
+	36-38.
+	Those examples strongly point to the "region of interest" as being the portion of the anatomy being imaged.
+	Furthermore, the patent lists, as an object of the invention, providing "a method that eliminates soft tissue artifacts ... created by prior art methods for imaging various regions of interest".
+	Id., col. 2, II.
+	31-33.
+	The reference to the problem created by having "soft tissue" in the region of interest also suggests that the region of interest is a portion of the body being imaged.
+	In addition, the reference to "forming images of a region of interest" forecloses Medrad's proposed definition of the region of interest as referring to the geometry of the cells alone, since an arbitrary position within the coils forms no image until a portion of the body is placed within it. 
+	Finally, the evidence before the court established that persons of ordinary skill in the art would concur with the court's definition.
+	Medrad's own expert agreed with the definition that the region of interest is "whatever particular part the doctor is attempting to image".
+	MRIDC's expert concurred, stating that "the region of interest [ ] is the part of the anatomy that they would be interested in viewing".  
+	2.
+	The district court defined a "substantially uniform magnetic field" as a magnetic field that is "substantially uniform to obtain useful MRI images".
+	Medrad proposes that a substantially uniform magnetic field is a magnetic field "that has largely, but not wholly, the same form throughout".
+	Although Medrad may have waived that construction by arguing it to the district court only after the magistrate judge made his recommendation, we do not have to decide the waiver issue because we agree with the magistrate judge's definition. 
+	Medrad bases its construction of "substantially uniform" on this court's interpretation of the same term in Ecolab, Inc. v. Envirochem, Inc., 264 F.3d 1358 (Fed.Cir.2001).
+	Ecolab involved a patent for a solid detergent cast used in commercial dishwashing machines.
+	The disputed claim term described the cast as a "substantially uniform alkaline detergent for ware and hard surface washing".
+	The district court construed "substantially uniform" in that case to mean "a level of continuity of the elements from top-to-bottom throughout the case such that a homogenous cleaning solution is formed over the life of the cast".
+	Id. at 1365.
+	This court reversed.
+	We noted that the claim at issue was entirely structural and contained no functional limitations.
+	In particular, we explained, the claim contained "no claimed functional requirement as to forming a homogeneous wash solution throughout the cast life," other than for the detergent "to contain components capable of 'ware and hard surface washing.' " Id. at 1366.
+	In that setting, we held that there was "no basis on which to require adding a functional limitation" under the guise of construing the term "substantially uniform".
+	A more appropriate definition, we held, would be "largely, but not wholly the same in form".
+	Id. at 1369.  
+	A particular term used in one patent need not have the same meaning when used in an entirely separate patent, particularly one involving different technology.
+	In fact, there are many situations in which the interpretations will necessarily diverge.
+	A patentee may define a particular term in a particular way, and in that event the term will be defined in that fashion for purposes of that particular patent, no matter what its meaning in other contexts.
+	See Hormone Research Found., Inc. v. Genentech, Inc.,
+	904 F.2d 1558, 1563 (Fed.Cir.1990).
+	Moreover, claim terms are typically given their ordinary and accustomed meaning as understood by one of ordinary skill in the pertinent art, and the generally understood meaning of particular terms may vary from art to art.
+	Interactive Gift Express, Inc. v. Compuserve Inc., 256 F.3d 1323, 1332 (Fed.Cir.2001); Dow Chem. Co. v. Sumitomo Chem. Co., 257 F.3d 1364, 1372 (Fed.Cir.2001).
+	Even absent an express definition of a term in the specification or prosecution history, or a clearly established understanding of the meaning of the term in the art, the manner in which the term is used in the patent may dictate a definition that differs from the definition that would be given to the same term in a different patent with a different specification or prosecution history.
+	See Young Dental Mfg. Co. v. Q3
+	Special Prods
+	., Inc., 112 F.3d 1137, 1143 (Fed.Cir.1997) ("The specification that is relevant to claim construction is the specification of the patent in which the claims reside".). 
+	That is the situation in the present case.
+	The use of a term in a patent on a detergent is of little pertinence to the use of a similar term in a patent on MRI RF coils.
+	Rather, absent some particular reason to do otherwise, the claim terms must be interpreted as would one of ordinary skill in the art of MRI technology and in light of the particular patent in suit. 
+	Apart from arguing that the Ecolab court's definition of "substantially uniform" should be applied in this case, Medrad invokes the Ecolab case in support of the broad proposition that it is never proper for a court, when construing claim terms, to consider how a claimed device functions.
+	That is an overreading of Ecolab, however.
+	The Ecolab court found no reason to import the requirement that the substantially uniform cast create a homogeneous cleaning solution over the life of the cast.
+	Ecolab, 264 F.3d at 1369.
+	In so doing, the court set forth and applied the unremarkable proposition that where a function "is not recited in the claim itself by the patentee, we do not import such a limitation".
+	Ecolab, 264 F.3d at 1367.
+	Medrad has taken the quoted language from Ecolab and extended it to reach a nonsensical result.
+	Medrad argues that a court may not look to how an invention functions in determining the meaning of claim terms.
+	Yet nothing in Ecolab or any other precedent of this court supports such a proposition, which is as unsound as it is sweeping.
+	As we stated in Renishaw PLC v. Marposs Societa' per Azioni, 158 F.3d 1243, 1250 (Fed.Cir.1998), "ultimately, the interpretation to be given a term can only be determined and confirmed with a full understanding of what the inventors actually invented and intended to envelop with the claim".
+	It is therefore entirely proper to consider the functions of an invention in seeking to determine the meaning of particular claim language.  
+	Medrad would have us look at the words of the claim with no context of what an RF coil does and how it works.
+	We have repeatedly rejected that approach. "We cannot look at the ordinary meaning of the term ... in a vacuum.
+	Rather, we must look at the ordinary meaning in the context of the written description and the prosecution history".
+	DeMarini Sports, Inc. v. Worth, 239 F.3d 1314, 1324 (Fed.Cir.2001); see also K-2 Corp. v. Salomon S.A., 191 F.3d 1356, 1365 (Fed.Cir.1999).  
+	The record in the instant case makes it clear that the district court's construction was correct.
+	Unfortunately, the claim itself provides little guidance.
+	The term "substantially uniform first magnetic field" is ambiguous in that it fails to suggest how much a magnetic field may deviate from absolute uniformity before it is no longer uniform.
+	That question is especially significant because Medrad's own expert admits that "magnetic field strength varies routinely in all RF coil systems".
+	Medrad implicitly acknowledged the difficulty created by the use of the term "substantially uniform," and it contended before the magistrate judge that a substantially uniform magnetic field is one that is similar to the magnetic field produced by a "single birdcage coil".
+	There is, however, no support anywhere in the record for that construction.
+	Medrad apparently employed that construction because a birdcage coil is the "gold standard" for coils that generate uniform magnetic fields.
+	But the patent itself rebuts Medrad's suggestion that a substantially uniform magnetic field is comparable to that produced by a birdcage coil.
+	The specification states that RF coils may be "crossed saddle quadrature coils or Helmholtz pairs". '273 patent, col. 6, II.
+	15-17.
+	Yet Medrad's own expert admitted that crossed saddle quadrature coils or Helmholtz pairs cannot produce magnetic fields as uniform as a birdcage coil, so by its terms the patent encompasses coils that are not as uniform as birdcage coils.
+	A "claim construction that does not encompass a disclosed embodiment is ... rarely, if ever, correct".
+	Johns Hopkins Univ.
+	v. CellPro, 152 F.3d 1342, 1355 (Fed.Cir.1998).
+	Thus, the construction that Medrad proposed to the magistrate judge fails as well. 
+	The only guidance for the definition of "substantially uniform" in the claim language comes from the preamble, which claims an "imaging system for forming images of a region of interest".
+	Both parties' experts agreed that it is important to remove inhomogeneities in the magnetic field generated by the RF coils, or the resulting MRI images will be permanently distorted.
+	As Mr. Misic explained, if the coils do not uniformly transmit, the contrast in the images suffers: "it makes things look different" and "you can't re-correct that after the fact".
+	The problem of image distortion puts an upper bound on the degree of nonuniformity allowable in the magnetic field, which is part of an "imaging system for forming images of a region of interest".
+	That interpretation is further supported by the specification, which gives as an object of the invention "to provide greater image uniformity than provided in the prior art. " '273 patent, col. 2, II.
+	38-39. 
+	Additionally, that interpretation aligns with the conventional understanding of the term in the MRI industry.
+	MRIDC's expert, Dr. Peter Roemer, explained that a substantially uniform magnetic field "means a sufficient uniformity to give a good image".
+	Dr. Roemer also was able to give a quantitative estimate for the amount of field variation allowable that would "produce good images over a wide range of imaging sequences," putting that variation at around 200 percent.
+	Medrad's expert refused to give quantitative estimates for the amount of field variation allowable.
+	Rather, in defining substantial uniformity, Medrad's expert, Ken Belt, could only refer to the field produced by a birdcage coil.
+	As we stated above, the patent claims are not limited to the uniformity of field produced by a birdcage coil.
+	Still, Mr. Belt's testimony is implicitly consistent with Dr. Roemer's definition.
+	Specifically, Mr. Belt was giving the example of an RF coil capable of producing a good image.
+	Therefore, we hold that the claim language, the specification, and the expert testimony all illustrate that a "substantially uniform magnetic field" is a field that is sufficiently uniform to obtain useful MRI images. 
+	Medrad also disputes the meanings of the terms "first selectable state" and "first phased array coil," but only for purposes of infringement.
+	We do not need to construe those two claim terms because we agree with the district court's construction of the terms "region of interest" and "substantially uniform" and we agree, based on the district court's construction of those terms, that Medrad's asserted patent claims are invalid.  
+	In his recommendation and report, the magistrate judge found that Medrad's invention was anticipated by an abstract and presentation that Dr. Arne Reykowski delivered before a meeting of the Society of Magnetic Resonance.
+	In that presentation, Dr. Reykowski described the construction of an MRI device that consisted of two overlapping phased-array coils used to image a patient's neck and head.
+	The magistrate judge also found that the coil itself qualified as prior art due to public use. 
+	On appeal, Medrad asserts that the Reykowski references do not anticipate the patent because Dr. Reykowski's device does not produce a substantially uniform magnetic field over the region of interest.
+	In particular, Medrad contends that Dr. Reykowski's device does not generate a uniform magnetic field either in the coil that mainly encompasses the patient's neck or in the overlapping region of the two coils.
+	Medrad simply asserts that the neck coil cannot transmit a uniform magnetic field and points to a spatial plot of the field strength produced by the neck coil.
+	However, this is no argument at all, as we cannot decipher whether the level of inhomogeneity shown in the plot is small enough that a useful MRI image can be produced using Dr. Reykowski's device, especially over the region of interest, which in this case is the neck and lower portion of the head of the patient.
+	In fact, it appears that the coil produces a substantially uniform field because Dr. Reykowski's device actually allowed him to take useful MRI images of the neck in practice. 
+	In reply, Medrad makes two contentions.
+	First, Medrad states that Dr. Reykowski admitted that his neck coil cannot produce a uniform magnetic field.
+	That, however, is a mischaracterization of Dr. Reykowski's testimony.
+	He stated only that his neck coil produced a less homogenous field than his head coil.
+	He vigorously denied that the neck coil produced a non-uniform field or that the field could not result in useful MRI images of the neck. 
+	Second, Medrad claims that even if the neck coil produced a sufficiently uniform field to obtain useful MRI images, the overlapping region of the two coils did not produce a uniform magnetic field.
+	In making that argument, Medrad is apparently contending that the magnetic field strength generated by Dr. Reykowski's device jumps when going from the region of one coil to the region of overlapping coils.
+	As explained above, Mr. Misic claimed that he was the first to adjust the current to two overlapping RF coils to produce a uniform magnetic field when going from one coil to the overlap region.
+	Mr. Misic explained that he was able to achieve that objective by inserting a phase shift between the current pulses going to the two overlapping coils.
+	By placing the correct phase between the currents, the magnetic fields of each coil would partially add and partially deconstructively interfere in the overlap region so that there would be very little inhomogeneity when going from one coil to the overlap region.
+	See '273 patent, col. 6, II.
+	2-7. 
+	Medrad appears to contend that the phase shift step is not present in Dr. Reykowski's device and that the overlapping region of the coils therefore cannot produce a field that is uniform with the rest of the coils.
+	In fact, there is ample evidence that Dr. Reykowski phase-shifted the current pulses in his device.
+	First, Dr. Reykowski's publication clearly shows an electronic phase-shifter for putting in a phase shift between the current pulses going to the two coils.
+	Additionally, it states that "the power splitter has to compensate for the eventual phase shifts between the output RF transmit signals [i.e. current pulses] causing partial cancellation between the transmitted signal in the overlap region between the coils".
+	Medrad asserts that the quoted statement means that Dr. Reykowski used the phase-shifter to align the phases of the current pulses to maximize the magnetic field in the overlap region, making the magnetic field in the overlap roughly twice as large as the field not in the overlap, and thus creating a non-uniform field.
+	However, there is no support for that characterization of the quoted statement.
+	First, Medrad does not provide any explanation for why Dr. Reykowski would intentionally set the phase to create the most non-uniform field possible when he was trying to create a uniform image.
+	Second, the description of the phase-shifter lies in the portion of the publication describing how to create a "homogeneous distribution of RF power" in order to create a homogenous magnetic field.
+	It is inconceivable that in the section of the publication in which Dr. Reykowski describes how to make a uniform magnetic field, he would suggest that the phase-shifter be set to create the most inhomogeneous field possible.
+	Finally, Dr. Reykowski testified that the point of the phase-shifter was to ensure "the right phase of the signal at the input to the coil".
+	In sum, Medrad has failed to offer any proof that Dr. Reykowski's device does not create a substantially uniform magnetic field over the region of interest.1  
+	In a final effort to avoid invalidity, Medrad offered evidence to the district court that the Patent and Trademark Office ("PTO") had issued a Notice of Allowance on a patent application similar to the '273 patent after the district court granted summary judgment in this case.
+	In view of that new evidence, Medrad made a motion to alter the judgment and a motion for relief from the judgment under Rules 59 and 60 of the Federal Rules of Civil Procedure.
+	The district court denied those motions, and Medrad asserts the same argument on appeal. 
+	We review denial of such motions under the law of the regional circuit.
+	Univ. of W. Va. v. VanVoorhies, 342 F.3d 1290, 1294 (Fed.Cir.2003).
+	The Third Circuit applies an abuse of discretion standard in reviewing the denials of motions under Rules 59 and 60.
+	See Cureton v. Nat'l
+	Collegiate Athletic Ass'n, 252 F.3d 267, 272 (3d Cir.2001);
+	In re Cendant Corp. PRIDES Litig., 234 F.3d 166, 170 (3d Cir.2000).
+	In this case, we cannot conclude under any standard that the district court erred in refusing to alter the judgment, much less that the court abused its discretion.
+	The main problem with Medrad's argument is that it fails to explain why the PTO's allowance of the new application should have any bearing on the present case.
+	Contrary to Medrad's contention, the district court's grant of summary judgment did not depend at all on the new application or any prior disallowance by the PTO of that application.
+	Furthermore, a court is not bound by the PTO's actions and must make its own independent determination of patent validity.
+	Magnivision, Inc. v. Bonneau Co., 115 F.3d 956, 960 (Fed.Cir.1997).
+	That is especially true when the PTO is acting on an entirely different patent or application than the one before the court.
+	We therefore uphold the district court's denial of Medrad's motions. 
+	Finally, Medrad argues that the district court should have issued a preliminary injunction against MRIDC for patent infringement.
+	Because we have sustained the judgment that Medrad's asserted claims are invalid, that issue is moot. 
+	All Citations 401 F.3d 1313,
+	74 U.S.P.Q.2d 1184 
+	Footnotes Medrad attempted to offer proof of its contention through the declaration of Dr. Cecil Hayes.
+	The district court refused to consider Dr. Hayes's declaration due to improprieties in the manner in which that evidence was presented.
+	Medrad does not appeal the district court's ruling, so we will not consider Dr. Hayes's declaration either. 

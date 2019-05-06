@@ -1,0 +1,25 @@
+Keyphrases:
+
+sync_portion
+sync_signal
+signal
+clamped
+level
+BIG_TOKEN__¡¬869_patent__BIG_TOKEN
+video_type_signal
+circuitry
+said
+sync_pulse
+====================================
+top sentences:
+
+An apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal , said sync_portion having a plurality of levels , one of which may be a blanking level , said apparatus including : ( a ) circuitry responsive to said sync_portion to clamp the sync_tip thereof to a known level thereby providing a clamped sync_portion and to generate at least a first_logic_level_sync_signal in response to said clamped sync_portion ; ( b ) circuitry for clamping said sync_portion to a known level to provide a second clamped sync_portion ; *1322 ( c ) circuitry for providing at least one reference_signal in response to said first_logic_level_sync_signal and said second clamped sync_portion ; ( d ) circuitry for comparing said second clamped sync_portion to said reference_signal to provide said logic_level_version .
+16.595569
+An apparatus for deriving a logic_level_version of the sync_portion of a video_type_signal , said sync_portion having a number of levels N , one of which may be a blanking level , and where N may be two or more depending on the format of said video_type_signal , said apparatus including : ( a ) circuitry to provide a format signal changeable in response to the format of said video_type_signal ; ( b ) circuitry responsive to said sync_portion to generate at least a first separated sync_signal ; ( c ) circuitry for providing at least N-1 reference_signal ( s ) in response to said sync_portion and said first separated sync_signal ; and ( d ) circuitry responsive to said sync_portion and said format signal and said reference_signal ( s ) for comparing said sync_portion to said reference_signal ( s ) to provide said logic_level_version .
+13.289672
+The method of recovering sync from a video_type_signal including the steps of : ( a ) coupling said video_type_signal through a capacitor or other_circuit thereby establishing a level shifted signal having a sync_portion ; ( b ) comparing said level shifted signal to a first known reference to provide a compared signal ; ( c ) selectively adding a current to said level shifted signal wherein the amount and/or polarity of said current is responsive to said compared signal and the D.C. level of said level shifted signal is changed in response to said current ; ( d ) comparing said level shifted signal to a second known reference to provide a second compared signal , which second compared signal is a logic level representation of said sync_portion .
+12.865536
+accused sync_separator chips were not designed to , and did not produce in practice , claimed `` clamped sync_portion '' at known level of fixed voltage ;
+9.466593
+The NTSC sync_signal is said to be a two-level_signal because the signal is at one voltage_level during the front_porch and back_porch intervals and reaches a different , lower voltage_level during the sync_pulse .
+8.498715

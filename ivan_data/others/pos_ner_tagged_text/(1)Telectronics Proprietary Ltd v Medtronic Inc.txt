@@ -1,0 +1,129 @@
+('836_F.2d_1332', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('TELECTRONICS', 'JJ', '', 'O') ('PROPRIETARY', 'NN', '', 'O') ('LTD.', 'VBZ', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('MEDTRONIC', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'JJ', '', 'O') ('v.', 'CC', '', 'O') ('TELECTRONICS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Telectronics', 'NNP', '', 'O') ('USA', 'NNP', '', 'O') ('Additional', 'NNP', '', 'O') ('Defendants', 'NNPS', '', 'O') ('on', 'IN', '', 'O') ('Counterclaim-Appellees', 'NNS', '', 'O')
+
+__NEW_SENT__
+('No._87-1364', 'NNP', 'ORG', 'B')
+No._87-1364
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._6,_1988', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Client', 'NNP', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent_invalidity', 'NN', '', 'O') ('unenforceability', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('assignee', 'NN', '', 'O') ('counterclaimed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', '', 'O') ('Peter', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Leisure', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('client', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('attorneys', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('disqualified', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('assignee', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('interlocutory_appeal', 'JJ', '', 'O')
+The United States District Court Peter K. Leisure J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bissell', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('attorneys', 'NNS', '', 'O') ('who', 'WP', '', 'O') ('participated', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('original', 'JJ', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disqualified', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('Code', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Professional_Responsibility', 'NN', '', 'O') ('from', 'IN', '', 'O') ('representing', 'VBG', '', 'O') ('interests', 'NNS', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'VB', '', 'O') ('patent', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('patent', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('who', 'WP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('client', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorneys', 'NNS', '', 'O') ('proof', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('limited', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('time', 'NN', '', 'O') ('that', 'DT', '', 'O') ('application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('prosecuted', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('showing', 'NN', '', 'O') ('that', 'IN', '', 'O') ('attorneys', 'NNS', '', 'O') ('obtained', 'VBD', '', 'O') ('actual', 'JJ', '', 'O') ('confidences', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('give', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('present', 'JJ', '', 'O') ('client', 'NN', '', 'O') ('unfair', 'JJ', '', 'O') ('advantage', 'NN', '', 'O')
+The Court of Appeals Bissell Circuit_Judge
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1333', 'NNP', '', 'O') ('**47', 'NFP', '', 'O') ('Allen', 'NNP', '', 'O') ('I.', 'NNP', '', 'O') ('Rubenstein', 'NNP', '', 'O') ('Gottlieb', 'NNP', '', 'O') ('Rackman', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Reisman', 'NNP', '', 'O') ('P.C.', 'NNP', 'ORG', 'B') ('New_York', 'NNP', 'ORG', 'I') ('City', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+P.C. New_York City
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Michael_I._Rackman', 'NN', '', 'O')
+
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('William_C._Nealon', 'NN', 'ORG', 'B') ('Suffield', 'NNP', '', 'O') ('Conn.', 'NNP', '', 'O') ('Grady', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('Frenchick', 'NNP', '', 'O') ('Medtronic', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', 'GPE', 'B') ('Minn.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+William_C._Nealon Minneapolis Minn.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Beck', 'NNP', 'PERSON', 'I')
+Robert C. Beck
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('SMITH', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('BALDWIN', 'NNP', '', 'O') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('BISSELL', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+SMITH Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('BISSELL', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('accepted', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('interlocutory_appeal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('dated', 'VBN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('8', 'CD', 'DATE', 'I') ('1986', 'CD', 'DATE', 'I') ('83', 'CD', 'DATE', 'I') ('Civ', 'NN', '', 'O')
+September 8 1986 83
+__NEW_SENT__
+('No._8568-_Leisure', 'NNP', '', 'O') ('[', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('8', 'CD', 'DATE', 'I') ('Order', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'XX', '', 'O')
+September 8 the District Court
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('stated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('controlling', 'VBG', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('as', 'IN', '', 'O') (':', ':', '', 'O') ('Whether', 'IN', '', 'O') ('consistent', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Code', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Professional_Responsibility', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('American_Bar_Association', 'NN', '', 'O') ('or', 'CC', '', 'O') ('the', 'DT', 'LAW', 'B') ('Model', 'NNP', 'LAW', 'I') ('Rules', 'NNPS', 'LAW', 'I') ('of', 'IN', 'LAW', 'I') ('Professional', 'NNP', 'LAW', 'I') ('Conduct', 'NNP', 'LAW', 'I') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('attorney', 'NN', '', 'O') ('can', 'MD', '', 'O') ('work', 'VB', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('corporate_inventor', 'NN', '', 'O') ('to', 'TO', '', 'O') ('draft', 'VB', '', 'O') ('or', 'CC', '', 'O') ('prosecute', 'VB', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('to', 'IN', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('subsequently', 'RB', '', 'O') ('despite', 'IN', '', 'O') ('the', 'DT', '', 'O') ('objection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('both', 'CC', '', 'O') ('the', 'DT', '', 'O') ('corporate_inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('later', 'JJ', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('represent', 'NN', '', 'O') ('interests', 'NNS', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'VB', '', 'O') ('or', 'CC', '', 'O') ('narrowly', 'RB', '', 'O') ('construe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('self-same', 'JJ', '', 'O') ('patent', 'NN', '', 'O')
+the Model Rules of Professional Conduct
+__NEW_SENT__
+('**48', 'NFP', '', 'O') ('Telectronics_Proprietary', 'NNP', 'ORG', 'B') ('Ltd.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('83', 'CD', '', 'O') ('Civ', 'NNP', '', 'O')
+Telectronics_Proprietary Ltd. Medtronic Inc.
+__NEW_SENT__
+('No._8568-_Leisure', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.N.Y', 'NN', '', 'O')
+
+__NEW_SENT__
+('Jan._7,_1987', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('order', 'NN', '', 'O') ('granting', 'VBG', '', 'O') ('Request', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('Certification', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('8', 'CD', 'DATE', 'I') ('Order', 'NN', 'DATE', 'I') (')', '-RRB-', '', 'O') ('[', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('Certification', 'NNP', '', 'O') ('Order', 'NNP', '', 'O') (']', '-RRB-', '', 'O')
+Jan._7,_1987 Request September 8 Order
+__NEW_SENT__
+('The', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('to', 'TO', '', 'O') ('disqualify', 'VB', '', 'O') ('William_C._Nealon', 'NN', 'ORG', 'B') ('and', 'CC', '', 'O') ('Michael_I._Rackman', 'NN', 'PERSON', 'B') ('and', 'CC', '', 'O') ('his', 'PRP$', '', 'O') ('law', 'NN', '', 'O') ('firm', 'NN', '', 'O') ('Gottlieb', 'NNP', 'ORG', 'B') ('Rackman', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Reisman', 'NNP', 'ORG', 'I') ('as', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Telectronics_Proprietary', 'NNP', 'ORG', 'B') ('Ltd.', 'NNP', 'ORG', 'I') ('Telectronics', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Telectronics', 'NNP', 'ORG', 'B') ('U.S.A.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Telectronics', 'NNPS', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('denied', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('qualification', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('8', 'CD', 'EVENT', 'I') ('Order', 'NN', 'EVENT', 'I')
+Medtronic Inc. William_C._Nealon Michael_I._Rackman Gottlieb Rackman & Reisman Telectronics_Proprietary Ltd. Telectronics Inc. Telectronics U.S.A. Inc. Telectronics the September 8 Order
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('context', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('8', 'CD', 'EVENT', 'I') ('Order', 'NN', 'EVENT', 'I')
+the September 8 Order
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('began', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('1983', 'CD', 'DATE', 'I') ('with', 'IN', '', 'O') ('an', 'DT', 'ORG', 'B') ('International', 'NNP', 'ORG', 'I') ('Trade', 'NNP', 'ORG', 'I') ('Commission', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('ITC', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('investigation', 'NN', '', 'O') ('denominated', 'VBN', '', 'O') ('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('Certain', 'NNP', '', 'O') ('Cardiac', 'NNP', '', 'O') ('Pacemakers', 'NNPS', '', 'O') ('and', 'CC', '', 'O') ('Components', 'NNPS', '', 'O') ('Thereof', 'JJ', '', 'O') ('Inv', 'NNP', '', 'O')
+August 1983 an International Trade Commission ITC
+__NEW_SENT__
+('No._337-', 'NN', '', 'O') ('TA-162', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('Cardiac', 'NNP', '', 'O') ('Pacemakers', 'NNPS', '', 'O') (']', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Medtronic', 'NNP', 'NORP', 'B') ('sought', 'VBD', '', 'O') ('relief', 'NN', '', 'O') ('under', 'IN', '', 'O') ('19', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1337', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Supp', 'NNP', '', 'O')
+Medtronic 19 1337
+__NEW_SENT__
+('III', 'CD', '', 'O') ('1985', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('alleged', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Telectronics', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents-United', 'JJ', '', 'O') ('States', 'NNP', '', 'O') ('Letters', 'NNP', '', 'O') ('Patent', 'NNP', '', 'O') ('Nos._3648,707', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'707", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('4,059,116', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'116", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('4,312,355', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'355", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('3,595,242', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'242", 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+1985 Medtronic four 4,059,116 4,312,355 3,595,242
+__NEW_SENT__
+('In', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('1983', 'CD', 'DATE', 'I') ('Telectronics', 'NNPS', '', 'O') ('filed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('action', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent_invalidity', 'NN', '', 'O') ('unenforceability', 'NN', '', 'O') ('and', 'CC', '', 'O') ('noninfringement', 'NN', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'707", 'NN', '', 'O') ("'116", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'355_patent", 'NNP', '', 'O') ('s.', 'NNP', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('sought', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('infringed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O')
+November 1983 Medtronic three four
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('*1334', 'FW', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('put', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('Telectronics', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('First', 'NNP', 'ORDINAL', 'B') ('Amended', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Supplemental', 'NNP', '', 'O') ('Complaint', 'NNP', '', 'O') ('requesting', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('be', 'VB', '', 'O') ('declared', 'VBN', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Telectronics', 'NNS', '', 'O') ('be', 'VBP', '', 'O') ('declared', 'VBN', '', 'O') ('not', 'RB', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('infringed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+Medtronic First four
+__NEW_SENT__
+('Medtronic', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('disqualify', 'VB', '', 'O') ('counsel', 'NN', '', 'O')
+Medtronic
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Nealon', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Rackman', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('served', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('in-house', 'NN', '', 'O') ('and', 'CC', '', 'O') ('outside', 'JJ', '', 'O') ('counsel', 'NN', '', 'O') ('respectively', 'RB', '', 'O') ('for', 'IN', '', 'O') ('American', 'NNP', 'ORG', 'B') ('Optical', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('AO', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('participated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NNP', '', 'O') ('for', 'IN', '', 'O') ('AO', 'NNP', 'ORG', 'B')
+Nealon Rackman American Optical Corporation AO AO
+__NEW_SENT__
+('Medtronic', 'NNP', 'ORG', 'B') ('urged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('improper', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('Nealon', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Rackman', 'NNP', 'PERSON', 'B') ('now', 'RB', '', 'O') ('attorneys', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('Telectronics', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('challenge', 'VB', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NN', '', 'O')
+Medtronic Nealon Rackman
+__NEW_SENT__
+('Medtronic', 'NNP', 'ORG', 'B') ('claimed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('status', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('former', 'JJ', '', 'O') ('client', 'NN', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('itself', 'PRP', '', 'O') ('as', 'IN', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NN', '', 'O')
+Medtronic
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('claimed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('for', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('employee', 'NN', '', 'O') ('Barouh', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Berkovits', 'VBZ', 'PERSON', 'I') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NN', '', 'O') ('who', 'WP', '', 'O') ('was', 'VBD', '', 'O') ('employed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('AO', 'NNP', 'ORG', 'B') ('when', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('prosecuted', 'VBN', '', 'O')
+Barouh V. Berkovits AO
+__NEW_SENT__
+('On', 'IN', '', 'O') ('this', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ('contended', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('representation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Telectronics', 'NNPS', '', 'O') ('by', 'IN', '', 'O') ('Rackman', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Nealon', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('contrary', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ethical', 'JJ', '', 'O') ('requirements', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Canons', 'NNS', 'ORG', 'B') ('4', 'CD', 'DATE', 'B') ('5', 'CD', 'DATE', 'I') ('7', 'CD', 'DATE', 'I') ('and', 'CC', 'DATE', 'I') ('9', 'CD', 'DATE', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Code', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Professional_Responsibility', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('American_Bar_Association', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ABA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+Medtronic Rackman Nealon Canons 4 5 7 and 9 ABA
+__NEW_SENT__
+('Telectronics', 'NNS', '', 'O') ('opposed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('disqualification', 'NN', '', 'O') ('motion', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('grounds', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('res_judicata', 'NNS', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('similar', 'JJ', '', 'O') ('motion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('related', 'JJ', '', 'O') ('case', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ITC', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('laches', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('absence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('conflict', 'NN', '', 'O') ('between', 'IN', '', 'O') ('representation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Rackman', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Nealon', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('the', 'DT', 'LAW', 'B') ('ABA', 'NNP', 'LAW', 'I') ('Code', 'NNP', 'LAW', 'I') ('of', 'IN', 'LAW', 'I') ('Professional_Responsibility', 'NN', 'LAW', 'I')
+1 ITC 2 3 Rackman and Nealon the ABA Code of Professional_Responsibility
+__NEW_SENT__
+('**49', 'UH', '', 'O') ('Without', 'IN', '', 'O') ('reaching', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('res_judicata', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('laches', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('8', 'CD', 'EVENT', 'I') ('Order', 'NN', 'EVENT', 'I') ('denied', 'VBD', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disqualify', 'VB', '', 'O') ('counsel', 'NN', '', 'O') ('conditioned', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('Telectronics', 'NNP', 'ORG', 'B') ("'", "''", '', 'O') ('not', 'RB', '', 'O') ('raising', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fraud', 'NN', '', 'O') ('or', 'CC', '', 'O') ('misconduct', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'242_patent", 'NNP', '', 'O') ('and', 'CC', '', 'O') ('restricting', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('proof', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'NN', '', 'O') ('to', 'IN', '', 'O') ('art', 'NN', '', 'O') ('discovered', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+the September 8 Order Medtronic Telectronics
+__NEW_SENT__
+('On', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('7', 'CD', 'DATE', 'I') ('1987', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Medtronic', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Request', 'NN', 'ORG', 'B') ('for', 'IN', 'ORG', 'I') ('Certification', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('the', 'DT', 'ORG', 'I') ('September', 'NNP', 'ORG', 'I') ('8', 'CD', 'ORG', 'I') ('Order', 'NN', 'ORG', 'I') ('and', 'CC', '', 'O') ('granted', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('permission', 'NN', '', 'O') ('to', 'TO', '', 'O') ('petition', 'VB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('accept', 'VB', '', 'O') ('an', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'EVENT', 'B') ('September', 'NNP', 'EVENT', 'I') ('8', 'CD', 'EVENT', 'I') ('Order', 'NN', 'EVENT', 'I')
+January 7 1987 Medtronic Request for Certification of the September 8 Order the September 8 Order
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('accepted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_22,_1987', 'NNS', '', 'O')
+
+__NEW_SENT__

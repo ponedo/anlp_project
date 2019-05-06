@@ -1,0 +1,162 @@
+('867_F.3d_1229', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GEORGETOWN', 'NNP', '', 'O') ('RAIL', 'DT', '', 'O') ('EQUIPMENT', 'NNP', '', 'O') ('COMPANY', 'NN', '', 'O') ('Plaintiff-Appellee', 'NN', '', 'O')
+
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('HOLLAND', 'NNP', '', 'O') ('L.P.', 'NNP', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2016-2297', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('August', 'NNP', 'DATE', 'B') ('1', 'CD', 'DATE', 'I') ('2017', 'CD', 'DATE', 'I')
+August 1 2017
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inspecting', 'VBG', '', 'O') ('railroad_tracks', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('digital_technology', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('claim_construction', 'NN', '', 'O') ('2014_WL_11498109', 'CD', '', 'O') ('and', 'CC', '', 'O') ('jury', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'ORG', 'B') ('No._6', 'NNP', 'ORG', 'I') (':13-cv-00366-RWS', 'CD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Schroeder', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('2016_WL_3346084', 'CD', '', 'O') ('denied', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('renewed', 'VBN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('awarded', 'VBN', '', 'O') ('enhanced', 'VBN', '', 'O') ('damages', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('willful_infringement', 'NN', '', 'O')
+United_States_District_Court Texas No._6 Robert Schroeder III J. JMOL
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Wallach', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Wallach Circuit_Judge
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('patent', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('substantial_evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('lost', 'VBN', '', 'O') ('profits', 'NNS', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('substantial_evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('subjective', 'JJ', '', 'O') ('recklessness', 'NN', '', 'O') ('led', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('willful_infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('within', 'IN', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('discretion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('award', 'VB', '', 'O') ('enhanced', 'VBN', '', 'O') ('damages', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*1233', 'NNPS', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('No._6', 'NNP', 'GPE', 'B') (':13-cv-00366-RWS', 'CD', '', 'O') ('Judge', 'NNP', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Schroeder', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I')
+United_States_District_Court Texas No._6 Robert Schroeder III
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('DANA', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('HERBERHOLZ', 'NNP', 'PERSON', 'I') ('Parsons', 'NNPS', 'PERSON', 'I') ('Behle', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Latimer', 'NNP', 'ORG', 'I') ('Boise', 'NNP', 'ORG', 'I') ('ID', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+DANA M. HERBERHOLZ Parsons Behle & Latimer Boise ID
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('CHRISTOPHER', 'NNP', 'ORG', 'B') ('CUNEO', 'NNP', '', 'O') ('JAMIE', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('ELLSWORTH', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('C.', 'NNP', 'PERSON', 'B') ('KEVIN', 'NNP', 'PERSON', 'I') ('SPEIRS', 'NNP', '', 'O') ('Salt', 'NNP', 'GPE', 'B') ('Lake', 'NNP', 'GPE', 'I') ('City', 'NNP', 'GPE', 'I') ('UT', 'NNP', '', 'O')
+CHRISTOPHER JAMIE K. ELLSWORTH C. KEVIN Salt Lake City
+__NEW_SENT__
+('DANIEL', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('SCHWARTZ', 'NNP', '', 'O') ('Faegre', 'NNPS', '', 'O') ('Baker', 'NNP', '', 'O') ('Daniels', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Chicago
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('KATHRYN', 'NNP', 'ORG', 'B') ('ANN', 'NNP', '', 'O') ('FEIEREISEL', 'NNP', '', 'O') (';', ':', '', 'O') ('LAUREN', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('FRANK', 'NNP', 'PERSON', 'I') ('TIMOTHY', 'NNP', 'PERSON', 'I') ('E.', 'NNP', 'PERSON', 'I') ('GRIMSRUD', 'NNP', 'PERSON', 'I') ('Minneapolis', 'NNP', 'GPE', 'B') ('MN', 'NNP', '', 'O')
+KATHRYN LAUREN J. FRANK TIMOTHY E. GRIMSRUD Minneapolis
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Reyna', 'NNP', 'ORG', 'B') ('Schall', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Wallach', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Reyna Schall
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Wallach', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('claim_construction', 'NN', '', 'O') ('ruling', 'VBG', '', 'O') ('adverse', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Appellant', 'NNP', 'PERSON', 'B') ('Holland_L.P.', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Holland', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('District_Court', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('District_Court', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Holland', 'NNP', 'GPE', 'B') ('infringed', 'VBD', '', 'O') ('Appellee', 'NNP', 'ORG', 'B') ('Georgetown', 'NNP', 'ORG', 'I') ('Rail', 'NNP', 'ORG', 'I') ('Equipment', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Georgetown', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('7,616,329', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'329_patent", 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('awarded', 'VBD', '', 'O') ('Georgetown', 'NNP', 'ORG', 'B') ('lost', 'VBD', '', 'O') ('profits', 'NNS', '', 'O')
+Appellant Holland_L.P. Holland U.S. Texas Holland Appellee Georgetown Rail Equipment Company 's Georgetown U.S. 7,616,329 Georgetown
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NNS', '', 'O') ('later', 'RB', '', 'O') ('approved', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('additional', 'JJ', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enhanced', 'VBN', '', 'O') ('damages', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('willful_infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Holland', 'NNP', 'GPE', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', 'ORG', 'B') ("'s", 'POS', '', 'O') ('conclusions', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('claim_construction', 'NN', '', 'O') ('willful_infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('enhanced', 'VBN', '', 'O') ('damages', 'NNS', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('decision', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deny', 'VB', '', 'O') ('Holland', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('renewed', 'VBN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O')
+Holland District_Court Holland JMOL
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Georgetown', 'NNP', 'ORG', 'B') ('Rail', 'NNP', 'ORG', 'I') ('Equip', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Holland_L.P.', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('Georgetown', 'NNP', '', 'O') ('Rail', 'NNP', '', 'O') ('II', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('No._6', 'NNP', '', 'O') (':13-cv-366', ':', '', 'O') ('2016_WL_3346084', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('E.D', 'NNP', 'GPE', 'B')
+Georgetown Rail Equip Co. Holland_L.P. E.D
+__NEW_SENT__
+('Tex', 'NNP', '', 'O')
+
+__NEW_SENT__
+('June_16,_2016', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('denying', 'VBG', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('granting', 'VBG', '', 'O') ('Motions', 'NNPS', 'WORK_OF_ART', 'B') ('for', 'IN', 'WORK_OF_ART', 'I') ('Finding', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Willful', 'NNP', 'WORK_OF_ART', 'I') ('Infringement', 'NNP', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Enhanced', 'NNP', 'WORK_OF_ART', 'I') ('Damages', 'NNP', 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Georgetown', 'NNP', 'ORG', 'B') ('Rail', 'NNP', 'ORG', 'I') ('Equip', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Holland_L.P.', 'NNP', 'GPE', 'B') ('(', '-LRB-', '', 'O') ('Georgetown', 'NNP', '', 'O') ('Rail', 'NNP', '', 'O') ('I', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('No._6', 'NNP', '', 'O') (':13-cv-366-JDL', 'CD', '', 'O') ('2014_WL_11498109', 'CD', 'CARDINAL', 'B') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('E.D', 'NNP', 'GPE', 'B')
+JMOL Motions for Finding of Willful Infringement and Enhanced Damages Georgetown Rail Equip Co. Holland_L.P. 2014_WL_11498109 E.D
+__NEW_SENT__
+('Tex', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Nov._13,_2014', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Claim', 'NNP', '', 'O') ('Construction', 'NNP', '', 'O') ('Order', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('162-63', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Final', 'NNP', '', 'O') ('Judgment', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+162-63
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2012', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+28 1 2012
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Patented', 'NNP', 'ORG', 'I') ('Technology', 'NN', 'ORG', 'I')
+The Patented Technology
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'329_patent", 'NN', '', 'O') ('generally', 'RB', '', 'O') ('relates', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inspecting', 'VBG', '', 'O') ('railroad_tracks', 'NNS', '', 'O') ("''", "''", '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('digital_technology', 'NN', '', 'O')
+
+__NEW_SENT__
+("'329_patent", 'NNP', '', 'O') ('Abstract', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('it', 'PRP', '', 'O') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inspecting', 'VBG', '', 'O') ('tie_plates', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('steel', 'NN', '', 'O') ('plates', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('connect', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('steel', 'NN', '', 'O') ('rail', 'NN', '', 'O') ('tracks', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('wooden_ties', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('2_ll._19', 'CD', 'CARDINAL', 'B') ('-31', 'NN', '', 'O') (';', ':', '', 'O') ('J.A', 'NNP', '', 'O')
+2_ll._19
+__NEW_SENT__
+('928', 'CD', 'CARDINAL', 'B')
+928
+__NEW_SENT__
+('Tie', 'VB', '', 'O') ('plates', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('sink', 'VB', '', 'O') ('or', 'CC', '', 'O') ('cut', 'VB', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('wooden_ties', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('disrupt', 'JJ', '', 'O') ('railroad', 'NN', '', 'O') ('service', 'NN', '', 'O')
+
+__NEW_SENT__
+("'329_patent", 'NNP', '', 'O') ('Abstract', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'329_patent", 'NN', '', 'O') ('purportedly', 'RB', '', 'O') ('improves', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('*1234', 'NN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('by', 'IN', '', 'O') ('automating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('examination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('misaligned', 'VBN', '', 'O') ('tie_plates', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('historically', 'RB', '', 'O') ('performed', 'VBN', '', 'O') ('manually', 'RB', '', 'O') ('with', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('software', 'NN', '', 'O') ('systems', 'NNS', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('1_l._39', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('2_l._6_(describing_the_prior_art)', 'NN', '', 'O')
+1_l._39
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('16', 'CD', 'PERSON', 'I') ('the', 'DT', '', 'O') ('only', 'RB', '', 'O') ('asserted', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('recites', 'NNS', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inspecting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('railroad_track', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('mounted', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('for', 'IN', '', 'O') ('movement', 'NN', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track', 'NN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') (':', ':', '', 'O') ('at', 'IN', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('light', 'JJ', '', 'O') ('generator', 'NN', '', 'O') ('positioned', 'VBD', '', 'O') ('adjacent', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('railroad_track', 'NN', '', 'O') ('for', 'IN', '', 'O') ('projecting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('beam', 'NN', '', 'O') ('of', 'IN', '', 'O') ('light', 'NN', '', 'O') ('across', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') (';', ':', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('optical', 'JJ', '', 'O') ('receiver', 'NN', '', 'O') ('positioned', 'VBD', '', 'O') ('adjacent', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('railroad_track', 'NN', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('light', 'NN', '', 'O') ('reflected', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') ('and', 'CC', '', 'O') ('generating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('images', 'NNS', '', 'O') ('representative', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('profile', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') (';', ':', '', 'O') ('and.at', 'RB', 'CARDINAL', 'B') ('least', 'JJS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('processor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('analyzing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('images', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('determining', 'VBG', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('more_physical_characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('said', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') ('the', 'DT', '', 'O') ('one', 'CD', '', 'O') ('or', 'CC', '', 'O') ('more_physical_characteristics', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('geographic', 'JJ', '', 'O') ('location', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('images', 'NNS', '', 'O') ('along', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'CD', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('algorithm', 'NN', '', 'O') ('for', 'IN', '', 'O') ('detecting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('misaligned', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('sunken', 'VBN', '', 'O') ('tie_plate', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('railroad_track_bed', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('algorithm', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('steps', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('analyzing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('frame', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('images', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('frame', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('region', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('determining', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('region', 'NN', '', 'O') ('of', 'IN', '', 'O') ('interest', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('tie_plate', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('if', 'IN', '', 'O') ('a', 'DT', '', 'O') ('tie_plate', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('present', 'JJ', '', 'O') ('determining', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('crosstie_contour', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('tie_plate_contour', 'CD', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('comparing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('orientation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('crosstie_contour', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('orientation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tie_plate_contour', 'CD', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+Claim 16 at least one at least one and.at least one one
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('e', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('determining', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tie_plate', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('misaligned', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('sunken', 'VBN', '', 'O') ('based', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('comparison', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('11_l._40', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('12_l._2_(emphasis_added)', 'CD', 'CARDINAL', 'B')
+11_l._40 12_l._2_(emphasis_added)
+__NEW_SENT__

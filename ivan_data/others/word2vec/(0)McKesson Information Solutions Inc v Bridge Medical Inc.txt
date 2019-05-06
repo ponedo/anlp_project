@@ -1,0 +1,719 @@
+487_f.3d_897
+united states court of appeals federal circuit
+mckesson information solutions inc. plaintiff-appellant v. bridge medical inc. defendant-appellee
+no._2006-1517
+| may_18,_2007
+| rehearing en banc denied july_10,_2007
+synopsis
+background patentee sued competitor for infringement of patent related to patient_identification_system
+the united_states_district_court for the eastern_district of california frank c. damrell jr. j. 2006_wl_1652518 dismissed action finding patent unenforceable due to inequitable_conduct
+patentee appealed
+
+holdings the court of appeals clevenger senior_circuit_judge held that
+
+prior_art that applicant failed to disclose was not merely cumulative to prior_art which was before examiner ;
+
+overwhelming_circumstantial_evidence coupled with lack of any credible_explanation for nondisclosure of prior_art supported finding that patentee had deceptive_intent ;
+
+prior rejection of three-node_communication claim would have been considered important by any reasonable_examiner reviewing application ;
+
+patentee intended to deceive patent and trademark_office pto by not disclosing to examiner adverse_decisions by another_examiner in a closely-related application ;
+
+allowance of claims to a three-node_communication_system was material to application and should have been disclosed to examiner ; and
+
+district_courts holding patent unenforceable was not abuse of discretion
+
+affirmed
+
+newman circuit_judge filed a dissenting opinion
+
+attorneys and law firms
+*901 daniel johnson jr. morgan lewis & bockius llp of san_francisco california argued for plaintiff-appellant
+with him on the brief was mark k. dickson winston & strawn llp of san_francisco california
+of counsel on the brief was marcus t. hall
+jose l. patino morrison & foerster llp of san diego california argued for defendant-appellee
+with him on the brief were eric m. acker and katherine l. parker
+before newman circuit_judge clevenger senior_circuit_judge and bryson circuit_judge
+opinion
+opinion for the court filed by circuit_judge clevenger
+dissenting opinion filed by circuit_judge newman
+clevenger senior_circuit_judge
+plaintiff mckesson information solutions inc.` mckesson' appeals the final decision of the united_states_district_court for the eastern_district of california dismissing mckessons infringement_suit against defendant bridge medical inc.` bridge' after the court found the only patent at issue u.s._patent_no._4857,716` the ¡¬716_patent` unenforceable due to inequitable_conduct
+
+as set forth in considerable detail below this case involves mckessons nondisclosure of three items of information during prosecution of the ¡¬716_patent in a setting where the applicant had co-pending applications
+the district_court found each of the three nondisclosures individually and collectively material to prosecution of the application that led to the ¡¬716_patent
+with regard to deceptive_intent regarding each nondisclosure the district_court found circumstantial evidence strongly supports an inference of deceptive_intent
+after assessing all the facts the district_court held that mckesson failed to provide a credible_explanation for the material_nondisclosures
+as the district_court noted this was not a case of mistake or negligence-the prosecuting attorney testified that he would make all the same nondisclosure decisions again if prosecuting the same applications today
+
+the district_courts thorough written opinion documents the courts correct understanding and application of the relevant *902 precedent
+the issues of materiality and intent are fact-driven
+with regard to the issue of intent the law recognizes that deceptive_intent is virtually never shown or disproved by direct evidence
+instead the ultimate fact finding on the issue depends on assessment of all the inferences favorable and unfavorable that can be drawn from pertinent evidence
+to prevail on appeal mckesson must demonstrate that the district_courts findings of fact are clearly erroneous
+after careful review of the record we conclude that mckesson has not met its burden and we therefore affirm
+
+i
+a
+the ¡¬716_patent provides` a patient_identification_system for relating items with patients and ensuring that an identified_item corresponds to an identified patient'
+¡¬716_patent at [ 57 ]
+this is accomplished first by providing a set of bar_codes associated with a given patient such that one bar_code from the set is physically attached to the patient and the other bar_codes from the set are physically attached to for example the patients medications ; and second by providing a portable handheld bar_code_reader or patient_terminal wirelessly connected to a base_station unit typically located in the patients room that communicates via modem with a system_computer capable of` processing and storing patient_data'
+id
+col.30 l.23-col.31 l.17
+thus among the handheld_patient_terminal the base_station and the system_computer the ¡¬716_patent teaches a` three node_approach to communications'
+j.a.at 366
+moreover because the handheld_patient_terminals are portable it is desirable to prevent one such terminal from wirelessly communicating with a base_station in say an adjacent room
+the base_stations of the ¡¬716_patent therefore include` a programmable unique identifier' that` only allow [ s ] communication with a portable_handheld_patient_terminal.. having a corresponding program identifier'
+¡¬716_patent col.31 ll.2-7
+
+the only_independent_claim of the ¡¬716_patent incorporates both of these features-i.e. three-node_communications and a programmable unique identifier-as limitations
+claim 1 thus provides 1
+a patient_identification and verification_system comprising a programmed system_computer_means for processing and storing patient_data ; b input_means operatively interconnected to the programmed system_computer_means for input of data to the programmed system_computer_means ; c output_means operatively interconnected to the programmed system_computer_means for output of data from the programmed system_computer_means ; d first_bar_code_identifier_means adapted for attachment to a patient for identification of the patient the bar_code identifier means including a patient_unique_code ; e a plurality of second_bar_code_identifier_means for identifying patient care related items such as medication etc
+; f the input_means and output_means including i microprocessor controlled portable_handheld_patient_terminal means having bar_code_reader_means for scanning the first_bar_code_identifier_means to identify the patient and for scanning the second_bar_code_identifier_means for relating various_items to a specific_patient the portable_handheld_patient_terminal means further including keyboard_means for data entry and display_means for display of information the portable *903 handheld_patient_terminal means including electromagnetic_wave_transceiver_means including means for transmission of patient and item_data as an electromagnetic_wave which is representative of the first and second_bar_code_identifier_means scanned by the bar_code_reader_means and including means for receipt of data as an electromagnetic_wave ; ii microprocessor controlled base_station means including electromagnetic_wave_transceiver_means for receipt of and transmission of the patient and item_data as an electromagnetic_wave to the electromagnetic_wave_transceiver_means of the portable_handheld_patient_terminal means the base_station means being interconnected to the programmed system_computer_means at least in part by electrical_lines for receipt and transmission of the patient and item_data on the electrical_lines to the programmed system_computer_means the base_station means includes a programmable unique identifier the base_station means including means for only allowing communication with a portable handheld patent [ sic ] terminal means having a corresponding program identifier the patient system including means for programming the portable_handheld_patient_terminal means with the corresponding identifier [` programmable unique identifier' limitation ] ; and
+( iii the programmed system_computer_means including program means for verifying the patient and item_data properly correspond and transmitting an alarm_signal if improper correspondence noted
+id
+col.30 l.23-col.31 l.17 emphasis added
+
+on october 6 1987 claim 1 was submitted in substantially this form-except that the` programmable unique identifier' limitation was separated as a limitation in dependent_claim 6-as part of parent application no._06 /862,278` the ¡¬278_application' subsequently abandoned in response to an april_6,_1987 rejection by examiner david trafton of the united states patent and trademark_office` pto'
+accompanying this submission were the remarks of prosecuting attorney michael schumann none of the references either singularly or in combination teach or suggest the claimed invention
+in addition to numerous_other_differences none of the references teach the three node_approach to communications as provided in the claimed invention
+in the present_invention the first node of communication is a main or central_computer which may have its own_terminals for entry/display of information
+the second node of communication are [ sic ] the base_stations which are wired to the main_computer
+the base_stations are preferably located in the various patient rooms and other_suitable_locations
+the third node of communication in the present_invention is the portable_handheld_patient_terminal which cooperates with the base_stations to provide for wireless_transmission of data between the base_station and the patient_terminal
+this approach provides a system which allows for maximum portability of the patient_terminals and yet allows access to the main_computer in an inexpensive manner by use of the base_stations which provide wired communication to the main_computer
+many of the references such as koenig do disclose the use of wireless_transmission which has long been in use and many of the systems do disclose the use of bar_code_readers to scan bar_codes to see if they correspond
+however none of the references disclose the real_time interactive three node *904 communication system of the present_invention as claimed
+j.a.at 366-67 emphasis added
+
+in a december 8 1987 office_action examiner_trafton maintained his rejection of amended claim 1 albeit based upon a different combination of prior_art_references patents to blum and pejas
+however examiner_trafton also explained that dependent_claim 6 would be allowable if rewritten in independent form
+j.a.at 371
+schumann accepted this offer on june_8,_1988 by abandoning the ¡¬278_application and filing a continuation application application no._07 /205,527 with the only_independent_claim rewritten in the manner suggested by examiner_trafton
+the claims in their current form were allowed on february 27 1989 and the ¡¬716_patent issued on august 15 1989
+
+b
+during this same time period schumann was simultaneously prosecuting another application-application no._06 /862,149` the ¡¬149_application' -before another pto_examiner robert lev
+the invention of this simultaneous application was similar to the invention of the ¡¬716_patent -so similar in fact that schumann initially disclosed the same body of prior_art with both applications
+j.a.at 2400
+the first submitted version of the ¡¬149_application included application claims 15_and_16 which together teach three-node_communication 15
+a portable_handheld_terminal including a a portable_handheld_terminal including i a housing having first and second spaced apart opposing major surfaces extending longitudinally of the housing between first and second end portions ; ii keyboard_means disposed on the first_surface for entering data ; iii display_means disposed on the first_surface for displaying data ; iv optical_sensor means disposed in the housing for sensing bar_code_indicia ; v rf_transceiver_means contained in the housing for transmitting and receiving rf signals ; vi control_means contained in the housing and operatively interconnected to the keyboard_means display_means optical_sensor means and rf_transceiver_means for controlling operation of the portable_handheld_terminal ; and
+( vii power_supply means for powering the portable_handheld_terminal ; and
+( b base_station means including rf_transceiver_means for communication with the portable_handheld_terminal
+16
+a system in accordance with claim 15 wherein the base_station means includes a programmed microprocessor and memory means for controlling communication between the portable_handheld_terminal and a central_computer_system electrically wired to the base_station means ; b power_supply means for powering the base_station means ; c charger assembly means for charging the power_supply means of the portable_handheld_terminal ; d data over voice dov means for communication with the central_computer by telephone wires using data over voice_techniques ; and
+( e rf_transceiver_means for wireless communication with the portable_handheld_terminal
+see j.a.at 645-46 emphasis added
+
+in a february 26 1987 office_action examiner_lev rejected these claims as obvious over a combination of prior_art *905 references including the patents to blum and pejas
+j.a.at 636
+although both of these prior_art_references were in front of examiner_trafton prior to his april_6,_1987 rejection of the three-node_communication_system of the ¡¬278_application see j.a.at 347 355 examiner_trafton did not cite the combination of blum and pejas in that rejection see j.a.at 354
+and although schumann disclosed the existence of the co-pending ¡¬149_application to examiner_trafton on or about august 12 1986 j.a.at 339 schumann did not bring examiner_levs rejection of application claims 15_and_16 to examiner_traftons attention
+
+schumann responded on august 26 1987 to examiner_levs rejection by narrowing claim 15 to encompass only` real_time data communication'
+see j.a.at 649
+schumann also added new application claims 19_through_24
+of those claims 19_and_21 through 23 are the most relevant 19
+a portable_terminal comprising a a handheld housing ; b keyboard_means disposed on the housing for entry of data said keyboard_means including separate numeric and special function key means for user input to the terminal ; c display_means disposed on the housing for display of data ; d optical_sensor means interconnected to the housing for sensing bar_code_indicia on an object ; e electromagnetic transceiver_means in the housing for transmitting and receiving electromagnetic signals representing the exchange of data between the portable_handheld_terminal and a remote location while the portable_handheld_terminal is in use ; f control_means contained in the housing operatively interconnected to the keyboard_means display_means optical_sensor means and electromagnetic transceiver_means for controlling operation of the portable_handheld_terminal ; and
+( g power_supply means for powering the portable_handheld_terminal
+id.at 646-47 emphasis added
+21
+a method of receiving and transmitting patient information to a central_computer_location at a location remote from the central_computer_system comprising the steps a sensing patient_related_information contained in bar_code_indicia by use of an optical scanner of a handheld_terminal the terminal including a keyboard for entry of additional patient_related_information ; b electromagnetically transmitting from the handheld_terminal to a base_station_patient_related_information ; c transmitting patient_related_information from the base_station to the central_computer_location by use of data over voice_techniques ; d receiving at the base_station_patient_related_information from the central_computer_location by use of data over voice_techniques ; and
+( e electromagnetically receiving at the handheld_terminal patient_related_information from the base_station
+22
+a method in accordance with claim 21 wherein the step of transmitting patient_related_information to the base_station from the handheld_terminal includes transmission of a unique_address recognizable by a base_station programmed to accept patient_related_information containing the unique_address
+23
+a method in accordance with claim 22 further including the step of programming with the base_station the *906 portable_handheld_terminal to transmit the unique_address
+id.at 647-48 emphasis added
+thus claim 19 teaches two-node_communication claim 21 teaches three-node_communication claim 22 teaches the addition of a` unique_address' limitation and claim 23 teaches a programmable unique_address
+
+on october 23 1987-seventeen days after schumann had argued to examiner_trafton in the course of prosecuting the ¡¬278_application that` [ n ] one of the references either singularly or in combination teach or suggest.. the three node_approach to communications as provided in the claimed invention' -schumann had a telephonic interview with examiner_lev to discuss his discovery of a previously-undisclosed prior_art_reference u.s._patent_no._4456,793` the ¡¬793_patent` to baker
+j.a.at 653
+baker teaches a cordless_telephone_system in which a portable telephone handset or station communicates via optical transceivers with one of possibly several` subsystem controllers' which in turn communicate with a central_controller
+¡¬793_patent col.2 ll.40-61
+baker also teaches the use of` unique codes for each subsystem and station within the subsystem'
+id
+col.3 ll.6-7
+in light of these teachings examiner_lev suggested to schumann that he cancel the newly added claims
+j.a.at 653
+schumann neither agreed with examiner_lev nor disclosed the existence of baker to examiner_trafton
+
+in a december 1 1987 office_action examiner_lev again rejected all claims pending in the ¡¬149_application
+claim 19 was rejected as anticipated by u.s._patent_no._4569,421` the ¡¬421_patent` to sunstedt and claims 15 16 and 21_through_23 were rejected as obvious in light of several new combinations of prior_art_references including blum and sunstedt
+j.a.at 656-58
+sunstedt teaches a vending system for use in restaurants in which a waiter wirelessly transmits a customers order from a portable_handheld_terminal to an` input_station' subject to intermittent_polling by a polling_station
+¡¬421_patent col.2 ll.64-67 ; id
+col.3 ll.40-44
+once the information at the input_station is detected by the polling_station the order is then transmitted to a local data processor which calculates the customers bill
+id
+col.3 ll.10-20
+thus in examiner_levs opinion sunstedts three-node_communication_system in combination with other_prior_art_references including blum rendered claims 15 16 and 21 obvious
+j.a.at 656-57
+examiner_lev was of the further opinion that the addition of bakers unique_address also rendered claims 22_and_23 obvious
+j.a.at 657-58
+examiner_trafton had not considered these combinations of references during prosecution of the ¡¬278_application and schumann did not disclose any of these rejections to examiner_trafton
+
+on june_17,_1988 schumann responded to examiner_levs rejection by further narrowing application claim 15 to encompass only handheld_terminals capable of initiating communication themselves as opposed to the system taught by sunstedt requiring intermittent_polling to initiate communication
+j.a.at 669
+in that same response schumann cancelled application claims 19-24
+on december 19 1988 examiner_lev issued a notice of allowance for the eighteen remaining claims
+the claims issued on july_18,_1989 as u.s._patent_no._4850,009` the ¡¬009_patent`
+
+c. on july_24,_1987 schumann filed application no._07 /078,195-a continuation in part of the ¡¬278_application
+as with the ¡¬278 examiner_trafton was the examiner assigned to the ¡¬195 application
+examiner_trafton allowed nine application claims on december 16 1988 and the patent thereafter *907 issued as u.s._patent_no._4835,372` the ¡¬372_patent`
+the only_independent_claim of the ¡¬372_patent provides 1
+a patient_identification and verification_system for relating items to specific_patients and for ensuring that an identified_item corresponds to an identified patient comprising a programmed system_computer_means for processing and storing patient_data ; b input_means operatively interconnected to the programmed system_computer_means for input of data to the programmed system_computer_means ; c output_means operatively interconnected to the programmed system_computer_means for output of data from the programmed system_computer_means ; d first_bar_code_identifier_means adapted for attachment to a patient for identification of the patient the bar_code identifier means including a patient_unique_code ; e a plurality of second_bar_code_identifier_means for identifying items the second_bar_code_identifier_means including a code different from that of the first_bar_code_identifier_means so as to differentiate between the first and second_bar_code_identifier_means ; f the input_means and output_means including i microprocessor controlled portable_handheld_patient_terminal means having bar_code_reader_means for scanning the second_bar_code_identifier_means for relating various_items to a specific_patient the portable_handheld_patient_terminal means further including keyboard and display_means the portable_handheld_patient_terminal means including electromagnetic_wave_transceiver_means including means for transmission of data as an electromagnetic_wave which is representative of the first and second_bar_code_identifier_means scanned by the bar_code_reader_means and including means for receipt of data as an electromagnetic_wave ; ii microprocessor controlled base_station means including electromagnetic_wave_transceiver_means for receipt of and transmission of data as an electromagnetic_wave to the patient_terminal means the base_station means being interconnected to the programmed system_computer_means at least in part by telephone_lines for receipt and transmission of data on the telephone_lines to the programmed system_computer_means ; and
+( iii a plurality of stationary terminal means located at various stations remote from the programmed system_computer_means and interconnected to the programmed system_computer_means at least in part by telephone_lines for transmitting data to the programmed system_computer_means and for receipt of data from the programmed system_computer_means ; and
+( g terminal support means for interconnecting a bar_code reading device at least one printer device and a terminal having a display and keyboard to the system_computer the terminal support means including dov modem means for transmission of data to the system_computer at least in part by telephone_wiring
+¡¬372_patent col.44 l.39-col.45 l.33 emphasis added
+as with the ¡¬ 716 patent claim 1 of the ¡¬372_patent encompasses three-node_communication
+prior to the issuance of the ¡¬716_patent schumann did not notify examiner_trafton that the claims of the ¡¬372_patent had been allowed
+
+ii
+mckesson initiated the present suit for infringement against bridge on december *908 13 2002 in the united_states_district_court for the eastern_district of california
+bridge answered mckessons complaint by pleading the affirmative_defenses of unenforceability due to inequitable_conduct equitable estoppel and unclean hands
+bridge also brought counterclaims against mckesson for declaratory judgment
+the district_court bifurcated the trial into two phases with the first_phase being a bench trial on the inequitable_conduct affirmative defense and the second_phase being a jury trial on the remainder of the claims counterclaims and affirmative_defenses
+a four-day bench trial of the first_phase resulted in an unenforceability judgment in favor of bridge thereby rendering the second_phase unnecessary
+
+the court issued its findings of fact and conclusions of law on june_13,_2006
+mckesson info solutions inc. v. bridge med. inc. no._02-2669 2006_wl_1652518 e.d
+cal
+june_13,_2006` findings and conclusions'
+in particular the court found by clear and convincing_evidence that in the course of prosecuting the ¡¬716_patent schumanns failures to disclose 1 the existence of the baker_patent 2 examiner_levs rejections of the initially broad claims in the ¡¬149_application which issued as the ¡¬009_patent and 3 the allowance of claims in the ¡¬372_patent were material omissions done with an intent to deceive
+findings and conclusions slip op.at 16-48
+
+a
+with respect to schumanns failure to disclose the baker_patent to examiner_trafton the court first noted that until examiner_lev brought baker to schumanns attention` the same 38 prior_art_references [ had been cited ] in the ¡¬716 and ¡¬009_prosecutions [ i.e. the ¡¬278 and ¡¬149_applications respectively ]'
+id. slip op.at 21
+the court found this fact supportive of a finding of materiality because as schumann testified` [ i ] f the same art had been before the examiners and the claims are substantially similar [ that is ] probably a pretty good indication that the reference would be pretty material'
+id
+another fact the court deemed significant was examiner_levs finding` that the baker_patent rendered the address_code in the portable handheld [ of the ¡¬149_application ] obvious' id. because as schumann admitted the address_code of the ¡¬149_application was the same as the` programmable unique identifier' limitation of the ¡¬278_application see id. slip op.at 21-22
+taken together these two observations led the court to conclude that` the baker_patent meets thereasonable_examiner materiality standard and should have been disclosed to examiner_trafton'
+id. slip op.at 22
+
+the court buttressed its materiality conclusion with the further_observation that the baker_patent also includes three-node_communication-the very type of communication schumann used to differentiate the claims of the ¡¬716_patent from the prior_art
+see id. slip op.at 23-24
+the court explained in accordance with expert testimony elicited at trial that` schumann could not have made this patentability_argument if examiner_trafton had the opportunity to consider the baker_patent'
+id. slip op.at 24
+given this further_observation the court found the baker_patent to be not merely material but` highly material'
+id
+
+mckesson offered several reasons why in its view baker would not have been material to examiner_trafton
+first mckesson contended to the district_court that disclosure of the baker_patent would have been cumulative of other prior_art because` other_prior_art_references the blum and hawkins_patents'
+id
+the *909 blum reference u.s._patent_no._4628,193` the ¡¬193_patent` describes a portable handheld device useful in a hospital setting
+the user of blums handheld device first plugs it into a central_computer in order to download patient_data
+the user then unplugs the device and carries it from bed to bed and uses the downloaded data to ensure that each patient receives the correct treatment and/or medication
+¡¬193_patent col.3 l.63-col.4 l.36
+the hawkins_reference u.s._patent_no._4593,155` the ¡¬155_patent` describes a` portable id code transfer system in which the portable_unit learns its associated id code from the base communication unit thereby eliminating any requirement for manually coding the portable_unit with an id code to match the base_unit' ¡¬155_patent col.1 l.66-col.2 l.4 useful for` portable telephone systems garage door openers and remote computer terminals which communicate with a master computer' id
+col.1 ll.13-16
+in the context of a portable telephone system the hawkins_reference also describes communication between the base_unit and an outside telephone network in the event that the portable_unit and base_unit have matching ids
+id.at [ 57 ]
+
+the district_court found this argument unpersuasive in part because` lev who already had both the blum and hawkins_patents before him.. added the baker_patent to the mix of prior_art in the ¡¬009_prosecution and then relied on it in rejecting claims to a portable_handheld_terminal'
+findings and conclusions slip op.at 25
+`` clearly' the court continued` examiner_lev did not view baker as cumulative but rather treated it as an important addition to the prior_art previously cited by mr
+schumann'
+id
+( emphasis in original ; cf
+molins_plc v. textron inc. 48_f.3d_1172 1180 fed.cir.1995 holding that a district_court did not clearly err in finding materiality where the prior_art_reference at issue had been considered material by examiners in related foreign patent applications
+the court also viewed the baker_patent as` more explicitly and clearly disclos [ ing ] a three-node wireless communications system than either the blum or hawkins_patents'
+findings and conclusions slip op.at 25
+reasoning that the baker_patent need not invalidate the claims of the ¡¬716_patent in order to be material the district_court thus found that a` reasonable_examiner would have been substantially likely to consider the baker_patent important to the evaluation of the [278 ] application' given` the similarity of the core features of the baker_patent to the subject matter of the ¡¬716_patent'
+id
+ultimately then the district_court found baker` highly material and not cumulative'
+id. slip op.at 27
+
+the court next evaluated intent and found that schumann did in fact intend to deceive examiner_trafton by failing to disclose the baker_patent
+the court first explained that intent was inferable because` schumann was informed of the baker_patents materiality by the pto itself when examiner_lev brought the patent to [ schumanns ] attention suggested cancellation of certain claims and then rejected claims as obvious in light of baker-including claim elements that were present in the [278 ] application'
+id. slip op.at 28
+the court also reasoned that given the mere seventeen-day_gap between schumanns` representation to examiner_trafton that the prior_art does not disclose the three-node_approach to communications as provided in the claimed invention' and his telephonic discussion with examiner_lev` schumann could not have or certainly should not have missed bakers significance [ since ] it rendered his recent statement to examiner_trafton untrue further confirming that intent to deceive should be inferred'
+id. slip op.at 28-29
+
+*910 the court found additional evidence of deceptive_intent in schumanns admission at trial that he knew his duty to disclose material_information continued for at least 22 months after he learned of the baker_patent and yet schumann did nothing to bring baker to examiner_traftons attention
+id. slip op.at 29
+moreover the court explained` schumann himself evidenced his realization of the strength of the baker_patent when he chose not to even attempt to overcome examiner_levs rejection based on baker and cancelled the claims in the [ ¡¬149 ] application that were rejected due to baker'
+id
+and because the cancelled claims` included according to mr._schumanns own admission aspects of the invention under review [ by examiner_trafton ] mr._schumann either knew or should have known that the baker_patent was material in the ¡¬716 case'
+id. slip op.at 30
+
+the court recognized schumanns testimony that although` he has no recollection whatsoever of prosecuting the ¡¬716_patent' he believes` looking at the baker reference now [ that ] it is cumulative'
+id
+however the court found this explanation incredible both because it would have been unreasonable in the courts opinion to conclude that baker is cumulative and because no contemporaneous evidence e.g. notes records files etc
+was adduced at trial to show that schumann actually analyzed baker and arrived at such a conclusion
+id. slip op at 31
+the court further rejected schumanns explanation as` strain [ ing ] credulity' in light of the sequence of events surrounding the baker_patent 1 examiner_lev located the baker_patent on his own ; 2 he brought it to mr._schumanns attention in a telephone interview ; 3 he suggested the cancellation of certain ¡¬009 claims and then issued a rejection of those claims based in part on baker ; 4 shortly thereafter mr._schumann found that the rejection based on baker could not be overcome requiring him to cancel the claims regarding a handheld_patient_terminal system communicating wirelessly with base_stations and via wires with a remote central_computer in order to continue with the ¡¬009_prosecution ; 5 finally even though mr._schumann had disclosed the same prior_art in both the ¡¬009 and ¡¬716_prosecutions through that point in time he concluded that the baker_patent had no bearing on the ¡¬ 716 prosecution which involved the same three-node_wireless_system rejected in the ¡¬009_prosecution
+id. slip op.at 31-32
+the court also discredited the testimony as inconsistent with schumanns assertion on the witness stand that it was his practice to be` over inclusive' and to` bend [ ] over backwards to make sure [ he ] got everything into the case'
+id. slip op.at 32
+the totality of this evidence according to the court` overwhelmingly establishe [ d ]' that schumann by withholding the baker_patent from examiner_trafton acted with an intent to deceive
+id. slip op at 33-34
+
+b
+as to schumanns failure to disclose examiner_levs rejections of the claims in the ¡¬149_application the court began its analysis by rejecting mckessons argument that our decision in dayco products inc. v. total containment inc. 329_f.3d_1358 1367 fed.cir.2003` created a new disclosure requirement that [ did ] not apply to mr._schumanns prosecution of the ¡¬716_patent in the 1980s'
+findings and conclusions slip op.at 34 emphasis in original
+using dayco as a guide the court continued its analysis by explaining that examiner_levs` rejections are material if the rejected claims weresubstantially similar to the claims pending before examiner *911 trafton'
+findings and conclusions slip op.at 36 quoting dayco 329 f.3d at 1368
+
+based on this standard the court found that examiner_levs february 26 1987 rejection of claims 15_and_16 in the ¡¬149_application would have been important to examiner_traftons examination because those claims which` disclosed all three nodes of the ¡¬716s patient_identification_system with the identical means of communication among the core structures'` substantially overlapped with the limitations of claim 1 of the ¡¬716_patent'
+findings and conclusions slip op.at 37
+moreover the court explained this rejection would have been of additional_importance to examiner_trafton because it contradicts the argument for patentability schumann made to examiner_trafton on october 6 1987
+id. slip op.at 38
+the court further found materiality in examiner_levs december 1 1987 rejection of claims 15 16 19 and 21_through_23 of the ¡¬149_application both because of the substantial_similarity between those claims and claim 1 of the ¡¬716_patent and because examiner_lev` relied on the baker_patent which had not been disclosed in the ¡¬716_prosecution to reject theunique_address limitation of [ claims 22_and_23 ] which was also a limitation of the ¡¬716_patent'
+id. slip op.at 37
+this finding was buttressed by the courts observation that schumann` acquiesced' to examiner_levs rejection by canceling claims 19_through_24
+id. slip op.at 38
+here too the court reasoned that the rejection would have been of additional_importance to examiner_trafton because it contradicts schumanns october 6 argument for patentability
+id. slip op.at 38
+
+mckesson also argued relying on our opinion in akron_polymer container corp. v. exxel container inc. 148_f.3d_1380 1382 fed.cir.1998 that schumann effectively disclosed examiner_levs rejections by disclosing the existence of the ¡¬149_application to examiner_trafton
+the district_court rejected this argument by distinguishing akron_polymer on its facts and by explaining that section 2001.06 b of the manual of patent examination and procedure` mpep' as well as our decision in li_second_family lp v. toshiba corp. 231_f.3d_1373 1380 fed.cir.2000` plainly impose [ ] a duty of disclosure beyond citation of the co-pending application'
+findings and conclusions slip op.at 39-40
+
+regarding intent schumanns testimony at trial according to the court was that although he did not recall prosecuting the ¡¬278_application he explained that` he probably did not believe activity in the [ ¡¬149 ] application was material to the ¡¬716_prosecution because the [ ¡¬149 ] case involved only a terminal while the ¡¬716 involved an entiresystem
+`` id. slip op.at 41
+the court discounted this explanation as` contradicted by the actual wording of the claims rejected by examiner_lev which.. included all of the elements of a three-node_wireless_system'
+id
+moreover the court continued` schumann admitted on cross examination that his terminal/system argument was a distinction without a difference'
+id
+the court also discounted as not credible and the` product of newly developed hindsight' schumanns testimony that his firm at the time did not have procedures in place for citing office_actions in co-pending applications
+id. slip op.at 42
+schumanns trial testimony in this regard was further undermined in the courts estimation by his deposition testimony that a rejection in a co-pending application ought to be disclosed` if it was deemed to be relevant'
+id
+and even if schumanns former firm did have such procedures in place a matter not decided in fact the court held that our decision in brasseler u.s.a
+i l.p. v. stryker sales *912 corp. 267_f.3d_1370_(fed.cir.2001) prevents firms from` insulat [ ing ] [ their attorneys ] against charges of inequitable_conduct by instituting policies that prevent [ the attorneys ] from complying with the law' findings and conclusions slip op.at 43
+thus the court concluded that` while mr._schumanns disclosure of the co-pendency of the [ ¡¬149_application ] to examiner_trafton is some evidence of a lack of intent to deceive under akron_polymer weighing all the evidence here as the court must said disclosure does not overcome the inference of an intent to deceive established [ on these facts ]'
+findings and conclusions slip op.at 44 emphasis in original footnote omitted
+
+c. the district_court next addressed schumanns failure to disclose the allowance of the claims of the ¡¬372_patent
+again the court looked to dayco and mpep_¡± 2001.06 b and held that a notice of allowance in a co-pending application is material if the allowed claims could conceivably have given rise to a double_patenting_rejection
+findings and conclusions slip op.at 45-46
+mckesson argued that even so the claims of the ¡¬716_patent are not sufficiently similar to the claims of the ¡¬372_patent to render the allowance of those claims material
+the district_court disagreed finding that although the claims of the ¡¬372_patent do not have a comparable` programmable unique identifier' limitation` examiner_trafton should have been given the opportunity to consider whether the added limitations in the ¡¬716 were non-obvious'
+id. slip op.at 47
+`` indeed' the court continued` given that examiner_lev had rejected theunique identifier as obvious.. it is certainly conceivable that the ¡¬716 could have been rejected under the doctrine of obviousness-type double patenting'
+id
+thus the court concluded that the allowance of the ¡¬372_claims was material and should have been disclosed
+
+as to intent the court discounted schumanns explanation as` implausible' that` the two patents did not raise a double patenting issue becausethe claims were different in those cases
+`` id. slip op.at 48
+specifically the court explained that because the structure of means-plus-function limitations are defined by the specification and because` the entire ¡¬716 specification.. is included in the ¡¬372 specification'` schumann certainly should have known if he did not know that an allowance of identical claims might have been important to make of record'
+id
+even giving schumann_credit for disclosing the existence of the co-pending application that led to the ¡¬372_patent the court nevertheless found that schumann withheld the allowance of the ¡¬372_claims with deceptive_intent
+
+d. as a final_step the court engaged in equitable balancing and concluded that the` pattern of material_nondisclosures such as present here weighs firmly in favor of unenforceability' id.. because` the showings of materiality and intent are high' with respect to each identified nondisclosure id. slip op.at 50
+the court thus entered judgment against mckesson on infringement and dismissed bridges pending counterclaims as moot and without prejudice
+mckesson subsequently appealed to this court
+see int l elec tech corp. v. hughes aircraft co. 476_f.3d_1329 1330-31 fed.cir.2007
+see int l elec
+
+*913 iii
+`` a patent may be rendered unenforceable for inequitable_conduct if an applicant with intent to mislead or deceive the examiner fails to disclose material_information or submits materially false information to the pto during prosecution'
+digital_control inc. v. charles mach
+works 437_f.3d_1309 1313 fed.cir.2006 ; see also 37 c.f.r.¡± 1.56 a` each individual associated with the filing and prosecution of a patent application has a duty of candor and good_faith in dealing with the office which includes a duty to disclose to the office all information known to that individual to be material to patentability as defined in this section
+``
+
+the materiality of information withheld during prosecution may be judged by the` reasonable_examiner' standard
+see id.at 1316
+that is` [ m ] ateriality.. embraces any information that a reasonable_examiner would substantially likely consider important in deciding whether to allow an application to issue as a patent'
+akron_polymer 148 f.3d at 1382 citations omitted
+moreover` [ i ] nformation concealed from the pto may be material even though it would not invalidate the patent'
+li_second_family 231 f.3d at 1380
+`` however a withheld otherwise material [ piece of information ] is not material for the purposes of inequitable_conduct if it is merely cumulative to that information considered by the examiner'
+digital_control 437 f.3d at 1319
+`` as this court has previously noted the scope and content of prior_art and what the prior_art teaches are questions of fact'
+id
+
+`` the intent_element of the offense is.. in the main proven by inferences drawn from facts with the collection of inferences permitting a confident judgment that deceit has occurred'
+akron_polymer 148 f.3d at 1385
+`` however inequitable_conduct requires not intent to withhold but rather intent to deceive
+intent to deceive can not be inferred simply from the decision to withhold [ information ] where the reasons given for the withholding are plausible'
+dayco 329 f.3d at 1367
+in addition` a finding that particular conduct amounts togross negligence does not of itself justify an inference of intent to deceive ; the involved conduct viewed in light of all the evidence including evidence indicative of good_faith must indicate sufficient culpability to require a finding of intent to deceive'
+kingsdown med consultants ltd. v. hollister_inc. 863_f.2d_867 876 fed.cir.1988 en banc in relevant part
+
+`` the party asserting inequitable_conduct must prove a threshold level of materiality and intent by clear and convincing_evidence'
+digital_control 437 f.3d at 1313
+`` the court must then determine whether the questioned conduct amounts to inequitable_conduct by balancing the levels of materiality and intentwith a greater showing of one factor allowing a lesser showing of the other
+( quoting union_pac res co. v. chesapeake energy corp. 236_f.3d_684 693 fed.cir.2001
+( quoting union_pac
+`` when after a trial the court has made factual_findings as to materiality and deceptive_intent those factual_findings are reviewed for clear_error and the decision of the ultimate issue of inequitable_conduct is reviewed for abuse of discretion'
+digital_control 437 f.3d at 1313
+
+a
+we first discuss schumanns failure to disclose the baker_patent to examiner_trafton during prosecution of the applications leading to the ¡¬716_patent
+mckesson first points out that examiner_lev cited baker` solely for its disclosure of a unique_address_code' and that hawkins *914 which was before examiner_trafton also discloses that same feature
+moreover according to mckesson` hawkins is a better and more relevant reference with regard to the ¡¬716_prosecution because hawkins further teaches a programmable unique identifier for wireless communications between a portable_terminal and base_station as claimed in the ¡¬716' unlike baker which allegedly` does not teach that critical feature of programming'
+appellants br.at 56 emphasis in original
+therefore mckesson contends` bakers disclosure of a unique_address_code was merely cumulative to hawkins'
+id.at 57
+
+even if mckesson is correct that hawkins discloses a programmable_unique_identifier_limitation more clearly than baker the importance of baker to a reasonable_examiner is not limited to the disclosure of that limitation
+one of schumanns primary arguments for the patentability of the claims of the ¡¬ 716 patent was the use of three-node_communication
+accordingly the three-node_communication_system disclosed in baker-consisting of portable handsets one or more subsystem controllers and a central_controller-could be material quite apart from the disclosure of anything analogous to a programmable_unique_identifier_limitation
+
+insofar as both patents disclose three-node_communication mckesson characterizes hawkins as being on equal footing as baker
+we disagree
+the hawkins specification which contemplates communication between a garage door opener and a remote control in one embodiment leaves no doubt that the invention described therein is a two-node_communication_system consisting of a base_station and a portable_unit
+admittedly in the wireless_telephone_embodiment this system is capable of connecting to a third communication node i.e. a telephone system network
+¡¬155_patent col.21 ll.6-9 claim 25
+however unlike the baker_patent only two nodes are described in any significant detail in the hawkins_patent
+
+moreover the telephone_system_network_node of the hawkins_patent is not the analogue to the central_controller_node in the baker_patent because the central_controller_node is an internal node entirely separate from any outside_network_node
+in other_words the base_station node in the wireless_telephone_embodiment of the hawkins_patent directly connects to the telephone_system_network_node but the analogous subsystem controller node in the baker_patent only indirectly connects with an outside_network_node via the central_controller_node
+see e.g. ¡¬793_patent col.6 ll.28-38 explaining that the` central_controller 101 controls incoming and outgoing calls to a telephone central office' ; id
+fig._3
+thus we find no clear_error in the district_courts conclusion that baker discloses three-node_communication more clearly than hawkins
+
+mckesson further argues that` the art of record showed at least twelve three-node_systems' in order to demonstrate that baker is cumulative
+appellants reply_br.at 10
+however aside from hawkins in combination with blum the only two such systems specifically pointed to by mckesson are u.s._patent_no._4588,881` the ¡¬881_patent` to pejas and u.s._patent_no._4180,204` the ¡¬204_patent` to koenig
+appellants reply_br.at 10
+
+pejas relates to an inventory-monitoring system in which one or more bar_code` reading pens' are each connected to their own portable_terminal
+¡¬ 881 patent col.2 ll.20-24
+the portable_terminals communicate wirelessly with` converters' which in turn communicate with a` control centre'
+id
+col.2 ll.24-37
+the system facilitates communication between the control center and a particular terminal by associating an address with each terminal
+*915 id
+col.3 ll.15-27
+thus pejas appears to disclose both three-node_communication pen/terminal to converter to control center as well as a unique_addressing scheme analogous to the programmable_unique_identifier_limitation of the ¡¬716_patent
+importantly however the description of the preferred_embodiment in baker spans over eleven columns and provides a highly technical discussion of the implementation of the three-node_communication_system with unique_addressing whereas the same description in pejas is just under two columns and provides only cursory implementation details
+compare ¡¬ 793 patent col.4 l.33-col.15 l.46 with ¡¬881_patent col.2 l.15-col.4 l.12
+therefore we find no clear_error in the district_courts failure to find that pejas renders baker cumulative
+
+koenig the other reference identified by mckesson discloses a similar pen-type reader or` wand' attached to a portable_terminal for reading bar_codes
+¡¬204_patent fig.1
+when the wand successfully reads a bar_code the data is transmitted from the terminal to a remote computer via a modem
+id
+col.3 ll.52-56
+as a threshold matter we question whether koenig actually discloses a three-node_communication_system because it appears from the claims that the modem is not a distinct node
+see id
+col.6 ll.30-32 stating that` said computer means comprises a minicomputer and a modem interface' emphasis added
+in addition koenig does not disclose anything analogous to the programmable_unique_identifier_limitation of the ¡¬716_patent
+accordingly we hold that the district_court did not clearly err by finding baker noncumulative
+
+mckesson advances another assignment of clear_error by contending that the district_court in concluding that baker undermines schumanns argument to examiner_trafton on october 6 1987 that` none of the references [ either singularly or in combination ] teach the three node_approach to communications as provided in the claimed invention' j.a.at 366 misinterpreted schumanns statement by focusing` solely on a comparison of the similarities of baker and the ¡¬716_claims and not their differences' appellants br.at 60
+according to mckesson schumann was not referring to three-node_communication generally but rather to three-node_communication with all of the limitations present in the claims i.e.` as provided in the claimed invention'
+in particular mckesson points out bridge adduced no evidence that a the` central_controller' of baker` may have its own_terminals for entry/display of information ;' b the` subsystem controller' of baker is` preferably located in the patient rooms and other_suitable_locations ;' or c the cordless phone of baker constitutes a` portable_handheld_patient_terminal' including all the limitations thereof contained in the claims of the ¡¬716_patent
+appellants reply_br.at 6
+
+we are not persuaded by this argument
+reading schumanns statement to examiner_trafton in context schumann was plainly referring to the differences between the three-node_communication_system of the ¡¬716_claims and non-three-node_communication_systems of the prior_art exclusive of any other differences between the claims and the prior_art
+see j.a.at 366` in addition to numerous_other_differences none of the references teach the three node_approach to communications as provided in the claimed invention'
+( emphasis added
+moreover the existence of differences between baker and the ¡¬716_claims does not standing alone render baker immaterial
+see li_second_family 231 f.3d at 1380` information concealed from the pto may be material even *916 though it would not invalidate the patent`
+thus the district_court did not clearly err in this regard
+
+mckesson contends that irrespective of bakers materiality the district_court clearly erred in finding that schumann intended to deceive examiner_trafton
+in the proceedings below the district_court relied in part upon our decision in bruno independent living aids inc. v. acorn mobility services ltd. 394_f.3d_1348_(fed.cir.2005) to infer an intent to deceive
+see findings and conclusions slip op.at 27-28
+in bruno we upheld a district_courts finding of intent where prior_art was withheld from the pto but was nevertheless submitted to the fda as part of that agencys product approval process
+394 f.3d at 1354
+the high materiality of the withheld prior_art coupled with the lack of` a credible_explanation for the nondisclosure' led us to conclude that the district_court had not committed clear_error by inferring an intent to deceive
+id. at 1354-55
+in this case the district_court rejected as incredible schumanns explanation for nondisclosure of the highly-material baker reference
+
+mckesson believes bruno is distinguishable from the present_case for three reasons
+first mckesson argues` the device disclosed to the fda included a more relevant feature than any art of record in the patent-in-issue' whereas in this case` the features disclosed in baker were already present in the art of record'
+appellants br.at 61
+we reject this argument because it is nothing more than an attempt to rehash an argument rejected above namely that baker is cumulative of the prior_art that was already in front of examiner_trafton
+
+the second distinction raised by mckesson is that` in bruno the patentee affirmatively disclosed the device to the fda while simultaneously withholding it from the pto' but here` schumann made no comparable disclosure outside the pto'
+appellants br.at 61
+to begin with we see no meaningful distinction between disclosure outside the pto as opposed to disclosure within the pto
+with that in mind we find bruno to be on point because as in that case schumann had closely related co-pending applications the ¡¬278_application and the ¡¬149_application in which a noncumulative material prior_art_reference baker was withheld from one examiner trafton but was simultaneously in front of the other_examiner lev
+
+finally mckesson points out that` the device disclosed to the fda in bruno was asubstantial equivalent of the product containing the patented technology' but in this case there is no such substantial_equivalence because the baker_patent relates to a cordless_telephone_system and the ¡¬716_patent relates to a patient_identification and verification_system
+appellants br.at 61
+mckesson reads too much into bruno
+we did not hold in that case that substantial_equivalence is necessary to support a finding of inequitable_conduct ; we merely found that substantial_equivalence is sufficient
+in other_words we did not hold that a prior_art_reference must be substantially equivalent to the claimed invention in order to be material
+
+mckesson also attempts to seek refuge from bruno by looking to our holding in akron_polymer
+in akron_polymer co-pending applications were being prosecuted by the same attorney to different_examiners
+the prosecuting attorney disclosed the first-filed application to the examiner of the second-filed application but did not disclose the filing of the second_application to the examiner of the first-filed application
+in the first trial of the case the district_court held that the second_application was not material to the prosecution of the first-filed application
+the district *917 court also found no culpable_intent on behalf of the common applicant and thus no inequitable_conduct
+on appeal we disagreed holding that the second-filed application was highly material to the prosecution of the first-filed application because` it could have conceivably served as the basis of a double_patenting_rejection'
+akron_polymer 148 f.3d at 1382
+we thus remanded for further adjudication of the inequitable_conduct issue
+id
+
+on remand the district_court found deceptive_intent with regard to nondisclosure of the second_application to the examiner of the first-filed application
+the patentee appealed the judgment of inequitable_conduct arguing error in the finding of deceptive_intent
+we noted that` [ w ] hen examining intent to deceive a court must weigh all the evidence including evidence of good_faith'
+id.at 1384
+because the district_court had given no weight at all to the inference of good_faith that had to be drawn from disclosure of the second_application we found clear_error in the district_courts assessment of culpable_intent
+consequently we reversed the judgment of unenforceability
+
+akron_polymer stands for no more than the unsurprising proposition that all evidence of intent including all inferences favorable and unfavorable must be weighed when assessing culpable_intent
+in that case the district_court overlooked a favorable_inference that should have been drawn in favor of the patentee
+that error undermined the judgment of unenforceability
+
+we agree with mckessons assertion that akron_polymer earns it some credit for the fact that schumann did disclose the co-pendency of the ¡¬149_application to examiner_trafton in the assessment of the overall inferences to be drawn from all the facts in the case
+the district_court did in fact credit mckesson with` some evidence of a lack of intent to deceive under akron_polymer'
+findings and conclusions slip op.at 44 ; see also id. slip op.at 48 giving schumann_credit for disclosing the co-pendency of the application that issued as the ¡¬372_patent
+but the district_court weighed all the evidence as discussed above in this opinion and held that the favorable_inference drawn from disclosure of the second_application` does not overcome the inference of an intent to deceive established by the [ other ] facts'
+id. slip op.at 44
+
+mckesson continues by contending that schumann did not know and should not have known of bakers materiality because examiner_lev cited it during prosecution of the ¡¬009_patent` only.. for its unique_addressing_feature that was already before examiner_trafton in the better disclosure of hawkins'
+appellants br.at 62
+moreover mckesson states the seventeen-day_gap between schumanns october 6 assertion to examiner_trafton that none of the prior_art teaches three-node_communication and schumanns october 23 interview with examiner_lev regarding baker` can not be evidence of intent' given that the assertion to examiner_trafton was before the interview with baker
+id
+
+these two arguments are unconvincing
+as to the former simply because examiner_lev cited baker for its unique_addressing_feature did not release schumann from the relevance of bakers other teachings
+although mckessons argument might have some merit if examiner_lev had cited one small section of a much larger work citation to the eighteen-column baker_patent put schumann on notice of the content of the whole document
+and as to the second argument schumanns duty to disclose material_information to the pto extended well beyond october 23 1997
+see e.g. *918 fox indus. inc. v. structural preservation sys. inc. 922_f.2d_801 803 fed.cir.1991` the duty of candor extends throughout the patents entire prosecution history
+`` ; mpep_¡± 2001.06 5th_ed
+rev.3 1986` the duty to disclose material_information extends to information [ individuals covered by 37 c.f.r.¡± 1.56 ] are aware of prior to or at the time of filing the application or become aware of during the prosecution thereof`
+therefore the fact that schumann learned of baker after his october 6 assertion to examiner_trafton is of no consequence
+the mere seventeen-day_gap is important however because it bolsters the district_courts inferences that schumann knew or should have known of bakers materiality to the ¡¬278_application and that he intentionally withheld baker from examiner_trafton with deceptive_intent
+
+we also reject mckessons attempt to downplay the significance of schumanns cancellation of claim 22 of the ¡¬149_application subsequent to examiner_levs citation to baker
+irrespective of schumanns disagreement with examiner_levs conclusion that claim 22-which incorporated both three-node_communication and a unique_address_limitation-was obvious in light of a combination involving baker schumanns cancellation of that claim fairly gives rise to an inference that he recognized baker would also present a significant obstacle to the patentability of dependent_claim 6 of the ¡¬278_application
+yet in spite of the advice provided to prosecuting attorneys in the 1986 version of the mpep that` information.. specifically considered and discarded as not material' ought to be` recorded in [ the ] attorneys file or applicants file including the reason for discarding it' mpep_¡± 2004 18 5th_ed
+rev.3 19861 schumann offered no such recorded reason ; he was only able to give speculative testimony about the conclusions he must have drawn at the time with respect to bakers materiality
+the district_court as it was free to do found this testimony incredible
+findings and conclusions slip op.at 31-32
+accordingly we see no clear_error in the district_courts inference of intent from schumanns cancellation of claim 22
+
+finally mckesson asserts that critikon inc. v. becton dickinson vascular access inc. 120_f.3d_1253_(fed.cir.1997) is distinguishable
+in that case we found an intent to deceive where an applicant knowingly failed to disclose a prior_art patent during prosecution that recited a limitation corresponding to` a point of novelty the examiner relied upon during the course of prosecution'
+id. 120 f.3d at 1256
+mckesson primarily distinguishes the case at hand by stating that baker does not disclose a` point of novelty' of the ¡¬716_claims and that the evidence does not show that schumann understood baker to disclose any such point of novelty
+both of these points of distinction are incorrect
+as we explained above baker discloses two of the ¡¬716_patents points of novelty three-node_communication and unique_addressing
+in addition the evidence unquestionably shows that schumann understood baker to disclose at least unique_addressing and that schumann should have understood baker to *919 disclose three-node_communication
+therefore the district_court did not clearly err by further inferring deceptive_intent from schumanns subsequent failure to disclose baker to examiner_trafton
+as the district_court held the overwhelming_circumstantial_evidence coupled with the lack of any credible_explanation for nondisclosure of baker supports the finding of deceptive_intent
+findings and conclusions slip op.at 27
+
+b
+we now turn to schumanns failure to disclose examiner_levs rejections in the ¡¬149_application009_patent
+this court addressed the failure to disclose rejections in co-pending applications for the first time in dayco
+we held that [ a ] contrary decision of another_examiner reviewing a substantially similar claim meets the akron_polymer` reasonable_examiner' threshold materiality test of` any information that a reasonable_examiner would substantially likely consider important in deciding whether to allow an application to issue as a patent'
+148 f.3d at 1382 47 u.s.p.q.2d at 1534 emphasis in original
+patent disclosures are often very complicated and different_examiners with different technical backgrounds and levels of understanding may often differ when interpreting such documents
+although examiners are not bound to follow other_examiners interpretations knowledge of a potentially different interpretation is clearly information that an examiner could consider important when examining an application
+dayco 329 f.3d at 1368 first emphasis added
+
+in the proceedings below mckesson urged the district_court to hold that a` substantially similar' claim is a claim having substantial_similarity` in content and scope' to the claim at issue
+the court declined explaining first that the phrase` in content and scope' was not used by this court in dayco and second that` mckesson has not provided any persuasive explanation for how this language substantively alters the result here'
+findings and conclusions slip op.at 36_n._7
+instead the court announced that it would apply a` substantially similar' test in determining whether` there is a substantial_likelihood that a reasonable_examiner would have considered the [ rejections ] important in deciding whether to issue the application as a patent'
+id.at 17 36_n._7
+the court further noted that we found substantial_similarity in dayco among claims that` were in some respects substantially identical'
+see dayco 329 f.3d at 1361 emphasis added
+mckesson argues on appeal that the district_court misapplied dayco because it used a lesser` in some respects identical' test which failed to account for differences between the compared sets of claims
+
+as we explained in digital_control materiality may be proven in numerous ways including via the so-called` reasonable_examiner' standard
+437 f.3d at 1316
+under dayco that standard is satisfied in the rejected-claims setting if the rejected claims are substantially similar to the claims at issue
+329 f.3d at 1368
+in other_words a showing of substantial_similarity is sufficient to prove materiality
+it does not necessarily follow however that a showing of substantial_similarity is necessary to prove materiality
+indeed in the same way that prior_art need not be substantially similar in order to be material e.g. the telephone system of baker though not substantially similar to the ¡¬716_claims is nevertheless material rejected claims in a co-pending application also need not be substantially similar in order to be material
+therefore to the *920 extent there is a difference among` in some respects identical'` substantially similar' and substantial_similarity` in content and scope' that difference is inconsequential so long as the evidence clearly and convincingly proves materiality in one of the accepted ways
+see digital_control 437 f.3d at 1316
+here the district_court found under the accepted` reasonable_examiner' standard that examiner_levs rejection of certain ¡¬149 claims was in fact material to the prosecution of the ¡¬278_application before examiner_trafton
+our role on appeal is to determine whether that finding is clearly erroneous
+
+as to the district_courts finding of materiality with respect to examiner_levs rejection of claims 15_and_16 in the ¡¬149_application on february 26 1987 mckesson points to four differences between those claims and the claims of the ¡¬716_patent which mckesson argues were ignored by the district_court [ t ] he portable_handheld_terminal system of claims 15-16 [ 1 ] lacks a first and second_bar_code_identifier_means [ 2 ] lacks the base_station limitations of a programmable unique identifier a means for allowing communication with a portable_terminal having a corresponding unique identifier and a means for programming the portable_terminal with the unique identifier [ 3 ] lacks any patient_identification or verification limitations and [ 4 ] lacks any means for an alarm_signal if the patient-item verification does not correspond
+appellants br.at 26-27
+according to mckesson these differences combined with the fact alleged by mckesson that the three-node_communication_system disclosed in claims 15_and_16 is cumulative of prior_art already before examiner_trafton demonstrates that examiner_levs rejection of those claims would not have been of` any particular relevance to examiner_trafton in the ¡¬ 716 prosecution'
+id.at 27
+
+we find this argument unpersuasive
+we note as an initial matter that the district_court did not ignore the differences cited above ; rather the court explicitly mentioned mckessons`redline comparisons of the various claims to demonstrate that there are wording differences and even some differences in claim limitations' and then explained the rationale for rejecting those differences as insufficient to undermine a finding of materiality
+findings and conclusions slip op.at 36
+moreover even if the district_courts opinion had not adequately addressed the differences pointed to by mckesson we would not be inclined to find clear_error as a result
+both the version of claims 15_and_16 rejected by examiner_lev on february 26 1987 as well as the version of the ¡¬278_application_claims rejected by examiner_trafton on april_6,_1987 unquestionably disclose three-node_communication the existence of which as schumanns subsequent statements to examiner_trafton reveal was crucial to schumanns patentability_argument
+it is therefore evident that prior to examiner_traftons april 6 rejection examiner_levs rejection of three-node_communication would have been considered important by any reasonable_examiner in examiner_traftons position
+and after april 6 when examiner_trafton did not cite any combination of blum and pejas-as he would in the subsequent december 8 office_action-the materiality of examiner_levs rejection was arguably magnified
+lest there be any doubt as to the materiality of examiner_levs rejection we note that on august 26 1987 schumann responded to examiner_lev by limiting the three-node_system of the ¡¬149_application to` real_time' communication see j.a.at 649 and on october 6 1987-just over one month later-he *921 sought to overcome examiner_traftons rejection with a nearly identical argument limiting the three-node_system of the ¡¬278_application to` real_time interactive three node_communication' id.at 367 emphasis added
+moreover any differences between the three-node bar_code reading systems of the ¡¬278_application and the related ¡¬149_application are plainly less significant than the obvious_differences between the three-node bar_code reading systems of either application and the three-node telephone system of baker
+yet in spite of the obvious_differences presented by the latter system we held above that baker is material
+it must be the case then that the four differences pointed to by mckesson are insufficient to deprive examiner_levs february 26 rejection of materiality
+along those same lines and in light of our holding above that baker is not cumulative we must likewise hold here that any citation to examiner_trafton regarding examiner_levs february 26 rejection would not have been cumulative
+
+we arrive at the same conclusion with respect to examiner_levs rejection of claims 15_and_16 on december 1 1987 in view of a combination of blum and sunstedt
+as we stated above schumann sought to overcome this rejection by further limiting the three-node_system of the ¡¬149_application to handheld_terminals that do not require the polling taught by sunstedt but rather are capable of initiating communication themselves
+it is at best unclear whether the claims of the ¡¬716_patent are similarly limited or whether the initiation of communication by the handheld_terminal which seems to be described in the specification is merely part of a preferred_embodiment
+see e.g. ¡¬716_patent col. 15 ll.12-18` next the nurse will read the patient identifier bar_code on the patients identification bracelet and the item identifier bar_code on the items to be administered and press asend key on the bar_code reading device 48 while in the patients room
+this activates the transmission of data via the telephone_wiring to the computer system 42`
+suffice it to say it is substantially likely that examiner_levs rejection of the closely-related three-node_system in the ¡¬149_application in view of blum and sunstedt would have been considered important to a reasonable_examiner confronting the claims of the ¡¬278_application
+and as before the materiality of this rejection was arguably magnified by the fact that examiner_trafton never cited any combination of blum and sunstedt before deciding to issue a notice of allowance
+
+with respect to examiner_levs rejection of claims 19_and_21 through 23 in the same december 1 office_action mckesson raises a few additional materiality arguments we have not yet addressed
+the first of those is mckessons argument that examiner_levs rejection of claims 21_through_23 is immaterial because those claims recite a method of three-node_communication whereas claim 1 of the ¡¬716_patent recites a system for three-node_communication
+however mckesson merely asserts in conclusory fashion that the method of claims 21_through_23 in the ¡¬149_application is` very different' from the system of claim 1 in the ¡¬716_patent
+appellants br.at 29
+because we disagree with this characterization we conclude that this argument is simply a distinction without a difference
+see li_second_family 231 f.3d at 1376 affirming a finding of inequitable_conduct where an applicant for semiconductor structure claims misrepresented the ptos previous disposition with respect to related method of manufacture claims in another application pending before a different_examiner
+mckesson also argues that schumanns cancellation of these claims in *922 the face of examiner_levs rejection is not evidence of materiality because such cancellation is` a legitimate and acceptable_practice to obtain an early issuance of a patent' and because schumann` explicitly stated that he was not acquiescing in the rejection but reserving the right to bring the claims in a further application'
+appellants br.at 30 emphasis in original
+while these facts may be evidence that schumann disagreed with examiner_lev schumanns cancellation of the claims remains evidence that examiner_levs rejections could not be easily overcome
+as such we see no error with the district_courts conclusion that schumanns cancellation-whether it is characterized as` acquiescence' or` legitimate and acceptable_practice' -is evidence of materiality
+finally mckesson points out that because rejected claim 19 discloses two-node_communication instead of three-node_communication examiner_levs rejection of that claim is not material
+at most this distinction demonstrates that examiner_levs rejection of claim 19 is cumulative because two-node_communication was well known in the prior_art e.g. the hawkins_patent
+nevertheless we do not believe that the possibility of one small piece of evidence being cumulative is sufficient to undermine the legitimacy of the district_courts otherwise error-free finding of materiality
+
+as to intent mckesson first argues that the district_court mischaracterized the` terminal/system' distinction to which schumann testified at trial
+in fleshing this argument out mckesson states that` [ e ] vidence that [ schumann ] acted in concert with a belief that the ¡¬149 claims pertained to a portable_terminal or even a portable_terminal system and not the patient_identification and verification_system of the ¡¬716 shows a lack of deceptive_intent that the court should not have ignored'
+appellants br.at 35-36 emphasis in original
+based on this explanation we are unable to comprehend exactly how the district_court mischaracterized schumanns testimony
+as best we are able to discern mckessons explanation makes exactly the same distinction between terminal claims and system claims
+in any event a comparison of the rejected claims to the ¡¬716_claims reveals that both sets of claims relate to the use of three-node_communication and a unique_address in the context of bar_code reading
+therefore we conclude that the district_court did not err in rejecting this distinction
+cf
+li_second_family 231 f.3d at 1376
+
+mckesson contends that the district_court erred by failing to account for evidence of schumanns good_faith namely his two separate disclosures of the existence of the ¡¬149_application to examiner_trafton in the course of prosecuting the ¡¬716_patent
+according to mckesson given the state of the law in the mid-1980s` there was no awareness' that the further disclosure of rejections in co-pending applications was necessary
+appellants br.at 39
+it was not until this courts 2003 decision in dayco mckesson argues that the patent bar was put on notice that rejection disclosures are in fact necessary
+
+this argument is untenable in light of not only the facts of dayco itself-where we applied this` new' law to patents claiming a priority_date of 1989 see 329 f.3d at 1360-but also the then-current fifth edition of the mpep which explains the breadth of` information' as used in 37 c.f.r.¡± 1.56 a the term` information' as used in ¡± 1.56 means all of the kinds of information required to be disclosed and includes any information which is` material to the examination of the application'
+...
+the term` information' is intended to be all encompassing.. [ *big_token__923_section_1__big_token56 a ] is not limited to information which would render the claims unpatentable but extends to any information` where there is a substantial_likelihood that a reasonable_examiner would consider it important in deciding whether to allow the application to issue as a patent'
+mpep_¡± 2001.04 5th_ed
+rev.3 1986 emphasis altered
+and in explaining the various_sources of information subject to the duty to disclose the mpep further provides all individuals covered by ¡± 1.56.. have a duty to disclose to the patent and trademark_office all material_information they are aware of or reasonably should have been aware of.. regardless of the source of or how they became aware of the information
+materiality controls whether information must be disclosed to the office not the circumstances under which or the source from which the information is obtained
+if material the information must be disclosed to the office
+the duty to disclose material_information extends to information such individuals are aware of prior to or at the time of filing the application or become aware of during the prosecution thereof
+such individuals may be or become aware of material_information from various_sources such as for example co-workers tradeshows communications from or with competitors potential infringers or other third parties related foreign applications.. prior or copending united states patent applications.. related litigation.. and preliminary examination searches
+mpep_¡± 2001.06 5th_ed
+rev.3 1986 emphasis altered
+the mpep also makes clear that the above explanations apply with full force to information obtained with respect to co-pending applications the individuals covered by 37_c.f.r._156 a have a duty to bring to the attention of the examiner.. information within their knowledge as to other copending united states applications which are` material to the examination' of the application in question
+mpep_¡± 2001.06 b 5th_ed
+rev.3 1986 emphasis added
+thus the mpep to which schumann would have referred2 while the ¡¬278_application was pending leaves no doubt that material rejections in co-pending applications fall squarely within the duty of candor
+
+mckesson also attempts to distinguish the present facts from those found in li_second_family
+that case involved a complicated family of applications all relating to semiconductors dating as far back as 1965
+li_second_family 231 f.3d at 1375-76
+during prosecution of one application in the family the examiner rejected the claims in light of three prior_art_references
+id.at 1376
+the applicant responded by claiming that he was entitled to a priority_date predating that of any of the references
+id
+in september 1979 the examiner determined that the applicant was not entitled to the earlier_priority_date and again rejected the claims
+id
+the then-existing pto board of appeals affirmed in 1981
+id
+however in 1984 during prosecution of another application in the family the applicant presented the same priority_date argument to a different_examiner in order to overcome a rejection based on a set of prior_art_references that overlapped with the set of references that served as the basis for the rejection in the *924 prior_application
+id.at 1377
+in so arguing the applicant` made reference to the [ prior ] application only in a genealogy_chart of the related_applications that he attached to the last_supplemental_amendment he filed' but made` no written record of a disclosure to the pto.. of the boards 1981 decision regarding priority_dates in the [ prior ] application'
+id
+unlike the examiner in 1979 the examiner in this later application accepted the applicants argument and allowed the claims with the earlier_priority_date
+id
+after the patent issued the applicant-turned-patentee filed an infringement_suit against a competitor
+id
+the competitor-defendant pled unenforceability due to inequitable_conduct
+id
+the district_court agreed finding that the patentee had` not adequately disclose [ d ] the [ 1981 ] decision to the [ later ] examiner and that [ the patentee ] further committed inequitable_conduct by affirmatively and repeatedly arguing to the examiner that his claims were entitled to the benefit of the earlier filing date [ ]'
+id
+
+on appeal we stated that` [ a ] lthough the genealogy_chart filed [ with the last_supplemental_amendment ] shows the chain of parent_applications and related_applications including the [ prior_application subject to rejected priority_dates ] we agree with [ the defendant ] and the district_court that the chart does not adequately disclose the relevant information-the boards decision regarding the priority_dates'
+id.at 1378
+we explained that` [ u ] nlike an applicants disclosure of a prior_art_reference the content of which is presumed to be before the examiner.. submission of the genealogy_chart with reference to the [ prior ] application only in the context of prior_art cited in that application and with no mention of the boards decision was not sufficient to disclose the boards decision to [ the examiner ]'
+id.at 1379
+`` moreover' we continued` in the same supplemental amendment to which [ the then-applicant ] attached the genealogy_chart [ he ] reiterated his assertions that the claims were entitled to filing dates of parent_applications a statement inconsistent with the boards decision that [ he ] purportedly disclosed'
+id
+after we then held that the district_court had not clearly erred in finding that the boards decision in the prior_application was material id.at 1379-81 we proceeded to analyze the district_courts finding of intent
+we first explained that the numerous statements during prosecution contrary to the boards decision supported a finding of intent to deceive
+id.at 1381
+we next explained that the submission of the genealogy_chart without disclosing the boards decision was not evidence of good_faith
+id
+consequently we affirmed the district_courts finding of intent
+id
+
+mckesson believes the present_case is significantly different from li_second_family because that case involved affirmative misrepresentation of the board decision` which is far different than schumanns facts'
+appellants br.at 40
+we disagree
+here as in li_second_family we are presented with a situation in which 1 the examiner of one application trafton was not apprised of the adverse_decisions by another_examiner lev in a closely-related application ; 2 the applicant disclosed the closely-related application only in the context of prior_art cited in that application but failed to mention the adverse_decisions ; and 3 the applicant made statements to the examiner inconsistent with the other_examiners decisions i.e. that nothing in the prior_art disclosed three-node_communication
+given such a tight correlation between the facts at hand and those in li_second_family we must reject mckessons attempt to distinguish that case
+accordingly we hold that the district_court did not clearly err in finding *925 that schumann intended to deceive the pto by not disclosing the two rejections in the ¡¬149_application to examiner_trafton
+
+c. with respect to schumanns failure to notify examiner_trafton of the allowance of the ¡¬372_patent_claims mckesson contends that the district_court erred in its materiality analysis by failing to determine whether the differences between the allowed claims of the ¡¬372_patent and the claims of the ¡¬716_patent are` so inconsequential [ that ] there was a substantial_likelihood a reasonable_examiner would have issued a double_patenting_rejection'
+appellants br.at 45
+mckesson thus proposes that the allowance of the ¡¬372_patent could only be material to examiner_trafton if he would have been likely to reject the ¡¬716_patent for double patenting
+we disagree
+material information is not limited to information that would invalidate the claims under examination
+li_second_family 231 f.3d at 1380
+`` as stated the test for materiality is whether a reasonable_examiner would have considered the information important not whether the information would conclusively decide the issue of patentability'
+id
+with that test for materiality in mind the district_courts stated basis for finding materiality-the conceivability of a double_patenting_rejection-is not incorrect because allowance of the three-node_system of the ¡¬372_patent_claims plainly gives rise to a conceivable double_patenting_rejection particularly in light of examiner_levs conclusion during examination of the ¡¬ 149 application that the addition of bakers unique_address_limitation to the three-node_system of sunstedt was obvious
+j.a.at 657-58
+under the correct test for materiality the allowance of claims to a three-node_communication_system is material
+
+another perceived error pointed to by mckesson is the district_courts alleged_failure to consider the fact that examiner_trafton was the examiner who allowed the ¡¬372_claims and that he did so within a few_months of allowing the ¡¬716_claims
+it is unclear whether mckesson is arguing that this alleged_failure undermines the district_courts finding of materiality or its finding of intent
+compare appellants br.at 48 materiality with appellants reply_br.at 30-31 intent
+if this argument goes to materiality it must fail because as stated above the allowance of the ¡¬372_claims is material
+the most mckesson can argue is that the allowance is cumulative by virtue of the fact that examiner_trafton as the ¡¬278 examiner probably remembered allowing the ¡¬372_claims and then realized the materiality of such allowance to the ¡¬278_application_claims
+however because the record is devoid of any evidence in this regard we can not conclude that the allowance is cumulative
+j.p. stevens & co. v. lex tex ltd. 747_f.2d_1553 1564 fed.cir.1984` [ t ] he district_court did not find actual knowledge by the primary examiner-it merely noted possibilities and where inequitable_conduct is at issue mere possibilities are insufficient'
+( emphasis in original
+moreover the mpep at the time explained that a prosecuting attorney should not` assume that [ a pto_examiner ] retains details of every pending file in his mind when he is reviewing a particular application' mpep_¡± 2001.06 b 5th_ed
+rev.3 1986 quoting armour & co. v. swift & co. 466_f.2d_767 779 7th cir.1972 and pto regulations required all disclosures to be in writing 37 c.f.r.¡± 1.2 ; see also mpep_¡± 2002.02 5th_ed
+rev.3 1986
+schumann thus was not entitled to assume that examiner_trafton would recall his decision to grant the claims of the ¡¬372_patent when he was examining the ¡¬278_application in the absence *926 of a written disclosure to that effect
+if on the other hand mckesson makes this argument to undermine intent the argument fails as a factual matter because schumann specifically testified that he did not consider the identity of the examiner in deciding whether to disclose information about co-pending applications
+j.a.at 2329-30
+
+as to the remainder of mckessons arguments respecting the ¡¬347_patent we find them duplicative of arguments we have already rejected in the context of the baker_patent and examiner_levs rejections in the course of examining the ¡¬ 149 application
+accordingly we find no clear_error in the district_courts finding of materiality and intent
+
+d. as to the final_step of balancing of materiality and intent undertaken by the district_court it appears that mckesson does not charge the court with abusing its discretion and in any case we find no such abuse
+
+it is not necessary to decide whether any one of the three nondisclosures standing alone would have been sufficient to justify a judgment of unenforceability ; in light of the district_courts finding that there was inequitable_conduct in all three instances we hold that the court did not abuse its discretion in holding the patent unenforceable
+
+iv
+having found no clear_error in any of the district_courts findings with respect to materiality or intent or in its balancing thereof we must therefore affirm the courts ultimate finding that the ¡¬716_patent is unenforceable due to inequitable_conduct before the pto
+
+affirmed
+
+newman circuit_judge dissenting
+i respectfully dissent
+it is not clear and convincing_evidence of deceptive_intent that the applicant did not inform the examiner of the examiners grant of a related_case of common parentage a few_months earlier a case that was examined by the same_examiner and whose existence has previously been explicitly pointed out by the same applicant
+nor is it clear and convincing_evidence of deceptive_intent that the applicant did not cite a reference that the applicant had cited in the same related_case and that had been explicitly discussed with the same_examiner in the related_case
+
+whether or not the examination was perfect invalidation based on the charge of withholding material_information for purposes of deception requires more than was here shown
+to avoid the inequity resulting from litigation-driven distortion of the complex procedures of patent prosecution precedent firmly requires that the intent_element of inequitable_conduct must be established by clear and convincing_evidence of deceptive_intent-not of mistake if there were such but of culpable_intent
+see kingsdown medical consultants ltd. v. hollister_inc. 863_f.2d_867 872 fed.cir.1988 en banc both materiality and intent to deceive must be proven ; molins_plc v. textron inc. 48_f.3d_1172 1181 fed.cir.1995 proof of` clear and convincing' is necessary to establish intent to mislead or deceive the pto
+in kingsdown we observed that` to be guilty of inequitable_conduct one must have intended to act inequitably'
+863 f.2d at 872 quoting fmc corp. v. manitowoc co. inc. 835_f.2d_1411 1415 fed.cir.1987
+that standard was not met here
+this court returns to the` plague' of encouraging unwarranted charges of inequitable_conduct spawning the opportunistic litigation *927 that here succeeded despite consistently contrary precedent
+
+all citations
+487_f.3d_897 82_u.s.p.q.2d_1865
+footnotes
+1
+the full text reads 18
+finally if information was specifically considered and discarded as not material this fact might be recorded in an attorneys file or applicants file including the reason for discarding it
+if judgment might have been bad or something might have been overlooked inadvertently a note made at the time of evaluation might be an invaluable aid in explaining that the mistake was honest and excusable
+though such records are not required they could be helpful in recalling and explaining actions in the event of a question of` fraud' or` inequitable_conduct' raised at a later time
+mpep_¡± 2004 18 5th_ed
+rev.3 1986
+2
+`` [ a ] lthough [ the mpep ] does not have the force of law [ it ] is well known to those registered to practice in the pto and reflects the presumptions under which the pto operates'
+critikon 120 f.3d.at 1257
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+mckesson information solutions inc. v. bridge medical inc. 487_f.3d_897 2007 82_u.s.p.q.2d_1865
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

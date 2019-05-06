@@ -1,0 +1,153 @@
+('783_F.3d_853', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('INSITE', 'NN', 'ORG', 'B') ('VISION', 'NNP', '', 'O') ('INCORPORATED', 'NNP', 'ORG', 'B') ('Inspire', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Pfizer_Inc.', 'NN', '', 'O') ('Plaintiffs-Appellees', 'NNP', '', 'O')
+INSITE INCORPORATED Inspire Pharmaceuticals Inc.
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('SANDOZ', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+
+__NEW_SENT__
+('Sandoz', 'NNP', '', 'O') ('GmbH', 'NNP', '', 'O') ('Sandoz', 'NNP', '', 'O') ('Industrial', 'NNP', '', 'O') ('Products', 'NNPS', '', 'O') ('S.A.', 'NNP', '', 'O') ('Defendants', 'NNS', '', 'O')
+
+__NEW_SENT__
+('No._2014-1065', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('April_9,_2015', 'UH', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('a', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('filing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('abbreviated', 'VBN', '', 'O') ('new', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('eye_infections', 'NNS', '', 'O') ('infringed', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('disclosed', 'VBD', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('eye_infections', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('topical_administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('azithromycin', 'NN', '', 'O') ('an', 'DT', '', 'O') ('antibiotic', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eye', 'NN', '', 'O')
+four
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New', 'NNP', 'GPE', 'I') ('Jersey', 'NNP', 'GPE', 'I') ('Mary', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Cooper', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2013_WL_5975015', 'NNP', 'PERSON', 'I') ('upheld', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O')
+the United States District Court the District of New Jersey Mary L. Cooper J. 2013_WL_5975015
+__NEW_SENT__
+('The', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Linn', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Linn Circuit_Judge
+__NEW_SENT__
+('the', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('demonstrate', 'VB', '', 'O') ('that', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('conjunctivitis', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('topical', 'JJ', '', 'O') ('application', 'NN', '', 'O') ('of', 'IN', '', 'O') ('azithromycin', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('persons', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('the', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('demonstrate', 'VB', '', 'O') ('that', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('topical_azithromycin', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gel_eyedrop', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('eye_infections', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('persons', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('the', 'DT', 'ORG', 'B') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('excluding', 'VBG', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('European', 'JJ', 'NORP', 'B') ('patent', 'NN', '', 'O') ('proceedings', 'NNS', '', 'O')
+the District Court European
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*856', 'NNP', '', 'O') ('Dominick', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Conde', 'NNP', 'PERSON', 'I') ('Fitzpatrick', 'NNP', 'PERSON', 'I') ('Cella', 'NNP', 'PERSON', 'I') ('Harper', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Scinto', 'NNP', '', 'O') ('New_York', 'NNP', '', 'O') ('N.Y.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Dominick A. Conde Fitzpatrick Cella Harper & N.Y.
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('De', 'NNP', 'PERSON', 'I') ('Lorenzi', 'NNP', '', 'O') ('Gibbons', 'NNPS', '', 'O') ('P.C.', 'NNP', '', 'O') ('Newark', 'NNP', '', 'O') ('NJ', 'NNP', '', 'O')
+David E. De
+__NEW_SENT__
+('Plaintiffs-appellees', 'NNP', 'ORG', 'B') ('Inspire', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Pfizer_Inc.', 'NN', '', 'O') ('also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Margaret', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Scoolidge', 'NNP', '', 'O') ('Fitzpatrick', 'NNP', '', 'O') ('Cella', 'NNP', '', 'O') ('Harper', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Scinto', 'NNP', '', 'O') ('New_York', 'NNP', '', 'O') ('N.Y.', 'NNP', 'GPE', 'B') (';', ':', '', 'O') ('Dennis', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Aeling', 'VBG', 'PERSON', 'I') ('Costa', 'NNP', '', 'O') ('Mesa', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+Plaintiffs-appellees Inspire Pharmaceuticals Inc. Margaret A. N.Y. Dennis C. Aeling
+__NEW_SENT__
+('Brian', 'NNP', 'PERSON', 'B') ('Robert', 'NNP', 'PERSON', 'I') ('Matsui', 'NNP', 'PERSON', 'I') ('Morrison', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Foerster', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', '', 'O') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Brian Robert Matsui Morrison & Foerster
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Deanne', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Maynard', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('Clarence', 'NNP', 'PERSON', 'I') ('Doyle', 'NNP', 'PERSON', 'I') ('James', 'NNP', '', 'O') ('Webb', 'NNP', '', 'O') ('Huston', 'NNP', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('Andrew', 'NNP', 'PERSON', 'I') ('Woodmansee', 'NNP', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Diego', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') (';', ':', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ("D'Amore", 'NNP', 'PERSON', 'I') ('New_York', 'NN', '', 'O') ('N.Y.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('PROST', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('NEWMAN', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+Deanne E. Maynard David Clarence Doyle Mark Andrew San Diego Matthew D'Amore PROST NEWMAN LINN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LINN', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('Hatch-Waxman', 'NNP', '', 'O') ('Act', 'NNP', '', 'O') ('litigation', 'NN', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Sandoz', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('InSite', 'NNP', 'ORG', 'B') ('Vision', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._11-3080', 'NNP', '', 'O') ('2013_WL_5975015', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('D.N.J', 'NN', 'ORG', 'B')
+Sandoz Inc. Sandoz InSite Vision Inc. Sandoz Inc. D.N.J
+__NEW_SENT__
+('Oct.', 'NNP', 'DATE', 'B') ('4', 'CD', 'DATE', 'I') ('2013', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+Oct. 4 2013 Sandoz U.S
+__NEW_SENT__
+('Patents', 'NNP', 'ORG', 'B') ('No._6861,411', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬411_patent', 'NN', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('No._6239,113', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬113_patent', 'JJ', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('No._6569,443', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬443_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('No._7056,893', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬893_patent', 'NN', 'PRODUCT', 'B') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('asserted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Insite', 'NNP', 'ORG', 'B') ('Vision', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Insite', 'VB', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Inspire', 'NNP', 'ORG', 'B') ('Pharm.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Inspire', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Pfizer', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Pfizer', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('plaintiffs', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+Patents No._6861,411 No._6239,113 No._6569,443 No._7056,893 ¡¬893_patent Insite Vision Inc. Insite Inspire Pharm. Inc. Inspire Pfizer Inc. Pfizer
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('agrees', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', 'ORG', 'B') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('affirms', 'VBZ', '', 'O')
+Sandoz patents-in-suit
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('THE', 'DT', '', 'O') ('PATENTS-IN-SUIT', 'NNP', 'GPE', 'B')
+PATENTS-IN-SUIT
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('issued', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('No._09', 'NN', 'ORG', 'I') ('/200,199', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬119', 'NN', 'MONEY', 'B') ('application', 'NN', 'MONEY', 'I') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('25', 'CD', 'DATE', 'I') ('1998', 'CD', 'DATE', 'I') ('claiming', 'VBG', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('provisional', 'JJ', '', 'O') ('application', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('2', 'CD', 'DATE', 'I') ('1997', 'CD', 'DATE', 'I')
+U.S. Patent Application No._09 ¡¬119 application November 25 1998 December 2 1997
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Pfizer', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Insite', 'VB', '', 'O') ('owns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('¡¬113', 'NN', '', 'O') ('¡¬443', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('¡¬893_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('ISV_patents', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('ISV_patents', 'NNS', '', 'O') ('claim', 'VBP', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('application', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('March_31,_1999', 'NNP', 'GPE', 'B')
+March_31,_1999
+__NEW_SENT__
+('Inspire', 'NNP', 'PERSON', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('sub-licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬411_patent', 'NNP', 'NORP', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ISV_patents', 'NNS', '', 'O')
+Inspire ¡¬411_patent
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('eye_infections', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('topical_administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('azithromycin', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eye', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬411_patent', 'NN', '', 'O') ('col.1', 'NN', '', 'O') ('ll.8-10', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('states', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('azithromycin', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('commonly', 'RB', '', 'O') ('administered', 'VBN', '', 'O') ('orally', 'RB', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('antibacterial', 'JJ', '', 'O') ('infections', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('effective', 'JJ', '', 'O') ('when', 'WRB', '', 'O') ('topically', 'RB', '', 'O') ('administered', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eye', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col.1', 'NN', '', 'O') ('ll.22-27', '.', '', 'O')
+Id.at
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('the', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('recites', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 of 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('ocular_infection', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('topically', 'RB', '', 'O') ('administering', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('eye', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('animal', 'NN', '', 'O') ('in', 'IN', '', 'O') ('need', 'NN', '', 'O') ('of', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('treatment', 'NN', '', 'O') ('an', 'DT', '', 'O') ('ocular_infection-treating', 'VBG', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('azithromycin', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('ISV_patents', 'NNS', '', 'O') ('disclose', 'VBP', '', 'O') ('various', 'JJ', '', 'O') ('formulations', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('topical_azithromycin', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gel_eyedrop', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('eye_infections', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬113_patent', 'NNP', '', 'O') (';', ':', '', 'O') ('claim', 'NN', '', 'O') ('16', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬443_patent', 'NNP', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('claim', 'VBP', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'CARDINAL', 'B') ('893', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('representative', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('recite', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 16 1 ¡¬ 893 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('eye', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('comprises', 'VBZ', '', 'O') (':', ':', '', 'O') ('topically', 'RB', '', 'O') ('applying', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('aqueous', 'JJ', '', 'O') ('polymeric', 'JJ', '', 'O') ('suspension', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('azalide_antibiotic', 'JJ', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('suspension', 'NN', '', 'O') ('comprises', 'VBZ', '', 'O') ('water', 'NN', '', 'O') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('to', 'IN', 'PERCENT', 'I') ('1.0', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('azalide', 'NN', '', 'O') ('*857', 'NNP', '', 'O') ('antibiotic', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('0.BIG_TOKEN__1_to_10__BIG_TOKEN', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('polymeric_suspending_agent', 'FW', '', 'O')
+0.01 % to 1.0 % 0.BIG_TOKEN__1_to_10__BIG_TOKEN %
+__NEW_SENT__
+('¡¬113_patent', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('16', 'CD', 'CARDINAL', 'B')
+1 16
+__NEW_SENT__
+('A', 'DT', '', 'O') ('topical_ophthalmic_composition', 'NN', 'PRODUCT', 'B') ('comprising', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('aqueous', 'JJ', '', 'O') ('polymeric', 'JJ', '', 'O') ('suspension', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('water', 'NN', '', 'O') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('to', 'IN', 'PERCENT', 'I') ('1.0', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('azalide_antibiotic', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('0.BIG_TOKEN__1_to_10__BIG_TOKEN', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('polymeric_suspending_agent', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('topical_ophthalmic_composition', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('osmotic', 'JJ', '', 'O') ('pressure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('from', 'IN', '', 'O') ('10_to_400', 'CD', 'CARDINAL', 'B') ('mOsM', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('composition', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('contain', 'VB', '', 'O') ('constituents', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('physiologically', 'RB', '', 'O') ('or', 'CC', '', 'O') ('ophthalmically', 'RB', '', 'O') ('harmful', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eye', 'NN', '', 'O')
+topical_ophthalmic_composition 0.01 % to 1.0 % 0.BIG_TOKEN__1_to_10__BIG_TOKEN % topical_ophthalmic_composition 10_to_400
+__NEW_SENT__
+('¡¬443_patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('16', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+16 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('water', 'NN', '', 'O') ('a', 'DT', '', 'O') ('polymeric_suspending_agent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('azalide_antibiotic', 'JJ', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('composition', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('pH', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('about', 'IN', '', 'O') ('6.BIG_TOKEN__0_to_6__BIG_TOKEN6', 'CD', '', 'O')
+
+__NEW_SENT__
+('¡¬893_patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1
+__NEW_SENT__

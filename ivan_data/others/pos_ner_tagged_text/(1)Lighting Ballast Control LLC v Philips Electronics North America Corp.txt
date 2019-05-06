@@ -1,0 +1,249 @@
+('790_F.3d_1329', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('LIGHTING', 'NN', '', 'O') ('BALLAST', 'NNP', '', 'O') ('CONTROL', 'VBZ', '', 'O') ('LLC', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O')
+
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('PHILIPS', 'VB', '', 'O') ('ELECTRONICS', 'NN', '', 'O') ('NORTH', 'NNP', '', 'O') ('AMERICA', 'NNP', '', 'O') ('CORPORATION', 'NN', '', 'O') ('Defendant', 'NN', '', 'O')
+
+__NEW_SENT__
+('Universal', 'NNP', 'ORG', 'B') ('Lighting', 'NNP', 'ORG', 'I') ('Technologies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NNP', '', 'O')
+Universal Lighting Technologies Inc.
+__NEW_SENT__
+('No._2012-1014', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('June_23,_2015', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Assignee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('lighting', 'VBG', '', 'O') ('ballast_patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Northern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Reed', 'NNP', 'PERSON', 'B') ("O'Connor", 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2010_WL_4946343', 'NNP', 'PERSON', 'I') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('assignee', 'NN', '', 'O') ('after', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('favor', 'NN', '', 'O')
+The United States District Court the Northern District Texas Reed O'Connor J. 2010_WL_4946343
+__NEW_SENT__
+('On', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('a', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('panel', 'NN', '', 'O') ('reversed', 'VBD', '', 'O') ('498_Fed.Appx._986', 'CD', 'PRODUCT', 'B') ('but', 'CC', '', 'O') ('assignee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('subsequent', 'JJ', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('rehearing', 'VBG', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('granted', 'VBN', '', 'O') ('500_Fed.Appx._951', 'CD', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('744_F.3d_1272', 'NNP', '', 'O') ('reinstated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O')
+Court of Appeals 498_Fed.Appx._986 the Court of Appeals
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Supreme_Court', 'NNP', 'PERSON', 'B') ('--', ':', '', 'O') ('-', 'HYPH', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('--', ':', '', 'O') ('--', ':', '', 'O') ('135_S.Ct._1173', 'LS', '', 'O') ('191_L.Ed.2d_130', 'CD', 'CARDINAL', 'B') ('vacated', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('petition', 'NN', '', 'O') ('for', 'IN', '', 'O') ('certiorari', 'NN', '', 'O')
+Supreme_Court U.S. 191_L.Ed.2d_130
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('On', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Reyna', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+the Court of Appeals Reyna Circuit_Judge
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('object', 'VB', '', 'O') ('to', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('instructions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('preserve', 'VB', '', 'O') ('issue', 'NN', '', 'O') ('for', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('voltage_source', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('lighting', 'VBG', '', 'O') ('ballast_patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('indefiniteness', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('claims', 'NNS', '', 'O') ('conveyed', 'VBD', '', 'O') ('defined', 'VBN', '', 'O') ('structure', 'NN', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('voltage_source', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('lighting', 'VBG', '', 'O') ('ballast_patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('indefiniteness', 'NN', '', 'O') (';', '.', '', 'O')
+one
+__NEW_SENT__
+('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('could', 'MD', '', 'O') ('rely', 'VB', '', 'O') ('on', 'IN', '', 'O') ('extrinsic', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('to', 'TO', '', 'O') ('determine', 'VB', '', 'O') ('whether', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('in', 'IN', '', 'O') ('lighting', 'VBG', '', 'O') ('ballast_patent', 'JJ', '', 'O') ('conveyed', 'NN', '', 'O') ('defined', 'VBN', '', 'O') ('structure', 'NN', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('ordinary_skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') (';', ':', '', 'O')
+one
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('present', 'VB', '', 'O') ('the', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('question', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('preserve', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('raise', 'VB', '', 'O') ('it', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('direct_current_blocking_means', 'NNP', 'NORP', 'B') ("''", "''", '', 'O') ('required', 'VBN', '', 'O') ('capacitor', 'NN', '', 'O') ('or', 'CC', '', 'O') ('diode', 'NN', '', 'O') ('at', 'IN', '', 'O') ('every', 'DT', '', 'O') ('output', 'NN', '', 'O') ('terminal', 'NN', '', 'O') (';', '.', '', 'O')
+direct_current_blocking_means
+__NEW_SENT__
+('substantial_evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('verdict', 'NN', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('direct_current_blocking_means', 'NNP', 'NORP', 'B') ("''", "''", '', 'O') ('claim', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') (';', '.', '', 'O')
+direct_current_blocking_means
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('defective', 'JJ', '', 'O') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('whenever', 'WRB', '', 'O') ('direct', 'JJ', '', 'O') ('current', 'JJ', '', 'O') ('path', 'NN', '', 'O') ('between', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('terminals', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('broken', 'VBN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+two
+__NEW_SENT__
+('substantial_evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('verdict', 'NN', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('``', '``', '', 'O') ('control_means', 'NNS', '', 'O') ("''", "''", '', 'O') ('claim', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1332', 'IN', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('Tad', 'NNP', 'PERSON', 'I') ('Suder', 'NNP', 'PERSON', 'I') ('Friedman', 'NNP', '', 'O') ('Suder', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Cooke', 'NNP', '', 'O') ('Fort', 'NNP', '', 'O') ('Worth', 'NNP', '', 'O') ('TX', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Jonathan Tad Suder
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('Arthur', 'NNP', 'PERSON', 'I') ('Skeels', 'NNPS', 'PERSON', 'I') (';', ':', '', 'O') ('Robert', 'NNP', 'ORG', 'B') ('Greenspoon', 'NNP', 'ORG', 'I') ('Flachsbart', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Greenspoon', 'NNP', 'ORG', 'I') ('LLC', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') (';', ':', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('John', 'NNP', 'PERSON', 'I') ('Dhuey', 'NNP', 'PERSON', 'I') ('Berkeley', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+David Arthur Skeels Robert Greenspoon Flachsbart & Greenspoon Chicago Andrew John Dhuey
+__NEW_SENT__
+('Steven', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Routh', 'NNP', 'PERSON', 'I') ('Orrick', 'NNP', 'PERSON', 'I') ('Herrington', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Sutcliffe', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'NN', '', 'O')
+Steven J. Routh Orrick Herrington & Sutcliffe LLP
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Sten', 'NNP', 'PERSON', 'B') ('Jensen', 'NNP', 'PERSON', 'I') ('T.', 'NNP', 'PERSON', 'I') ('Vann', 'NNP', 'PERSON', 'I') ('Pearce', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Diana', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Szego', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Inge', 'NNP', 'PERSON', 'I') ('Tokyo', 'NNP', 'GPE', 'B') ('Japan', 'NNP', 'GPE', 'B')
+Sten Jensen T. Vann Pearce Jr. Diana M. Szego John R. Inge Tokyo Japan
+__NEW_SENT__
+('Leonard', 'NNP', 'ORG', 'B') ('Agneta', 'NNP', 'ORG', 'I') ('University', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Maine_School', 'NN', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Portland', 'NNP', '', 'O') ('ME', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Maine_School', 'NN', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('dba', 'IN', 'ORG', 'I') ('Maine', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('Program', 'NNP', 'ORG', 'I')
+Leonard Agneta University of Maine_School of Law amicus_curiae University of Maine_School of Law dba Maine Patent Program
+__NEW_SENT__
+('George', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Summerfield', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Stadheim', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Grear', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amici', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Wisconsin', 'NNP', 'ORG', 'B') ('Alumni', 'NNPS', 'ORG', 'I') ('Research', 'NNP', 'ORG', 'I') ('Foundation', 'NNP', 'ORG', 'I') ('Nutech', 'NNP', 'ORG', 'B') ('Ventures', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('STC.UNM', 'NNP', '', 'O') ('Unemed', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('Telecommunications', 'NNPS', 'ORG', 'I') ('Research', 'NNP', 'ORG', 'I') ('Laboratories', 'NNPS', 'ORG', 'I') ('dba', 'NN', '', 'O') ('TR', 'NNP', 'ORG', 'B') ('Tech', 'NN', 'ORG', 'I') ('Rensselaer', 'NNP', 'ORG', 'I') ('Polytechnic', 'NNP', 'ORG', 'I') ('Institute', 'NNP', 'ORG', 'I') ('Tec', 'NNP', 'PERSON', 'B') ('Edmonton', 'NNP', 'PERSON', 'I') ('The', 'DT', 'ORG', 'B') ('Public', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('Foundation', 'NNP', 'ORG', 'I')
+George C. Summerfield Jr. Chicago Wisconsin Alumni Research Foundation Nutech Ventures Inc. Unemed Corporation Telecommunications Research Laboratories TR Tech Rensselaer Polytechnic Institute Tec Edmonton The Public Patent Foundation
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Rolf', 'NNP', 'PERSON', 'B') ('Stadheim', 'NNP', 'PERSON', 'I')
+Rolf Stadheim
+__NEW_SENT__
+('Maxim', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Waldbaum', 'NNP', '', 'O') ('Eaton', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Van', 'NNP', '', 'O') ('Winkle', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('New_York', 'NNP', '', 'O') ('N.Y.', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Federation', 'NNP', '', 'O') ('Internationale', 'NNP', '', 'O') ('Des', 'NNP', '', 'O') ('Conseils', 'NNP', '', 'O') ('En', 'NNP', '', 'O') ('Propriete', 'NNP', '', 'O') ('Industrielle', 'NNP', '', 'O')
+Maxim H. N.Y.
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Katz', 'NNP', 'PERSON', 'I') ('Katz', 'NNP', 'PERSON', 'I') ('PLLC', 'NNP', '', 'O') ('Dallas', 'NNP', '', 'O') ('TX', 'NN', '', 'O')
+Robert Katz Katz
+__NEW_SENT__
+('Andy', 'NNP', 'PERSON', 'B') ('Ivan', 'NNP', 'PERSON', 'I') ('Niranjan', 'NNP', 'PERSON', 'I') ('Corea', 'NNP', '', 'O') ('St.', 'NNP', '', 'O') ('Onge', 'NNP', '', 'O') ('Steward', 'NNP', '', 'O') ('Johnston', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Reens', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('Stamford', 'NNP', 'GPE', 'B') ('CT', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Connecticut', 'NNP', 'ORG', 'B') ('Intellectual', 'NNP', 'ORG', 'I') ('Property', 'NNP', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Andy Ivan Niranjan Stamford Connecticut Intellectual Property Law Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Stephen', 'NNP', 'PERSON', 'B') ('Patrick', 'NNP', 'PERSON', 'I') ('McNamara', 'NNP', 'PERSON', 'I') ('Todd', 'NNP', 'PERSON', 'I') ('M.', 'NNP', 'PERSON', 'I') ('Oberdick', 'NNP', 'PERSON', 'I')
+Stephen Patrick McNamara Todd M. Oberdick
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('Larry', 'NNP', 'PERSON', 'I') ('Respess', 'NNP', '', 'O') ('Sheppard', 'NNP', 'ORG', 'B') ('Mullin', 'NNP', 'ORG', 'I') ('Richter', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Hampton', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('The', 'DT', 'WORK_OF_ART', 'B') ('San_Diego', 'NNP', 'WORK_OF_ART', 'I') ('Intellectual', 'NNP', 'WORK_OF_ART', 'I') ('Property', 'NNP', 'WORK_OF_ART', 'I') ('Law', 'NNP', 'WORK_OF_ART', 'I') ('Association', 'NNP', 'WORK_OF_ART', 'I')
+William Larry Sheppard Mullin Richter & Hampton LLP The San_Diego Intellectual Property Law Association
+__NEW_SENT__
+('Joseph', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Re', 'NNP', 'PERSON', 'I') ('Knobbe', 'NNP', 'ORG', 'B') ('Martens', 'NNP', 'ORG', 'I') ('Olson', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Bear', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('Irvine', 'NNP', 'ORG', 'I') ('CA', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('Federal', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Bar', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Joseph R. Re Knobbe Martens Olson & Bear LLP Irvine CA Federal Circuit Bar Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Sheila', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Swaroop', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Reisman', 'NNP', 'PERSON', 'I') ('San_Diego', 'NNP', 'PERSON', 'I') ('CA', 'NNP', '', 'O') (';', ':', '', 'O') ('Terence', 'NNP', 'ORG', 'B') ('Patrick', 'NNP', 'ORG', 'I') ('Stewart', 'NNP', 'ORG', 'I') ('Stewart', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Stewart', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'ORG', 'I') ('DC', 'NNP', 'ORG', 'I')
+Sheila N. Swaroop Joseph M. Reisman San_Diego Terence Patrick Stewart Stewart & Stewart Washington DC
+__NEW_SENT__
+('Janet', 'NNP', 'PERSON', 'B') ('Beth', 'NNP', 'PERSON', 'I') ('Linn', 'NNP', '', 'O') ('Eckert', 'NNP', '', 'O') ('Seamans', 'NNP', '', 'O') ('Cherin', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Mellott', 'NNP', '', 'O') ('LLC', 'NNP', 'ORG', 'B') ('White', 'NNP', '', 'O') ('Plains', 'NNPS', '', 'O') ('N.Y.', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('The', 'DT', 'ORG', 'B') ('Association', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('the', 'DT', 'ORG', 'I') ('Bar', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('the', 'DT', 'ORG', 'I') ('City', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('New_York', 'NNP', 'ORG', 'I')
+Janet Beth LLC N.Y. The Association of the Bar of the City of New_York
+__NEW_SENT__
+('Charles', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Shifley', 'NNP', 'PERSON', 'I') ('Banner', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Witcoff', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Intellectual', 'NNP', 'ORG', 'B') ('Property', 'NNP', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Chicago', 'NNP', 'ORG', 'I')
+Charles W. Shifley Banner & Chicago Intellectual Property Law Association of Chicago
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Shaw', 'NNP', 'PERSON', 'I') ('Shaw', 'NNP', 'PERSON', 'I') ('Keller', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('Wilmington', 'NNP', 'PERSON', 'I') ('DE', 'NNP', 'PERSON', 'I') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Delaware', 'NNP', 'PERSON', 'B') ('Chapter', 'NN', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Federal', 'NNP', 'ORG', 'I') ('Bar', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+John W. Shaw Shaw Keller LLP Wilmington DE Delaware Chapter the Federal Bar Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Karen', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Keller', 'NNP', 'PERSON', 'I')
+Karen E. Keller
+__NEW_SENT__
+('Charles', 'NNP', 'PERSON', 'B') ('Hieken', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', 'ORG', 'B') ('Boston', 'NNP', 'ORG', 'I') ('MA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Michel', 'NNP', 'PERSON', 'I')
+Charles Hieken Fish & Richardson P.C. Boston Paul R. Michel
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Dragseth', 'NNP', 'PERSON', 'I') ('Minneapolis', 'NNP', 'GPE', 'B') ('MN', 'NNP', '', 'O')
+John A. Dragseth Minneapolis
+__NEW_SENT__
+('Chidambaram', 'NNP', '', 'O') ('Subramanian', 'NNP', '', 'O') ('Iyer', 'NNP', '', 'O') ('Sughrue', 'NNP', '', 'O') ('Mion', 'NNP', '', 'O') ('PLLC', 'NNP', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('*1333', 'NNP', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Sigram', 'NNP', 'PERSON', 'B') ('Schindler', 'NNP', 'PERSON', 'I') ('Beteiligungsgesellschaft', 'NNP', 'PERSON', 'I') ('MBH', 'NNP', '', 'O')
+Washington DC Sigram Schindler Beteiligungsgesellschaft
+__NEW_SENT__
+('Jennifer_Kuhn', 'NNP', '', 'O') ('Law', 'NNP', 'ORG', 'B') ('Office', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Jennifer_Kuhn', 'NNP', 'ORG', 'I') ('Austin', 'NNP', 'ORG', 'I') ('TX', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Austin', 'NNP', 'ORG', 'B') ('Intellectual', 'NNP', 'ORG', 'I') ('Property', 'NNP', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Law Office of Jennifer_Kuhn Austin Austin Intellectual Property Law Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Aden', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Allen', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('Sonsini', 'NNP', '', 'O') ('Goodrich', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Rosati', 'NNP', '', 'O') ('PC', 'NNP', '', 'O') ('Austin', 'NNP', '', 'O') ('TX', 'NNP', '', 'O')
+Aden M. Allen Wilson
+__NEW_SENT__
+('Harry', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Marcus', 'NNP', 'PERSON', 'I') ('Locke_Lord', 'NNP', '', 'O') ('LLP', 'NNP', 'ORG', 'B') ('New_York', 'NNP', 'ORG', 'I') ('N.Y.', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('American', 'NNP', 'ORG', 'B') ('Intellectual', 'NNP', 'ORG', 'I') ('Property', 'NNP', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Harry C. Marcus LLP New_York N.Y. American Intellectual Property Law Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Goethals', 'NNPS', 'PERSON', 'I') (';', ':', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('Anthony', 'NNP', 'PERSON', 'I') ('Farco', 'NNP', 'PERSON', 'I') ('Locke_Lord', 'NNP', '', 'O') ('Bissell', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Liddell', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('New_York', 'NNP', 'ORG', 'I') ('N.Y.', 'NNP', 'GPE', 'B') (';', ':', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('I.D', 'NNP', 'PERSON', 'I')
+Robert K. Goethals Joseph Anthony Farco Bissell & Liddell LLP New_York N.Y. Jeffrey I.D
+__NEW_SENT__
+('Lewis', 'NNP', 'ORG', 'B') ('Fried', 'NNP', 'ORG', 'I') ('Frank', 'NNP', 'ORG', 'I') ('Harris', 'NNP', 'ORG', 'I') ('Shriver', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Jacobson', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('New_York', 'NNP', '', 'O') ('N.Y.', 'NNP', 'PERSON', 'B') ('Laurel', 'NNP', 'PERSON', 'I') ('G.', 'NNP', 'PERSON', 'I') ('Bellows', 'NNP', 'PERSON', 'I') ('Bellows', 'NNPS', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bellows', 'NNPS', '', 'O') ('P.C.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('American', 'NNP', 'ORG', 'B') ('Bar', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Lewis Fried Frank Harris Shriver & Jacobson N.Y. Laurel G. Bellows Bellows Chicago American Bar Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Francis', 'NNP', 'PERSON', 'I') ('Altherr', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Paul', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Rivard', 'NNP', '', 'O') ('Banner', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Witcoff', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Robert Francis Altherr Jr. Paul Michael Washington
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Vandenberg', 'NNP', 'PERSON', 'I') ('Klarquist', 'NNP', 'PERSON', 'I') ('Sparkman', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Portland', 'NNP', '', 'O') ('OR', 'CC', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Microsoft', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I')
+John D. Vandenberg Klarquist Microsoft Corporation
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Mason', 'NNP', 'PERSON', 'I')
+Andrew M. Mason
+__NEW_SENT__
+('Thomas', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Hungar', 'NNP', 'PERSON', 'I') ('Gibson', 'NNP', 'PERSON', 'I') ('Dunn', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Crutcher', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'PERSON', 'I') ('DC', 'NNP', 'PERSON', 'I') ('for', 'IN', '', 'O') ('amici', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Cisco', 'NNP', 'ORG', 'B') ('Systems', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Dell', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('EMC', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('Intel', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('SAP', 'NNP', '', 'O') ('America', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('SAS', 'NNP', 'ORG', 'B') ('Institute', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('McGill', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Alexander', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Harris', 'NNP', 'PERSON', 'I') ('San_Francisco', 'NNP', 'PERSON', 'I') ('CA', 'NNP', '', 'O')
+Thomas G. Hungar Gibson Dunn & Crutcher LLP Washington DC Cisco Systems Inc. Dell Inc. EMC Corporation Intel Corporation SAS Institute Inc. Matthew D. McGill Alexander N. Harris San_Francisco
+__NEW_SENT__
+('R.', 'NNP', 'PERSON', 'B') ('Carl', 'NNP', 'PERSON', 'I') ('Moy', 'NNP', 'PERSON', 'I') ('William_Mitchell_College', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Law', 'NNP', '', 'O') ('St._Paul', 'NNP', '', 'O') ('MN', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Intellectual', 'NNP', 'ORG', 'B') ('Property', 'NNP', 'ORG', 'I') ('Institute', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('William_Mitchell_College', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Law', 'NNP', '', 'O')
+R. Carl Moy William_Mitchell_College Intellectual Property Institute
+__NEW_SENT__
+('Daryl', 'NNP', 'ORG', 'B') ('Joseffer', 'NNP', 'ORG', 'I') ('King', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Spalding', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'ORG', 'I') ('DC', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('amici', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Google', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Amazon.com', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Hewlett-Packard', 'NNP', '', 'O') ('Company', 'NNP', '', 'O') ('Red', 'NNP', '', 'O') ('Hat', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Yahoo', 'NNP', '', 'O') ('!', '.', '', 'O')
+Daryl Joseffer King & Spalding LLP Washington DC Google Inc.
+__NEW_SENT__
+('Inc.', 'NNP', '', 'O') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Adam', 'NNP', 'ORG', 'B') ('Conrad', 'NNP', 'ORG', 'I') ('Charlotte', 'NNP', 'ORG', 'I') ('NC', 'NNS', 'ORG', 'I')
+Adam Conrad Charlotte NC
+__NEW_SENT__
+('Nathan', 'NNP', 'ORG', 'B') ('K.', 'NNP', 'ORG', 'I') ('Kelley', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Solicitor', 'NNP', '', 'O') ('United', 'NNP', '', 'O') ('States', 'NNP', '', 'O') ('Patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Trademark', 'NNP', '', 'O') ('Office', 'NNP', '', 'O') ('Alexandria', 'NNP', '', 'O') ('VA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I')
+Nathan K. Kelley Office United States
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McManus', 'NNP', 'PERSON', 'I') ('Kristi', 'NNP', 'PERSON', 'I') ('L.R', 'NNP', 'PERSON', 'I')
+Robert J. McManus Kristi L.R
+__NEW_SENT__
+('Sawert', 'NNP', 'PERSON', 'B') (';', ':', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Freeman', 'NNP', 'PERSON', 'I') ('Scott', 'NNP', 'PERSON', 'I') ('R.', 'NNP', 'PERSON', 'I') ('McIntosh', 'NNP', 'PERSON', 'I') ('Appellate', 'NNP', 'PERSON', 'I') ('Staff', 'NNP', 'PERSON', 'I') ('Civil', 'NNP', 'PERSON', 'I') ('Division', 'NNP', 'PERSON', 'I') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Department', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Justice', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'ORG', 'I') ('DC', 'NNP', 'ORG', 'I')
+Sawert Mark R. Freeman Scott R. McIntosh Appellate Staff Civil Division United States Department of Justice Washington DC
+__NEW_SENT__
+('Paul', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Berghoff', 'NNP', 'PERSON', 'I') ('McDonnell', 'NNP', 'ORG', 'B') ('Boehnen', 'NNP', 'ORG', 'I') ('Hulbert', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Berghoff', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Intellectual', 'NNP', 'ORG', 'B') ('Property', 'NNP', 'ORG', 'I') ('Owners', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I')
+Paul H. Berghoff McDonnell Boehnen Hulbert & Berghoff Chicago Intellectual Property Owners Association
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Christopher', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Butts', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Phillips', 'NNP', 'PERSON', 'I') ('ExxonMobil', 'NNP', 'ORG', 'B') ('Chemical', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') (';', ':', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Rhodes', 'NNP', 'PERSON', 'I') ('3M', 'NNP', '', 'O') ('Innovative', 'NNP', 'ORG', 'B') ('Properties', 'NNPS', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('St._Paul', 'NNP', 'ORG', 'I') ('MN', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('Herbert', 'NNP', 'PERSON', 'B') ('Clare', 'NNP', 'PERSON', 'I') ('Wamsley', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Intellectual', 'NNP', 'ORG', 'B') ('Property', 'NNP', 'ORG', 'I') ('Owners', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Christopher D. Butts Richard F. Phillips ExxonMobil Chemical Company Houston Kevin H. Rhodes Innovative Properties Company St._Paul MN Herbert Clare Wamsley Jr. Intellectual Property Owners Association Washington
+__NEW_SENT__
+('Roger', 'NNP', 'PERSON', 'B') ('Lee', 'NNP', 'PERSON', 'I') ('Cook', 'NNP', 'PERSON', 'I') ('Kilpatrick', 'NNP', '', 'O') ('Townsend', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Stockton', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('San_Francisco', 'NNP', 'ORG', 'I') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'JJ', '', 'O') ('Ad', 'NNP', 'ORG', 'B') ('Hoc', 'NNP', 'ORG', 'I') ('Committee', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('Owners', 'NNP', 'ORG', 'I')
+Roger Lee Cook Townsend & Stockton LLP San_Francisco Ad Hoc Committee of Patent Owners
+__NEW_SENT__
+('Peter', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Menell', 'NNP', 'PERSON', 'I') ('University', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('California', 'NNP', 'ORG', 'I') ('Berkeley', 'NNP', 'ORG', 'I') ('School', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Law', 'NNP', 'ORG', 'I') ('Berkeley', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus_curiae', 'NNP', '', 'O') ('Peter', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Menell', 'NNP', 'PERSON', 'I')
+Peter S. Menell University of California Berkeley School of Law Peter S. Menell
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNS', 'ORG', 'B') ("O'MALLEY", 'VBP', 'ORG', 'I') ('and', 'CC', '', 'O') ('REYNA', 'NNP', '', 'O') ('Circuit_Judges.1', 'NNP', '', 'O')
+LOURIE O'MALLEY
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('REYNA', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('returns', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('us', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Supreme_Court', 'NN', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('returned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('*1334', 'NNS', '', 'O') ('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('574', 'CD', 'CARDINAL', 'B') ('U.S.', 'NNP', 'GPE', 'B') ('--', ':', '', 'O') ('--', ':', '', 'O') ('135_S.Ct._831', 'LS', '', 'O') ('--', ':', '', 'O') ('-L.Ed.2d', ',', '', 'O') ('--', ':', '', 'O') ('--', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2015', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+the Supreme_Court of the United States Teva Pharmaceuticals USA Inc. Sandoz Inc. 574 U.S. 2015
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('Universal', 'NNP', 'ORG', 'B') ('Lighting', 'NNP', 'ORG', 'I') ('Technologies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ULT', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('issues', 'NNS', '', 'O')
+Universal Lighting Technologies Inc. ULT four
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O') ('OF', 'IN', '', 'O') ('THE', 'DT', '', 'O') ('TECHNOLOGY', 'NN', '', 'O')
+
+__NEW_SENT__
+('High', 'JJ', '', 'O') ('levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('current', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('cause', 'VB', '', 'O') ('a', 'DT', '', 'O') ('fluorescent', 'JJ', '', 'O') ('lamp', 'NN', '', 'O') ('to', 'TO', '', 'O') ('emit', 'VB', '', 'O') ('visible', 'JJ', '', 'O') ('light', 'NN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('the', 'DT', '', 'O') ('panel', 'NN', '', 'O') ('explained', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('initial', 'JJ', '', 'O') ('panel', 'NN', '', 'O') ('opinion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('Lighting', 'NNP', 'ORG', 'B') ('Ballast', 'NNP', 'ORG', 'I') ('Control', 'NNP', 'ORG', 'I') ('LLC', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Philips', 'NNP', 'ORG', 'B') ('Elecs', 'NNP', 'ORG', 'I')
+Lighting Ballast Control Philips Elecs
+__NEW_SENT__
+('N.', 'NNP', 'ORG', 'B') ('Am', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Lighting', 'NNP', 'WORK_OF_ART', 'I') ('Ballast', 'NNP', 'WORK_OF_ART', 'I') ('I', 'PRP', 'WORK_OF_ART', 'I') ('``', '``', 'WORK_OF_ART', 'I') (')', '-RRB-', 'WORK_OF_ART', 'I') ('498_Fed.Appx._986', 'ADD', 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.2013', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('fluorescent', 'JJ', '', 'O') ('lamp', 'NN', '', 'O') ('fixtures', 'NNS', '', 'O') ('typically', 'RB', '', 'O') ('include', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('electronic_ballast', 'NN', '', 'O') ('to', 'TO', '', 'O') ('regulate', 'VB', '', 'O') ('electric', 'JJ', '', 'O') ('current', 'JJ', '', 'O') ('flow', 'NN', '', 'O')
+N. Am Corp. `` Lighting Ballast I `` ) 498_Fed.Appx._986
+__NEW_SENT__
+('An', 'DT', '', 'O') ('electronic_ballast', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('maintains', 'VBZ', '', 'O') ('current', 'JJ', '', 'O') ('levels', 'NNS', '', 'O') ('high', 'RB', '', 'O') ('enough', 'RB', '', 'O') ('to', 'TO', '', 'O') ('start', 'VB', '', 'O') ('the', 'DT', '', 'O') ('lamp', 'NN', '', 'O') ('but', 'CC', '', 'O') ('that', 'DT', '', 'O') ('prevents', 'VBZ', '', 'O') ('current', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('reaching', 'VBG', '', 'O') ('destructive_levels', 'NNS', '', 'O')
+
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('lamp', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('removed', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('holders', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('when', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('filament', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('broken', 'VBN', '', 'O') ('current', 'JJ', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ballast', 'NN', '', 'O') ('suddenly', 'RB', '', 'O') ('ceases', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('lamp', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissipates', 'VBZ', '', 'O') ('back', 'RB', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ballast', 'NN', '', 'O') ('circuitry', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('dissipated', 'JJ', '', 'O') ('current', 'NN', '', 'O') ('can', 'MD', '', 'O') ('destroy', 'VB', '', 'O') ('the', 'DT', '', 'O') ('ballast', 'NN', '', 'O') ('and', 'CC', '', 'O') ('create', 'VB', '', 'O') ('an', 'DT', '', 'O') ('electric', 'JJ', '', 'O') ('shock', 'NN', '', 'O') ('hazard', 'NN', '', 'O') ('for', 'IN', '', 'O') ('someone', 'NN', '', 'O') ('servicing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('lamp', 'NN', '', 'O')
+
+__NEW_SENT__
+('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5436,529', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬529_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Lighting', 'NNP', 'LOC', 'B') ('Ballast', 'NNP', 'LOC', 'I') ('LLC', 'NNP', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Lighting', 'NNP', 'WORK_OF_ART', 'I') ('Ballast', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O') ('discloses', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('electronic_ballast', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('shield', 'VB', '', 'O') ('itself', 'PRP', '', 'O') ('from', 'IN', '', 'O') ('destructive_levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('current', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('lamp', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('removed', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('becomes', 'VBZ', '', 'O') ('defective', 'JJ', '', 'O')
+U.S. No._5436,529 Lighting Ballast LLC `` Lighting Ballast ''
+__NEW_SENT__
+('¡¬529_patent_col.', 'NNP', '', 'O') ('2_ll._39', 'NNP', '', 'O') ('-47', '.', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('recites', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('An', 'DT', '', 'O') ('energy', 'NN', '', 'O') ('conversion', 'NN', '', 'O') ('device', 'NN', '', 'O') ('employing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('oscillating', 'JJ', '', 'O') ('resonant', 'JJ', '', 'O') ('converter', 'NN', '', 'O') ('producing', 'VBG', '', 'O') ('oscillations', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('DC_input_terminals', 'NNS', '', 'O') ('producing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('control_signal', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('power', 'NN', '', 'O') ('at', 'IN', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('gas_discharge_lamp', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('heatable', 'JJ', '', 'O') ('filaments', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('voltage_source', 'NN', '', 'O') ('means', 'VBZ', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('constant', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('variable', 'JJ', '', 'O') ('magnitude', 'NN', '', 'O') ('DC', 'NNP', 'GPE', 'B') ('voltage', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('DC_input_terminals', 'NNS', '', 'O') (';', ':', '', 'O') ('output_terminals', 'NNS', '', 'O') ('connected', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('filaments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gas_discharge_lamp', 'NN', '', 'O') (';', ':', '', 'O') ('control_means', 'NNS', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('control_signals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('DC_input_terminals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('resonant', 'JJ', '', 'O') ('converter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('operable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('effectively', 'RB', '', 'O') ('initiate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('oscillations', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('effectively', 'RB', '', 'O') ('stop', 'VB', '', 'O') ('the', 'DT', '', 'O') ('oscillations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('converter', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('direct_current_blocking_means', 'NNS', 'NORP', 'B') ('coupled', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('output_terminals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('operable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('stop', 'VB', '', 'O') ('flow', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('control_signal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('DC_input_terminals', 'NNS', '', 'O') ('whenever', 'WRB', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('gas_discharge_lamp', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('removed', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('output_terminals', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('defective', 'JJ', '', 'O')
+at least one DC direct_current_blocking_means at least one
+__NEW_SENT__
+('¡¬529_patent_col.', 'NNP', 'PERSON', 'B') ('11_ll._49', 'CD', 'PERSON', 'I') ('-68', 'NFP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('relevant', 'JJ', '', 'O') ('terms', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+¡¬529_patent_col. 11_ll._49 -68
+__NEW_SENT__

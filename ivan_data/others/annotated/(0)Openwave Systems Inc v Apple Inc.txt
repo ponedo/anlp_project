@@ -1,0 +1,95 @@
+808_F.3d_509
+United States Court of Appeals Federal Circuit
+OPENWAVE SYSTEMS INC. nka Unwired_Planet Inc. Plaintiff-Appellant
+v. APPLE INC. Research in Motion Ltd. Research in Motion_Corp. Defendants-Appellees
+No._2015-1108
+| Dec._15,_2015
+Synopsis
+Background : Assignee of patents setting forth method and architecture for an interactive two-way data communication network brought infringement action
+The United_States_District_Court for the District of Delaware Richard G. Andrews J. 2014_WL_651911 construed disputed claim_term and entered stipulated judgment of non-infringement
+Assignee appealed
+
+Holdings : The Court of Appeals O'Malley Circuit_Judge held that
+
+patentee disavowed mobile_devices containing computer_modules from patents through repeated disparagement in patent specification and
+
+term `` mobile_device '' in patents meant portable wireless two-way_communication_device that did not contain a computer_module
+
+Affirmed
+
+Attorneys and Law Firms
+*510 Theodore Stevenson III McKool Smith P.C. Dallas TX argued for appellant
+Also represented by Meredith Anne Elkins Jared M. Hoggan Nicholas M. Mathews ; Daniel L. Geyser Stris & Maher LLP Los_Angeles CA
+Mark Andrew Perry Gibson Dunn & Crutcher LLP Washington DC argued for appellee Apple_Inc. Also represented by Brian Buroker ; Alexander N. Harris San Francisco CA ; Josh Krevitt New York N.Y. ; Hervey Mark Lyon Stuart Rosenberg Palo Alto CA ; Brooke Myers Wallace Los_Angeles CA
+Alan J. Heinrich Irell & Manella LLP Los_Angeles CA for appellees Research in Motion Ltd. and Research in Motion_Corp. Also represented by Gavin Snyder Bruce A. Wessel
+Before MOORE O'MALLEY and CHEN Circuit_Judges
+Opinion
+O'MALLEY Circuit_Judge
+Openwave Systems Inc. NKA Unwired_Planet Inc. ( `` Unwired_Planet '' ) is the assignee of U.S. Patent Nos._6405,037 ( `` the ¡¬037_patent `` ) 6,430,409 ( `` the ¡¬409_patent `` ) and 6,625,447 ( `` the ¡¬447_patent `` ) ( collectively *511 the `` patents-in-suit '' )
+The patents-in-suit share a common specification.1
+
+Unwired_Planet first sued Apple_Inc. Research in Motion Ltd. and Research in Motion_Corp. ( collectively the `` Defendants '' ) on August 31 2011 in the United_States_District_Court for the District of Delaware
+Shortly thereafter on October 7 2011 Unwired_Planet initiated an action with the International Trade Commission ( `` ITC '' )
+The district_court stayed its litigation pending resolution of the ITC_proceedings
+After receiving an unfavorable claim construction ruling from the Administrative Law Judge ( `` ALJ '' ) overseeing the proceedings Unwired_Planet sought to dismiss the ITC investigation in its entirety
+On November 13 2012 the ITC terminated its proceedings
+The district_court lifted its stay on December 28 2012
+
+Unwired_Planet informed the district_court that if it adopted a construction of the disputed claim_term that matched the construction from the ITC_proceedings Unwired_Planet would concede non-infringement by stipulation and file a motion to terminate the case
+After considering the briefing and hearing oral argument the district_court issued an order adopting a construction that closely tracked that employed by the ALJ
+Believing one difference between the two constructions to be material however Unwired_Planet did not immediately stipulate to non-infringement
+Specifically because the district_court noted in a footnote that its construction excluding devices employing `` computer_modules '' did not exclude devices employing `` microprocessors '' Unwired_Planet argued that a material question regarding infringement remained unresolved
+
+Given Unwired_Planet 's refusal to concede non-infringement Defendants filed a motion for summary judgment of non-infringement
+The district_court denied the Defendants ' motion on the ground that it was unclear from the record whether the accused products actually fell within the claims as construed
+The district_court premised its summary-judgment ruling on the fact that it found the distinction between devices operating with microprocessors and those operating with computer_modules to be sufficiently unclear at that stage of the proceedings to prohibit entry of a judgment of non-infringement as a matter of law
+After the district_court entered that order in favor of Unwired_Planet however Unwired_Planet changed course and filed a stipulation of non-infringement after all
+The district_court entered final_judgment of non-infringement as to all asserted patent claims in favor of Defendants on October 14 2014
+This appeal followed
+Because we agree with the district_court 's claim construction we affirm
+
+BACKGROUND
+There are three claim_terms at issue : `` mobile_device '' in the ¡¬037_patent `` wireless mobile telephone '' in the ¡¬409_patent and `` two-way_communication_device '' in the ¡¬447_patent
+Before both the ALJ and the district_court the parties agreed that the claim_terms should be analyzed and construed together
+Accordingly we will construe them together under the umbrella term `` mobile_device ''
+
+The only relevant issue on appeal is whether the claims should be given their ordinary meaning or whether as the district_court found the patents through repeated disparagement in the specification *512 disclaim mobile_devices containing `` computer_modules ''
+
+The patents-in-suit address perceived problems with the mobile_device prior art
+For example the prior art `` intelligent devices '' 2 could not be updated without physically changing the devices themselves because at the time of the invention applications on mobile_devices were physically burned onto their read-only memories ( `` ROMs '' ) at the factory or were present on a ROM card
+In order to install a new application one would need to re-burn the ROM or install a new ROM card
+¡¬037_patent col. 2_ll._33 -40
+The `` intelligent telephone '' of the day moreover was too big in size too expensive to produce and had problems with battery life
+Id.at col. 9_ll._21 -25
+At the time of the invention-1995-mobile_devices did not have processors that were both powerful enough and small enough to operate the devices without running into these commercialization problems
+
+To overcome these difficulties the inventor of the patents-in-suit `` devised ways to divide the computing power between a device and its remote server '' thus `` eliminat [ ing ] the need for devices to employ full computing capacity on their own ''
+Unwired_Planet Op
+Br
+2
+At issue is whether the claims cover only mobile_devices with small `` microcontrollers '' -which facilitate communications between the client device and the server-or also cover mobile_devices that contain more robust `` computer_modules '' -which serve to localize more of the computational processes onto the mobile_device itself.3
+
+In answering this question the district_court found that `` the specification makes clear that the invention does not encompass mobile_devices containing computer_modules ''
+Openwave Sys. Inc. v. Apple_Inc. No
+CV-11-765-RGA 2014_WL_651911 at *3 ( D.Del
+Feb._19,_2014 )
+The district_court relied upon a number of passages in the specification that disparage the prior art implementation of a computer_module on a mobile_device finding that the `` repeated derogatory statements.. reasonably may be viewed as a disavowal of that subject matter from the scope of the [ p ] atent 's claims ''
+Id
+( alterations in original ) ( internal quotation marks omitted ) ( citing Chicago Bd
+Options Exch. Inc. v. Int ' l Sec
+Exch. LLC 677_F.3d_1361 1372 ( Fed.Cir.2012 ) )
+Accordingly `` [ t ] he patents disclaim mobile_devices containing computer_modules ''
+Id
+; see also J.A
+9 ( specifying that `` [ t ] he patents disclaimed mobile_devices containing computer_modules '' )
+
+In light of this disavowal the district_court construed the term `` mobile_device '' as `` a portable wireless two-way communication *513 device that does not contain a computer_module ''
+Openwave 2014_WL_651911 at *3
+In a footnote the district_court `` ma [ d ] e clear that this construction does not read out embodiments including microcontrollers ''
+Id.at n. 3
+As noted after some hesitation Unwired_Planet ultimately stipulated to non-infringement under this construction
+The district_court then entered final_judgment from which Unwired_Planet appeals
+J.A
+17
+We have jurisdiction under 28 U.S.C.¡± 1295 ( a ) ( 1 )
+

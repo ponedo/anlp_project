@@ -1,0 +1,265 @@
+	Background:
+	Assignee brought action claiming infringement of lighting ballast patent.
+	The United States District Court for the Northern District of Texas, Reed O'Connor, J., 2010 WL 4946343, construed the claims, and granted judgment for assignee after jury verdict in its favor.
+	On appeal, a Court of Appeals panel reversed, 498 Fed.
+	Appx.
+	986, but assignee's subsequent request for rehearing en banc was granted, 500 Fed.
+	Appx.
+	951, and the Court of Appeals, 744 F.3d 1272, reinstated the decision.
+	The Supreme Court, --- U.S. ----, 135 S.Ct.
+	1173,
+	191 L.Ed.2d 130, vacated and remanded after granting petition for certiorari. 
+	Holdings:
+	On remand, the Court of Appeals, Reyna, Circuit Judge, held that: 
+	competitor was not required to object to jury instructions to preserve issue for appeal as to whether term "voltage source means" in lighting ballast patent was invalid for indefiniteness; 
+	claims conveyed defined structure to one of ordinary skill in the art, and thus term "voltage source means" in lighting ballast patent was not invalid for indefiniteness; 
+	district court could rely on extrinsic evidence to determine whether claim in lighting ballast patent conveyed defined structure to one of ordinary skill in the art; 
+	competitor had to present the invalidity question to the jury in order to preserve its right to raise it on appeal; 
+	term, "direct current blocking means," required capacitor or diode at every output terminal; 
+	substantial evidence supported jury's verdict that "direct current blocking means" claim had not been anticipated by prior art; 
+	term, "defective," meant whenever direct current path between two terminals was broken; and 
+	substantial evidence supported jury's verdict that competitor infringed "control means" claim. 
+	This case returns to us on remand from the Supreme Court of the United States and was returned to the panel for reconsideration in light of  
+	Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc., 574 U.S. ----,
+	135 S.Ct. 831, ---L.Ed.2d ----
+	(2015).
+	Appellant Universal Lighting Technologies, Inc.
+	("ULT") appeals four issues.
+	We affirm. 
+	A. BACKGROUND OF
+	THE TECHNOLOGY 
+	High levels of current are required to cause a fluorescent lamp to emit visible light.
+	As the panel explained in the initial panel opinion in this case, Lighting Ballast Control LLC v. Philips Elecs.
+	N. Am. Corp. ("Lighting Ballast I "), 498 Fed.
+	Appx.
+	986 (Fed.Cir.2013), fluorescent lamp fixtures typically include an electronic ballast to regulate electric current flow.
+	An electronic ballast is a device that maintains current levels high enough to start the lamp but that prevents current from reaching destructive levels.
+	When a lamp is removed from its holders or when a filament is broken, current provided by the ballast suddenly ceases to flow through the lamp and dissipates back into the ballast circuitry.
+	The dissipated current can destroy the ballast and create an electric shock hazard for someone servicing the lamp. 
+1	U.S. Patent No. 5,436,529 ("the ��529 patent"), assigned to Lighting Ballast LLC ("Lighting Ballast"), discloses an electronic ballast with the ability to shield itself from destructive levels of current when a lamp is removed or becomes defective.
+	��529 patent col. 2 ll.
+	39-47. 
+	Claim 1 recites: 
+	1.
+	An energy conversion device employing an oscillating resonant converter producing oscillations, having DC input terminals producing a control signal and adapted to power at least one gas discharge lamp having heatable filaments, the device comprising: 
+	voltage source means providing a constant or variable magnitude DC voltage between the DC input terminals; 
+	output terminals connected to the filaments of the gas discharge lamp; 
+	control means capable of receiving control signals from the DC input terminals and from the resonant converter, and operable to effectively initiate the oscillations, and to effectively stop the oscillations of the converter; and direct current blocking means coupled to the output terminals and operable to stop flow of the control signal from the DC input terminals, whenever at least one gas discharge lamp is removed from the output terminals or is defective. 
+	��529 patent col. 11 ll.
+	49-68 (emphasis added to relevant terms). 
+	B. PROCEDURAL HISTORY 
+	On February 24, 2009, Lighting Ballast filed suit against ULT asserting infringement of the ��529 patent.
+	The parties engaged in claim construction briefing and the court held a hearing thereon.
+	ULT argued that the term "voltage source means" is governed by 35 U.S.C. ��
+	112 ? 6 and that the claims are invalid under 35 U.S.C. ��
+	112 ? 2 as indefinite because the specification fails to disclose what structure corresponded to the "voltage source means" limitation.
+	The district court initially agreed with ULT. 
+	Lighting Ballast filed a motion for reconsideration.
+	The district court reversed course, finding that its initial construction of "voltage source means" was incorrect.
+	The district court noted that its prior ruling "unduly discounted the unchallenged expert testimony" and "exalted form over substance and disregarded the knowledge of a person of ordinary skill in the art".
+	Lighting Ballast Control, LLC v. Philips Elecs.
+	N. Am. Corp., No. 7:09-CV-29, 2010 WL 4946343, at (N.D.Tex. Dec. 2, 2010).
+	The district court cited testimony from an expert for Lighting Ballast, Dr. Victor Roberts, and the inventor, Andrzej Bobel, both of whom testified that one of skill in the art would understand the claimed "voltage source means" to correspond to a rectifier, which converts alternating current ("AC") to direct current ("DC"), or other structure capable of supplying useable voltage to the device.
+	Thus, the district court concluded that the term "voltage source means" had sufficient structure to avoid the strictures of �� 112 ? 6 and denied ULT's motion. 
+	Thereafter, ULT renewed its argument that the asserted claims are invalid as indefinite, this time couched as a motion for summary judgment.
+	J.A. 62.
+	The district court noted that "ULT presents no additional basis for holding the asserted claims invalid".
+	Id.
+	The district court, thus, declined to revisit the issue for a third time and adopted its prior findings and analysis regarding the definiteness of the asserted claims.
+	Id. 
+	Starting on June 13, 2011, the district court held a jury trial on the issue of whether ULT's accused lighting ballast products infringe claims 1, 2, and 5 of the ��529 patent.
+	The jury returned a verdict finding the ��529 patent valid and infringed and awarded $3 million in damages to Lighting Ballast. 
+	ULT moved for judgment as a matter of law ("JMOL") on three grounds, as relevant to this appeal:
+	1) the record does not contain legally sufficient evidence that the accused ULT products meet the "direct current blocking means" limitation of claim 1 of the ��529 patent; 2) the record does not contain legally sufficient evidence that the accused ULT products meet the "connected to" limitation of claim 1 of the ��529 patent; 3) the record does not contain legally sufficient evidence that the accused products meet the "control means" limitation.
+	The district court denied the relevant portions of ULT's JMOL.
+	ULT appealed. 
+	After an initial panel decision reversing the judgment of the district court regarding indefiniteness of the asserted claims based on the "voltage source means" limitation, Lighting Ballast I, this court granted Lighting Ballast's petition for rehearing en banc, Lighting Ballast Control LLC v. Philips Elecs.
+	N. Am. Corp., 500 Fed.
+	Appx.
+	951 (Fed.Cir.2013), in order to reconsider the holding in Cybor Corp. v. FAS Technologies, Inc., 138 F.3d 1448 (Fed.Cir.1998) (en banc), establishing the standard of appellate review of district court claim construction decisions.
+	The case was heard en banc on September 13, 2013.
+	The court issued an opinion affirming that claim construction is an issue of law that this court reviews de novo.
+	Lighting Ballast Control LLC v. Philips Elecs.
+	N. Am. Corp.
+	("Lighting Ballast II "), 744 F.3d 1272 (Fed.Cir.2014) (en banc).
+	Lighting Ballast filed a petition for a writ of certiorari with the Supreme Court. 
+	Before the Supreme Court acted on the petition, it issued an opinion in Teva Pharmaceuticals USA, Inc. v. Sandoz, Inc., 574 U.S.
+	----,
+	135 S.Ct. 831, ---
+	L.Ed.2d ----
+	(2015).
+	In that case, the Supreme Court reversed a decision from this court, holding that while the ultimate question of the proper construction of a claim is a legal question that this court reviews de novo, there may be underlying "subsidiary" factual findings by the district court related to the extrinsic record that are reviewed for clear error.
+	The Supreme Court held that this conclusion flows from Rule 52 of the Federal Rules of Civil Procedure and the Supreme Court's prior opinions, such as Markman v. Westview Instruments, Inc., 517 U.S. 370,
+	116 S.Ct.
+	1384, 134 L.Ed.2d
+	577 (1996). 
+	Thereafter the Supreme Court granted Lighting Ballast's petition for a writ of certiorari, vacated the en banc opinion, and remanded it to this court for further consideration in light of Teva. 
+	A. "VOLTAGE SOURCE MEANS"  
+	As noted above, the district court initially construed the "voltage source means" limitation in claim 1 of the ��529 patent as a means-plus-function limitation.
+	Based on this conclusion, the court looked for a disclosed structure in the specification to correspond to the voltage source function, but found none.
+	These combined conclusions rendered the patent invalid as indefinite.
+	After Lighting Ballast filed a motion for reconsideration, the district court reversed course, finding that its initial construction of "voltage source means" was incorrect.
+	The district court noted that its prior ruling "unduly discounted the unchallenged expert testimony" and "exalted form over substance and disregarded the knowledge of a person of ordinary skill in the art".
+	Lighting Ballast Control, LLC v. Philips Elecs.
+	N. Am. Corp., No. 7:09-cv-29, 2010 WL 4946343, at *10, (N.D.Tex. Dec. 2, 2010).
+	The district court cited testimony from an expert for Lighting Ballast, Dr. Victor Roberts, and the inventor, Andrzej Bobel, both of whom testified that one of skill in the art would understand the claimed "voltage source means" to correspond to a rectifier, which converts alternating current ("AC") to direct current ("DC"), or other structure capable of supplying useable voltage to the device.
+	Thus, the district court concluded that the term "voltage source means" had sufficient structure to avoid the strictures of ��
+	112 ? 6.
+	The district court reconfirmed this finding when it denied ULT's motion for summary judgment of invalidity, expressly stating it would not consider the question again. 
+	ULT argues that the district court erred when it held that the term "voltage source means" is not governed by ��
+	112 ? 6, both in response to Lighting Ballast's motion for reconsideration and in response to ULT's later motion for summary judgment.
+	ULT contends that the extrinsic evidence presented by Lighting Ballast and accepted by the district court cannot overcome the presumption that the term is in means-plus-function format for two reasons.
+	First, ULT believes that Lighting Ballast failed to identify intrinsic evidence showing that a person of ordinary skill in the art would understand "voltage source means" to be structural.
+	Second, ULT contends that, at best, "voltage source means" refers to any structure capable of performing that function rather than the definite structure of a rectifier, as employed in ULT's products.
+	ULT contends that, because the written description of the specification fails to disclose structure corresponding to the claimed function of the "voltage source means" and the extrinsic evidence offered did not adequately identify a single structure, the asserted claims are invalid. 
+	Citing Rule 51 of the Federal Rules of Civil Procedure, Lighting Ballast argues that ULT waived any argument regarding the proper construction of "voltage source means" by failing to raise the issue in either its pre- or post-verdict motions for judgment as a matter of law.
+	Lighting Ballast also argues that Ortiz v. Jordan, 562 U.S. 180, 131 S.Ct.
+	884, 178 L.Ed.2d 703 (2011), prevents ULT from appealing the denial of ULT's summary judgment motion regarding indefiniteness because Ortiz forbids a party from appealing from an order denying summary judgment after a full trial on the merits.
+	In the alternative, Lighting Ballast argues that the district court's construction was correct because this court's precedent allows "use of even purely functional claim language to show that the limitation as a whole suggests structure".
+	Appellee's Resp.
+	Br. at 40.
+	Lighting Ballast contends that a person of ordinary skill in the art would immediately recognize the implicit disclosure of a rectifier in the "voltage source means" limitation.
+	Lighting Ballast concludes that ULT cannot show clear error in the district court's consideration of the extrinsic evidence in reaching the conclusion that ULT failed to meet its burden to prove the ��529 patent invalid as indefinite. 
+	As a preliminary matter, we reject Lighting Ballast's argument that ULT waived its argument regarding "voltage source means" because ULT was not required to object to claim construction under Rule 51 after ULT made its claim construction position clear to the court and the court rejected it.
+	We disagree that Ortiz v. Jordan controls here.
+	Ortiz addressed a circumstance in which a trial court denied summary judgment on grounds that material issues of fact prevented judgment as a matter of law.
+	In those circumstances, the defendant remained obliged to present its argument to the trier of fact and failure to do so prevented raising it on appeal.
+	While the third and final time the district court addressed the issue of indefiniteness based on the term "voltage source means" was in the context of summary judgment, the issue of whether a claim term is governed by ��
+	112
+	? 6 is a claim construction issue.
+	Personalized Media Commc'ns, LLC v. Int'l Trade Comm'n, 161 F.3d 696, 702 (Fed.Cir.1998) ("whether certain claim language invokes 35 U.S.C. �� 112, ? 6 is an exercise in claim construction"); see also Robert Bosch, LLC v. Snap-On Inc., 769 F.3d 1094, 1098 (Fed.Cir.2014) ( "determining whether certain claim language invokes �� 112, ? 6 is an exercise in claim construction") (internal quotations omitted).
+	And claim construction is an issue for the court, not the jury.
+	Markman v. Westview Instruments, Inc., 517 U.S. 370, 391,
+	116 S.Ct.
+	1384, 134 L.Ed.2d
+	577 (1996).
+	When the district court denied ULT's motion for summary judgment, it did not conclude that issues of fact precluded judgment; it effectively entered judgment of validity to Lighting Ballast.  
+	We conclude that ULT did not waive its argument that the asserted claims are invalid for indefiniteness.
+	It is generally accepted that a district court's claim construction order is within the class of decisions that do not terminate litigation and yet may be appealed upon resolution of the case and issuance of a final judgment.
+	See, e.g., O2 Micro Int'l Ltd. v. Beyond
+	Innovation Tech. Co., 521 F.3d 1351, 1359 (Fed.Cir.2008) (holding that under Fifth Circuit law the appellants' arguments on appeal regarding claim construction were not waived even though appellants did not object to the jury instructions because the arguments were made clear to the district court and the district court did not clearly indicate that it was open to changing its claim construction) (citation omitted);
+	Creo Prod., Inc. v. Presstek, Inc., 305 F.3d 1337, 1346 (Fed.Cir.2002) (finding that party preserved its indefiniteness argument regarding the application of �� 112 ? 6 for appeal because the district court resolved the issue prior to appeal).
+	As ULT points out in its brief, ULT argued before the district court that the asserted claims were indefinite under ��
+	112 ? 2 because the term "voltage source means" was governed by �� 112 ? 6 and lacked corresponding structure in the written description.
+	The district court addressed this issue during claim construction proceedings.
+	The district court initially accepted ULT's position, J.A. 804-15, reversed itself thereafter, id. at 16-24, and declined to resolve the issue a third time when ULT moved for summary judgment on this issue, id. at 62.
+	This is sufficient to preserve the issue for appeal. 
+	Rule 51 does not change this result where a party's position on claim construction is made clear before the district court and the district court has rejected that position.
+	See Taita Chem. Co., Ltd. v. Westlake Styrene, LP, 351 F.3d 663, 667-68 (5th Cir.2003) (stating that a party may be excused from objecting to a jury charge under Rule 51 of the Federal Rules of Civil Procedure where the party's position is clear from the record and the district court made clear that a further objection would be unavailing, such as where a party previously filed objections and the district court made clear no more objections would be heard);
+	Lang v. Texas & P. Ry. Co., 624 F.2d 1275, 1279 (5th Cir.1980) ("[Rule 51 of the Federal Rules of Civil Procedure] is not without exceptions, [ ] and the failure to object [to the jury charge] may be disregarded if the party's position has previously been made clear to the court and it is plain that a further objection would have been unavailing".); see also Cardiac Pacemakers, Inc. v. St. Jude Medical, Inc., 381 F.3d 1371, 1381 (Fed.Cir.2004) ("When the claim construction is resolved pre-trial, and the patentee presented the same position in the Markman proceeding as is now pressed, a further objection to the district court's pre-trial ruling may indeed have been not only futile but unnecessary.... Objection under Rule 51 [of the Federal Rules of Civil Procedure] was not required to preserve the right to appeal the Markman ruling".) (under Seventh Circuit law).
+	ULT was not required to object to the jury instructions to preserve this issue for appeal because it made clear to the district court its position on the issue and the issue was finally resolved by the district court prior to trial.  
+	Having addressed the preliminary issue of waiver, we now move to the merits.
+	The district court made findings of fact based on extrinsic evidence.
+	See Teva, 574 U.S. at ----, 135 S.Ct. at 842.
+	Under the circumstances, it was not legal error for the district court to rely on extrinsic evidence, because the extrinsic evidence was "not used to contradict claim meaning that is unambiguous in light of the intrinsic evidence".
+	Phillips v. AWH Corp., 415 F.3d 1303, 1324 (Fed.Cir.2005).
+	For example, the district court determined that "while the 'voltage source means' term does not denote a specific structure, it is nevertheless understood by persons of skill in the lighting ballast design art to connote a class of structures, namely a rectifier, or structure to rectify the AC power line into a DC voltage for the DC input terminals".
+	J.A. 22.
+	The district court went on to note that the language following "voltage source means" in the claim-"providing a constant or variable magnitude DC voltage between the DC input terminals"-"when read by one familiar with the use and function of a lighting ballast, such as the one disclosed by the 529 Patent, [sic] would understand a rectifier is, at least in common uses, the only structure that would provide 'a constant or variable magnitude DC voltage' ".
+	Id. at 23.
+	The district court further noted that "it is clear to one skilled in the art that to provide a DC voltage when the source is a power line, which provides an AC voltage, a structure to rectify the line is required and is clear from the language of the 'voltage source means' term".
+	Id.
+	We defer to these factual findings, absent a showing that they are clearly erroneous. 
+	The district court's factual findings are supported by the record.
+	Specifically, these factual findings are supported by the testimony of Dr. Roberts and Mr. Bobel.
+	Mr. Bobel testified in his deposition that the "voltage source means" limitation connotes a rectifier to one skilled in the art.
+	Mr. Bobel further explained that a battery could likewise provide the necessary DC supply voltage described in the patent.
+	Similarly, Dr. Roberts explained that the "voltage source means" limitation suggests to him a sufficient structure, or class of structures, namely a rectifier if converting AC from a "power line source" to DC for a "DC supply voltage" or a battery if providing the DC supply voltage directly to the DC input terminals.
+	This expert testimony supports a conclusion that the limitations convey a defined structure to one of ordinary skill in the art.
+	See Rembrandt Data Techs.,
+	LP v. AOL, LLC, 641 F.3d 1331, 1341 (Fed.Cir.2011).
+	Because the district court's factual findings demonstrate that the claims convey sufficient structure, the district court was correct to conclude that the term "voltage source means" is not governed by ��
+	112 ? 6.
+	As such, we affirm the district court's decision concerning "voltage source means". 
+	B. "DIRECT CURRENT BLOCKING MEANS"  
+	The district court initially construed the term "direct current blocking means" to be governed by �� 112 ? 6.
+	The district court then determined that a capacitor or diode was the disclosed corresponding structure.
+	The district court later amended this construction to indicate that this term requires that each set of output terminals be connected to a DC blocking capacitor.
+	J.A. 58. 
+	ULT argues that the district court erred when it modified its construction of the "direct current blocking means" term by improperly adding a requirement that each set of output terminals be connected to a DC blocking capacitor.
+	ULT argues that without this limitation on the claim, it is clear that the asserted claims are anticipated by two prior art references:
+	JP 1-157099 ("JP ��099") and JP 61-153997 ("JP ��997"). 
+	Lighting Ballast counters that ULT failed to preserve any issues related to JP ��099 for appeal by not raising JP ��099 before the jury.
+	Lighting Ballast also contends that ULT's arguments fail on the merits.2  As noted above, where the issue raised in a motion for summary judgment is a pure question of law or, as in the case of claim construction, an issue for the court to decide, the denial of a party's motion for summary judgment generally results in a reciprocal grant of summary judgment to the other party.
+	For issues of fact like anticipation, on the other hand, the denial of a motion for summary judgment usually only indicates that there are questions of fact to be resolved.
+	In this case, the parties treated the district court's denial of ULT's motion for summary judgment of invalidity as though it was a grant of a motion for summary judgment of no anticipation based on JP ��099, see J.A. 5234, even though no such motion was ever filed.
+	Anticipation is a question of fact that is ultimately for the jury to decide.
+	While ULT argues it could not have prevailed on its anticipation defense if operating under the district court's amended claim construction, we have no factual record upon which to assess that argument.
+	We conclude that, absent a stipulation between the parties regarding anticipation, ULT had to present the question to the jury in order to preserve its right to raise it before us.  
+	We turn to the issue of anticipation by JP ��997.
+	The district court construed "direct current blocking means" as requiring a capacitor or diode at every output terminal.
+	Because JP ��997 does not disclose a capacitor or diode at every output terminal, the district court concluded that a material fact existed as to whether JP ��997 anticipates the claims.
+	The parties disputed the issue at trial, and the jury returned a verdict of no anticipation. 
+	The parties agree that the term "direct current blocking means" is governed by �� 112 ? 6.
+	The parties also agree that the corresponding structure is a collection of capacitors or diodes.
+	The only point of disagreement is whether the structure requires a capacitor/diode coupled to every set of output terminals or only those through which the DC control signal passes and whether, under the correct construction, JP ��997 anticipates the asserted claims. 
+	ULT has failed to show reversible error in the district court's construction of the term "direct current blocking means".
+	Claim 1 recites "output terminals" and a "direct current blocking means coupled to the output terminals...." The plain language of the claims requires a direct current blocking means at every output terminal.
+	Under the district court's construction, the jury's verdict is supported by substantial evidence.
+	At trial, Dr. Zane testified that JP ��997 does not teach a DC blocking means attached to each of the output terminals.
+	J.A. 13340-41.
+	Dr. Giesselmann failed to offer any testimony regarding structural equivalency.
+	As such, we hold that the district court's construction of "direct current blocking means" was not erroneous, and that the jury's verdict of no anticipation is supported by substantial evidence.  
+	We turn to the construction of "whenever at least one discharge lamp is removed from the output terminals or is defective".
+	The "direct current blocking means" recited in claim 1 is "operable to stop flow of the control signal from the DC input terminals, whenever at least one gas discharge lamp ... is defective".3
+	The district court construed "defective" to mean "whenever the direct current path between [two terminals] is broken".
+	A51.
+	The court relied on the following language in the specification for support:
+	"the [direct current blocking means] will be held discharged for any period of time as long as:
+	(i) there is an unbroken direct current path DCP between terminal B+ and terminal CTa...." 
+	The district court's construction is supported by the intrinsic record.
+	The DC blocking means does not block control signal when a lamp is inserted into its holders and has a working filament.
+	There is no need to block current in this instance because the circuit is closed, and there is no danger that current will dissipate into the ballast circuitry.
+	As the district court recognized, on the other hand, the DC blocking means blocks control signal when a lamp is removed or when the lamp has a broken filament, i.e., when the direct current path between the relevant terminals (terminals B+ and CTa) is broken.
+	As a result, the district court's claim construction was not erroneous.  
+	Before trial, the parties did not propose that the district court construe the term "connected to".
+	ULT did not ask for its proposed construction until after trial.
+	In resolving ULT's motion for JMOL, the district court construed the term to mean the same thing as "for connection to". 
+	ULT argues that its accused products do not include "output terminals connected to the filaments" of a lamp as required by claims 1, 2, and 5 because the term means something different from "for connection to".
+	Lighting Ballast argues that ULT waived this argument.
+	We agree.  
+	ULT waived its right to seek a new claim construction because ULT did not seek that construction until after trial.
+	As in Broadcom Corp. v. Qualcomm Inc. this case "falls squarely within our holding in Eli Lilly & Company v. Aradigm Corporation, where a party 'never requested that the district court construe any terms in the relevant claim and never offered a construction of that claim, but rather only after the presentation of all of the evidence to the jury ... even suggested that claim construction might be helpful to determine the proper scope of the claimed invention.' " 543 F.3d 683, 694 (Fed.Cir.2008) (quoting Eli Lilly, 376 F.3d 1352, 1360 (Fed.Cir.2004) (internal quotations and brackets omitted)).
+	We hold that ULT has waived its right to request a construction of "connected to" and that ULT implicitly conceded that the meanings of "connected to" is clear and not in need of construction.  
+	ULT argues that the district erred in denying JMOL on the basis of infringement of the "control means" limitation under the doctrine of equivalents.
+	ULT contends that it does not infringe the asserted claims because the control circuits in the accused products allow a ballast to continue to draw power after shutdown, a feature that differentiates the accused products from the "control means" limitation of claim 1.
+	According to ULT, the ��529 patent disclaims circuits like the accused circuits that draw power after shutdown by distinguishing such circuits from the "control means" feature.
+	ULT also highlights a number of other ways in which ULT's products differ from the "control means" limitation of claim 1. 
+	Lighting Ballast counters that substantial evidence supports the jury's finding of equivalency.
+	According to Lighting Ballast, claim 1 does not require the absence of power-draw from the ballast on shutdown.
+	Rather, Lighting Ballast explains that the "control means" feature must be operable to stop oscillations of the converter, a feature that Lighting Ballast contends the accused products share with embodiments of the ��529 Patent.
+	Lighting Ballast argues that ULT confuses power draw from the ballast with stopping oscillations of the converter.
+	Accordingly, Lighting Ballast contends that because ULT does not challenge the jury's implicit finding that the accused products stop oscillations of the converter, the jury's verdict is supported by substantial evidence.
+	We agree with Lighting Ballast.  
+	A denial of a motion for JMOL is not unique to patent law, and thus, we apply the law of the applicable regional circuit, in this case the Fifth Circuit.
+	See Transocean Offshore Deepwater Drilling, Inc. v. Maersk Drilling USA, Inc., 699 F.3d 1340, 1346-47 (Fed.Cir.2012).
+	Under Fifth Circuit law, a district court's decision on a motion for JMOL is reviewed de novo, reapplying the JMOL standard.
+	Ford v. Cimarron Ins. Co., 230 F.3d 828, 830 (5th Cir.2000).
+	JMOL is appropriate when a party has been fully heard on an issue and there is no legally sufficient evidentiary basis for a reasonable jury to find for that party on that issue.
+	Fed.
+	R.Civ.
+	P. 50(a)(1).  
+	ULT seeks to have this court reverse the district court's opinion on JMOL regarding the "control means" term by reweighing the evidence produced at trial.
+	We refuse to do so.
+	The role of an appellate court is to review the final judgment issued by the district court.
+	When final judgment is issued upon a jury verdict, this court can only look to whether there was substantial evidence to support the jury's verdict.
+	We may not independently reweigh the evidence, as ULT asks this court to do. 
+	We conclude that the jury's verdict is supported by substantial evidence.
+	As outlined in the district court's opinion, Lighting Ballast's expert, Dr. Victor Roberts, identified the structure of the accused products and testified that such structures were equivalent to the "control means" of the ��529 patent for infringement purposes.
+	Dr. Roberts first identified where DC enters the "control means" and testified that the accused products perform the first function of the ��529 patent "control means" of receiving a control signal from the DC input terminals.
+	Dr. Roberts then testified that the accused products satisfy the second function of the "control means" limitation because they initiate oscillations and stop oscillations of the converter.
+	Dr. Roberts explained that the signal flows down through the resistors, through the discrete transistors and eventually over the integrated circuit into a pin labeled EN2, which enables oscillations.
+	Dr. Roberts testified in detail as to the way in which the accused products meet the "control means" limitation.
+	We find that this evidence is sufficient to support the jury's verdict of infringement. 
+	For these reasons, we affirm the judgment of the district court. 
+	All Citations 
+	790 F.3d 1329, 115 U.S.P.Q.2d 1357 
+	Footnotes 
+	Pursuant to Fed.
+	Cir.
+	Internal Operating Procedure 15 ?
+	2(b)(ii), Circuit Judge Lourie was designated to replace Randall R. Rader, now retired, on this panel. 
+	Lighting Ballast also makes a summary argument without citation that ULT waived any arguments regarding dependent claims 2 and 5 by failing to appeal the judgment of validity of these claims.
+	We decline to address this arguments given the insufficient explanation and lack of legal basis supporting the argument. 
+	Lighting Ballast argues that ULT waived "whenever ... defective" arguments.
+	We reject that argument for the reasons given in Part II.A of this opinion. 

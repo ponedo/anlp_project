@@ -1,0 +1,210 @@
+('66_F.3d_285', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('MARK', 'NNP', '', 'O') ('I', 'PRP', '', 'O') ('MARKETING', 'VBP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Mark_I_Marketing_Corporation', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('America', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('R.R', 'NNP', '', 'O')
+Mark_I_Marketing_Corporation of America
+__NEW_SENT__
+('DONNELLEY', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('SONS', 'NNP', 'ORG', 'I') ('COMPANY', 'NN', 'ORG', 'I') ('Defendant-Appellee', 'NN', '', 'O')
+DONNELLEY & SONS COMPANY
+__NEW_SENT__
+('No._95-1101', 'NNPS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Sept._14,_1995', 'FW', 'ORG', 'B')
+Sept._14,_1995
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('for', 'IN', '', 'O') ('color', 'NN', '', 'O') ('printing', 'NN', '', 'O') ('method', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('colors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('ink', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('producer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('telephone_directories', 'NNS', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', 'GPE', 'I') ('George', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Lindberg', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the Northern_District of Illinois George W. Lindberg J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('estopped', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prosecution_history', 'NN', '', 'O') ('from', 'IN', '', 'O') ('asserting', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('any', 'DT', '', 'O') ('process', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('involve', 'VB', '', 'O') ('sequential', 'JJ', '', 'O') ('interposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('colored', 'JJ', '', 'O') ('filters', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('method', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('patent', 'NN', '', 'O')
+The Court of Appeals Lourie Circuit_Judge 1 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*286', 'NNP', '', 'O') ('Eliot', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Gerber', 'NNP', 'PERSON', 'I') ('Wyatt', 'NNP', 'PERSON', 'I') ('Gerber', 'NNP', 'PERSON', 'I') ('Burke', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Badie', 'NNP', 'PERSON', 'I') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('City', 'NNP', 'GPE', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Eliot S. Gerber Wyatt Gerber Burke & Badie New York City
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Terence', 'NNP', 'ORG', 'B') ('W.', 'NNP', 'ORG', 'I') ('McMillin', 'NNP', 'ORG', 'I') ('Gerstmen', 'NNP', 'ORG', 'I') ('Ellis', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('McMillin', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O')
+Terence W. McMillin Gerstmen Ellis & Chicago
+__NEW_SENT__
+('Thomas', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Ryan', 'NNP', 'PERSON', 'I') ('Sidley', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Austin', 'NNP', 'PERSON', 'I') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Thomas F. Ryan Sidley & Austin Chicago
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Constantine', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Trela', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Treece', 'NNP', 'PERSON', 'I')
+Constantine L. Trela John W. Treece
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Phillips', 'NNP', 'PERSON', 'I') ('Wood', 'NNP', '', 'O') ('Phillips', 'NNP', '', 'O') ('VanSanten', 'NNP', '', 'O') ('Clark', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Mortimer', 'NNP', '', 'O') ('Chicago', 'NNP', '', 'O') ('IL', 'NNP', '', 'O')
+Richard S. Phillips
+__NEW_SENT__
+('*287', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('NIES', 'NNP', 'ORG', 'B') ('MAYER', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('LOURIE', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+NIES MAYER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Mark_I_Marketing_Corporation', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Mark_I_Marketing_Corporation', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('America', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Mark_I', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('R.R', 'NNP', 'GPE', 'B')
+United_States_District_Court Northern_District Illinois R.R
+__NEW_SENT__
+('Donnelley', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Sons', 'NNPS', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Donnelley', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Donnelley & Sons Company Donnelley
+__NEW_SENT__
+('Mark_I', 'NNP', 'ORG', 'B') ('Mktg', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('R.R', 'NNP', '', 'O')
+Mark_I Mktg Corp.
+__NEW_SENT__
+('Donnelley', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Sons', 'NNP', '', 'O') ('Co.', 'NNP', '', 'O') ('No._92', 'NNP', '', 'O') ('C', 'NNP', '', 'O') ('8380', 'CD', 'CARDINAL', 'B') ('1994_WL_603884_(N.D.Ill._Nov._1,_1994)', 'CD', '', 'O')
+Donnelley & 8380
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('prosecution_history_estoppel_precludes_Mark_I', 'CD', '', 'O') ('from', 'IN', '', 'O') ('asserting', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Color', 'NN', '', 'O') ('images', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('magazines', 'NNS', '', 'O') ('books', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('newspapers', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('conventionally', 'RB', '', 'O') ('formed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('uses', 'VBZ', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('printing_plates', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('``', '``', '', 'O') ('process', 'NN', '', 'O') ("''", "''", '', 'O') ('inks', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('cyan', 'JJ', '', 'O') ('magenta', 'NN', '', 'O') ('yellow', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('black', 'JJ', '', 'O') (')', '-RRB-', '', 'O')
+four four
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('process', 'NN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('films', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('separations', 'NNS', '', 'O') ("''", "''", '', 'O') ('are', 'VBP', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('scanning', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('original_color_image', 'NN', '', 'O') ('with', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('scanner', 'NN', '', 'O') ('or', 'CC', '', 'O') ('by', 'IN', '', 'O') ('photographing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('image', 'NN', '', 'O') ('through', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('colored', 'VBN', '', 'O') ('filters.1', "''", '', 'O') ('Once', 'IN', '', 'O') ('the', 'DT', '', 'O') ('separations', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('prepared', 'VBN', '', 'O') ('they', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('printing_plates', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('one', 'NN', 'CARDINAL', 'B') ('corresponding', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('ink', 'NN', '', 'O') ('color', 'NN', '', 'O')
+four first four one
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('combination', 'NN', '', 'O') ('the', 'DT', '', 'O') ('printing_plates', 'NNS', '', 'O') ('generate', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('four-color', 'JJ', '', 'O') ('image', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('naked', 'JJ', '', 'O') ('eye', 'NN', '', 'O') ('appears', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('encompass', 'VB', '', 'O') ('the', 'DT', '', 'O') ('entire', 'JJ', '', 'O') ('spectrum', 'NN', '', 'O') ('of', 'IN', '', 'O') ('colors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('shades', 'NNS', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('printing', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('printing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('telephone_directories', 'NNS', '', 'O') ('newspapers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('advertising', 'NN', '', 'O') ('flyers', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('conventional', 'JJ', '', 'O') ('four-color', 'JJ', '', 'O') ('separation', 'NN', '', 'O') ('process', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('prohibitively', 'RB', '', 'O') ('expensive', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('need', 'NN', '', 'O') ('to', 'TO', '', 'O') ('prepare', 'VB', '', 'O') ('and', 'CC', '', 'O') ('use', 'VB', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('printing_plates', 'NNS', '', 'O')
+four
+__NEW_SENT__
+('The', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('disclosed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('claimed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('4,554,241', 'CD', 'CARDINAL', 'B') ('2', 'CD', 'CARDINAL', 'I') ('addresses', 'NNS', '', 'O') ('this', 'DT', '', 'O') ('problem', 'NN', '', 'O') ('by', 'IN', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('printing', 'VBG', '', 'O') ('color_images', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('paper', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('two', 'CD', 'CARDINAL', 'I') ('printing_plates', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('``', '``', '', 'O') ('non-process', 'JJ', '', 'O') ("''", "''", '', 'O') ('inks', 'NNS', '', 'O')
+U.S. 4,554,241 2 only two two
+__NEW_SENT__
+('Wallace', 'NNP', 'ORG', 'B') ('Edwards', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('chairman', 'NN', '', 'O') ('and', 'CC', '', 'O') ('chief', 'JJ', '', 'O') ('executive', 'JJ', '', 'O') ('officer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Mark_I.', 'NNP', 'ORG', 'B') ('Edwards', 'NNP', 'ORG', 'I') ('assigned', 'VBD', '', 'O') ('his', 'PRP$', '', 'O') ('rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Mark_I.3', 'NNP', 'GPE', 'B')
+Wallace Edwards Mark_I. Edwards Mark_I.3
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'241_patent", 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('printing_plates', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('created', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('sequentially', 'RB', '', 'O') ('making', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('different', 'JJ', '', 'O') ('filter', 'NN', '', 'O') ('exposures', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('original_color_image', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('separation_film', 'NN', '', 'O')
+two two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('first_printing_plate', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('prints', 'VBZ', '', 'O') ('red', 'JJ', '', 'O') ('ink', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('sequentially', 'RB', '', 'O') ('exposing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('separation_film', 'NN', '', 'O') ('through', 'IN', '', 'O') ('green', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('blue_filters', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('plate', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('prints', 'VBZ', '', 'O') ('another', 'DT', '', 'O') ('non-process', 'JJ', '', 'O') ('ink', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('green', 'JJ', '', 'O') ('blue', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('black', 'JJ', '', 'O') ('ink', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('sequentially', 'RB', '', 'O') ('exposing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('separation_film', 'NN', '', 'O') ('through', 'IN', '', 'O') ('red', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('blue_filters', 'NNS', '', 'O')
+second
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('focus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('litigation', 'NN', '', 'O') ('defines', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('printing', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sheet_member', 'NN', '', 'O') ('a', 'DT', '', 'O') ('realistic', 'JJ', '', 'O') ('reproduction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('colored', 'JJ', '', 'O') ('original', 'JJ', '', 'O') ('utilizing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('minimum', 'NN', '', 'O') ('of', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('different', 'JJ', '', 'O') ('superimposed_impressions', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('coloring', 'NN', '', 'O') ('medium', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (')', '-RRB-', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('colored', 'JJ', '', 'O') ('original', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('first_printing_plate', 'NNP', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('print', 'VB', '', 'O') ('a', 'DT', '', 'O') ('non-process', 'JJ', '', 'O') ('red', 'JJ', '', 'O') ('color', 'NN', '', 'O') ('by', 'IN', '', 'O')
+two
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('green', 'JJ', '', 'O') ('filter', 'NN', '', 'O') ('exposure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first_means', 'NN', '', 'O') ('for', 'IN', '', 'O') ('recording', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('optical', 'JJ', '', 'O') ('image', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('blue_filter_exposure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('first_means', 'JJ', '', 'O') ('steps', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('being', 'VBG', '', 'O') ('carried', 'VBN', '', 'O') ('out', 'RP', '', 'O') ('sequentially', 'RB', '', 'O') ('in', 'IN', '', 'O') ('any', 'DT', '', 'O') ('order', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('printing', 'NN', '', 'O') ('plate', 'NN', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('print', 'VB', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('color', 'NN', '', 'O') ('different', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('that', 'DT', '', 'O') ('printed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('plate', 'NN', '', 'O') ('by', 'IN', '', 'O')
+1 first 2 1 2 second second first
+__NEW_SENT__
+('*288', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('red', 'JJ', '', 'O') ('filter', 'NN', '', 'O') ('exposure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('second_means', 'NN', '', 'O') ('for', 'IN', '', 'O') ('recording', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('optical', 'JJ', '', 'O') ('image', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('blue_filter_exposure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('second_means', 'JJ', '', 'O') ('steps', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('being', 'VBG', '', 'O') ('carried', 'VBN', '', 'O') ('out', 'RP', '', 'O') ('sequentially', 'RB', '', 'O') ('in', 'IN', '', 'O') ('any', 'DT', '', 'O') ('order', 'NN', '', 'O') ('steps', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('being', 'VBG', '', 'O') ('carried', 'VBN', '', 'O') ('out', 'RP', '', 'O') ('in', 'IN', '', 'O') ('any', 'DT', '', 'O') ('order', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('sheet_member', 'NN', '', 'O') ('to', 'TO', '', 'O') ('receive', 'VB', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('superimposed_impressions', 'NNS', '', 'O') ('and', 'CC', '', 'O')
+3 second 4 3 4 two
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('e', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('using', 'VBG', '', 'O') ('said', 'VBD', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('printing_plates', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('print', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('red', 'JJ', '', 'O') ('color', 'NN', '', 'O') ('and', 'CC', '', 'O') ('said', 'VBD', '', 'O') ('different', 'JJ', '', 'O') ('color', 'NN', '', 'O') ('respectively', 'RB', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('said', 'VBN', '', 'O') ('superimposed_impressions', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('sheet_member', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBD', '', 'O') (']', '-RRB-', '', 'O')
+first second
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('specification', 'NN', '', 'O') ('indicates', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('either', 'CC', '', 'O') ('photographic', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('scanning', 'NN', '', 'O') ('techniques', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('carry', 'VB', '', 'O') ('out', 'RP', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') (':', ':', '', 'O') ('Each', 'DT', '', 'O') ('film', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('exposed', 'VBN', '', 'O') ('sequentially', 'RB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('filters', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('equivalent', 'JJ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('lights', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('conventional', 'JJ', '', 'O') ('scanner', 'NN', '', 'O')
+two two
+__NEW_SENT__
+('...', ':', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('emphasized', 'VBN', '', 'O') ('again', 'RB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('interposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('actual', 'JJ', '', 'O') ('colored', 'JJ', '', 'O') ('filters', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('means', 'NN', '', 'O') ('for', 'IN', '', 'O') ('recording', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('optical', 'JJ', '', 'O') ('image', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('piece', 'NN', '', 'O') ('of', 'IN', '', 'O') ('film', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('way', 'NN', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('the', 'DT', '', 'O') ('appropriate', 'JJ', '', 'O') ('printer', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('presently', 'RB', '', 'O') ('available', 'JJ', '', 'O') ('scanner', 'NN', '', 'O') ('machines', 'NNS', '', 'O') ('accomplish', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('same_effect', 'NN', '', 'O') ('by', 'IN', '', 'O') ('illuminating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('particular', 'JJ', '', 'O') ('color', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the..', 'NNP', '', 'O') ('claims', 'NNS', '', 'O') ('reference', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('``', '``', '', 'O') ('making', 'VBG', '', 'O') ('a..', 'PRP$', '', 'O') ('filter', 'NN', '', 'O') ('exposure', 'NN', '', 'O') ("''", "''", '', 'O') ('etc.', 'FW', '', 'O') ('and', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('understood', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('wording', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('embrace', 'VB', '', 'O') ('those', 'DT', '', 'O') ('techniques', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('actually', 'RB', '', 'O') ('require', 'VB', '', 'O') ('a', 'DT', '', 'O') ('physical', 'JJ', '', 'O') ('filter', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('interposed', 'VBN', '', 'O') ('but', 'CC', '', 'O') ('which', 'WDT', '', 'O') ('achieve', 'VBP', '', 'O') ('exactly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('same_effect', 'NN', '', 'O') ('as', 'IN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('filter', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('interposed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Col._3,_ll._42-44', 'PRP', '', 'O') (';', ':', '', 'O') ('col._6,_ll._6-17', 'NN', '', 'O')
+
+__NEW_SENT__
+('Donnelley', 'NN', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('business', 'NN', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('Yellow', 'NNP', 'ORG', 'B') ('Pages', 'NNP', 'ORG', 'I') ('telephone_directories', 'NNS', '', 'O')
+Donnelley Yellow Pages
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('prints', 'VBZ', '', 'O') ('color_images', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('directories', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('commercially', 'RB', '', 'O') ('available', 'JJ', '', 'O') ('Crosfield', 'NNP', 'PERSON', 'B') ('scanner', 'NN', '', 'O') ('and', 'CC', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('non-process', 'JJ', '', 'O') ('inks', 'NNS', '', 'O')
+Crosfield two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('scanner', 'NN', '', 'O') ('focuses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('beam', 'NN', '', 'O') ('of', 'IN', '', 'O') ('white', 'JJ', '', 'O') ('light', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('small', 'JJ', '', 'O') ('area', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('pixel', 'JJ', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('colored', 'VBN', '', 'O') ('original', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('light', 'NN', '', 'O') ('reflects', 'VBZ', '', 'O') ('back', 'RB', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scanner', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('split', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('separate', 'JJ', '', 'O') ('light', 'NN', '', 'O') ('beams', 'NNS', '', 'O')
+three
+__NEW_SENT__
+('The', 'DT', '', 'O') ('beams', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('then', 'RB', '', 'O') ('simultaneously', 'RB', '', 'O') ('filtered', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('red', 'JJ', '', 'O') ('green', 'NN', '', 'O') ('and', 'CC', '', 'O') ('blue_filters', 'NNS', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scanner', 'NN', '', 'O')
+
+__NEW_SENT__
+('Next', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scanner', 'NN', '', 'O') ('senses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('intensities', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('beams', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('converts', 'NNS', '', 'O') ('this', 'DT', '', 'O') ('information', 'NN', '', 'O') ('into', 'IN', '', 'O') ('digital', 'JJ', '', 'O') ('values', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('stored', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('memory', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('scanner', 'NN', '', 'O') ('repeats', 'VBZ', '', 'O') ('this', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('each', 'DT', '', 'O') ('pixel', 'NN', '', 'O') ('until', 'IN', '', 'O') ('the', 'DT', '', 'O') ('entire', 'JJ', '', 'O') ('image', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('scanned', 'VBN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('create', 'VB', '', 'O') ('separations', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('scanner', 'NN', '', 'O') ('analyzes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('stored', 'VBN', '', 'O') ('data', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('determine', 'VB', '', 'O') ('the', 'DT', '', 'O') ('size', 'NN', '', 'O') ('and', 'CC', '', 'O') ('density', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('various', 'JJ', '', 'O') ('ink', 'NN', '', 'O') ('dots', 'NNS', '', 'O') ('needed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('replicate', 'VB', '', 'O') ('each', 'DT', '', 'O') ('pixel', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('color', 'NN', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('then', 'RB', '', 'O') ('converts', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('data', 'NNS', '', 'O') ('into', 'IN', '', 'O') ('electrical', 'JJ', '', 'O') ('impulses', 'NNS', '', 'O') ('sends', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('impulses', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('light_sources', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('lasers', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('lamps', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('pulses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('light_sources', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('expose', 'VB', '', 'O') ('tiny', 'JJ', '', 'O') ('spots', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('separation_films', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('spot', 'NN', '', 'O') ('of', 'IN', '', 'O') ('film', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('either', 'CC', '', 'O') ('exposed', 'VBN', '', 'O') ('only', 'RB', '', 'O') ('once', 'RB', '', 'O') ('or', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('exposed', 'VBN', '', 'O') ('at', 'RB', '', 'O') ('all', 'RB', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('separations', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('printing_plates', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('in', 'IN', '', 'O') ('turn', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('print', 'VB', '', 'O') ('images', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('telephone_directories', 'NNS', '', 'O')
+Donnelley
+__NEW_SENT__
+('Mark_I', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'241_patent4", 'NNP', '', 'O') ('Donnelley', 'NNP', '', 'O') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('allegation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('use', 'VB', '', 'O') ('filters', 'NNS', '', 'O') ('sequentially', 'RB', '', 'O') ('or', 'CC', '', 'O') ('make', 'VBP', '', 'O') ('sequential', 'JJ', '', 'O') ('exposures', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('film', 'NN', '', 'O')
+Mark_I Donnelley
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('process', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('used', 'VBN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'241", 'NN', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('applicable', 'JJ', '', 'O')
+Donnelley
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Wilson', 'NNP', 'ORG', 'B') ('Sporting', 'NNP', 'ORG', 'I') ('Goods', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('David', 'NNP', 'ORG', 'B') ('Geoffrey', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Assoc.', 'NNP', '', 'O') ('904_F.2d_677', 'CD', '', 'O') ('684', 'CD', 'CARDINAL', 'B') ('14_USPQ2d_1942', 'CD', '', 'O') ('1948', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1990', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('S', 'NNP', '', 'O') (']', '-RRB-', '', 'O') ('ince', 'NN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('always', 'RB', '', 'O') ('limits', 'VBZ', '', 'O') ('what', 'WP', '', 'O') ('an', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('could', 'MD', '', 'O') ('have', 'VB', '', 'O') ('claimed', 'VBN', '', 'O') ('[', '-LRB-', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('it', 'PRP', '', 'O') ('limits', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('range', 'NN', '', 'O') ('of', 'IN', '', 'O') ('permissible', 'JJ', '', 'O') ('equivalents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Wilson Sporting Goods Co. David Geoffrey & 684
+__NEW_SENT__
+('Donnelley', 'NN', '', 'O') ('further', 'RB', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('prosecution_history_estoppel_precludes_Mark_I', 'CD', '', 'O') ('from', 'IN', '', 'O') ('establishing', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('essentially', 'RB', '', 'O') ('conceded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ("'241_patent", 'NNP', '', 'O') ('but', 'CC', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('genuine', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('material_fact', 'NN', '', 'O') ('precluded', 'JJ', '', 'O') ('summary_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O') ('on', 'IN', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('theory', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Mark_I Donnelley Donnelley Mark_I
+__NEW_SENT__
+('*289', 'NNP', '', 'O') ('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('magistrate_judge', 'NN', '', 'O') ('who', 'WP', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Report', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Recommendation', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('June_10,_1994', 'NNP', '', 'O')
+Donnelley Report
+__NEW_SENT__
+('The', 'DT', '', 'O') ('magistrate_judge', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('prosecution_history', 'JJ', '', 'O') ('estoppel', 'NN', '', 'O') ('precluded', 'VBD', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('from', 'IN', '', 'O') ('proving', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('recommended', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('grant', 'NN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O')
+Mark_I
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('deciding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('independently', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('ground', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('refute', 'VB', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('factual', 'JJ', '', 'O') ('assertion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('process', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Mark_I Donnelley
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('affidavit', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('expert', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('only', 'RB', '', 'O') ('asserted', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'241_patent", 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('even', 'RB', '', 'O') ('though', 'IN', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ('never', 'RB', '', 'O') ('challenged', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('validity', 'NN', '', 'O')
+Mark_I Donnelley
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('view', 'NN', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('raise', 'VB', '', 'O') ('a', 'DT', '', 'O') ('genuine', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material_fact', 'NN', '', 'O') ('concerning', 'VBG', '', 'O') ('Donnelley', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('theory', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O')
+Mark_I Donnelley
+__NEW_SENT__
+('In', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('unnecessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('determine', 'VB', '', 'O') ('whether', 'IN', '', 'O') ('prosecution_history', 'JJ', '', 'O') ('estoppel', 'NN', '', 'O') ('precluded', 'VBD', '', 'O') ('Mark_I', 'NNP', 'ORG', 'B') ('from', 'IN', '', 'O') ('establishing', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Mark_I
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('followed', 'VBD', '', 'O')
+
+__NEW_SENT__

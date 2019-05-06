@@ -1,0 +1,231 @@
+('224_F.3d_1320', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('LIFE', 'NNP', '', 'O') ('TECHNOLOGIES', 'NNP', '', 'O') ('INC.', 'CD', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'CC', '', 'O') ('CLONTECH', 'NNP', 'ORG', 'B') ('LABORATORIES', 'NNS', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendant-Appellee', 'NN', '', 'O')
+CLONTECH LABORATORIES INC.
+__NEW_SENT__
+('No._99-1550', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Sept._21,_2000', 'FW', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('engineered', 'VBN', '', 'O') ('reverse', 'JJ', '', 'O') ('transcriptase', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('RT', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('enzyme', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('bench_trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B') ('Alexander', 'NNP', 'PERSON', 'B') ('Williams', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+the District of Maryland Alexander Williams Jr. J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('manner', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('inventors', 'NNS', '', 'O') ('used', 'VBD', '', 'O') ('prior_art_article', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('disclosed', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('motivations', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('inventors', 'NNS', '', 'O') ('derived', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('article', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('``', '``', '', 'O') ('material', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'IN', '', 'O') ('application', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('inventors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('assertion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('reasonable_expectation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('following', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_art_article', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('affirmative', 'JJ', '', 'O') ('representation', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('support', 'VB', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('inventors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('work', 'NN', '', 'O') ('of', 'IN', '', 'O') ('rival', 'JJ', '', 'O') ('researcher', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('amount', 'VB', '', 'O') ('to', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge 1 2 3
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1321', 'NN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Koch', 'NNP', 'PERSON', 'I') ('Fulbright', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Jaworski', 'NNP', 'PERSON', 'B') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Robert J. Koch Fulbright & Jaworski L.L.P. Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Scott', 'NNP', 'ORG', 'B') ('H.', 'NNP', 'ORG', 'I') ('Blackman', 'NNP', 'ORG', 'I') ('LYON', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('LYON', 'NNP', 'ORG', 'I') ('L.L.P.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') (';', ':', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Bauer', 'NNP', 'PERSON', 'I') ('Testa', 'NNP', '', 'O') ('Hurwitz', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Thibeault', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('Massachusetts', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Alan', 'NNP', 'ORG', 'B') ('W.', 'NNP', 'ORG', 'I') ('Hammond', 'NNP', 'ORG', 'I') ('Life_Technologies', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Rockville', 'NNP', 'ORG', 'B') ('Maryland', 'NNP', 'ORG', 'I')
+Scott H. Blackman LYON & LYON L.L.P. Washington DC Steven M. Bauer Hurwitz & Thibeault LLP Boston Massachusetts Alan W. Hammond Life_Technologies Inc. Rockville Maryland
+__NEW_SENT__
+('*1322', 'UH', '', 'O') ('Marc', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Labgold', 'NNP', 'PERSON', 'I') ('Piper', 'NNP', 'PERSON', 'I') ('Marbury', 'NNP', '', 'O') ('Rudnick', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Wolfe', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Marc R. Labgold Piper Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Catherine', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('Sharon', 'NNP', 'PERSON', 'I') ('E.', 'NNP', 'PERSON', 'I') ('Crane', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Bell', 'NNP', 'PERSON', 'I') ('Long', 'NNP', '', 'O') ('Aldridge', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Norman', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I')
+Catherine B. Richardson Sharon E. Crane Kevin M. Bell Washington DC
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('BRYSON', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Life_Technologies', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('LTI', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'I') ('entered', 'VBD', '', 'O') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench_trial', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('LTI', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+LTI United_States_District_Court the District of Maryland LTI U.S
+__NEW_SENT__
+('Patents', 'NNS', '', 'O') ('Nos._5244,797', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'797_patent", 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('5,668,005', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'005_patent", 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+5,668,005
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('premised', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('determination', 'NN', '', 'O') ('on', 'IN', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') ('findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Reverse', 'JJ', '', 'O') ('transcriptase', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('RT', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('naturally', 'RB', '', 'O') ('occurring', 'VBG', '', 'O') ('enzyme', 'NN', '', 'O') ('that', 'IN', '', 'O') ('exhibits', 'VBZ', '', 'O') ('DNA_polymerase_activity', 'NN', '', 'O')
+
+__NEW_SENT__
+('DNA_polymerase_activity', 'NN', '', 'O') ('enables', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B') ('to', 'TO', '', 'O') ('utilize', 'VB', '', 'O') ('a', 'DT', '', 'O') ('messenger', 'NN', '', 'O') ('RNA', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('mRNA', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('molecule', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('template', 'NN', '', 'O') ('to', 'TO', '', 'O') ('synthesize', 'VB', '', 'O') ('a', 'DT', '', 'O') ('complementary', 'JJ', '', 'O') ('strand', 'NN', '', 'O') ('of', 'IN', '', 'O') ('DNA', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('cDNA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+RT_enzyme
+__NEW_SENT__
+('This', 'DT', '', 'O') ('reaction', 'NN', '', 'O') ('results', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('DNA/RNA', 'NNP', 'PRODUCT', 'B') ('hybrid', 'NN', '', 'O') ('molecule', 'NN', '', 'O')
+DNA/RNA
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'TO', '', 'O') ('DNA_polymerase_activity', 'VB', '', 'O') ('naturally', 'RB', '', 'O') ('occurring', 'VBG', '', 'O') ('RT', 'NNP', 'ORG', 'B') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('wild-type', 'NN', '', 'O') ("''", "''", '', 'O') ('RT', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('exhibits', 'VBZ', '', 'O') ('RNase_H_activity', 'NN', '', 'O')
+RT
+__NEW_SENT__
+('RNase_H_activity', 'NN', '', 'O') ('degrades', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('mRNA', 'NNS', '', 'O') ('template', 'VBP', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cDNA', 'NNP', '', 'O') ('molecule', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O')
+
+__NEW_SENT__
+('RNase_H_activity', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('undesirable', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('this', 'DT', '', 'O') ('degradation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mRNA', 'NNPS', '', 'O') ('template', 'VBP', '', 'O') ('negatively', 'RB', '', 'O') ('affects', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('ability', 'NN', '', 'O') ('and', 'CC', '', 'O') ('efficiency', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT', 'NNP', 'GPE', 'B') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('cDNA', 'NNP', '', 'O')
+RT
+__NEW_SENT__
+('Beginning', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('early', 'JJ', 'DATE', 'I') ('1980', 'CD', 'DATE', 'I') ("'s", 'POS', 'DATE', 'I') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'797", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'005_patent", 'NNP', '', 'O') ('s', 'NN', '', 'O') ('Drs', 'NNP', '', 'O')
+the early 1980 's
+__NEW_SENT__
+('Michael', 'NNP', 'PERSON', 'B') ('Kotewicz', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Gary', 'NNP', 'PERSON', 'B') ('Gerard', 'NNP', 'PERSON', 'I') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('a', 'DT', '', 'O') ('genetically', 'RB', '', 'O') ('engineered', 'VBN', '', 'O') ('RT_enzyme', 'NN', 'PERSON', 'B') ('that', 'WDT', '', 'O') ('exhibited', 'VBD', '', 'O') ('DNA_polymerase_activity', 'NN', '', 'O') ('but', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('substantially', 'RB', '', 'O') ('exhibit', 'VB', '', 'O') ('RNase_H_activity', 'NN', '', 'O')
+Michael Kotewicz Gary Gerard RT_enzyme
+__NEW_SENT__
+('Kotewicz', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('faced', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('difficulties', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('developing', 'VBG', '', 'O') ('this', 'DT', '', 'O') ('enzyme', 'NN', '', 'O')
+Kotewicz Gerard
+__NEW_SENT__
+('First', 'RB', 'ORDINAL', 'B') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('unknown', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT_molecule', 'NN', '', 'O') ('the', 'DT', '', 'O') ('DNA', 'NN', '', 'O') ('polymerase', 'NN', '', 'O') ('and', 'CC', '', 'O') ('RNase', 'NNP', 'ORG', 'B') ('H', 'NNP', 'ORG', 'I') ('activities', 'NNS', '', 'O') ('resided', 'VBD', '', 'O')
+First RNase H
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('unknown', 'JJ', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('selectively', 'RB', '', 'O') ('removed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('an', 'DT', '', 'O') ('improved', 'JJ', '', 'O') ('mutant_RT_enzyme', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('retained', 'VBD', '', 'O') ('DNA_polymerase_activity', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('spent', 'VBD', '', 'O') ('several', 'JJ', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('unsuccessfully', 'RB', '', 'O') ('attempting', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('locate', 'VB', '', 'O') ('and', 'CC', '', 'O') ('delete', 'VB', '', 'O') ('the', 'DT', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT_molecule', 'NN', 'GPE', 'B')
+several years RT_molecule
+__NEW_SENT__
+('The', 'DT', '', 'O') ('breakthrough', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('came', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('1986', 'CD', 'DATE', 'B') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('publication', 'NN', '', 'O') ('of', 'IN', '', 'O') ('M.S', 'NNP', 'GPE', 'B')
+1986 M.S
+__NEW_SENT__
+('Johnson', 'NNP', 'PERSON', 'B') ('et', 'NNP', '', 'O') ('al.', 'NN', '', 'O') ('Computer', 'NNP', 'FAC', 'B') ('Analysis', 'NNP', 'FAC', 'I') ('of', 'IN', '', 'O') ('Retroviral', 'NNP', '', 'O') ('Pol', 'NNP', 'PERSON', 'B') ('Genes', 'NNP', 'PERSON', 'I') (':', ':', '', 'O') ('Assignment', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Enzymatic', 'NNP', '', 'O') ('Functions', 'NNPS', '', 'O') ('to', 'IN', '', 'O') ('Specific', 'NNP', '', 'O') ('Sequences', 'NNPS', '', 'O') ('and', 'CC', '', 'O') ('Homologies', 'NNPS', '', 'O') ('with', 'IN', '', 'O') ('Nonviral', 'NNP', '', 'O') ('Enzymes', 'NNP', '', 'O') ('83', 'CD', '', 'O') ('Proceedings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Nat', 'NNP', 'PERSON', 'B') ("'", 'POS', '', 'O') ('l', 'NN', '', 'O')
+Johnson Computer Analysis Pol Genes Nat
+__NEW_SENT__
+('Acad', 'NNP', '', 'O')
+
+__NEW_SENT__
+('of', 'IN', '', 'O') ('Sci', 'NNP', '', 'O')
+
+__NEW_SENT__
+('7648', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1986', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+7648 1986
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O') ('reported', 'VBD', '', 'O') ('comparisons', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('amino', 'JJ', '', 'O') ('sequences', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('RT_molecules', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('sequence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ribonuclease', 'NN', '', 'O') ('enzyme', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('E.', 'NNP', '', 'O') ('coli', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('exhibits', 'VBZ', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('DNA_polymerase_activity', 'VB', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ('suggested', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B') ('resided', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('carboxyl_terminal_end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('molecule', 'NN', '', 'O')
+Johnson RT_enzyme
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('however', 'RB', '', 'O') ('were', 'VBD', '', 'O') ('skeptical', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('results', 'NNS', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('literature', 'NN', '', 'O') ('existing', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('suggested', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('location', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('front', 'JJ', '', 'O') ('end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT_molecule', 'NN', '', 'O')
+Johnson
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', 'LOC', 'B') ('was', 'VBD', '', 'O') ('suspect', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('utilized', 'VBD', '', 'O') ('computer', 'NN', '', 'O') ('comparisons', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('amino', 'JJ', '', 'O') ('acid', 'NN', '', 'O') ('sequences', 'VBZ', '', 'O') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('experimental', 'JJ', '', 'O') ('data', 'NNS', '', 'O')
+Johnson_article
+__NEW_SENT__
+('Such', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('comparisons', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('fairly', 'RB', '', 'O') ('new', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('``', '``', '', 'O') ('exclude', 'VB', '', 'O') ('the', 'DT', '', 'O') ('possibility', 'NN', '', 'O') ("''", "''", '', 'O') ('that', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('correct', 'JJ', '', 'O') ('Kotewicz', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('decided', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('conduct', 'VB', '', 'O') ('experiments', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('carboxyl_terminal_end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B')
+Johnson Kotewicz Gerard RT_enzyme
+__NEW_SENT__
+('Contrary', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('expectations', 'NNS', '', 'O') ('these', 'DT', '', 'O') ('experiments', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('successful', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('by', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('1986', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('created', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('mutant_RT_enzyme', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('lacked', 'VBD', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('but', 'CC', '', 'O') ('retained', 'VBD', '', 'O') ('DNA_polymerase_activity', 'NN', '', 'O')
+December 1986
+__NEW_SENT__
+('A', 'DT', 'DATE', 'B') ('few', 'JJ', 'DATE', 'I') ('months', 'NNS', 'DATE', 'I') ('after', 'IN', '', 'O') ('confirming', 'VBG', '', 'O') ('their', 'PRP$', '', 'O') ('discovery', 'NN', '', 'O') ('Kotewicz', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('learned', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('another', 'DT', '', 'O') ('researcher', 'NN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Stephen', 'NNP', 'PERSON', 'B') ('Goff', 'NNP', 'PERSON', 'I') ('was', 'VBD', '', 'O') ('working', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('an', 'DT', '', 'O') ('engineered', 'VBN', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B')
+A few months Kotewicz Gerard Stephen Goff RT_enzyme
+__NEW_SENT__
+('*1323', 'NFP', '', 'O') ('On', 'IN', '', 'O') ('April_15,_1987', 'NNP', 'PERSON', 'B') ('Kotewicz', 'NNP', 'PERSON', 'I') ('spoke', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('telephone', 'NN', '', 'O') ('with', 'IN', '', 'O') ('Goff', 'NNP', 'PERSON', 'B') ('a', 'DT', '', 'O') ('researcher', 'NN', '', 'O') ('at', 'IN', '', 'O') ('Columbia', 'NNP', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I')
+April_15,_1987 Kotewicz Goff Columbia University
+__NEW_SENT__
+('During', 'IN', '', 'O') ('this', 'DT', '', 'O') ('conversation', 'NN', '', 'O') ('Goff', 'NNP', 'PERSON', 'B') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('developed', 'VBN', '', 'O') ('``', '``', '', 'O') ('oligonucleotide', 'NN', '', 'O') ('insertion', 'NN', '', 'O') ('mutations', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('reduce', 'VBP', '', 'O') ('RNase', 'NNP', 'PERSON', 'B') ('H', 'NNP', 'PERSON', 'I') ('in', 'IN', '', 'O') ('cloned', 'VBN', '', 'O') ('[', '-LRB-', '', 'O') ('RT', 'NNP', '', 'O') (']', '-RRB-', '', 'O') ("''", "''", '', 'O')
+Goff RNase H
+__NEW_SENT__
+('However', 'RB', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('indication', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Goff', 'NNP', 'PERSON', 'B') ('revealed', 'VBD', '', 'O') ('any', 'DT', '', 'O') ('further', 'JJ', '', 'O') ('details', 'NNS', '', 'O') ('concerning', 'VBG', '', 'O') ('his', 'PRP$', '', 'O') ('work', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Kotewicz', 'NNP', 'PERSON', 'B') ('during', 'IN', '', 'O') ('this', 'DT', '', 'O') ('conversation', 'NN', '', 'O')
+Goff Kotewicz
+__NEW_SENT__
+('Additionally', 'RB', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('summer', 'NN', 'DATE', 'I') ('of', 'IN', 'DATE', 'I') ('1987', 'CD', 'DATE', 'I') ('Gerard', 'NNP', 'PERSON', 'B') ('learned', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Goff', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('presented', 'VBN', '', 'O') ('his', 'PRP$', '', 'O') ('RT', 'NNP', 'GPE', 'B') ('research', 'NN', '', 'O') ('at', 'IN', '', 'O') ('Stanford', 'NNP', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I')
+the summer of 1987 Gerard Goff RT Stanford University
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('neither', 'DT', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('nor', 'CC', '', 'O') ('Kotewicz', 'NNP', 'PERSON', 'B') ('attended', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('presentation', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('surmised', 'VBD', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('conversations', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('colleagues', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('Goff', 'NNP', 'PERSON', 'B') ('demonstrated', 'VBD', '', 'O') ('``', '``', '', 'O') ('similar', 'JJ', '', 'O') ('results', 'NNS', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O')
+Gerard Kotewicz Goff
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('information', 'NN', '', 'O') ('Kotewicz', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('urged', 'VBD', '', 'O') ('LTI', 'NNP', 'ORG', 'B') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('publish', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('results', 'NNS', '', 'O') ('as', 'RB', '', 'O') ('quickly', 'RB', '', 'O') ('as', 'IN', '', 'O') ('possible', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('assumption', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Goff', 'NNP', 'ORG', 'B') ('would', 'MD', '', 'O') ('soon', 'RB', '', 'O') ('publish', 'VB', '', 'O') ('similar', 'JJ', '', 'O') ('work', 'NN', '', 'O')
+Kotewicz Gerard LTI Goff
+__NEW_SENT__
+('They', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('submitted', 'VBD', '', 'O') ('forms', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('management', 'NN', '', 'O') ('at', 'IN', '', 'O') ('LTI', 'NNP', 'ORG', 'B') ('that', 'WDT', '', 'O') ('initiated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('preparing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('engineered', 'VBN', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B')
+LTI RT_enzyme
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('1988', 'CD', 'DATE', 'I') ('Kotewicz', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('parent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('from', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ("'797", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'005_patent", 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('ultimately', 'RB', '', 'O') ('issued', 'VBN', '', 'O')
+January 1988 Kotewicz Gerard
+__NEW_SENT__
+('In', 'IN', '', 'O') ('general', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('engineered', 'VBN', '', 'O') ('RT_enzyme', 'NN', 'PRODUCT', 'B') ('that', 'WDT', '', 'O') ('exhibited', 'VBD', '', 'O') ('DNA_polymerase_activity', 'NN', '', 'O') ('but', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('exhibit', 'VB', '', 'O') ('substantial', 'JJ', '', 'O') ('RNase_H_activity', 'NN', '', 'O')
+RT_enzyme
+__NEW_SENT__
+('As', 'IN', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('disclosure', 'NN', '', 'O') ('under', 'IN', '', 'O') ('37', 'CD', 'CARDINAL', 'B') ('C.F.R.¡±', 'NNP', '', 'O') ('1.56', 'CD', 'CARDINAL', 'B') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('disclosed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('numerous', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('references', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O')
+37 1.56 the Patent and Trademark Office
+__NEW_SENT__
+('However', 'RB', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('reveal', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('knowledge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Goff', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('work', 'NN', '', 'O') ('because', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('attorney', 'NN', '', 'O') ('indicated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('limited', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('incomplete', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('material', 'JJ', '', 'O')
+Goff
+__NEW_SENT__
+('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'797_patent", 'NNP', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O') ('took', 'VBD', '', 'O') ('on', 'RP', '', 'O') ('particular', 'JJ', '', 'O') ('importance', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Examiner', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Several', 'JJ', '', 'O') ('times', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('rejected', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('over', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ('often', 'RB', '', 'O') ('in', 'IN', '', 'O') ('combination', 'NN', '', 'O') ('with', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('described', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('RT', 'NNP', 'ORG', 'B') ('gene', 'NN', '', 'O') ('sequence', 'NN', '', 'O')
+Examiner Johnson RT
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('because', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ('taught', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RNase_H_activity', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('located', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('carboxyl_terminal_end', 'NN', '', 'O') ('and', 'CC', '', 'O') ('because', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('strong', 'JJ', '', 'O') ('motivation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('to', 'TO', '', 'O') ('eliminate', 'VB', '', 'O') ('such', 'JJ', '', 'O') ('activity', 'NN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O')
+Examiner Johnson
+__NEW_SENT__
+('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('to', 'IN', '', 'O') ('these', 'DT', '', 'O') ('rejections', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('there', 'EX', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('no', 'DT', '', 'O') ('reasonable_expectation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('results', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('successfully', 'RB', '', 'O') ('lead', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('deletion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('RNase_H_activity', 'NN', '', 'O')
+Johnson
+__NEW_SENT__
+('This', 'DT', '', 'O') ('was', 'VBD', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('teachings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B') ('were', 'VBD', '', 'O') ('contrary', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('teachings', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('suggested', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('something', 'NN', '', 'O') ('more', 'RBR', '', 'O') ('was', 'VBD', '', 'O') ('necessary', 'JJ', '', 'O') ("''", "''", '', 'O') ('than', 'IN', '', 'O') ('a', 'DT', '', 'O') ('deletion', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('carboxyl_terminal_end', 'NN', '', 'O') ('to', 'TO', '', 'O') ('eliminate', 'VB', '', 'O') ('RNase_H_activity', 'NN', '', 'O')
+Johnson
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('contended', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('over', 'IN', '', 'O') ('Johnson', 'NNP', 'PERSON', 'B')
+Johnson
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('persuaded', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('these', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ("'797_patent", 'NNP', '', 'O') ('issued', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('19', 'CD', 'DATE', 'I') ('1993', 'CD', 'DATE', 'I')
+Examiner September 19 1993
+__NEW_SENT__
+('At', 'IN', '', 'O') ('no', 'DT', '', 'O') ('time', 'NN', '', 'O') ('during', 'IN', '', 'O') ('this', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('reveal', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O') ('played', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('key', 'JJ', '', 'O') ('role', 'NN', '', 'O') ('in', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('development', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O')
+Examiner
+__NEW_SENT__
+('Shortly', 'RB', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'797_patent", 'NNP', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('continuation', 'NN', '', 'O') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('eventually', 'RB', '', 'O') ('resulted', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issuance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'005_patent", 'NN', '', 'O')
+
+__NEW_SENT__
+('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('application', 'NN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('revealed', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('knowledge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Goff', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('work', 'NN', '', 'O')
+Goff
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Examiner', 'NNP', 'ORG', 'B') ('allowed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('to', 'TO', '', 'O') ('issue', 'VB', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('newly', 'RB', '', 'O') ('revealed', 'VBN', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('Goff', 'NNP', '', 'O') ('stating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('``', '``', '', 'O') ('no', 'DT', '', 'O') ('bearing', 'NN', '', 'O') ('on..', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('instant', 'JJ', '', 'O') ('application', 'NN', '', 'O') ("''", "''", '', 'O')
+Examiner
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('1996', 'CD', 'DATE', 'I') ('LTI', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Clontech', 'NNP', 'ORG', 'B') ('Laboratories', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Clontech', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'797", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'005_patent", 'NNP', '', 'O') ('s.', 'NN', '', 'O') ('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('Clontech', 'NNP', 'ORG', 'B') ('asserted', 'VBD', '', 'O') ('various', 'JJ', '', 'O') ('affirmative', 'JJ', '', 'O') ('defenses', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('allegation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('should', 'MD', '', 'O') ('be', 'VB', '', 'O') ('held', 'VBN', '', 'O') ('unenforceable', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+December 1996 LTI Clontech Laboratories Inc. Clontech Clontech
+__NEW_SENT__
+('A', 'DT', '', 'O') ('bench_trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('ensued', 'VBN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('withheld', 'VBD', '', 'O') ('material', 'NN', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('motivations', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('they', 'PRP', '', 'O') ('derived', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Johnson_article', 'NN', '', 'O') ('and', 'CC', '', 'O') ('their', 'PRP$', '', 'O') ('reliance', 'NN', '', 'O') ('on', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('in', 'IN', '', 'O') ('reaching', 'VBG', '', 'O') ('their', 'PRP$', '', 'O') ('invention', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('made', 'VBD', '', 'O') ('affirmative', 'JJ', '', 'O') ('material', 'JJ', '', 'O') ('misrepresentations', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('*1324', 'NN', '', 'O') ('Johnson_article', 'NN', '', 'O')
+
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('knowledge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Goff', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('work', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('material', 'NN', '', 'O') ('and', 'CC', '', 'O') ('should', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('revealed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'797_patent", 'NNP', '', 'O')
+Goff
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('these', 'DT', '', 'O') ('actions', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('done', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('both', 'CC', '', 'O') ('the', 'DT', '', 'O') ("'797", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'005_patent", 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('followed', 'VBD', '', 'O')
+
+__NEW_SENT__

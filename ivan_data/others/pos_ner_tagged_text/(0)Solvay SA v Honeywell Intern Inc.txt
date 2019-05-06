@@ -1,0 +1,153 @@
+('742_F.3d_998', 'LS', '', 'O')
+
+__NEW_SENT__
+('United_States', 'NNPS', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United_States Court of Appeals Federal Circuit
+__NEW_SENT__
+('SOLVAY', 'NNP', 'ORG', 'B') ('S.A.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('HONEYWELL', 'NNP', 'ORG', 'B') ('INTERNATIONAL', 'NNP', 'ORG', 'I') ('INC.', 'NN', 'ORG', 'I') ('Defendant-Appellee', 'VB', '', 'O')
+SOLVAY S.A. HONEYWELL INTERNATIONAL INC.
+__NEW_SENT__
+('No._2012-1660', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Feb._12,_2014', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('improvement', 'NN', '', 'O') ('to', 'IN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('hydrofluorocarbon', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('HFC', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('filed', 'VBN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+HFC
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('886_F.Supp.2d_396', 'NN', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBN', '', 'O') ('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('or', 'CC', '', 'O') ('for', 'IN', '', 'O') ('new', 'JJ', '', 'O') ('trial', 'NN', '', 'O')
+United_States_District_Court the District of Delaware Sue L. Robinson J. 886_F.Supp.2d_396
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Dyk', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Dyk Circuit_Judge
+__NEW_SENT__
+('owner', 'NN', '', 'O') ('waived', 'VBD', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('that', 'IN', '', 'O') ('district_court', 'NN', '', 'O') ('erroneously', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('process', 'NN', '', 'O') ('invented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Russian', 'JJ', 'NORP', 'B') ('engineers', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('HFC', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('United_States', 'NNS', 'GPE', 'B') ('when', 'WRB', '', 'O') ('American', 'JJ', 'NORP', 'B') ('company', 'NN', '', 'O') ('successfully', 'RB', '', 'O') ('performed', 'VBD', '', 'O') ('process', 'NN', '', 'O')
+Russian HFC United_States American
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I') ('dissented', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+Newman Circuit_Judge
+__NEW_SENT__
+('Go', 'VB', '', 'O') ('to', 'IN', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('Construed', 'VBN', 'PERSON', 'I') ('Terms', 'NNS', '', 'O')
+Markman Construed
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*999', 'NNP', 'PERSON', 'B') ('Adam', 'NNP', 'PERSON', 'I') ('L.', 'NNP', 'PERSON', 'I') ('Perlman', 'NNP', 'PERSON', 'I') ('Williams', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Connolly', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+*999 Adam L. Perlman Williams & Connolly LLP Washington
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Glenn', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Pfadenhauer', 'NNP', 'PERSON', 'I') ('Stanley', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Fisher', 'NNP', 'PERSON', 'I') ('Kristin', 'NNP', 'PERSON', 'I') ('A.', 'NNP', 'PERSON', 'I') ('Feeley', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Christopher', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Kennedy', 'NNP', 'PERSON', 'I')
+Glenn J. Pfadenhauer Stanley E. Fisher Kristin A. Feeley Christopher C. Kennedy
+__NEW_SENT__
+('Gregg', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Locascio', 'NNP', 'PERSON', 'I') ('Kirkland', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Ellis', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Gregg F. Locascio Kirkland & Ellis LLP Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('John', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('William', 'NNP', 'PERSON', 'I') ('H.', 'NNP', 'PERSON', 'I') ('Burgess', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Anders', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Fjellstedt', 'NNP', 'PERSON', 'I')
+J. John Lee William H. Burgess Anders P. Fjellstedt
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Laura', 'NNP', 'PERSON', 'B') ('Burson', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'B')
+Laura Burson Los Angeles California
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('NEWMAN', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', 'CARDINAL', 'B') ('DYK', 'NNP', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'CARDINAL', 'B') ('NEWMAN', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('DYK', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Plaintiff', 'NNP', 'ORG', 'B') ('Solvay', 'NNP', 'ORG', 'I') ('S.A.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Solvay', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ('International', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Plaintiff Solvay S.A. Solvay the District of Delaware Honeywell International Honeywell
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('asserted', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('Solvay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('No._6730,817', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬817_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2006', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+1 Solvay U.S. Patent No._6730,817 35 2 2006
+__NEW_SENT__
+('This', 'DT', '', 'O') ('was', 'VBD', '', 'O') ('so', 'RB', '', 'O') ('because', 'IN', '', 'O') ('engineers', 'NNS', '', 'O') ('working', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Russian', 'JJ', 'ORG', 'I') ('Scientific', 'NNP', 'ORG', 'I') ('Center', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Applied', 'NNP', 'ORG', 'I') ('Chemistry', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('RSCAC', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('first', 'RB', '', 'O') ('conceived', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('reduced', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('country', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ('personnel', 'NNS', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RSCAC', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('instructions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abandon', 'VB', '', 'O') ('suppress', 'NN', '', 'O') ('or', 'CC', '', 'O') ('conceal', 'VB', '', 'O') ('it', 'PRP', '', 'O')
+the Russian Scientific Center for Applied Chemistry Honeywell RSCAC
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('question', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('when', 'WRB', '', 'O') ('an', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('conceived', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('foreign', 'JJ', '', 'O') ('inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reduced', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('qualifies', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('*1000', 'NNP', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')1', 'XX', '', 'O') ('That', 'DT', '', 'O') ('section', 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('person', 'NN', '', 'O') ('shall', 'MD', '', 'O') ('be', 'VB', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('unless..', 'NN', '', 'O') ('before', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('person', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('invention', 'NN', '', 'O') ('thereof', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('country', 'NN', '', 'O') ('by', 'IN', '', 'O') ('another', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('who', 'WP', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abandoned', 'VBN', '', 'O') ('suppressed', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('concealed', 'VBN', '', 'O') ('it', 'PRP', '', 'O') ("''", "''", '', 'O')
+2
+__NEW_SENT__
+('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+35 102 2
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('section', 'NN', 'LAW', 'B') ('102', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('initially', 'RB', '', 'O') ('was', 'VBD', '', 'O') ('designed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('priority', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invention', 'NN', '', 'O') ('in', 'IN', '', 'O') ('interference', 'NN', '', 'O') ('proceedings', 'NNS', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('settled', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('section', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('``', '``', '', 'O') ('independent', 'JJ', '', 'O') ('significance', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('for', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('outside', 'RB', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('interference', 'NN', '', 'O') ('context', 'NN', '', 'O') ("''", "''", '', 'O')
+section 102
+__NEW_SENT__
+('Thomson', 'NNP', 'ORG', 'B') ('S.A.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Quixote', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('166_F.3d_1172', 'CD', '', 'O') ('1175_n._3_(Fed.Cir.1999)', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('Solvay', 'NNP', 'ORG', 'B') ('v.', 'IN', 'ORG', 'I') ('Honeywell', 'NNP', 'ORG', 'I') ('International', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Solvay_I', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('622_F.3d_1367', 'IN', '', 'O') ('1375-76', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.2010', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Thomson S.A. Quixote Corp. 1175_n._3_(Fed.Cir.1999) Solvay v. Honeywell International Inc. 1375-76
+__NEW_SENT__
+('A', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('that', 'DT', '', 'O') ('section', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('country', 'NN', '', 'O') ('by', 'IN', '', 'O') ('another', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('priority_date', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'NN', '', 'O') ('Solvay_I', 'NN', '', 'O') ('622', 'CD', 'CARDINAL', 'B') ('F.3d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('1375_n._3', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('describing', 'VBG', '', 'O') ('1999', 'CD', 'DATE', 'B') ('amendments', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('¡±', 'CD', 'CARDINAL', 'B') ('102', 'CD', 'CARDINAL', 'I') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') (')', '-RRB-', '', 'O')
+622 1375_n._3 1999 ¡± 102
+__NEW_SENT__
+('Making', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('requires', 'VBZ', '', 'O') ('conception', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reduction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O')
+
+__NEW_SENT__
+('While', 'IN', '', 'O') ('conception', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('formation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mind', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('definite', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('permanent', 'JJ', '', 'O') ('idea', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('complete', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('operative', 'JJ', '', 'O') ('invention', 'NN', '', 'O') ("''", "''", '', 'O') ('reduction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('``', '``', '', 'O') ('requires', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('work', 'NN', '', 'O') ('for', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('intended', 'JJ', '', 'O') ('purpose', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('1376', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Hybritech', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Monoclonal', 'NNP', 'ORG', 'B') ('Antibodies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('802_F.2d_1367', 'CD', '', 'O') ('1376', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.1986', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') (')', '-RRB-', '', 'O')
+1376 Hybritech Inc. Monoclonal Antibodies Inc. 1376 Fed.Cir.1986
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('necessary', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('suppressed', 'VBN', '', 'O') ('abandoned', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('concealed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'NN', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('254_F.3d_1031', 'CD', '', 'O') ('1036', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir.2001', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Apotex USA Inc. Merck & Co. 1036
+__NEW_SENT__
+('Our', 'PRP$', '', 'O') ('prior', 'JJ', '', 'O') ('cases', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('illuminated', 'VBN', '', 'O') ('what', 'WP', '', 'O') ('is', 'VBZ', '', 'O') ('meant', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('made', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('country', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'NN', '', 'O') ('Solvay_I', 'NN', '', 'O') ('622', 'CD', 'CARDINAL', 'B') ('F.3d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('1376', 'CD', 'DATE', 'B') ('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Mycogen', 'NNP', 'ORG', 'B') ('Plant', 'NNP', 'ORG', 'I') ('Sci.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('243_F.3d_1316', 'CD', '', 'O') ('1331', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.2001', 'NN', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('254', 'CD', 'ORG', 'I') ('F.3d', 'CD', '', 'O') ('at', 'IN', '', 'O') ('1036', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+622 1376 Mycogen Plant Sci. Inc. Monsanto Co. Apotex 254 1036
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('may', 'MD', '', 'O') ('reside', 'VB', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('foreign', 'JJ', '', 'O') ('country', 'NN', '', 'O') ('and', 'CC', '', 'O') ('conceive', 'VB', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('abroad', 'RB', '', 'O') ('a', 'DT', '', 'O') ('reduction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('made', 'VBN', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('beyond', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scope', 'NN', '', 'O') ('of', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('prior_art', 'NNP', '', 'O')
+102 2
+__NEW_SENT__
+('In', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('words', 'NNS', '', 'O') ('¡±', 'CD', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('allows', 'VBZ', '', 'O') ('conception', 'NN', '', 'O') ('to', 'TO', '', 'O') ('occur', 'VB', '', 'O') ('in', 'IN', '', 'O') ('another', 'DT', '', 'O') ('country', 'NN', '', 'O') ('but', 'CC', '', 'O') ('in', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('circumstances', 'NNS', '', 'O') ('requires', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('work', 'NN', '', 'O') ('constituting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('reduction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('performed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('or', 'CC', '', 'O') ('on', 'IN', '', 'O') ('behalf', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor.2', 'NN', '', 'O') ('However', 'RB', '', 'O') ('``', '``', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('requirement', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('be', 'VB', '', 'O') ('the', 'DT', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('so', 'RB', '', 'O') ('long', 'RB', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reduction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('done', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('behalf', 'NN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O')
+102 2 one
+__NEW_SENT__
+('In', 'IN', '', 'O') ('re', 'IN', '', 'O') ('DeBaun', 'NNP', 'GPE', 'B') ('687_F.2d_459', 'CD', '', 'O') ('463', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('CCPA', 'NNP', '', 'O') ('1982', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Litchfield', 'NNP', 'PERSON', 'B') ('v.', 'CC', '', 'O') ('Eigen', 'NNP', 'PERSON', 'B') ('535_F.2d_72', 'NNP', 'PERSON', 'I') ('76', 'CD', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('CCPA', 'NNP', '', 'O') ('1976', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') (')', '-RRB-', '', 'O')
+DeBaun 463 1982 Litchfield Eigen 535_F.2d_72 76 1976
+__NEW_SENT__
+('Consistent', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('that', 'DT', '', 'O') ('principle', 'NN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('cts', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('others', 'NNS', '', 'O') ('working', 'VBG', '', 'O') ('explicitly', 'RB', '', 'O') ('or', 'CC', '', 'O') ('implicitly', 'RB', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('will', 'MD', '', 'O') ('inure', 'VB', '', 'O') ('to', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('benefit', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('3A', 'NNP', '', 'O') ('Donald', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Chisum', 'NNP', 'PERSON', 'I') ('Chisum', 'NNP', 'PERSON', 'I') ('on', 'IN', '', 'O') ('Patents', 'NNP', '', 'O') ('¡±', 'NNP', '', 'O') ('10.06', 'CD', 'CARDINAL', 'B') ('[', '-LRB-', '', 'O') ('3', 'CD', 'CARDINAL', 'B') (']', '-RRB-', '', 'O')
+Donald S. Chisum Chisum 10.06 3
+__NEW_SENT__
+('Here', 'RB', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('conceived', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Russian_inventors', 'NNS', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('reduced', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('practice', 'VB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ('*1001', 'NN', '', 'O') ('personnel', 'NNS', '', 'O') ('following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Russian_inventors', 'NNS', 'ORG', 'B') ("'", 'POS', '', 'O') ('instructions', 'NNS', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬817_patent', 'NNP', 'LOC', 'B') ("'s", 'POS', '', 'O') ('priority_date', 'NN', '', 'O')
+Honeywell Honeywell Russian_inventors ¡¬817_patent
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('follows', 'VBZ', '', 'O') ('argues', 'VBZ', '', 'O') ('Honeywell', 'NNP', 'ORG', 'B') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('qualifies', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('prior_art', 'NNP', '', 'O')
+Honeywell 2
+__NEW_SENT__

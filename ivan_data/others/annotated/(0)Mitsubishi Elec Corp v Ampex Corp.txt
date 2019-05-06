@@ -1,0 +1,58 @@
+190_F.3d_1300
+United States Court of Appeals Federal_Circuit
+MITSUBISHI ELECTRIC CORPORATION Plaintiff-Appellant v. AMPEX CORPORATION Defendant Cross-Appellant
+Nos._97-1502 97-1538
+| Aug._30,_1999
+| Rehearing Denied ; Suggestion for Rehearing En Banc Declined Nov._1,_1999
+Synopsis
+Patentee brought action for infringement of patents relating to transmission and use of digital_information
+The United_States_District_Court for the Central_District of California Edward Rafeedie J. entered judgment upon jury_verdict finding both patents invalid but that one patent was infringed if valid
+Patentee appealed and alleged infringer filed conditional cross-appeal
+The Court of Appeals Pauline Newman Circuit_Judge held that : ( 1 ) patentee failed to preserve objection to verdict form ; ( 2 ) first patent was invalid due to prior public use ; and ( 3 ) second patent was invalid as obvious
+
+Affirmed
+
+Attorneys and Law Firms
+*1301 Wayne M. Smith Graham & James LLP Los_Angeles California argued for plaintiff-appellant
+With him on the brief were Les J. Weinstein and Vincent J. Belusko
+Robert C. Morgan Fish & Neave New_York New_York argued for defendant cross-appellant
+Of counsel were Norman H. Beamer Marta E. Gross Kevin P.B
+Johnson and Kurtis D. MacFerrin
+Also of counsel was Craig N. Hentschel Arnold & Porter Los_Angeles California
+Before NEWMAN Circuit_Judge SKELTON Senior Circuit_Judge and LOURIE Circuit_Judge
+Opinion
+PAULINE NEWMAN Circuit_Judge
+Mitsubishi Electric Corporation appeals the judgment of the United_States_District_Court for the Central_District of California concerning Mitsubishi 's United_States_Patent_No._4336,612 ( `` the '612_patent `` ) and United_States_Patent_No._4665,533 ( `` the '533_patent `` )1 The jury_verdict was that the asserted claims of both patents were invalid and that none of the asserted claims of the '612_patent was infringed either literally or under the doctrine of equivalents but that claim 1 of the '533_patent was literally infringed if valid
+On appeal Mitsubishi requests either a new_trial or judgment in its favor as a matter of law
+Ampex has filed a conditional cross-appeal of the verdict that it infringes the '533_patent
+
+The district_court entered judgment on the jury_verdicts and denied all post-trial motions
+We affirm the judgment
+
+I
+THE '612_PATENT
+The '612_patent entitled `` Error Correction Encoding and Decoding System '' *1302 granted on June_22,_1982 is directed to a system for correcting errors that occur during the transmission recording or reproduction of digital_information
+For example in making a digital recording of music on magnetic tape errors may occur when a particle of dust lands on a recording head
+This dust can cause strings of erroneous binary bits called a `` burst error ''
+In the error correction system of the '612_patent digital_information ( the data to be transmitted or recorded or reproduced ) is arranged in an array of bits and is encoded such that when errors occur they can be located and corrected on decoding allowing accurate recovery of the original information
+
+According to the '612_patent the digital_information is divided into a two-dimensional rectangular_array of bits described as an array of k1_bits in the horizontal direction and an array of k2 bits in the vertical direction
+During encoding error correcting codes are used to add check information to the data in each direction
+An error correcting code C2 is used for data in one direction of the array and an error correcting code C1 s used for data in the second_direction of the array
+The term `` product code '' refers generally to the use of these codes
+Because the system uses these codes for data in both the horizontal and the vertical directions the system 's error correction capability is enhanced
+Claim 1 of the '612_patent describes the claimed system as follows : 1
+An encoding and decoding system for digital_information having a rectangular_array of bits including k1_bits in a first_direction and k2 bits in a second_direction orthogonal to the first_direction which system comprises
+encoding_means including an encoding adapting circuit for codes C2 for dividing the k1_bits in the first_direction into b_bits apiece and forming a plurality of k2_X b bit rectangular_arrays each including the b_bits in the first_direction and the k2 bits in the second_direction a C2_encoder for encoding the plurality of k2_X b bit rectangular_arrays into a plurality of n2 X b bit rectangular_arrays each including the b_bits in the first_direction and n2_bits in the second_direction a C1_encoder for encoding the k1_bits in the first_direction into n1_bits by adding n1-k1 check bits to the k1_bits in the first_direction and a timing generator circuit for generating timing_signals for controlling the operation of said encoding_means to thereby encode the digital_information into a codeword of a generalized_product_code including the n1_bits in the first_direction and the n2_bits in the second_direction ; and decoding means operatively connected to said encoding_means by a transmission means for decoding the digital_information encoded by the encoding_means ; wherein said C1 and C2_encoders are operative to encode in response to said timing_signals of said timing generator and wherein either said C1_encoder or said C2_encoder provides said generalized_product_code
+Claim 2 adds an information_matrix-forming circuit for arranging digital_information into a rectangular_array of bits and claim 3 describes the information_matrix-forming circuit as containing RAM devices and selector means
+Claim 11 adds elements including an erasure weight calculation circuit and an erasure location calculation circuit
+
+The explanation of this technology and much of the discussion of its technological and legal significance was presented at trial through the testimony of expert_witnesses
+Experts for both sides testified to the meaning of various technical terms as used in this system the scope of the claims as applied to the accused device the content *1303 of the prior_art the relation of the patented technology to the prior_art and other aspects relating to both validity and infringement
+The issues at trial and indeed on appeal were complex in fact and law
+No challenge is raised as to the technical competence and admissibility of the expert testimony see generally Kumho Tire Co. v. Carmichael 526_U.S._137 119_S.Ct._1167 143_L.Ed.2d_238_(1999) although the parties dispute the opinions expressed and the conclusions drawn by the expert_witnesses
+
+The district_court and the Federal_Circuit on appeal each reviewing the jury 's verdicts must determine whether the law was correctly stated including the jury_instructions on claim construction and whether there was substantial evidence to support the jury 's verdicts
+See e.g. Al-Site Corp. v. VSI Int ' l Inc. 174_F.3d_1308 1314 50_U.S.P.Q.2d_1161 1164 ( Fed.Cir.1999 ) ( after interpreting the claims district_court instructed jury to apply its construction of the claims to determine infringement ) ; Shatterproof Glass Corp. v. Libbey-Owens Ford Co. 758_F.2d_613 626 225_U.S.P.Q._634 643 ( Fed.Cir.1985 ) ( In reviewing a district_court 's denial of a motion for new_trial we review the jury_instructions as a whole to determine whether clear error occurred such that the jury was misled
+)
+

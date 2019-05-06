@@ -1,0 +1,396 @@
+507_f.3d_1340
+united_states_court of appeals federal circuit
+z4 technologies inc. plaintiff-appellee v. microsoft corporation defendant-appellant and
+autodesk inc. defendant
+no._2006-1638
+| nov._16,_2007
+| rehearing and rehearing en banc denied jan._30,_2008
+* synopsis
+background assignee of patents related to prevention of software_piracy sued competitor for infringement
+after jury found that competitor had infringed patents and did not prove that patents were invalid the united_states_district_court for the eastern_district of texas leonard davis j. 2006_wl_2401099 denied competitors renewed motions for judgment as a matter of law and motion for new_trial
+competitor appealed
+
+holdings the court of appeals linn circuit_judge held that
+
+as used in patent_claims term` user' meant` a person or a person using a computer' ;
+
+substantial_evidence supported jury_verdict finding of infringement of` user' limitation even under modified claim_construction ;
+
+substantial_evidence supported finding of infringement of patent_claims` password' and` authorization_code' limitations ;
+
+patents` automatic' and` electronic' claim_limitations did not require that initiation of registration communication commence without any user_interaction ;
+
+substantial_evidence supported jurys determination that patents were not invalid for anticipation ;
+
+erroneous instruction did not warrant new_trial on issue of anticipation ; and
+
+refusing to give competitors requested jury_instruction was not abuse of discretion
+
+affirmed
+
+attorneys and law firms
+*1343 frank a. angileri brooks kushman p.c. of southfield mi argued for plaintiff-appellee
+with him on the brief were ernie l. brooks thomas a. lewry and john s. le roy
+john e. gartman fish & richardson p.c. of san diego ca argued for defendant-appellant
+with him on the brief were matthew c. bernstein seth m. sproul and john m. bustamante
+also on the brief were robert e. hillman and john a. dragseth of boston ma
+of counsel on the brief was isabella fu microsoft_corporation of redmond wa
+before lourie and linn circuit_judges and bucklo district_judge
+** opinion
+*1344 linn circuit_judge
+microsoft_corporation` microsoft' appeals from a final judgment of the united_states_district_court for the eastern_district of texas z4 techs. inc. v. microsoft_corp. no._06-_cv-142 2006_wl_2401099 e.d.tex
+aug. 18 2006
+the district_court denied microsofts renewed motion for judgment as a matter of law` jmol' following a jury_trial in which the jury found that microsoft had infringed z4 technologies inc.s` z4s' u.s
+patents no._6044,471` the ¡¬471_patent` and no._6785,825` the ¡¬825_patent` and had failed to prove these patents invalid
+z4 techs. inc. v. microsoft_corp. no._06-_cv-142 2006_wl_2401099 e.d.tex
+aug. 18 2006` jmol_opinion`
+because substantial_evidence supports the jurys verdict and because the district_court did not abuse its discretion in denying microsofts motion for a new_trial we affirm
+
+i
+background
+z4 is the assignee of two patents related to the prevention of software_piracy
+the inventor of these patents david colvin` colvin' founded and owns z4
+the ¡¬825_patent_claims priority to the ¡¬471_patent through continuation applications and thus shares an effective filing date of june_4,_1998
+because these patents also share a common specification we will refer generically to` the specification' in reference to both the ¡¬471 and ¡¬825_patent s. these patents are directed specifically to the problem of` illicit copying and unauthorized use' of computer software
+¡¬825_patent col.1 ll.21-25
+the patent_specification explains that` [ t ] he advent of the internet has contributed to the proliferation of pirated software known aswarez which is easily located and readily downloaded'
+id
+col.1 ll.33-35
+prior art solutions to this problem were either easily circumvented or imposed substantial burdens on the consumer
+for example requiring the entry of a serial_number was` easily defeated by transferring the serial_number.. to one or more unauthorized_users'
+id
+col.1 ll.45-51
+similarly the use of` hardware keys' which must be physically present to enable the software proved` relatively expensive for the developer and cumbersome for the authorized user'
+id
+col.1 ll.36-44
+
+z4s invention` controls the number of copies of authorized software by monitoring registration_information' and by` [ r ] equiring authorized_users to periodically update a password or authorization_code provided by a password administrator'
+¡¬471_patent col.3 ll.15-24
+more particularly the patents disclose a multi-step user authorization scheme whereby an initial_password or authorization_code grants the user a` grace_period' for a fixed number of uses or period of time
+users must then submit registration_information to a representative of the software developer to receive a second password or authorization_code which is required to enable the product for use beyond this grace_period
+in the patented system users are able to choose between a manual registration mode and an automatic or electronic_registration mode
+upon receipt of the registration_information the software_representative compares the submitted information to previously-stored registration_information and determines whether the user is authorized
+if the user is not authorized the software_representative may disable the software
+
+on september 22 2004 z4 sued microsoft and autodesk inc.` autodesk' 1 alleging infringement of claim 32 of the ¡¬471_patent and claims 44_and_131 of the ¡¬825_patent
+claim 32 of the ¡¬471_patent reads *1345 as follows with disputed portions highlighted
+
+32
+a computer readable storage medium having data stored therein representing software executable by a computer the software including instructions to reduce use of the software by unauthorized_users the storage medium comprising instructions for requiring a password associated with the software ; instructions for enabling the software after the password has been communicated to the software ; instructions for subsequently requiring a new password to be communicated to the software for continued_operation of the software ; and instructions for automatically contacting an authorized representative of the software to communicate registration_information and obtaining authorization for continued_operation of the software
+claims 44_and_131 of the ¡¬825_patent are identical for purposes of this appeal
+they differ only in their definition of the` initial_authorization_period' or grace_period
+claim 44 reads as follows with disputed portions highlighted 44
+a method for reducing unauthorized_software_use the method comprising providing a representative to monitor software license compliance ; associating a first_authorization_code with the software the first_authorization_code enabling the software on a computer for use by a user for an initial_authorization_period the initial_authorization_period being based on usage of the software ; supplying the first_authorization_code with the software ; requiring the user to enter the first_authorization_code to at least partially enable the software on the computer for use by the user during the initial_authorization_period ; requiring the user to contact the representative for retrieval of at least one additional_authorization_code to repeat the enablement of the software on the computer for use by the user during a subsequent_authorization_period beyond the initial_authorization_period and allowing the repeat of the enablement of the software to be performed prior to the expiration of the initial_authorization_period so the enablement of the software can be continuous from the initial_authorization_period to the subsequent_authorization_period the software being enabled on the computer for use by the user during the subsequent_authorization_period beyond the initial_authorization_period requiring without further communication with the representative following entry of the at least one additional_authorization_code ; requiring the user to selectively choose either manual or electronic_registration and provide registration_information to the representative prior to retrieval of the at least one additional_authorization_code the registration_information including computer specific information ; comparing previously stored registration_information related to at least one of the software the user and the computer with the registration_information provided by the user to the representative to determine if the user is an authorized or an unauthorized_user ; and.at least partially disabling the software if the user [ sic ] an unauthorized_user
+
+in the litigation z4 alleged that microsofts` product_activation' feature as implemented in its` office' group of software applications and its` windows' operating system infringed each of the asserted claims beginning in 2000_and_2001 respectively
+microsoft countered that it did not *1346 infringe z4s patents that the ¡¬471 and ¡¬825_patent s were invalid for anticipation and obviousness and that both patents were unenforceable due to inequitable conduct by colvin
+in particular microsoft contended that it had developed its own technology to reduce software_piracy called the licensing verification program` lvp' which it implemented in its 1998 brazilian_publisher` bp 98' software_product
+because this product was released prior to the filing date of z4s patents microsoft alleged that it constituted a prior_invention sufficient to invalidate the asserted claims
+
+a magistrate judge held a markman hearing and subsequently construed several disputed claim_terms
+z4 techs. inc. v. microsoft_corp. no._06-_cv-142 2005_wl_2304993_(e.d.tex._sep._20,_2005)` claim_construction_opinion`
+later during the course of the jury_trial the court construed an additional term` user' which had become central to microsofts litigation arguments
+z4 techs. inc. v. microsoft_corp. no._06-_cv-142 e.d.tex
+apr._12,_2006` supplemental_claim_construction_opinion`
+the jury returned a verdict of willful_infringement of all three asserted claims against microsoft and awarded damages of $ 115 million
+
+following the jury_verdict microsoft filed various renewed motions for jmol under rule 50 b and a motion for a new_trial under rule 59 a of the federal_rules of civil procedure
+the district_court denied all of microsofts motions for jmol and a new_trial thereby upholding the jurys verdict in its entirety
+the district_court also held both patents to be enforceable
+jmol_opinion at 2
+it declined however to issue a permanent injunction against microsoft
+see z4 techs. inc. v. microsoft_corp. 434_f.supp.2d_437_(e.d.tex.2006)
+
+based on the jurys finding of willful_infringement z4 requested enhanced damages
+although the district_court chose not to enhance damages to the maximum of three times the jury_verdict it did award an additional $ 25 million against microsoft
+jmol_opinion at 47
+it also awarded attorneys fees to z4 based on the jurys willfulness verdict and its own determination of litigation misconduct by microsoft
+id.at 43
+microsoft timely appealed
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+
+ii
+discussion
+a
+standard of review
+we review the denial of a motion for jmol de novo harris corp. v. ericsson inc. 417_f.3d_1241 1248 fed.cir.2005 and thus affirm the jurys verdict unless` a reasonable_jury would not have a legally sufficient_evidentiary_basis to find for the [ winning ] party' fed.r.civ.p
+50 a 1
+`` the denial of a motion for judgment as a matter of law.. is a procedural issue not unique to patent law which we review under the law of the regional circuit where the appeal from the district_court normally would lie'
+riverwood int l corp. v. r.a. jones & co. 324_f.3d_1346 1352 fed.cir.2003
+`` the united_states_court of appeals for the fifth_circuit describes appellate review of a jmol denial as a determination whetherthe facts and inferences point so strongly and overwhelmingly in favor of one party that the court concludes that reasonable_jurors could not arrive at a contrary verdict
+`` harris 417 f.3d at 1248 quoting bellows v. amoco oil co. 118_f.3d_268 273 5th cir.1997
+`` in reviewing the sufficiency of the evidence.. we must affirm unless there is no legally sufficient_evidentiary_basis for the jurys verdict
+in this regard the evidence as well as all reasonable inferences from it are viewed in the light most favorable to the verdict'
+*1347 lane v. r.a. sims jr. inc. 241_f.3d_439 445 5th cir.2001 internal citations omitted
+in performing this review we are mindful of the fact that` [ a ] nticipation is a factual determination that is reviewed for substantial_evidence when decided by a jury' koito mfg co. v. turn-key-tech llc 381_f.3d_1142 1149 fed.cir.2004 as is the jurys determination of non-infringement acumed llc v. stryker corp. 483_f.3d_800 804 fed.cir.2007
+
+we also review the denial of a motion for a new_trial under regional circuit law see riverwood 324 f.3d at 1352 which in the fifth_circuit provides for reversal only upon an` abuse of discretion or a misapprehension of the law' by the district_court
+prytania park hotel ltd. v. gen. star indem co. 179_f.3d_169 173 5th cir.1999
+
+claim construction is an issue of law see markman v. westview instruments inc. 52_f.3d_967 970-71 fed.cir.1995 en banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996) over which we exercise plenary review cybor corp. v. fas techs. inc. 138_f.3d_1448 1456 fed.cir.1998 en banc
+
+b
+analysis
+microsoft argues that the district_court erred as a matter of law by denying jmol of non-infringement based on three claim_limitations allegedly lacking in the accused products and by denying jmol of invalidity under 35 u.s.c.¡± 102 g based on microsofts bp 98 product
+microsoft also requests a new_trial based on allegedly incorrect and prejudicial jury_instructions
+microsoft further argues that the supreme_courts recent decision in microsoft_corp. v. at & t corp. 550_u.s._437 127_s.ct._1746 167_l.ed.2d_737_(2007) addressing infringement under 35 u.s.c.¡± 271 f with respect to software components compels a remand for a new_trial on damages
+we address each of these arguments in turn
+
+1
+microsofts motion for jmol of non-infringement
+microsoft disputes the district_courts constructions of the` user' limitation of both patents the` automatically' limitation of the ¡¬471_patent and the` electronic' limitation of the ¡¬825_patent
+it further challenges the jurys finding that the accused products meet these limitations as well as the` password' limitation of the ¡¬471_patent and the` authorization_code' limitation of the ¡¬825_patent
+z4 responds that microsofts accused products require the entry of a product_key which is a` password' or` activation code' that they also allow users to choose internet activation which performs all the steps of the` automatic' or` electronic' claim_limitations and that because microsofts product_activation compares stored information regarding the software and the computer to registration_information submitted by the user to activate the software microsoft infringes all of the asserted claims
+
+a
+the` user' limitation
+the district_court construed the term` user' to mean` a person a person using a computer a computer or computers'
+supplemental_claim_construction_opinion at 3
+microsoft had attempted to limit` users' to` persons' thereby excluding a computer or computers while z4 advocated for the broad interpretation adopted by the district_court
+id.at 1
+under its definition microsoft argues that the asserted claims require the authorization of a` particular_user regardless of what particular_computer they are using' while the accused products authorize` a particular_computer regardless of who is using it'
+microsoft thus asserts that there can be no infringement because its products do not recognize` unauthorized_users' but rather unauthorized computers
+in its reply brief however microsoft concedes *1348 a construction of` user' as including both` a person' and` a person using a computer'
+reply_br.at 4` properly construed auser is a person or a person using a computer..
+it is only the district_courts elimination of the person altogether in allowing a computer by itself to be auser that we ask this court to overrule as an error of law
+``
+
+in construing a disputed claim_term we begin with the language of the claims
+phillips v. awh corp. 415_f.3d_1303 1312 fed.cir.2005 en banc
+claims of the ¡¬825_patent include the limitations` enabling the software on a computer for use by a user' and` comparing previously stored registration_information.. to at least one of the software the user and the computer'
+in these recitations the` user' and the` computer' are distinct entities
+to construe the term` user' to mean a` computer' would result in the claim being interpreted to recite for example` enabling the software on a computer for use by a [ computer ]'
+the language of the claims does not reasonably or logically permit such a construction
+likewise the written description makes clear that the terms` users' and` computers' are distinct and used to describe different things
+e.g. ¡¬471_patent col.1 ll.48-51 discussing` users who may have a legitimate need to.. transfer a copy to a new computer' ; id
+col.7 ll.7-9` [ t ] he user installs.. the software in his computer or computer network`
+because a construction that would equate a` user' with a` computer or computers' conflicts with` both the plain language of the claims and the teachings of the specification' neomagic corp. v. trident microsystems inc. 287_f.3d_1062 1070 fed.cir.2002 the district_courts inclusion of` computer or computers' in its claim_construction can not be sustained
+because we agree with microsoft that the district_court erred in construing` user' to include a computer or computers apart from a person we modify the district_courts claim_construction and hold that a` user' is properly construed as` a person or a person using a computer
+`` 2 this construction applies to all of the asserted claims
+see omega eng g inc. v. raytek corp. 334_f.3d_1314 1334 fed.cir.2003` [ w ] e presume unless otherwise compelled that the same claim_term in the same patent or related patents carries the same construed meaning
+``
+
+notwithstanding our modification of the district_courts claim_construction however we find microsofts contention that the asserted claims require the authorization of a` particular_user regardless of what particular_computer they are using' to be artificial and inconsequential
+although the claims recite` software including instructions to reduce use of the software by unauthorized_users' ¡¬471_patent_claim 32 and` determin [ ing ] if the user is an authorized or an unauthorized_user' ¡¬825_patent_claims 44 131 both the claims and specification describe methods of making this determination based on computer-specific information among other things
+this conclusion is based on relevant language that appears in the claims and not on any particular construction of the term` user'
+specifically the claims recite that the software_representative may identify authorized_users based on a comparison of` registration_information provided by the user' with` previously stored registration_information related to at least one of the software the user and the computer'
+id
+*1349 because the` [ u ] se of the phraseat least one means that there could be only one or more than one' of the listed types of previously stored registration_information rhine v. casio inc. 183_f.3d_1342 1345 fed.cir.1999 the identification called for by the claims may be accomplished by comparing the registration_information with previously-stored information related a to the software installed by a person on the computer ; b to the person using the computer ; or c to the computer hardware
+microsofts argument that the asserted claims require the authorization of a` particular_user regardless of what particular_computer they are using' ignores the language of the claims which as noted above permits the identification of authorized_users based on inter_alia` previously stored registration_information related [ only ] to.. the computer'
+our construction of the term` user' to mean` a person or a person using a computer' does not foreclose or in any way affect such a conclusion nor does it preclude a determination that the accused microsoft products infringe
+thus microsofts argument while correct as to the construction of the claim_term` user' is not determinative of the question of infringement
+
+with respect to infringement substantial_evidence supports the jury_verdict even under our modified construction
+because the claims explicitly contemplate tracking authorized_users through inter_alia the identity of the computers on which they install the software as discussed supra and because microsoft admits that it makes product_activation determinations based on registration_information related to users computers see reply_br.at 2 a reasonable_juror could find that microsoft infringed the asserted claims notwithstanding our modification of the district_courts construction of the term user
+see teleflex inc. v. ficosa n. am corp. 299_f.3d_1313 1328 fed.cir.2002 noting that when we determine that the district_court` has misinterpreted a patent claim we independently construe the claim to determine its correct meaning' and that` [ w ] e may affirm the jurys findings on infringement.. if substantial_evidence appears in the record supporting the jurys verdict and if correction of the errors in a jury_instruction on claim_construction would not have changed the result given the evidence presented'
+
+b
+the` password' and` authorization code' limitations
+as discussed above the patents disclose a system wherein an initial_password or authorization_code enables a software` grace_period' for a fixed number of uses or period of time
+microsoft and z4 agree that the terms` authorization_code' and` password' are used interchangeably
+claims 44_and_131 of the ¡¬825_patent recite` associating a first_authorization_code with the software the first_authorization_code enabling the software.. for an initial_authorization_period.. supplying the first_authorization_code with the software ; [ and ] requiring the user to enter the first_authorization_code to [ activate the grace_period ]' emphases added
+similarly claim 32 of the ¡¬ 471 patent recites` requiring a password associated with the software ;.. [ and ] enabling the software after the password has been communicated to the software' emphases added
+the parties raise no claim_construction issues related to these limitations and we review them only for substantial_evidence supporting the jurys finding of infringement
+
+although microsoft admits that the accused products have a grace_period and that users are instructed to enter a` product_key' provided with the software before this period may begin it argues that this product_key can not be an` authorization_code' or` password' because it is not *1350` associated with the software' as required by the claims
+specifically microsoft asserts that any product_key can enable the grace_period on any copy of the software and thus there is no association between a particular copy of software and the specific_product_key provided with that copy
+we disagree
+not only was the jury presented with evidence that microsoft directly instructed its users to input a specific_product_key provided with each copy of the software and that the product_key was required as part of product installation but one of microsofts own witnesses admitted that unless users enabled the grace_period using this specific_product_key they would have been unable to complete the product_activation_process i.e. to enable the software beyond the grace_period
+
+thus substantial_evidence supports a finding that in the ordinary course of activating a copy of the accused software a user is required to enter an authorization_code-the product_key-associated with that copy of the software
+even if the potential use of unassociated product_keys to enable software grace_periods may be framed as a` non-infringing mode [ ] of operation' our conclusion remains the same
+see hilgraeve corp. v. symantec corp. 265_f.3d_1336 1343 fed.cir.2001` [ i ] n determining whether a product claim is infringed we have held that an accused device may be found to infringe if it is reasonably capable of satisfying the claim_limitations even though it may also be capable of non-infringing modes of operation`
+we are likewise unpersuaded by microsofts related assertion that it does not infringe because a single copy of the accused software can be installed on an unlimited number of machines using a single_product_key
+as with the previous argument infringement is not avoided merely because a non-infringing mode of operation is possible
+the fact remains that microsofts product_activation_process prevents the use of software installations beyond the grace_period unless the associated product_key is used to enable the grace_period
+
+microsoft further argues that z4-through criticism of prior_art in the patent_specification-disclaimed the use of authorization_codes that like serial_numbers in the prior_art can be used to install multiple copies of the software
+it again contends that its own product_key can not be considered an` authorization_code' because a single_product_key can enable the grace_period for any copy of the software
+see astrazeneca ab v. mut
+pharm co. 384_f.3d_1333 1340 fed.cir.2004 discussing disavowal of claim scope through criticism of other products in the general summary or description of the invention
+we find this argument disingenuous at best because the patent language cited by microsoft distinguishes prior_art systems relying on a single authorization_code such as a serial_number from the disclosed invention which utilizes a dual authorization_code scheme
+it is undisputed that microsofts product_activation like the claimed invention requires dual authorization_codes and that the product_key enables only a limited grace_period
+
+for all of these reasons we affirm the jurys verdict of infringement as to these limitations
+
+c. the` automatic' and` electronic' limitations
+the parties also dispute the level of user_interaction required by the claims to complete the registration step and to enable the software beyond the grace_period previously enabled by the initial authorization_code
+this dispute implicates two related limitations recited in the asserted claims
+claims 44_and_131 of the ¡¬471_patent recite` requiring the user to selectively choose either manual or electronic *1351 registration' emphasis added while claim 32 of the ¡¬825_patent recites` instructions for automatically contacting an authorized representative.. to communicate registration_information and obtaining authorization for continued_operation' emphasis added
+despite the difference in the language of the claims the parties agree that for purposes of this appeal the terms` automatic' and` electronic' may be analyzed together
+
+at the district_court microsoft suggested a construction of the term` automatically' to be` without user discretion or intervention'
+the district_court disagreed and instead construed the term to mean` instructions i.e
+a computer code that enable a users computer to contact an authorized representative of the software'
+claim_construction_opinion at 6-8
+the court did not construe the term` electronic' but noted that` [ i ] n open court the parties agreed to use the claim_language for this term'
+id.at 8
+microsoft further agreed that it would not argue at trial` thatelectronic meanswithout user_intervention without leave of court'
+id
+
+on appeal microsoft contends that once users choose the electronic or automatic_registration mode as contrasted with the manual mode the initiation of the registration communication must commence without any user_interaction
+
+we find microsofts claim_construction arguments to be without merit
+as the district_court carefully observed the claims are silent as to the initiation of the registration process although the claims and specification` clearly contemplate [ ] a user choice as to whether registration will be automatic or manual'
+id.at 6 citing ¡¬471_patent col.7 ll.7-18` the user is allowed to choose between automatic or manual registration
+`` ; see also ¡¬ 825 patent_claims 44 & 131` requiring the user to selectively choose either manual or electronic_registration'
+although the specification discloses that automatic_registration is performed` without user_intervention' ¡¬471_patent col.4 ll.50-54 emphasis added the claims require at least a minimal level of user_interaction to select this registration mode
+indeed nothing in the claims or specification precludes user_interaction in the selection or initialization of the automatic_registration
+thus the district_court correctly rejected microsofts attempt to exclude any user_interaction from the claims and we affirm its construction of this term
+microsoft makes no effort to argue non-infringement under this construction and its own product documentation which was presented to the jury characterizes the internet_option as` automatically activating the [ accused product ]'
+
+moreover even under microsofts proposed construction its sole non-infringement argument is artificial at best
+specifically microsoft argues that although the accused products allow users to choose between internet i.e. automatic or electronic or phone i.e. manual activation if the user chooses the internet_option` nothing happens after that manual choice until the user additionally manually presses thenext button..' microsoft br.at 23
+thus even under microsofts construction a reasonable_juror could find that` manually press [ ing ] thenext button' is merely part of the selection process
+therefore we affirm the judgment of infringement with respect to these limitations as well
+
+2
+microsofts motion for jmol of invalidity by anticipation
+before the district_court microsoft argued a number of points in support of its motion for jmol of invalidity based on anticipation by its bp 98 product
+the district_court denied the motion based solely on its conclusion that in light of` the evidence presented at trial a reasonable *1352 jury could have concluded that bp 98 did not work for its intended_purpose to stop piracy'
+jmol_opinion at 7
+on appeal microsoft repeats many of the arguments it raised before the district_court
+because we agree with the district_courts determination on the point it considered and find it dispositive we discuss only that point and need not and do not address microsofts other contentions
+
+microsoft argues that the lvp feature of its bp 98 software_product anticipates the asserted claims under section 102 g 2
+that section provides that a patent is invalid if` before such persons invention thereof the invention was made in this country by another inventor..' 35 u.s.c.¡± 102 g 2
+`` this court has interpreted ¡± 102 g to provide thatpriority of invention goes to the first party to reduce an invention to practice unless the other party can show that it was the first to conceive the invention and that it exercised reasonable diligence in later reducing that invention to practice
+`` monsanto co. v. mycogen plant sci. inc. 261_f.3d_1356 1362 fed.cir.2001 quoting mahurkar v. c.r
+bard inc. 79_f.3d_1572 1577 fed.cir.1996
+
+microsoft bore the burden of demonstrating by clear and convincing_evidence that bp 98 constituted an actual_reduction to practice of the invention claimed in z4s patents
+see e.g. sram corp. v. ad-ii eng g inc. 465_f.3d_1351 1357 fed.cir.2006` under the patent statutes a patent enjoys a presumption of validity see 35 u.s.c.¡± 282 which can be overcome only through facts supported by clear and convincing_evidence`
+`` in order to establish an actual_reduction to practice the inventor must prove that 1 he constructed an embodiment or performed a process that met all the limitations.. and 2 he determined that the invention would work for its intended_purpose'
+cooper v. goldfarb 154_f.3d_1321 1327 fed.cir.1998
+`` testing is required to demonstrate reduction to practice in some instances because without such_testing there can not be sufficient certainty that the invention will work for its intended_purpose'
+slip track sys. inc. v. metal-lite inc. 304_f.3d_1256 1267 fed.cir.2002
+because the necessity and sufficiency of such_testing are factual issues see id.at 1268 substantial_evidence in the record supporting a finding that microsofts lvp_software did not work for its intended_purpose will suffice to support the jurys verdict that z4s patents are not invalid for anticipation see eli lilly & co. v. aradigm corp. 376_f.3d_1352 1362 fed.cir.2004 noting that when we review the denial of a post-verdict jmol` on a mixed question of law and fact.. we must sustain the jurys conclusion unless the jury was not presented with substantial_evidence to support any set of implicit findings sufficient under the law to arrive at its conclusion' ; taskett v. dentlinger 344_f.3d_1337 1339 fed.cir.2003 noting that reduction to practice is a question of law predicated on subsidiary factual findings
+
+as an initial matter microsoft contends that the district_court incorrectly defined the` intended_purpose' of the invention as` to stop piracy' and thus erred in holding that a prior_invention must` stop piracy' to qualify as invalidating art under ¡± 102 g
+see jmol_opinion at 7
+we agree
+z4s patents do not disclose a method or apparatus to completely eliminate software_piracy and the claim_language indicates that the purpose of the invention is merely the reduction rather than the elimination of such piracy
+see ¡¬471_patent_claim 32 claiming` instructions to reduce use of the software by unauthorized_users' emphasis added ; ¡¬825_patent_claims 44 & 131 claiming` [ a ] method for reducing unauthorized_software_use' emphasis added
+
+*1353 we agree with z4 however that the record contains substantial_evidence for a reasonable_jury to conclude that the anti-piracy feature of bp 98 did not work even to reduce piracy
+for example a reasonable_juror could have relied upon the internal microsoft presentation of april_28,_1998 which indicated that` effectiveness' was not known and that microsoft` [ could ] only measure [ effectiveness ] once enabled fully in a country w/ [ sic ] a real product'
+the testimony of microsofts own witness mr._hughes indicates that the anti-piracy software found in the accused products was` virtually a complete rewrite' of the software in bp 98
+additionally an internal microsoft e-mail dated november 18 1998-more than five months subsequent to z4s filing date-indicated a problem with the lvp_software and documented an instance of the` same cd being installed in almost 40 different machines with different user names'
+it also noted that one user had registered 34 times and others had registered more than 15 times
+z4s expert testified at trial that this e-mail` affirm [ ed ] [ his ] opinion that brazilian_publisher 98 is not prior_art because there was no recognition or appreciation that it worked for its intended_purpose'
+we also note that microsoft failed to produce the document containing the e-mail until the day before the trial started and then only because z4 uncovered it during a last-minute deposition see jmol_opinion at 40 resulting in the district_court sanctioning microsoft by instructing the jury that
+z4 has offered [ the document containing the e-mail ] into evidence to show that brazilian_publisher 98 did not work for its intended_purpose.. you are instructed that microsoft although it had knowledge of this document did not produce it to z4 as it was required to do under controlling discovery rules
+youre instructed that.. under the law and rules of this court that microsoft improperly withheld this document and you may infer although you are not required to do so that microsoft improperly withheld the document because it was harmful to the positions it has taken in this case
+microsoft has not appealed this sanction
+
+collectively this evidence comprises` more than a mere scintilla' and is` such relevant evidence as a reasonable mind might accept as adequate to support a conclusion'
+consol edison co. v. nlrb 305_u.s._197 229 59_s.ct._206 83_l.ed._126_(1938) discussing substantial_evidence review ; see also teleflex 299 f.3d at 1323-24
+because substantial_evidence supports the jury_verdict we affirm the district_courts denial of microsofts motion for jmol of invalidity by anticipation
+
+3
+microsofts request for a new trial
+microsoft requests a remand for a new_trial based on three allegedly erroneous jury_instructions and an intervening change in law concerning infringement under 35 u.s.c.¡± 271 f
+we do not find these arguments persuasive
+
+a
+jury_instructions
+under the law of the fifth_circuit two requirements must be met before a new_trial will be granted based on an erroneous jury_instruction` first the challenger must demonstrate that the charge as a whole creates substantial and ineradicable doubt whether the jury has been properly guided in its deliberations
+second even if the jury_instructions were erroneous we will not reverse if we determine based upon the entire record that the challenged instruction could not have affected the outcome of the case'
+hartsell v. doctor pepper bottling co. 207_f.3d_269 272 5th cir.2000
+
+*1354 i
+jury_instruction regarding` single document' corroboration
+the district_court instructed the jury that` [ a ] n inventors testimony of conception must be corroborated in a single_document'
+it later conceded that this instruction was` improper' but nonetheless held that it did not` constitute harmful error under the circumstances' because microsoft never presented much less relied on the testimony of an individual_inventor
+instead microsoft represented to the court that` [ f ] or its ¡± 102 g defense microsoft did not need to name a particular person.. microsoft corporately both conceived and reduced to practice before mr
+colvin
+`` jmol_opinion at 26 quoting microsofts jmol motion emphasis added
+the district_court expressed reservations concerning the propriety of asserting corporate_conception but it expressly declined to decide this issue and simply held that because microsoft admitted that it` never presented oral testimony of an individual_inventor who allegedly conceived the anti-piracy portion of bp 98' this instruction was simply not relevant to the verdict
+id.at 27 & n. 10
+because we agree that this instruction was not relevant we need not and do not address the merits of microsofts claims regarding corporate_conception
+
+on appeal microsoft now contends that the jury could have assumed that one of its witnesses mr._hughes was an inventor
+this argument is not persuasive
+microsoft can not argue below that it did not and need not name an individual_inventor see id.at 26-27 yet now assert that the jury would have concluded precisely the opposite
+therefore as the district_court correctly concluded` whether such testimony must be corroborated by asingle_document was not an issue in the case'
+thus` the improper instruction could not create sufficient error to warrant a new_trial on the issue of anticipation'
+id.at 27-28
+furthermore this instruction` could not have affected the outcome of the case' hartsell 207 f.3d at 272 in light of the substantial_evidence supporting the conclusion that microsofts bp 98 was not a reduction to practice of the asserted claims as discussed supra
+
+ii
+jury_instruction regarding burden of proof on invalidity
+although the district_court properly instructed the jury that microsoft had the burden of proving invalidity by clear and convincing_evidence see sram 465 f.3d at 1357 microsoft contends that the district_court abused its discretion by refusing to further instruct the jury that microsofts` burden is more easily carried when the references on which the assertion is based were not directly considered by the examiner during prosecution'
+we disagree
+see uniroyal inc. v. rudkin-wiley corp. 837_f.2d_1044 1050 fed.cir.1988` the burden of proof is not reduced when prior_art is presented to the court which was not considered by the pto
+`` ; bio-rad labs. inc. v. nicolet instrument corp. 739_f.2d_604 615 fed.cir.1984` the introduction of prior_art not considered by the pto does not change the burden of proof or the requirement that evidence establish the presumption-defeating facts clearly and convincingly
+`` abrogated on other grounds by markman 52_f.3d_967
+despite microsofts reliance on cases indicating that a party may more easily meet this clear and convincing_evidence burden when the references at issue were not before the examiner see e.g. am
+hoist & derrick co. v. sowa & sons inc. 725_f.2d_1350 1359-60 fed.cir.1984 it cites no authority compelling courts to provide such an instruction and we agree with the district_court that` it might lead the jury to believe that the burden of proof is less than clear and convincing when prior_art was not considered *1355 by the pto'
+jmol_opinion at 22
+accordingly we hold that the district_court did not abuse its discretion in refusing to provide the jury with microsofts requested instruction
+
+iii
+jury_instruction regarding obviousness
+microsoft also requests a remand in light of the supreme_courts decision in ksr int l co. v. teleflex inc. 550_u.s._398 127_s.ct._1727 167_l.ed.2d_705_(2007) based on the district_courts instruction to the jury that` to find an asserted claim obvious you must find that there was some teaching suggestion or incentive to combine the items in the prior_art into the particular claimed combination'
+z4 responds that microsoft would not be entitled to a new_trial regardless of the outcome in ksr3 because the only direct evidence of obviousness introduced by microsoft was the conclusory testimony of its expert
+see upjohn co. v. mova pharm corp. 225_f.3d_1306 1311 fed.cir.2000 noting that` there must be factual support for an experts conclusory opinion' ; see also jmol_opinion at 10 noting that it was` questionable whether defendants even established a prima_facie_case of obviousness'
+although microsoft asserts that` the jury certainly could have reached a conclusion of obviousness on this record' reply_br.at 30 it fails to identify specific evidence or arguments establishing even a prima_facie_case of obviousness under the factors outlined in graham v. john deere co. 383_u.s._1 17 86_s.ct._684 15_l.ed.2d_545_(1966)
+therefore we find no abuse of discretion here by the district_court
+
+b
+damages based on foreign sales under ¡± 271 f finally microsoft requests a remand for a new_trial on damages in light of microsoft v. at & t because the jury made its damages determination based on worldwide sales of the accused products
+although the supreme_court issued the microsoft v. at & t opinion after the parties had filed their briefs in this case microsoft argues that it preserved its right to argue damages under 35 u.s.c.¡± 271 f by moving in limine to exclude evidence of foreign_sales of the accused products
+see micro chem. inc. v. lextron inc. 317_f.3d_1387 1391 fed.cir.2003 holding that under rule 103 a of the federal_rules of evidence once a court makes a definitive evidentiary ruling on the record a party need not renew an objection to preserve appeal rights
+z4 counters that microsoft has no basis to argue damages based on global_sales because it failed to renew its motion in limine on this issue see fed.r.civ.p
+50 b ; unitherm food sys. inc. v. swift-eckrich inc. 546_u.s._394 404 126_s.ct._980 163_l.ed.2d_974_(2006) holding that` a party is not entitled to pursue a new_trial on appeal unless that party makes an appropriate postverdict motion in the district_court' and because microsoft failed to properly present the issue on appeal by mentioning it only in a footnote in its opening brief
+see smithkline beecham corp. v. apotex corp. 439_f.3d_1312_(fed.cir.2006) holding that arguments raised only in footnotes are not preserved
+
+we reject microsofts request for a retrial on damages because we find no properly-defined ¡± 271 f issue in the record
+while we question the merits of microsofts reliance on its denied motion in limine to preserve this argument for appeal in light of the district_courts admonition that its` rulings on the pre-trial motions in limine were not definitive rulings' jmol_opinion at 17 ; fed r. evid
+103 a requiring a` definitive ruling' to preserve *1356 a claim of error for appeal without renewing an objection we need not decide whether microsoft properly preserved any ¡± 271 f arguments
+this is because the jury did not and could not have relied on ¡± 271 f in determining its damages_award
+the complaint alleged infringement using only language from ¡± 271 a` [ w ] hoever without authority makes uses offers to sell or sells any patented_invention within the united_states or imports into the united_states any patented_invention during the term of the patent therefor infringes the patent`
+the jury_instructions similarly only paralleled the language of ¡± 271 a any person or business entity that without the patent owners permission makes uses offers for sale or sells within the united_states any product or method that is covered by at least one claim of a patent before the patent expires infringes the patent
+at oral argument microsoft asserted that microsoft v. at & t is relevant because this case involves accused products that were identical to those of the microsoft v. at & t case and distributed using the same` golden master' distribution system discussed in that opinion
+see oral arg.at 36:05-36:46 available at http //www.cafc.uscourts.gov/ oralarguments/mp3/2006-1638.mp3
+while that may be true the asserted claims in this case differ significantly from those at issue in microsoft v. at & t and thus raise different infringement issues
+moreover microsoft points to nothing in the record to establish that z4 ever argued that microsoft
+supplie [ d ] or cause [ d ] to be supplied in or from the united_states all or a substantial portion of the components of a patented_invention where such_components are uncombined in whole or in part in such manner as to actively induce the combination of such_components outside of the united_states in a manner that would infringe the patent if such combination occurred within the united_states
+35 u.s.c.¡± 271 f 1
+because no ¡± 271 f issues were presented to the jury and because the jury_instructions communicated the requirements for finding infringement only under ¡± 271 a we must assume that the jury properly confined its analysis and ultimate finding of liability to the instructions given under ¡± 271 a
+see e.g. shannon v. united_states 512_u.s._573 585 114_s.ct._2419 129_l.ed.2d_459_(1994) declining` to depart from the almost invariable assumption of the law that jurors follow their instructions'
+without more a damages_award based in part on global_sales does not necessarily implicate ¡± 271 f
+
+microsoft may or may not have legitimate arguments regarding the propriety of considering specific foreign_sales in a damages calculation for infringement under ¡± 271 a but it raised no such arguments here
+additionally we find no evidence in the record that microsoft presented any evidence to the district_court segregating domestic and foreign_sales
+therefore we find no merit in microsofts request for a remand on these grounds
+because microsoft failed to explain what ¡± 271 f issues it defined below let alone preserved we deny microsofts request for a new_trial on damages
+
+conclusion
+for the above reasons we conclude that the district_court properly denied microsofts motions for jmol and a new_trial and thus its judgment is
+
+affirmed
+
+all citations
+507_f.3d_1340 85_u.s.p.q.2d_1340
+footnotes
+* circuit_judge gajarsa did not participate in the vote
+** honorable elaine e. bucklo district_judge united_states_district_court for the northern district of illinois sitting by designation
+1
+autodesk was found to have willfully infringed two of the asserted claims by the jury but entered into a settlement with z4 prior to the close of briefing in this appeal
+2
+in so holding we rely in part on microsofts concession that` user' includes both` a person' and` a person using a computer'
+see reply_br.at 4
+accordingly we express no opinion as to whether` a person' and` a person using a computer' differ meaningfully
+3
+the parties completed briefing in this case prior to the supreme_courts decision in ksr
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+z4 technologies inc. v. microsoft_corp. 507_f.3d_1340 2007 85_u.s.p.q.2d_1340
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

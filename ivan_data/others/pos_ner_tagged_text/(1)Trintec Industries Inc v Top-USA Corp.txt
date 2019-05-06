@@ -1,0 +1,141 @@
+('295_F.3d_1292', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('TRINTEC', 'NNP', 'ORG', 'B') ('INDUSTRIES', 'NNPS', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('TOP-U.S.A', 'NN', '', 'O')
+TRINTEC INDUSTRIES INC.
+__NEW_SENT__
+('CORPORATION', 'NN', '', 'O') ('Defendant-Appellee', 'VB', '', 'O')
+
+__NEW_SENT__
+('No._01-1568', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('July_2,_2002', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('assignee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('toward', 'IN', '', 'O') ('cost', 'NN', '', 'O') ('effective', 'JJ', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('low_volume', 'NNP', '', 'O') ('multicolor_faces', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('watches', 'NNS', '', 'O') ('clocks', 'NNS', '', 'O') ('thermometers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('other_instruments', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Ohio', 'NNP', 'GPE', 'B') ('Joseph', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Kinneary', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('inherently', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O')
+United_States_District_Court Ohio Joseph P. Kinneary J.
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('inherently', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('creating', 'NN', '', 'O') ("''", "''", '', 'O') ('required', 'VBD', '', 'O') ('substantive', 'JJ', '', 'O') ('addition', 'NN', '', 'O') ('or', 'CC', '', 'O') ('modification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('artwork', 'NN', '', 'O') ('in', 'IN', '', 'O') ('computer', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('when', 'WRB', '', 'O') ('graphics', 'NNS', '', 'O') ('software', 'NN', '', 'O') ('added', 'VBD', '', 'O') ('design', 'NN', '', 'O') ('to', 'IN', '', 'O') ('instrument', 'NN', '', 'O') ('face', 'NN', '', 'O')
+The Court of Appeals Rader Circuit_Judge 1 2
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1293', 'VBZ', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Vanderhye', 'NNP', 'PERSON', 'I') ('Nixon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Vanderhye', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Arlington', 'NNP', 'GPE', 'B') ('VA', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Robert A. Vanderhye Nixon & Vanderhye P.C. Arlington VA
+__NEW_SENT__
+('David', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Shouvlin', 'NNP', 'PERSON', 'I') ('Porter', 'NNP', '', 'O') ('Wright', 'NNP', '', 'O') ('Morris', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Arthur', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Columbus', 'NNP', 'GPE', 'B') ('OH', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+David P. Shouvlin Morris & Arthur LLP Columbus
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Costello', 'NNP', 'PERSON', 'I')
+David W. Costello
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Mescher', 'NNP', 'PERSON', 'I')
+Richard M. Mescher
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('RADER', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+MAYER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Ohio', 'NNP', 'GPE', 'B') ('found', 'VBD', '', 'O') ('Trintec', 'NNP', 'ORG', 'B') ('Industries', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('No._5818,717', 'NNP', 'ORG', 'I') ('(', '-LRB-', 'ORG', 'I') ('¡¬717_patent', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('inherently', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O')
+Ohio Trintec Industries Inc. 's United States Patent No._5818,717 ( ¡¬717_patent
+__NEW_SENT__
+('Trintec', 'NNP', 'GPE', 'B') ('Indus', 'NNP', '', 'O')
+Trintec
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('Top-U.S.A.', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Top-U.S.A. Corp.
+__NEW_SENT__
+('C-2-99-1179', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('S.D.Ohio', 'NNP', 'PERSON', 'B') ('Jun._19,_2001', 'NNP', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+S.D.Ohio Jun._19,_2001
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('717', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('inherently', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('vacates', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('remands', 'NNS', '', 'O')
+¡¬
+__NEW_SENT__
+('I.', 'NNP', 'ORG', 'B') ('Trintec', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬717_patent', 'NNP', '', 'O')
+I. Trintec
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('Brendon', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Nunes', 'NNP', 'PERSON', 'I') ('*1294', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬717_patent', 'NNP', '', 'O') ('application', 'NN', '', 'O') ('on', 'IN', '', 'O') ('June_2,_1993', 'NNP', 'GPE', 'B')
+Brendon G. Nunes June_2,_1993
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('717', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('cost-effective', 'JJ', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('producing', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('low_volume', 'NNP', '', 'O') ('multicolor_faces', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('watches', 'NNS', '', 'O') ('clocks', 'NNS', '', 'O') ('thermometers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('other_instruments', 'NNS', '', 'O')
+¡¬
+__NEW_SENT__
+('The', 'DT', '', 'O') ('method', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('graphic', 'JJ', '', 'O') ('instrument', 'NN', '', 'O') ('face', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('transmitting', 'VBG', '', 'O') ('electronic', 'JJ', '', 'O') ('signals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('color', 'NN', '', 'O') ('printer', 'NN', '', 'O') ('or', 'CC', '', 'O') ('photocopier', 'RBR', '', 'O') ('printing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('face', 'NN', '', 'O') ('on', 'IN', '', 'O') ('sheet', 'NN', '', 'O') ('material', 'NN', '', 'O') ('cutting', 'VBG', '', 'O') ('it', 'PRP', '', 'O') ('and', 'CC', '', 'O') ('assembling', 'VBG', '', 'O') ('it', 'PRP', '', 'O') ('into', 'IN', '', 'O') ('an', 'DT', '', 'O') ('instrument', 'NN', '', 'O')
+
+__NEW_SENT__
+('Top-U.S.A', 'NN', '', 'O')
+
+__NEW_SENT__
+('Corporation', 'NN', '', 'O') ('produces', 'VBZ', '', 'O') ('watches', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('clocks', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('customized', 'JJ', '', 'O') ('faces', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('has', 'VBZ', '', 'O') ('done', 'VBN', '', 'O') ('so', 'RB', '', 'O') ('for', 'IN', '', 'O') ('over', 'IN', '', 'O') ('eighteen', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I')
+eighteen years
+__NEW_SENT__
+('Initially', 'RB', 'PERSON', 'B') ('Top', 'NNP', 'PERSON', 'I') ('created', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('printed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('customized', 'JJ', '', 'O') ('graphics', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('pad', 'NN', '', 'O') ('printing', 'VBG', '', 'O') ('engraving', 'VBG', '', 'O') ('silk', 'NN', '', 'O') ('screening', 'NN', '', 'O') ('or', 'CC', '', 'O') ('photography', 'NN', '', 'O')
+Initially Top
+__NEW_SENT__
+('Those', 'DT', '', 'O') ('methods', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('expensive', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('required', 'VBN', '', 'O') ('extensive', 'JJ', '', 'O') ('set-up', 'CD', '', 'O') ('time', 'NN', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('these', 'DT', '', 'O') ('older', 'JJR', '', 'O') ('methods', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('ill-suited', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('small-volume', 'VB', '', 'O') ('custom', 'NN', '', 'O') ('design', 'NN', '', 'O') ('and', 'CC', '', 'O') ('printing', 'NN', '', 'O')
+
+__NEW_SENT__
+('Desktop', 'NNP', '', 'O') ('publishing', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('advent', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('late', 'JJ', 'DATE', 'I') ('1980s', 'NNS', 'DATE', 'I') ('mitigated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('design', 'NN', '', 'O') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('problem', 'NN', '', 'O') ('but', 'CC', '', 'O') ('high-resolution', 'JJ', '', 'O') ('color', 'NN', '', 'O') ('printing', 'NN', '', 'O') ('remained', 'VBD', '', 'O') ('prohibitively', 'RB', '', 'O') ('expensive', 'JJ', '', 'O')
+the late 1980s
+__NEW_SENT__
+('With', 'IN', '', 'O') ('color', 'NN', '', 'O') ('laser', 'NN', '', 'O') ('printer', 'NN', '', 'O') ('advances', 'VBZ', '', 'O') ('however', 'RB', '', 'O') ('Top', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('using', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('technology', 'NN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('custom', 'NN', '', 'O') ('watches', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('clocks', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('1995', 'CD', 'DATE', 'B')
+Top 1995
+__NEW_SENT__
+('Sweda', 'NNP', 'ORG', 'B') ('Company', 'NNP', 'ORG', 'I') ('LLC', 'NNP', 'ORG', 'I') ('also', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('customized', 'JJ', '', 'O') ('watch', 'NN', '', 'O') ('business', 'NN', '', 'O')
+Sweda Company LLC
+__NEW_SENT__
+('In', 'IN', '', 'O') ('a', 'DT', '', 'O') ('1991-92', 'CD', 'CARDINAL', 'B') ('catalogue', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Sweda_catalogue', 'NNP', 'ORDINAL', 'B') (')', '-RRB-', '', 'O') ('Sweda', 'NNP', 'ORG', 'B') ('advertised', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('availability', 'NN', '', 'O') ('at', 'IN', '', 'O') ('an', 'DT', '', 'O') ('inexpensive', 'JJ', '', 'O') ('price', 'NN', '', 'O') ('of', 'IN', '', 'O') ('small-volume', 'JJ', '', 'O') ('multi-color', 'NN', '', 'O') ('watches', 'NNS', '', 'O') ('produced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('laser', 'NN', '', 'O') ('printer', 'NN', '', 'O') ("''", "''", '', 'O')
+1991-92 Sweda_catalogue Sweda
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Sweda_catalogue', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬717_patent', 'NNP', 'LOC', 'B') ('during', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('prosecution', 'NN', '', 'O')
+¡¬717_patent
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('2', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('Trintec', 'NNP', 'GPE', 'B') ('asserted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬717_patent', 'NNP', '', 'O') ('against', 'IN', '', 'O') ('Top', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+November 2 1999 Trintec
+__NEW_SENT__
+('Trintec', 'NNP', 'GPE', 'B') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Top', 'NNP', '', 'O') ('infringed', 'VBD', '', 'O') ('independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('3_and_8', 'CD', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('associated', 'VBN', '', 'O') ('dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('4-5', 'CD', 'PRODUCT', 'B') ('12', 'CD', 'PRODUCT', 'I') ('and', 'CC', '', 'O') ('13', 'CD', 'CARDINAL', 'B')
+Trintec 3_and_8 4-5 12 13
+__NEW_SENT__
+('Trintec', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('intentional', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('validity', 'NN', '', 'O')
+Trintec
+__NEW_SENT__
+('Top', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('cross-motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('either', 'CC', '', 'O') ('were', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sweda_catalogue', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Sweda_catalogue', 'NNP', '', 'O') ('inherently', 'RB', '', 'O') ('anticipated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+
+__NEW_SENT__
+('Having', 'VBG', '', 'O') ('determined', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('anticipated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬717_patent', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('reach', 'VB', '', 'O') ('obviousness', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('with', 'IN', '', 'O') ('prejudice', 'NN', '', 'O')
+
+__NEW_SENT__
+('Trintec', 'NNP', 'ORG', 'B') ('appeals', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+Trintec
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2000', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1 2000
+__NEW_SENT__

@@ -1,0 +1,119 @@
+657_F.3d_1293
+United States Court of Appeals Federal Circuit
+MARKEM-IMAJE CORPORATION Plaintiff-Appellee v. ZIPHER LTD. and Videojet_Technologies Inc. Defendants-Appellants
+No._2010-1305
+| Sept._9,_2011
+| Rehearing Denied Oct._27,_2011
+Synopsis
+Background : Competitor brought action against patentee seeking a declaration that its product did not infringe a patent claiming a device for transfer_printing
+The United_States_District_Court for the District of New_Hampshire Paul J. Barbadoro J. entered summary_judgment for competitor and patentee appealed
+
+The Court of Appeals held that term `` drive the spools '' meant application of torque to the spools whether the torque causes rotation or resists it
+
+Vacated and remanded
+
+Newman Circuit Judge filed dissenting opinion
+
+Attorneys and Law Firms
+*1294 Kurt L. Glitzenstein Fish & Richardson P.C. of Boston MA argued for plaintiff-appellee
+With him on the brief was Michael Clark Lynn
+Kara F. Stoll Finnegan Henderson Farabow Garrett & Dunner LLP of Washington DC argued for defendants-appellants
+With her on the brief were J. Michael Jakes and Susan Y. Tull
+Of counsel was Joyce Craig
+Before NEWMAN CLEVENGER and LINN Circuit Judges
+Opinion
+Opinion for the court filed PER_CURIAM
+Dissenting opinion filed by Circuit Judge NEWMAN
+PER_CURIAM
+Markem-Imaje Corp. sued Zipher Ltd. and Videojet_Technologies Inc. ( together `` Zipher '' ) in the United_States_District_Court for the District of New_Hampshire requesting a declaratory judgment that Zipher 's U.S. Patent No._7150,572 ( the ¡¬572_patent ) is not infringed by Markem
+The district_court granted summary_judgment of noninfringement,1 and Zipher_appeals
+We conclude that the district_court erred in construing a critical claim term ; thus the summary_judgment of non-infringement is vacated and the case is remanded for further proceedings on the corrected claim construction
+
+THE PATENTED INVENTION
+The ¡¬572_patent entitled `` Tape Drive and Printing Apparatus '' describes and claims a device for transfer_printing
+In transfer_printing ink is carried by a ribbon that is moved into contact with the substrate to be printed and a print_head impresses upon the ribbon and causes the ink to transfer from the ribbon to the substrate
+In thermal transfer_printing the print_head is heated facilitating transfer and adherence of the ink to the substrate
+Thermal transfer printers are used for such tasks as printing on plastic packaging and other surfaces to which ink does not readily adhere
+In systems where the thermal printing is part of a mechanized and automated process the printing step must keep pace with the production line with minimal down time
+The ¡¬572_patent is directed to a heat transfer_printing apparatus that provides increased control over the acceleration deceleration *1295 speed and positional accuracy of the printing operation while minimizing waste of unused portions of the ink_ribbon
+
+In transfer printers in general the ink_ribbon is wound on two spools one spool for supplying the ribbon for positioning on the substrate and the other spool for taking up the ribbon after use
+The ¡¬572_patent explains that prior art transfer printers
+rely upon a wide range of different approaches to the problem of how to drive the ribbon_spools
+Some rely upon stepper_motors others on DC motors to directly or indirectly drive the spools
+Generally the known arrangements drive only the spool onto which ribbon is taken up ( the take-up spool ) and rely upon some form of `` slipping clutch '' arrangement on the spool from which ribbon is drawn ( the supply_spool ) to provide a resistive_force so as to ensure that the ribbon is maintained in tension during the printing and ribbon winding processes and to prevent ribbon overrun when the ribbon is brought to rest
+¡¬572_patent col.1 ll.33-44
+The patent states that `` It will be appreciated that maintaining adequate tension is an essential requirement for proper functioning of the printer ''
+Id
+col.1 ll.44-46
+The ¡¬572_patent is directed to an improvement in controlling the movement and tension of the ribbon
+
+Figure 1 of the ¡¬572_patent shows the two ribbon_spools 7_and_11 with ribbon 6 extending between them and passing under the print_head at 4 :
+
+?
+The patent specification explains the problems with the `` slipping clutch '' that has been used to provide ribbon_tension in prior art printers
+A slipping clutch provides a constant resistive torque to the supply_spool and the constant torque causes the tension in the ribbon to vary as the supply_spool outer diameter changes with the draw of ribbon
+The patent states that such dynamically changing ribbon_tension requires tight tolerances in clutch force which is difficult to maintain because wear in the clutch tends to change the resistive_force of the clutch
+Too much clutch force can break the ribbon or require more power to drive the ribbon and *1296 too little clutch force can cause the supply_spool to overrun
+The patent states : `` Given these constraints typical printer designs have compromised performance by way of limiting the rate of acceleration the rate of deceleration and the maximum speed capability of the ribbon transport system
+Overall printer performance has as a result been compromised ''
+Id
+col.1 l.66-col.2 l.4
+
+Examples of conventional clutch or drag-type drive mechanisms are discussed in the ¡¬572_patent including mechanisms in which instead of a slipping clutch a motor connected to the supply_spool supplies a resistive_force to provide ribbon_tension
+In another prior_apparatus a motor coupled to the supply_spool `` act [ s ] as a feedback transducer to enable appropriate control of the motor driving the take-up spool to take account of changing spool diameters while maintaining a constant ribbon speed ''
+Id
+col.2 ll.39-42
+The ¡¬572_patent distinguishes this prior_apparatus from what the ¡¬572_patent calls the `` push-pull '' mechanism of the ¡¬572 apparatus explaining that
+although this [ prior art ] arrangement does avoid the need for example of a capstan drive interposed between the two spools so as to achieve reliable ribbon delivery speeds only one of the motors is driven to deliver torque to assist ribbon transport
+There is no suggestion that the apparatus can operate in push-pull mode that is the motor driving the take-up spool operating to pull the ribbon and the motor driving the supply_spool operating to push the associated spool in a direction which assists tape transport
+Id
+col.2 ll.43-51
+
+In accordance with the `` push-pull '' mode of the ¡¬572_patent both the take-up spool and the supply_spool are driven to particular angular positions by stepper_motors that receive commands from a microcontroller
+The take-up spool rotates and takes up a given length of ribbon per rotation while the supply_spool is rotated to feed out the same length of ribbon independent of the constantly changing spool diameter
+Such an arrangement is not provided in the prior_devices and is described as solving various problems encountered with prior_devices
+
+As described in the ¡¬572_patent stepper_motors rotate by selectively energizing electromagnets around the outside of the motor referred to as the `` stator '' to interact with permanent magnets or electromagnets on the shaft or `` rotor '' of the motor
+Id
+col.20 ll.38-41
+Unlike DC ( direct current ) motors which are analog devices that simply rotate when power is supplied stepper_motors have discrete angular positions or `` steps '' and can be forced or driven to stay in particular step positions
+Zipher 's expert_witness Professor Kuc explained that an advantage of a stepper_motor is that `` when it 's still it 's got a holding torque to keep the ribbon in place ''
+Hearing Tr
+40:21-23 ( J.A
+340 )
+
+The holding torque results from the electromagnetic attraction between poles of the rotor and poles of the stator in an energized stepper_motor at rest
+When an external_torque ( resulting from tension in the print_ribbon ) is applied to the spools these electromagnetic forces create an opposing torque to keep the motor in its current angular position thereby maintaining tension in the print_ribbon
+If the motor 's maximum holding torque is exceeded by the external_torque the motor shaft will rotate ; thus `` holding torque '' also specifies the minimum amount of external_torque needed to rotate the shaft of a stepper_motor commanded to hold steady in its current position
+Markem 's expert_witness Peter Landers agreed with Zipher 's expert that when power is applied to a stepper_motor it is held in *1297 position so that even when the spool of the printer is not rotating it will `` hold the [ ribbon ] tension to the level it was set before ''
+Hearing Tr
+21:6-23:1 ( J.A
+321-23 )
+
+The ¡¬572_patent describes optically monitoring the radii of the spools and using the data `` to calculate the step rate and the number of steps required by each motor to drive the spools in an appropriate manner so as to feed the ribbon a predetermined distance ''
+Col.20 ll.25-28
+The patent explains that `` [ t ] ension in the ribbon between the two spools must however be closely controlled to avoid the tension becoming too high ( resulting in over tightening of the ribbon on the spools or even ribbon breakage ) or the tension becoming too low ( resulting in loss of positional control as a result of the ribbon becoming slack ) ''
+Id
+col.19 ll.32-38
+The ¡¬572_patent describes its method of estimating ribbon_tension ( t ) and explains how tension is maintained within predetermined limits : If the derived value of t is too high ( above a predetermined limit ) then a small step adjustment can be made to either or both of the motors to add a short_section of ribbon to the length of ribbon between the spools
+If the derived value of t is too low ( below a different predetermined limit ) then a short_section of ribbon can be removed from the length of ribbon between the spools.. [ M ] athematical processing results in a `` correction '' amount of ribbon that needs to be added to or removed from the ribbon path between the spools during the next ribbon feed
+This addition or removal of ribbon maintains ribbon_tension within acceptable limits
+Id
+col.22 ll.16-42
+Claim 1 the broadest claim of the ¡¬572_patent is directed to a tape drive that corrects tension divergences from the predetermined limit in this manner : 1
+A tape drive comprising : two motors at least one of which is a stepper_motor ; two tape spool supports on which spools of tape are mounted each spool being driveable by a respective one of said motors ; a controller adapted to control energization of said two motors such that tape is transported in at least one direction between spools of tape mounted on the spool supports ; wherein the controller energizes both said motors to drive the spools in a tape transport direction and
+said controller calculates a length of tape to be added to or subtracted from tape extending between said spools in order to maintain tension in said tape between predetermined limit values and controls said motors to drive the spools to add or subtract the calculated_length of tape to or from the tape extending between said spools
+Following a claim construction hearing the district_court construed `` driveable '' and `` drive '' to mean `` rotateable '' and `` rotate '' as proposed by Markem rejecting Zipher 's broader construction
+Markem 2008_WL_4116666 at *11
+The district_court explained in its reconsideration opinion that the use of the plural word `` spools '' in the claim clause `` to drive the spools to add or subtract the calculated_length of tape '' means that both spools must rotate
+Markem 2009_WL_2855011 at *1
+The court further explained that both spools must rotate to add or subtract a single calculated_length of tape
+Markem-Imaje 2010_WL_114947 at *1
+
+The operation of Markem 's accused devices was not disputed as the district_court explained : Although Markem 's tape drives rotate both spools during the tape_tension adjustment *1298 process only a single spool is rotated to achieve each adjustment
+If tape_tension is too low the take-up spool is rotated to decrease the length of tape between the spools and if tape_tension is too high the supply_spool is rotated to increase the length of tape between the spools
+Id
+Based on the district_court 's ruling that the term `` drive '' in the ¡¬572 claims requires that both spools are rotated together to adjust the tape the court granted summary_judgment of non-infringement
+Zipher_appeals stating that the judgment was based on an erroneous claim construction
+

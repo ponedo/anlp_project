@@ -1,0 +1,558 @@
+837_f.3d_1299
+united states court of appeals federal circuit
+mcro inc. dba planet blue plaintiff-appellant
+v. bandai namco games america inc. naughty_dog inc. konami digital entertainment inc. sega of america inc. electronic arts inc. obsidian entertainment inc. disney_interactive_studios inc. square_enix inc. neversoft_entertainment inc. treyarch_corporation capcom_usa inc. sony_computer_entertainment_america_llc atlus_u.s.a. inc. sucker_punch_productions llc infinity_ward inc. lucasarts a division of lucasfilm_entertainment_company_ltd._llc warner_bros._interactive_entertainment a division of warner bros. home entertainment inc. activision_publishing inc. blizzard_entertainment inc. valve corporation codemasters_usa_group inc. codemasters_software_inc. codemasters inc. the codemasters_software_company_limited defendants-appellees
+2015-1080 -1081 -1082 -1083 -1084 -1085 -1086 -1087 -1088 -1089 -1090 -1092 -1093 -1094 -1095 -1096 -1097 -1098 -1099 -1100 -1101
+| decided september 13 2016
+synopsis
+background owners of patents for automatically animating the lip_synchronization and facial_expressions of three-dimensional animated characters brought infringement actions and cases were consolidated
+the united_states_district_court for the central_district of california george h. wu j. 55_f.supp.3d_1214 granted defendants motion for judgment on the pleadings on unpatentability
+patent owners appealed
+
+holdings the court of appeals reyna circuit_judge held that
+
+`` first_set of rules' in patents were limited to rules evaluating sub-sequences consisting of multiple_sequential_phonemes
+
+patent claims were limited to rules with specific common characteristics i.e. genus rather than covering all rules ; and
+
+patent claim was not directed to abstract_idea and did not merely invoke generic_processes and machinery thus favoring patentability
+
+reversed and remanded
+
+*1302 appeals from the united_states_district_court for the central_district of california in nos._212-cv-10322-gw-ffm 2:12-cv-10323-gw-ffm 2:12-cv-10327-gw-ffm 2:12-cv-10329-gw-ffm 2:12-cv-10331-gw-ffm 2:12-cv-10333-gw-ffm 2:12-cv-10335-gw-ffm 2:12-cv-10337-gw-ffm 2:12-cv-10338-gw-ffm 2:12-cv-10341-gw-ffm 2:12-cv-10342-gw-ffm 8:13-cv-01870-gw-ffm 2:14-cv-00332-gw-ffm 2:14-cv-00336-gw-ffm 2:14-cv-00358-gw-ffm 2:14-cv-00383-gw-ffm 2:14-cv-00352-gw-ffm 2:14-cv-00417-gw-ffm 8:13-cv-01874-gw-ffm 2:14-cv-00389-gw-ffm 2:14-cv-00439-gw-ffm judge george h. wu
+attorneys and law firms
+jeffrey a. lamken mololamken llp washington dc argued for plaintiff-appellant
+also represented by michael gregory pattillo jr. ; john francis petrsoric mark stewart raskin robert alan whitman mishcon de reya new york llp new york ny ; john m. whealan chevy chase md
+sonal naresh mehta durie tangri llp san_francisco ca representing defendants-appellees electronic arts inc. capcom_usa inc. activision_publishing inc. blizzard_entertainment inc. argued for all defendants-appellees
+edward r. reines weil gotshal & manges llp redwood shores ca for defendants-appellees bandai namco games america inc. sega of america inc. disney_interactive_studios inc. neversoft_entertainment inc. treyarch_corporation atlus_u.s.a. inc. infinity_ward inc. lucasarts a division of lucasfilm_entertainment_company_ltd._llc warner_bros._interactive_entertainment a division of warner bros. home entertainment inc
+basil trent webb shook hardy & bacon llp kansas city mo for defendants-appellees naughty_dog inc. sony_computer_entertainment_america_llc sucker_punch_productions llc
+also represented by john d. garretson beth a. larigan
+wendy j. ray morrison & foerster llp los angeles ca for defendants-appellees konami digital entertainment inc. square_enix inc. also represented by benjamin j
+fox
+andrew david tsu spach capaldi & waggaman llp newport beach ca for defendant-appellee obsidian entertainment inc. also represented by thomas walling
+jan patrick weir michelman & robinson llp irvine ca for defendant-appellee valve corporation
+also represented by joseph james mellema ; theodore j. angelis david t. mcdonald k & l gates llp seattle wa
+kevin w. kirsch baker & hostetler llp cincinnati oh for defendants-appellees codemasters inc. codemasters_usa_group inc. codemasters_software_inc. the codemasters_software_company_limited
+also represented by jared a. brandyberry ; barry eastburn bretschneider washington dc
+charles duan public_knowledge washington dc for amici curiae public_knowledge electronic_frontier_foundation
+also represented by vera ranieri electronic_frontier_foundation san_francisco ca
+andrew john pincus mayer brown llp washington dc for amicus curiae bsa i the software alliance
+also represented by paul whitfield hughes
+before reyna taranto and stoll circuit_judges
+opinion
+reyna circuit_judge
+this appeal is from a grant of judgment on the pleadings under fed
+r. civ
+p. 12 c that the asserted claims of u.s. patent nos._6307,576` the576_patent` and 6,611,278` the278_patent` are invalid
+the united_states_district_court for the central_district of california found that the asserted claims are directed to patent-ineligible subject_matter and are therefore invalid under 35 u.s.c.¡± 101` ¡± 101'
+mcro inc. v. sony computer entm't am. llc 55_f.supp.3d_1214 c.d
+cal
+2014` patentability_op_.`
+we hold that the ordered combination of claimed steps *1303 using unconventional rules that relate sub-sequences of phonemes timings and morph_weight_sets is not directed to an abstract_idea and is therefore patent-eligible subject_matter under ¡± 101
+accordingly we reverse
+
+i
+background
+a
+factual background
+the576_patent and the278_patent were both issued to maury rosenfeld and are both titled` method for automatically animating lip synchronization and facial expression of animated characters'
+the278_patent is a continuation of the576_patent and shares the same written description
+
+1
+admitted prior art
+the patents relate to automating part of a preexisting 3-d animation method
+as explained in the background of the patents the admitted prior_art_method uses multiple 3-d models of a characters face to depict various facial_expressions made during speech
+see generally576_patent col. 1_l._14 to col. 2_l._37
+to animate the character as it speaks the method morphs the characters expression between the models
+the` neutral_model' is the 3-d representation of the resting neutral facial_expression of an animated character
+the other models of the characters face are known as` morph_targets' and each one represents that face as it pronounces a phoneme i.e. makes a certain sound
+this visual representation of the characters face making a sound is also called a` viseme'
+mcro_br
+7
+an example morph_target for the` ahh' phoneme is shown below
+each of these morph_targets and the neutral_model has identified points called` vertices' in certain places on the face
+the set of differences in the location of these vertices and the corresponding point on the face between the neutral_model and the morph_target form a` delta_set' of vectors representing the change in location of the vertices between the two models
+for each morph_target there is a corresponding_delta_set consisting of the vectors by which the vertices on that morph_target differ from the neutral_model
+
+*1304. ?
+defs
+br
+8.1
+facial expressions are described as a function of the amount each morph_target and its corresponding_delta_set is applied to modify the character_model
+`` in producing animation products a value usually from 0_to_1 is assigned to each delta_set by the animator and the value is called themorph_weight
+``576_patent col. 1_ll._63 -65
+the set of morph_weights for all the delta_sets is called a` morph_weight_set'
+the neutral_model is represented by a morph_weight_set with all morph_weights of 0
+a desired morph_target is represented by the morph_weight of 1 for that morph_targets delta_set and a morph_weight of 0 for all other delta_sets
+
+the power of this prior_art animation method is in generating intermediate faces by using morph_weights between 0_and_1 to blend together multiple morph_targets
+for example the face halfway between the neutral_model and the` oh' face can be expressed simply by setting the` oh' morph_weight to 0.5 i.e. 50 % as shown below at the left
+the model halfway to the next_syllable in turn could be expressed by setting both the` oh' morph_weight and that for the next_syllable each to 0.5 creating a blend of those two delta_sets
+mcro_br
+11 ; see also defs
+br
+8-11
+for each morph_weight_set the resulting facial_expression is calculated by determining the displacement of each vertex from the neutral_model as the product of the morph_weights in the morph_weight_set and the corresponding_delta_sets for the morph_targets
+'576_patent col. 2_ll._2 -15.2
+
+*1305. ?
+mcro_br
+11
+animation of the character and lip_synchronization preexisting the invention was generally accomplished by an animator with the assistance of a computer
+animators used` akeyframe approach where the artist set [ ] the appropriate [ morph ] weights at certain important timeskeyframes' instead of at every frame
+'576_patent col. 2_ll._31 -33
+animators knew what phoneme a character pronounced at a given time from a` time aligned phonetic transcription'` timed transcript'
+this listed the` occurrence in time' of each phoneme the character pronounced as shown in the example below
+id.at_col. 1_ll._32 -34
+
+*1306. ?
+mcro_br
+7
+animators using a computer manually determined the appropriate_morph_weight_sets for each keyframe based on the phoneme timings in the timed transcript
+`` for each keyframe the artist would look at the screen and relying on her judgment manipulate the character_model until it looked right-a visual and subjective process'
+mcro reply br
+4 emphasis removed ; defs
+br
+10` using the [ timed transcript ] the animator would decide what the animated face should look like at key_points in time between the start and end_times and thendraw the face at those times`
+because the pronounced phoneme and drawn keyframe corresponded in time this prior_art_process synchronized the lips and facial_expression of the 3-d character
+a computer program would then interpolate between the keyframes set by the animator creating the intermediate frames by determining the appropriate_morph_weight_sets at intermediate points in time simply based on continuously transitioning between the keyframes
+'576_patent col. 2_ll._32 -36
+
+2
+claimed invention
+the patents criticize the preexisting keyframe approach as` very tedious and time consuming as well as inaccurate due to the large number of keyframes necessary to depict speech'
+'576_patent col. 2_ll._35 -37
+they suggest the
+present invention overcomes many of the deficiencies of the prior_art and obtains *1307 its objectives by providing an integrated method embodied in computer_software for use with a computer for the rapid efficient lip_synchronization and manipulation of character facial_expressions thereby allowing for rapid creative and expressive animation products to be produced in a very cost effective manner
+id.at_col. 2_ll._38 -44
+`` accordingly it is the primary object of this invention to provide a method for automatically.. producing accurate and realistic_lip_synchronization and facial_expressions in animated characters'
+id.at_col. 2_ll._45 -50
+
+essentially the patents aim to automate a 3-d animators tasks specifically determining when to set keyframes and setting those keyframes
+this automation is accomplished through rules that are applied to the timed transcript to determine the morph_weight outputs
+the patents describe many exemplary rule sets that go beyond simply matching single phonemes from the timed transcript with the appropriate morph_target
+instead these rule sets aim to produce more realistic speech by` tak [ ing ] into consideration the differences in mouth positions for similar phonemes based on context'
+id.at_col. 10_ll._6 -7
+
+one exemplary_set of rules provided and applied in the specification of the576_patent is for a character transitioning from silence through saying` hello'
+see576_patent col. 7_l._36 to col. 9_l._22
+this exemplary_set of rules provides for inserting a transition starting shortly before the first_syllable after a silence
+id.at_col. 8_ll._24 -28
+the transition marks when the character begins to transition from silence shown by the closed-mouthed neutral_model to the morph_target for the first_syllable with its open-mouthed shape
+id.at_col. 8_ll._61 -63
+that is the rule automates a characters facial_expressions so the character will wait until shortly before it starts speaking to begin opening its mouth
+in terms of the prior_art_method the effect of this rule is to automatically create a keyframe at a point that no phoneme is being pronounced
+id.at_col. 9_ll._10 -11
+if instead no transition were placed at that position the resulting animation would have an unrealistic quality
+the character would open its mouth gradually from the beginning of the sequence through its first utterance as a result of the computer interpolating a continuous transition between those two points
+in the prior_art system an animator would have to subjectively identify the problematic sequence and manually fix it by adding an appropriate keyframe
+the invention however uses rules to automatically set a keyframe at the correct point to depict more realistic speech achieving results similar to those previously achieved manually by animators
+
+claim 1 of the576_patent is representative and dispositive of the asserted claims3 for the purposes of appeal a method for automatically animating lip_synchronization and facial_expression of three-dimensional_characters comprising obtaining a first_set of rules that define output_morph_weight set stream as a *1308 function of phoneme_sequence and time of said phoneme_sequence ; obtaining a timed data file of phonemes having a plurality of sub-sequences ; generating an intermediate_stream of output_morph_weight_sets and a plurality of transition_parameters between two adjacent morph_weight_sets by evaluating said plurality of sub-sequences against said first_set of rules ; generating a final_stream of output_morph_weight_sets at a desired frame rate from said intermediate_stream of output_morph_weight_sets and said plurality of transition_parameters ; and
+applying said final_stream of output_morph_weight_sets to a sequence of animated characters to produce lip_synchronization and facial_expression control of said animated characters
+'576_patent cl
+1 col. 11_ll._27 -47
+
+b
+procedural history
+in 2012_and_2013 plaintiff-appellant mcro inc. d/b/a planet blue` mcro' filed lawsuits in the u.s. district courts for the central_district of california and for the district of delaware
+the defendants are generally video game developers and publishers
+on january 15 2014 eight of the lawsuits originally filed in delaware were transferred to the central_district of california
+the five cases remaining in delaware are not part of this appeal but are stayed pending the resolution of this appeal.4
+
+the central_district of california` district_court' consolidated the proceedings there for pre-trial purposes on two tracks.5 it held a claim_construction hearing in the track 1 cases on april_29,_2014 and issued its rulings on claim construction on may_1,_2014
+j.a
+4009 4155-73.6
+
+c. district courts ¡± 101 ruling
+on july_10,_2014 all central_district of california defendants from both tracks` defendants' jointly filed a motion for judgment on the pleadings that the asserted claims were directed to patent_ineligible_subject_matter under ¡± 101
+patentability_op. 55 f.supp.3d at 1216
+after a hearing the district_court granted the motion on *big_token__1309_september_22__big_token 2014 finding the asserted claims unpatentable
+id.at 1230
+
+the district_courts analysis loosely tracks the two-step_framework laid out by the supreme court in alice corp. v. cls bank int l -- - u.s. -- -- 134_s.ct._2347 2355 189_l.ed.2d_296_(2014)` alice'
+first the district_court discussed the claims generally` facially these claims do not seem directed to an abstract_idea
+they are tangible each covering an approach to automated three-dimensional computer animation which is a specific technological_process'
+patentability_op. 55 f.supp.3d at 1224
+`` at first blush it is therefore difficult to see how the claims might implicate the basic underlying concern that these patents tie up too much future use of any abstract_idea they apply'
+id
+( quotation_marks omitted
+
+second the district_court attempted to` factor out conventional_activity' by comparing the claims to the admitted prior_art_process that the patent sought to improve
+id.at 1224
+the court accepted as undisputed that` a central part of the patents isusing morph_weight_set representations of the facial shape coupled with rules.. to generate keyframes
+`` id.at 1226
+the court then looked to` whether the inclusion of that concept in the claims satisfies ¡± 101 given 1 the prior_art and 2 the fact that the claims do not require any particular_rules'
+id
+
+after looking at each claim element in turn the district_court concluded` the claim adds to the prior_art.. the use of rules rather than artists to set the morph_weights and transitions between phonemes'
+id.at 1227
+nonetheless the district_court found the claims too broadly preemptive to satisfy ¡± 101
+in the district_courts view because the claims were not limited to specific_rules,7 but rather` purport to cover all such rules' the claims merely call for application of the abstract_idea of using rules
+id.at 1227 citing alice 134 s.ct.at 2358
+the district_court found that` while the patents do not preempt the field of automatic_lip_synchronization for computer-generated 3d animation they do preempt the field of such lip_synchronization using a rules-based morph_target approach'
+id.at 1227
+the court concluded that the claims were unpatentable because` the novel portions of [ the ] invention are claimed too broadly'
+id.at 1230
+
+the district_court entered judgment against mcro on october 31 2014
+j.a
+24-26
+mcro appeals
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+ii
+parties arguments
+the parties principal dispute is over the meaning and application of two supreme court cases in light of alice parker v. flook 437_u.s._584 98_s.ct._2522 57_l.ed.2d_451_(1978)` flook' and diamond v. diehr 450_u.s._175 101_s.ct._1048 67_l.ed.2d_155_(1981)` diehr'
+both cases addressed the patentability of process claims that include steps requiring calculation
+
+a. mcros position
+mcro argues that diehr controls the outcome here and dictates that the claims are not directed to an abstract_idea
+specifically mcro argues that the claims are not directed to an abstract_idea because they generate a tangible_product namely` a video of a 3-d character speaking the recorded audio'
+mcro_br
+38
+according to mcro the claimed process is technological because it provides` a method for getting a computer to automatically generate *1310 video of a 3-d animated character speaking in sync with pre-recorded dialogue-without requiring an artists constant intermediation'
+mcro_br
+42
+
+mcro argues that even if we find the claims are directed to an abstract_idea they are nonetheless patent eligible because they` effect an improvement in [ a ] technology or technical field' specifically 3-d computer generated lip-synchronization
+mcro_br
+43 quoting alice 134 s.ct.at 2359 citing diehr 450 u.s. at 177-78 101_s.ct._1048
+this improvement mcro argues results from its method that` employs specific types of rules' and uses those rules in` a specific technological way'
+mcro_br
+45 emphasis in original
+the claimed type of rules are only those` rules that define output_morph_weight set stream as a function of phoneme_sequence and time of said phoneme_sequence'
+id.at 46 quoting576_patent cl
+1 col. 11_ll._30 -32
+when applied in mcros interpretation these rules must` adjust for the fact that a phoneme may look different when spoken depending on the phonemes preceding and/or following it'
+mcro_br
+46
+
+these limitations are specific enough in mcros view because the rules will necessarily vary by character as for example` a swamp monster will use different rules than a tight-lipped cat'
+id.at 46
+mcro argues that its claims can not preempt the field because other techniques exist that automate facial synchronization by capturing actors facial motions and applying those motions to 3-d animated characters
+mcro_br
+50 citing barbara robertson big moves computer graphics world nov. 2006 available at http //www.cgw.com/publications/cgw/2006/volume-29-issue-11-nov-2006-/big-moves.aspx8
+
+b
+defendants position
+defendants argue that flook controls because the claims are unpatentable algorithms that` can be performed solely with pencil and paper'
+defs
+br
+28
+the claims in defendants view` merely purport to take a preexisting process and make it faster by automating it on a general-purpose computer'
+defs
+br
+19
+defendants argue that these claims fail even under diehr because they do not result in any tangible_product instead only producing a` stream of output_morph_weight_sets' that are applied` to produce lip_synchronization' without requiring the production of anything tangible like a video
+'576_patent claim 1 col. 11_ll._44 -47 ; defs
+br
+30
+even if specific processing steps are required defendants argue the claims remain directed to an abstract_idea because they only require using` mathematical algorithms to manipulate existing information to generate additional information'
+defs
+br
+34 quoting digitech image techs. llc v. elecs
+for imaging inc. 758_f.3d_1344 1351 fed
+cir
+2014
+
+echoing the district_court defendants fault the claims for not specifically claiming particular_rules and instead requiring that the user provide the rules
+defs
+br
+40-42 ; see also patentability_op. 55 f.supp.3d at 1227 1230
+defendants dispute that the claimed rules depend on the preceding or succeeding phonemes i.e. sub-sequences of phonemes and fault mcro for failing to raise this interpretation as a claim_construction issue before the district_court
+defs
+br
+43-44
+defendants claim broad_preemption occurs because the rules only reflect relationships` that any intelligible lip-synchronization *1311 process must consider'
+id.at 50 emphasis original
+the relationships expressed by these rules defendants argue inevitably capture` a preexisting fundamental truth' about how a human mouth looks while speaking certain sounds over time preempting all possible rules-based methods
+alice 134 s.ct.at 2356 ; see defs
+br
+16 49-51.9
+
+iii
+standard of review
+we review procedural aspects of the grant of judgment on the pleadings under the law of the regional circuit in this case the ninth_circuit allergan inc. v. athena cosmetics inc. 640_f.3d_1377 1380 fed
+cir
+2011
+the ninth_circuit reviews the grant or denial of judgment on the pleadings under rule 12 c de novo
+kotrous v. goss-jewett co. 523_f.3d_924 929 9th cir
+2008
+we also review de novo whether a claim is invalid under the judicially created exceptions to ¡± 101
+ariosa_diagnostics inc. v. sequenom inc. 788_f.3d_1371 1375 fed
+cir
+2015
+
+iv
+discussion
+a
+claim interpretation
+as an initial matter we note that in this case claim_construction is helpful to resolve the question of patentability under ¡± 101
+specifically the parties dispute about whether the` first_set of rules' must evaluate sequential phonemes or can evaluate individual_phonemes is resolved by the claim_language
+we agree with mcro that the claims are limited to rules that evaluate sub-sequences consisting of multiple_sequential_phonemes
+this limitation is apparent on the face of the claims
+see phillips v. awh corp. 415_f.3d_1303 1314 fed
+cir
+2005 en banc
+in particular the intermediate morph_weight_sets and transition_parameters are generated` by evaluating said plurality of sub-sequences against said first_set of rules'
+'576_patent cl
+1 col. 11_ll._36 -39.10 this limitation could not be satisfied by rules that only evaluate individual_phonemes
+instead the claimed` first_set of rules' must be formulated to evaluate sub-sequences of phonemes.11
+
+b. patentability under ¡± 101
+section 101 defines patent eligible subject_matter as` any new and useful process machine manufacture or composition of matter or any new and useful improvement thereof' subject to the other limitations of the patent_act
+apart from the patent_act the courts have created exceptions to the literal scope of ¡± 101
+`` laws of nature natural_phenomena and abstract_ideas are not patentable'
+alice 134 s.ct.at 2354 quoting ass n for molecular pathology v. myriad genetics inc. -- - u.s. -- -- 133_s.ct._2107 2116 186_l.ed.2d_124_(2013)` myriad'
+this appeal involves the abstract_idea_exception
+
+in alice the court applied a two-step_framework for analyzing whether *1312 claims are patent eligible
+first we determine whether the claim at issue is` directed to' a judicial exception such as an abstract_idea
+alice 134 s.ct.at 2355
+mathematical formulas are a type of abstract_idea
+gottschalk v. benson 409_u.s._63 64 93_s.ct._253 34_l.ed.2d_273_(1972)` benson'
+the abstract_idea_exception prevents patenting a result where` it matters not by what process or machinery the result is accomplished'
+o'reilly v. morse 56 u.s. 15 how
+62 113 14_l.ed._601_(1854)
+we do not assume that such claims are directed to patent_ineligible_subject_matter because` all inventions at some level embody use reflect rest upon or apply laws of nature natural_phenomena or abstract_ideas'
+mayo collaborative servs
+v. prometheus labs. inc. -- - u.s. -- -- 132_s.ct._1289 1293 182_l.ed.2d_321_(2012)` mayo' ; see also in re tli_commc'ns llc patent litig. 823_f.3d_607 611 fed
+cir
+2016` tli_commc'ns'
+instead` the claims are considered in their entirety to ascertain whether their character as a whole is directed to excluded subject_matter'
+internet patents corp. v. active network inc. 790_f.3d_1343 1346 fed
+cir
+2015
+if the claims are not directed to an abstract_idea the inquiry ends
+if the claims are` directed to' an abstract_idea then the inquiry proceeds to the second step of the alice framework
+
+in step two we consider whether the claims contain an` inventive concept' sufficient to` transform the nature of the claim into a patent-eligible application'
+alice 134 s.ct.at 2355 quotation omitted
+to do so we look to both the claim as a whole and the individual claim elements to determine whether the claims contain` an element or combination of elements that issufficient to ensure that the patent in practice amounts to significantly more than a patent upon the [ ineligible concept ] itself
+`` id
+( quoting mayo 132 s.ct.at 1294 alteration in original
+
+in alice the court applied some of its ¡± 101 jurisprudence that preceded the two-step_framework including flook and diehr
+in flook claims requiring the use of a specific equation were unpatentable because they` simply provide [ d ] a new and presumably better method of calculating alarm limit values'
+flook 437 u.s. at 594-95 98_s.ct._2522
+the mathematical` formula itself was an abstract_idea' and` the computer implementation was purely conventional' because` theuse of computers for` automatic monitoring-alarming` waswell known'
+alice 134 s.ct.at 2358 quoting flook 437 u.s. at 594 98_s.ct._2522
+`` flook stands for the proposition that the prohibition against patenting abstract_ideas can not be circumvented by attempting to limit the use of [ the idea ] to a particular technological environment'
+alice 134 s.ct.at 2358 quoting bilski v. kappos 561_u.s._593 610-611 130_s.ct._3218 177_l.ed.2d_792_(2010)` bilski' internal quotation_marks omitted
+
+the claims in diehr in contrast were patentable
+the claims likewise` employed awell-known mathematical equation'
+alice 134 s.ct.at 2358 quoting diehr 450 u.s. at 177 101_s.ct._1048
+a computer performed the calculations as part of a broader process for curing rubber but` the process as a whole [ did ] not thereby become unpatentable subject_matter'
+diehr 450 u.s. at 187 101_s.ct._1048
+instead the court looked to how the claims` used that equation in a process designed to solve a technological problem inconventional_industry_practice
+`` alice 134 s.ct.at 2358 quoting diehr 450 u.s. at 178 101_s.ct._1048
+when looked at as a whole` the claims in diehr were patent eligible because they improved an existing technological_process not because they *1313 were implemented on a computer'
+alice 134 s.ct.at 2358
+
+1
+specific limitations
+the district_court determined that claim 1 of the567_patent is` drawn to the [ abstract ] idea of automated rules-based use of morph_targets and delta_sets for lip-synchronized three-dimensional animation'
+patentability_op. 55 f.supp.3d at 1226
+we disagree
+we have previously cautioned that courts` must be careful to avoid oversimplifying the claims' by looking at them generally and failing to account for the specific requirements of the claims
+tli_commc'ns 823 f.3d at 611 ; see also diehr 450 u.s. at 189 n.12 101_s.ct._1048
+here the claims are limited to rules with specific characteristics
+as the district_court recognized during claim_construction` the claims themselves set out meaningful requirements for the first_set of rules theydefine [ ] a morph_weight_set stream as a function of phoneme_sequence and times associated with said phoneme_sequence
+`` j.a
+4171 dist
+ct
+claim construction op
+16 quoting567_patent cl
+1
+they further require` applying said first_set of rules to each sub-sequence.. of timed phonemes'
+id
+whether at step one or step two of the alice test in determining the patentability of a method a court must look to the claims as an ordered combination without ignoring the requirements of the individual steps
+the specific claimed features of these rules allow for the improvement realized by the invention
+
+as the specification confirms the claimed improvement here is allowing computers to produce` accurate and realistic_lip_synchronization and facial_expressions in animated characters' that previously could only be produced by human animators
+'576_patent col. 2_ll._49 -50
+as the district_court correctly recognized this computer automation is realized by improving the prior_art through` the use of rules rather than artists to set the morph_weights and transitions between phonemes'
+patentability_op. 55 f.supp.3d at 1227
+the rules are limiting in that they define morph_weight_sets as a function of the timing of phoneme sub-sequences
+see e.g.576_patent col. 3_ll._19 -33
+defendants do not dispute that processes that automate tasks that humans are capable of performing are patent eligible if properly claimed ; instead they argue that the claims here are abstract because they do not claim specific_rules.12 this argument echoes the district_courts finding that the claims improperly purport to cover all rules
+patentability_op. at 1227
+the claimed rules here however are limited to rules with certain common characteristics i.e. a genus
+
+claims to the genus of an invention rather than a particular species have long been acknowledged as patentable
+e.g. diamond v. chakrabarty 447_u.s._303 305 100_s.ct._2204 65_l.ed.2d_144_(1980) patentable claim to` a bacterium from the genus pseudomonas containing therein at least two stable energy-generating plasmids each of said plasmids providing a separate hydrocarbon degradative pathway`
+patent law has evolved to place additional requirements on patentees seeking to claim a genus ; however these limits have not been in relation to the abstract_idea_exception to ¡± 101
+rather they have principally been in terms of whether the patentee has satisfied the *1314 tradeoff of broad disclosure for broad claim scope implicit in 35 u.s.c.¡± 112
+e.g. carnegie mellon univ
+v. hoffmann-la roche inc. 541_f.3d_1115 1122 fed
+cir
+2008
+it is self-evident that genus claims create a greater risk of preemption thus implicating the primary concern driving ¡± 101 jurisprudence but this does not mean they are unpatentable
+
+the preemption concern arises when the claims are not directed to a specific invention and instead improperly monopolize` the basic tools of scientific and technological work'
+alice 134 s.ct.at 2354 quoting myriad 133 s.ct.at 2116
+the abstract_idea_exception has been applied to prevent patenting of claims that abstractly cover results where` it matters not by what process or machinery the result is accomplished'
+morse 56 u.s. at 113 ; see also mayo 132 s.ct.at 1301
+`` a patent is not good for an effect or the result of a certain process' because such patents` would prohibit all other persons from making the same thing by any means whatsoever'
+le roy v. tatham 55 u.s. 14 how
+156 175 14_l.ed._367_(1853)
+a patent may issue` for the means or method of producing a certain result or effect and not for the result or effect produced'
+diehr 450_u.s._175 182 n.7 101_s.ct._1048
+we therefore look to whether the claims in these patents focus on a specific means or method that improves the relevant technology or are instead directed to a result or effect that itself is the abstract_idea and merely invoke generic_processes and machinery
+enfish llc v. microsoft corp. 822_f.3d_1327 1336 fed
+2016` enfish' ; see also rapid_litig mgmt ltd. v. cellzdirect inc. 827_f.3d_1042 1048 fed
+2016` enfish' ; see also rapid_litig
+cir
+2016
+
+2
+claims directed to
+claim 1 of the576_patent is focused on a specific asserted improvement in computer animation i.e. the automatic use of rules of a particular type
+we disagree with defendants arguments that the claims simply use a computer as a tool to automate conventional_activity
+while the rules are embodied in computer_software that is processed by general-purpose computers defendants provided no evidence that the process previously used by animators is the same as the process required by the claims
+see defs
+br
+10-15 39-40
+in support defendants point to the background section of the patents but that information makes no suggestion that animators were previously employing the type of rules required by claim 1
+defendants concede an animators process was driven by subjective determinations rather than specific limited mathematical rules
+the prior_art` animator would decide what the animated face should look like at key_points in time between the start and end_times and thendraw the face at those times'
+defs
+br
+10
+the computer here is employed to perform a distinct process to automate a task previously performed by humans
+mcro states that animators would initially set keyframes at the point a phoneme was pronounced to represent the corresponding morph_target as a starting point for further fine tuning
+j.a
+3573_at_853 mcros claim construction presentation
+this activity even if automated by rules would not be within the scope of the claims because it does not evaluate sub-sequences generate transition_parameters or apply transition_parameters to create a final morph_weight_set
+it is the incorporation of the claimed rules not the use of the computer that` improved [ the ] existing technological_process' by allowing the automation of further tasks
+alice 134 s.ct.at 2358
+this is unlike flook bilski and alice where the claimed computer-automated process and the prior method were carried out in the same way
+flook 437 u.s. at 585-86 98_s.ct._2522 ; *1315 bilski 561 u.s. at 611 130_s.ct._3218 ; alice 134 s.ct.at 2356
+
+further the automation goes beyond merely` organizing [ existing ] information into a new form' or carrying out a fundamental economic practice
+digitech 758 f.3d at 1351 ; see also alice 134 s.ct.at 2356
+the claimed process uses a combined order of specific_rules that renders information into a specific format that is then used and applied to create desired results a sequence of synchronized animated characters
+while the result may not be tangible there is nothing that requires a method` be tied to a machine or transform an article' to be patentable
+bilski 561 u.s. at 603 130_s.ct._3218 discussing 35 u.s.c.¡± 100 b
+the concern underlying the exceptions to ¡± 101 is not tangibility but preemption
+mayo 132 s.ct.at 1301
+
+the limitations in claim 1 prevent preemption of all processes for achieving automated lip-synchronization of 3-d characters
+mcro has demonstrated that motion capture animation provides an alternative process for automatically animating lip_synchronization and facial_expressions
+even so we have recognized that` the absence of complete preemption does not demonstrate patent_eligibility'
+ariosa_diagnostics inc. v. sequenom inc. 788_f.3d_1371 1379 fed
+cir
+2015
+the narrower concern here is whether the claimed genus of rules preempts all techniques for automating 3-d animation that rely on rules
+claim 1 requires that the rules be rendered in a specific way as a relationship between sub-sequences of phonemes timing and the weight to which each phoneme is expressed visually at a particular timing as represented by the morph_weight_set
+the specific structure of the claimed rules would prevent broad_preemption of all rules-based means of automating lip_synchronization unless the limits of the rules themselves are broad enough to cover all possible approaches.13 there has been no showing that any rules-based lip-synchronization_process must use rules with the specifically claimed characteristics
+
+defendants attorneys argument that any rules-based lip-synchronization_process must use the claimed type of rules has appeal but no record evidence supports this conclusion
+defendants again rely only on the patents description of one type of rules but the description of one set of rules does not mean that there exists only one set of rules and does not support the view that other possible types of rules with different characteristics do not exist
+the only information cited to this court about the relationship between speech and face shape points to the conclusion that there are many other possible approaches to automating lip_synchronization using rules
+for example amicus cites kiyoshi honda physiological processes of speech processing in springer handbook of speech production 7 jacob benesty et al
+eds. 2008` honda' as support for the proposition that the claimed rules reflect natural laws
+amicus_public_knowledge_br
+12
+honda shows however that the interaction between vocalization and facial_expression is very complex and there are relationships present other than those required by the claimed rules
+honda at 24` physiological processes during speech are multidimensional in nature as described in this chapter`
+this complex interaction permits development of alternative rules-based methods of animating lip_synchronization and facial_expressions of three-dimensional_characters such as simulating the muscle action underlying *1316 characters facial_expressions
+under these circumstances therefore we need not assume that future alternative discoveries are foreclosed
+
+here the structure of the limited_rules reflects a specific implementation not demonstrated as that which` any [ animator ] engaged in the search for [ an automation process ] would likely have utilized'
+myriad 133 s.ct.at 2119-20 quotation_marks omitted
+by incorporating the specific features of the rules as claim limitations claim 1 is limited to a specific process for automatically animating characters using particular information and techniques and does not preempt approaches that use rules of a different structure or different techniques
+see morse 56 u.s. at 113
+when looked at as a whole claim 1 is directed to a patentable technological improvement over the existing manual 3-d animation techniques
+the claim uses the limited_rules in a process specifically designed to achieve an improved technological result in conventional_industry_practice
+alice 134 s.ct.at 2358 citing diehr 450 u.s. at 177 101_s.ct._1048
+claim 1 of the576_patent therefore is not directed to an abstract_idea
+
+because we find that claim 1 is not directed to ineligible subject_matter we do not reach alice step two
+enfish 822 f.3d at 1339
+
+v. conclusion
+claim 1 is not directed to an abstract_idea and recites subject_matter as a patentable process under ¡± 101
+accordingly we reverse and hold that claims 1 7-9 and 13 of the576_patent and claims 1-4 6 9 13 and 15-17 of the278_patent are patentable under 35 u.s.c.¡± 101
+
+reversed and remanded
+
+costs
+no costs
+
+all citations
+837_f.3d_1299 120_u.s.p.q.2d_1091
+footnotes
+1
+the images in this opinion are drawn from mcros claim_construction tutorial presented to the district_court j.a
+3573 excerpts of which are used by both parties to explain the prior_art_method
+defendants dispute mcros depiction of the claimed method in that tutorial and we do not rely on any of those depictions
+see defs
+br
+46
+2. ?
+3
+mcro has asserted claims 1 7-9 and 13 of the576_patent and claims 1-4 6 9 13 and 15-17 of the278_patent
+the district_court focused its analysis on claim 1 of the576_patent as representative
+it held that neither the different text of the other independent claims nor the added limitations of the dependent claims in either patent affected the result regarding patentability
+patentability_op. 55 f.supp.3d at 1228-29
+the parties do not dispute this conclusion or separately argue any other claims
+see mcro_br
+19 ; defs
+br
+40 n.12
+we agree and focus our discussion on this claim
+4
+mcro inc. v. bethesda softworks llc no._12- cv-1509 d
+del
+) ; mcro inc. v. harmonix music sys inc. no._12- cv-1510 d
+del
+) ; mcro inc. v. rockstar games inc. no._12- cv-1513 d
+del
+) ; mcro inc. v. take-two interactive software inc. no._12- cv-1517 d
+del
+) ; mcro inc. v. 2k games inc. no._12- cv-1519 d
+del
+5
+the track 1 cases at the time the district_court issued its judgment on pleadings were mcro inc. v. namco bandai games am. inc. cv-12-10322 ; mcro inc. v. konami digital entm't inc. cv-12-10323 ; mcro inc. v. sega of am. inc. cv-12-10327 ; mcro inc. v. elec
+arts inc. cv-12-10329 ; mcro inc. v. obsidian entm't inc. cv-12-10331 ; mcro inc. v. disney_interactive_studios inc. cv-12-10333 ; mcro inc. v. naughty_dog inc. cv-12-10335 ; mcro inc. v. capcom_usa inc. cv-12-10337 ; mcro inc. v. square_enix inc. cv-12-10338 ; mcro inc. v. neversoft entm't inc. cv-12-10341 ; mcro inc. v. treyarch corp. cv-12-10342 ; mcro inc. v. atlus_u.s.a. et al. cv-13-1870 ; mcro inc. v. sucker punch prod.s llc cv-14-0332 ; mcro inc. v. activision blizzard inc. cv-14-0336 ; mcro inc. v. infinity_ward inc. cv-14-0352 ; mcro inc. v. lucasarts entm't co. cv-14-358 ; mcro inc. v. sony comput
+entm't am. llc cv-14-0383 ; mcro inc. v. warner bros. interactive entm't inc. cv-14-0417
+the track 2 cases were mcro inc. v. valve corp. cv-13-1874 ; mcro inc. v. codemasters usa grp. inc. cv-14-0389 ; mcro inc. v. codemasters inc. cv-14-0439
+patentability_op. 55 f.supp.3d at 1216 n.1
+6
+the parties do not argue that any of the district_courts constructions affect patent_eligibility or contest the constructions arrived at by the district_court
+the parties raise two unrelated claim interpretation issues on appeal discussed below
+7
+the claim term is` first_set of rules' but we will follow the shorthand adopted by the district_court and parties of referring to the` rules' or` claimed rules'
+8
+defendants do not dispute this is an alternative method for automatic_lip_synchronization of 3-d animated characters ; instead they argue that` this technology is not remotely similar to the patented technology'
+defs
+br
+53
+9
+amicus similarly argues that the claims are directed to a natural phenomenon instead of an abstract_idea specifically` the movement of the mouth to articulate sounds'
+amicus_public_knowledge_br
+11 ; see also defs
+br
+26
+10
+the limitation with the same effect in independent claim 1 of the278_patent is` applying said first_set of rules to each sub-sequence' at column 11_lines_53 -54
+11
+the parties also dispute whether the rules must take into account the pacing of speech based on the` and time of said phoneme_sequence' limitation
+resolution of this question is neither necessary to resolve of the issues on appeal nor indisputably resolved by the claim_language
+we therefore decline to address this issue in the first instance and express no opinion on whether mcro has waived these arguments or is bound by them for purposes of infringement
+12
+see e.g. hearing tr.at 14:00-15:09 defendants counsel acknowledging that a process for autopilot or facial recognition using rules could be patented but arguing the claims here are unpatentable because they do not claim specific_rules available at http //oralarguments.cafc.uscourts.gov/default.aspx ? fl=2015-1080.mp3
+13
+this is not a case where the patentees principal contribution was in discovering relationships that existed in nature e.g. myriad 133 s.ct.at 2112 ; animators were previously able to naturally depict the relationship between speech timing and facial_expression
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only mcro inc. v. bandai namco games america inc. 837_f.3d_1299 2016 120_u.s.p.q.2d_1091
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

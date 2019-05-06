@@ -1,0 +1,429 @@
+('208_F.3d_989', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('UNION', 'NNP', 'ORG', 'B') ('OIL', 'NNP', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('OF', 'IN', '', 'O') ('CALIFORNIA', 'NNP', 'GPE', 'B') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('ATLANTIC', 'NNP', '', 'O') ('RICHFIELD', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('Chevron', 'NNP', '', 'O') ('U.S.A.', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Exxon', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('Mobil', 'NNP', 'ORG', 'I') ('Oil', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('Shell', 'NNP', 'ORG', 'I') ('Oil', 'NNP', 'ORG', 'I') ('Products', 'NNPS', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Texas', 'NNP', 'ORG', 'B') ('Refining', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Marketing', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No._99-1066', 'NNP', '', 'O')
+UNION OIL COMPANY CALIFORNIA Exxon Corporation Mobil Oil Corporation Shell Oil Products Company Texas Refining and Marketing Inc.
+__NEW_SENT__
+('|', 'UH', '', 'O') ('March_29,_2000', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('May_18,_2000', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Petroleum', 'NN', '', 'O') ('refiners', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'VB', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('automotive_gasoline_compositions', 'NNPS', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('automobile_tailpipe_emissions', '.', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('alleging', 'VBG', '', 'O') ('willful_infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('declaratory_judgment_action', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('effectively', 'RB', '', 'O') ('converted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('infringement_defense', 'JJ', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('on', 'IN', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('denied', 'VBD', '', 'O') ('refiners', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+United_States_District_Court California JMOL
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('34_F.Supp.2d_1208', 'NNP', '', 'O') ('34_F.Supp.2d_1222', 'NNP', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('awarded', 'VBN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+The District Court
+__NEW_SENT__
+('Refiners', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent_claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('compositions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('matter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('limited', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('only', 'RB', '', 'O') ('certain', 'JJ', '', 'O') ('uses', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('compositions', 'NNS', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent_claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') (';', ',', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('adequate', 'JJ', '', 'O')
+The Court of Appeals Rader Circuit_Judge 1 2 3
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Lourie', 'JJ', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('dissented', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+Lourie Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*991', 'NNP', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Ciresi', 'NNP', 'PERSON', 'I') ('Robins', 'NNP', '', 'O') ('Kaplan', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Ciresi', 'NNP', '', 'O') ('L.L.P.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', 'ORG', 'B') ('Minnesota', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Michael V. Ciresi Minneapolis Minnesota
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Martin', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Lueck', 'NNP', 'PERSON', 'I') ('David', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Beehler', 'NNP', 'PERSON', 'I') ('Tracy', 'NNP', '', 'O') ('A.', 'NN', '', 'O') ('Sykes', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Diane', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Simerson', 'NNP', 'PERSON', 'I')
+Martin R. Lueck David W. Beehler Diane L. Simerson
+__NEW_SENT__
+('E.', 'NNP', 'PERSON', 'B') ('Edward', 'NNP', 'PERSON', 'I') ('Bruce', 'NNP', 'PERSON', 'I') ('Covington', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Burling', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+E. Edward Bruce Covington & Burling Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Christopher', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Sipes', 'NNP', 'PERSON', 'I')
+Christopher N. Sipes
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Donald', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Jakes', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', '', 'O') ('Farabow', 'NNP', '', 'O') ('Garrett', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Dunner', 'NNP', '', 'O') ('L.L.P.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I')
+Donald R. Dunner J. Michael Jakes Finnegan Washington DC
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Harry', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Marcus', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bartholomew', 'NNP', 'ORG', 'B') ('Verdirame', 'NNP', 'ORG', 'I') ('Morgan', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Finnegan', 'NNP', 'ORG', 'I') ('L.L.P.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('New_York', 'NN', 'ORG', 'I')
+Harry C. Marcus Bartholomew Verdirame Morgan & Finnegan L.L.P. New_York New_York
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('LOURIE', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('RADER', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', '', 'O') ('RADER', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Circuit_Judge', 'NNP', '', 'O') ('LOURIE', 'VBZ', '', 'O') ('dissents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('appellants', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Judgment', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Matter', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Law', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('overturn', 'VB', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('verdicts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('willful_infringement', 'NN', '', 'O')
+United_States_District_Court California JMOL
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Union_Oil_Co.', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Cal', 'NNP', '', 'O')
+
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('Atlantic_Richfield_Co.', 'UH', '', 'O') ('No', 'UH', '', 'O')
+
+__NEW_SENT__
+('CV-95-2379-KMW', 'NNP', '', 'O') ('slip', 'VBP', '', 'O') ('op.at', 'NNP', '', 'O') ('1', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('C.D.Cal', 'NN', '', 'O')
+
+__NEW_SENT__
+('Mar._10,_1998', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Unocal_I', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('motion', 'NN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Atlantic', 'NNP', 'ORG', 'I') ('Richfield', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('asserted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Union', 'NNP', 'ORG', 'B') ('Oil', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('(', '-LRB-', '', 'O') ('Unocal', 'NNP', 'ORG', 'B') (')', '-RRB-', 'ORG', 'I') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('No._5288,393', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ("'393_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±¡±', 'NN', '', 'O') ('102_and_112_(1994)', 'CD', '', 'O')
+JMOL the Atlantic Richfield Company Union Oil Company California Unocal ) United States Patent No._5288,393 35
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Unocal', 'NNP', 'ORG', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('commit', 'VB', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Unocal the U.S. Patent and Trademark Office
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Union_Oil_Co.', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Cal', 'NNP', '', 'O')
+
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('Atlantic_Richfield_Co.', 'UH', '', 'O') ('34_F.Supp.2d_1208', 'CD', 'DATE', 'B') ('1222', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('C.D.Cal.1998', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Unocal_II', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+34_F.Supp.2d_1208 1222
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('show', 'VB', '', 'O') ('a', 'DT', '', 'O') ('reversible', 'JJ', '', 'O') ('flaw', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('verdict', 'NN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('on', 'IN', '', 'O') ('¡±¡±', '$', '', 'O') ('102_and_112', 'CD', '', 'O') ('issues', 'NNS', '', 'O')
+JMOL
+__NEW_SENT__
+('Similarly', 'RB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('discretionary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('no', 'DT', '', 'O') ('inequitable_conduct.1', 'NN', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'PERSON', 'B') ('Unocal', 'NNP', 'PERSON', 'I') ('owns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('automotive_gasoline_compositions', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('reduce', 'VBP', '', 'O') ('automobile_tailpipe_emissions', '.', '', 'O')
+I. Unocal
+__NEW_SENT__
+('Unocal', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('original', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('contained', 'VBD', '', 'O') ('82', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O')
+Unocal 82
+__NEW_SENT__
+('As', 'IN', '', 'O') ('is', 'VBZ', '', 'O') ('often', 'RB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('course', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('added', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('canceled', 'VBD', '', 'O') ('many', 'JJ', '', 'O') ('claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Ultimately', 'RB', '', 'O') ('155', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O') ('issued', 'VBN', '', 'O') ('but', 'CC', '', 'O') ('Unocal', 'NNP', 'ORG', 'B') ('later', 'RB', '', 'O') ('disclaimed', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('but', 'IN', '', 'O') ('the', 'DT', '', 'O') ('forty-one', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') (':', ':', '', 'O') ('claims', 'VBZ', '', 'O') ('20', 'CD', 'CARDINAL', 'B') ('53', 'CD', 'CARDINAL', 'I') ('54', 'CD', 'CARDINAL', 'I') ('56', 'CD', '', 'O') ('57', 'CD', 'CARDINAL', 'B') ('71-75', 'CD', '', 'O') ('78', 'CD', 'CARDINAL', 'B') ('79', 'CD', '', 'O') ('81', 'CD', '', 'O') ('112-16', 'CD', '', 'O') ('117', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('multiply', 'RB', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('53', 'CD', 'CARDINAL', 'B') ('73', 'CD', '', 'O') ('78', 'CD', '', 'O') ('112', 'CD', '', 'O') ('116', 'CD', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('125', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('claim', 'VBP', '', 'O') ('120', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('multiply', 'RB', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('55', 'CD', 'CARDINAL', 'B') ('78', 'CD', 'CARDINAL', 'B') ('79', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('124', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('claim', 'VBP', '', 'O') ('121', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('120', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('multiply', 'VBP', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('55', 'CD', 'CARDINAL', 'B') ('78', 'CD', 'CARDINAL', 'I') ('79_or_124', 'CD', 'CARDINAL', 'I') (')', '-RRB-', '', 'O') ('125-27', 'CD', 'CARDINAL', 'B') ('133-35', 'CD', '', 'O') ('137', 'CD', '', 'O') ('153', 'CD', '', 'O') ('and', 'CC', '', 'O') ('155', 'CD', 'CARDINAL', 'B')
+155 Unocal 20 53 54 57 78 117 53 116 125 120 55 78 79 124 121 120 55 78 79_or_124 125-27 155
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('appears', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('dependent', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('multiple', 'JJ', '', 'O') ('*992', 'NNP', '', 'O') ('dependent', 'JJ', '', 'O') ('form', 'NN', '', 'O') ('and', 'CC', '', 'O') ('has', 'VBZ', '', 'O') ('from', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('to', 'TO', 'CARDINAL', 'I') ('six', 'CD', 'CARDINAL', 'I') ('limitations', 'NNS', '', 'O') ('describing', 'VBG', '', 'O') ('ranges', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fuel_characteristics', 'NNS', '', 'O')
+four to six
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('effectively', 'RB', '', 'O') ('begins', 'VBZ', '', 'O') ('either', 'CC', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preface', 'NN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('n', 'CC', '', 'O') ('unleaded', 'VBN', '', 'O') ('gasoline_fuel', 'NN', '', 'O') ('suitable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('combustion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('automotive_engine', 'NN', '', 'O') ("''", "''", '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('n', 'CC', '', 'O') ('unleaded', 'VBN', '', 'O') ('gasoline_fuel', 'NN', '', 'O') ('suitable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('combustion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('spark', 'NN', '', 'O') ('ignition', 'NN', '', 'O') ('automotive_engine', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('an', 'DT', '', 'O') ('example', 'NN', '', 'O') ('Claim', 'NNP', 'PERSON', 'B') ('117', 'CD', 'PERSON', 'I') ('as', 'RB', '', 'O') ('dependent', 'JJ', '', 'O') ('upon', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('116', 'CD', 'CARDINAL', 'B') ('states:2', 'NNP', '', 'O')
+Claim 117 116
+__NEW_SENT__
+('117', 'CD', 'CARDINAL', 'B')
+117
+__NEW_SENT__
+('[', '-LRB-', '', 'O') ('An', 'DT', '', 'O') ('unleaded', 'JJ', '', 'O') ('gasoline_fuel', 'NN', '', 'O') ('suitable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('combustion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('automotive_engine', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('fuel', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('Reid', 'NNP', 'GPE', 'B') ('Vapor', 'NNP', 'GPE', 'I') ('pressure', 'NN', '', 'O') ('no', 'DT', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('7.0', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('50', 'CD', 'CARDINAL', 'B') ('%_D-86_distillation_point', 'NN', '', 'O') ('no', 'RB', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('200¢X_F.', 'NNP', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('90', 'CD', 'CARDINAL', 'B') ('%_D-86_distillation_point', 'NN', '', 'O') ('no', 'RB', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('300¢X_F.', 'NN', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('paraffin_content', 'NN', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('85', 'CD', 'CARDINAL', 'B') ('volume_percent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('olefin_content', 'NN', '', 'O') ('less', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('4', 'CD', 'CARDINAL', 'B') ('volume_percent', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('maximum', 'JJ', '', 'O') ('10', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('distillation', 'NN', '', 'O') ('point', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('158¢X_F', 'CD', 'ORG', 'B') ('(', '-LRB-', 'ORG', 'I') ('70¢X', 'CD', 'ORG', 'I') ('C.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O')
+Reid Vapor 7.0 50 200¢X_F. 90 300¢X_F. 85 4 10 % 158¢X_F ( 70¢X C.
+__NEW_SENT__
+("'393_patent", 'NN', '', 'O') ('col._24,_ll._24-27', 'NN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('above', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('describe', 'VB', '', 'O') ('each', 'DT', '', 'O') ('gasoline', 'NN', '', 'O') ('product', 'NN', '', 'O') ('in', 'IN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('molecular', 'JJ', '', 'O') ('structures', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('lists', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('ingredients', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Instead', 'RB', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('specify', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('chemical_properties', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasolines', 'NNS', '', 'O') ('reflecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('way', 'NN', '', 'O') ('oil_refiners', 'NNS', '', 'O') ('formulate', 'VBP', '', 'O') ('gasoline', 'NN', '', 'O')
+
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('oil_refiners', 'NNS', '', 'O') ('formulate', 'VBP', '', 'O') ('new', 'JJ', '', 'O') ('gasoline', 'NN', '', 'O') ('products', 'NNS', '', 'O') ('they', 'PRP', '', 'O') ('do', 'VBP', '', 'O') ('so', 'RB', '', 'O') ('by', 'IN', '', 'O') ('mixing', 'VBG', '', 'O') ('petroleum', 'NN', '', 'O') ('stocks', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Different', 'JJ', '', 'O') ('stocks', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('different', 'JJ', '', 'O') ('properties', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('known', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('oil_refiners', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('record', 'NN', '', 'O') ('shows', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('oil_refiners', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('change', 'NN', '', 'O') ('the', 'DT', '', 'O') ('chemical_properties', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('gasoline', 'NN', '', 'O') ('by', 'IN', '', 'O') ('varying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('proportions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('petroleum', 'NN', '', 'O') ('stocks', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('define', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('in', 'IN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('characteristics', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('inform', 'VBP', '', 'O') ('those', 'DT', '', 'O') ('of', 'IN', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('gasoline_fuels', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Unocal', 'NNP', 'ORG', 'B') ('researched', 'VBD', '', 'O') ('extensively', 'RB', '', 'O') ('the', 'DT', '', 'O') ('production', 'NN', '', 'O') ('of', 'IN', '', 'O') ('automotive', 'JJ', '', 'O') ('gasoline', 'NN', '', 'O') ('with', 'IN', '', 'O') ('reduced', 'JJ', '', 'O') ('combustion', 'NN', '', 'O') ('emissions', 'NNS', '', 'O')
+Unocal
+__NEW_SENT__
+('Unocal', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('scientists', 'NNS', '', 'O') ('Drs', 'NNP', '', 'O')
+Unocal
+__NEW_SENT__
+('Jessup', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Croudace', 'NNP', 'ORG', 'B') ('ultimately', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('findings', 'NNS', '', 'O')
+Jessup Croudace
+__NEW_SENT__
+('Their', 'PRP$', '', 'O') ('research', 'NN', '', 'O') ('taught', 'VBD', '', 'O') ('ways', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('cleaner', 'JJR', '', 'O') ('gasoline', 'NN', '', 'O') ('by', 'IN', '', 'O') ('varying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') ('chemical_properties', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('automotive', 'JJ', '', 'O') ('gasolines', 'NNS', '', 'O') (':', ':', '', 'O') ('Reid', 'NNP', 'ORG', 'B') ('Vapor', 'NNP', 'ORG', 'I') ('Pressure', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('RVP', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('T10', 'NNP', 'PERSON', 'B') ('T50', 'NN', 'PERSON', 'I') ('T90', 'NNP', '', 'O') ('Olefins', 'NNP', '', 'O') ('Paraffins', 'NNP', '', 'O') ('Aromatics,3', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Octane', 'NNP', 'GPE', 'B')
+Reid Vapor Pressure RVP T10 T50 Octane
+__NEW_SENT__
+('RVP', 'NNP', 'ORG', 'B') ('measures', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('partial', 'JJ', '', 'O') ('pressure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gasoline_sample', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('heated', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('100¢X_F', 'CD', 'GPE', 'B') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sealed', 'VBN', '', 'O') ('container', 'NN', '', 'O')
+RVP 100¢X_F
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col._18,_ll._43-47', 'NN', '', 'O')
+
+__NEW_SENT__
+('T10', 'NNP', 'ORG', 'B') ('T50', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('T90', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('abbreviations', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('percentage', 'NN', '', 'O') ('distillation', 'NN', '', 'O') ('points', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('measured', 'VBN', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('industry', 'NN', '', 'O') ('standard', 'JJ', '', 'O') ('procedure', 'NN', '', 'O') ('called', 'VBD', '', 'O') ('``', '``', '', 'O') ('D-86', 'NNS', '', 'O') ("''", "''", '', 'O')
+T10 T50 T90
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('corresponds', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('temperatures', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('given', 'VBN', '', 'O') ('percentage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasoline_sample', 'JJ', '', 'O') ('enters', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('gaseous', 'JJ', '', 'O') ('phase', 'NN', '', 'O') ('under', 'IN', '', 'O') ('specific', 'JJ', '', 'O') ('experimental', 'JJ', '', 'O') ('conditions', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('T10', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('10', 'CD', 'CARDINAL', 'B') ('%_D-86_distillation_point', 'NN', '', 'O') (';', ':', '', 'O') ('TBIG_TOKEN__50_the_50__BIG_TOKEN', 'NN', 'ORG', 'B') ('%_D-86_distillation_point', 'NNS', 'ORG', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('TBIG_TOKEN__90_the_90__BIG_TOKEN', 'NNP', 'ORG', 'B') ('%_D-86_distillation_point', 'NNP', '', 'O')
+T10 10 TBIG_TOKEN__50_the_50__BIG_TOKEN %_D-86_distillation_point TBIG_TOKEN__90_the_90__BIG_TOKEN
+__NEW_SENT__
+('The', 'DT', '', 'O') ('olefins', 'NNS', '', 'O') ('value', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('percentage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasoline', 'NN', '', 'O') ('comprised', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('olefins', 'NNS', '', 'O') ('measured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('volume', 'NN', '', 'O')
+
+__NEW_SENT__
+('Olefins', 'NNS', '', 'O') ('otherwise', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('alkenes', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('open-chain_hydrocarbons', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('contain', 'VBP', '', 'O') ('at', 'IN', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('double', 'JJ', '', 'O') ('bond', 'NN', '', 'O')
+at least one
+__NEW_SENT__
+('The', 'DT', '', 'O') ('paraffins', 'NNS', '', 'O') ('value', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('percentage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasoline', 'NN', '', 'O') ('comprised', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('paraffins', 'NNS', '', 'O') ('measured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('volume', 'NN', '', 'O')
+
+__NEW_SENT__
+('Paraffins', 'NNS', '', 'O') ('otherwise', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('alkanes', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('open-chain_hydrocarbons', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('contain', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('single', 'JJ', '', 'O') ('bonds', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('aromatics', 'NNS', '', 'O') ('value', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('percentage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasoline', 'NN', '', 'O') ('comprised', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('aromatics', 'NNS', '', 'O') ('measured', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('volume', 'NN', '', 'O')
+
+__NEW_SENT__
+('Aromatics', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('compounds', 'NNS', '', 'O') ('whose', 'WP$', '', 'O') ('properties', 'NNS', '', 'O') ('resemble', 'VBP', '', 'O') ('those', 'DT', '', 'O') ('of', 'IN', '', 'O') ('6-carbon', 'CD', '', 'O') ('ring', 'NN', '', 'O') ('molecules', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('have', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('average', 'NN', '', 'O') ('of', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('intra-ring', 'JJ', '', 'O') ('carbon-carbon', 'NN', '', 'O') ('double', 'JJ', '', 'O') ('bonds', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('i.e.', 'FW', '', 'O') ('benzene', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+three
+__NEW_SENT__
+('Octane', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('knocking', 'NN', '', 'O') ('or', 'CC', '', 'O') ('detonation', 'NN', '', 'O') ('characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gasoline_sample', 'NN', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('reference', 'NN', '', 'O') ('fuel', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('octane', 'NN', '', 'O') ('value', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('derived', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('testing', 'VBG', '', 'O') ('gasoline', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('special', 'JJ', '', 'O') ('engine', 'NN', '', 'O') ('under', 'IN', '', 'O') ('specified', 'VBN', '', 'O') ('experimental', 'JJ', '', 'O') ('conditions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('comparing', 'VBG', '', 'O') ('those', 'DT', '', 'O') ('results', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('identically', 'RB', '', 'O') ('tested', 'VBN', '', 'O') ('reference', 'NN', '', 'O') ('blends', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Isooctane', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('n-heptane', 'NN', '', 'O')
+Isooctane
+__NEW_SENT__
+('*993', 'NNP', '', 'O') ('Drs', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jessup', 'NNP', 'NORP', 'B') ('and', 'CC', '', 'O') ('Croudace', 'NNP', 'PERSON', 'B') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('levels', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('carbon', 'NN', '', 'O') ('monoxide', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('nitrous', 'JJ', '', 'O') ('oxide', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('NOx', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('hydrocarbons', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('HC', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('emitted', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('automobile', 'NN', '', 'O') ('tailpipes', 'NNS', '', 'O')
+Jessup Croudace
+__NEW_SENT__
+('After', 'IN', '', 'O') ('considerable', 'JJ', '', 'O') ('experimentation', 'NN', '', 'O') ('Drs', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jessup', 'NNP', 'NORP', 'B') ('and', 'CC', '', 'O') ('Croudace', 'NNP', 'PERSON', 'B') ('discovered', 'VBD', '', 'O') ('relationships', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('various', 'JJ', '', 'O') ('petroleum', 'NN', '', 'O') ('characteristics', 'NNS', '', 'O') ('described', 'VBN', '', 'O') ('above', 'IN', '', 'O') ('and', 'CC', '', 'O') ('tailpipe', 'NN', '', 'O') ('emissions', 'NNS', '', 'O')
+Jessup Croudace
+__NEW_SENT__
+('Drs', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jessup', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Croudace', 'NNP', 'PERSON', 'B') ('then', 'RB', '', 'O') ('patented', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('innovative', 'JJ', '', 'O') ('fuel', 'NN', '', 'O') ('compositions', 'NNS', '', 'O') ('describing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('compositions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('characteristics', 'NNS', '', 'O')
+Jessup Croudace
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('relationships', 'NNS', '', 'O') ('among', 'IN', '', 'O') ('automotive', 'JJ', '', 'O') ('gasoline', 'NN', '', 'O') ('characteristics', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('fuel', 'NN', '', 'O') ('emissions', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('Decreasing', 'VBG', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('primary_importance', 'NN', '', 'O') ('and', 'CC', '', 'O') ('decreasing', 'VBG', '', 'O') ('T10', 'NN', 'ORG', 'B') ('and', 'CC', '', 'O') ('olefin_content', 'JJ', '', 'O') ('are', 'VBP', '', 'O') ('of', 'IN', '', 'O') ('secondary', 'JJ', '', 'O') ('importance', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('NOx_emissions', 'NNS', '', 'O')
+RVP T10
+__NEW_SENT__
+('See', 'VB', '', 'O') ("'393_patent", 'NNP', '', 'O') ('col._2,_ll._21-29', 'NN', '', 'O')
+
+__NEW_SENT__
+('2', 'LS', 'CARDINAL', 'B')
+2
+__NEW_SENT__
+('Decreasing', 'VBG', '', 'O') ('T50', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('primary_importance', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('CO', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('HC_emissions', 'NNS', 'ORG', 'B')
+T50 HC_emissions
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+
+__NEW_SENT__
+('7-11', 'LS', '', 'O')
+
+__NEW_SENT__
+('3', 'LS', 'CARDINAL', 'B')
+3
+__NEW_SENT__
+('Increasing', 'VBG', '', 'O') ('paraffin_content', 'NN', '', 'O') ('and', 'CC', '', 'O') ('decreasing', 'VBG', '', 'O') ('T50', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('most', 'RBS', '', 'O') ('effective', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('CO', 'NN', '', 'O') ('emissions', 'NNS', '', 'O')
+T50
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col._6,_ll._12-28', 'NNS', '', 'O')
+
+__NEW_SENT__
+('4', 'LS', 'CARDINAL', 'B')
+4
+__NEW_SENT__
+('Decreasing', 'VBG', '', 'O') ('both', 'CC', '', 'O') ('olefin_content', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('most', 'RBS', '', 'O') ('effective', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('NOx_emissions', 'NNS', 'ORG', 'B')
+RVP NOx_emissions
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+
+__NEW_SENT__
+('28-31', 'LS', '', 'O')
+
+__NEW_SENT__
+('5', 'LS', 'CARDINAL', 'B')
+5
+__NEW_SENT__
+('HC_emissions', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('most', 'RBS', '', 'O') ('practically', 'RB', '', 'O') ('reduced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('decreasing', 'VBG', '', 'O') ('olefins', 'NNS', '', 'O') ('and/or', 'CC', '', 'O') ('T50', 'NNP', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+
+__NEW_SENT__
+('46-50', 'LS', '', 'O')
+
+__NEW_SENT__
+('6', 'CD', 'CARDINAL', 'B')
+6
+__NEW_SENT__
+('Any', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eight', 'CD', 'CARDINAL', 'B') ('characteristics', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('increased', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('decreased', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('described', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('greater', 'JJR', '', 'O') ('any', 'DT', '', 'O') ('individual', 'JJ', '', 'O') ('characteristic', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('changed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('directions', 'NNS', '', 'O') ('indicated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('better', 'JJR', '', 'O') ('the', 'DT', '', 'O') ('result', 'NN', '', 'O')
+eight
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col._15,_ll._20-28', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('also', 'RB', '', 'O') ('provides', 'VBZ', '', 'O') ('specific', 'JJ', '', 'O') ('numerical', 'JJ', '', 'O') ('ranges', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('each', 'DT', '', 'O') ('characteristic', 'JJ', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('CO', 'NN', '', 'O') ('and', 'CC', '', 'O') ('HC_emissions', 'NNS', 'ORG', 'B') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('minimized', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('TBIG_TOKEN__50_below_215__BIG_TOKEN', 'NN', '', 'O') ('¢X_F', 'NNP', '', 'O') ('preferably', 'RB', '', 'O') ('below', 'IN', '', 'O') ('195¢X_F.', 'NNP', 'ORG', 'B') ('See', 'NNP', '', 'O') ('id.at', 'NNP', '', 'O') ('col._2,_ll._7-20', 'NN', '', 'O')
+HC_emissions 195¢X_F.
+__NEW_SENT__
+('2', 'LS', 'CARDINAL', 'B')
+2
+__NEW_SENT__
+('NOx_emissions', 'NNS', 'ORG', 'B') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('minimized', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('decreasing', 'VBG', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('to', 'IN', '', 'O') ('8.0', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O') ('or', 'CC', '', 'O') ('less', 'JJR', '', 'O') ('(', '-LRB-', '', 'O') ('preferably', 'RB', '', 'O') ('below', 'IN', '', 'O') ('7.0', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('decreasing', 'VBG', '', 'O') ('olefins', 'NNS', '', 'O') ('below', 'IN', 'PERCENT', 'B') ('15', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('(', '-LRB-', '', 'O') ('preferably', 'RB', '', 'O') ('to', 'IN', '', 'O') ('essentially', 'RB', '', 'O') ('zero', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('or', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('decreasing', 'VBG', '', 'O') ('TBIG_TOKEN__10_below_140__BIG_TOKEN', 'NN', '', 'O') ('¢X_F.', 'NNP', '', 'O') ('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+NOx_emissions RVP 8.0 7.0 below 15 % zero
+__NEW_SENT__
+('21-34', 'LS', '', 'O')
+
+__NEW_SENT__
+('3', 'LS', 'CARDINAL', 'B')
+3
+__NEW_SENT__
+('The', 'DT', '', 'O') ('best', 'JJS', '', 'O') ('NOx', 'NNS', '', 'O') ('reductions', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('obtained', 'VBN', '', 'O') ('when', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('olefins', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('below', 'IN', '', 'O') ('15', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('RVP', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('7.5', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O') ('or', 'CC', '', 'O') ('less', 'JJR', '', 'O') ('and', 'CC', '', 'O') ('T10', 'NN', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('below', 'IN', '', 'O') ('140¢X_F.', 'JJ', 'DATE', 'B') ('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+15 % RVP 7.5 T10 140¢X_F.
+__NEW_SENT__
+('44-50', 'LS', '', 'O')
+
+__NEW_SENT__
+('4', 'LS', 'CARDINAL', 'B')
+4
+__NEW_SENT__
+('All', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('pollutants', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('reduced', 'VBN', '', 'O') ('when', 'WRB', '', 'O') ('TBIG_TOKEN__50_is_215__BIG_TOKEN', 'NN', '', 'O') ('¢X_F', 'NNP', 'PERSON', 'B') ('or', 'CC', '', 'O') ('less', 'RBR', '', 'O') ('and', 'CC', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('8.0', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O') ('or', 'CC', '', 'O') ('less', 'JJR', '', 'O') ('with', 'IN', '', 'O') ('greater_reductions', 'NNS', '', 'O') ('when', 'WRB', '', 'O') ('olefins', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('below', 'IN', '', 'O') ('10', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('or', 'CC', '', 'O') ('T10', 'NN', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('below', 'IN', '', 'O') ('140¢X_F', 'CD', 'GPE', 'B') ('and', 'CC', '', 'O') ('still', 'RB', '', 'O') ('greater_reductions', 'NNS', '', 'O') ('when', 'WRB', '', 'O') ('both', 'DT', '', 'O') ('olefins', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('T10', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('reduced', 'VBN', '', 'O')
+three ¢X_F RVP 8.0 10 % T10 140¢X_F T10
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('ll', 'RB', '', 'O')
+
+__NEW_SENT__
+('54-64', 'LS', '', 'O')
+
+__NEW_SENT__
+('5', 'LS', 'CARDINAL', 'B')
+5
+__NEW_SENT__
+('Further', 'JJ', '', 'O') ('pollution', 'NN', '', 'O') ('reductions', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('possible', 'JJ', '', 'O') ('when', 'WRB', '', 'O') ('T50', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('below', 'IN', '', 'O') ('195¢X', 'NNP', '', 'O') ('>', 'XX', '', 'O') ('F', 'NNP', '', 'O') ('olefins', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('below', 'IN', '', 'O') ('5', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('(', '-LRB-', '', 'O') ('preferably', 'RB', '', 'O') ('at', 'IN', '', 'O') ('essentially', 'RB', '', 'O') ('zero', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('T10', 'NN', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('below', 'IN', '', 'O') ('120¢X_F', 'CD', 'GPE', 'B') ('and/or', 'CC', '', 'O') ('when', 'WRB', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('below', 'IN', '', 'O') ('7.0', 'CD', 'CARDINAL', 'B') ('psi', 'NN', '', 'O')
+T50 5 % zero T10 120¢X_F RVP 7.0
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('l.', 'NN', '', 'O') ('64-BIG_TOKEN__col._3', 'CD', '', 'O') ('_l._3__BIG_TOKEN', 'CD', '', 'O')
+
+__NEW_SENT__
+('Elsewhere', 'RB', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('optimal_ranges', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eight', 'CD', 'CARDINAL', 'B') ('fuel_characteristics', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('similar', 'JJ', '', 'O') ('terms', 'NNS', '', 'O')
+five eight
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('also', 'RB', '', 'O') ('states', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('gasolines', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('preferably', 'RB', '', 'O') ('unleaded', 'JJ', '', 'O') ('have', 'VBP', '', 'O') ('an', 'DT', '', 'O') ('octane', 'NN', '', 'O') ('rating', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('90', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('fall', 'VBP', '', 'O') ('most', 'RBS', '', 'O') ('preferably', 'RB', '', 'O') ('within', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('more', 'JJR', 'CARDINAL', 'B') ('of', 'IN', 'CARDINAL', 'I') ('five', 'CD', 'CARDINAL', 'I') ('volatility', 'NN', '', 'O') ('classes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('American', 'NNP', 'ORG', 'B') ('Society', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Testing', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Materials', 'NNPS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('ASTM', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('publication', 'NN', '', 'O') ('D4814-89', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('included', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Table', 'NNP', 'DATE', 'B') ('1', 'CD', 'DATE', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+at least 90 one more of five American Society for Testing and Materials ASTM D4814-89 Table 1
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col._4,_l._66-', 'NN', '', 'O') ('col.', 'NN', '', 'O') ('5.', 'XX', 'CARDINAL', 'B') ('l.', 'NN', '', 'O') ('13', 'CD', 'CARDINAL', 'B')
+5. 13
+__NEW_SENT__
+('Beyond', 'IN', '', 'O') ('the', 'DT', '', 'O') ('optimal_ranges', 'NN', '', 'O') ('for', 'IN', '', 'O') ('individual', 'JJ', '', 'O') ('characteristics', 'NNS', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NNP', '', 'O') ('also', 'RB', '', 'O') ('discloses', 'VBZ', '', 'O') ('preferred', 'JJ', '', 'O') ('fuel', 'NN', '', 'O') ('mixtures', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('sum', 'NN', '', 'O') ('the', 'DT', '', 'O') ("'393", 'JJ', '', 'O') ('disclosure', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('detail', 'NN', '', 'O') ('the', 'DT', '', 'O') ('benefits', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('varying', 'VBG', '', 'O') ('gasoline', 'NN', '', 'O') ('characteristics', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('relationships', 'NNS', '', 'O') ('among', 'IN', '', 'O') ('the', 'DT', '', 'O') ('eight', 'CD', 'CARDINAL', 'B') ('individual', 'JJ', '', 'O') ('fuel_characteristics', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('CO', 'NNP', '', 'O') ('NOx', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('HC_emissions', 'NNS', 'FAC', 'B') ('2', 'LS', 'FAC', 'I') (')', '-RRB-', '', 'O') ('characteristics', 'NNS', '', 'O') ('most', 'RBS', '', 'O') ('important', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('emissions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('specific', 'JJ', '', 'O') ('desirable', 'JJ', '', 'O') ('ranges', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('RVP', 'NNP', 'ORG', 'B') ('T10', 'NNP', 'ORG', 'I') ('T50', 'NNP', '', 'O') ('olefins', 'VBZ', '', 'O') ('paraffins', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('aromatics', 'NNS', '', 'O')
+1 eight HC_emissions 2 3 RVP T10
+__NEW_SENT__
+('*994', 'NNP', '', 'O') ('The', 'DT', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('originally', 'RB', '', 'O') ('sued', 'VBD', '', 'O') ('Unocal', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('district_court', 'NNP', '', 'O') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment', 'NN', '', 'O') ('to', 'TO', '', 'O') ('invalidate', 'VB', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NN', '', 'O')
+Unocal
+__NEW_SENT__
+('Unocal', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('alleging', 'VBG', '', 'O') ('willful_infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NN', '', 'O')
+Unocal
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('then', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NNP', '', 'O') ('effectively', 'RB', '', 'O') ('converting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('refiners', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('declaratory_judgment_action', 'NN', '', 'O') ('into', 'IN', '', 'O') ('an', 'DT', '', 'O') ('infringement_defense', 'NN', '', 'O')
+
+__NEW_SENT__
+('Then', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('tried', 'VBD', '', 'O') ('those', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('jury', 'NN', '', 'O')
+
+__NEW_SENT__
+('During', 'IN', '', 'O') ('forty-nine', 'JJ', '', 'O') ('days', 'NNS', 'DATE', 'B') ('of', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('heard', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('testimony', 'NN', '', 'O') ('of', 'IN', '', 'O') ('numerous', 'JJ', '', 'O') ('witnesses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('considered', 'VBN', '', 'O') ('hundreds', 'NNS', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('exhibits', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('demonstrations', 'NNS', '', 'O')
+days hundreds
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Unocal_I', 'NNP', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('6', 'CD', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('close', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('evidence', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('properly', 'RB', '', 'O') ('instructed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('law', 'NN', '', 'O') ('and', 'CC', '', 'O') ('presented', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('special_verdict_form', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('verdict', 'NN', '', 'O') ('form', 'NN', '', 'O') ('required', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('to', 'TO', '', 'O') ('decide', 'VB', '', 'O') ('validity', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('¡±', 'CD', '', 'O') ('112', 'CD', 'CARDINAL', 'B') ('separately', 'RB', '', 'O') ('for', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('forty-one', 'NN', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O')
+102 112
+__NEW_SENT__
+('With', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡±', 'NNP', '', 'O') ('112', 'CD', 'CARDINAL', 'B') ('questions', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('asked', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NN', '', 'O') ("'s", 'POS', '', 'O') ('specification', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('original_claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('as', 'IN', '', 'O') ('filed', 'VBN', '', 'O')
+112
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Northern', 'NNP', 'ORG', 'B') ('Telecom', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Datapoint', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('908_F.2d_931', 'CD', 'CARDINAL', 'B') ('938', 'CD', 'CARDINAL', 'I') ('15_USPQ2d_1321', 'CD', '', 'O') ('1326', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1990', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('The', 'DT', '', 'O') ('original_claims', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('filed', 'VBN', '', 'O') ('are', 'VBP', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('specification', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Northern Telecom Inc. Datapoint Corp. 908_F.2d_931 938
+__NEW_SENT__
+('In', 'IN', '', 'O') ('total', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('special_verdict_form', 'NN', '', 'O') ('asked', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('223', 'CD', 'CARDINAL', 'B') ('individual', 'JJ', '', 'O') ('questions', 'NNS', '', 'O')
+223
+__NEW_SENT__
+('After', 'IN', '', 'O') ('thirteen', 'CD', 'DATE', 'B') ('days', 'NNS', 'DATE', 'I') ('of', 'IN', '', 'O') ('deliberation', 'NN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('returned', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('answered', 'VBD', '', 'O') ('affirmatively', 'RB', '', 'O') ('that', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('forty-one', 'NN', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('none', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O')
+thirteen days
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('then', 'RB', '', 'O') ('moved', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('overturn', 'VB', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('verdict', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('obviousness', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O')
+JMOL
+__NEW_SENT__
+('After', 'IN', '', 'O') ('reviewing', 'VBG', '', 'O') ('arguments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('both', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('substantial', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('exists', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('the', 'DT', '', 'O') ('verdict', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Drs', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Jessup', 'NNP', 'NORP', 'B') ('and', 'CC', '', 'O') ('Croudace', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('possession', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ("''", "''", '', 'O')
+Jessup Croudace
+__NEW_SENT__
+('Unocal_I', 'NNP', '', 'O') ('slip', 'VBP', '', 'O') ('op.at', 'NNP', '', 'O') ('6', 'CD', 'CARDINAL', 'B')
+6
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('similarly', 'RB', '', 'O') ('considered', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('rejected', 'VBD', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('arguments', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('obviousness', 'JJ', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('3-5', 'NN', 'CARDINAL', 'B')
+3-5
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'393_patent", 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('tried', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('itself', 'PRP', '', 'O') ('and', 'CC', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('refiners', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('meet', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('burden', 'NN', '', 'O') ('of', 'IN', '', 'O') ('showing', 'VBG', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('by', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Unocal_II', 'NNP', '', 'O') ('34', 'CD', '', 'O') ('F.Supp.2d', 'NN', '', 'O') ('at', 'IN', '', 'O') ('1222', 'CD', 'DATE', 'B')
+1222
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('exceptional', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('also', 'RB', '', 'O') ('awarded', 'VBD', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Unocal', 'NNP', 'ORG', 'B') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1994', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+Unocal 35 285 1994
+__NEW_SENT__
+('The', 'DT', '', 'O') ('appellant_refiners', 'NNS', '', 'O') ('now', 'RB', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('JMOL', 'NNP', 'ORG', 'B') ('on', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O')
+JMOL
+__NEW_SENT__
+('They', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('decision', 'NN', '', 'O')
+
+__NEW_SENT__

@@ -1,0 +1,258 @@
+('606_F.3d_1353', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('LEVITON', 'NNP', 'ORG', 'B') ('MANUFACTURING', 'NNP', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('UNIVERSAL', 'NNP', 'ORG', 'B') ('SECURITY', 'NNP', 'ORG', 'I') ('INSTRUMENTS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('USI', 'NNP', 'ORG', 'B') ('Electric', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants', 'NNS', 'ORG', 'I')
+LEVITON MANUFACTURING COMPANY INC. UNIVERSAL SECURITY INSTRUMENTS INC. USI Electric Inc. Defendants
+__NEW_SENT__
+('Shanghai', 'NNP', 'ORG', 'B') ('Meihao', 'NNP', 'ORG', 'I') ('Electric', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Leviton', 'NNP', 'ORG', 'B') ('Manufacturing', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NNP', '', 'O')
+Shanghai Meihao Electric Inc. Leviton Manufacturing Company Inc.
+__NEW_SENT__
+('No._2009-1421', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('May_28,_2010', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Aug._11,_2010', '.', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('involving', 'VBG', '', 'O') ('ground-fault', 'JJ', '', 'O') ('circuit', 'NN', '', 'O') ('interrupter', 'NN', '', 'O') ('technology', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('voluntary', 'JJ', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('manufacturer', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B') ('Andre', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Davis', 'NNP', 'PERSON', 'I') ('613_F.Supp.2d_670', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('motion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+The United States District Court the District of Maryland Andre M. Davis
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Michel', 'NNP', 'PERSON', 'B') ('Chief_Judge', 'NN', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Michel Chief_Judge
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('prior', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('``', '``', '', 'O') ('material', 'NN', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('committed', 'VBN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('existence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('earlier', 'JJR', '', 'O') ('related', 'VBN', '', 'O') ('litigation', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('``', '``', '', 'O') ('material', 'NN', '', 'O') ("''", "''", '', 'O') ('for', 'IN', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('determining', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('committed', 'VBN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') (';', ':', '', 'O') ('but', 'CC', '', 'O')
+
+__NEW_SENT__
+('fact', 'NN', '', 'O') ('issues', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('Patent', 'NN', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('precluded', 'VBD', '', 'O') ('summary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+Patent and Trademark_Office
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('engage', 'VB', '', 'O') ('in', 'IN', '', 'O') ('vexatious_litigation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('refusing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('answer', 'VB', '', 'O') ('deposition', 'NN', '', 'O') ('questions', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('work-product', 'JJ', '', 'O') ('doctrine', 'NN', '', 'O')
+
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Prost', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judge', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Prost Circuit
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1355', 'NNP', '', 'O') ('Susan', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Manning', 'NNP', 'PERSON', 'I') ('Bingham', 'NNP', '', 'O') ('McCutchen', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Susan B. Manning Washington DC
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Gary', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Hnath', 'NNP', 'PERSON', 'I') ('Mayer', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Gary M. Hnath Mayer Brown LLP Washington
+__NEW_SENT__
+('J.', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Jakes', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+J. Michael Jakes Finnegan Henderson Farabow Garrett & Dunner LLP Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Naidich', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Beth', 'NNP', 'PERSON', 'B') ('Z.', 'NNP', 'PERSON', 'I') ('Shaw', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Reston', 'NNP', 'GPE', 'B') ('VA.', 'NNP', '', 'O') ('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Hosmer', 'NNP', 'PERSON', 'I') ('Nixon', 'NNP', 'PERSON', 'I') ('&', 'CC', '', 'O') ('Vanderhye', 'NNP', '', 'O') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Arlington', 'NNP', 'GPE', 'B') ('VA.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('Chief_Judge', 'NNP', '', 'O') ('PROST', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('MOORE', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judges', 'NNPS', 'ORG', 'I')
+Edward J. Naidich Beth Z. Shaw Reston James T. Hosmer Nixon P.C. Arlington MOORE Circuit Judges
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1356', 'UH', '', 'O') ('MICHEL', 'NN', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Defendant-Appellant', 'JJ', '', 'O') ('Leviton', 'NNP', 'ORG', 'B') ('Manufacturing', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Plaintiff-Appellee', 'NNP', 'ORG', 'B') ('Shanghai', 'NNP', 'ORG', 'I') ('Meihao', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Meihao', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('vexatious_litigation', 'NN', '', 'O')
+Leviton Manufacturing Company Inc. Leviton Plaintiff-Appellee Shanghai Meihao Inc. Meihao
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VB', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('below', 'IN', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('22', 'CD', 'DATE', 'I') ('2003', 'CD', 'DATE', 'I') ('Leviton', 'NNP', 'GPE', 'B') ('filed', 'VBD', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('No._10', 'NN', 'ORG', 'I') ('/690,776', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Germain_application', 'NN', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('February', 'NNP', 'DATE', 'B') ('3', 'CD', 'DATE', 'I') ('2003', 'CD', 'DATE', 'I') ('provisional', 'JJ', '', 'O') ('application', 'NN', '', 'O')
+October 22 2003 Leviton U.S. Patent Application No._10 Germain_application February 3 2003
+__NEW_SENT__
+('Greenberg_Traurig', 'NN', '', 'O') ('attorneys', 'VBZ', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('Sutton', 'NNP', 'PERSON', 'I') ('Barry', 'NNP', 'PERSON', 'I') ('Magidoff', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Claude', 'NNP', 'PERSON', 'B') ('Narcisse', 'NNP', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('prosecuted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O')
+Paul Sutton Barry Magidoff Claude Narcisse
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('lists', 'VBZ', '', 'O') ('Franz', 'NNP', 'PERSON', 'B') ('Germain', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('others', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('co-inventors', 'NNS', '', 'O')
+Franz Germain five
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('submitted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('sworn', 'VBN', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('original_inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('subject_matter', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('claimed', 'VBN', '', 'O')
+the U.S. Patent and Trademark_Office
+__NEW_SENT__
+('Six', 'CD', 'DATE', 'B') ('months', 'NNS', 'DATE', 'I') ('later', 'RB', 'DATE', 'I') ('on', 'IN', '', 'O') ('April_19,_2004', 'NNP', 'GPE', 'B') ('Leviton', 'NNP', 'GPE', 'I') ('filed', 'VBD', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('No._10', 'NNP', 'ORG', 'I') ('/827,093', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('later', 'RB', '', 'O') ('issued', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('U.S._Patent_No._6864,766', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Six months later April_19,_2004 Leviton U.S. Patent Application No._10
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬766', 'NN', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('third-generation', 'JJ', '', 'O') ('continuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S._Patent_No._6246,558', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+¡¬766
+__NEW_SENT__
+('The', 'DT', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('20', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('has', 'VBZ', '', 'O') ('claimed', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('priority_date', 'NN', '', 'O')
+¡¬558_patent August 20 1999 Leviton
+__NEW_SENT__
+('Nicholas', 'NNP', 'PERSON', 'B') ('DiSalvo', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('William_Ziegler', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('named', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O')
+Nicholas DiSalvo William_Ziegler
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('submitted', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('a', 'DT', '', 'O') ('sworn', 'VBN', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('original_inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('subject_matter', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('claimed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('have', 'VBP', '', 'O') ('no', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('inventors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('neither', 'DT', '', 'O') ('claims', 'VBZ', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬766_patent', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('claimed', 'VBD', '', 'O') ('1999', 'CD', 'DATE', 'B') ('priority_date', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('three', 'CD', 'DATE', 'B') ('and', 'CC', 'DATE', 'I') ('a', 'DT', 'DATE', 'I') ('half', 'NN', 'DATE', 'I') ('years', 'NNS', 'DATE', 'I') ('before', 'IN', '', 'O') ('Germain', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('claimed', 'VBD', '', 'O') ('2003', 'CD', 'DATE', 'B') ('priority_date', 'NN', '', 'O')
+¡¬766_patent 1999 three and a half years Germain 2003
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Germain', 'NNP', 'PERSON', 'B') ('have', 'VBP', '', 'O') ('many', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('nearly', 'RB', '', 'O') ('identical', 'JJ', '', 'O')
+Germain
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('difference', 'NN', '', 'O') ('between', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('31', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('recites', 'NNS', '', 'O') ('``', '``', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('moveable', 'JJ', '', 'O') ('bridge', 'NN', '', 'O') ("''", "''", '', 'O') ('whereas', 'WDT', '', 'O') ('claim', 'VBP', '', 'O') ('31', 'CD', 'CARDINAL', 'B') ('recites', 'VBZ', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('movable', 'JJ', '', 'O') ('bridge', 'NN', '', 'O') ("''", "''", '', 'O')
+1 31 1 at least one 31
+__NEW_SENT__
+('And', 'CC', '', 'O') ('dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('3', 'CD', 'CARDINAL', 'B') ('4', 'CD', '', 'O') ('13_and_14', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('identical', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Germain', 'NNP', 'GPE', 'B') ('claims', 'VBZ', '', 'O') ('32', 'CD', 'CARDINAL', 'B') ('31', 'CD', 'CARDINAL', 'I') ('43_and_44', 'NNS', '', 'O')
+3 Germain 32 31
+__NEW_SENT__
+('Meihao', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('offer', 'VBP', '', 'O') ('different', 'JJ', '', 'O') ('explanations', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('similarity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O')
+Meihao Leviton
+__NEW_SENT__
+('Meihao', 'NNP', 'ORG', 'B') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Narcisse', 'NNP', 'GPE', 'B') ('``', '``', '', 'O') ('copied', 'VBN', '', 'O') ("''", "''", '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', 'LOC', 'B') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('matured', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O')
+Meihao Narcisse Germain_application
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('explains', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('similarity', 'NN', '', 'O') ('by', 'IN', '', 'O') ('stating', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('several', 'JJ', 'DATE', 'B') ('months', 'NNS', 'DATE', 'I') ('after', 'IN', '', 'O') ('Narcisse', 'NNP', 'FAC', 'B') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('he', 'PRP', '', 'O') ('met', 'VBD', '', 'O') ('with', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('engineers', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('William_Ziegler', 'NNP', '', 'O') ('one', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', '', 'O')
+Leviton several months Narcisse Leviton
+__NEW_SENT__
+('At', 'IN', '', 'O') ('that', 'DT', '', 'O') ('meeting', 'NN', '', 'O') ('Narcisse', 'NNP', 'PERSON', 'B') ('learned', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('broad', 'JJ', '', 'O') ('reverse-wiring', 'JJ', '', 'O') ('protection', 'NN', '', 'O') ('concept', 'NN', '', 'O') ('he', 'PRP', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('actually', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', 'ORG', 'B') ('over', 'IN', '', 'O') ('three', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('earlier', 'RBR', 'DATE', 'I') ('having', 'VBG', '', 'O') ('already', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('invented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Ziegler', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('DiSalvo', 'NNP', 'ORG', 'I')
+Narcisse ¡¬558_patent three years earlier Ziegler and DiSalvo
+__NEW_SENT__
+('Afterwards', 'RB', '', 'O') ('Narcisse', 'NNP', '', 'O') ('prepared', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('continuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', '', 'O') ('with', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('that', 'DT', '', 'O') ('feature', 'NN', '', 'O')
+
+__NEW_SENT__
+('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('¡¬766_patent', 'NNP', 'ORG', 'I') ('Leviton', 'NNP', 'ORG', 'I') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', 'LOC', 'B') ('or', 'CC', '', 'O') ('the', 'DT', '', 'O') ('fact', 'NN', '', 'O') ('that', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('copied', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('Germain', 'NNP', 'GPE', 'B') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O')
+the ¡¬766_patent Leviton Germain_application Germain
+__NEW_SENT__
+('Moreover', 'RB', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('inform', 'VB', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('previously', 'RB', '', 'O') ('submitted', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('sworn', 'VBN', '', 'O') ('declaration', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('other', 'JJ', '', 'O') ('individuals', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Germain', 'NNP', 'PERSON', 'B') ('inventors', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('claimed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('subject_matter', 'NN', '', 'O') ('very', 'RB', '', 'O') ('similar', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('that', 'DT', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('now', 'RB', '', 'O') ('recited', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('766', 'CD', '', 'O') ('patent', 'NN', '', 'O')
+Leviton Germain
+__NEW_SENT__
+('In', 'IN', '', 'O') ('June_3,_2005', 'NNP', 'DATE', 'B') ('two', 'CD', 'DATE', 'I') ('months', 'NNS', 'DATE', 'I') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('issued', 'VBD', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('disclosed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('*1357', 'AFX', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('¡¬558_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('thirty', 'CD', 'CARDINAL', 'B') ('other', 'JJ', '', 'O') ('references', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O')
+June_3,_2005 two months Leviton thirty
+__NEW_SENT__
+('In', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('2005', 'CD', 'DATE', 'I') ('having', 'VBG', '', 'O') ('learned', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('substantively', 'RB', '', 'O') ('identical', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('double-patenting', 'JJ', '', 'O') ('rejection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O')
+September 2005
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('cancelled', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('similar', 'JJ', '', 'O') ('claims', 'NNS', '', 'O')
+Leviton
+__NEW_SENT__
+('A', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('requested', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('June_6,_2005', 'NNP', 'ORG', 'B')
+June_6,_2005
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('or', 'CC', '', 'O') ('the', 'DT', '', 'O') ('related', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('seven', 'CD', 'DATE', 'I') ('months', 'NNS', 'DATE', 'I') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('reconsidered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patentability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O')
+Leviton the seven months
+__NEW_SENT__
+('On', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('17', 'CD', 'DATE', 'I') ('2006', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('confirmed', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('requestor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+February 17 2006
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('filed', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('appeal', 'NN', '', 'O') ('brief', 'NN', '', 'O') ('on', 'IN', '', 'O') ('June_16,_2006', 'NNP', '', 'O') ('but', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('or', 'CC', '', 'O') ('related', 'VBN', '', 'O') ('litigations', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('though', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('aware', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('allegations', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('over', 'IN', 'DATE', 'B') ('a', 'DT', 'DATE', 'I') ('year', 'NN', 'DATE', 'I')
+Leviton over a year
+__NEW_SENT__
+('Narcisse', 'NNP', '', 'O') ('first', 'RB', '', 'O') ('referenced', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', 'LOC', 'B') ('and', 'CC', '', 'O') ('asserted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('material', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('memorandum', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NNP', '', 'O') ('dated', 'VBN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('7', 'CD', 'DATE', 'I') ('2007', 'CD', 'DATE', 'I')
+Germain_application August 7 2007
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('Narcisse', 'NNP', 'PRODUCT', 'B') ('titled', 'VBD', '', 'O') ('his', 'PRP$', '', 'O') ('memorandum', 'NN', '', 'O') ('``', '``', '', 'O') ('Information_Disclosure_Statement', 'NN', '', 'O') ("''", "''", '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('IDS', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('formally', 'RB', '', 'O') ('an', 'DT', '', 'O') ('IDS', 'NNP', 'ORG', 'B') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('meet', 'VB', '', 'O') ('any', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('requirements', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IDS', 'NNP', '', 'O')
+Narcisse IDS IDS
+__NEW_SENT__
+('Narcisse', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('submitted', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('standard', 'JJ', '', 'O') ('PTO', 'NNP', '', 'O') ('forms', 'NNS', '', 'O') ('titled', 'VBN', '', 'O') ('``', '``', '', 'O') ('Information_Disclosure_Statement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Applicant', 'NNP', '', 'O') ("''", "''", '', 'O') ('that', 'DT', '', 'O') ('comply', 'VBP', '', 'O') ('with', 'IN', '', 'O') ('PTO', 'NN', '', 'O') ('rules', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('these', 'DT', '', 'O') ('IDS', 'NNP', 'ORG', 'B') ('forms', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('list', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O')
+IDS
+__NEW_SENT__
+('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('case', 'NN', '', 'O') ('Meihao', 'NNP', 'PERSON', 'B') ('sought', 'VBD', '', 'O') ('discovery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('defense', 'NN', '', 'O')
+Meihao
+__NEW_SENT__
+('Meihao', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('counsel', 'NN', '', 'O') ('unreasonably', 'RB', '', 'O') ('and', 'CC', '', 'O') ('self-servingly', 'RB', '', 'O') ('tried', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('avoid', 'VB', '', 'O') ('discovery', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('own', 'JJ', '', 'O') ('misconduct', 'NN', '', 'O')
+Meihao Leviton Leviton
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('Meihao', 'NNP', 'PERSON', 'B') ('issued', 'VBD', '', 'O') ('subpoenas', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Sutton', 'NNP', 'PERSON', 'B') ('Magidoff', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Narcisse', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('witnesses', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('object', 'VB', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('produce', 'VB', '', 'O') ('documents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('appear', 'VB', '', 'O') ('for', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('scheduled', 'VBN', '', 'O') ('depositions', 'NNS', '', 'O')
+Meihao Sutton Magidoff
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('belatedly', 'RB', '', 'O') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('quash', 'VB', '', 'O') ('primarily', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('witnesses', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('acting', 'VBG', '', 'O') ('as', 'IN', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('litigation', 'NN', '', 'O') ('counsel', 'NN', '', 'O')
+Leviton Leviton
+__NEW_SENT__
+('In', 'IN', '', 'O') ('March', 'NNP', 'DATE', 'B') ('2007', 'CD', 'DATE', 'I') ('Greenberg_Traurig', 'NNP', '', 'O') ('withdrew', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('replaced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Nixon', 'NNP', 'PERSON', 'B') ('Vanderhye', 'NNP', 'PERSON', 'I')
+March 2007 Nixon Vanderhye
+__NEW_SENT__
+('Narcisse', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Magidoff', 'NNP', 'ORG', 'B') ('subsequently', 'RB', '', 'O') ('appeared', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('depositions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('new', 'JJ', '', 'O') ('counsel', 'NN', '', 'O') ('made', 'VBD', '', 'O') ('numerous', 'JJ', '', 'O') ('privileged', 'JJ', '', 'O') ('advice', 'NN', '', 'O') ('and', 'CC', '', 'O') ('work_product_objections', 'NNPS', '', 'O') ('and', 'CC', '', 'O') ('repeatedly', 'RB', '', 'O') ('instructed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('witnesses', 'NNS', '', 'O') ('not', 'RB', '', 'O') ('to', 'TO', '', 'O') ('answer', 'VB', '', 'O')
+Magidoff Leviton
+__NEW_SENT__
+('During', 'IN', '', 'O') ('Narcisse', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('deposition', 'NN', '', 'O') ('counsel', 'NN', '', 'O') ('made', 'VBD', '', 'O') ('96', 'CD', 'CARDINAL', 'B') ('privileged', 'JJ', '', 'O') ('advice', 'NN', '', 'O') ('and', 'CC', '', 'O') ('work_product_objections', 'NNPS', '', 'O') ('and', 'CC', '', 'O') ('over', 'IN', '', 'O') ('a', 'DT', 'CARDINAL', 'B') ('third', 'NN', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('explicitly', 'RB', '', 'O') ('instructed', 'VBD', '', 'O') ('Narcisse', 'NNP', 'PRODUCT', 'B') ('not', 'RB', '', 'O') ('to', 'TO', '', 'O') ('answer', 'VB', '', 'O')
+Narcisse 96 a third Narcisse
+__NEW_SENT__
+('Many', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('questions', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('about', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relationship', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('or', 'CC', '', 'O') ('Narcisse', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('rationale', 'NN', '', 'O') ('for', 'IN', '', 'O') ('failing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O')
+1 Narcisse
+__NEW_SENT__
+('For', 'IN', '', 'O') ('example', 'NN', '', 'O') ('Narcisse', 'NNP', 'PERSON', 'B') ('declined', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('answer', 'VB', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') ('questions', 'NNS', '', 'O') ('claiming', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('work-product', 'JJ', '', 'O') ('exception', 'NN', '', 'O') (':', ':', '', 'O') ('¡E', 'CD', '', 'O') ('Can', 'MD', '', 'O') ('you', 'PRP', '', 'O') ('tell', 'VB', '', 'O') ('me', 'PRP', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Claim', 'NNP', 'FAC', 'B') ('1', 'CD', 'FAC', 'I') ('where', 'WRB', '', 'O') ('you', 'PRP', '', 'O') ('got', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('language', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Claim', 'NNP', 'FAC', 'B') ('1', 'CD', 'FAC', 'I') ('?', '.', '', 'O')
+Narcisse Claim 1 Claim 1
+__NEW_SENT__
+('¡E', 'CD', 'DATE', 'B') ('So', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ("n't", 'RB', '', 'O') ('it', 'PRP', '', 'O') ('a', 'DT', '', 'O') ('fact', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Claim', 'NNP', '', 'O') ('1', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766', 'NN', '', 'O') ('application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('copied', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('Claim', 'NNP', 'FAC', 'B') ('31', 'CD', 'FAC', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('?', '.', '', 'O')
+¡E Claim 31
+__NEW_SENT__
+('¡E', 'CD', 'CARDINAL', 'B') ('Can', 'MD', '', 'O') ('you', 'PRP', '', 'O') ('tell', 'VB', '', 'O') ('me', 'PRP', '', 'O') ('where', 'WRB', '', 'O') ('you', 'PRP', '', 'O') ('got', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('phrase', 'NN', '', 'O') ('``', '``', '', 'O') ('move-able', 'JJ', '', 'O') ('bridge', 'NN', '', 'O') ("''", "''", '', 'O') ('?', '.', '', 'O')
+¡E
+__NEW_SENT__
+('¡E', 'CD', 'CARDINAL', 'B') ('Did', 'VBD', '', 'O') ('you', 'PRP', '', 'O') ('consider', 'VB', '', 'O') ('disclosing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Germain_application', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('?', '.', '', 'O')
+¡E
+__NEW_SENT__
+('¡E', 'CD', '', 'O') ('How', 'WRB', '', 'O') ('do', 'VBP', '', 'O') ('you', 'PRP', '', 'O') ('explain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('similarity', 'NN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('language', 'NN', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('Magidoff', 'NNP', 'ORG', 'B') ('refused', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('answer', 'VB', '', 'O') ('similar', 'JJ', '', 'O') ('questions', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('advice', 'NN', '', 'O') ('and', 'CC', '', 'O') ('objection', 'NN', '', 'O') ('by', 'IN', '', 'O') ('counsel', 'NN', '', 'O')
+Magidoff
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('these', 'DT', '', 'O') ('objections', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('baseless', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Another', 'DT', '', 'O') ('round', 'NN', '', 'O') ('of', 'IN', '', 'O') ('briefing', 'NN', '', 'O') ('ensued', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('Meihao', 'NNP', 'ORG', 'B') ('seeking', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('compelling', 'VBG', '', 'O') ('Narcisse', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Magidoff', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('appear', 'VB', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('*1358', 'NNS', '', 'O') ('deposition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('fully', 'RB', '', 'O') ('answer', 'VB', '', 'O') ('Meihao', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('questions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('also', 'RB', '', 'O') ('compelling', 'JJ', '', 'O') ('Sutton', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('appear', 'VB', '', 'O') ('for', 'IN', '', 'O') ('deposition', 'NN', '', 'O')
+Meihao Narcisse Magidoff Meihao Sutton
+__NEW_SENT__
+('The', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('argued', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('submitted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Magistrate_Judge_Gauvey', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('17', 'CD', 'DATE', 'I') ('2007', 'CD', 'DATE', 'I')
+September 17 2007
+__NEW_SENT__
+('Meihao', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('compel', 'VB', '', 'O') ('were', 'VBD', '', 'O') ('still', 'RB', '', 'O') ('pending', 'VBG', '', 'O') ('when', 'WRB', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('in', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('2007', 'CD', 'DATE', 'I') ('but', 'CC', '', 'O') ('the', 'DT', '', 'O') ('magistrate_judge', 'NN', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('about', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('grant', 'VB', '', 'O') ('them', 'PRP', '', 'O')
+Meihao Leviton November 2007
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('28', 'CD', 'DATE', 'I') ('2007', 'CD', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O')
+November 28 Leviton
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('asserts', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('succeeded', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('forcing', 'VBG', '', 'O') ('Meihao', 'NNP', 'GPE', 'B') ('to', 'TO', '', 'O') ('stop', 'VB', '', 'O') ('selling', 'VBG', '', 'O') ('older-model', 'NN', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('products', 'NNS', '', 'O')
+Leviton Meihao
+__NEW_SENT__
+('Meihao', 'NNP', 'ORG', 'B') ('alleges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('real', 'JJ', '', 'O') ('reason', 'NN', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('moved', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('wanted', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('avoid', 'VB', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('unenforceable', 'JJ', '', 'O')
+Meihao Leviton
+__NEW_SENT__
+('Leviton', 'NNP', 'GPE', 'B') ('has', 'VBZ', '', 'O') ('more', 'JJR', 'CARDINAL', 'B') ('than', 'IN', 'CARDINAL', 'I') ('30', 'CD', 'CARDINAL', 'I') ('different', 'JJ', '', 'O') ('issued', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('patent', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('relate', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('counsel', 'NN', '', 'O') ('of', 'IN', '', 'O') ('record', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬766_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('counsel', 'NN', '', 'O') ('of', 'IN', '', 'O') ('record', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('on', 'IN', '', 'O') ('several', 'JJ', 'CARDINAL', 'B') ('hundred', 'CD', 'CARDINAL', 'I') ('Leviton', 'NNP', 'GPE', 'B') ('patents', 'NNS', '', 'O')
+Leviton more than 30 ¡¬766_patent Leviton several hundred Leviton
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('with', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('17', 'CD', 'DATE', 'I') ('2007', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('gave', 'VBD', '', 'O') ('Meihao', 'NNP', 'GPE', 'B') ('leave', 'VB', '', 'O') ('to', 'TO', '', 'O') ('file', 'VB', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O')
+December 17 2007 Meihao
+__NEW_SENT__
+('The', 'DT', '', 'O') ('magistrate_judge', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('hearing', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('3', 'CD', 'DATE', 'I') ('2008', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('128', 'CD', 'CARDINAL', 'B') ('page', 'NN', '', 'O') ('Memorandum', 'NNP', 'LOC', 'B') ('Opinion', 'NNP', 'LOC', 'I') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('23', 'CD', 'DATE', 'I') ('2008', 'CD', 'DATE', 'I') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('she', 'PRP', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Leviton', 'NNP', 'GPE', 'B') ('had', 'VBD', '', 'O') ('committed', 'VBN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('engaged', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('strategy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('vexatious_litigation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('an', 'DT', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fees', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Meihao', 'NNP', 'GPE', 'B') ('was', 'VBD', '', 'O') ('proper', 'JJ', '', 'O')
+September 3 2008 128 Memorandum Opinion December 23 2008 Leviton Meihao
+__NEW_SENT__
+('District', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Andre', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Davis', 'NNP', 'PERSON', 'I') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_12,_2009', 'NNP', '', 'O') ('accepting', 'VBG', '', 'O') ('Magistrate_Judge_Gauvey', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('report', 'NN', '', 'O') ('and', 'CC', '', 'O') ('recommendations', 'NNS', '', 'O')
+Andre M. Davis
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('money', 'NN', '', 'O') ('judgments', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Meihao', 'NNP', 'GPE', 'B') ('together', 'RB', '', 'O') ('totaling', 'VBG', '', 'O') ('$', '$', '', 'O') ('1,046,353.10', 'CD', 'MONEY', 'B') ('in', 'IN', '', 'O') ('costs', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('reasonable', 'JJ', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+two Meihao 1,046,353.10
+__NEW_SENT__

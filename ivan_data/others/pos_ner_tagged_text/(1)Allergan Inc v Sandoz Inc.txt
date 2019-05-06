@@ -1,0 +1,168 @@
+('796_F.3d_1293', 'LS', 'CARDINAL', 'B')
+796_F.3d_1293
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ALLERGAN', 'NNP', 'ORG', 'B') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('SANDOZ', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Lupin_Ltd.', 'NNP', '', 'O') ('Lupin_Pharmaceuticals', 'NNS', '', 'O') ('Inc.', 'NNP', '', 'O') ('Hi-Tech_Pharmacal_Co.', 'NN', '', 'O') ('Inc.', 'NNP', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+ALLERGAN
+__NEW_SENT__
+('No._2014-1275', 'UH', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Aug._4,_2015', 'NNP', 'GPE', 'B')
+Aug._4,_2015
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('topical', 'JJ', '', 'O') ('solutions', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('glaucoma', 'NN', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('applying', 'VBG', '', 'O') ('them', 'PRP', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitors', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('bench_trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Michael', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Schneider', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2013_WL_1314188', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('no', 'DT', '', 'O') ('invalidity', 'NN', '', 'O')
+Texas Michael H. Schneider J. 2013_WL_1314188
+__NEW_SENT__
+('Competitors', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Lourie Circuit_Judge
+__NEW_SENT__
+('prior_art', 'NNP', '', 'O') ('taught', 'VBD', '', 'O') ('away', 'RB', '', 'O') ('from', 'IN', '', 'O') ('claimed', 'VBN', '', 'O') ('inventions', 'NNS', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('claimed', 'VBN', '', 'O') ('inventions', 'NNS', '', 'O') ('exhibited', 'VBD', '', 'O') ('unexpected', 'JJ', '', 'O') ('results', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('differed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('kind', 'NN', '', 'O') ('from', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('specifications', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('company', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('asserted', 'VBN', '', 'O') ('patents', 'NNS', '', 'O') ('provided', 'VBN', '', 'O') ('adequate', 'JJ', '', 'O') ('written', 'VBN', '', 'O') ('descriptions', 'NNS', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('asserted', 'JJ', '', 'O') ('patents', 'NNS', '', 'O') ('satisfied', 'VBD', '', 'O') ('enablement', 'NN', '', 'O') ('requirement', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('proposed', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('literally', 'RB', '', 'O') ('infringed', 'VBD', '', 'O') ('patents', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1297', 'IN', '', 'O') ('Juanita', 'NNP', 'PERSON', 'B') ('Rose', 'NNP', 'PERSON', 'I') ('Brooks', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', '', 'O') ('P.C.', 'NNP', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Juanita Rose Brooks Fish &
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Craig', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Countryman', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('Elliot', 'NNP', 'PERSON', 'I') ('Singer', 'NNP', 'PERSON', 'I') ('Deanna', 'NNP', '', 'O') ('Jean', 'NNP', 'PERSON', 'B') ('Reichel', 'NNP', 'PERSON', 'I') ('Minneapolis', 'NNP', '', 'O') ('MN', 'NNP', '', 'O') (';', ':', '', 'O') ('Douglas', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('McCann', 'NNP', 'PERSON', 'I') ('Susan', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Coletti', 'NNP', 'PERSON', 'I') ('Wilmington', 'NNP', '', 'O') ('DE', 'NNP', '', 'O')
+Craig E. Countryman Jonathan Elliot Singer Jean Reichel Douglas E. McCann Susan M. Coletti
+__NEW_SENT__
+('Deanne', 'NNP', 'ORG', 'B') ('Maynard', 'NNP', 'ORG', 'I') ('Morrison', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Foerster', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O') ('Sandoz_Inc.', 'NN', '', 'O') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Brian', 'NNP', 'PERSON', 'B') ('Robert', 'NNP', 'PERSON', 'I') ('Matsui', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('Clarence', 'NNP', 'PERSON', 'I') ('Doyle', 'NNP', 'PERSON', 'I') ('Anders', 'NNPS', '', 'O') ('T.', 'NNP', '', 'O') ('Aannestad', 'NNP', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('Cekola', 'NNP', 'PERSON', 'I') ('San_Diego', 'NNP', 'PERSON', 'I') ('CA', 'NNP', '', 'O')
+Deanne Maynard Morrison & Foerster Brian Robert Matsui David Clarence Doyle James Cekola San_Diego
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Rakoczy', 'NNP', 'PERSON', 'I') ('Rakoczy', 'NNP', '', 'O') ('Molino', 'NNP', '', 'O') ('Mazzochi', 'NNP', '', 'O') ('Siwik', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O') ('Lupin_Ltd.', 'NNP', 'ORG', 'B') ('Lupin_Pharmaceuticals', 'NNS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Molino', 'NNP', 'PERSON', 'I') ('Deanne', 'NNP', 'PERSON', 'I') ('M.', 'NNP', 'PERSON', 'I') ('Mazzochi', 'NNP', 'PERSON', 'I') ('Theodore', 'NNP', 'PERSON', 'I') ('Joseph', 'NNP', 'PERSON', 'B') ('Chiacchio', 'NNP', 'PERSON', 'I') ('John', 'NNP', 'PERSON', 'B') ('Polivick', 'NNP', 'PERSON', 'I')
+William A. Rakoczy Chicago Lupin_Ltd. Lupin_Pharmaceuticals Inc. Paul J. Molino Deanne M. Mazzochi Theodore Joseph Chiacchio John Polivick
+__NEW_SENT__
+('Steven', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Roth', 'NNP', 'PERSON', 'I') ('Locke', 'NNP', '', 'O') ('Lord', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('New_York', 'NNP', '', 'O') ('N.Y.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O') ('Hi-Tech_Pharmacal_Co.', 'NN', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Vetter', 'NNP', 'PERSON', 'I') ('Lucas', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Mercanti', 'NNP', '', 'O') ('LLP', 'NNP', 'ORG', 'B') ('New_York', 'NN', 'ORG', 'I') ('N.Y.', 'NNP', '', 'O') ('Before', 'IN', '', 'O') (':', ':', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('LINN', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('HUGHES', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Steven D. Roth N.Y. Hi-Tech_Pharmacal_Co. Inc. Thomas J. Vetter Lucas & LLP New_York LOURIE LINN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('Sandoz_Inc.', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Sandoz', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('Lupin_Ltd.', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Lupin_Pharmaceuticals', 'NNPS', '', 'O') ('Inc.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Lupin', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Hi-Tech_Pharmacal_Co.', 'NN', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Hi-Tech', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('the', 'DT', 'WORK_OF_ART', 'I') ('Appellants', 'NNPS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('bench_trial', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+Sandoz Lupin Hi-Tech_Pharmacal_Co. Inc. Hi-Tech `` the Appellants '' 1 United_States_District_Court Texas U.S
+__NEW_SENT__
+('Patents', 'NNP', '', 'O') ('7,851,504', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬504_patent', 'NNP', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') (')', '-RRB-', 'PRODUCT', 'I') ('8,278,353', 'CD', 'PRODUCT', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬353_patent', 'JJ', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') (')', '-RRB-', 'PRODUCT', 'I') ('8,299,118', 'CD', 'PRODUCT', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬118_patent', 'NN', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') (')', '-RRB-', 'PRODUCT', 'I') ('8,309,605', 'CD', 'PRODUCT', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬605_patent', 'JJ', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('8,338,479', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬479_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('*1298', 'VBD', '', 'O') ('asserted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Allergan', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Allergan', 'NNP', 'PERSON', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬353', 'JJ', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬', 'NNP', '', 'O') ('118', 'CD', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('adequate', 'JJ', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('112', 'CD', '', 'O') ('?', '.', '', 'O')
+7,851,504 ¡¬504_patent `` ) 8,278,353 ¡¬353_patent `` ) 8,299,118 ¡¬118_patent `` ) 8,309,605 ¡¬605_patent `` 8,338,479 Allergan Inc. Allergan 35 103 ¡¬353 35
+__NEW_SENT__
+('1.2', 'CD', '', 'O') ('Allergan', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Sandoz_Inc.', 'NNP', '', 'O') ('No._6', 'NNP', '', 'O') (':11-cv-00441', 'NN', '', 'O') ('ECF', 'NNP', '', 'O') ('No._303', 'NNP', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('77', 'CD', 'DATE', 'B') ('79', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('E.D.Tex', '.', '', 'O')
+Allergan Inc. 77 79
+__NEW_SENT__
+('Jan._13,_2014', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Opinion', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Additionally', 'RB', 'ORG', 'B') ('Lupin', 'NNP', 'ORG', 'I') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('determination', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Allergan', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enablement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'CD', '', 'O') ('112', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O')
+Additionally Lupin Allergan 112
+__NEW_SENT__
+('1', 'LS', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('80-81', 'CD', '', 'O')
+
+__NEW_SENT__
+('Hi-Tech', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('504', 'CD', '', 'O') ('¡¬605', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬479_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('literally', 'RB', '', 'O') ('and', 'CC', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+Hi-Tech
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('64-66', 'CD', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('follow', 'VBP', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('all', 'DT', '', 'O') ('respects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'PERSON', 'B') ('Glaucoma', 'NNP', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('eye', 'NN', '', 'O') ('disease', 'NN', '', 'O') ('associated', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('elevated', 'JJ', '', 'O') ('intraocular', 'JJ', '', 'O') ('pressure', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('IOP', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+I. Glaucoma IOP
+__NEW_SENT__
+('Treatments', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('effectively', 'RB', '', 'O') ('reduce', 'VBP', '', 'O') ('IOP', 'NNP', 'ORG', 'B') ('can', 'MD', '', 'O') ('slow', 'VB', '', 'O') ('the', 'DT', '', 'O') ('progression', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('disease', 'NN', '', 'O')
+IOP
+__NEW_SENT__
+('If', 'IN', '', 'O') ('left', 'VBN', '', 'O') ('untreated', 'JJ', '', 'O') ('however', 'RB', '', 'O') ('elevated', 'JJ', '', 'O') ('IOP', 'NNP', 'ORG', 'B') ('can', 'MD', '', 'O') ('damage', 'VB', '', 'O') ('the', 'DT', '', 'O') ('optic', 'JJ', '', 'O') ('nerve', 'NN', '', 'O') ('and', 'CC', '', 'O') ('lead', 'VB', '', 'O') ('to', 'IN', '', 'O') ('permanent', 'JJ', '', 'O') ('vision', 'NN', '', 'O') ('loss', 'NN', '', 'O') ('and', 'CC', '', 'O') ('blindness', 'NN', '', 'O')
+IOP
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2001', 'CD', 'DATE', 'B') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('approved', 'VBD', '', 'O') ('LumiganTHE_R', 'NNP', '', 'O') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Lumigan', 'NN', 'GPE', 'B') ('0.03', 'CD', '', 'O') ('%', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('once-daily', 'JJ', '', 'O') ('topical', 'JJ', '', 'O') ('solution', 'NN', '', 'O') ('developed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Allergan', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('open', 'JJ', '', 'O') ('angle', 'NN', '', 'O') ('glaucoma', 'NN', '', 'O') ('and', 'CC', '', 'O') ('ocular', 'JJ', '', 'O') ('hypertension', 'NN', '', 'O')
+2001 the U.S. Food and Drug Administration FDA 0.03 % Lumigan Allergan
+__NEW_SENT__
+('Lumigan', 'NN', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('contains', 'VBZ', '', 'O') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('by', 'IN', '', 'O') ('weight', 'NN', '', 'O') ('of', 'IN', '', 'O') ('bimatoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('50', 'CD', 'CARDINAL', 'B') ('parts', 'NNS', 'CARDINAL', 'I') ('per', 'IN', 'CARDINAL', 'I') ('million', 'CD', 'CARDINAL', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ppm', 'FW', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('benzalkonium', 'NN', '', 'O') ('chloride', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('BAK', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('among', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('ingredients', 'NNS', '', 'O')
+Lumigan 0.03 % 0.03 % 50 parts per million BAK
+__NEW_SENT__
+('Bimatoprost', 'VB', '', 'O') ('the', 'DT', '', 'O') ('active', 'JJ', '', 'O') ('ingredient', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('prostaglandin', 'NN', '', 'O') ('analog', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('effectively', 'RB', '', 'O') ('lowers', 'VBZ', '', 'O') ('IOP', 'NNP', 'ORG', 'B') ('but', 'CC', '', 'O') ('can', 'MD', '', 'O') ('cause', 'VB', '', 'O') ('hyperemia', 'NN', '', 'O') ('i.e.', 'FW', '', 'O') ('red', 'JJ', '', 'O') ('eye', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('administered', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ocular_surface', 'NN', '', 'O')
+Lumigan 0.03 % IOP
+__NEW_SENT__
+('One', 'CD', 'CARDINAL', 'B') ('structural', 'JJ', '', 'O') ('difference', 'NN', '', 'O') ('between', 'IN', '', 'O') ('bimatoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('other', 'JJ', '', 'O') ('prostaglandin', 'NN', '', 'O') ('analogs', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('were', 'VBD', '', 'O') ('approved', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('glaucoma', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('approval', 'NN', '', 'O') ('XalatanTHE_R', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('latanoprost', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('TravatanTHE_R', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('travoprost', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('that', 'DT', '', 'O') ('bimatoprost', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('amide', 'NN', '', 'O') ('instead', 'RB', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('ester', 'NN', '', 'O') ('as', 'IN', '', 'O') ('in', 'IN', '', 'O') ('latanoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('travoprost', 'NN', '', 'O')
+One two XalatanTHE_R TravatanTHE_R
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('at', 'IN', '', 'O') ('7-8', 'CD', 'DATE', 'B')
+7-8
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('understood', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('both', 'DT', '', 'O') ('latanoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('travoprost', 'NN', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('bimatoprost', 'VBD', '', 'O') ('act', 'NN', '', 'O') ('as', 'IN', '', 'O') ('prodrugs', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('corresponding', 'JJ', '', 'O') ('acids', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('BAK', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('preservative', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inhibiting', 'VBG', '', 'O') ('bacterial', 'JJ', '', 'O') ('growth', 'NN', '', 'O') ('in', 'IN', '', 'O') ('ophthalmic', 'JJ', '', 'O') ('solutions', 'NNS', '', 'O')
+BAK
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('however', 'RB', '', 'O') ('that', 'IN', '', 'O') ('BAK', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('cytotoxic', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('can', 'MD', '', 'O') ('damage', 'VB', '', 'O') ('the', 'DT', '', 'O') ('cells', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ocular_surface', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cause', 'VB', '', 'O') ('undesirable', 'JJ', '', 'O') ('side', 'NN', '', 'O') ('effects', 'NNS', '', 'O')
+BAK
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('was', 'VBD', '', 'O') ('effective', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('lowering', 'VBG', '', 'O') ('IOP', 'NNP', 'ORG', 'B') ('it', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('caused', 'VBD', '', 'O') ('frequent', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('severe_hyperemia', 'NN', '', 'O')
+Lumigan 0.03 % IOP
+__NEW_SENT__
+('Many', 'JJ', '', 'O') ('patients', 'NNS', '', 'O') ('thus', 'RB', '', 'O') ('stopped', 'VBD', '', 'O') ('using', 'VBG', '', 'O') ('it', 'PRP', '', 'O') ('without', 'IN', '', 'O') ('consulting', 'VBG', '', 'O') ('their', 'PRP$', '', 'O') ('physicians', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('led', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('gradual', 'JJ', '', 'O') ('vision', 'NN', '', 'O') ('loss', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('address', 'VB', '', 'O') ('that', 'DT', '', 'O') ('problem', 'NN', '', 'O') ('Allergan', 'NNP', 'PERSON', 'B') ('explored', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('alternative', 'JJ', '', 'O') ('formulations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('bimatoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('surprisingly', 'RB', '', 'O') ('discovered', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('increasing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('BAK', 'NNP', 'ORG', 'B') ('from', 'IN', '', 'O') ('50', 'CD', 'CARDINAL', 'B') ('ppm', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('200', 'CD', 'CARDINAL', 'B') ('ppm', 'NNS', '', 'O') ('significantly', 'RB', '', 'O') ('increased', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('corneal', 'JJ', '', 'O') ('permeability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('bimatoprost', 'NN', '', 'O')
+Allergan BAK 50 200
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('12-13', 'CD', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('research', 'NN', '', 'O') ('Allergan', 'NNP', 'ORG', 'B') ('developed', 'VBD', '', 'O') ('LumiganTHE_R', 'NNP', 'ORG', 'B') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Lumigan', 'NN', 'GPE', 'B') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Allergan LumiganTHE_R 0.01 % Lumigan 0.01 %
+__NEW_SENT__
+('Lumigan', 'NN', 'GPE', 'B') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('topical', 'JJ', '', 'O') ('solution', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('bimatoprost', 'NN', '', 'O') ('and', 'CC', '', 'O') ('200', 'CD', 'CARDINAL', 'B') ('ppm', 'NN', '', 'O') ('BAK', 'NNP', 'ORG', 'B') (';', ':', '', 'O') ('otherwise', 'RB', '', 'O') ('it', 'PRP', '', 'O') ('has', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('ingredients', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I')
+Lumigan 0.01 % 0.01 % 200 BAK Lumigan 0.03 %
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('Lumigan', 'NNP', 'GPE', 'B') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('three-fold', 'JJ', '', 'O') ('lower', 'JJR', '', 'O') ('bimatoprost', 'NN', '', 'O') ('concentration', 'NN', '', 'O') ('*1299', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('four-fold', 'JJ', '', 'O') ('higher', 'JJR', '', 'O') ('BAK', 'NNP', 'ORG', 'B') ('concentration', 'NN', '', 'O')
+Lumigan 0.03 % Lumigan 0.01 % BAK
+__NEW_SENT__
+('Clinical', 'JJ', 'ORG', 'B') ('studies', 'NNS', '', 'O') ('showed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('has', 'VBZ', '', 'O') ('similar', 'JJ', '', 'O') ('efficacy', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('viz.', 'NN', '', 'O') ('IOP-lowering', 'VBG', '', 'O') ('within', 'IN', '', 'O') ('0.5', 'CD', 'CARDINAL', 'B') ('mmHg', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('that', 'DT', '', 'O') ('of', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('but', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('causes', 'VBZ', '', 'O') ('less', 'RBR', '', 'O') ('frequent', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('severe_hyperemia', 'NN', '', 'O') ('than', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I')
+Clinical Lumigan 0.01 % Lumigan 0.03 % 0.5 Lumigan 0.03 % Lumigan 0.03 %
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('20-21', 'CD', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2010', 'CD', 'DATE', 'B') ('the', 'DT', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ('approved', 'VBD', '', 'O') ('Allergan', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('New', 'NNP', 'ORG', 'B') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Lumigan', 'NNP', 'ORG', 'I') ('0.01', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('approved', 'VBN', '', 'O') ('uses', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('Lumigan', 'NNP', 'GPE', 'B') ('0.03', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I')
+2010 FDA Allergan New Drug Application for Lumigan 0.01 % Lumigan 0.03 %
+__NEW_SENT__

@@ -1,0 +1,165 @@
+523_F.3d_1304
+United States Court of Appeals Federal Circuit
+HONEYWELL INTERNATIONAL INC. ( formerly known as AlliedSignal Inc. ) and Honeywell_Intellectual_Properties Inc. ( formerly known as AlliedSignal Technologies Inc. ) Plaintiffs-Appellants v. HAMILTON SUNDSTRAND CORPORATION ( formerly known as Sundstrand Corp. ) Defendant-Appellee
+No._2006-1602
+| April_18,_2008
+| Rehearing En Banc Denied May_29,_2008
+Synopsis
+Background : Owners of patents claiming technology to control airflow_surge in auxiliary_power_units ( APUs ) brought infringement action against competitor
+After the Court of Appeals vacated an infringement verdict in favor of owners and remanded the United_States_District_Court for the District of Delaware Gregory M. Sleet J. 2006_WL_2346446 barred owners from asserting doctrine of equivalents
+Owners appealed
+
+Holdings : The Court of Appeals Rader Circuit_Judge held that :
+
+equivalent proposed by owners was foreseeable and thus precluded by prosecution_history_estoppel principles ;
+
+judicial estoppel did not apply to bar competitor from reversing its prior position that its surge_control_system was unique ; and
+
+alleged equivalent bore a direct not merely tangential relation to amendment and therefore tangentiality criterion did not exempt owner from presumption of patent prosecution_history_estoppel
+
+Affirmed
+
+Newman Circuit_Judge dissented and filed opinion
+
+Attorneys and Law Firms
+*1306 Robert G. Krupka Kirkland & Ellis LLP of Los Angeles CA argued for plaintiffs-appellants
+With him on the brief were Jonathan F. Putnam Lee Ann Stevenson and Kevin N. Malek of New_York NY
+Mark L. Levine Bartlit Beck Herman Palenchar & Scott LLP of Chicago IL argued for defendant-appellee
+With him on the brief were Chris J. Lind and Brian C. Swanson
+Of counsel on the brief was David H. Herrington Cleary Gottlieb Steen & Hamilton LLP of New_York NY
+Before NEWMAN RADER and DYK Circuit_Judges
+Opinion
+RADER Circuit_Judge
+Honeywell_International Inc. and Honeywell_Intellectual_Properties Inc. ( collectively `` Honeywell '' ) brought suit against Hamilton Sundstrand Corporation ( `` Sundstrand '' ) for infringement of claims 8 10 11 19 and 23 of United States Patent No._4380,893 ( `` the ¡¬893_patent `` ) and claim 4 of Patent No._4428,194 ( `` the ¡¬194_patent `` )
+Because `` rewriting of dependent *1307 claims into independent_form coupled with the cancellation of the original_independent_claims creates a presumption of prosecution_history_estoppel '' this court vacated an earlier infringement verdict in favor of Honeywell and remanded to determine whether Honeywell could rebut the presumption of surrender under Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co. 535_U.S._722 122_S.Ct._1831 152_L.Ed.2d_944_(2002) ( Festo VIII ) remanded to 344_F.3d_1359_(Fed.Cir.2003) ( en banc ) ( Festo_IX )
+Honeywell_Int ' l_Inc. v. Hamilton_Sundstrand_Corp. 370_F.3d_1131 1134 ( Fed.Cir.2004 ) ( en banc ) ( Honeywell_II )
+On remand the United_States_District_Court for the District of Delaware barred Honeywell from asserting the doctrine of equivalents
+Honeywell_Int ' l_Inc. v. Hamilton_Sundstrand_Corp. No._99-309 2006_WL_2346446 *1 2006 U.S._Dist
+LEXIS 57030 at *2 ( D.Del
+Aug._14,_2006 ) ( Honeywell_III )
+Because Honeywell did not show that the alleged equivalent was unforeseeable at the time of the narrowing amendment or that the narrowing amendment bore no more than a tangential_relation to the alleged equivalent this court affirms
+
+I
+The patents at issue claim technology to control airflow_surge in auxiliary_power_units or `` APUs ''
+An APU is a gas_turbine_engine often used in the tail end of aircraft
+The APU generates electricity for the aircraft and includes a load_compressor to supply compressed air for starting the aircraft 's main engines and for controlling the cabin 's environment during flight
+Because APUs face rapidly changing demand levels for compressed air during flight they must control against `` surges ''
+A surge is an aerodynamic phenomenon which occurs when airflow through the compressor is too low
+In a surge condition the airflow can not exit the compressor
+Instead the airflow_surges back into the compressor potentially damaging the APU
+
+A surge_control_system maintains a minimum level of airflow through the compressor at all times
+Conventional systems provided a wide safety margin by drawing more air than required into the compressor 's main air duct and venting the excess through a surge_bleed_valve
+While effective these prior_art systems were inefficient
+Honeywell 's patents claim a more efficient APU surge_control_system
+Honeywell 's invention establishes a `` set_point '' that represents the minimum flow to avoid surges
+`` Ambient air.. is drawn through a set of adjustable_inlet_guide_vanes ( 'IGV ' ).. '' ¡¬893_Patent col.3 ll.64-65
+The IGVs open and close like Venetian blinds and regulate the amount of ambient air drawn into the load_compressor
+The value of the set_point is `` a function of the position of said [ IGVs ] ''
+Id
+col.12 ll.11-12
+The invention regulates this set_point by comparison to a `` flow-related parameter '' that measures airflow out of the compressor
+Id
+col.BIG_TOKEN__2_ll._48__BIG_TOKEN -54
+`` Thus a comparison is made between the actual flow_conditions ( represented by the flow-related parameter ) and the desired flow_conditions ( represented by the set_point ) ''
+Honeywell_II 370 F.3d at 1134
+The invention generates an error_signal if the airflow through the compressor is too low
+In response to this signal the inventive APU determines the proper setting of the surge_bleed_valve to prevent a build up of pressure and maintain sufficient airflow
+¡¬ 194 Patent col.2 ll.12-20 55-60
+
+The ¡¬194_patent issued from a divisional of the application that issued as the ¡¬893_patent
+During prosecution of the ¡¬893_patent to overcome a rejection under 35 U.S.C.¡± 121 the applicant separated the system claims from the method_claims
+The system claims issued in the ¡¬893_patent and the method_claims issued in the *1308 ¡¬194_patent
+The independent_claims on appeal are claims 8_and_19 of the ¡¬893_patent and claim 4 of the ¡¬194_patent
+Each of these claims requires the APU to include IGVs which are used by the surge_control_system
+These independent_claims were dependent_claims 17 35_and_51 in the original application that ultimately issued as the ¡¬863_patent
+The original_independent_claims ( application claims 16 32_and_48 ) did not contain any reference to IGVs or any use of the position of these guide vanes in the surge_control_system
+The United States Patent and Trademark Office rejected the original_independent_claims as obvious in light of the prior_art but allowed the dependent_claims when rewritten into independent_form
+Claims 8_and_19 of the ¡¬893_patent state : 8
+A gas_turbine_engine accessory power unit having a fluctuating compressed air_supply_demand said accessory power unit comprising : ( a ) a compressor having adjustable_inlet_guide_vanes ; ( b ) duct_means for receiving compressed air discharged from said compressor and supplying the received air to the pneumatically-powered apparatus ; ( c ) surge_bleed means operable to exhaust from said duct_means a selectively variable quantity of air to assure at least a predetermined minimum_flow_rate through said duct_means and thereby prevent surge of said compressor ; ( d ) sensing means for sensing the value of a predetermined flow-related parameter within said duct_means and generating an output_signal indicative of said value said value of said flow-related parameter being substantially independent of the temperature of the compressed air ; ( e ) comparator means for receiving said sensing means output_signal and generating an error_signal representing the difference between the sensed value of said parameter and a desired value thereof said comparator means having an adjustable control set_point representing said desired value of said parameter ; ( f ) means for transmitting to said comparator means a reset signal for varying said set_point as a function of the position of said inlet_guide_vanes in accordance with a predetermined reset schedule ; and
+( g ) control means for receiving said error_signal and transmitting to said surge_bleed means a control_signal to operate said surge_bleed means the magnitude of said control_signal having relative to the magnitude of said error_signal a proportional component and an integral component whereby said minimum_flow_rate through said duct_means is essentially constant regardless of the compressed air_supply_demand of the pneumatically-powered apparatus
+'893_Patent col.11 l.52-col.12 l.23 ( emphases added )
+19
+A control system for assuring a substantially constant minimum_flow_rate through a duct receiving air discharged from a compressor or the like having adjustable_inlet_guide_vanes the duct having a supply outlet connected to pneumatically-operated apparatus having a variable supply air demand the duct further having an exhaust_outlet said control system comprising : ( a ) a flow regulating device adapted to be positioned in the exhaust_outlet and operable to selectively vary air flow outwardly therethrough ; ( b ) a sensing device having a sensing portion adapted to be positioned in the duct to sense therein a predetermined *1309 parameter related to the air flow_rate through the duct said sensing device further having an output_portion ; ( c ) an adjustable set_point comparator having an input_portion coupled to said output_portion of said sensing device and an outlet adapted to generate an error_signal ; ( d ) a proportional_controller having an inlet coupled to said output of said comparator and further having an outlet ; ( e ) an integral_controller having an inlet coupled to said outlet of said comparator and further having an outlet ; ( f ) a summer having a first inlet coupled to said outlet of said proportional_controller a second inlet coupled to said outlet of said integral_controller and an outlet coupled to said flow regulating device ; and
+( g ) a guide vane position sensor and a function generator coupled in series between the inlet_guide_vanes and said input_portion of said comparator
+Id
+col. 4 l.62-col. 16 l.22 ( emphases added )
+
+Claim 4 of the ¡¬194_patent states : 4
+A method of utilizing a compressor of a gas_turbine_engine to power pneumatically-operated apparatus having a variable inlet air flow demand the compressor having adjustable_inlet_guide_vanes said method comprising the steps of : ( a ) interconnecting a supply_duct between the compressor and the pneumatically-operated apparatus ; ( b ) flowing discharge air from the compressor through said supply_duct to the pneumatically-operated apparatus ; ( c ) maintaining an essentially constant minimum supply_duct flow_rate despite fluctuations in the flow_rate of air received by the pneumatically-operated apparatus by exhausting air from said supply_duct in response to variations therein of the value of a predetermined flow-related parameter the flow_rate of air exhausted from said supply_duct being related to the magnitude of said parameter value variations in both a proportional and time-integral manner said maintaining step including the steps of providing an outlet_passage from said supply_duct positioning in said outlet_passage a surge_bleed_valve operable to selectively vary the flow of air outwardly through said outlet_passage generating an integral control_signal in response to said variation in said flow-related parameter generating a proportional control_signal in response to said variations in said flow-related parameter and simultaneously utilizing said integral and proportional_control_signals to operate said surge_bleed_valve ; and
+( d ) adjusting the relationship between the magnitudes of said integral and proportional_control_signals and the magnitudes of said parameter variations as a function of the position of the inlet_guide_vanes
+'194_Patent col. 10 l.64-col. 12 l.16 ( emphases added )
+
+Sundstrand manufactures the APS 3200 an APU device with a surge_control_system that compares a flow-related parameter called DELPQP to a set_point based on air inlet temperature and adjusts the surge_bleed_valve in response
+DELPQP is an acronym for delta P over ( quotient ) P and measures pressure differentials as a proxy for airflow
+At high_flow levels DELPQP can lead to an ambiguous_signal where DELPQP becomes inversely proportional to the amount of flow
+The ambiguous_signal may cause the system to *1310 open the surge_bleed_valve unnecessarily to increase flow
+This incorrect reading issue is known as the double solution or inverted-V problem
+The APS 3200 solves this problem by blocking the control_signal during high-flow_conditions
+The system uses in part IGV_position to determine whether the APU is experiencing high_flow or low_flow and consequently whether to block the control_signal
+
+Honeywell filed suit on May_17,_1999 alleging that Sundstrand 's APS 3200 infringed claims of three of its patents including the ¡¬893 and ¡¬194_patent s. Sundstrand filed a motion for partial_summary_judgment to limit damages to those incurred after February 3 1999 the date it received actual notice of Honeywell 's infringement allegations because Honeywell did not mark its product under 35 U.S.C.¡± 287 ( a )
+Honeywell conceded that it did not mark its product with the ¡¬893_patent but argued that the ¡¬194 method claim patent did not permit or require marking
+The district_court disagreed granting partial_summary_judgment and holding that because both patents refer to the same tangible product Honeywell could and should have marked the product
+Honeywell_Int ' l_Inc. v. Hamilton_Sundstrand_Corp. No 99-309 2001_WL_66345 at *3-4 ( D.Del
+Jan.4 2001 )
+The district_court also held that Honeywell could not recover damages for sales entered into before to February 3 1999 even if delivery occurred thereafter
+Honeywell_Int ' l_Inc. v. Hamilton_Sundstrand_Corp. No._99-309 ( D.Del
+Feb._8,_2001 )
+
+On February 16 2001 a jury found that Sundstand infringed claims of the ¡¬893 and ¡¬194_patent s under the doctrine of the equivalents
+Honeywell_Int ' l_Inc. v. Hamilton_Sundstrand_Corp. 166_F.Supp.2d_1008 1013-14 ( D.Del.2001 ) ( Honeywell I )
+The jury further found that Honeywell was entitled to $ 45,000,000 in price erosion damages and $ 1,578,065 in reasonable royalty damages
+Id.at 1014
+The district_court denied Sundstrand motions for judgment as a matter of law ( `` JMOL '' ) and a new trial
+Honeywell_II 370 F.3d at 1138
+Both parties appealed
+On February 5 2004 this court sua sponte ordered that the case would be resolved en banc without further arguments from the parties
+Id.at 1139
+The court held that Honeywell 's act of `` rewriting [ the ] dependent_claims into independent_form coupled with the cancellation of the original_independent_claims creates a presumption of prosecution_history_estoppel ''
+Id.at 1134
+Thus the court vacated the judgment of infringement and remanded the case for the `` determination of whether Honeywell [ could ] rebut the presumption.. '' Id
+
+On remand the district_court held a two-day bench trial to determine whether prosecution_history_estoppel barred Honeywell from asserting the doctrine of the equivalents
+Honeywell_III 2006_WL_2346446 *1 2006 U.S._Dist
+LEXIS 57030 at *2
+The parties contested the definition of the alleged equivalent element
+In reaching its decision the district_court adopted Honeywell 's articulation : `` the Sundstrand APS 3200 surge_control_system with its unique DELPQP flow-related parameter and its particular use of the inlet guide vane position as part of the high-flow logic that that parameter occasioned ''
+Id. 2006_WL_2346446 **4-5 2006 U.S._Dist
+LEXIS 57030 at *13-14
+The district_court correctly stated that Honeywell could rebut the presumption of surrender by demonstrating that ( 1 ) `` the alleged equivalent would have been unforeseeable at the time of the narrowing amendment '' or ( 2 ) `` the rationale underlying the narrowing amendment bore no more than a tangential_relation to the equivalent in question '' or ( 3 ) `` that there was 'some other_reason ' suggesting that the patentee could not reasonably have been expected to have described the alleged *1311 equivalent ''
+Id. 2006_WL_2346446 *5 2006 U.S._Dist
+LEXIS 57030 at *14 ( quoting Festo_IX 344 F.3d at 1369 )
+
+Honeywell conceded the `` some other_reason '' criterion
+Honeywell_Int ' l_Inc. v. Hamilton Sunstrand Corp. No 99-309 2006_WL_2346446 ( D.Del
+Aug.14 2006 )
+Thus the district_court focused on tangentiality and foreseeability
+Because the parties agreed that the tangentiality inquiry should be decided solely on the prosecution_history the parties presented evidence at the bench-trial only on the issue of foreseeability
+Honeywell argued that in the 1982-83 timeframe-which the parties agreed is the relevant period-the use of DELPQP and IGV_position to detect surge was unforeseeable
+Sundstrand argued that an APU developed in the late 1970 's the L1011 also measured a static pressure differential to avoid the double solution problem experienced by the APS 3200
+
+The L1011 however distinguished between high_flow and low_flow through the use of a shock_switch rather than through IGV_position
+Supersonic speeds activated the shock_switch which caused the system to ignore the control_signal and maintain the valves in their high_flow position
+These differences aside the district_court held that it was `` quite intuitive '' that it was foreseeable in 1982-83 to one skilled in the art to measure the position of IGVs to distinguish between high_flow and low_flow
+Id. 2006_WL_2346446 *6 2006 U.S._Dist
+LEXIS 57030 at *17
+The district_court recognized that both parties presented sufficient evidence to support their respective positions but opined that the resolution was not a close call
+Id. 2006_WL_2346446 *BIG_TOKEN__6_n._2__BIG_TOKEN 2006 U.S._Dist
+LEXIS 57030 at
+*BIG_TOKEN__17_n._2__BIG_TOKEN
+
+Turning to the tangential_relation_prong the district_court noted that the focus of this inquiry is on `` the patentee 's objectively apparent reason for the narrowing amendment ''
+Id. 2006_WL_2346446 *6 2006 U.S._Dist
+LEXIS 57030 at *19 ( citing Festo_IX 344 F.3d at 1369 )
+Honeywell argued that the reason for the underlying amendment was to overcome prior_art that disclosed a surge_control_system with P and Delta P sensors and proportional and integral control and that had nothing to do with IGVs
+The district_court disagreed with this characterization as the DELPQP is a parameter that is also calculated by measuring P and Delta P. Thus both the prior_art and the equivalent in question involved the same flow-related measurement and the use of that measurement is directly related to the rationale underlying the amendments
+Therefore Honeywell did not rebut the presumption with the tangential_relation_prong
+Id. 2006_WL_2346446 **8-9 2006 U.S._Dist
+LEXIS 57030 at *24-26
+
+Honeywell filed a timely appeal asserting that it had rebutted the presumption of prosecution_history_estoppel under the foreseeability and tangential_relation criteria
+Honeywell also appeals the district_court 's pre-trial rulings limiting its damages claim under the method-only ¡¬194_patent and excluding from recovery reasonable royalties resulting from sales contracts entered before the notice letter date
+Sundstrand argues that even if Honeywell is not estopped from alleging infringement under the doctrine of equivalents the jury 's verdict lacks sufficient support from trial evidence
+This court has jurisdiction under 28 U.S.C.¡± 1295 ( a ) ( 1 )
+

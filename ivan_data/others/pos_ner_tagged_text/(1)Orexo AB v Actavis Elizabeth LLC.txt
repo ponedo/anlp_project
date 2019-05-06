@@ -1,0 +1,165 @@
+('903_F.3d_1265', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('OREXO', 'JJ', '', 'O') ('AB', 'NN', '', 'O') ('Orexo_US_Inc.', 'NNP', '', 'O') ('Plaintiffs-Appellants', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('ACTAVIS', 'NNP', '', 'O') ('ELIZABETH', 'NNP', '', 'O') ('LLC', 'NNP', '', 'O') ('Defendant-Appellee', 'NNP', '', 'O')
+
+__NEW_SENT__
+('2017-1333', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('September', 'NNP', 'DATE', 'B') ('10', 'CD', 'DATE', 'I') ('2018', 'CD', 'DATE', 'I')
+September 10 2018
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('filing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('abbreviated', 'VBN', '', 'O') ('new', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('seeking', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('market', 'NN', '', 'O') ('generic', 'JJ', '', 'O') ('sublingual_tablet', 'JJ', '', 'O') ('infringed', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sublingually', 'RB', '', 'O') ('administering', 'VBG', '', 'O') ('tablet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('sublingual_tablet', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('opioid_dependence', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('No._1', 'NNP', '', 'O') (':14-cv-00829-SLR-SRF', 'NNP', '', 'O') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('217_F.Supp.3d_756', 'CD', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('after', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('bench', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('some', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('patent', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O')
+United_States_District_Court the District of Delaware Sue L. Robinson J. 217_F.Supp.3d_756 one
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Newman', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('suggest', 'VB', '', 'O') ('selection', 'NN', '', 'O') ('and', 'CC', '', 'O') ('combination', 'NN', '', 'O') ('achieved', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('inventors', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('sublingual', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('provided', 'VBD', '', 'O') ('improved', 'JJ', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('opioid_dependence', 'NN', '', 'O')
+The Court of Appeals Newman Circuit_Judge
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Procedural', 'JJ', '', 'O') ('Posture', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('s', 'NN', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('On', 'IN', '', 'O') ('Appeal', 'NNP', '', 'O') (';', ':', '', 'O') ('Judgment', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*1266', 'NN', '', 'O') ('Appeal', 'VB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('No._1', 'NNP', '', 'O') (':14-cv-00829-SLR-SRF', 'VBZ', '', 'O') ('Judge', 'NNP', '', 'O') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I')
+United_States_District_Court the District of Delaware Sue L. Robinson
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Errol', 'NNP', 'PERSON', 'B') ('Taylor', 'NNP', 'PERSON', 'I') ('Milbank', 'NNP', '', 'O') ('Tweed', 'NNP', 'ORG', 'B') ('Hadley', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('McCloy', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Errol Taylor Tweed Hadley & McCloy LLP New York NY
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Anna', 'NNP', 'PERSON', 'B') ('Brook', 'NNP', 'PERSON', 'I') ('Jordan', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Markham', 'NNP', 'PERSON', 'I') ('Fredrick', 'NNP', 'PERSON', 'B') ('Zullow', 'NNP', 'PERSON', 'I')
+Anna Brook Jordan P. Markham Fredrick Zullow
+__NEW_SENT__
+('George', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Lombardi', 'NNP', 'PERSON', 'I') ('Winston', 'NNP', 'PERSON', 'I') ('&', 'CC', '', 'O') ('Strawn', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+George C. Lombardi Winston Chicago
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Tyler', 'NNP', 'PERSON', 'B') ('Johannes', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'PERSON', 'B') ('Keenan', 'NNP', 'PERSON', 'I') ('Nutter', 'NNP', '', 'O') ('Ivan', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Poullaos', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Geoffrey', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Eaton', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Tyler Johannes Michael Keenan Ivan Michael Poullaos Geoffrey P. Eaton Washington
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Newman', 'NNP', 'PERSON', 'B') ('Hughes', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Stoll', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+Newman Hughes Stoll
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Orexo', 'NNP', 'ORG', 'B') ('AB', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Orexo_US_Inc.', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Orexo', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('holding', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('3-6', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('8-10', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('U.S._Patent_No._8940,330', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'330_Patent", 'NNS', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness.1', 'WP', '', 'O') ('The', 'DT', '', 'O') ("'330_Patent", 'NN', '', 'O') ('entitled', 'VBD', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Abuse-Resistant', 'JJ', 'WORK_OF_ART', 'I') ('Pharmaceutical', 'NNP', 'WORK_OF_ART', 'I') ('Composition', 'NNP', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('the', 'DT', 'WORK_OF_ART', 'I') ('Treatment', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Opioid', 'NNP', 'WORK_OF_ART', 'I') ('Dependence', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('product', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('brand', 'NN', '', 'O') ('name', 'NN', '', 'O') ('ZubsolvTHE_R', 'NNP', '', 'O') ('approved', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('opioid_dependence', 'NN', '', 'O')
+Orexo AB Orexo_US_Inc. Orexo the District of Delaware 1 3-6 8-10 `` Abuse-Resistant Pharmaceutical Composition for the Treatment of Opioid Dependence '' FDA
+__NEW_SENT__
+('Actavis', 'NNP', 'PERSON', 'B') ('Elizabeth', 'NNP', 'PERSON', 'I') ('LLC', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Actavis', 'NNP', 'NORP', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Abbreviated', 'NNP', 'ORG', 'B') ('New', 'NNP', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ANDA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('counter-part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Zubsolv', 'NNP', 'GPE', 'B') ('accompanied', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Paragraph', 'NNP', 'ORG', 'B') ('IV', 'NNP', 'ORG', 'I') ('certification', 'NN', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('Hatch-Waxman', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('accordance', 'NN', '', 'O') ('with', 'IN', '', 'O') ('21', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('355', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('j', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('271', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('e', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('A', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Actavis Elizabeth LLC Actavis Abbreviated New Drug Application Zubsolv Paragraph IV 21 35 2
+__NEW_SENT__
+('Two', 'CD', 'CARDINAL', 'B') ('Orexo', 'NNP', 'ORG', 'B') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('challenged', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Actavis', 'NNP', 'ORG', 'B') ('but', 'CC', '', 'O') ('U.S._Patent_No._8454,996', 'JJ', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'996_Patent", 'NNS', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('entitled', 'VBD', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Pharmaceutical', 'NNP', 'WORK_OF_ART', 'I') ('Composition', 'NNP', 'WORK_OF_ART', 'I') ('*1267', 'NFP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Treatment', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Acute', 'NNP', '', 'O') ('Disorders', 'NNPS', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('held', 'VBN', '', 'O') ('valid', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('involved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+Two Orexo Actavis `` Pharmaceutical Composition
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'330_Patent", 'NN', '', 'O') ('for', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'DT', '', 'O') ('obviousness', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('proved', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNP', '', 'O') ('specification', 'NN', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('opioid-based', 'JJ', '', 'O') ('pharmaceutical', 'JJ', '', 'O') ('products', 'NNS', '', 'O') ('intended', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relief', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pain', 'NN', '', 'O') ('have', 'VBP', '', 'O') ('become', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('source', 'NN', '', 'O') ('of', 'IN', '', 'O') ('addiction', 'NN', '', 'O') ('dependency', 'NN', '', 'O') ('and', 'CC', '', 'O') ('abuse', 'NN', '', 'O')
+
+__NEW_SENT__
+('Treatment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('opioid', 'NN', '', 'O') ('addiction', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('protocol', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('``', '``', '', 'O') ('substitution_therapy', 'NN', '', 'O') ("''", "''", '', 'O') ('where', 'WRB', '', 'O') ('partial', 'JJ', '', 'O') ('opioid', 'NN', '', 'O') ('agonists2', 'JJ', '', 'O') ('that', 'WDT', '', 'O') ('have', 'VBP', '', 'O') ('higher', 'JJR', '', 'O') ('binding', 'VBG', '', 'O') ('affinities', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('opioid', 'NN', '', 'O') ('receptors', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('produce', 'VBP', '', 'O') ('lowered', 'VBN', '', 'O') ('dependency', 'NN', '', 'O') ('than', 'IN', '', 'O') ('full', 'JJ', '', 'O') ('agonists', 'NNS', '', 'O') ('like', 'IN', '', 'O') ('heroin', 'NN', '', 'O') ('can', 'MD', '', 'O') ('lead', 'VB', '', 'O') ('to', 'IN', '', 'O') ('cessation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('addiction', 'NN', '', 'O') ('by', 'IN', '', 'O') ('relieving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('opioid', 'NN', '', 'O') ('craving', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('shows', 'VBZ', '', 'O') ('use', 'NN', '', 'O') ('for', 'IN', '', 'O') ('this', 'DT', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('partial', 'JJ', '', 'O') ('agonist', 'NN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('administered', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('sublingual_tablets', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('oral', 'JJ', '', 'O') ('films', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNP', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('while', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('less', 'RBR', '', 'O') ('narcotic', 'JJ', '', 'O') ('effect', 'NN', '', 'O') ('than', 'IN', '', 'O') ('a', 'DT', '', 'O') ('full', 'JJ', '', 'O') ('opioid', 'NN', '', 'O') ('addicts', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('dissolve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('buprenorphine', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('substitution_therapy', 'NN', '', 'O') ('tablet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('inject', 'VB', '', 'O') ('the', 'DT', '', 'O') ('dissolved', 'VBN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('intravenously', 'RB', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('an', 'DT', '', 'O') ('enhanced', 'JJ', '', 'O') ('opioid', 'NN', '', 'O') ('effect', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('counteract', 'VB', '', 'O') ('this', 'DT', '', 'O') ('abuse', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('combine', 'VB', '', 'O') ('buprenorphine', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('opioid', 'NN', '', 'O') ('antagonist3', 'NN', '', 'O') ('naloxone', 'RB', '', 'O') ('in', 'IN', '', 'O') ('substitution_therapy', 'NN', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('formulations', 'NNS', '', 'O') ('containing', 'VBG', '', 'O') ('buprenorphine', 'NN', '', 'O') ('to', 'IN', '', 'O') ('naloxone', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('ratio', 'NN', '', 'O') ('of', 'IN', '', 'O') ('4:1', 'CD', 'CARDINAL', 'B') ('provide', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('therapeutically', 'RB', '', 'O') ('optimal', 'JJ', '', 'O') ('balance', 'NN', '', 'O') ('for', 'IN', '', 'O') ('sublingual', 'JJ', '', 'O') ('treatment', 'NN', '', 'O')
+4:1
+__NEW_SENT__
+('Naloxone', 'NN', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('poor', 'JJ', '', 'O') ('transmucosal', 'NN', '', 'O') ('bioavailability', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mixture', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('taken', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('tablet_form', 'NN', '', 'O') ('as', 'IN', '', 'O') ('directed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('buprenorphine', 'NN', '', 'O') ('will', 'MD', '', 'O') ('act', 'VB', '', 'O') ('as', 'IN', '', 'O') ('intended', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('opioid_dependence', 'NN', '', 'O') ('with', 'IN', '', 'O') ('little_interference', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('naloxone', 'NN', '', 'O')
+Naloxone
+__NEW_SENT__
+('However', 'RB', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tablet', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('dissolved', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('injected', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('naloxone', 'NN', '', 'O') ('will', 'MD', '', 'O') ('antagonize', 'VB', '', 'O') ('the', 'DT', '', 'O') ('effects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('buprenorphine', 'NN', '', 'O') ('resulting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('withdrawal', 'NN', '', 'O') ('symptoms', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('deterring', 'VBG', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('formulation', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('4:1', 'CD', 'CARDINAL', 'B') ('ratio', 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('appropriate', 'JJ', '', 'O') ('pharmacological', 'JJ', '', 'O') ('amounts', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('naloxone', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deter', 'VB', '', 'O') ('abuse', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('injected', 'VBN', '', 'O') ('but', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('interfere', 'VB', '', 'O') ('with', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('taken', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('tablet_form', 'NN', '', 'O')
+4:1
+__NEW_SENT__
+("'330_Patent", 'NNP', '', 'O') ('col._2,_ll._13-22', 'NNS', '', 'O') (';', ':', '', 'O') ('id.', 'NN', '', 'O') ('col._9,_ll._37-50', 'VBN', '', 'O')
+
+__NEW_SENT__
+('However', 'RB', '', 'O') ('naloxone', 'DT', '', 'O') ("'s", 'VBZ', '', 'O') ('``', '``', '', 'O') ('functional', 'JJ', '', 'O') ('blockade', 'NN', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('action', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('only', 'RB', '', 'O') ('partial', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('short-lived', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('nature', 'NN', '', 'O') ("''", "''", '', 'O') ('id.', 'VBZ', '', 'O') ('col._2,_ll._23-25', 'UH', '', 'O') ('and', 'CC', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('continuing', 'VBG', '', 'O') ('need', 'NN', '', 'O') ('for', 'IN', '', 'O') ('improvement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('substitution_therapy', 'NN', '', 'O') ('formulations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sublingual_tablet_formulation', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('less', 'RBR', '', 'O') ('subject', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('abuse', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('enhances', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('agonist', 'NN', '', 'O') ('effectiveness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('permitting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('reduced', 'VBN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tablet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('reducing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('available', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('dissolving', 'NN', '', 'O') ('and', 'CC', '', 'O') ('injecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('microparticles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('adhered', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('carrier_particles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('citric_acid', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('also', 'RB', '', 'O') ('contains', 'VBZ', '', 'O') ('naloxone', 'RB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('4:1', 'CD', 'CARDINAL', 'B') ('ratio', 'NN', '', 'O')
+4:1
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNP', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('buprenorphine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microparticles', 'NNS', '', 'O') ('acts', 'VBZ', '', 'O') ('*1268', '-LRB-', '', 'O') ('with', 'IN', '', 'O') ('little_interference', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('naloxone', 'NN', '', 'O') ('but', 'CC', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tablet', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('dissolved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('water', 'NN', '', 'O') ('for', 'IN', '', 'O') ('injection', 'NN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bloodstream', 'NN', '', 'O') ('the', 'DT', '', 'O') ('naloxone', 'NN', '', 'O') ('will', 'MD', '', 'O') ('also', 'RB', '', 'O') ('be', 'VB', '', 'O') ('dissolved', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('will', 'MD', '', 'O') ('antagonize', 'VB', '', 'O') ('buprenorphine', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('effects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('All', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'330_Patent", 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('improved', 'JJ', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('opioid_dependence', 'NN', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'330_Patent", 'NNP', '', 'O') ('specification', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('data', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('clinical', 'JJ', '', 'O') ('trials', 'NNS', '', 'O') ('comparing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('related', 'JJ', '', 'O') ('sublingual', 'JJ', '', 'O') ('product', 'NN', '', 'O') ('SuboxoneTHE_R', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('Example', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('shows', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('66', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('improvement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('bioavailability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Patent', 'NNP', '', 'O') ('Examples', 'NNP', '', 'O') ('7_and_8', 'CD', '', 'O') ('show', 'VBP', '', 'O') ('bioequivalent', 'JJ', '', 'O') ('results', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sublingual_tablet', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('29', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('less', 'JJR', '', 'O') ('buprenorphine', 'NN', '', 'O') ('than', 'IN', '', 'O') ('in', 'IN', '', 'O') ('Suboxone', 'NNP', 'CARDINAL', 'B') ('tablets', 'NNS', '', 'O')
+2 66 % 29 % Suboxone
+__NEW_SENT__
+('Actavis', 'NNP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('dispute', 'VB', '', 'O') ('the', 'DT', '', 'O') ('improvement', 'NN', '', 'O') ('or', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('value', 'NN', '', 'O') ('in', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('addiction', 'NN', '', 'O')
+
+__NEW_SENT__
+('Rather', 'RB', '', 'O') ('Actavis', 'NNP', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('obvious', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('references', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('improved', 'VBN', '', 'O') ('function', 'NN', '', 'O') ('and', 'CC', '', 'O') ('use', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('irrelevant', 'JJ', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('obvious', 'JJ', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('theory', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('flawed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('unobvious', 'JJ', '', 'O') ('improvement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('properties', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('use', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('highly', 'RB', '', 'O') ('relevant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('patentability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('product', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claims', 'NNS', '', 'O') ('1_and_6', 'CD', 'DATE', 'B') ('were', 'VBD', '', 'O') ('deemed', 'VBN', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1_and_6 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('tablet', 'NN', '', 'O') ('composition', 'NN', '', 'O') ('suitable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('sublingual', 'JJ', '', 'O') ('administration', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('microparticles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmacologically-effective_amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically-acceptable_salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('presented', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('carrier_particles', 'NNS', '', 'O') ('wherein', 'WRB', '', 'O') ('microparticles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('buprenorphine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'JJ', '', 'O') ('acceptable_salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('are', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('contact', 'NN', '', 'O') ('with', 'IN', '', 'O') ('particles', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('citric_acid', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('buprenorphine', 'NN', '', 'O') ('or', 'CC', '', 'O') ('pharmaceutically', 'RB', '', 'O') ('acceptable_salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('citric_acid', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('particle', 'NN', '', 'O') (';', ':', '', 'O') ('a', 'DT', '', 'O') ('pharmacologically-effective_amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('naloxone', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically-acceptable_salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('disintegrant', 'NN', '', 'O') ('selected', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('group', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('croscarmellose', 'JJ', '', 'O') ('sodium', 'NN', '', 'O') ('sodium', 'NN', '', 'O') ('starch', 'NN', '', 'O') ('glycolate', 'NN', '', 'O') ('crosslinked', 'VBD', '', 'O') ('polyvinylpyrrolidone', 'NN', '', 'O') ('and', 'CC', '', 'O') ('mixtures', 'NNS', '', 'O') ('thereof', 'RB', '', 'O')
+
+__NEW_SENT__
+('6', 'CD', 'CARDINAL', 'B')
+6
+__NEW_SENT__
+('The', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('as', 'IN', '', 'O') ('claimed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('particles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('citric_acid', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('presented', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('act', 'VB', '', 'O') ('as', 'IN', '', 'O') ('carrier_particles', 'NNS', '', 'O')
+1
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('ingredients', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('generally', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('although', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('shown', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('suggested', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('any', 'DT', '', 'O') ('reference', 'NN', '', 'O') ('the', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('combination', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O')
+
+__NEW_SENT__
+('However', 'RB', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('show', 'VB', '', 'O') ('or', 'CC', '', 'O') ('suggest', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('combination', 'NN', '', 'O') ('and', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('show', 'VB', '', 'O') ('or', 'CC', '', 'O') ('suggest', 'VB', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('would', 'MD', '', 'O') ('achieve', 'VB', '', 'O') ('enhanced', 'VBN', '', 'O') ('therapeutic', 'JJ', '', 'O') ('effect', 'NN', '', 'O') ('while', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('less', 'RBR', '', 'O') ('subject', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('abuse', 'NN', '', 'O')
+
+__NEW_SENT__

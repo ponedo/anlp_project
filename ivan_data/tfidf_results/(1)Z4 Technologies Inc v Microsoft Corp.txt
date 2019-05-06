@@ -1,0 +1,25 @@
+Keyphrases:
+
+software
+z4
+registration_information
+user
+initial_authorization_period
+password
+BIG_TOKEN__¡¬825_patent__BIG_TOKEN
+authorized
+BIG_TOKEN__¡¬471_patent__BIG_TOKEN
+computer
+====================================
+top sentences:
+
+BIG_TOKEN__¡¬825_patent__BIG_TOKEN col.1 ll.21-25 .
+17.551217
+A computer readable storage medium having data stored therein representing software executable by a computer , the software including instructions to reduce use of the software by unauthorized_users , the storage medium comprising : instructions for requiring a password associated with the software ; instructions for enabling the software after the password has been communicated to the software ; instructions for subsequently requiring a new password to be communicated to the software for continued_operation of the software ; and instructions for automatically contacting an authorized representative of the software to communicate registration_information and obtaining authorization for continued_operation of the software .
+17.187889
+If the user is not authorized , the software_representative may disable the software .
+15.875741
+A method for reducing unauthorized software use , the method comprising : providing a representative to monitor software license compliance ; associating a first_authorization_code with the software , the first_authorization_code enabling the software on a computer for use by a user for an initial_authorization_period , the initial_authorization_period being based on usage of the software ; supplying the first_authorization_code with the software ; requiring the user to enter the first_authorization_code to at least partially enable the software on the computer for use by the user during the initial_authorization_period ; requiring the user to contact the representative for retrieval of at least one additional_authorization_code to repeat the enablement of the software on the computer for use by the user during a subsequent_authorization_period beyond the initial_authorization_period and allowing the repeat of the enablement of the software to be performed prior to the expiration of the initial_authorization_period so the enablement of the software can be continuous from the initial_authorization_period to the subsequent_authorization_period , the software being enabled on the computer for use by the user during the subsequent_authorization_period beyond the initial_authorization_period requiring without further communication with the representative following entry of the at least one additional_authorization_code ; requiring the user to selectively choose either manual or electronic registration and provide registration_information to the representative prior to retrieval of the at least one additional_authorization_code , the registration_information including computer specific information ; comparing previously stored registration_information related to at least one of the software , the user , and the computer with the registration_information provided by the user to the representative to determine if the user is an authorized or an unauthorized_user ; and at least partially disabling , the software if the user [ sic ] an unauthorized_user .
+12.602886
+z4 's invention `` controls the number of copies of authorized software by monitoring registration_information , '' and by `` [ r ] equiring authorized users to periodically update a password or authorization_code provided by a password administrator . ''
+12.572969

@@ -1,0 +1,117 @@
+('972_F.2d_1272', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GENERAL', 'NNP', 'ORG', 'B') ('FOODS', 'NNP', 'ORG', 'I') ('CORPORATION', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('STUDIENGESELLSCHAFT', 'VBP', '', 'O') ('KOHLE', 'NNP', '', 'O') ('mbH', 'NN', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+GENERAL FOODS CORPORATION
+__NEW_SENT__
+('No._91-1418', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Aug._11,_1992', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', 'ORG', 'B') ('Rehearing', 'NNP', 'ORG', 'I') ('Denied', 'VBN', 'ORG', 'I') (';', ':', 'ORG', 'I') ('Suggestion', 'NN', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Rehearing', 'VBG', 'ORG', 'I') ('In', 'IN', '', 'O') ('Banc', 'NNP', '', 'O') ('Declined', 'NNP', '', 'O') ('Oct._2,_1992', 'NNP', '', 'O')
+| Rehearing Denied ; Suggestion for Rehearing
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Licensee', 'NNP', '', 'O') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('for', 'IN', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'DT', '', 'O') ('Gerard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Goettel', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'B') ('765_F.Supp._121', 'CD', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('double_patenting', 'NN', '', 'O')
+United_States_District_Court Gerard L. Goettel J. 765_F.Supp._121
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rich', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('describing', 'NN', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('decaffeination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('coffee', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('double_patenting', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('earlier-issued', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('recovering', 'VBG', '', 'O') ('caffeine', 'NN', '', 'O') ('for', 'IN', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O') ('since', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('claim', 'VB', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('neither', 'CC', '', 'O') ('claimed', 'VBD', '', 'O') ('process', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('mere', 'JJ', '', 'O') ('obvious', 'JJ', '', 'O') ('variation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O')
+The Court of Appeals Rich Circuit_Judge two
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1273', 'UH', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Heller', 'NNP', 'PERSON', 'I') ('Kenyon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Kenyon', 'NNP', 'ORG', 'I') ('New_York', 'NNP', 'ORG', 'I') ('City', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Paul H. Heller Kenyon & Kenyon New_York City
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('DeLucia', 'NNP', 'PERSON', 'I') ('James', 'NNP', 'PERSON', 'I') ('Galbraith', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Gresalfi', 'NNP', 'PERSON', 'I')
+Richard L. DeLucia James Galbraith Richard S. Gresalfi
+__NEW_SENT__
+('Arnold', 'NNP', 'PERSON', 'B') ('Sprung', 'NNP', 'PERSON', 'I') ('Sprung', 'NNP', '', 'O') ('Horn', 'NNP', '', 'O') ('Kramer', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Woods', 'NNP', 'ORG', 'I') ('Tarrytown', 'NNP', 'PERSON', 'B') ('N.Y.', 'NNP', 'PERSON', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Arnold Sprung Kramer & Woods Tarrytown N.Y.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Nathaniel', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Kramer', 'NNP', 'PERSON', 'I')
+Nathaniel D. Kramer
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RICH', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('SKELTON', 'VBD', '', 'O') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('CLEVENGER', 'NN', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I')
+CLEVENGER Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RICH', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Studiengesellschaft', 'NNP', 'PERSON', 'B') ('Kohle', 'NNP', 'PERSON', 'I') ('mbH', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('SGK', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('as', 'IN', '', 'O') ('trustee', 'NN', '', 'O') ('for', 'IN', '', 'O') ('real-party-in-interest', 'NNP', '', 'O') ('Max', 'NNP', 'ORG', 'B') ('Planck', 'NNP', 'ORG', 'I') ('Institute', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Coal', 'NNP', 'ORG', 'I') ('Research', 'NNP', 'ORG', 'I') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('June_12,_1991', 'JJ', 'ORG', 'B') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Southern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'DT', '', 'O') ('Civil', 'NNP', '', 'O') ('Action', 'NN', '', 'O') ('No._88-8343', 'NNP', '', 'O') ('declaring', 'VBG', '', 'O') ('invalid', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_4', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('SGK', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._4260,639', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'639_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('titled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Process', 'NN', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('the', 'DT', 'WORK_OF_ART', 'I') ('Decaffeination', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Coffee', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sole', 'JJ', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('double_patenting', 'NN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('SGK', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('earlier-issued', 'JJ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._3806,619', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'619_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('titled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Process', 'NN', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Recovering', 'VBG', 'WORK_OF_ART', 'I') ('Caffeine', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I')
+Studiengesellschaft Kohle Max Planck Institute for Coal Research June_12,_1991 United_States_District_Court 1_and_4 SGK U.S. `` Process for the Decaffeination of Coffee '' U.S. `` Process for Recovering Caffeine ''
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('no', 'DT', '', 'O') ('double_patenting', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('declaratory_judgment_suit', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('between', 'IN', '', 'O') ('a', 'DT', '', 'O') ('licensor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('licensee', 'VB', '', 'O') ('over', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O')
+
+__NEW_SENT__
+('Plaintiff', 'NNP', 'ORG', 'B') ('General', 'NNP', 'ORG', 'I') ('Foods', 'NNPS', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('GF', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('owns', 'VBZ', '', 'O') ('Maxwell', 'NNP', 'ORG', 'B') ('House', 'NNP', 'ORG', 'I') ('Coffee', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('which', 'WDT', '', 'O') ('manufactures', 'VBZ', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O') ('at', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('AMCO_plant', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('Texas', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('sale', 'NN', '', 'O') ('under', 'IN', '', 'O') ('brands', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('Sanka', 'NNP', 'ORG', 'B') ('Maxim', 'NNP', 'ORG', 'I') ('Brim', 'NNP', 'ORG', 'I') ('Yuban', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Maxwell', 'NNP', 'ORG', 'B') ('House', 'NNP', 'ORG', 'I')
+Plaintiff General Foods Corporation Maxwell House Coffee Company AMCO_plant Houston Texas Sanka Maxim Brim Yuban Maxwell House
+__NEW_SENT__
+('GF', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('owns', 'VBZ', '', 'O') ('Kaffee', 'NNP', 'ORG', 'B') ('HAG', 'NNP', 'ORG', 'I') ('a', 'DT', '', 'O') ('processor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('research', 'NN', '', 'O') ('company', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Bremen', 'NNP', 'GPE', 'B') ('Germany', 'NNP', 'GPE', 'I') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('said', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('producer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O')
+Kaffee HAG Bremen Germany first
+__NEW_SENT__
+('SGK', 'NNP', '', 'O') ('developed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('Europe', 'NNP', 'LOC', 'B') ('inventions', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('decaffeination', 'NN', '', 'O') ('and', 'CC', '', 'O') ('owned', 'VBN', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('patents', 'NNS', '', 'O') ('involved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('lawsuit', 'NN', '', 'O')
+Europe five United States
+__NEW_SENT__
+('Learning', 'VBG', '', 'O') ('about', 'IN', '', 'O') ('SGK', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('developments', 'NNS', '', 'O') ('GF', 'NNP', '', 'O') ('entered', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('an', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('license', 'NN', '', 'O') ('agreement', 'NN', '', 'O') ('with', 'IN', '', 'O') ('SGK', 'NNP', 'ORG', 'B') ('effective', 'JJ', '', 'O') ('February', 'NNP', 'DATE', 'B') ('1', 'CD', 'DATE', 'I') ('1978', 'CD', 'DATE', 'I') ('which', 'WDT', '', 'O') ('has', 'VBZ', '', 'O') ('now', 'RB', '', 'O') ('become', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('nonexclusive', 'JJ', '', 'O') ('license', 'NN', '', 'O') ('on', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('paid', 'VBD', '', 'O') ('royalties', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('SGK', 'NNP', '', 'O') ('through', 'IN', '', 'O') ('1990', 'CD', 'DATE', 'B') ('since', 'IN', '', 'O') ('then', 'RB', '', 'O') ('paying', 'VBG', '', 'O') ('further', 'JJ', '', 'O') ('royalties', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('protest', 'NN', '', 'O')
+SGK February 1 1978 1990
+__NEW_SENT__
+('The', 'DT', '', 'O') ('license', 'NN', '', 'O') ('agreement', 'NN', '', 'O') ('provided', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('advance', 'NN', '', 'O') ('payments', 'NNS', '', 'O') ('totalling', 'VBG', '', 'O') ('$', '$', '', 'O') ('1,800,000', 'CD', 'MONEY', 'B') ('during', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('first', 'JJ', 'DATE', 'I') ('year', 'NN', 'DATE', 'I')
+1,800,000 the first year
+__NEW_SENT__
+('Royalties', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('range', 'VB', '', 'O') ('from', 'IN', '', 'O') ('1.75', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('net', 'JJ', '', 'O') ('decaffeinated_coffee', 'NN', '', 'O') ('sales', 'NNS', '', 'O') ('up', 'IN', '', 'O') ('to', 'IN', '', 'O') ('40,000,000', 'CD', 'CARDINAL', 'B') ('*1274', 'JJ', '', 'O') ('pounds', 'NNS', '', 'O') ('down', 'RB', '', 'O') ('to', 'IN', '', 'O') ('1.25', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('net', 'JJ', '', 'O') ('sales', 'NNS', '', 'O') ('over', 'IN', '', 'O') ('120,000,000', 'CD', 'QUANTITY', 'B') ('pounds', 'NNS', 'QUANTITY', 'I')
+1.75 % 40,000,000 1.25 % 120,000,000 pounds
+__NEW_SENT__
+('GF', 'NNP', '', 'O') ('brought', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'JJ', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('all', 'DT', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O')
+five
+__NEW_SENT__
+('However', 'RB', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NNP', 'PERSON', 'B') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('although', 'IN', '', 'O') ('all', 'DT', '', 'O') ('five', 'CD', 'CARDINAL', 'B') ('SGK', 'NNP', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('licensed', 'VBN', '', 'O') ('SGK', 'NNP', '', 'O') ('now', 'RB', '', 'O') ('asserts', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('only', 'RB', '', 'O') ('claims', 'VBZ', '', 'O') ('1_and_4', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'639_patent", 'NNP', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('GF', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('operation', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('AMCO_plant', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('no', 'RB', '', 'O') ('longer', 'RBR', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O')
+District_Court five 1_and_4 four
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('GF', 'NNP', '', 'O') ('asserted', 'VBD', '', 'O') ('numerous', 'JJ', '', 'O') ('defenses', 'NNS', '', 'O') ('against', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_4', 'CD', 'CARDINAL', 'B') ('including', 'VBG', '', 'O') ('invalidity', 'NN', '', 'O') ('for', 'IN', '', 'O') ('``', '``', '', 'O') ('obviousness-type', 'JJ', '', 'O') ('double_patenting', 'NN', '', 'O') ("''", "''", '', 'O') ('non-infringement', 'JJ', '', 'O') ('obviousness', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('non-enablement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('112', 'CD', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('due', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Trial', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('April_5,_1991', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('GF', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('``', '``', '', 'O') ('bifurcate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('double_patenting', 'NN', '', 'O') ("''", "''", '', 'O')
+1_and_4 35 103 35 the Patent and Trademark Office District_Court
+__NEW_SENT__
+('The', 'DT', '', 'O') ('order', 'NN', '', 'O') ('further', 'RB', '', 'O') ('stated', 'VBD', '', 'O') ('``', '``', '', 'O') ('If', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('dispose', 'VB', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('will', 'MD', '', 'O') ('then', 'RB', '', 'O') ('immediately', 'RB', '', 'O') ('continue', 'VB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('remaining', 'VBG', '', 'O') ('issues', 'NNS', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('District_Court', 'NN', 'PERSON', 'B') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('separate', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('double_patenting', 'NN', '', 'O')
+District_Court
+__NEW_SENT__
+('A', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('entered', 'VBN', '', 'O') ('holding', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_4', 'CD', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'639_patent", 'NNP', '', 'O') ('invalid', 'JJ', '', 'O') ('thus', 'RB', '', 'O') ('terminating', 'VBG', '', 'O') ('GF', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('declaratory_judgment_suit', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('alleged', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('infringing', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('putting', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('end', 'NN', '', 'O') ('to', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('obligation', 'NN', '', 'O') ('to', 'TO', '', 'O') ('pay', 'VB', '', 'O') ('SGK', 'NNP', '', 'O') ('royalties', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('contract', 'NN', '', 'O')
+
+__NEW_SENT__
+('765_F.Supp._121', 'LS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('followed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('as', 'RB', '', 'O') ('above', 'RB', '', 'O') ('stated', 'VBN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('only', 'RB', 'CARDINAL', 'B') ('one', 'CD', 'CARDINAL', 'I') ('issue', 'NN', '', 'O') ('for', 'IN', '', 'O') ('us', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('decide-is', 'VB', '', 'O') ('there', 'RB', '', 'O') ('double_patenting', 'NN', '', 'O')
+only one
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('shall', 'MD', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('discuss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('involved', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('the', 'DT', '', 'O') ('law', 'NN', '', 'O') ('of', 'IN', '', 'O') ('double_patenting', 'NN', '', 'O') ('as', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('applies', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('those', 'DT', '', 'O') ('facts', 'NNS', '', 'O')
+first two
+__NEW_SENT__

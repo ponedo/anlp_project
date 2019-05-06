@@ -1,0 +1,423 @@
+247_f.3d_1316
+united states court of appeals federal circuit
+telemac cellular corporation plaintiff-appellant v. topp telecom inc. defendant-appellee
+no._99-1562
+| april_25,_2001
+| rehearing and rehearing en banc denied june_1,_2001
+synopsis
+patentee brought suit against competitor for infringement of its patent for a mobile cellular telephone_system having a host_processor and internal_accounting_capabilities for performing real-time_call_debiting
+the united_states_district_court for the northern_district of california claudia wilken j. granted summary_judgment to competitor finding certain claims of patent invalid and not infringed
+patentee appealed
+the court of appeals gajarsa circuit_judge held that 1 claim_limitation of a communication means for selectively establishing a communication_link with each mobile_telephone_unit described the selective and automatic_establishment by host_processor of communications for performing activation or programming and did not encompass systems in which user manually established communications ; 2 limitation of a complex_billing_algorithm required the storage of phone_rates for at a minimum local long_distance international and roaming calls and a means for identifying appropriate_rate_category ; 3 disputed claims were anticipated by prior_art ; and 4 claims were not infringed literally or under doctrine of equivalents
+
+affirmed
+
+attorneys and law firms
+*1319 guy w. chambers townsend and townsend and crew llp of san francisco ca argued for plaintiff-appellant
+with him on the brief was roger l. cook
+daniel a. devito skadden arps slate meagher & flom_llp of new york ny argued for defendant-appellee
+with him on the brief was carolyn h. blankenship
+of counsel on the brief were david w. hansen and benjamin r. ostapuk skadden arps slate meagher & flom_llp of palo alto ca
+before newman lourie and gajarsa circuit_judges
+opinion
+gajarsa circuit_judge
+telemac cellular corporation` telemac' appeals from a grant of summary_judgment by the united_states_district_court for the northern_district of california finding claims 1 4 6 9 18 20-24 29_and_30 of telemacs u.s._patent_no._5577,100` the ¡¬100_patent` invalid and not infringed by the tracfone_system
+telemac_cellular_corp. v. topp_telecom inc. no._98- cv-22 n.d.cal
+aug._25,_1999
+for the reasons discussed below we affirm the judgment of the district_court
+
+background
+appellant telemac plaintiff below was formed in the early 1990s with a focus on the rental cellular telephone market
+in an effort to minimize credit risk telemac sought to provide a cellular_phone that automatically debited the cost of each call from an available credit account stored within the cellular_phone
+on january 30 1995 telemac filed a patent application describing that technology
+the application issued as the ¡¬100_patent on november 19 1996
+the ¡¬100_patent discloses and claims a phone system including a mobile_phone having internal_accounting_capabilities for performing real-time_call_debiting
+
+*1320 the patented debit_phone differs from the conventional mobile_phone in that the user pre-pays for calls or` air time' when the user takes possession of the phone from the rental company
+specifically the user is allowed a certain total amount of credit which amount is stored in the phones memory
+as the user places calls the cost for each call is debited from the stored credited amount in real-time
+debiting is accomplished using a program for carrying out the functional steps of the billing_algorithm
+in accordance with that algorithm the call is first classified into one of the appropriate categories including local long_distance international or roaming calls
+an internal rate_table stores rate values corresponding to each calling category
+the charge amount is determined based on the calls classification the length of time of the call and the corresponding rate value stored in the rate_table
+
+the phone may be activated and programmed by placing it in a module or` boot' connected to the host_processor
+it may also be programmed remotely using cellular paging signals to establish the call and dual tone multi frequency` dtmf' signals for communicating programming codes
+in both programming methods the host_processor initiates communication and automatically transmits operating_codes to the cellular_phone to enable its operation
+in accordance with yet a third programming method the phone is activated manually via a user-initiated technique
+in that activation method a user calls the system_providers toll-free number and obtains activation codes from an operator which the user enters manually
+
+claim 1 of the ¡¬100_patent is the only independent claim
+it reads as follows 1
+a mobile_phone_system comprising a system_provider having a host_processor_unit and a plurality of system users each having at least one mobile_phone_unit wherein the host_processor_unit has communication means for selectively establishing a communication_link with each mobile_phone_unit ; and each phone_unit includes a processor a clock chip memory associated with the processor program means including a complex_billing_algorithm and rate_data for internally calculating call_charges as calls are made wherein the phone_unit includes internal accounting means for generating a debit_account with an account_amount in the phone_unit and decrementing the account_amount in the debit_account in real time and wherein the system_provider has payment_verification_means under system_provider control for setting a phone use account_amount and communicating the account_amount to the phone_unit wherein the internal account means adds the account_amount to the debit_account
+'100_patent col._19,_ll._2-21
+
+topp_telecom inc.` topp' the appellee-defendant sells the tracfone_system which also utilizes a prepaid cellular telephone
+to activate topps phone or to have credit_amounts replenished a user contacts a customer service representative at topps central service facility using a telephone other than the one purchased from topp
+the user provides an operator with the serial number of the topp telephone_unit as well as information identifying the user
+the operator in turn provides the user with operating_codes and instruction necessary to activate the phone
+manual entry of the operating_codes by the user causes the telephone to store a credit_amount and completes activation
+once activated the charges for *1321 each call are calculated using prestored rates and those charges are subtracted from the stored credited amount
+upon exhaustion of the credit_amount the user can purchase additional airtime through topps service center
+
+because the phone is preprogrammed to recognize and block placement of international_calls the tracfones billing_algorithm does not calculate charges for international_calls using an international_rate
+a tracfone user can not place international_calls directly but must place international_calls using an external exchange via a calling card or with the assistance of an operator
+
+in january 1998 telemac filed an action against topp alleging that topps tracfone_system infringed the claims of the ¡¬100_patent
+on october 16 1998 topp filed a motion for summary_judgment alleging that claims 1 4 6 9 18 20-24 29_and_30 of the ¡¬100_patent should be declared invalid under 35 u.s.c.¡± 102 b as anticipated by u.s._patent_no._5631,947 granted to wittstein et al
+( the` wittstein_patent'
+in opposition to that motion telemac submitted a declaration from mr. stephen bristow an industry expert opposing topps invalidity allegation
+the district_court heard argument on topps summary_judgment motion and on issues involving claim_construction
+in february 1999 the district_court issued an order construing the claims of the patent rejecting telemacs expert evidence and granting topps motion for partial_summary_judgment of invalidity finding the claims anticipated by the wittstein_patent
+in an additional order issued in march 1999 the district_court denied telemacs motion for reconsideration finding that while not expressly described the claimed billing_algorithm was necessarily present in wittsteins patent
+on subsequent cross-motions for summary_judgment the district_court found as a matter of law that none of the claims of the ¡¬100_patent was infringed by the accused tracfone_system
+in august 1999 the parties agreed to an entry of final_judgment
+the district_court entered the requested final_judgment citing portions of each of the previously described orders for its validity and infringement determinations
+
+in reviewing the district_courts analysis we note that consistent with the arguments of the parties its claim_construction was limited solely to an interpretation of claim 1
+the district_court concluded that in accordance with the plain_language of that claim the host_processor initiates communications with the mobile_phone
+specifically the court based its construction of the claim on the language requiring that` the host_processor.. selectively establish [ es ] a communication_link.. with' the mobile_telephone
+the court explained that an interpretation in which the customer initiates the claimed communication is contrary to the plain meaning of the claim
+the court further rejected telemacs argument that such a construction of claim 1 would render similar language in claim 3 duplicative concluding that the dependent claim included limitations not found in claim 1 as construed
+
+relying on both the language of the claims and the written description the court next determined that the term` communication_link' be construed to require` automatic communications'
+first the court reiterated that the claim requires communications established by the host_processor not the customer
+looking to the written description the court determined that in each embodiment in which the host_processor establishes the communication the communication is established automatically
+it further determined that in those embodiments the communication is established to perform activation and *1322 programming of a customers phone
+the court cited various portions of the specification in support of its argument including a description of the preferred_embodiment in which activation of the phone is accomplished using` a terminal interconnect' for direct machine-to-machine communication
+similarly another section of the specification describing` automatic' communications cited by the court recited reprogramming of the rate_table over the air at the initiation of the system_provider
+thus the court concluded that the` communication means' should be construed to encompass automatically established communications initiated for the sole purpose of performing activation or programming
+
+rejecting telemacs proffered construction the court concluded that the embodiment relied on by telemac describing manually established communications functioned in accordance with the clause of the claim reciting the function of the` payment_verification_means' not the` communication means'
+the district_court also determined that whether or not the structure of the claimed` payment_verification_means' uses some of the same technology employed by the` communication means' the two means constitute distinct components of the claimed invention
+specifically the court found that the` communication means' functioned to establish the communication_link for activating and programming the mobile_phone whereas the` payment_verification_means' describes the process for updating the amount credited to the account
+based on that reading of the specification the district_court rejected telemacs arguments that the` communication means' should be construed broadly to include structure for performing user initiated communications
+
+with respect to the claimed` complex_billing_algorithm' finding no clear meaning of this phrase evident from the claim itself the court turned to the written description to discern its meaning
+the court concluded that the complex_billing_algorithm is defined therein as a function that includes the means to store phone_rates for local long_distance international and roaming calls
+the district_court further determined that the algorithm includes means to identify the appropriate_rate_category and to selectively apply those rates to each call
+
+in its february 1999 order the district_court also determined that the wittstein_patent disclosed each of the limitations present in claim 1 of the patent as construed as well as the limitations found in dependent claims 4 6 9 18 20-24 29_and_30
+accordingly the court granted topps motion for partial_summary_judgment of invalidity
+in the order denying telemacs request for leave to file a motion for reconsideration the district_court acknowledge that` the wittstein_patent does not expressly identify the four specific rate_categories' required by the` complex_billing_algorithm'
+the district_court explained that the disputed features are necessarily present in the disclosure of the wittstein_patent
+
+on april_17,_1999 topp filed a motion for summary_judgment of non-infringement in which it argued that the claimed` complex_billing_algorithm' and` communication means' were missing from the accused tracfone_system
+on july_1,_1999 the district_court granted topps motion for summary_judgment on the issue of non-infringement
+the court found that because the tracfone_system as manufactured and sold blocks international_calls the accused device does not store international_rates in its memory and does not deduct values from the credit_amount based on such rates
+instead the court noted that international_calls can not be completed unless the customer first calls *1323 an outside_international_carrier
+accordingly the court determined that the accused device lacked the` complex_billing_algorithm' limitation as construed
+the court further determined that because the accused device did not allow placement of international_calls it did not perform substantially the same_function in substantially the same_way as the claimed algorithm
+thus the court concluded that the claims were not infringed literally or equivalently
+
+the court further found that the claimed` communication means for selectively establishing a communications link' was not present in the accused device
+according to the district_court the claims require communication means that automatically establish communications with the phone via an electronic_link for performing activation and programming
+in the tracfone_system however the programming and activation process is initiated manually by the user not automatically by the host_processor using an electronic_link
+the court determined that the only automatic transmission of data present in the tracfone_system relates to replenishment of the users credit_amount a function associated with the claimed` payment_verification_means'
+the district_court also rejected telemacs argument that automatic and manual programming are equivalent
+the court determined that to reach such a finding it would have to in effect vitiate the host initiated automated communication requirements of the claims as construed
+on august 25 1999 the district_court entered final_judgment pursuant to rule 54 b of federal rules of civil procedure summarily holding the patent invalid and not infringed
+telemac appeals the judgment of the district_court
+
+standard of review
+this court reviews a district_courts grant of summary_judgment without deference
+cortland line co. v. orvis co. 203_f.3d_1351 1355 53_uspq2d_1734 1746 fed.cir.2000
+the moving party is entitled to summary_judgment under rule 56 c` if the pleadings depositions answers to interrogatories and admissions on file together with the affidavits if any show that there is no genuine_issue as to any material_fact and that the moving party is entitled to a judgment as a matter of law'
+in reviewing the district_courts grant of summary_judgment this court draws all reasonable inferences from the evidence in favor of the non-movant
+anderson v. liberty lobby inc. 477_u.s._242 255 106_s.ct._2505 91_l.ed.2d_202_(1986)
+
+summary_judgment is appropriate when it is apparent that only one conclusion as to infringement could be reached by a reasonable_jury
+atd corp. v. lydall inc. 159_f.3d_534 540 48_uspq2d_1321 1324 fed.cir.1998
+summary_judgment of noninfringement is appropriate where the patent owners proof is deficient in meeting an essential part of the legal standard for infringement since such failure will render all other facts immaterial
+london v. carson pirie scott & co. 946_f.2d_1534 1537 20_uspq2d_1456 1458 fed.cir.1991
+
+a patent infringement analysis involves two steps 1 claim_construction and 2 application of the properly construed claim to the accused product
+markman v. westview instruments inc. 52_f.3d_967 976 34_uspq2d_1321 1326 fed.cir.1995 en banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+the first_step claim_construction is a matter of law that this court reviews without deference
+cybor corp. v. fas tech. inc. 138_f.3d_1448 1454 46_uspq2d_1169 1172 fed.cir.1998 en banc
+whether the accused device contains *1324 an element corresponding to each claim_limitation or its equivalent is a question of fact reviewed under the clearly erroneous standard of review
+roton barrier inc. v. stanley works 79_f.3d_1112 1125 37_uspq2d_1816 1826 fed.cir.1996
+
+discussion
+i
+claim construction
+on appeal telemac argues that the court misconstrued two terms of the patent
+specifically telemac challenges the district_courts construction of the` communication means' and the` complex_billing_algorithm'
+
+a
+`` communication_means' claim 1 of the patent claims a mobile_phone_system having a host_processor
+the host_processor includes a` communication means for selectively establishing a communication_link with each mobile_phone_unit'
+because this limitation is written in` means-plus-function' form in accordance with 35 u.s.c.¡± 112 ?
+6 the claim must be construed to cover the structure disclosed in the specification as performing that function and equivalents thereof
+kahn v. general motors corp. 135_f.3d_1472 1476 45_uspq2d_1608 1610 fed.cir.1998
+the first_step of a 35 u.s.c.¡± 112 ?
+6 analysis is to identify the function of the claim_limitation
+kemco sales inc. v. control papers co. 208_f.3d_1352 1361 54_uspq2d_1308 1313 fed.cir.2000
+the second step requires identification of the structures disclosed in the specification and equivalents thereof that perform the claimed function
+id
+
+the district_court observed that the claim recites the function of selectively establishing communication with each mobile_phone
+based on that construction it determined that the only structure described as performing that function corresponds to the structure found in embodiments describing selective and automatic_establishment of communications for performing activation or programming of the debit_phone via an electronic_link
+we find no error in the district_courts claim_construction
+
+we begin our analysis of this means-plus-function limitation by determining the function recited
+in accordance with the plain_language of the claim the function` selectively establishing a communication_link with each mobile_phone_unit' describes a communication established by the host_processor
+we can not as telemac requests read the plain_language of that clause as encompassing communications established by the user via the mobile_phone
+we are reminded that a construction that flies in the face of the express language of the claim is not preferred
+interactive gift express inc. v. compuserve inc. 231_f.3d_859 865 56_uspq2d_1647 1652 fed.cir.2000
+unless something in the written description suggests that the patentee intended the unambiguous language to be construed in a manner inconsistent with its ordinary_meaning we are bound by that language
+id
+nothing in the written description contradicts the plain_language describing the function of that limitation
+in light of that we can not agree with telemac that the claim can be construed to encompass systems in which the user manually establishes communications with the host_processor
+
+next we identify the structure described within the specification as performing the claimed function
+in the preferred_embodiment activation of the phone is performed using an interlink_receiver for machine-to-machine communications thereby ensuring a secure transfer of information
+*1325 ¡¬ 100 patent col._3,_ll._60-67
+the ¡¬100_patent describes over the air updating of the rate_table` at the initiation of the system_provider'
+id.at col._14,_ll._14-19
+the specification describes a transmission station for establishing a wireless link to the mobile_phone for reprogramming the rate_table over the air at the initiation of the host_processor
+id.at col._4,_ll._18-22 ; id.at col._6,_ll._32-39
+the patent further states that the` system requires that a communication_link be established between the host_processor and the mobile_phone_unit and may require that the phone_unit be physically connected to the host_processor'
+id.at col._1,_ll._15-19
+thus numerous passages from the specification identify the structure each part of the host_processor for establishing a communication with a mobile_phone
+
+as provided above telemacs challenge to the district_courts construction with an eye towards infringement focuses upon whether the` communications means' should be construed to encompass embodiments describing communications established using toll-free calls placed by the user from the telephone
+the function claimed however requires establishment of the link by the host_processor and not the mobile_phone_unit
+
+as a further challenge to the district_courts construction telemac contends that embodiments describing user-initiated activation and replenishment meet the requirement that the host_processor selectively establish a communication_link because in those embodiments the host_processor determines the identity of the phone establishing the communication
+telemac argues that those embodiments describe` selectively' communicating confidential information in accordance with the identity of that phone
+telemac would have this court interpret the term` selectively establishing' as a process by which the host_processor checks the electronic serial number of the mobile_phone that established the call
+moreover telemac suggests that the` selectively establishing' limitation of the claim can be found in the user-initiated embodiments and that those embodiments should be encompassed within the scope of the claim
+
+on the record before us we can not agree with telemacs assertions
+as noted both the plain_language of the claim and the written description of the invention require that the link with the phone be` established' by the host_processor and not vice-versa
+telemacs reading of` selectively establishing' as encompassing a confidential communication protocol ignores the remainder of the claim identifying the host_processor as the device that initiates the communication
+thus we conclude that telemacs proposed construction encompassing manually initiated communications would render the phrase` for selectively establishing a communication_link with each mobile_phone_unit' mere surplusage
+accordingly we reject telemacs proposed interpretation of that language
+
+telemac further argues that the courts construction is in conflict with the doctrine of claim_differentiation
+under this doctrine claims are presumed to be of a different scope
+kraft foods inc. v. int l trading co. 203_f.3d_1362 1366 53_uspq2d_1814 1817 fed.cir.2000
+claim 3 provides that the host_processor initiates the communication_link at a` time' controlled by the system_provider
+telemac contends that under the district_courts construction the provisions of claim 3 would be negated by the courts construction limiting communications to those established automatically
+we do not agree that the` time' limitation of claim 3 is negated by a construction of the` communication means' as limited to automatically *1326 established communications
+even accepting telemacs assertions we further note that claim 3 embraces additional limitations not encompassed within claim 1 including` activating the communication of the record data of stored call_charges from the mobile_phone_unit to the system_provider'
+therefore the doctrine of claim_differentiation does not lead us to reach a different construction
+
+telemac further challenges the courts limitation of the claim to automatically established communications on the basis that such an interpretation renders the claimed invention inoperable
+first telemac notes that the court determined that the` communication means' performs activation and reprogramming exclusively and that the` payment_verification_means' is used only for updating the account_amount
+under that construction telemac argues the host_processor can not automatically communicate with the phone or perform activation or programming until the phone has been initially programmed and assigned a telephone number
+telemacs argument however is contradicted by the preferred_embodiment describing activation and programming via a direct connection
+¡¬100_patent col._8,_ll._36-38
+based upon the written description we reject telemacs assertions that the courts construction would render the claim inoperable
+
+we conclude that only those embodiments involving communications established by the host_processor meet the functional requirement of the claim
+therefore we agree with the district_courts interpretation of the phrase` communication means for selectively establishing a communication_link with each mobile_phone_unit' to require communications established by the host_processor
+as the district_court concluded the disclosed embodiments describing user-initiated communications could not provide the structure or equivalent_structure for performing the claimed function in accordance with 35 u.s.c.¡± 112 ?
+6
+odetics inc. v. storage tech corp. 185_f.3d_1259 1267 51_uspq2d_1225 1229 fed.cir.1999
+
+b
+`` complex_billing_algorithm' the district_court determined from the written description that the claimed` complex_billing_algorithm' requires storage of phone_rates for at a minimum local long_distance international and roaming calls
+it further determined that the algorithm required means for identifying the appropriate_rate_category for each telephone call and for the application of those rates to calculate the call_charges
+
+initially we note that the claim provides` program means including a complex_billing_algorithm and rate_data for internally calculating call_charges as calls are made'
+because the term` complex_billing_algorithm' does not have an ordinary_meaning and its meaning is not clear from a plain reading of the claim we turn to the remaining intrinsic_evidence including the written description to aid in our construction of that term
+vitronics corp. v. conceptronic inc. 90_f.3d_1576 1582-83 39_uspq2d_1573 1576-77 fed.cir.1996 ; hockerson-halberstadt inc. v. avia group int l inc. 222_f.3d_951 955 55_uspq2d_1487 1490 fed.cir.2000
+the written description of the ¡¬100_patent states` the basic complex_billing_algorithm calculates the call_charges for the basic categories of local calls long_distance calls international_calls and roaming calls' and can be` expanded to incorporate other categories'
+¡¬100_patent col._17,_ll._1-8
+because the district_court properly followed the intrinsic_evidence we agree with the *1327 district_courts construction of` complex_billing_algorithm'
+
+ii
+validity
+the district_court found the disputed claims invalid as anticipated under 35 u.s.c.¡± 102 b by wittstein
+specifically the district_court determined that wittstein discloses a debit_phone calculating call_charges using a plurality of charge_rates stored within the telephone
+it acknowledged that the prior_art_reference fails to expressly identify the four rate_categories included in the` complex_billing_algorithm' but found those features inherent as evidenced by telemacs own_documents
+
+although anticipation is a question of fact it still may be decided on summary_judgment if the record reveals no genuine dispute of material_fact
+general elec co. v. nintendo_co. ltd. 179_f.3d_1350 1353 50_uspq2d_1910 1912 fed.cir.1999
+to review the summary_judgment of invalidity for anticipation we need to determine de novo whether the evidence in the record raises any genuine disputes about material_facts
+id
+summary_judgment is proper if no reasonable_jury could find that the patent is not anticipated
+id
+; oney v. ratliff 182_f.3d_893 895 51_uspq2d_1697 1699 fed.cir.1999` [ s ] ummary judgment is inappropriate if a trier of fact applying the clear and convincing standard could find for either party
+``
+
+upon review of the record before us we agree with the district_courts determination that there is no disputed issue of material_fact and further conclude that no reasonable juror could find the asserted claims of the patent valid over the wittstein_patent
+
+telemac concedes that the wittstein_patent discloses the use of a plurality of charge_rates but argues that the four rates required in accordance with the` complex_billing_algorithm' are not present
+quoting continental can co. usa v. monsanto co. 948_f.2d_1264 1268 20_uspq2d_1746 1749 fed.cir.1991 telemac argues that under the law of this circuit the doctrine of inherency is only applicable when the evidence makes` clear that the missing descriptive matter is necessarily present in the thing described in the reference and it would be so recognized by persons of ordinary_skill'
+accordingly telemac argues that the district_court erred by finding that one of ordinary_skill in the art would understand a` call_detail_record' to include each of these four rates
+
+telemac further asserts that the court erroneously seized upon the words` call_detail_record' in the wittstein_patent to conclude that the claimed billing_algorithm is inherent therein based on the erroneous finding that a telemac informal_invention_disclosure defines` detail call records' to include rates for all four categories
+it next argues that the informal_invention_disclosure describes a system with the ability to discern only three of the four specific categories failing to mention a` roaming' category
+accordingly telemac argues that the court committed error in finding the missing rate_categories necessarily present or inherent in the wittstein_patent
+
+a prior_art_reference must disclose every limitation of the claimed invention either explicitly or inherently to anticipate
+in re schreiber 128_f.3d_1473 1477 44_uspq2d_1429 1431 fed.cir.1997
+`` under the principles of inherency if the prior_art necessarily functions in accordance with or includes the claimed limitations it anticipates'
+*1328 mehl/biophile int l corp. v. milgraum 192_f.3d_1362 1365 52_uspq2d_1303 1305 fed.cir.1999
+whether a claim_limitation is inherent in a prior_art_reference is a question of fact
+schreiber 128 f.3d at 1477 44 uspq2d at 1431
+our review of the district_courts invalidity determination begins therefore with the express teachings of the prior_art
+
+the wittstein_patent describes a mobile_telephone for use as a rental_phone which` computes and stores all detail records and charges'
+col._3,_ll._38-41
+the patent explains that the rental_phone includes` an on-board computer.. which computes charges made for the use of the telephone based on charge_rates stored in its storage means and stores that information as well as other call usage information such as the other data normally included in a call_detail_record'
+col._6,_ll._14-19
+to anticipate the disclosed telephone must classify calls into each of the four categories and apply the appropriate rate to calculate the charges for those calls
+a call_detail_record provides a record of the calls for which the customer is charged thereby indicating the categories and corresponding rates for each call made
+thus for the wittstein_patent to anticipate the disclosed telephone must be capable of generating a call_detail_record specifying the charges corresponding to at a minimum local long_distance international and roaming calls
+
+the district_court found that` telemacs own_documents indicate that a call_detail_record includes information regarding the rates for such categories of calls' and that the limitations of the complex_billing_algorithm are necessarily met by the disclosure of the wittstein_patent
+we agree
+we note that recourse to extrinsic evidence is proper to determine whether a feature while not explicitly discussed is necessarily present in a reference
+continental can co. 948 f.2d at 1268 20 uspq2d at 1749
+the evidence must make clear that the missing feature is necessarily present and that it would be so recognized by persons of ordinary_skill in the relevant art
+id.1
+
+as noted telemac argues that the informal_invention_disclosure fails to mention the placement of` roaming' calls
+telemacs informal_invention_disclosure styled` telemac rental accounting cellular system trac' describes a trac accounting unit tau
+within that disclosure the tau is described as a device for calculating a rental_phone bill using inter alia local long_distance and international_rates
+while the informal disclosure fails to mention specifically whether a roaming rate can apply we are not persuaded that standing alone that fact demonstrates error in the district_courts inherency finding
+instead the types of calls listed might have been merely exemplary rather than exhaustive of the entire list of call_categories permitted by that telephone_system
+we further note that roaming charges are not included among the list of call types blocked which may suggest that the exclusion of roaming charges from among those listed was not intended as a limit on the capabilities of the proposed device
+although the example detail call record provided within the disclosure fails to mention roaming we are unable to ascertain the scope of a call record from this document alone
+therefore we turn to *1329 the remaining telemac` documents' of record
+
+we note that the informal_invention_disclosure appears to have yielded yet another telemac document of record before the district_court u.s. pat
+no._5325,418` the ¡¬418_patent` owned by telemac and incorporated by reference into telemacs ¡¬100_patent
+when a document is` incorporated by reference' into a host_document such as a patent the referenced document becomes effectively part of the host_document as if it were explicitly contained therein
+advanced display sys. inc. v. kent state univ. 212_f.3d_1272 1282 54_uspq2d_1673 1679 fed.cir.2000 ; cf
+atmel corp. v. information storage devices inc. 198_f.3d_1374 1381 53_uspq2d_1225 1229 fed.cir.1999` [ s ] tructure supporting a means-plus-function claim under ¡± 112 ?
+6 must appear in the specification`
+in the ¡¬418_patent as in the informal_invention_disclosure the tracking and accounting unit is described as a device for calculating charges incurred by a rental_phone user
+the patent states that the charges are calculated using the appropriate local roaming long_distance and international_rates and that the unit prints out a` detailed call list' of these charges for each customer
+column 10 lines 30-40
+therefore the ¡¬418_patent supports the courts conclusion that a call_detail_record necessarily includes a listing of charges for calls categorized into the four claimed categories
+
+we find further support for the district_courts conclusion in the language of the ¡¬100_patent
+describing the operation of the complex_billing_algorithm the written description of the patent characterizes the selection of categories and rates as` virtually [ mirroring ] the factors considered by public switched network providers and involved_wireless_service_providers'
+column 14 lines 1-6
+it is beyond dispute that roaming charges would have been included in the factors considered by` involved_wireless_service_providers'
+consistent with that the ¡¬100_patent describes an algorithm which categorizes calls into local long_distance international and roaming call_categories
+thus at a minimum the written description of the patent suggests that the inventors of the ¡¬100_patent understood that wireless providers would have included at least the claimed call_categories
+column 17 lines 1-3
+therefore we conclude that the ¡¬100_patent suggests that a call_detail_record as a record of the types of calls the user of a wireless telephone can place would include each of the four call_categories claimed
+
+we further note that no substantive testimony of record contradicted the district_courts determination that the four call_categories were necessarily present in the call_detail_record
+broad conclusory statements offered by telemacs experts are not evidence and are not sufficient to establish a genuine_issue of material_fact
+arthur a. collins inc. v. northern telecom ltd. 216_f.3d_1042 1046 55_uspq2d_1143 1146 fed.cir.2000 ; in re dembiczak 175_f.3d_994 999 50_uspq2d_1614 1617 fed.cir.1999
+furthermore mr._mcgregor telemacs founder and the principal inventor of the ¡¬100_patent admitted that since 1987 call_detail_records have included all four types of calls
+therefore the court was correct to rely on the admissions of mr._mcgregor establishing that as of 1987 call_detail_records included roaming call_charges when such_calls were made by the user thereby clarifying the ambiguity found in the invention disclosure statement regarding the meaning of the` call_detail_record' recited in the wittstein_patent
+
+in sum the district_courts inherency determination is not contradicted by the *1330 contents of the informal_invention_disclosure
+indeed when read in light of the ¡¬418_patent the ¡¬100_patent and the admission of mr._mcgregor it is evident that as of the time the application which issued as the wittstein_patent was filed a call_detail_record necessarily included information regarding the rates for the claimed call_categories
+thus the wittstein_patent discloses an algorithm which calculates charges for all four claimed categories of calls
+accordingly we are in agreement with the district_courts conclusion that no reasonable_jury could find the claims of the ¡¬100_patent valid in light of the anticipating disclosure found in the wittstein_patent
+
+iii
+infringement
+a
+`` complex_billing_algorithm' in determining whether there has been literal_infringement this court applies a two step analysis
+once the claims have been correctly construed to determine their scope the claims must be compared to the accused device
+markman 52 f.3d at 976 34 uspq2d at 1326
+to find literal_infringement each limitation of the claim must be present in the accused device
+any deviation from the claim precludes such a finding
+cole v. kimberly-clark corp. 102_f.3d_524 532 41_uspq2d_1001 1007 fed.cir.1996
+
+the parties do not dispute that the claimed` complex_billing_algorithm' requires calculation of charges using call rates based on classification of calls into local long_distance international and roaming call_categories
+based on that construction the district_court found that topps tracfone_system does not infringe claim 1 of the ¡¬100_patent
+the court noted that the tracfone_system as manufactured and sold does not allow users to place international_calls
+the court determined that the accused system does not store the international_call_rates in its memory and does not utilize international_call_rates in its billing_algorithm
+
+telemac contends that even though topp has chosen not to permit direct dialing of international_calls the capability of billing for international_rates is nonetheless present in the phones source code
+according to telemac because topps system is capable of being modified to place and charge for international_calls topps system infringes
+
+under the precedent of this circuit however that a device is capable of being modified to operate in an infringing manner is not sufficient by itself to support a finding of infringement
+high tech med
+instrumentation v. new image indus. inc. 49_f.3d_1551 1556 33_uspq2d_2005 2008-09 fed.cir.1995
+in this case due to a restriction built into the software program stored in the telephones memory a user of topps system is prevented from directly placing international_calls
+therefore international_rates and the calculation of charges for such_calls are not included in the billing_algorithm of the accused device
+the district_court correctly concluded that telemacs allegations of literal_infringement must fail
+
+nor do we take issue with the district_courts conclusion that this limitation is not met equivalently
+one method for finding infringement under the doctrine of equivalents with regard to each element not met literally is to determine whether the accused device performs substantially the same_function in substantially the same_way to achieve substantially the same_result as that of the invention claimed
+unidynamics corp. v. automatic prod
+int l ltd. 157_f.3d_1311 1322 48_uspq2d_1099 1106 fed.cir.1998 citing alpex computer corp. v. nintendo_co. 102_f.3d_1214 1222 40_uspq2d_1667 1673-74 fed.cir.1996
+in this case the *1331 district_court determined that because the accused device does not permit the placement of international_calls it does not perform substantially the same_function in substantially the same_way to achieve substantially the same_result as the claimed invention
+
+under the claim as properly construed the accused device must store an international_rate in its memory
+the accused device must also calculate charges to be debited from the account_amount using that rate
+the tracfone_system however blocks direct placement of international_calls
+to place an international_call a user must employ the services of an outside_international_carrier
+therefore no international_rate is stored in the phone and no charges are calculated using an international_rate
+although an international carrier would charge an international_calling rate the debit_phone would categorize the call as a local or roaming call not an international_call
+accordingly the district_court correctly concluded that no reasonable_jury could find that the accused device includes a complex_billing_algorithm that categorizes and calculates charges for all four types of calls or that the accused device performs substantially the same_function in substantially the same_way with substantially the same_result
+
+we further note that to reach a finding of equivalents in the absence of any corresponding element present in the accused device the district_court would have had to ignore the international_rate calculation limitation of the claim as construed
+in effect the district_court would have to strike that limitation from the claim
+where no equivalent element can be identified in the accused device the district_court is not at liberty to altogether ignore limitations of a claim
+zodiac pool care inc. v. hoffinger indus. inc. 206_f.3d_1408 1416 54_uspq2d_1141 1147 fed.cir.2000
+in warner-jenkinson co. v. hilton davis chemical co. 520_u.s._17 39_n._8 117_s.ct._1040 137_l.ed.2d_146_(1997) the supreme court states` if a theory of equivalence would entirely vitiate a particular claim element partial or complete judgment should be rendered by the court as there would be no further material issue for the jury to resolve'
+because no feature in the accused device corresponds to the international_call category component of the claimed telephone_system no reasonable_jury could have found that the accused device infringes under the doctrine of equivalents
+
+b
+`` communication_means' the district_court also determined that topps tracfone_system lacks structure corresponding to the` communication means for selectively establishing a communication_link' between the host_processor and each mobile_phone_unit
+distinguishing topps system from the claimed invention the court found that the accused system did not selectively and automatically establish communications for purposes of activating or programming the phone
+it further found that activation of the tracfone is accomplished by way of customer-initiated communications
+the user dials the host_processors 800 number and receives an activation code from an operator for manual_entry
+the district_court noted that the only reference in the record to automatic data transmission by the tracfone_system involved the process for updating the account_amount a function of the` payment_verification_means' not the` communication means'
+thus the court determined that the accused device did not include an element corresponding to that limitation and did not literally infringe
+for that same reason the court rejected telemacs argument that manual_entry of codes is the *1332 equivalent of electronic transmission of data
+we conclude that a reasonable_jury could not have found that the accused device included structure corresponding to the claimed communication means
+
+to find literal_infringement of claim_limitations written in means-plus-function_form a court must find at a minimum identity of function between the claimed function and that of the accused device
+wms gaming inc. v. international game tech. 184_f.3d_1339 1350 51_uspq2d_1385 1392-93 fed.cir.1999
+next the court must satisfy itself that the accused device incorporates the same or equivalent_structure to that described in the specification as performing that function
+id
+thus topps system must at a minimum include structure performing the functions recited in the claims in means-plus-function_form
+
+as noted the ¡¬100_patent provides a description of embodiments in which the communication is performed using a direct couple interlink_receiver and one established using cellular paging techniques
+telemac failed to introduce evidence to show that topps system included such a means for selectively establishing communication with each phone
+telemac had argued that the` communication means' should be construed to include manual established communications and its infringement analysis depended upon that construction
+the district_court however rejected that construction as do we
+the district_court correctly determined that the function and structure for performing user-initiated communications found in the tracfone_system corresponds to the claimed` payment_verification_means' and are not part of the communication means
+thus telemac was unable to point to any component of the accused device which corresponds to the claimed` communication means'
+because telemac was not successful in its efforts to have the limitation construed to encompass user-initiated communications its claim of infringement must fail
+
+with regard to infringement under the doctrine of equivalents the district_court determined that there was no equivalent function or structure in the tracfone_system to establish selectively and automatically communications with the mobile_telephones
+as stated previously to find infringement under the doctrine of equivalents the analysis` often turns on whether the accused device performs substantially the same_function in substantially the same_way to achieve substantially the same_result'
+unidynamics 157 f.3d at 1322 48 uspq2d at 1106
+we agree with the district_court that the structure used to perform user-initiated communications in topps system is not the same as or equivalent to the structure in the host_processor corresponding to the claimed means for selectively establishing communications with a mobile_telephone
+nothing in the accused device was shown to function in the manner required by the claims or in an equivalent manner
+we agree with the district_court therefore that this limitation has not been shown to have been met equivalently by the accused device
+
+conclusion
+we agree with the claim_construction articulated by the district_court
+we further conclude that the district_court properly granted topps motions for summary_judgment of invalidity and noninfringement
+accordingly the judgment of the district_court is
+
+affirmed
+
+costs
+no costs
+
+all citations
+247_f.3d_1316 58_u.s.p.q.2d_1545
+footnotes
+1
+cf
+mehl/biophile intl corp. v. milgraum 192_f.3d_1362 1365 52_uspq2d_1303 1305 fed.cir.1999` inherency is not necessarily coterminous with the knowledge of those of ordinary_skill in the art
+artisans of ordinary_skill may not recognize the inherent characteristics or functioning of the prior_art
+`` ; atlas powder co. v. ireco inc. 190_f.3d_1342 1347 51_uspq2d_1943 1946-47 fed.cir.1999` inherency is not necessarily coterminous with the knowledge of those of ordinary_skill in the art`
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+telemac_cellular_corp. v. topp_telecom inc. 247_f.3d_1316 2001 58_u.s.p.q.2d_1545
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

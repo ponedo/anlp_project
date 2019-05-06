@@ -1,0 +1,282 @@
+
+
+
+935 F.2d 1569
+United States Court of Appeals,
+Federal Circuit.
+SYMBOL TECHNOLOGIES, INC., Plaintiff-Appellee,
+v.
+OPTICON, INC., and Opto Electronics, Defendants-Appellants.
+No. 90-1409.
+|
+June 14, 1991.
+|
+Rehearing Denied Sept. 6, 1991.
+Synopsis
+Holder of patents for laser bar code scanners brought suit alleging that bar code scanning devices were infringing, and alleged infringer filed counterclaim for declaratory judgment that two patents were invalid and unenforceable. The United States District Court for the Southern District of New York, Kimba M. Wood, J., concluded that patents were not proven invalid or unenforceable and found infringement. Alleged infringer appealed. The Court of Appeals, Clevenger, Circuit Judge, held that: (1) laser bar code scanner patents using "aim and shoot" feature and using repetitive self-scanning of bar code symbol until it is decoded were not shown to be invalid for obviousness, although prior art included portable laser scanning head which detected and decoded laser beams reflected from bar codes and erroneously excluded prior art reference disclosed laser scanning head for reading bar code symbols that had trigger, and (2) patent for laser bar code scanning device with "aim and shoot" feature was not available as reference against divisional patent which included "aim and shoot" feature but also additional features including means for repetitively self-scanning bar code symbol until it was decoded and termination of repetitive scan if no successful decode were achieved, so the divisional patent application was not invalid for obviousness-type double patenting.
+ 
+Affirmed.
+ 
+Attorneys and Law Firms
+*1571 Arnold Sprung, Sprung Horn Kramer & Woods, Tarrytown, N.Y., argued for plaintiff-appellee. With him on the brief were Nathaniel D. Kramer and Ira J. Schaefer.
+Jeffrey A. Schwab, Abelman Frayne Rezac & Schwab, New York City, argued for defendants-appellants. With him on the brief was Michael Aschen.
+Before NIES, Chief Judge, and NEWMAN, and CLEVENGER, Circuit Judges.
+Opinion
+
+CLEVENGER, Circuit Judge.
+
+*1572 Symbol Technologies, Inc., (Symbol) sued Opticon, Inc., and its Japanese parent Opto Electronics, (collectively hereinafter Opticon), in the United States District Court for the Southern District of New York for infringement of certain claims of United States Patent Nos. 4,387,297 ('297 patent), 4,593,186 ('186 patent), and 4,409,470 ('470 patent).
+ 
+Symbol alleged that Opticon's MSH-840, MSH-850 and MSH-860 devices were infringing. Opticon denied infringement and filed a counterclaim for a declaratory judgment that the '297 and '186 patents are invalid and unenforceable. Following a non-jury trial, the District Court concluded that the '297 and '186 patents were not proved invalid or unenforceable, and found infringement.1 Symbol Technologies, Inc. v. Opticon, Inc., 17 USPQ2d 1737, 1990 WL 58887 (S.D.N.Y.1990). The court entered a liability judgment for Symbol.
+ 
+Opticon appeals the judgment of the District Court. This Court has jurisdiction under 28 U.S.C. ¡± 1292(c)(2) (1988) to entertain Opticon's appeal. Because no reversible error was committed, we affirm.
+ 
+
+
+I. BACKGROUND
+The patents relate to devices that employ lasers to read bar code symbols, and methods of their use. The application that issued as the '297 patent was filed on February 29, 1980. In the first official action, the examiner required restriction to one of seven species identified as Groups I-VII. The applicants elected Group I claims directed to a light-weight laser scanning head, which matured into the '297 patent.
+ 
+The '297 patent specification refers to two types of previously known laser scanning devices. The first type, often mounted in supermarket and other checkout counters, requires a user to bring the symbol-bearing object to the stationary scanner. Its usefulness is limited to decoding symbols on objects that can be brought to the device. The second type uses a wand or pen that emits a scanning laser beam. The user places the pen in physical contact with the object, then manually drags the pen across the symbol. This second type requires user training because successful decoding depends on pen angle, pressure, and speed of passage as the pen is dragged across the bar code. Multiple passes of the pen are often required to achieve a single reading. Moreover, the tips of pen scanners tend to scar the bar codes and are not useful on wax coated containers, such as milk cartons, on soft products, such as bagged potato chips, or on reflective aluminum cans.
+ 
+In contrast, the invention claimed in the '297 patent is a portable, light-weight laser scanning head that operates without physical contact with the bar code. See Figure 1. In gun-like fashion, the user sights the bar code, unobstructed by the device, then depresses a trigger to initiate decoding. Each time the trigger is depressed, the hand-held device sweeps a scanning laser beam laterally across the bar code by use of mirrors. The examiner considered this "aim and shoot" feature to be a novel distinguishing characteristic of the claimed invention over the prior art. All of the asserted '297 patent claims depend on claim 1, reprinted in the Appendix, which in pertinent part claims the "aim and shoot" feature as:
+(c) miniature optic means ... to permit the user to conveniently register the laser light beam on the symbol by sighting the symbol along a direct line of sight which does not pass through the housing;
+(d) miniature scanning means mounted in the light path and in the interior space of the housing for cyclically sweeping the laser light beam across the bar code symbol for reflection therefrom;
+ 
+* * * * * *
+(h) handle means for normally supporting the light-weight laser scanning head in a non-contacting relationship with the symbol during reading thereof; and
+*1573 (i) manually actuatable trigger means on the housing for initiating reading of the symbol each time the trigger means is manually actuated by the user.
+ 
+
+?
+-----
+ 
+Before the '297 patent issued, the applicants filed a divisional application directed to the originally non-elected Group VI claims, described in the restriction as a "method" of scanning, sensing and decoding bar code symbols. Thereafter, the applicants filed a continuation of the divisional application, which eventually issued as the '186 patent. The '186 patent contains apparatus claims 1-10 and method claims 11-15, with the method claims closely corresponding to the original Group VI claims. The broadest asserted apparatus and method claims, reprinted in the Appendix, both require a "trigger" and "repetitively" scan "the directed laser beam across each symbol for reflection therefrom." Thus, the '186 patent claims a system that repetitively scans and senses a bar code symbol each time a user depresses the trigger. Each symbol is decoded from repetitive rather than single scans, thereby increasing the likelihood of achieving accurate decoding even for poorly printed symbols. In addition, claim 1 and claim 11 include limiting language for "determining a successful decoding of each symbol," and for "non-manually terminating the reading of each symbol upon the determination of the successful decoding thereof." See Appendix. Thus, the invented system alerts the user and automatically stops scanning when the symbol is decoded, permitting rapid and sequential decoding of multiple objects.
+ 
+The same applicants claimed an advance over the invention of the '297 patent in an application filed on January 25, 1982, which later issued as the '470 patent. The '470 patent specification explains that, because the scanning laser beam of the invention *1574 claimed in the '297 patent passes through the inside of the device, "a great deal of interior 'dead' space within the head" is required in order to accommodate the scanning beam.
+ 
+In contrast, the '470 patent discloses a scanning head with a raised rear window that emits the laser beam over the outside top of the device rather than inside its housing. Claim 1 of the '470 patent, reprinted in the Appendix, includes:
+(g) window means mounted on the housing, and having a light-transmissive window at the rear region in close adjacent confronting relationship with the scanning means thereat, said window being configured and positioned in the light path of said at least one swept beam to permit the latter to pass through the window and unobstructedly travel exteriorly of and past the front and intermediate body regions of the housing.
+whereby the field of view of the swept beam is substantially independent of the predetermined width of the housing due to its exterior transmission outside of the front and intermediate body regions of the housing.
+Thus, since the device no longer must accommodate the sweep width of the scanning beam, the invention allows a narrowing of the body of the device, with a corresponding reduction in overall size and weight.
+ 
+
+
+II. INFRINGEMENT
+ Opticon's first contention on appeal is that Symbol presented insufficient evidence during its case-in-chief to establish a prima facie showing of infringement. Symbol, as the party asserting infringement, bore the burden of proof by a preponderance of the evidence. Hughes Aircraft Co. v. United States, 717 F.2d 1351, 1361, 219 USPQ 473, 480 (Fed.Cir.1983).
+ 
+ To prove infringement, Symbol offered the expert testimony of Mr. Edward Barkan (Barkan), named as a co-inventor in each of the three patent applications. The court admitted into evidence charts and drawings used by Barkan to demonstrate infringement of the asserted claims, each of which contains "means plus function" limitations as permitted under 35 U.S.C. ¡± 112 ? 6 (1988). The charts show each asserted claim broken down by limitation, with one or more numbers placed next to each limitation. Corresponding numbers identify various structural parts of the accused devices depicted in the drawings. Using the exhibits as a guide, Barkan stated that in his opinion each numbered claim limitation reproduced on the charts was met by the corresponding numbered structure of the device shown on the drawings. Furthermore, Barkan testified that his "understanding of the patent claims [was] based upon the claims, as well as the specifications, as well as statements made during the prosecution history."
+ 
+Determination of patent infringement is a two-step process: "the meaning of the claims must be learned from a study of all relevant patent documents; and the claims must be applied to the accused structures." Caterpillar Tractor Co. v. Berco, S.P.A., 714 F.2d 1110, 1114, 219 USPQ 185, 187 (Fed.Cir.1983). Opticon contends that, under Pennwalt Corp. v. Durand-Wayland, Inc., 833 F.2d 931, 934, 4 USPQ2d 1737, 1739 (Fed.Cir.1987), cert. denied, 485 U.S. 961, 108 S.Ct. 1226, 99 L.Ed.2d 426 (1988), a party asserting infringement of claims with "means plus function" limitations must demonstrate to the fact-finder how each structure in the accused device, asserted to meet a functional claim limitation, is the same as or equivalent to a corresponding structure disclosed in the specification. Opticon cites the following passage from Pennwalt for support:
+Where the issue is raised, it is part of the ultimate burden of proof of the patent owner to establish, with respect to a claim limitation in means-plus-function form, that the structure in the accused device which performs that function is the same as or an equivalent of the structure disclosed in the specification.
+Id.
+ 
+In the circumstances of this case, however, Fed.R.Evid. 705 provides the answer to whether Symbol made a prima facie *1575 showing of infringement.2 At trial, Symbol suggested that the court receive the exhibits representing Barkan's expert testimony without foundation, thus relieving the court and Barkan of the need to "go through lengthy testimony explaining with each infringing device how he found that each element was infringed." Counsel for Opticon responded "I really have no objection except ... that we have wanted to voir dire." After voir dire, Opticon failed to cross-examine Barkan on the issue that it now asserts fatally flaws the sufficiency of his testimony.
+ 
+By its express terms, ¡± 112 ? 6 permits an element in a claim to be expressed as a means or step for performing a specified function. However, the scope of such a claim is not limitless, but is confined to structures expressly disclosed in the specification and corresponding equivalents. Thus, the statutory provision prevents an overly broad claim construction by requiring reference to the specification, and at the same time precludes an overly narrow construction that would restrict coverage solely to those means expressly disclosed in the specification. Johnston v. IVAC Corp., 885 F.2d 1574, 1580, 12 USPQ2d 1382, 1386-87 (Fed.Cir.1989) (statutory provision acts as restriction on claim scope); Data Line Corp. v. Micro Technologies, Inc., 813 F.2d 1196, 1201, 1 USPQ2d 2052, 2055 (Fed.Cir.1987) (statutory provision precludes a construction limited to structures expressly disclosed in specification); D.M.I., Inc. v. Deere & Co., 755 F.2d 1570, 1574, 225 USPQ 236, 238 (Fed.Cir.1985) (statutory provision requires that "limitation shall be construed to cover structure described in the specification and equivalents thereof" (emphasis in original)). In short, applying a claim drafted under ¡± 112 ? 6 to an accused structure is not a simple task.
+ 
+ Opticon argues that Barkan must have misunderstood this task, because he testified on the ultimate issue of infringement without discussing in detail equivalency between the structures of the accused devices and the structures disclosed in the patent specifications. However, testimony on the ultimate issue of infringement is permissible in patent cases. Snellman v. Ricoh Co., 862 F.2d 283, 287, 8 USPQ2d 1996, 2000 (Fed.Cir.1988), cert. denied, 491 U.S. 910, 109 S.Ct. 3199, 105 L.Ed.2d 707 (1989) ("[a]lthough claim interpretation is a question of law, expert testimony is admissible ... to give an opinion on the ultimate question of infringement" (citations omitted)); Fed.R.Evid. 704. The scope of literally infringing "equivalents" under ¡± 112 ? 6 is a factual determination. King Instrument Corp. v. Otari Corp., 767 F.2d 853, 862, 226 USPQ 402, 408 (Fed.Cir.1985), cert. denied, 475 U.S. 1016, 106 S.Ct. 1197, 89 L.Ed.2d 312 (1986). The responsibility for challenging the factual underpinnings of the testimony fell squarely on Opticon during cross-examination. See Smith v. Ford Motor Co., 626 F.2d 784, 793 (10th Cir.1980), cert. denied, 450 U.S. 918, 101 S.Ct. 1363, 67 L.Ed.2d 344 (1981) (" 'the full burden of exploration of the facts and assumptions underlying the testimony of an expert witness [is] squarely on the shoulders of opposing counsel's cross-examination' " (citation omitted)); see also Bryan v. FMC Corp., John Bean Div., 566 F.2d 541, 545 (5th Cir.1978) ( "rule 705 shifts to the cross-examiner the burden of eliciting the bases of an expert witness' opinion"); United States v. Santarpio, 560 F.2d 448, 454-55 (1st Cir.1977), cert. denied sub nom., Schepici v. United States, 434 U.S. 984, 98 S.Ct. 609, 54 L.Ed.2d 478 (1977) (under Rule 705, court was entitled to credit expert's conclusion even though expert did not describe and explain the relevance of factors upon which his opinion rested; defendant neither cross-examined on basis for opinion nor attempted to show its inadequacy); C. Van Der Lely, N.V. v. F. Ili Maschio S.n.c., 221 USPQ 34, 41, 1984 WL 179 (S.D.Ohio 1983), aff'd, *1576 748 F.2d 1568 (Fed.Cir.1984) (under Rule 705, "[c]ross-examination [is] the proper procedure for the defendant to challenge the accuracy of [the expert's] opinion"). Opticon failed to seize the opportunity, provided by the Rule, to demonstrate that Barkan's opinion testimony was factually incorrect.
+ 
+Rule 705 functions to abbreviate trials by permitting opinion testimony without factual foundation. We see no reason why Rule 705 is not fully applicable to patent trials and opinion testimony on infringement of claims under ¡± 112 ? 6. We have not directly addressed this issue, but have previously applied Rule 705 in a patent case on the issue of damages, stating that an expert need not "reveal the facts or data underlying his opinion ... because [the defendant] did not cross-examine on this issue and the master did not require otherwise." Studiengesellschaft Kohle v. Dart Indus., 862 F.2d 1564, 1567, 9 USPQ2d 1273, 1277 (Fed.Cir.1988). Moreover, the Federal Rules of Evidence are expressly applicable to all proceedings in the courts of the United States, which must include civil suits arising under Title 35. Fed.R.Evid. 101. Finally, the specific purpose behind Rule 705 is to avoid "complex and time consuming" testimony by permitting an expert to " 'state his opinion and reasons without first specifying the data upon which it is based.' " Fed.R.Evid. 705 advisory committee's note quoting Rule 4515, N.Y. CPLR (McKinney 1963). Patent cases, so often typified by lengthy testimony on complex technical issues, are particularly served by this purpose.
+ 
+In short, Symbol was permitted to rest its prima facie case on Barkan's expert testimony, including charts, that the patents were infringed, and the District Court was free to accept or reject that evidence. Of course, by resting its case on summary testimony, Symbol was left exposed to a profound risk that Opticon, during its defense or cross-examination of Barkan, would demonstrate that the accused devices were non-infringing under a different and proper construction of the claims. Opticon willingly permitted Symbol to bear this risk, but chose not to expose Barkan's testimony to the glaring light of cross-examination on this issue. Having lost below, Opticon cannot here recoup for its failed litigation strategy.3 In view of the legal effect of the expedited procedure, we must reject Opticon's contention that Symbol failed to present a prima facie case of infringement. Since Opticon offers no argument that its products do not infringe on the facts, we need not review infringement itself.
+ 
+
+
+III. VALIDITY
+
+A. Obviousness
+ Opticon challenges the District Court's conclusion that the inventions of the '297 and '186 patents were not proved invalid for obviousness under 35 U.S.C. ¡± 103 (1988).4 We must answer whether "the prior art made obvious the invention as a whole for which patentability is claimed." Hartness Int'l Inc. v. Simplimatic Eng'g Co., 819 F.2d 1100, 1108, 2 USPQ2d 1826, 1832 (Fed.Cir.1987). We do not "pick and choose among the individual elements of assorted prior art references to recreate the claimed invention," but rather, we look for "some teaching or suggestion in the references to support their use in the particular claimed combination." Smithkline Diagnostics, Inc. v. Helena Laboratories Corp., 859 F.2d 878, 887, 8 USPQ2d 1468, 1475 (Fed.Cir.1988).
+ 
+*1577 The District Court found that the prior art consisted of U.S. Patent No. 4,251,798 (the '798 patent), which describes the Laserchek, and references which describe the Laserscan, the Verifier 315, the Monitor 101, and the Carton Counter. We review here the teachings of that art.
+ 
+The '798 patent is prior art under 35 U.S.C. ¡± 102(e) (1988). The '798 patent claims a portable laser scanning head that detects and decodes laser beams reflected from bar codes. The reference discloses a device that can read in a non-contact position:
+This 'depth of field' feature permits a user to scan bar code symbols imprinted both on a flat surface and on a curved surface merely by moving the head towards a position anywhere within 2¡² of the symbol.
+'798 patent, col. 5, line 66-col. 6, line 6.
+ 
+During prosecution of the '297 patent, the '798 patent was the basis for discussions about the permissible scope of the '297 patent claims. Indeed, the examiner originally rejected the claimed invention as obvious in light of the disclosure in the '798 patent. Following an interview with the examiner, the applicants amended the claims to include the handle, trigger and sighting means that appear in claim 1 and are quoted above. The examiner allowed the claims in view of the amendment. The District Court agreed with the examiner's conclusion that the addition of the handle, trigger and sighting means (described by the District Court as the "aim and shoot" feature) to the self-scanning means distinguished the invention claimed in the '297 patent from the disclosure in the '798 patent.
+ 
+The Laserchek device, a Symbol product, is described in the '798 patent. Following a demonstration of the device at trial, the District Court found that the Laserchek was a bar code verification device, had no trigger, normally blocked the user's view of the bar code during use, and could not be used in the "aim and shoot" fashion.
+ 
+The Laserscan was merely a modified version of the Laserchek. The Laserscan consisted of the Laserchek scanning head attached to a console in turn attached to a computer. The District Court found that the Laserscan was not capable of functioning in "aim and shoot" mode because the device had no trigger and obscured the bar code during use.
+ 
+The Verifier 315 was a bar code reader designed to be used with its feet resting on a surface and its front reading "snout" positioned above the bar code by a small, fixed distance. The District Court found that the device blocked the user's view of the bar code during use and had no trigger.
+ 
+The Monitor 101 was developed in the mid-1970's to verify the accuracy of bar codes as they are printed. During printing, the bar codes pass underneath the device, which is fixed above the printing press. The District Court found that the Monitor 101 was neither hand held nor capable of operating in "aim and shoot" fashion.
+ 
+The Carton Counter counted cartons and was not a bar code reader. However, the device had a trigger, not to initiate decoding of a bar code, but to reset the counter to zero. A brochure describing the Carton Counter was before the examiner and found not to be pertinent. The District Court, finding that the carton counter "is not self-scanning; rather, it must be dragged over the carton edges," concluded that the device "lacks any disclosure, recognition, or teaching of an aim and shoot device." 17 USPQ2d at 1746.
+ 
+The District Court thus concluded that the invention would not have been obvious in light of the prior art because the considered references did not disclose or suggest the "aim and shoot" feature claimed in parts (c), (d), (h) and (i) of claim 1 of the '297 patent. We agree. Here the very difference between the claims and the considered art is the "aim and shoot" feature found critical to the patentability of the invention. Graham v. John Deere Co., 383 U.S. 1, 17-18, 86 S.Ct. 684, 693-94, 15 L.Ed.2d 545, 148 USPQ 459, 467 (1966) (¡± 103 requires consideration, inter alia, of differences between prior art and claimed invention as a whole). Thus, a person of ordinary skill in the art, having all of the *1578 teachings of the considered references before him, would have found no "teaching or suggestion in the references" of the invention claimed in the '297 patent. Smithkline Diagnostics, 859 F.2d at 887, 8 USPQ2d at 1475.
+ 
+ However, in reaching its conclusion, the District Court excluded sketches and tentative specifications relating to a device known as the X-Scanner, on the theory that " 'prior art' in an obviousness determination [ ] must ... be enabling, that is, disclose the disseminated subject matter to the public, in a manner such that one skilled in the art could make and operate such a device." 17 USPQ2d at 1740. While a reference must enable someone to practice the invention in order to anticipate under ¡± 102(b), a non-enabling reference may qualify as prior art for the purpose of determining obviousness under ¡± 103. Reading & Bates Constr. Co. v. Baker Energy Resources Corp., 748 F.2d 645, 652, 223 USPQ 1168, 1173 (Fed.Cir.1984) (reference that lacks enabling disclosure is not anticipating, but "itself may qualify as a prior art reference under ¡± 103, but only for what is disclosed in it" (emphasis in original)); see Beckman Instruments, Inc. v. LKB Produkter AB, 892 F.2d 1547, 1551, 13 USPQ2d 1301, 1304 (Fed.Cir.1989) ("[e]ven if a reference discloses an inoperative device, it is prior art for all that it teaches"). Undisputed evidence demonstrated that the sketches and tentative specifications, together known as the X-Scanner reference, were publicly available more than one year before the effective filing date. The District Court's finding to the contrary is clearly erroneous. While the District Court clearly erred in excluding the X-Scanner sketches and tentative specifications from the prior art for the purpose of evaluating obviousness under ¡± 103, that error did not preclude the District Court from alternatively reaching its factual conclusions regarding those materials. The District Court specifically stated, in pertinent part, that "the 'X-Scanner' had to be dragged across the symbol rather than being aimed and shot." 17 USPQ2d at 1747.
+ 
+The X-Scanner reference discloses a 2 lb. laser scanning head for reading bar code symbols at a maximum working range of 4¡² from the bar code. Thus, like the '798 patent, the reference discloses a device capable of reading in a non-contact position. The disclosed device has a trigger, and may be used in either "portable mode" or "permanent mount mode." When operated in permanent mount mode, the device scans continuously from a fixed position above the bar code, much like the Verifier 315 already considered. The reference explains that the device, when operated in portable mode, has a "0-2 seconds scan duration" which is activated by a "trigger." In both modes, the laser beam puts out an "X" pattern and the "[s]ymbol must move across [the scanning] field, or vice versa."
+ 
+In support of its conclusion that the X-Scanner had to be dragged across the symbol rather than aimed and shot, the District Court cited the expert testimony of Symbol's expert witness, Mr. Swartz. Swartz testified that the X-Scanner's "mode of use" was sufficiently different from the invention of the '297 patent that it was "not a device that is used in a shoot mode, [ ] because it is, it creates an X-pattern as shown." Therefore, to obtain a reading, "[y]ou cannot do it stationary, you must have relative motion [between the symbol and device]." Swartz also stated "[y]ou would have to move [the scan head], you could not use it in aim and shoot mode." Opticon's evidence to the contrary failed to persuade the District Court, and Opticon has failed to persuade us that the District Court committed reversible error in crediting Symbol's evidence on this point.
+ 
+ The obviousness inquiry conducted by the District Court correctly included review of the evidence offered on the objective indicia of nonobviousness, Stratoflex, Inc. v. Aeroquip Corp., 713 F.2d 1530, 1538, 218 USPQ 871, 879 (Fed.Cir.1983), which included the failure of others to develop the claimed invention and its commercial success. Nonobviousness is suggested by the failure of others to "find a solution to the problem which the patent[s] in question purport[ ] to solve. Such evidence *1579 shows indirectly the presence of a significant defect [in the prior art], while serving as a simulated laboratory test of the obviousness of the solution to a skilled artisan." Note, Subtests of "Nonobviousness": A Nontechnical Approach to Patent Validity, 112 U.Pa.L.Rev. 1169, 1173 (1964). On this issue, the District Court found that Opticon's own expert witness, Mr. Collins, was "closely involved with the bar code industry since its inception and [ ] never conceived or developed an aim and shoot scanning device." 17 USPQ2d at 1747. The court further found that, despite years of effort, Opticon's technical witness, Mr. Knowles, was "never able to develop a scanner with the aim and shoot feature of the patents in suit." Id. Furthermore, as found by the District Court, Symbol's "aim and shoot" scanners have enjoyed tremendous commercial success, with about 200,000 devices sold for over $150,000,000 as of the time of trial. These findings are not challenged by Opticon.
+ 
+In short, under the evidence that was put forward by Symbol and properly accepted by the court, the omitted reference adds nothing to the scope of the already considered prior art except a trigger in a bar code reader. This addition is minor, because the Carton Counter already discloses a trigger, although in a device for counting cartons. When the X-Scanner reference is considered with all the other references, the prior art as a whole still lacks a disclosure or suggestion of the "aim and shoot" feature, in which a laser beam sweeps laterally across the bar code while the hand-held device is held stationary and the target can be viewed.
+ 
+We thus conclude that, even when the X-Scanner reference is included in the prior art, Opticon has not met its burden of proving that the inventions of the '297 and '186 patents would have been obvious under ¡± 103. The District Court's error in alternatively excluding the X-Scanner reference from the prior art was therefore harmless.
+ 
+
+
+B. Double Patenting
+Opticon challenges the District Court's conclusion that the '186 patent was not invalid for obviousness-type double patenting over the '297 patent. After the examiner required restriction during prosecution of the '297 patent, the applicants filed a divisional application containing method claims drawn to the invention of the originally non-elected Group VI claims. A continuation of the divisional containing both the old method and new apparatus claims eventually issued as the '186 patent.
+ 
+With regard to double patenting, we recently explained that 35 U.S.C. ¡± 121 (1988)5 will not apply to remove the parent as a reference where the principle of consonance is violated:
+ 
+Consonance requires that the line of demarcation between the "independent and distinct inventions" that prompted the restriction requirement be maintained. Though the claims may be amended, they must not be so amended as to bring them back over the line imposed in the restriction requirement. Where that line is crossed the prohibition of the third sentence of Section 121 does not apply.
+Gerber Garment Technology, Inc. v. Lectra Systems, Inc., 916 F.2d 683, 688, 16 USPQ2d 1436, 1440 (Fed.Cir.1990).
+ The corollary to this Court's statement in Gerber Garment is that new or amended claims in a divisional application are entitled to the benefit of ¡± 121 if the claims do not cross the line of demarcation drawn around the invention elected in the restriction requirement. If that line is crossed, the issue is whether the invention claimed in the '186 patent would have been obvious in light of the invention claimed in the '297 patent.
+ 
+ *1580 Opticon contends, as it did before the trial court, that the appearance of "a whole new group of apparatus claims along with the method claims" in the '186 patent proves that the claims "asserted against Opticon are drawn to the elected species of the '297 patent and not the species upon which the divisional was filed." We read Opticon's bare assertions in its opening brief, without record citation, to allege that because the Group VI invention was described as a "method" in the restriction requirement, the added apparatus claims fail to comply with the requirement. The District Court had before it the declaration of Mr. Berger, which fully supports a conclusion that both the method and apparatus claims are directed to the Group VI invention. Berger stated that the Group VI invention is a system of scanner plus decoder, with a means for stopping the scanner after the symbol is successfully decoded. Therefore, whether method or apparatus, all the '186 patent claims are drawn to that system. Berger further asserted that in the electronic arts, the Patent and Trademark Office (PTO) has not restricted between claims to an apparatus and to a method of using the apparatus. Cf. Studiengesellschaft Kohle v. Northern Petrochemical Co., 784 F.2d 351, 354, 228 USPQ 837, 840 (Fed.Cir.1986), cert. dismissed, 478 U.S. 1028, 106 S.Ct. 3343, 92 L.Ed.2d 763 (1986) (chemical composition claims defined invention different from process claims). In short, Berger explained that the word "method" in the description of Group VI during restriction did not mean that the claims were limited to a method, but was merely a short-hand description of the invented system. For support, Berger stated that the examiner collectively characterized the method and apparatus claims of another non-elected group, Group IV, as a "method." Finally, Berger noted that the examiner's statement that "the Group I invention does not require the particular apparatus of Group ... VI," (emphasis added) cannot be reconciled with Opticon's argument that the invention of Group VI could only be expressed as a method. In light of this testimony, we cannot agree that a breach of the restriction requirement occurred. The safeguard of ¡± 121 therefore applies in this case, and the '297 patent is not available as a reference against the '186 patent.
+ 
+ Furthermore, even if there had been a breach of the restriction requirement, we would reject Opticon's argument on the ultimate obviousness-type double patenting inquiry: whether the claims of the '186 patent are patentably distinct from the claims of the '297 patent. See In re Borah, 354 F.2d 1009, 1017, 148 USPQ 213, 220 (CCPA 1966) (crux of obviousness-type double patenting inquiry lies in comparison of claims); see also Gerber Garment, 916 F.2d at 686, 16 USPQ2d at 1438 (judicially created doctrine of obviousness-type double patenting applies when two applications or patents, not drawn to precisely the same invention, are "drawn to inventions so very much alike as to render one obvious in view of the other and to effectively extend the life of the patent that would have the earlier of the two issue dates").
+ 
+ Double patenting is an affirmative defense. Studiengesellschaft Kohle v. Northern Petrochemical Co., 784 F.2d at 352, 228 USPQ at 838. Opticon was therefore required to prove double patenting by clear and convincing evidence, a heavy and unshifting burden. RCA Corp. v. Applied Digital Data Sys., Inc., 730 F.2d 1440, 1444, 221 USPQ 385, 387 (Fed.Cir.1984) (invalidity requires clear and convincing proof, and burden remains at all times with patent challenger); Carman Indus., Inc. v. Wahl, 724 F.2d 932, 940, 220 USPQ 481, 487 (Fed.Cir.1983) ("[t]here is a heavy burden of proof on one seeking to show double patenting").
+ 
+Opticon's conclusory allegation that the District Court's decision on double patenting was in error, without citation to the record, the patents or the testimony of the witnesses, does not support reversal. See In re Mulder, 716 F.2d 1542, 1550, 219 USPQ 189, 197 (Fed.Cir.1983) (to obtain reversal, appellant must clearly explain why decision below is wrong). As a court of review, it is not our function to search the voluminous trial record, prosecution histories, and patents to fashion a substantive *1581 basis for Opticon's argument. See Preemption Devices, Inc. v. Minnesota Mining & Mfg. Co., 732 F.2d 903, 905, 221 USPQ 841, 842 (Fed.Cir.1984) (as appellate court, it is not our function to search the record in order to reach a conclusion favoring appellant).
+ 
+Nevertheless, even a brief review of the '297 patent reveals that all of the asserted claims are directed to a laser self-scanning head with a "trigger," a "handle," and means for "sighting the symbol along a direct line of sight." In contrast, the asserted claims of the '186 patent recite additional features. Although the claims of the '186 patent cover a laser scanning system that includes a portable laser scanning head, the system also includes means for repetitively self scanning a bar code symbol until it is decoded. Furthermore, when successful decoding has been achieved, the system alerts the user and automatically stops scanning. The repetitive scan feature adds the advantage of increasing the accuracy of decoding. Claim 8 includes a further feature of terminating the repetitive scan if no successful decode is achieved within a set time period.
+ 
+ Opticon contends in its reply brief that the automatic termination feature is merely an obvious addition to the invention claimed in the '297 patent, because its expert testified that this feature "is a software program, essentially a software program, or firmware program, if you go back far enough in time." The mere reference to "a software program" does not demonstrate that the program would have been obvious or that its addition to the invention of the '297 patent would have been obvious.
+ 
+ Furthermore, the policy behind the double patenting doctrine, the prevention of unlawful extension of the patent grant, does not favor Opticon's position. Although the '297 patent will expire before the '186 patent, the '186 patent will not "extend" the property right conveyed in the '297 patent. See Gerber Garment, 916 F.2d at 686, 16 USPQ2d at 1438 (obviousness-type double patenting occurs when a second patent would "effectively extend the life of the patent that would have the earlier of the two issue dates"). Since the '186 patent is not infringed by practice of the invention claimed in the '297 patent, the world will be free to use the invention of the '297 patent once it expires. See In re Kaplan, 789 F.2d 1574, 1578, 229 USPQ 678, 681-82 (Fed.Cir.1986) (no double patenting found where no extension of patent right is possible because when the first to issue patent expires, "the world will be free to use" the first patented invention so long as the second patented invention is not used in it).
+ 
+ Finally, Opticon contends that the judgment of the District Court should be reversed for failure to state findings of fact under Fed.R.Civ.P. 52(a). On appeal, Opticon raises the issue of consonance. As this Court explained in Gerber Garment, "[t]he presence or absence of consonance will necessarily depend upon analysis of the involved claims," 916 F.2d at 688, 16 USPQ2d at 1441, which are construed as a matter of law. Cf. Interconnect Planning Corp. v. Feil, 774 F.2d 1132, 1138 n. 3, 227 USPQ 543, 547 n. 3 (Fed.Cir.1985) ("Under this court's precedent substantial identity between claims, a matter of claim interpretation, is a question of law."). In connection with construing claims, we are free to examine the prosecution history on appeal even where the trial court erroneously fails to consider it. See Lemelson v. United States, 752 F.2d 1538, 1550, 224 USPQ 526, 532-33 (Fed.Cir.1985). This is particularly so where, as here, there are no underlying findings of fact required for such construction. Because we have concluded that the claims of the '186 patent are within the subject matter of Group VI as a matter of law, the absence of Rule 52(a) findings of fact on this issue is not reversible error.
+ 
+We thus conclude that Opticon has failed to demonstrate that the District Court erred in finding that no claim in the '186 patent was proved invalid for double patenting.
+ 
+
+
+IV. ENFORCEABILITY
+ Opticon challenges the District Court's conclusion that neither the *1582 '297 patent nor the '186 patent are unenforceable because of inequitable conduct during prosecution. Opticon reiterates its argument, considered and rejected below, that Symbol fraudulently withheld information from the examiner concerning the Verifier 315 and the Laserscan during prosecution of the '297 and '186 patents.
+ 
+Opticon asserts that the District Court erroneously failed to consider references that Symbol "should have known" were material, citing FMC Corp. v. Manitowoc Co., 835 F.2d 1411, 1415, 5 USPQ2d 1112, 1116 (Fed.Cir.1987). However, we have repeatedly rejected the simple negligence standard that Opticon urges us to adopt. See, e.g., Jaskiewicz v. Mossinghoff, 822 F.2d 1053, 1058, 3 USPQ2d 1294, 1299 (Fed.Cir.1987) ("[m]ere negligence is not sufficient to infer fraud or dishonesty"). Moreover, even a finding of gross negligence:
+does not of itself justify an inference of intent to deceive; the involved conduct, viewed in light of all the evidence, including evidence indicative of good faith, must indicate sufficient culpability to require a finding of intent to deceive.
+Kingsdown Medical Consultants v. Hollister Inc., 863 F.2d 867, 876, 9 USPQ2d 1384, 1392 (Fed.Cir.1988), cert. denied, 490 U.S. 1067, 109 S.Ct. 2068, 104 L.Ed.2d 633 (1989).
+ 
+Opticon asserts that a flyer submitted by Symbol during reexamination depicted an operational Verifier 315, and that Symbol deceived the PTO by indicating that the flyer depicted only an empty shell or housing. The record is replete with evidence supporting a conclusion that, at the very least, Symbol possessed a good faith belief that the photograph in the flyer indeed depicted only an empty shell of an inoperable device, a belief to which the District Court, in the final analysis, itself concurred. Opticon further argues that Symbol improperly withheld from the examiner information relating to the Laserscan device during prosecution of its patents, but as noted supra, that device was a modified version of the Laserchek device disclosed in the '798 patent. We conclude that the reference was merely cumulative to the teachings of the '798 patent, imparting no obligation to disclose. See J.P. Stevens & Co. v. Lex Tex, Ltd., 747 F.2d 1553, 223 USPQ 1089, 1092 (Fed.Cir.1984), cert. denied, 474 U.S. 822, 106 S.Ct. 73, 88 L.Ed.2d 60 (1985) ("[a] reference that would have been merely cumulative is not material").
+ 
+We find no abuse of discretion in the District Court's conclusion that the '297 and '186 patents were not proved unenforceable for inequitable conduct during prosecution.
+ 
+
+
+V. CONCLUSION
+Among other issues, Opticon alleges that the sparseness of the District Court's Rule 52 findings, particularly on infringement and double patenting, preclude effective appellate review. Our opinion amply demonstrates the absence of merit in that allegation. Having duly considered and rejected each of Opticon's other arguments, we affirm the judgment of the District Court.
+ 
+AFFIRMED.
+ 
+
+
+APPENDIX
+
+The '297 Patent
+1. In a laser scanning system for reading bar code symbols, a light-weight easy-to-manipulate laser scanning head normally supportable only by a user throughout the reading of the symbols, comprising:
+ 
+(a) a housing having wall portions bounding an outlet port and bounding an interior space whose volume measures less than a value which is on the order of 100 cubic inches;
+ 
+(b) a light source mounted in the interior space of the housing for generating a laser light beam;
+ 
+(c) miniature optic means mounted in the interior space of the housing for directing the laser light beam along a light path through the outlet port and towards a bar code symbol which is located exteriorly of the housing by a distance sufficient to permit the user to conveniently register the laser light beam on the symbol by sighting the symbol along a direct line of sight which does not pass through the housing;
+ 
+*1583 (d) miniature scanning means mounted in the light path and in the interior space of the housing for cyclically sweeping the laser light beam across the bar code symbol for reflection therefrom;
+ 
+(e) miniature sensor means mounted in the interior space of the housing for detecting the intensity of light reflected from the bar code symbol, and for generating an electrical signal indicative of the detected intensity of the reflected light;
+ 
+(f) miniature signal processing means mounted in the interior space of the housing for processing the electrical signal to generate therefrom data descriptive of the bar code symbol;
+ 
+(g) all of said light source, optic means, sensor means and signal processing means together with said housing comprising the light-weight laser scanning head whose total weight measures less than a value which is on the order of two pounds;
+ 
+(h) handle means for normally supporting the light-weight laser scanning head in non-contacting relationship with the symbol during reading thereof; and
+ 
+(i) manually actuatable trigger means on the housing for initiating reading of the symbol each time the trigger means is manually actuated by the user.
+ 
+
+
+The '186 Patent
+1. A laser scanning system for reading bar code symbols, each in its respective turn, comprising:
+ 
+(a) a light-weight, hand-held head normally supportable by a user in a normally non-contacting relationship with the symbols during reading thereof, said head including therein
+ 
+(i) means for generating a laser beam, and for directing the same along a light path through an outlet port of the head to each symbol,
+ 
+(ii) scanning means for repetitively scanning the directed laser beam across each symbol for reflection therefrom,
+ 
+(iii) sensor means for detecting the variable intensity of each scanned laser beam reflected from each symbol, and for generating an electrical signal indicative of the detected intensity for each symbol, and
+ 
+(iv) signal processing means for processing each electrical signal, and for generating a processed electrical signal for each symbol;
+ 
+(b) decoding means operatively associated with the signal processing means, for decoding the processed signal for each symbol to be read;
+ 
+(c) manually actuatable trigger means on the head and operatively associated with the decoding means, for initiating reading of each symbol upon each manual actuation of the trigger means from one state to another state by the user; and
+ 
+(d) means operatively associated with the decoding means, for determining a successful decoding of each symbol, and for nonmanually terminating the reading of each symbol upon the determination of the successful decoding thereof.
+ 
+* * *
+ 
+11. A method of successively sensing and reading bar code symbols, each in its respective turn, comprising the steps of:
+ 
+(a) generating a laser beam, and directing the same along a light path to each symbol;
+ 
+(b) repetitively scanning the directed laser beam across each symbol for reflection therefrom;
+ 
+(c) detecting the variable intensity of each scanned laser beam reflected from each symbol, and generating an electrical signal indicative of the detected intensity for each symbol;
+ 
+(d) processing each electrical signal, and generating a processed electrical signal for each symbol;
+ 
+(e) performing steps (a), (b), (c) and (d) in a light-weight, hand-held head, and normally supporting the same by a user in a normally non-contacting relationship with the symbols during reading thereof;
+ 
+(f) decoding the processed signal for each symbol to be read;
+ 
+(g) initiating reading of each symbol upon each manual actuation from one state *1584 to another state of a trigger by the user; and
+ 
+(h) determining a successful decoding of each symbol, and non-manually terminating the reading of each symbol upon the determination of the successful decoding thereof.
+ 
+
+
+The '470 Patent
+1. In a scanning system for reading bar code symbols, a scanning head comprising:
+ 
+(a) a housing having an elongated body portion including a front region, a rear region, and an intermediate body region extending between the front and rear regions, and having side walls spaced transversely apart of each other by a predetermined width;
+ 
+(b) light source means mounted within the housing, for generating an incident light beam;
+ 
+(c) optic means mounted within the housing, for directing the incident beam along a light path towards a reference plane located exteriorly of the housing in the vicinity of the front region thereof, and towards a bar code symbol located in the vicinity of the reference plane to thereby generate a reflected light beam which is directed along a light path away from the reference plane and back towards the housing;
+ 
+(d) scanning means mounted within the housing at the rear region thereof, for sweeping at least one of said beams over a field of view across the bar code symbol;
+ 
+(e) sensor means mounted within the housing, for detecting the light intensity in the reflected beam over a field of view across the bar code symbol, and for generating an electrical signal indicative of the detected light intensity;
+ 
+(f) signal processing means mounted within the housing, for processing the electrical signal to generate therefrom data descriptive of the bar code symbol; and
+ 
+(g) window means mounted on the housing, and having a light-transmissive window at the rear region in close adjacent confronting relationship with the scanning means thereat, said window being configured and positioned in the light path of said at least one swept beam to permit the latter to pass through the window and unobstructedly travel exteriorly of and past the front and intermediate body regions of the housing,
+whereby the field of view of the swept beam is substantially independent of the predetermined width of the housing due to its exterior transmission outside of the front and intermediate body regions of the housing.
+ 
+All Citations
+935 F.2d 1569, 19 U.S.P.Q.2d 1241, 33 Fed. R. Evid. Serv. 1381
+Footnotes
+1
+The District Court found that (1) the MSH-840 device infringes (i) claims 1-3, 8, 11, 15, 20, 23 and 36-38 of the '297 patent, (ii) claims 1-8 and 11-15 of the '186 patent when used with the decoder with which it was designed to operate and (iii) claims 1-5, 27, 31, 33, 50-54 and 56-62 of the '470 patent; (2) the MSH-850 device infringes (i) claims 1-3, 8, 9, 11, 15, 17, 20, 23, and 36-38 of the '297 patent, (ii) claims 1-9 and 11-15 of the '186 patent when used with the decoder with which it was designed to operate; (3) the MSH-860 device infringes (i) claims 1-3, 5, 6, 8, 11, 15, 20, 21, 23, 36, and 37 of the '297 patent and (ii) claims 1-9 and 11-15 of the '186 patent when used with the decoder with which it was designed to operate.
+2
+Rule 705, "Disclosure of Facts or Data Underlying Expert Opinion," provides:
+The expert may testify in terms of opinion or inference and give reasons therefor without prior disclosure of the underlying facts or data, unless the court requires otherwise. The expert may in any event be required to disclose the underlying facts or data on cross-examination.
+3
+See 3 J. Weinstein & M. Berger, Weinstein's Evidence ? 705[01], p. 705-11 (1987):
+Obviously, if further testimony would only solidify the expert's conclusion, his adversary will refrain from further questioning. But if he concludes that the expert has omitted pertinent facts in arriving at his opinion, or has misconstrued them, or is accepting disputed facts as true, or is basing his opinion on someone else's opinion which is in conflict with the established facts, the attorney will wish to probe into the expert's premises.
+4
+The District Court focused on the obviousness of the invention claimed in the '297 patent. Opticon offers no separate argument on the obviousness under ¡± 103 of the invention claimed in the '186 patent. We therefore limit our review to the obviousness vel non of the invention of the '297 patent.
+5
+Section 121 provides, in relevant part:
+A patent issuing on an application with respect to which a requirement for restriction under this section has been made, or on an application filed as a result of such requirement, shall not be used as a reference either in the Patent and Trademark Office or in the courts against a divisional application or against the original application or any patent issued on either of them, if the divisional application is filed before the issuance of the patent on the other application.
+
+End of Document
+(c) 2019 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+Liao, Ivan 2/4/2019
+For Educational Use OnlySymbol Technologies, Inc. v. Opticon, Inc., 935 F.2d 1569 (1991)19 U.S.P.Q.2d 1241, 33 Fed. R. Evid. Serv. 1381
+
+ (c) 2019 Thomson Reuters. No claim to original U.S. Government Works. 
+

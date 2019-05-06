@@ -1,0 +1,138 @@
+('922_F.2d_801', 'CD', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('FOX', 'NNP', '', 'O') ('INDUSTRIES', 'NNPS', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('STRUCTURAL', 'NNP', '', 'O') ('PRESERVATION', 'NNP', '', 'O') ('SYSTEMS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellee', 'VB', '', 'O')
+
+__NEW_SENT__
+('Nos._89-1353', 'NNP', 'ORG', 'B') ('90-1304', 'CD', '', 'O')
+Nos._89-1353
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._19,_1990', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'VBG', '', 'O') ('Denied', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('No._89-1353', 'NNP', 'GPE', 'B')
+No._89-1353
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._14,_1991', 'NNP', 'PERSON', 'B')
+Jan._14,_1991
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('brought', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B') ('John', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Hargrove', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('refused', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('awarded', 'VBD', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('defendant', 'VB', '', 'O')
+United_States_District_Court the District of Maryland John R. Hargrove J.
+__NEW_SENT__
+('Plaintiff', 'NNP', 'PERSON', 'B') ('appealed', 'VBD', '', 'O')
+Plaintiff
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('plaintiff', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('before', 'IN', '', 'O') ('Patent', 'NN', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('rendered', 'VBN', '', 'O') ('patent', 'NN', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('an', 'DT', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('discretion', 'NN', '', 'O')
+The Court of Appeals Rader Circuit_Judge 1 Patent and Trademark_Office 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*802', 'NNP', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Hall', 'NNP', 'PERSON', 'I') ('Potomac', 'NNP', '', 'O') ('Md.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+William D. Hall Md.
+__NEW_SENT__
+('Larry', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Nixon', 'NNP', 'PERSON', 'I') ('Nixon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Vanderyhye', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'GPE', 'B') ('Arlington', 'NNP', 'GPE', 'B') ('Va.', 'NNP', 'GPE', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Larry S. Nixon Nixon & Vanderyhye P.C. Arlington Va.
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Hosmer', 'NNP', 'PERSON', 'I')
+James T. Hosmer
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NIES', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('SKELTON', 'VBD', 'ORG', 'B') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+NIES SKELTON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1983', 'CD', 'DATE', 'B') ('appellant', 'JJ', '', 'O') ('Fox_Industries', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Fox', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Maryland', 'NNP', 'GPE', 'B')
+1983 Fox_Industries Inc. Fox United_States_District_Court the District of Maryland
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('accused', 'VBD', '', 'O') ('appellee', 'NN', '', 'O') ('Structural_Preservation_Systems', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('SPS', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._4019,301', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Structural_Preservation_Systems Inc. SPS U.S. No._4019,301
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'301_patent", 'NNP', '', 'O') ('covers', 'VBZ', '', 'O') ('fiberglass', 'NN', '', 'O') ('encasements', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('protect', 'VBP', '', 'O') ('concrete', 'JJ', '', 'O') ('bridge', 'NN', '', 'O') ('piles', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('water', 'NN', '', 'O') ('erosion', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('two-week', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('refused', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('enforce', 'VB', '', 'O') ('any', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('claims', 'NNS', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('appellant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('*803', 'NNP', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+the Patent and Trademark_Office
+__NEW_SENT__
+('See', 'NNP', '', 'O') ('Fox_Indus', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Structural_Preservation_Sys', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('6_USPQ2d_1577', 'CD', '', 'O') ('1988_WL_18937_(D.Md.1988)', 'CD', '', 'O')
+Fox_Indus Inc. Structural_Preservation_Sys Inc.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Maryland', 'NNP', 'GPE', 'B') ('District', 'NNP', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('further', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('SPS', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NN', '', 'O')
+Maryland District Court SPS
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('appellant', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('misused', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('response', 'NN', '', 'O') ('to', 'IN', '', 'O') ('SPS', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('ordered', 'VBD', '', 'O') ('appellant', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('pay', 'VB', '', 'O') ('more', 'JJR', 'MONEY', 'B') ('than', 'IN', 'MONEY', 'I') ('$', '$', 'MONEY', 'I') ('160,000.00', 'CD', 'MONEY', 'I') ('in', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O')
+SPS more than $ 160,000.00
+__NEW_SENT__
+('See', 'NNP', '', 'O') ('Fox_Indus', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Structural_Preservation_Sys', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('1990_WL_27880_(D.Md.)', 'CD', '', 'O')
+Fox_Indus Inc. Structural_Preservation_Sys Inc.
+__NEW_SENT__
+('Fox', 'NNP', 'ORG', 'B') ('appeals', 'NNS', '', 'O') ('both', 'CC', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('fee', 'NN', '', 'O') ('award', 'NN', '', 'O')
+Fox
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('principal', 'JJ', '', 'O') ('Douglas', 'NNP', 'PERSON', 'B') ('Fox', 'NNP', 'PERSON', 'I') ('invented', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NNP', '', 'O') ('ed', 'NN', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O')
+Appellant Douglas Fox
+__NEW_SENT__
+('The', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('history', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NNP', '', 'O') ('includes', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('application', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('April_27,_1971', 'NNP', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('continuing', 'VBG', '', 'O') ('applications', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('March', 'NNP', 'DATE', 'B') ('1973', 'CD', 'DATE', 'I') ('July', 'NNP', 'DATE', 'I') ('1974', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('October', 'NNP', 'DATE', 'B') ('1975', 'CD', 'DATE', 'I')
+April_27,_1971 three March 1973 July 1974 October 1975
+__NEW_SENT__
+('Walter', 'NNP', 'PERSON', 'B') ('Finch', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('attorney', 'NN', '', 'O') ('who', 'WP', '', 'O') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('1971_and_1973', 'CD', 'DATE', 'B') ('applications', 'NNS', '', 'O') ('left', 'VBD', '', 'O') ('appellant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('employ', 'NN', '', 'O') ('in', 'IN', '', 'O') ('1974', 'CD', 'DATE', 'B')
+Walter Finch 1971_and_1973 1974
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('retained', 'VBD', '', 'O') ('new', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('counsel', 'NN', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('Levy', 'NNP', 'PERSON', 'I') ('to', 'TO', '', 'O') ('continue', 'VB', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O')
+Edward Levy
+__NEW_SENT__
+('During', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'301", 'JJ', '', 'O') ('predecessor', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('appellant', 'JJ', '', 'O') ('amended', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('describe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('flexibility', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fiberglass', 'NN', '', 'O') ('jacket', 'NN', '', 'O')
+
+__NEW_SENT__
+('Finch', 'NNP', 'ORG', 'B') ('admitted', 'VBD', '', 'O') ('during', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('1971', 'CD', 'DATE', 'B') ('application', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('jacket', 'NN', '', 'O') ('flexibility', 'NN', '', 'O')
+Finch 1971
+__NEW_SENT__
+('This', 'DT', '', 'O') ('characteristic', 'JJ', '', 'O') ('therefore', 'RB', '', 'O') ('constituted', 'VBD', '', 'O') ('new', 'JJ', '', 'O') ('matter', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('PTO', 'NNP', '', 'O') ('eventually', 'RB', '', 'O') ('rejected', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1971_and_1973', 'CD', 'DATE', 'B') ('applications', 'NNS', '', 'O')
+1971_and_1973
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('earliest', 'JJS', '', 'O') ('filing', 'NN', '', 'O') ('date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('as', 'IN', '', 'O') ('claimed', 'VBN', '', 'O') ('was', 'VBD', '', 'O') ('March_5,_1973', '.', '', 'O')
+
+__NEW_SENT__
+('More', 'JJR', 'DATE', 'B') ('than', 'IN', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('year', 'NN', 'DATE', 'I') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('March_5,_1973', 'NNP', 'PRODUCT', 'B') ('filing', 'NN', '', 'O') ('date', 'NN', '', 'O') ('Douglas', 'NNP', 'PERSON', 'B') ('Fox', 'NNP', 'PERSON', 'I') ('published', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('sales', 'NNS', '', 'O') ('brochure', 'NN', '', 'O') ('entitled', 'VBN', '', 'O') ('FX-70', 'NNP', '', 'O') ('Structural', 'NNP', 'WORK_OF_ART', 'B') ('Fiberglass', 'NNP', 'WORK_OF_ART', 'I') ('System', 'NNP', 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('June', 'NNP', 'DATE', 'B') ('1971', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('brochure', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+More than one year March_5,_1973 Douglas Fox Structural Fiberglass System June 1971
+__NEW_SENT__
+('Finch', 'NNP', '', 'O') ('used', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('brochure', 'NN', '', 'O') ('as', 'IN', '', 'O') ('source', 'NN', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('drafting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('1973', 'CD', 'DATE', 'B') ('application', 'NN', '', 'O')
+1973
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brochure', 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') ('every', 'DT', '', 'O') ('feature', 'NN', '', 'O') ('specified', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NNP', '', 'O') ('except', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B')
+one 10
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('further', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brochure', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('more', 'RBR', '', 'O') ('relevant', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('any', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('single', 'JJ', '', 'O') ('reference', 'NN', '', 'O') ('cited', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('the', 'DT', '', 'O') ('brochure', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('applications', 'NNS', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'301_patent", 'NN', '', 'O')
+four
+__NEW_SENT__

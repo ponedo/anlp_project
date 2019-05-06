@@ -1,0 +1,317 @@
+480_f.3d_1129
+united states court of appeals federal circuit
+espeed inc. cantor_fitzgerald l.p. cfph l.l.c. and espeed_government_securities inc. plaintiffs-appellants v. brokertec usa l.l.c. garban l.l.c. om_technology_us inc. and om_technology_ab defendants-appellees
+no._2006-1385
+| march_20,_2007
+| rehearing and rehearing en banc denied may_23,_2007
+synopsis
+background owner of patent for electronic trading platform used in trading government securities sued competitor for infringement
+competitor counterclaimed that patent was unenforceable and that suit was barred by laches
+the united_states_district_court for the district of delaware kent a. jordan j. 417_f.supp.2d_580 found patent was unenforceable because of inequitable_conduct and entered final_judgment in favor of competitor
+patent owner appealed
+
+holdings the court of appeals moore circuit_judge held that
+
+false_statements in declarations submitted during prosecution to disclose prior_art and attempt to cure the earlier non-disclosure of this prior_art were material and
+
+finding that declarations were submitted with intent to deceive the patent and trademark_office pto was not clearly erroneous
+
+affirmed
+
+attorneys and law firms
+*1131 gary_a._rosen law offices of gary_a._rosen p.c. of philadelphia pa argued for plaintiffs-appellants
+with him on the brief was jack b. blumenfeld morris nichols arsht & tunnell llp of wilmington de
+j. michael jakes finnegan henderson farabow garrett & dunner l.l.p. of washington dc argued for defendants-appellees
+with him on the brief was james r. barney
+before linn dyk and moore circuit_judges
+opinion
+moore circuit_judge
+plaintiffs-appellants espeed inc. cantor_fitzgerald l.p. cfph l.l.c
+and espeed_government_securities inc. collectively cantor appeal from the district_courts final_judgment declaring claims 20-23 of united states patent no._6560,580 the ¡¬580_patent invalid declaring the ¡¬580_patent unenforceable and entering final_judgment in favor of defendants
+because we affirm the district_courts conclusion that the ¡¬580_patent is unenforceable due to inequitable_conduct we need not decide the other_issues raised by cantor
+
+i
+background
+a
+technological background
+1
+methods involving` open_outcry' and` trade_capture' the ¡¬580_patent pertains to automated methods and systems for trading financial_instruments particularly fixed income_securities
+prior to the development of the invention described in the ¡¬580_patent financial_instruments were sold using an` open-outcry' method whereby` voice_brokers' would express various bid and offer prices for a given instrument
+¡¬580_patent col.3 ll.6-9
+according to the ¡¬580_patent` [ t ] his expression would involve the loud oralcry of a customer-proposed bid or offer and the coordination with the fellow representatives regarding the extraction of complementary positions-until a transaction match is made and a deal is done'
+id.at_col.3 ll.9-12
+open outcry auction bond brokering served its customers well because it was efficient and permitted trading at` near perfect market pricing'
+id.at col.2 ll.64-66
+
+while voice_brokers were participating in open_outcry_trading a process known as` trade_capture' was performed by designated clerks
+id.at_col.3 ll.13-18
+these clerks would attempt to record the` outcry of many individual brokers simultaneously' using electronic input devices such as a computer or workstation
+id.at_col.3 ll.18-21
+as might be apparent from its description the quality of the information inputted into the electronic devices by a clerk was` a function of the interpretative skill of the input clerk and the volume and the volatility of customer orders'
+id.at_col.3 ll.22-23
+
+the inventors of the ¡¬580_patent recognized that there was a need for greater efficiency and accuracy in the trading of instruments such as fixed income_securities
+id.at_col.3 l.29-col.4 l.3
+therefore they sought to create a system to automate the trading process and avoid the use of open_outcry and trade_capture processes
+
+2
+`` new' vs.` old' rules of workup
+traders in the secondary market for fixed income_securities such as united states treasuries e.g. t-bills notes and bonds do not want to reveal the full volume *1132 that they are willing to trade at a given price because this information might be used against the trader by other market participants
+however in order to foster liquidity in the market customers who initiate the trade at a given price are provided with the exclusive option to incrementally increase their purchase volume
+this exclusivity is known as` workup rights'
+when given exclusivity a customer can gradually increase the volume of his purchase while determining how the market is reacting to the purchase before trading further
+
+in what the parties have referred to as the` old_rules' of workup when the first buyer or seller has completed his transaction new buyers or sellers are sequentially given in the order in which they expressed interest exclusive workup rights
+one problem with the old_rules of workup was that a few participants could tie up the market for long periods of time
+as a result brokers would on occasion engage in side deals to avoid losing business
+cantor presented evidence at trial showing that the old_rules led to` chaos' and` pandemonium' when trading volume was heavy
+
+because of the problems associated with the old_rules of workup cantor employees began to develop new_rules of workup
+in 1994 the new_rules of workup were designed to provide exclusivity to an initial_pair of market participants in a manner similar to the old_rules of workup
+after the initial_pair of traders was finished orders that were placed while the initial_pair had exclusivity would then be rapidly executed in time priority order
+thus by limiting exclusivity to the first_pair of traders the new_rules of workup still provided an incentive for the first_pair of traders to create liquidity while at the same time avoiding a long queue of traders waiting for their chance to trade
+
+3
+the super_system/cfts2.0
+in the late 1980s cantor began looking to replace its decade-old trade_capture system with a new system
+between 1987_and_1992 programmers and software developers at cantor wrote software_code that would later become known internally as the` super_system' or the cantor_fitzgerald trading system cfts 2.0
+the district_court found that` the super_system would provide a platform to support both automated trading and traditional outcry trading [ using trade_capture ]'
+espeed inc. v. brokertec_usa l.l.c
+( unenforceability_ruling 417_f.supp.2d_580 586 d.del.2006
+the super_system included software_code for various trading states including a workup state.1 the super_system also included code that allowed brokers to use either the old_rules or the new_rules.2
+
+as early as 1993 the super_system was used in cantor trading_rooms to conduct trades
+id.at 588
+after using the super_system in 1993 cantor determined that the system was too slow to be commercially used as an automated trading_system and used it solely` as an order entry system to support open_outcry_trading'
+id
+the super_system was used as a trade_capture system in cantors trading_rooms between 1993_and_1995 to transact billions of dollars worth of trades
+
+*1133 4
+subsequent versions of cfts
+cantor continued to improve the super_system in an attempt to create a more efficient automated trading_system and first used super_systems successor cfts 3.1 in cantors long bond room in 1995 during the week between christmas and new years day
+unenforceability_ruling 417 f.supp.2d at 588
+cfts 3.1 was able to implement trades efficiently enough that cantor deemed it to be commercially viable
+
+b
+the prosecution history
+the ¡¬580_patent was filed as united states patent application no._09 /294,526 the ¡¬526_application
+the ¡¬526_application claimed priority under 35 u.s.c.¡± 120 to united states patent application no._08 /766,733 the ¡¬733_application
+the ¡¬733_application was filed on december 13 1996
+this patent application matured into united states patent no._5905,974 the ¡¬974_patent on may_18,_1999
+neither the super_system nor any other version of cfts was disclosed to the united states patent and trademark_office pto during the course of prosecution of the ¡¬733 parent application
+unenforceability_ruling 417 f.supp.2d at 588
+
+shortly after the ¡¬974_patent issued cantor asserted the ¡¬974_patent against liberty_brokerage
+in preparing for that lawsuit cantors outside counsel learned about the super_system and realized that it had not been disclosed to the pto
+cantor dismissed its suit against liberty_brokerage after this discovery
+
+in an effort to purge the possible_inequitable_conduct with regard to the ¡¬ 974 patent and avoid a similar problem with any patent that might issue based on the ¡¬526_application cantor submitted three declarations and numerous exhibits purporting to describe the super_system to the patent_examiner in connection with the ¡¬526_application
+declarations were submitted by stuart_a._fraser vice chairman of cantor_fitzgerald securities cfs howard w. lutnick chairman of cfs and bijoy_paul a cantor employee responsible for the development of super_systems successors
+each of these individuals averred that he was an inventor of the ¡¬526_application and that they did not realize that they were under a duty to disclose the super_system during the prosecution of the ¡¬733_application
+one declaration submitted by paul stated that` [ t ] he super_system.. did not include new_rules` and that` [ t ] he super_system_code was based onold_rules in which each successive_broker had a period of exclusive_control over the trade'
+decl
+of bijoy_paul ¡¬526_application ? ?
+11 20 jan._31,_2002 emphasis added3 the declarations submitted by cantor referenced various exhibits that were submitted to the pto along with the declarations
+the exhibits amassed to 1139 pages and included portions of the super_system_source_code
+
+the patent_examiner considered the materials submitted by cantor and concluded that the cited papers presumably referring to the exhibits which were internal cantor documents did not constitute prior_art but were` given due consideration'
+
+c. the district court proceedings
+cantor filed suit against brokertec_usa l.l.c. garban l.l.c. om_technology_us inc. and om_technology_ab collectively brokertec in the united_states_district_court for the district of delaware on june_30,_2003
+cantor asserted that brokertec infringed claims 20-23 of the ¡¬580_patent
+during the course *1134 of the litigation the district_court ruled on motion by brokertec that the submission of the inventors declarations during the prosecution of the ¡¬526_application waived the attorney-client_privilege with respect to discussions between cantors attorneys and the inventors regarding the super_system
+accordingly the district_court ordered the production of certain documents related to those discussions
+see e.g. espeed inc. v. brokertec_usa l.l.c. no._03-612- kaj 2004_wl_1812702_(d.del._aug.5,_2004)
+
+the district_court construed the claims on september 9 2004 espeed inc. v. brokertec_usa l.l.c. no._03-612- kaj 2004_wl_2346141 at *8 d.del
+sept.9 2004 and granted brokertecs motion for partial summary judgment of non-infringement under the doctrine of equivalents concluding that an amendment to the claims created prosecution history estoppel with respect to the alleged equivalents
+see espeed inc. v. brokertec_usa l.l.c. 342_f.supp.2d_244 250-51 d.del.2004
+
+a jury trial commenced on february 7 2005 with inequitable_conduct tried simultaneously to the district_court
+the jury returned a verdict of infringement in favor of cantor but held that the patent was invalid due to lack of written description under 35 u.s.c.¡± 112 ?
+2
+
+shortly after denying cantors jmol motion the district_court held that the ¡¬ 580 patent was unenforceable because of inequitable_conduct
+see unenforceability_ruling 417_f.supp.2d_580
+the district_court determined that there were two separate grounds for unenforceability and that either standing alone rendered the ¡¬580_patent unenforceable
+id.at 599
+with respect to the first ground of inequitable_conduct the district_court determined that the use of the super_system more than one year prior to the filing date of the ¡¬733_application was material prior_art that should have been disclosed during prosecution of the ¡¬733_application
+id.at 589-90 593
+the district_court concluded that the inventors intended to deceive the pto because each of the inventors had a significant role in creating the super_system and because of the super_systems high materiality
+id.at 594
+moreover the district_court found further evidence of intent when prior to filing the ¡¬733_application lutnick stated that he had` wanted to patent [ cantors ] super_system & its rules in general for over a year'
+id
+the district_court found that inequitable_conduct during the prosecution of the ¡¬ 974 patent infected the prosecution of the ¡¬580_patent because the patents were closely related and cantor failed to cure the inequitable_conduct by filing the inventor_declarations in the ¡¬526_application
+see id.at 595-96
+
+as the second basis for rendering the ¡¬580_patent unenforceable the district_court concluded that the three inventor_declarations submitted to the pto to disclose the super_system included material misrepresentations
+id.at 597
+specifically the district_court concluded that the declarations included statements` that the super_system did not contain any code for thenew_rules of trading'
+unenforceability_ruling 417 f.supp.2d at 597
+this the district_court found was not true
+id
+the district_court concluded that although there might have been different` new_rules' at different times all` new_rules' had something in common they limited exclusivity
+id
+this was` perhaps the primary object' of the invention claimed in the ¡¬580_patent
+id
+thus the district_court found the misrepresentations in the declarations to be material
+id.at 598
+the district_court found sufficient facts to infer an intent to deceive based in part on the fact that the declarations were worded in such a way to make the examiner *1135 believe that there were no` new_rules' in the super_system
+id
+weighing the materiality with intent to deceive the district_court held the ¡¬580_patent unenforceable
+id
+
+d. the present appeal
+on appeal cantor challenges the district_courts claim construction the district_courts decision regarding the applicability of the doctrine of equivalents the district_courts denial of jmol on the issue of lack of written description the district_courts determination that the ¡¬580_patent is unenforceable and that the district_courts decisions regarding the existence and scope of waiver of the attorney-client_privilege based on the submission of the inventors declarations warrants a new trial
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+we conclude that the district_court did not clearly err in finding that the declarations included material_false_statements and were submitted with an intent to deceive
+because the district_court did not abuse its discretion in rendering the ¡¬580_patent unenforceable we need not reach the remaining issues raised by cantor
+
+ii
+discussion
+`` [ i ] nequitable conduct includes affirmative misrepresentation of a material fact failure to disclose material information or submission of false material information coupled with an intent to deceive'
+pharmacia corp. v. par pharm. inc. 417_f.3d_1369 1373 fed.cir.2005 quoting molins plc v. textron inc. 48_f.3d_1172 1178 fed.cir.1995
+in cases where the omission or misrepresentation is highly material` less evidence of intent will be required in order to find that inequitable_conduct has occurred'
+perseptive biosystems inc. v. pharmacia biotech 225_f.3d_1315 1319 fed.cir.2000
+once a district_court has found a threshold level of both materiality and intent to deceive the district_court must balance the evidence to determine if equity should render the patent unenforceable
+see labounty mfg. inc. v. u.s. int l trade comm n 958_f.2d_1066 1070 fed.cir.1992
+
+the ultimate conclusion that a patent is unenforceable is an equitable decision committed to the discretion of the district_court that we review for an abuse of discretion
+see flex-rest l.l.c
+v. steelcase inc. 455_f.3d_1351 1357 fed.cir.2006
+`` to overturn a discretionary ruling of a district_court the appellant must establish that the ruling is [ 1 ] based upon clearly erroneous findings of fact or [ 2 ] a misapplication or misinterpretation of applicable law or that [ 3 ] the ruling evidences a clear_error of judgment on the part of the district_court'
+kingsdown med consultants ltd. v. hollister inc. 863_f.2d_867 876 fed.cir.1988 en banc in relevant part
+
+we review the underlying facts of materiality and intent for clear_error
+agfa corp. v. creo prods. inc. 451_f.3d_1366 1371 fed.cir.2006
+under this standard we will not disturb factual findings` unless we have a definite and firm conviction that a mistake has been committed'
+flex-rest 455 f.3d at 1357 quoting critikon v. becton dickinson vascular access inc. 120_f.3d_1253 1255 fed.cir.1997
+
+a. materiality
+cantor contends that the declarations submitted during the prosecution of the ¡¬580_patent were not material
+cantor first argues that the inventors statements are immaterial because the record does not reflect that any brokers ever used the code for the new_rules of trading when the super_system was deployed in cantors *1136 trading_rooms
+second cantor argues that the exhibits submitted with the declarations and totaling 1139 pages provided the examiner with the facts that were allegedly misrepresented and thus the declarants statements are immaterial when taken in this context
+
+brokertec points to pauls declaration that it contends includes demonstrably false_statements that are inherently material
+brokertec also points to frasers declaration as providing a broad definition of` new_rules' encompassing conditional prompting
+brokertec further contends that it does not matter whether the` new_rules' portion of the super_system was within the prior_art because declarations are by their very nature highly material
+responding to cantors assertion that the statements made in the declaration were not material in light of the exhibits submitted with the declarations brokertec contends that by submitting portions of the source_code and misrepresenting what portions of the code included cantor` left the examiner with the impression' that no further investigation was necessary
+see semiconductor energy lab co. v. samsung elecs co. 204_f.3d_1368 1377 fed.cir.2000
+
+under the reasonable_examiner_standard information is material when` a reasonable_examiner would consider it important in deciding whether to allow the application to issue as a patent'
+a.b
+dick co. v. burroughs corp. 798_f.2d_1392 1397 fed.cir.1986 ; see also digital_control inc. v. charles mach
+works 437_f.3d_1309 1316 fed.cir.2006 suggesting that the reasonable_examiner_standard remains the starting point for assessing materiality
+
+false statements are more likely material when embodied in declarations or affidavits submitted to the pto
+see refac int l ltd. v. lotus dev corp. 81_f.3d_1576 1583 fed.cir.1996 ; rohm & haas co. v. crystal chem co. 722_f.2d_1556 1571 fed.cir.1983
+this court has` previously found that the submission of a false affidavit may be determined to beinherently material
+`` digital_control 437 f.3d at 1318
+in ferring b.v. v. barr laboratories inc. we concluded that the failure to disclose possible_bias of the declarants constituted a material omission where the declarations were submitted to overcome a prior_art rejection
+437_f.3d_1181 1190 fed.cir.2006 ; see also refac 81 f.3d at 1581 finding declarations submitted to establish enablement but failing to disclose possible_bias of declarants were material
+similarly in digital_control we concluded that false_statements made in a declaration to antedate prior_art were material
+437 f.3d at 1318
+
+the issue of materiality here concerns declarations that cantor submitted to disclose the super_system and attempt to cure the earlier non-disclosure of this system
+one of the declarations stated` [ t ] he super_system.. did not include new_rules' and that` [ t ] he super_system_code was based onold_rules in which each successive_broker had a period of exclusive_control over the trade'
+decl
+of bijoy_paul ? ?
+11 20
+
+cantor first argues that the statements were not material because there was no evidence that the new_rules_code was in actual use in its trading_rooms
+with respect to this argument the district_court found that mr. pauls statement was false and that` [ w ] hether this code was activated or not the applicants knew that the super_system contained the [ new_rules ] code'
+unenforceability_ruling 417 f.supp.2d at 598
+that the super_system included a form of` new_rules' would surely have been important to a reasonable_examiner in deciding whether to allow the ¡¬526_application to issue as a patent-in *1137 fact cantor acknowledges this in its brief to this court
+brief of appellant at 27 espeed inc. v. brokertec_usa l.l.c. no._06-1385 july_14,_2006` at most super_systems unused code for trading states may represent prefiling experimentation or development that could have been deemed material to the ¡¬733 application under the broadestreasonable_examiner standard`
+thus there is no question that the statements at issue here are material
+accord pharmacia 417 f.3d at 1373` [ t ] hese misleading declarations go to the very point of novelty
+``
+
+cantors reliance on juicy_whip inc. v. orange bang inc. is misplaced
+292_f.3d_728_(fed.cir.2002)
+in juicy_whip the patentee appealed a final_judgment holding the patent in suit unenforceable based in part on the submission of two declarations
+id.at 731 733
+we reversed
+id.at 731
+with respect to the first declaration the record showed that there were no false_statements in the declaration and that the examiner misunderstood the declaration
+id.at 733 744` [ i ] t is undisputed that every statement in the declaration is a true statement`
+despite the examiners misunderstanding of the declaration it was submitted on two other occasions to the pto and each time the examiners misunderstanding was not corrected
+id.at 744
+with respect to the second declaration there was no proof of intent on the record and a finding of inequitable_conduct could not be sustained
+id.at 745
+the present case is markedly different than the juicy_whip case
+here following a bench trial the district_court concluded that the declarations include false_statements and were worded in such a way as to deceive the examiner
+
+we also reject cantors second argument that the examiner was on notice regarding the existence of the` new_rules' in the super_system because of the submission of source_code and functional and design_specifications to the pto with the declarations
+this case is similar to semiconductor_energy_laboratory where we upheld a finding of inequitable_conduct based on the submission of a partial_translation of a japanese prior_art reference and a concise_statement regarding that reference even though the entire japanese language reference was submitted to the pto
+204_f.3d_1368
+although parts of the reference were translated other more material sections of the reference remained untranslated
+id.at 1372
+we found that` [ b ] y submitting the entire untranslated.. reference to the pto along with a one-page partial_translation focusing on less_material_portions and a concise_statement directed to these less_material_portions [ the applicant ] left the examiner with the impression that the examiner did not need to conduct any further translation or investigation'
+id.at 1377
+even though cantor provided the examiner with 1139 pages of material describing super_system and its early modifications we agree with the district_court that the` blizzard of paper' submitted to the pto in conjunction with the declaration stating that the super_system did not include` new_rules' unenforceability_ruling 417 f.supp.2d at 598` left the examiner with the impression that the examiner did not need to conduct any further.. investigation' semiconductor_energy_laboratory 204 f.3d at 1377 including an analysis of the portions of super_system_source_code provided by cantor to the pto
+given the foregoing the district_courts conclusion that the false_statements in the declarations submitted to the pto were material is not clearly erroneous
+
+b
+intent to deceive
+to satisfy the intent to deceive element of inequitable_conduct` the involved conduct viewed in light of all the *1138 evidence including evidence of good_faith must indicate sufficient culpability to require a finding of intent to deceive'
+kingsdown 863 f.2d at 876
+there is no requirement that intent to deceive be proven by direct evidence ; in fact it is rarely proven by such evidence
+intent to deceive may be` inferred from the facts and circumstances surrounding the applicants overall conduct'
+impax labs
+v. aventis pharms. 468_f.3d_1366 1375 fed.cir.2006 citing merck & co. v. danbury pharmacal inc. 873_f.2d_1418 1422 fed.cir.1989
+
+an inference of intent may arise where material_false_statements are proffered in a declaration or other sworn statement submitted to the pto
+for example in paragon podiatry laboratory inc. v. klm laboratories inc. this court stated that the inference that material_false_statements contained in an affidavit were made with deceptive intent` arises not simply from the materiality of the affidavits but from the affirmative_acts of submitting them their misleading character and the inability of the examiner to investigate the facts'
+984_f.2d_1182 1188 fed.cir.1993 ; see also refac 81 f.3d at 1583` the affirmative_act of submitting an affidavit must be construed as being intended to be relied upon
+`` ; rohm & haas 722 f.2d at 1571 stating that the submission of affidavits` usually will support the conclusion that the affidavit in which [ the material_false_statements ] were contained was the chosen instrument of an intentional_scheme to deceive the pto'
+
+cantor contends that the district_court improperly inferred intent from the materiality of the declarations
+cantor also contends that the district_court ignored evidence that the applicants acted in good_faith by submitting portions of the source_code and functional and design_specifications for the software along with their declarations
+furthermore cantor points to the patent_examiners consideration of each of the exhibits to the declarations
+brokertec argues that cantor did not explain the relevance of the snippets of new_rules_code that can be found by digging through the 1139 pages of exhibits ; worse cantor intentionally obscured those teachings by the deceptive and in one case an outright false statement in the declarations
+brokertec also argues that the patent_examiners consideration of the exhibits to the declaration has no bearing on the question of intent
+
+we conclude that the district_courts finding of intent is not clearly erroneous
+the applicants submitted the declarations at issue in an apparent attempt to purge possible_inequitable_conduct in the ¡¬733_application and to disclose the super_system in the ¡¬526_application
+instead of being candid pauls declaration disingenuously states that the super_system did not include new_rules
+the district_court was free to draw an inference that these declarations were` the chosen instrument of an intentional_scheme to deceive the pto' rohm & haas 722 f.2d at 1571 because` [ t ] he affirmative_act of submitting an affidavit must be construed as being intended to be relied upon' refac 81 f.3d at 1583
+
+we disagree with cantors contention that the district_court failed to consider evidence of good_faith
+the district_court acknowledged cantors argument but disregarded cantors view of the evidence
+unenforceability_ruling 417 f.supp.2d at 598
+we see no clear_error in its conclusion
+
+iii
+conclusion
+based on threshold findings of materiality and intent to deceive the district_court *1139 balanced the equities and found that the ¡¬580_patent is unenforceable
+the district_court did not abuse its discretion in so holding
+because the ¡¬580_patent is unenforceable we need not reach the other_issues raised by cantor on appeal
+therefore the judgment of the district_court is
+
+affirmed
+
+no costs
+
+all citations
+480_f.3d_1129 82_u.s.p.q.2d_1183
+footnotes
+1
+these other trading states which are of less relevance to our decision include a` bid/offer' state and an` uncleared bid/offer' state
+2
+during oral argument cantors counsel admitted that the code for new_rules-including the new workup rules-was accessible to brokers using the super_system and that the code did not need to be modified to enable the use of the new_rules
+3
+the declaration of stuart_a._fraser indicated that` [ t ] he super_system did not use thenew_rules
+`` decl
+of stuart_a._fraser ¡¬526_application ?
+21 jan._31,_2002
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only espeed inc. v. brokertec_usa l.l.c. 480_f.3d_1129 2007 82_u.s.p.q.2d_1183
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

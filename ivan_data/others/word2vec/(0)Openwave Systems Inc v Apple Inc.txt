@@ -1,0 +1,241 @@
+808_f.3d_509
+united states court of appeals federal circuit
+openwave systems inc. nka unwired_planet inc. plaintiff-appellant
+v. apple inc. research in motion ltd. research in motion_corp. defendants-appellees
+no._2015-1108
+| dec._15,_2015
+synopsis
+background assignee of patents setting forth method and architecture for an interactive two-way_data_communication_network brought infringement action
+the united_states_district_court for the district of delaware richard g. andrews j. 2014_wl_651911 construed disputed claim_term and entered stipulated judgment of non-infringement
+assignee appealed
+
+holdings the court of appeals o'malley circuit_judge held that
+
+patentee disavowed mobile_devices containing computer_modules from patents through repeated disparagement in patent specification and
+
+term` mobile_device' in patents meant portable wireless two-way_communication_device that did not contain a computer_module
+
+affirmed
+
+attorneys and law firms
+*510 theodore stevenson iii mckool smith p.c. dallas tx argued for appellant
+also represented by meredith anne elkins jared m. hoggan nicholas m. mathews ; daniel l. geyser stris & maher llp los_angeles ca
+mark andrew perry gibson dunn & crutcher llp washington dc argued for appellee apple_inc. also represented by brian buroker ; alexander n. harris san francisco ca ; josh krevitt new york n.y. ; hervey mark lyon stuart rosenberg palo alto ca ; brooke myers wallace los_angeles ca
+alan j. heinrich irell & manella llp los_angeles ca for appellees research in motion ltd. and research in motion_corp. also represented by gavin snyder bruce a. wessel
+before moore o'malley and chen circuit_judges
+opinion
+o'malley circuit_judge
+openwave_systems inc. nka unwired_planet inc.` unwired_planet' is the assignee of u.s. patent nos._6405,037` the ¡¬037_patent` 6,430,409` the ¡¬409_patent` and 6,625,447` the ¡¬447_patent` collectively *511 the` patents-in-suit'
+the patents-in-suit share a common specification.1
+
+unwired_planet first sued apple_inc. research in motion ltd. and research in motion_corp. collectively the` defendants' on august 31 2011 in the united_states_district_court for the district of delaware
+shortly thereafter on october 7 2011 unwired_planet initiated an action with the international trade commission` itc'
+the district_court stayed its litigation pending resolution of the itc_proceedings
+after receiving an unfavorable claim_construction ruling from the administrative law judge` alj' overseeing the proceedings unwired_planet sought to dismiss the itc investigation in its entirety
+on november 13 2012 the itc terminated its proceedings
+the district_court lifted its stay on december 28 2012
+
+unwired_planet informed the district_court that if it adopted a construction of the disputed claim_term that matched the construction from the itc_proceedings unwired_planet would concede non-infringement by stipulation and file a motion to terminate the case
+after considering the briefing and hearing oral argument the district_court issued an order adopting a construction that closely tracked that employed by the alj
+believing one difference between the two constructions to be material however unwired_planet did not immediately stipulate to non-infringement
+specifically because the district_court noted in a footnote that its construction excluding devices employing` computer_modules' did not exclude devices employing` microprocessors' unwired_planet argued that a material question regarding infringement remained unresolved
+
+given unwired_planets refusal to concede non-infringement defendants filed a motion for summary judgment of non-infringement
+the district_court denied the defendants motion on the ground that it was unclear from the record whether the accused products actually fell within the claims as construed
+the district_court premised its summary-judgment ruling on the fact that it found the distinction between devices operating with microprocessors and those operating with computer_modules to be sufficiently unclear at that stage of the proceedings to prohibit entry of a judgment of non-infringement as a matter of law
+after the district_court entered that order in favor of unwired_planet however unwired_planet changed course and filed a stipulation of non-infringement after all
+the district_court entered final_judgment of non-infringement as to all asserted patent claims in favor of defendants on october 14 2014
+this appeal followed
+because we agree with the district_courts claim_construction we affirm
+
+background
+there are three claim_terms at issue` mobile_device' in the ¡¬037_patent` wireless mobile telephone' in the ¡¬409_patent and` two-way_communication_device' in the ¡¬447_patent
+before both the alj and the district_court the parties agreed that the claim_terms should be analyzed and construed together
+accordingly we will construe them together under the umbrella term` mobile_device'
+
+the only relevant issue on appeal is whether the claims should be given their ordinary meaning or whether as the district_court found the patents through repeated disparagement in the specification *512 disclaim mobile_devices containing` computer_modules'
+
+the patents-in-suit address perceived problems with the mobile_device prior_art
+for example the prior_art` intelligent_devices' 2 could not be updated without physically changing the devices themselves because at the time of the invention applications on mobile_devices were physically burned onto their read-only memories` roms' at the factory or were present on a rom_card
+in order to install a new application one would need to re-burn the rom or install a new rom_card
+¡¬037_patent_col. 2_ll._33 -40
+the` intelligent_telephone' of the day moreover was too big in size too expensive to produce and had problems with battery_life
+id.at_col. 9_ll._21 -25
+at the time of the invention-1995-mobile_devices did not have processors that were both powerful enough and small enough to operate the devices without running into these commercialization problems
+
+to overcome these difficulties the inventor of the patents-in-suit` devised ways to divide the computing_power between a device and its remote_server' thus` eliminat [ ing ] the need for devices to employ full computing capacity on their own'
+unwired_planet_op
+br
+2
+at issue is whether the claims cover only mobile_devices with small` microcontrollers' -which facilitate communications between the client device and the server-or also cover mobile_devices that contain more robust` computer_modules' -which serve to localize more of the computational processes onto the mobile_device itself.3
+
+in answering this question the district_court found that` the specification makes clear that the invention does not encompass mobile_devices containing computer_modules'
+openwave sys. inc. v. apple_inc. no
+cv-11-765-rga 2014_wl_651911 at *3 d.del
+feb._19,_2014
+the district_court relied upon a number of passages in the specification that disparage the prior_art implementation of a computer_module on a mobile_device finding that the` repeated derogatory_statements.. reasonably may be viewed as a disavowal of that subject matter from the scope of the [ p ] atents claims'
+id
+( alterations in original internal_quotation_marks omitted citing chicago_bd
+options_exch. inc. v. int l sec
+exch. llc 677_f.3d_1361 1372 fed.cir.2012
+accordingly` [ t ] he patents disclaim mobile_devices containing computer_modules'
+id
+; see also j.a
+9 specifying that` [ t ] he patents disclaimed mobile_devices containing computer_modules'
+
+in light of this disavowal the district_court construed the term` mobile_device' as` a portable wireless two-way_communication *513 device that does not contain a computer_module'
+openwave 2014_wl_651911 at *3
+in a footnote the district_court` ma [ d ] e clear that this construction does not read out embodiments including microcontrollers'
+id.at n. 3
+as noted after some hesitation unwired_planet ultimately stipulated to non-infringement under this construction
+the district_court then entered final_judgment from which unwired_planet appeals
+j.a
+17
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+discussion
+`` where as here a plaintiff concedes noninfringement by stipulation we need only address the district_courts construction of the pertinent claims' and affirm the judgment if this court determines that the claim_construction is correct under the appropriate standard
+starhome gmbh v. at & t mobility llc 743_f.3d_849 854 fed.cir.2014 ; see also altiris inc. v. symantec corp. 318_f.3d_1363 1368 fed.cir.2003 noting that` we need only address the district_courts construction of the claims' when a party stipulates to a judgment of non-infringement following a dispositive claim_construction
+
+we` review de novo the district_courts ultimate interpretation of the patent claims' but apply` clear error review' to any necessary` subsidiary factfinding'
+teva pharm usa inc. v. sandoz inc. -- - u.s. -- -- 135_s.ct._831 839-40 -- - l.ed.2d -- -- 2015
+because the construction below was based entirely on intrinsic evidence we review the issue de novo
+
+the proper claim_construction is` the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention i.e. as of the effective filing date of the patent application'
+phillips v. awh corp. 415_f.3d_1303 1313 fed.cir.2005 en banc
+the specification` is the single best guide to the meaning of a disputed term' and is usually` dispositive'
+id.at 1315 citation omitted
+in particular` the specification may reveal an intentional disclaimer or disavowal of claim_scope by the inventor' in which case` the inventors intention as expressed in the specification is regarded as dispositive'
+id.at 1316 citing scimed life sys. inc. v. advanced cardiovascular sys. inc. 242_f.3d_1337 1343-44 fed.cir.2001
+
+`` the standard for disavowal of claim_scope is..
+exacting'
+thorner v. sony comput
+entm't am
+llc 669_f.3d_1362 1366 fed.cir.2012
+disavowal requires that` the specification make [ ] clear that the invention does not include a particular_feature'
+scimed life sys. inc. 242 f.3d at 1341
+to find disavowal we must find that the specification is` both so clear as to show reasonable clarity and deliberateness and so unmistakable as to be unambiguous evidence of disclaimer'
+dealertrack inc. v. huber 674_f.3d_1315 1322 fed.cir.2012 internal_quotation_marks omitted quoting omega eng g inc. v. raytek corp. 334_f.3d_1314 1325-26 fed.cir.2003
+
+to find disavowal of claim_scope through disparagement of a particular_feature we ask whether` the specification goes well beyond expressing the patentees preference.. [ such that ] its repeated derogatory_statements about [ a particular embodiment ] reasonably may be viewed as a disavowal'
+chicago_bd
+options_exch. inc. 677 f.3d at 1372 ; see also safetcare mfg. inc. v. tele-made inc. 497_f.3d_1262 1269-70 fed.cir.2007 finding disclaimer where the specification repeatedly indicated that the invention operated by` pushing as opposed to pulling forces' and then characterized the` pushing *514 forces' as` an important feature of the present invention'
+we note also that a patent that discloses only one embodiment is not necessarily limited to that embodiment
+saunders grp. inc. v. comfortrac inc. 492_f.3d_1326 1332 fed.cir.2007
+`` [ i ] t is improper to read limitations from a preferred_embodiment described in the specification-even if it is the only embodiment-into the claims absent a clear indication in the intrinsic record that the patentee intended the claims to be so limited'
+liebel-flarsheim co. v. medrad inc. 358_f.3d_898 913 fed.cir.2004
+ge lighting sols. llc v. agilight inc. 750_f.3d_1304 1309 fed.cir.2014 alteration in original
+the dispositive inquiry in this appeal therefore is whether and to what extent the specification disparages mobile_devices that include` computer_modules'
+
+the district_court found that one of the most telling examples of disclaimer was that the patents-in-suit specify that` cellular_telephone 100 is not a combination of a computer_module and a wireless_communication_module as in prior_art_attempts to create an intelligent_telephone' ¡¬037_patent_col. 14_ll._52 -55 and that` cellular_telephone 100 utilizes only a microcontroller found in telephone 100 and does not require [ ] a separate computer_module as in the prior_art' id.at_col. 15_l._67 -col. 16_l._2
+in this embodiment` [ t ] he user is utilizing cellular_telephone 100 as if cellular_telephone 100 was a computer connected to network'
+id.at_col. 14_ll._47 -48 emphasis added
+in this embodiment cellular_telephone 100 is not a computer connected to a network and is not a combination of a mobile_device with a computer_module
+
+this single embodiment clearly describes a mobile_device that does not employ a computer_module and draws a distinction between those that do and those that do not
+unwired_planet correctly argues however that reference to one embodiment-even the preferred_embodiment-is insufficient to justify finding a disavowal
+and unwired_planet is correct that in ge lighting sols. llc 750_f.3d_1304 we said just that
+this one embodiment is not however the only portion of the specification upon which the district_court relied to support finding a disavowal of claim_scope
+
+indeed the specification of the patents-in-suit is rife with remarks that disparage and therefore disclaim mobile_devices that incorporate computer_modules
+such remarks permeate the specification
+unwired_planet concedes as much
+unwired_planet_op
+br
+16` [ i ] t is assuredly true that the specification disparaged repeatedly devices withcomputer_modules..' ; id.at 23` it is absolutely true that the specificationdisparaged the use of computer_modules..' ; id.at 32` [ t ] he specification does indeed disparage the prior_art..'
+
+the background of the invention defines the problems that accompanied the prior_art which the invention purported to solve for at least the last five years the wireless communication industry has tried to merge computing with wireless_communications.. after years of research and development and hundreds of millions of dollars investment by some of the largest companies in the field such as motorola at & t sony matsushita phillips and ibm the results have been nothing but disappointing
+typically the intelligent_communication_devices resulting from these efforts include both the hardware necessary for a computer_module and the hardware for a wireless_communications *515 module
+examples of such products are simon from ibm and bell south magiclink from sony and envoy from motorola
+fundamental design and cost problems arising directly from the approach taken by the designers of these intelligent_communication_devices have limited widespread market acceptance of these devices
+the combination of a wireless_communication_module with a computing module leads to a device that is too bulky too expensive and too inflexible to address the market requirements
+the combination of the two modules is too large and too heavy to fit in a users pocket
+pocket size is a key requirement of the mobile communication market which remains unmet by these devices
+in addition the cost of these devices is close to the sum of the cost of the computer_module and of the communications module which is around a one thousand dollar end-user price
+market research indicates that the market for intelligent wireless_communications devices is at prices around $ 300
+even with a 20 % compound cost decline it would take five years for the combination units to meet todays customers price requirements
+it is therefore unlikely that devices designed by combining a computer and a wireless module no matter how miniaturized and cost reduced can satisfy the cost requirement of the market during this decade
+..... [ t ] he current crop of intelligent_communication_devices run only the few applications which were burned into their roms at the factory or which are contained in a rom_card plugged into a slot designed for this purpose
+this scheme lacks the flexibility needed to run the thousands of applications required to address the fragmented requirements of the market and provides no simple method for updating the applications after the device has been sold
+¡¬037_patent_col. 1_l._44 -col. 2_l._40_(emphases_added)
+the import of this section of the specification could not be clearer the perceived problem with the prior_art` intelligent_devices' was the attempt to combine mobile_devices with computer_modules resulting in a device that was too expensive too bulky too inflexible and therefore commercially infeasible
+
+this section similarly makes clear that any solution to this problem requires movement away from the prior_arts attempt to combine a computer_module with a mobile_device up to now intelligent_communication_devices have combined a computing module with a wireless_communications_module
+however to gain widespread acceptance a two-way_data_communication_device with processing capability and the ability to run a wide_variety of differing user applications is needed
+in addition such a device should be comparable in size cost and weight to a cellular_telephone
+id.at_col. 3_ll._29 -35
+the summary of the invention begins by continuing along these lines distinguishing the invention of the patents-in-suit from the prior_art devices that include computer_modules according to the principles of this invention the prior_art limitations of combining a computer_module with a wireless_communication_module have been overcome
+in particular a two-way_data_communication_device of this invention such as a cellular_telephone two-way_pager or telephone includes a client_module that communicates with a server_computer over a two-way_data_communication_network
+*516 id.at_col. 3_ll._38 -44 emphasis added
+the summary continues indicating that` the two-way_data_communication_device of this invention utilizes a client_module to transmit a message including a resource locator selected by the user over the two-way_data_communication_network to a server on a server_computer on the computer network'
+id.at_col. 4_ll._40 -44 emphasis added
+in this way the patents-in-suit specify that the solution to the problems with the prior_art is to employ a` client_module' executed on a` microcontroller' -rather than a` computer_module'
+
+the lightweight` client_module' and` microcontroller' solve these problems moreover precisely because they differ from the bulky prior_art` intelligent_devices'
+`` the client_module of this invention is lightweight and thus requires only lightweight_resources in a two-way_data_communication_device'
+id.at_col. 6_ll._34 -36 emphasis added ; see also id.at_col. 9_ll._16 -24` the client_module is small e.g. under 64 kbyte and requires only low processing_power congruent with the memory chips and built-in microcontrollers in two-way_data_communication_devices such as cellular_telephone 100 two-way_pager 101 and telephone 102
+thus unlike the prior_art_attempts at an intelligent_telephone the cost size and battery_life of either cellular_telephones two-way_pagers or telephones that incorporate this invention are not adversely affected'
+( emphases added
+
+in the detailed description section of the specification the patents-in-suit disclose that prior_art computer_networks already were dividing computing_power between a client and a remote_server
+the patents-in-suit extend this same concept to mobile_devices` [ w ] hile client/server_architectures have been used extensively in computer_networks a client/sever [ sic ] architecture implements [ sic ] using two-way_communication data devices such as cellular_telephone 100 two-way_pager 101 or telephone 102 yields new and unexpected results'
+id.at_col. 9_ll._25 -29
+
+because client/server_architectures in computer_networks were in the prior_art unwired_planets argument must be that by employing a microprocessor it invented the combination of the prior_art` computer_module' with a mobile_device
+yet that combination constitutes the very embodiment that gives rise to the problems the invention purports to solve namely the bulk cost inflexibility and short battery_life of intelligent_devices
+
+it is the lightweight nature of the patents` client_module' run on the` microcontroller' that gives rise to the benefits of the claimed invention avoiding the problems identified with the prior_art` intelligent_devices' despite the robustness of the client_module in interpreting a wide_variety of application [ sic ] typically the client_process is lightweight and thus requires only lightweight_resources e.g. 60 kbytes of read-only memory rom for the client_module 10 kbytes of random access memory ram and less than one million instructions per second mips of processing_power
+since the client_process needs only these lightweight_resources in a two-way_data_communication_device the client can use existing resources in such a device and therefore does not add to the cost of the two-way_data_communication_device such as data capable cellular_telephone 100
+id.at_col. 16_ll._24 -36 emphases added
+the specification continues` again note that this invention does not require a separate processor and instead can utilize the processing_power that already exists in cellular_telephone 600 because as described above the client_process of this invention is so lightweight'
+id.at_col. 20 *big_token__517_ll._56__big_token -60 emphasis added
+the specification repeatedly and clearly distinguishes the invention of the patents-in-suit from more powerful-and therefore more costly-mobile_devices in combination with` computer_modules'
+such mobile_devices being more powerful and more costly the patents-in-suit repeatedly disparage them for their failure to meet the demands of the market.4
+
+there is no doubt a high bar to finding disavowal of claim_scope through disparagement of the prior_art in the specification
+in this case however it is difficult to envisage how in light of the repeated disparagement of mobile_devices with` computer_modules' discussed above one could read the claims of the patents-in-suit to cover such devices
+we agree with the district_court that they do not
+
+we affirm the district_courts claim_construction that a` mobile_device' is` a portable wireless two-way_communication_device that does not contain a computer_module' and that` this construction does not read out embodiments including microcontrollers'
+openwave 2014_wl_651911 at *3 & n. 3
+on this ground we affirm the judgment of non-infringement premised on that construction
+
+conclusion
+for the foregoing reasons and because we find that unwired_planets remaining arguments are without merit we conclude that the district_court properly construed the claim_terms at issue and properly entered judgment of non-infringement
+accordingly the district_courts judgment is affirmed
+
+affirmed
+
+all citations
+808_f.3d_509 117_u.s.p.q.2d_1189
+footnotes
+1
+the patents-in-suit are all continuations of u.s. patent no._5809,415 which was filed on december 11 1995
+2
+the prior_art` intelligent_communication_devices.. include both the hardware necessary for a computer_module and the hardware for a wireless_communications_module'
+¡¬037_patent_col. 1_ll._55 -58
+3
+the specification of the patents-in-suit specifies that a` client_module' is executed on the` microcontroller'
+¡¬037_patent_col. 6_ll._65 -66
+the lightweight` client_module' and the` microcontroller' of the patents-in-suit are distinguishable from the more robust` computer_module' in terms of relative computing_power
+although the district_court noted that the distinction between` microcontrollers' on the one hand and` computer_modules' on the other is not clear joint appendix` j.a'
+10 we need not seek an exact dividing line where as here the patentee has stipulated to noninfringement under a claim_construction that explicitly relies on this distinction
+that is if the distinction between` microcontroller' and` computer_module' is clear enough for the patentee to stipulate that the accused devices do not infringe because they employ the latter as that term was construed by the district_court it is clear enough for this court to apply the respective terms without the need to remand for additional factual determinations
+4
+unwired_planet argues that the repeated disparagement of mobile_devices with` computer_modules' in the specification is meant only to denigrate those devices as` commercially infeasible not technically infeasible'
+unwired_planet_op
+br
+32
+but we see no reason to conclude that a specifications repeated recitation of marketing deficiencies can not give rise to a finding of claim_scope disavowal
+the fact that a combination product-one with both a microprocessor and a computer_module-might work does not mean that the invention claimed encompassed such a product particularly where that product would retain all the deficiencies of the prior_art
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+openwave_systems inc. v. apple_inc. 808_f.3d_509 2015 117_u.s.p.q.2d_1189
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

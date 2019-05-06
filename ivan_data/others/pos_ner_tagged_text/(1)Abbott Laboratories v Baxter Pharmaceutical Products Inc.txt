@@ -1,0 +1,150 @@
+('471_F.3d_1363', 'IN', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ABBOTT', 'NNP', 'ORG', 'B') ('LABORATORIES', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Central_Glass_Company', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Plaintiffs-Appellants', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('BAXTER', 'VB', 'ORG', 'B') ('PHARMACEUTICAL', 'NNP', 'ORG', 'I') ('PRODUCTS', 'NNS', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Baxter_Healthcare_Corp.', 'NNP', 'ORG', 'B') ('Defendants-Cross', 'NNP', 'ORG', 'I') ('Appellants', 'NNPS', 'ORG', 'I')
+ABBOTT LABORATORIES BAXTER PHARMACEUTICAL PRODUCTS INC. Baxter_Healthcare_Corp. Defendants-Cross Appellants
+__NEW_SENT__
+('Nos._06-1021', 'NN', '', 'O') ('06-1022', 'CD', '', 'O') ('06-1034', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Nov._9,_2006', 'NNP', 'ORG', 'B')
+Nov._9,_2006
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Jan._16,_2007', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('anesthetic', 'JJ', '', 'O') ('sevoflurane', 'NN', '', 'O') ('composition', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('2002_WL_449007', 'NNP', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Guzman', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary', 'NN', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Northern_District Illinois Ronald A. Guzman J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('334_F.3d_1274', 'SYM', '', 'O') ('vacated', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+The Court of Appeals
+__NEW_SENT__
+('On', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('the', 'DT', '', 'O') ('District', 'NNP', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('Guzman', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('2005_WL_2347221', 'NNP', 'PERSON', 'I') ('ruled', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+District Court Guzman J. 2005_WL_2347221
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('patent', 'NN', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1364', 'XX', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Mark', 'NNP', 'PERSON', 'I') ('McCareins', 'NNP', 'PERSON', 'I') ('Winston', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Strawn', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+*1364 R. Mark McCareins Winston & Strawn LLP of Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Foote', 'NNP', 'PERSON', 'I') ('Raymond', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Perkins', 'NNP', 'PERSON', 'I') ('Peggy', 'NNP', '', 'O') ('M.', 'NNP', '', 'O') ('Balesteri', 'NNP', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Herbison', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Timothy', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Schaum', 'NNP', 'PERSON', 'I')
+Edward L. Foote Raymond C. Perkins James F. Herbison Timothy M. Schaum
+__NEW_SENT__
+('Constantine', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Trela', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Sidley_Austin_LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-cross', 'JJ', '', 'O') ('appellants', 'NNS', '', 'O')
+Constantine L. Trela Jr. Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Pritikin', 'NNP', 'PERSON', 'I') ('William', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Baumgartner', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Russell', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Cass', 'NNP', 'PERSON', 'I')
+David T. Pritikin William H. Baumgartner Jr. Russell E. Cass
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Borecki', 'NNP', 'PERSON', 'I') ('Baxter', 'NNP', 'PERSON', 'I') ('Healthcare', 'NNP', 'PERSON', 'I') ('Corporation', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Deerfield', 'NNP', '', 'O') ('IL', 'NNP', '', 'O')
+Thomas S. Borecki Baxter Healthcare Corporation
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Marc', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Cavan', 'NNP', 'PERSON', 'I') ('Sidley_Austin_LLP', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O')
+Marc A. Cavan Chicago
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O') ('ARCHER', 'NNP', '', 'O') ('Senior', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Plaintiffs', 'NNP', 'ORG', 'B') ('Abbott', 'NNP', 'ORG', 'I') ('Laboratories', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Central_Glass_Company', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Abbott', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S._Patent_No._5990,176', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬176_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B')
+Plaintiffs Abbott Laboratories Abbott United_States_District_Court Northern_District Illinois
+__NEW_SENT__
+('Defendants', 'NNP', 'ORG', 'B') ('Baxter_Pharmaceutical', 'NNP', 'ORG', 'I') ('Products', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Baxter_Healthcare_Corp.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Baxter', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('cross-appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('determination', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('refusal', 'NN', '', 'O') ('to', 'TO', '', 'O') ('find', 'VB', '', 'O') ('unenforceability', 'NN', '', 'O') ('due', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O')
+Defendants Baxter_Pharmaceutical Products Inc. Baxter
+__NEW_SENT__
+('*1365', 'NFP', '', 'O') ('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('our', 'PRP$', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('hearing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') (';', ':', '', 'O') ('following', 'VBG', '', 'O') ('our', 'PRP$', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('we', 'PRP', '', 'O') ('reversed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('trial', 'NN', '', 'O')
+second first
+__NEW_SENT__
+('Abbott_Labs', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('Baxter_Pharm', 'NN', '', 'O')
+
+__NEW_SENT__
+('Prods.', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('334_F.3d_1274', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.2003', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Prods. Inc.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('conducted', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('bench', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('then', 'RB', '', 'O') ('further', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('and', 'CC', '', 'O') ('found', 'VBD', '', 'O') ('them', 'PRP', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Abbott_Labs', 'VBZ', '', 'O') ('v.', 'IN', '', 'O') ('Baxter_Pharm', 'NN', 'CARDINAL', 'B')
+Baxter_Pharm
+__NEW_SENT__
+('Prods.', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._01-', 'NNP', '', 'O') ('CV-1867', 'NNP', '', 'O') ('2005_WL_2347221', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Ill', '.', '', 'O')
+Prods. Inc.
+__NEW_SENT__
+('Sept.', 'NNP', 'DATE', 'B') ('26', 'CD', 'DATE', 'I') ('2005', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O')
+Sept. 26 2005
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('timely', 'RB', '', 'O') ('followed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('hold', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬176_patent', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('disclosure', 'NN', '', 'O') ('in', 'IN', '', 'O') ('U.S._Patent_No._5684,211', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬211_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('validity', 'NN', '', 'O') ('judgment', 'NN', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('technology', 'NN', '', 'O')
+
+__NEW_SENT__
+('Sevoflurane', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('fast-acting', 'JJ', '', 'O') ('highly', 'RB', '', 'O') ('effective', 'JJ', '', 'O') ('inhalation', 'NN', '', 'O') ('anesthetic', 'JJ', '', 'O')
+Sevoflurane
+__NEW_SENT__
+('However', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ('sevoflurane', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('serious', 'JJ', '', 'O') ('problem', 'NN', '', 'O') ('unknown', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('original', 'JJ', '', 'O') ('shipment', 'NN', '', 'O') (':', ':', '', 'O') ('it', 'PRP', '', 'O') ('degrades', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Lewis_acids', 'NNS', 'GPE', 'B')
+Lewis_acids
+__NEW_SENT__
+('Lewis_acids', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('essentially', 'RB', '', 'O') ('defined', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('any', 'DT', '', 'O') ('species', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('an', 'DT', '', 'O') ('empty', 'JJ', '', 'O') ('electron', 'NN', '', 'O') ('orbit', 'NN', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('electron', 'VB', '', 'O') ('affinity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('are', 'VBP', '', 'O') ('common', 'JJ', '', 'O') ('enough', 'RB', '', 'O') ('that', 'IN', '', 'O') ('avoiding', 'VBG', '', 'O') ('exposure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sevoflurane', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Lewis_acids', 'NNS', 'GPE', 'B') ('is', 'VBZ', '', 'O') ('quite', 'RB', '', 'O') ('difficult', 'JJ', '', 'O')
+Lewis_acids
+__NEW_SENT__
+('Among', 'IN', '', 'O') ('the', 'DT', '', 'O') ('products', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('degradation_reaction', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('hydrofluoric_acid', 'JJ', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('highly', 'RB', '', 'O') ('dangerous', 'JJ', '', 'O') ('if', 'IN', '', 'O') ('inhaled', 'VBN', '', 'O')
+
+__NEW_SENT__
+('¡¬176_patent', 'NN', '', 'O') ('col.1', 'NN', '', 'O') ('ll.52-57', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('containers', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ('shipped', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('product', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('Lewis_acids', 'NNS', 'ORG', 'B') ('exposed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('interiors', 'NNS', '', 'O')
+Abbott Lewis_acids
+__NEW_SENT__
+('The', 'DT', '', 'O') ('hydrofluoric_acid', 'NN', '', 'O') ('thus', 'RB', '', 'O') ('produced', 'VBD', '', 'O') ('etched', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('containers', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('glass', 'NN', '', 'O') ('surfaces', 'NNS', '', 'O') ('exposing', 'VBG', '', 'O') ('even', 'RB', '', 'O') ('more', 'JJR', '', 'O') ('Lewis_acids', 'NNS', 'GPE', 'B') ('resulting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vicious-cycle', 'JJ', '', 'O') ('cascading', 'VBG', '', 'O') ('reaction', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('seriously', 'RB', '', 'O') ('compromised', 'VBD', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('product', 'NN', '', 'O') ('while', 'IN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('shelf', 'NN', '', 'O') ('and', 'CC', '', 'O') ('forced', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('recall', 'NN', '', 'O')
+Lewis_acids Abbott
+__NEW_SENT__
+('After', 'IN', '', 'O') ('investigating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('cause', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('degradation', 'NN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ('discovered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('source', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('problem', 'NN', '', 'O')
+Abbott
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('solution', 'NN', '', 'O') (':', ':', '', 'O') ('water', 'NN', '', 'O') ('mixed', 'VBN', '', 'O') ('in', 'RP', '', 'O') ('with', 'IN', '', 'O') ('sevoflurane', 'NN', '', 'O') ('will', 'MD', '', 'O') ('bind', 'VB', '', 'O') ('to', 'IN', '', 'O') ('and', 'CC', '', 'O') ('deactivate', 'VB', '', 'O') ('Lewis_acids', 'NNS', 'PERSON', 'B') ('protecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('sevoflurane', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('degradation_reaction', 'NN', '', 'O')
+Lewis_acids
+__NEW_SENT__
+('A', 'DT', '', 'O') ('deliberate', 'JJ', '', 'O') ('addition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('water', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sevoflurane', 'VB', '', 'O') ('ran', 'VBD', '', 'O') ('counter', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('conventional', 'JJ', '', 'O') ('wisdom', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') (':', ':', '', 'O') ('previously', 'RB', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('sought', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('minimize', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('product', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('water', 'NN', '', 'O') ('content', 'NN', '', 'O')
+Abbott
+__NEW_SENT__
+('Abbott', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('degradation-preventing', 'JJ', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('water', 'NN', '', 'O') ('or', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('``', '``', '', 'O') ('Lewis', 'NNP', 'ORG', 'B') ('acid', 'NN', '', 'O') ('inhibitors', 'NNS', '', 'O') ("''", "''", '', 'O') ('with', 'IN', '', 'O') ('sevoflurane', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('issued', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬176_patent', 'NNP', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('here', 'RB', '', 'O')
+Abbott Lewis
+__NEW_SENT__

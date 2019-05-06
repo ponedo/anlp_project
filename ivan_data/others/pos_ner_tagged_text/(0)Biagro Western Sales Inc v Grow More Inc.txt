@@ -1,0 +1,261 @@
+('423_F.3d_1296', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('BIAGRO', 'NNP', 'ORG', 'B') ('WESTERN', 'NNP', 'ORG', 'I') ('SALES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('Regents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('California', 'NNP', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNPS', 'ORG', 'I') ('v.', 'CC', 'ORG', 'I') ('GROW', 'VB', 'ORG', 'I') ('MORE', 'JJR', 'ORG', 'I') ('INC.', 'NN', 'ORG', 'I') ('Defendant-Appellee', 'NN', '', 'O')
+BIAGRO WESTERN SALES the University of California Plaintiffs-Appellants v. GROW MORE INC.
+__NEW_SENT__
+('No._04-1414', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Sept._13,_2005', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Oct._28,_2005', 'CD', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Assignee', 'NN', 'PERSON', 'B') ('and', 'CC', '', 'O') ('licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('phosphorus_fertilizer', 'JJ', '', 'O') ('brought', 'VBN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('licensee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('competitor', 'NN', '', 'O')
+Assignee
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Robert', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Coyle', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', 'PERSON', 'I') ('District', 'NNP', 'PERSON', 'I') ('Judge', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('plaintiffs', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court California Robert E. Coyle Senior District Judge
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Plager', 'NNP', 'ORG', 'I') ('Senior_Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Plager Senior_Circuit_Judge
+__NEW_SENT__
+('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('in', 'IN', '', 'O') ('claim_limitation', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('actually', 'RB', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final_fertilizer_product', 'NNP', '', 'O') ('not', 'RB', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('chemical', 'JJ', '', 'O') ('equivalent', 'NN', '', 'O') ('amount', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('``', '``', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('language', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('aggregate_amount', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('presumptively', 'RB', '', 'O') ('surrendered', 'VBD', '', 'O') ('any', 'DT', '', 'O') ('equivalents', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('present', 'NN', '', 'O') ('by', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('narrowing', 'VBG', '', 'O') ('amendment', 'NN', '', 'O') ('during', 'IN', '', 'O') ('reexamination', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1299', 'UH', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Miller', 'NNP', 'PERSON', 'I') ('Kimble', 'NNP', '', 'O') ('MacMichael', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Upton', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Fresno', 'NNP', 'ORG', 'B') ('California', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Mark D. Miller Fresno California
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Branch', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Mary', 'NNP', 'PERSON', 'B') ('Ann', 'NNP', 'PERSON', 'I') ('Bluhm', 'NNP', 'PERSON', 'I')
+Robert W. Branch Mary Ann Bluhm
+__NEW_SENT__
+('Alan', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Unikel', 'NNP', 'PERSON', 'I') ('Seyfarth', 'NNP', '', 'O') ('Shaw', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'ORG', 'B') ('Illinois', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Alan L. Unikel Chicago Illinois
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Lanser', 'NNP', 'PERSON', 'I')
+Joseph R. Lanser
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('PLAGER', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O')
+DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PLAGER', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('case', 'NN', '', 'O') ('Biagro', 'NNP', 'ORG', 'B') ('Western', 'NNP', 'ORG', 'I') ('Sales', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Biagro', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('The', 'DT', 'WORK_OF_ART', 'B') ('Regents', 'NNS', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('the', 'DT', 'WORK_OF_ART', 'I') ('University', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('California', 'NNP', 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('The', 'DT', 'WORK_OF_ART', 'I') ('Regents', 'NNPS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Grow', 'VB', 'WORK_OF_ART', 'I') ('More', 'JJR', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B')
+Biagro Western Sales Inc. The Regents of the University of California `` The Regents '' Grow More Inc. `` Grow More '' United_States_District_Court California
+__NEW_SENT__
+('At', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('No._5830,255', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ("'255_patent", 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Formulation', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Phosphorus', 'NNP', 'WORK_OF_ART', 'I') ('Fertilizer', 'NNP', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Plants', 'NNS', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I')
+U.S. Patent No._5830,255 `` Formulation of Phosphorus Fertilizer for Plants ''
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Regents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Biagro', 'NNP', 'GPE', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('exclusive_licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'255_patent", 'NN', '', 'O')
+Biagro
+__NEW_SENT__
+('On', 'IN', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'WDT', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+Grow More
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('further', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Judgment', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('awarded', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('Grow', 'VB', 'WORK_OF_ART', 'B') ('More', 'JJR', 'WORK_OF_ART', 'I')
+Grow More
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('issued', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'255_patent", 'NN', '', 'O') ('on', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('3', 'CD', 'DATE', 'I') ('1998', 'CD', 'DATE', 'I')
+The United States Patent and Trademark Office November 3 1998
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('request', 'NN', '', 'O') ('of', 'IN', '', 'O') ('The', 'DT', '', 'O') ('Regents', 'NNPS', '', 'O') ('to', 'TO', '', 'O') ('whom', 'WP', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('assigned', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NNP', '', 'O') ('undertook', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('and', 'CC', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('certificate', 'NN', '', 'O') ('on', 'IN', '', 'O') ('July_11,_2000', 'NNP', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('independent_claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('amended', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('adding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('originally', 'RB', '', 'O') ('in', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fertilizer', 'NN', '', 'O') ('formulation', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('reexamination', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('representative', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('independent_claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'255_patent", 'NN', '', 'O') ('read', 'VBD', '', 'O') (':', ':', '', 'O') ('A', 'DT', '', 'O') ('concentrated', 'JJ', '', 'O') ('phosphorus_fertilizer', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('buffered', 'VBN', '', 'O') ('composition', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('when', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('composition', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('diluted', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('water', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('pH', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('about', 'RB', 'CARDINAL', 'B') ('6.5', 'CD', 'CARDINAL', 'I') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('ratio', 'NN', '', 'O') ('of', 'IN', '', 'O') ('about', 'RB', 'CARDINAL', 'B') ('1', 'CD', 'CARDINAL', 'I') ('part', 'NN', '', 'O') ('fertilizer', 'NN', '', 'O') ('to', 'IN', '', 'O') ('about', 'IN', 'CARDINAL', 'B') ('40', 'CD', 'CARDINAL', 'I') ('parts', 'NNS', '', 'O') ('water', 'NN', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('formed', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('substantially', 'RB', '', 'O') ('fully', 'RB', '', 'O') ('solubilized', 'VBN', '', 'O') ('use-dilution', 'NN', '', 'O') ('fertilizer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('foliage-acceptable', 'JJ', '', 'O') ('pH', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('phosphorus', 'NN', '', 'O') ('uptake', 'NN', '', 'O') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('about', 'IN', 'CARDINAL', 'B') ('30', 'CD', 'CARDINAL', 'I') ('to', 'IN', '', 'O') ('about', 'RB', 'CARDINAL', 'B') ('40', 'CD', 'CARDINAL', 'I') ('weight_percent', 'NN', '', 'O')
+1 at least one about 6.5 about 1 about 40 about 30 about 40
+__NEW_SENT__
+('The', 'DT', '', 'O') ('emphasized', 'JJ', '', 'O') ('language', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('added', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('reexamination', 'NN', '', 'O') ('to', 'TO', '', 'O') ('distinguish', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('over', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O')
+
+__NEW_SENT__
+('That', 'DT', '', 'O') ('added', 'VBN', '', 'O') ('limitation', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('focus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('phosphorous', 'JJ', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('adjectival', 'NN', '', 'O') ('modifier', 'RBR', '', 'O') ('describing', 'VBG', '', 'O') ('certain', 'JJ', '', 'O') ('compounds', 'NNS', '', 'O') ('containing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('element', 'NN', '', 'O') ('phosphorus', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('P', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('refer', 'VB', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('group', 'NN', '', 'O') ('of', 'IN', '', 'O') ('acids', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('includes', 'VBZ', '', 'O') ('phosphorous_acid', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('H3PO3', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') ('among', 'IN', '', 'O') ('other', 'JJ', '', 'O') ('acids', 'NNS', '', 'O')
+H3PO3
+__NEW_SENT__
+("'255_patent", 'NN', '', 'O') ('col._3,_ll._56-60', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('also', 'RB', '', 'O') ('states', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('formulations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('expressed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('weight-to-volume', 'NNP', '', 'O') ('instead', 'RB', '', 'O') ('of', 'IN', '', 'O') ('weight-to-weight', 'CD', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('weight_percent', 'NN', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('refers', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('weight-to-volume', 'NNP', '', 'O') ('percentage', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col._6,_l._67', 'NNS', '', 'O')
+Id.at
+__NEW_SENT__
+('Grow', 'VB', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('phosphorus_fertilizer', 'JJ', '', 'O') ('named', 'VBN', '', 'O') ('Phos-Pro', 'NNP', '', 'O')
+Grow More 's
+__NEW_SENT__
+('Phos-', 'UH', '', 'O') ('*1300', 'XX', '', 'O') ('Pro', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('mixing', 'VBG', '', 'O') ('phosphorous_acid', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('H3PO3', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('potassium', 'NN', '', 'O') ('hydroxide', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('KOH', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('water', 'NN', '', 'O')
+Pro H3PO3 KOH
+__NEW_SENT__
+('The', 'DT', '', 'O') ('reaction', 'NN', '', 'O') ('results', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('solution', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('phosphorous_acid', 'JJ', '', 'O') ('salts-dipotassium', 'JJ', '', 'O') ('monohydrogen', 'NN', '', 'O') ('phosphite', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('K2HPO3', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('potassium', 'NN', '', 'O') ('dihydrogen', 'NN', '', 'O') ('phosphite', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('KH2PO3', 'NNP', 'GPE', 'B') (')', '-RRB-', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('in', 'IN', '', 'O') ('abbreviated', 'VBN', '', 'O') ('form', 'NN', '', 'O') ('as', 'IN', '', 'O') ('dipotassium_phosphite', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('potassium_phosphite', 'JJ', '', 'O')
+two KH2PO3
+__NEW_SENT__
+('A', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('phosphite', 'NN', '', 'O') ('tripotassium_phosphite', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('K3PO3', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('trace', 'NN', '', 'O') ('amounts', 'NNS', '', 'O')
+third
+__NEW_SENT__
+('However', 'RB', '', 'O') ('and', 'CC', '', 'O') ('importantly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('Phos-Pro', 'NNP', '', 'O') ('product', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('contain', 'VB', '', 'O') ('any', 'DT', '', 'O') ('phosphorous_acid', 'NN', '', 'O') ('as', 'IN', '', 'O') ('such', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Biagro', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('exclusive_licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'255_patent", 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('in', 'IN', '', 'O') ('July', 'NNP', 'DATE', 'B') ('2000', 'CD', 'DATE', 'I') ('shortly', 'RB', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('completed', 'VBD', '', 'O') ('reexamination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+Grow More July 2000
+__NEW_SENT__
+('Grow', 'VB', '', 'O') ('More', 'RBR', '', 'O') ('filed', 'JJ', '', 'O') ('counterclaims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('declaratory', 'JJ', '', 'O') ('judgments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('for', 'IN', '', 'O') ('unfair_competition', 'NN', '', 'O') ('under', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('state', 'NN', '', 'O') ('law', 'NN', '', 'O')
+California
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Regents', 'NNPS', '', 'O') ('were', 'VBD', '', 'O') ('eventually', 'RB', '', 'O') ('joined', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('plaintiff.1', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('question', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('added', 'VBN', '', 'O') ('limitation', 'NN', '', 'O') ('specifying', 'NN', '', 'O') ('that', 'IN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('fertilizer', 'NN', '', 'O') ('composition', 'NN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('thereof..', 'NN', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('about', 'IN', 'CARDINAL', 'B') ('30', 'CD', 'CARDINAL', 'I') ('to', 'IN', '', 'O') ('about', 'IN', 'CARDINAL', 'B') ('40', 'CD', 'CARDINAL', 'I') ('weight_percent', 'NN', '', 'O') ("''", "''", '', 'O')
+about 30 about 40
+__NEW_SENT__
+('Biagro', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('met', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('by', 'IN', '', 'O') ('calculating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ("'chemical", 'JJ', '', 'O') ('equivalent', 'NN', '', 'O') ("'", "''", '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chemical', 'NN', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fertilizer', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('fertilizer', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('initial', 'JJ', '', 'O') ('manufacture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('product', 'NN', '', 'O')
+Grow More
+__NEW_SENT__
+('Grow', 'VB', '', 'O') ('More', 'RBR', '', 'O') ('argued', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('contrary', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('phosphorous-containing', 'VBG', '', 'O') ('acid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('salt', 'NN', '', 'O') ('actually', 'RB', '', 'O') ('present', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final_fertilizer_product', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('as', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I') ('proposed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('since', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Grow', 'NNP', '', 'O') ('More', 'JJR', '', 'O') ('final', 'JJ', '', 'O') ('product', 'NN', '', 'O') ('contained', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('phosphorous-containing', 'JJ', '', 'O') ('acid', 'NN', '', 'O') ('held', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('Grow', 'NNP', 'WORK_OF_ART', 'B') ('More', 'RBR', 'WORK_OF_ART', 'I') ('on', 'IN', '', 'O') ('that', 'DT', '', 'O') ('issue', 'NN', '', 'O')
+Grow More Grow More
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('further', 'RB', '', 'O') ('that', 'IN', '', 'O') ('with', 'IN', '', 'O') ('regard', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('content', 'NN', '', 'O') ('of', 'IN', '', 'O') ('acid', 'NN', '', 'O') ('salts', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fertilizer', 'NN', '', 'O') ('a', 'DT', '', 'O') ('fertilizer', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('more', 'RBR', '', 'O') ('phosphorous-containing', 'JJ', '', 'O') ('salts', 'NNS', '', 'O') ('comes', 'VBZ', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('literal', 'JJ', '', 'O') ('scope', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('only', 'RB', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('aggregate_amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('salts', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('between', 'IN', 'CARDINAL', 'B') ('about', 'RB', 'CARDINAL', 'I') ('30', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('about', 'RB', 'CARDINAL', 'B') ('40', 'CD', 'CARDINAL', 'I') ('weight_percent', 'NN', '', 'O')
+two between about 30 about 40
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('tests', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('calculations', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Biagro', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('expert', 'NN', '', 'O') ('the', 'DT', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('potassium_phosphite', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Phos-Pro', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('40.3', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('dipotassium_phosphite', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('19.0', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I')
+Biagro 40.3 % 19.0 %
+__NEW_SENT__
+('Grow', 'VB', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('calculations', 'NNS', '', 'O') ('indicated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('phosphite', 'JJ', '', 'O') ('content', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('slightly', 'RB', '', 'O') ('higher', 'JJR', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('different', 'JJ', '', 'O') ('specific', 'JJ', '', 'O') ('gravity', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('convert', 'VB', '', 'O') ('weight-to-weight_percentages', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('weight-to-volume_percentages', 'NNS', '', 'O')
+Grow More 's
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('calculations', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('weight-to-volume_percentages', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('42.2', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('for', 'IN', '', 'O') ('potassium_phosphite', 'NN', '', 'O') ('and', 'CC', '', 'O') ('19.9', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('for', 'IN', '', 'O') ('dipotassium_phosphite', 'NN', '', 'O')
+Grow More 's 42.2 % 19.9 %
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('total', 'JJ', '', 'O') ('phosphite', 'JJ', '', 'O') ('concentration', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('between', 'IN', 'PERCENT', 'B') ('59.3', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('and', 'CC', 'PERCENT', 'I') ('62.1', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('depending', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('party', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('calculations', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('used', 'VBN', '', 'O')
+between 59.3 % and 62.1 %
+__NEW_SENT__
+('Since', 'IN', '', 'O') ('the', 'DT', '', 'O') ('aggregate', 'JJ', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('phosphites', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('at', 'IN', 'PERCENT', 'B') ('least', 'JJS', 'PERCENT', 'I') ('59.3', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I') ('weight_percent', 'NN', '', 'O') ('well', 'RB', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('range', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('question', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('whether', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('salts', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('considered', 'VBN', '', 'O') ('infringing', 'VBG', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('whether', 'IN', '', 'O') ('60', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('+/-', 'ADD', '', 'O') (')', '-RRB-', '', 'O') ('%', 'NN', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('considered', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('equivalent', 'NN', '', 'O') ('of', 'IN', '', 'O') ('about', 'RB', 'CARDINAL', 'B') ('30', 'CD', 'CARDINAL', 'I') ('to', 'IN', '', 'O') ('about', 'RB', 'PERCENT', 'B') ('40', 'CD', 'PERCENT', 'I') ('%', 'NN', 'PERCENT', 'I')
+two at least 59.3 % 60 about 30 about 40 %
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('chose', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('to', 'TO', '', 'O') ('address', 'VB', '', 'O') ('that', 'DT', '', 'O') ('question', 'NN', '', 'O') ('but', 'CC', '', 'O') ('instead', 'RB', '', 'O') ('held', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('Grow', 'NNP', 'WORK_OF_ART', 'B') ('More', 'RBR', 'WORK_OF_ART', 'I') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ground', 'NN', '', 'O') ('that', 'IN', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amended', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('prosecution', 'NN', '', 'O') ('history', 'NN', '', 'O') ('estoppel', 'NN', '', 'O') ('acted', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('complete', 'JJ', '', 'O') ('bar', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('of', 'IN', '', 'O') ('*1301', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('equivalents', 'NNS', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('en', 'FW', '', 'O') ('banc_decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Festo_Corp.', 'NN', '', 'O') ('v.', 'CC', '', 'O') ('Shoketsu_Kinzoku_Kogyo_Kabushiki_Co.', 'XX', 'CARDINAL', 'B') ('234_F.3d_558_(Fed.Cir.2000)', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Festo', 'NNP', '', 'O') ('I', 'PRP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('law', 'NN', '', 'O') ('in', 'IN', '', 'O') ('effect', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O')
+Grow More Shoketsu_Kinzoku_Kogyo_Kabushiki_Co.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I')
+Grow More
+__NEW_SENT__
+('Biagro_W._Sales', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Biagro_W._Sales Inc. Grow More Inc.
+__NEW_SENT__
+('CV-F-00-6105', 'NNS', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('E.D.Cal', '.', '', 'O')
+CV-F-00-6105
+__NEW_SENT__
+('Oct._18,_2001', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Biagro', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('a', 'DT', '', 'O') ('proper', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('should', 'MD', '', 'O') ('permit', 'VB', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chemical', 'NN', '', 'O') ('equivalent', 'NN', '', 'O') ('analysis', 'NN', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('both', 'DT', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O')
+
+__NEW_SENT__
+('Biagro_W._Sales', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Biagro_W._Sales Inc. Grow More Inc.
+__NEW_SENT__
+('CV-F-00-6105', 'NNS', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('E.D.Cal', '.', '', 'O')
+CV-F-00-6105
+__NEW_SENT__
+('Aug._15,_2002', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Biagro_W._Sales', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Biagro_W._Sales Inc. Grow More Inc.
+__NEW_SENT__
+('CV-F-00-6105', 'NNS', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('E.D.Cal', '.', '', 'O')
+CV-F-00-6105
+__NEW_SENT__
+('Apr._9,_2003', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Meanwhile', 'RB', '', 'O') ('the', 'DT', '', 'O') ('Supreme_Court', 'NN', 'GPE', 'B') ('vacated', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O') ('our', 'PRP$', '', 'O') ('decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Festo', 'NNP', 'ORG', 'B') ('I.', 'NNP', 'ORG', 'I') ('Festo_Corp.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Shoketsu_Kinzoku_Kogyo_Kabushiki_Co.', 'XX', 'CARDINAL', 'B') ('535_U.S._722', 'CD', '', 'O') ('122_S.Ct._1831', 'CD', '', 'O') ('152_L.Ed.2d_944_(2002)', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Festo_II', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Supreme_Court Festo I. Festo_Corp. Shoketsu_Kinzoku_Kogyo_Kabushiki_Co. 152_L.Ed.2d_944_(2002)
+__NEW_SENT__
+('Since', 'IN', '', 'O') ('final_judgment', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('yet', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('entered', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('judge', 'NN', '', 'O') ('allowed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('file', 'VB', '', 'O') ('briefs', 'NNS', '', 'O') ('addressing', 'VBG', '', 'O') ('whether', 'IN', '', 'O') ('Biagro', 'NNP', 'ORG', 'B') ('could', 'MD', '', 'O') ('rebut', 'VB', '', 'O') ('the', 'DT', '', 'O') ('new', 'JJ', '', 'O') ("'Festo_presumption", 'NN', '', 'O') ("'", "''", '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('surrendered', 'VBN', '', 'O') ('all', 'DT', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('claim_limitation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('amended', 'VBN', '', 'O') ('claim_limitation', 'NN', '', 'O')
+Biagro
+__NEW_SENT__
+('While', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('considering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('rendered', 'VBD', '', 'O') ('our', 'PRP$', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('en', 'IN', '', 'O') ('banc_decision', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Festo', 'NNP', 'GPE', 'B') ('case', 'NN', '', 'O') ('this', 'DT', '', 'O') ('time', 'NN', '', 'O') ('on', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Supreme_Court', 'NNP', 'GPE', 'B') ('Festo_Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Shoketsu_Kinzoku_Kogyo_Kabushiki_Co.', 'NN', 'CARDINAL', 'B') ('344_F.3d_1359_(Fed.Cir.2003)', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('en', 'IN', '', 'O') ('banc', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Festo_III', 'JJ', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+second Festo Supreme_Court Shoketsu_Kinzoku_Kogyo_Kabushiki_Co.
+__NEW_SENT__
+('Biagro', 'NNP', '', 'O') ('argued', 'VBN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('could', 'MD', '', 'O') ('overcome', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Festo_presumption', 'NN', 'DATE', 'B') ('in', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ways', 'NNS', '', 'O') ('set', 'VBN', '', 'O') ('forth', 'RP', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Supreme_Court', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('Festo_II', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('further', 'RB', '', 'O') ('explained', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('Festo_III', 'NNP', '', 'O')
+Festo_presumption two Supreme_Court Festo_II
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('both', 'DT', '', 'O') ('arguments', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Biagro_W._Sales', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Biagro_W._Sales Inc. Grow More Inc.
+__NEW_SENT__
+('CV-F-00-6105', 'NNS', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('E.D.Cal', '.', '', 'O')
+CV-F-00-6105
+__NEW_SENT__
+('Mar._30,_2004', 'LS', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('therefore', 'RB', '', 'O') ('denied', 'VBD', '', 'O') ('Biagro', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('rebuttal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Festo_presumption', 'NN', '', 'O')
+Biagro
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('stipulated', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('dismissal', 'VB', '', 'O') ('without', 'IN', '', 'O') ('prejudice', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('counterclaim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('unfair_competition', 'NN', '', 'O')
+Grow More 's
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('previously', 'RB', '', 'O') ('deemed', 'VBN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'JJR', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('counterclaim', 'NN', '', 'O') ('for', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('withdrawn', 'VBN', '', 'O') ('without', 'IN', '', 'O') ('prejudice', 'NN', '', 'O')
+Grow More 's
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('there', 'EX', '', 'O') ('were', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('pending', 'VBG', '', 'O') ('unresolved', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('trial_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('final_judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Grow', 'NNP', 'ORG', 'B') ('More', 'RBR', 'ORG', 'I')
+Grow More
+__NEW_SENT__
+('Biagro', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('timely', 'JJ', '', 'O') ('appeal', 'NN', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__

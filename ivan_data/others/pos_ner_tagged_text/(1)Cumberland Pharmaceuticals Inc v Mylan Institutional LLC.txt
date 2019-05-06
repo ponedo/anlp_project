@@ -1,0 +1,141 @@
+('846_F.3d_1213', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('CUMBERLAND', 'NNP', '', 'O') ('PHARMACEUTICALS', 'NNP', '', 'O') ('INC.', 'NN', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O')
+
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('MYLAN', 'NNP', 'ORG', 'B') ('INSTITUTIONAL', 'NNP', 'ORG', 'I') ('LLC', 'NNP', 'ORG', 'I') ('Mylan_Inc.', 'NN', 'ORG', 'I') ('Defendants-Appellants', 'NNS', '', 'O')
+MYLAN INSTITUTIONAL LLC Mylan_Inc.
+__NEW_SENT__
+('2016-1155', 'CD', '', 'O') ('2016-1259', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('January', 'NNP', 'DATE', 'B') ('26', 'CD', 'DATE', 'I') ('2017', 'CD', 'DATE', 'I')
+January 26 2017
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('intravenous', 'JJ', '', 'O') ('treatment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('suspected', 'VBN', '', 'O') ('acetaminophen_overdoses', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('substantially', 'RB', '', 'O') ('free', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('metal', 'NN', '', 'O') ('chelating', 'VBG', '', 'O') ('agents', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('infringement_action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('manufacturer', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('Rebecca', 'NNP', '', 'O') ('R.', 'NNP', '', 'O') ('Pallmeyer', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('construed', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('2014_WL_787812', 'CD', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('following', 'VBG', '', 'O') ('bench_trial', 'JJ', '', 'O') ('ruled', 'VBN', '', 'O') ('patent', 'NN', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('infringed', 'JJ', '', 'O') ('137_F.Supp.3d_1108', 'CD', '', 'O')
+United_States_District_Court Northern_District Illinois 2014_WL_787812
+__NEW_SENT__
+('Defendant', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Taranto', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Taranto Circuit_Judge
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('derivation', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('err', 'VB', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*1214', 'IN', '', 'O') ('Appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('No._1', 'NNP', '', 'O') (':12-cv-03846', 'NN', '', 'O') ('Judge', 'NNP', '', 'O') ('Rebecca', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Pallmeyer', 'NNP', 'PERSON', 'I')
+United_States_District_Court the Northern_District of Illinois Rebecca R. Pallmeyer
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Laura', 'NNP', 'PERSON', 'B') ('Pollard', 'NNP', 'PERSON', 'I') ('Masurovsky', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Laura Pollard Masurovsky Finnegan Henderson Farabow Garrett &
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Danielle', 'NNP', 'PERSON', 'B') ('Andrea', 'NNP', 'PERSON', 'I') ('Duszczyszyn', 'NNP', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Feldstein', 'NNP', 'PERSON', 'I') ('Jason', 'NNP', 'PERSON', 'B') ('Lee', 'NNP', 'PERSON', 'I') ('Romrell', 'NNP', 'PERSON', 'I')
+Danielle Andrea Mark J. Feldstein Jason Lee Romrell
+__NEW_SENT__
+('Nicole', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Stafford', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('Sonsini', 'NNP', '', 'O') ('Goodrich', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Rosati', 'NNP', '', 'O') ('PC', 'NNP', '', 'O') ('Austin', 'NNP', '', 'O') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+Nicole W. Stafford Wilson
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Delafield', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Adam', 'NNP', 'PERSON', 'B') ('William', 'NNP', 'PERSON', 'I') ('Burrowbridge', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') (';', ':', '', 'O') ('Elham', 'NNP', 'PERSON', 'B') ('Firouzi', 'NNP', 'PERSON', 'I') ('Steiner', 'NNP', 'PERSON', 'I') ('San', 'NNP', 'PERSON', 'I') ('Diego', 'NNP', 'PERSON', 'I') ('CA', 'NNP', '', 'O') (';', ':', '', 'O') ('Nancy', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Zhang', 'NNP', 'PERSON', 'I') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O')
+Robert Delafield Adam William Burrowbridge Washington DC Elham Firouzi Steiner San Diego Nancy L. Zhang Palo Alto
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Moore', 'NNP', 'ORG', 'B') ('Reyna', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Taranto', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Moore Reyna
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Taranto', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Cumberland', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('owns', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._8399,445', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('describes', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('compositions', 'NNS', '', 'O') ('substantially', 'RB', '', 'O') ('free', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('chelating', 'VBG', '', 'O') ('agents', 'NNS', '', 'O')
+Cumberland Pharmaceuticals Inc. U.S.
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('listed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('Approved', 'NNP', 'ORG', 'B') ('Drug', 'NNP', 'ORG', 'I') ('Products', 'NNPS', 'ORG', 'I') ('with', 'IN', 'ORG', 'I') ('Therapeutic', 'NNP', 'ORG', 'I') ('Equivalence', 'NNP', 'ORG', 'I') ('Evaluations', 'NNPS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Orange', 'NNP', '', 'O') ('Book', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('as', 'IN', '', 'O') ('covering', 'VBG', '', 'O') ('Cumberland', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('chelating-agent-free', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('AcetadoteTHE_R', 'NNP', 'LOC', 'B') ('an', 'DT', '', 'O') ('intravenous', 'JJ', '', 'O') ('antidote', 'NN', '', 'O') ('for', 'IN', '', 'O') ('overdoses', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('acetaminophen', 'NN', '', 'O')
+the Food and Drug Administration 's Approved Drug Products with Therapeutic Equivalence Evaluations Cumberland AcetadoteTHE_R
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('Mylan_Institutional_LLC', 'DT', '', 'O') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('abbreviated', 'VBN', '', 'O') ('new', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('application', 'NN', '', 'O') ('to', 'TO', '', 'O') ('market', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('chelating-agent-free', 'JJ', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('*1215', '.', '', 'O') ('Cumberland', 'NNP', 'ORG', 'B') ('brought', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('patent-infringement_action', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('against', 'IN', '', 'O') ('Mylan_Institutional_LLC', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Mylan_Inc.', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('hereafter', 'RB', '', 'O') ('``', '``', '', 'O') ('Mylan', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') ('individually', 'RB', '', 'O') ('or', 'CC', '', 'O') ('jointly', 'RB', '', 'O') (')', '-RRB-', '', 'O')
+Cumberland Northern_District Illinois Mylan_Inc. Mylan
+__NEW_SENT__
+('Mylan', 'NN', 'ORG', 'B') ('stipulated', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('but', 'CC', '', 'O') ('asserted', 'VBD', '', 'O') ('invalidity', 'NN', '', 'O') ('on', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('grounds', 'NNS', '', 'O') (':', ':', '', 'O') ('derivation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('from', 'IN', '', 'O') ('someone', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('obviousness', 'JJ', '', 'O')
+Mylan two FDA
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('both', 'DT', '', 'O') ('challenges', 'NNS', '', 'O') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench_trial', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Mylan', 'NNP', 'ORG', 'B') ('proved', 'VBD', '', 'O') ('neither', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('that', 'IN', '', 'O') ('anyone', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ('conceived', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent-named', 'JJ', '', 'O') ('inventor', 'NN', '', 'O') ('nor', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('reasonable', 'JJ', '', 'O') ('expectation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('formulations', 'NNS', '', 'O') ('without', 'IN', '', 'O') ('any', 'DT', '', 'O') ('chelating', 'VBG', '', 'O') ('agents', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('succeed', 'VB', '', 'O')
+Mylan 1 FDA 2
+__NEW_SENT__
+('Cumberland', 'NNP', 'ORG', 'B') ('Pharm.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Mylan_Institutional_LLC', 'CC', '', 'O') ('137_F.Supp.3d_1108', 'CD', '', 'O') ('1121-22', 'CD', 'DATE', 'B') ('1127', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('N.D.', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'DATE', 'B') ('2015', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O')
+Cumberland Pharm. Inc. 1121-22 1127 N.D. Ill. 2015
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('priority', 'NN', '', 'O') ('date', 'NN', '', 'O') ('relevant', 'JJ', '', 'O') ('here', 'RB', '', 'O') ('(', '-LRB-', '', 'O') ('August', 'NNP', 'DATE', 'B') ('24', 'CD', 'DATE', 'I') ('2005', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('antidote', 'NN', '', 'O') ('for', 'IN', '', 'O') ('acetaminophen_overdoses', 'NNS', '', 'O')
+August 24 2005
+__NEW_SENT__
+("'445_patent", 'NN', '', 'O') ('col.', 'FW', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('lines', 'NNS', '', 'O') ('20-34', 'CD', '', 'O')
+1
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('stability_problem', 'NN', '', 'O') (':', ':', '', 'O') ('heavy_metal_ions', 'NNS', '', 'O') ('whether', 'IN', '', 'O') ('inherent', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('formulation', 'NN', '', 'O') ('or', 'CC', '', 'O') ('found', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('contaminants', 'NNS', '', 'O') ('catalyze', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('oxidation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('in', 'IN', '', 'O') ('solution', 'NN', '', 'O') ('causing', 'VBG', '', 'O') ('it', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('degrade', 'VB', '', 'O')
+
+__NEW_SENT__
+('Id.', 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('lines', 'NNS', '', 'O') ('39-40', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('Cumberland', 'NNP', 'ORG', 'B') ('137', 'CD', 'ORG', 'I') ('F.Supp.3d', 'NNP', 'ORG', 'I') ('at', 'IN', '', 'O') ('1112', 'CD', 'DATE', 'B') ('n.2', 'NNS', '', 'O')
+1 39-40 Cumberland 137 F.Supp.3d 1112
+__NEW_SENT__
+('A', 'DT', '', 'O') ('prior-art', 'JJ', '', 'O') ('response', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('stability_problem', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('include', 'VB', '', 'O') ('edetate', 'VB', '', 'O') ('disodium', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('EDTA', 'NN', 'ORG', 'B') ('or', 'CC', '', 'O') ('edetate', 'VB', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('formulation', 'NN', '', 'O')
+EDTA
+__NEW_SENT__
+("'445_patent", 'NN', '', 'O') ('col.', 'FW', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('line', 'NN', '', 'O') ('45', 'CD', 'CARDINAL', 'B') ('through', 'IN', '', 'O') ('col.', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('line', 'NN', '', 'O') ('4', 'CD', 'CARDINAL', 'B')
+1 45 2 4
+__NEW_SENT__
+('EDTA', 'NNP', 'ORG', 'B') ('a', 'DT', '', 'O') ('chelating', 'VBG', '', 'O') ('agent', 'NN', '', 'O') ('surrounds', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('binds', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('heavy_metal_ions', 'NNS', '', 'O') ('preventing', 'VBG', '', 'O') ('them', 'PRP', '', 'O') ('from', 'IN', '', 'O') ('acting', 'VBG', '', 'O') ('as', 'IN', '', 'O') ('catalysts', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('oxidize', 'VBP', '', 'O') ('acetylcysteine', 'NN', '', 'O')
+EDTA
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Such', 'JJ', '', 'O') ('EDTA-containing', 'JJ', '', 'O') ('formulations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('considered', 'VBN', '', 'O') ('safe', 'JJ', '', 'O') ('despite', 'IN', '', 'O') ('potential', 'JJ', '', 'O') ('negative', 'JJ', '', 'O') ('side', 'NN', '', 'O') ('effects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id.', 'NNP', '', 'O') ('col.', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('lines', 'NNS', '', 'O') ('14-27', 'CD', 'CARDINAL', 'B')
+2 14-27
+__NEW_SENT__
+('Cumberland', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ("'445_patent", 'NNP', '', 'O') ('declares', 'VBZ', '', 'O') (':', ':', '', 'O') ('``', '``', '', 'O') ('It', 'PRP', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('surprisingly', 'RB', '', 'O') ('found', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('an', 'DT', '', 'O') ('aqueous', 'JJ', '', 'O') ('composition', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('acetylcysteine', 'NN', '', 'O') ('sterilized', 'VBN', '', 'O') ('water', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('pH-adjusting', 'JJ', '', 'O') ('agent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('stable', 'JJ', '', 'O') ('without', 'IN', '', 'O') ('the', 'DT', '', 'O') ('addition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('chelating', 'VBG', '', 'O') ('agent', 'NN', '', 'O') ("''", "''", '', 'O')
+Cumberland
+__NEW_SENT__
+('Id.', 'NNP', '', 'O') ('col.', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('lines', 'NNS', '', 'O') ('48-50', 'CD', '', 'O')
+2
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('such', 'JJ', '', 'O') ('compositions', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Every', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('requires', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('stable', 'JJ', '', 'O') ("''", "''", '', 'O') ('composition', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('``', '``', '', 'O') ('free', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('chelating', 'VBG', '', 'O') ('agents', 'NNS', '', 'O') ("''", "''", '', 'O') ('id.', 'JJ', '', 'O') ('col.', 'NN', '', 'O') ('9', 'CD', 'CARDINAL', 'B') ('line', 'NN', '', 'O') ('16', 'CD', 'CARDINAL', 'B') ('through', 'IN', '', 'O') ('col.', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B') ('line', 'NN', '', 'O') ('53', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('to', 'TO', '', 'O') ('mean', 'VB', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('l', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('acking', 'VBG', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('or', 'CC', '', 'O') ('more', 'RBR', '', 'O') ('chelating', 'VBG', '', 'O') ('agents', 'NNS', '', 'O') ("''", "''", '', 'O') ('Cumberland', 'NNP', 'ORG', 'B') ('137', 'CD', 'ORG', 'I') ('F.Supp.3d', 'NNP', 'ORG', 'I') ('at', 'IN', '', 'O') ('1112', 'CD', 'DATE', 'B')
+9 16 10 53 one Cumberland 137 F.Supp.3d 1112
+__NEW_SENT__

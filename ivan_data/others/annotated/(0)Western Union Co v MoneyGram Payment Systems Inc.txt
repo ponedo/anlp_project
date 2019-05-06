@@ -1,0 +1,73 @@
+626_F.3d_1361
+United States Court of Appeals Federal Circuit
+The WESTERN UNION COMPANY Plaintiff-Appellee v. MONEYGRAM PAYMENT SYSTEMS INC. Defendant-Appellant
+Nos._2010-1080 2010-1210
+| Dec._7,_2010
+| Rehearing and Rehearing En Banc Denied Feb._8,_2011
+* Synopsis
+Background : Money transfer service company filed action against competitor alleging infringement of its patents directed to system for performing money_transfers
+The United_States_District_Court for the Western_District of Texas Sam Sparks J. entered judgment on jury verdict in patentee 's favor and denied competitor 's motion for judgment as matter of law
+Competitor appealed
+
+Holdings : The Court of Appeals Lourie Circuit_Judge held that :
+
+competitor did not waive obviousness claim ;
+
+patent claims were obvious ; and
+
+evidence of secondary considerations was irrelevant
+
+Reversed
+
+Attorneys and Law Firms
+*1362 David E. Sipiora Townsend and Townsend and Crew LLP of Denver CO argued for plaintiff-appellee
+With him on the brief were Ian L. Saffer Amanda L. Swaim and Kevin M. Bell
+William F. Lee Wilmer Cutler Pickering Hale and Dorr LLP of Boston MA argued for defendant-appellant
+With him on the brief were Joseph J. Mueller Megan Barbero and Sydenham B. Alexander III ; and William G. McElwain of Washington DC
+Of counsel on the brief were Martin R. Lueck and Emmett J. McMahon Robins Kaplan Miller & Ciresi LLP of Minneapolis MN
+Before RADER Chief Judge and LOURIE and PROST Circuit_Judges
+Opinion
+LOURIE Circuit_Judge
+MoneyGram Payment Systems Inc. ( `` MoneyGram '' ) appeals from the final judgment of the United_States_District_Court for the Western_District of Texas in favor of the Western_Union Company ( `` Western_Union '' )
+A jury found infringement of certain claims of U.S
+Patents 6,488,203 ( the `` ¡¬203_patent `` ) ; 6,502,747 ( the `` ¡¬747_patent `` ) ; 6,761,309 ( the `` ¡¬309_patent `` ) ; and 7,070,094 ( the `` ¡¬094_patent `` ) and found those patents not invalid for obviousness
+The district court denied MoneyGram 's renewed motion for judgment as a matter of law ( `` JMOL '' ) on infringement and invalidity of the asserted patents
+Western_Union Co. v. MoneyGram Int ' l Inc. No._1 :07-cv00372 Dkt
+No._429 ( W.D.Tex
+Nov._17,_2009 ) ( `` JMOL Opinion `` )
+Because we find that the asserted claims in the patents in suit would have been obvious to a person of ordinary skill in the art at the time of filing we reverse
+
+BACKGROUND
+Western_Union owns the ¡¬203 ¡¬747 ¡¬309 and ¡¬094_patent s directed to a system for performing money_transfers
+The ¡¬203 ¡¬747 and ¡¬309_patent s ( collectively the `` send patents '' ) specifically relate to methods of sending money through a financial_services_institution ( `` FSI '' )
+The ¡¬094_patent claims methods for receiving transferred money
+The patented_system relates to money_transfer services such as those offered by Western_Union through retail_locations where a customer may identify a recipient and tender an amount to be delivered to the recipient
+The money_transfer service collects the amount from the retail_location and completes the transaction for the customer
+Some of the traditional money_transfer systems required money senders to fill out forms with transaction information such as recipient information and the amount of money to be transferred
+The ¡¬203_patent claims a method of performing a formless money_transfer using an electronic_transaction_fulfillment_device ( `` ETFD '' )
+Figure 1 from the ¡¬203_patent depicts an embodiment of the patented_system
+
+*1363. ?
+Figure 1 of the ¡¬203_patent
+In the patented_system a customer has telephone access to the customer service representative ( `` CSR '' ) at the financial institution who obtains details of the transfer and `` stages '' the money_transfer for the customer storing the transaction_details on a host computer ( 18 )
+The customer is later able to complete the transaction at a retail_location where an agent is able to retrieve the transaction from the computer ( 18 ) through an ETFD ( 22 ) and accept the required amount of money from the customer
+Claim 1 is representative of the patented_invention : 1
+A method of performing a money_transfer send_transaction the method_comprising : providing a sender direct access to an employee of a financial_services_institution in order to receive transaction_details from the sender ; storing on a data_base the transaction_details provided by the sender wherein the transaction_details include a desired amount of money to be sent by the sender to a recipient ; establishing a code that corresponds to the transaction_details stored on the data_base wherein the code is established for use by the sender during the send_transaction ; storing the code on the data_base such that the code is useable to identify the send_transaction on the data_base ; entering the code into an electronic_transaction_fulfillment_device in communication with the data_base to retrieve the transaction_details from the *1364 data_base after the step of storing the code on the data_base ; and
+determining a collect_amount to be collected from the sender based on the transaction_details ; wherein the code is not provided by or to the recipient for use by the recipient during the send_transaction
+¡¬203_patent claim 1 ( emphases added )
+
+Claim 12 is dependent on claim 1 and adds the limitation that an employee of the money_transfer business provides the transaction identifying code
+Claim 16 which is also dependent on claim 1 adds the limitation of collecting the money from the sender notifying the database of the collection and recording the transaction as complete
+The ¡¬203_patent was filed on October 26 1999 and issued on December 3 2002
+The ¡¬747_patent also filed in 1999 and the ¡¬309_patent filed in 2004 are both continuations of the ¡¬203_patent
+The ¡¬309_patent claims are similar and substantially identical in scope to the ¡¬203_patent claims
+The ¡¬747_patent primarily adds the use of internet-based communications using an internet communications protocol ( `` the TCP/IP protocol '' ) to the money_transfer system and claims the use of a `` first_computer '' instead of `` the data_base '' used in the ¡¬203_patent
+Claim 20 is illustrative : 20
+A method of performing a money_transfer send_transaction through a financial_services_institution the method_comprising : receiving transaction_details on a first_computer of the financial_services_institution wherein the transaction_details are provided by a sender and include a desired amount of money to be sent by the sender to a recipient ; storing the transaction_details on the first_computer ; establishing a code that corresponds to the transaction_details wherein the code is established for use by the sender during the send_transaction ; storing the code on the first_computer such that the code is useable to identify the send_transaction ; receiving the code at the first_computer from an electronic_transaction_fulfillment_device in communication with the first_computer after the step of storing the code on the first_computer ; validating the code received from the transaction_fulfillment_device by comparing the code received from the transaction_fulfillment_device with the code stored on the first_computer ; and
+transmitting a collect_amount to be collected from the sender from the first_computer to the transaction_fulfillment_device if the code received from the transaction_fulfillment_device is valid ; wherein at least a portion of the method is performed using TCP/IP and wherein the code is not provided by or to the recipient for use by the recipient during the send_transaction
+¡¬747_patent claim 20 ( emphases added )
+During prosecution of the ¡¬747 and ¡¬309_patent s the inventors filed a terminal disclaimer limiting the terms of those patents to that of the ¡¬203_patent in response to double patenting rejections by the USPTO
+
+Like the patented_invention a prior art system owned by Orlandi_Valuta another money_transfer service company also employed technology that did not require customers to fill out forms to transfer money
+Below is a figure from Orlandi_Valuta 's literature on its `` Red Phone '' system :
+

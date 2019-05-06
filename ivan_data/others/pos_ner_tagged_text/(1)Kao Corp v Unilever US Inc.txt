@@ -1,0 +1,120 @@
+('441_F.3d_963', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('KAO', 'NNP', 'ORG', 'B') ('CORPORATION', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('THE', 'DT', 'ORG', 'B') ('ANDREW', 'NNP', 'ORG', 'I') ('JERGENS', 'VBD', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('Plaintiffs-Cross', 'NNP', '', 'O') ('Appellants', 'NNPS', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('UNILEVER', 'NNP', 'ORG', 'B') ('UNITED', 'NNP', 'ORG', 'I') ('STATES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('CONOPCO', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+KAO CORPORATION THE ANDREW JERGENS COMPANY Appellants UNILEVER UNITED STATES INC.
+__NEW_SENT__
+('Nos._05-1038', 'NN', '', 'O') ('05-1049', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('March_21,_2006', 'NNP', 'ORG', 'B')
+March_21,_2006
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('May_31,_2006', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owners', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('composition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('unclogging', 'VBG', '', 'O') ('skin', 'NN', '', 'O') ('pores', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('Sue', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', 'PERSON', 'I') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('334_F.Supp.2d_527', 'VBZ', '', 'O') ('found', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+The United States District Court the District of Delaware Sue L. Robinson
+__NEW_SENT__
+('Parties', 'NNS', '', 'O') ('cross-appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('satisfied', 'VBD', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('requirement', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('no', 'DT', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('discretion', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('literally', 'RB', '', 'O') ('infringed', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('Finding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('exceptional', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warrant', 'VB', '', 'O') ('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney', 'NN', '', 'O') ('fees', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('concurred', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('dissented', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Mayer', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('concurred', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('dissented', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*965', 'NNP', '', 'O') ('Arthur', 'NNP', 'ORG', 'B') ('I.', 'NNP', 'ORG', 'I') ('Neustadt', 'NNP', 'ORG', 'I') ('Oblon', 'NNP', 'ORG', 'I') ('Spivak', 'NNP', 'ORG', 'I') ('McClelland', 'NNP', '', 'O') ('Maier', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Neustadt', 'NNP', '', 'O') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Alexandria', 'NNP', 'ORG', 'B') ('Virginia', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-cross', 'JJ', '', 'O') ('appellants', 'NNS', '', 'O')
+Arthur I. Neustadt Oblon Spivak P.C. Alexandria Virginia
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Stephen', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Baxter', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Chinn', 'NNP', 'PERSON', 'I')
+Stephen G. Baxter Richard L. Chinn
+__NEW_SENT__
+('George', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Pappas', 'NNP', 'PERSON', 'I') ('Covington', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Burling', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+George F. Pappas Covington & Burling Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Collins', 'NNP', 'PERSON', 'I')
+Kevin B. Collins
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Scott', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Weidenfeller', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Roderick', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('McKelvie', 'NNP', 'PERSON', 'I')
+Scott C. Weidenfeller Roderick R. McKelvie
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('MAYER', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN MAYER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'CARDINAL', 'B') ('GAJARSA', 'NNP', '', 'O')
+Court Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'CARDINAL', 'B') ('NEWMAN', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', '', 'O') ('MAYER', 'NNP', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Defendants-Appellants', 'NNS', 'ORG', 'B') ('Unilever', 'NNP', 'ORG', 'I') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Conopco', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Unilever', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Plaintiffs-Cross', 'NNP', '', 'O') ('Appellants', 'NNPS', 'ORG', 'B') ('Kao', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('The', 'DT', 'ORG', 'B') ('Andrew', 'NNP', 'ORG', 'I') ('Jergens', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Kao', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('ruling', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Kao', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('No._6306,382', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ("'382_Patent", "''", '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('enforceable', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Unilever', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O')
+Defendants-Appellants Unilever United States Inc. Conopco Inc. Unilever Appellants Kao Corporation The Andrew Jergens Company Kao the U.S. District Court the District of Delaware Kao U.S. Patent No._6306,382 Unilever
+__NEW_SENT__
+('Kao', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Unilever', 'NNP', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('334_F.Supp.2d_527', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('D.Del.2004', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Kao Corp. Unilever U.S. Inc.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('exercised', 'VBD', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'CD', '', 'O') ('1338', 'CD', 'DATE', 'B')
+28 1338
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__
+('For', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('set', 'VBN', '', 'O') ('forth', 'RP', '', 'O') ('below', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('rights', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('cosmetic', 'JJ', '', 'O') ('skin-care', 'JJ', '', 'O') ('product', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('``', '``', '', 'O') ('keratotic', 'JJ', '', 'O') ('plugs', 'NNS', '', 'O') ("''", "''", '', 'O') ('-commonly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('blackheads-from', 'JJ', '', 'O') ('facial', 'JJ', '', 'O') ('skin', 'NN', '', 'O')
+
+__NEW_SENT__
+('Kao', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('keratotic', 'JJ', '', 'O') ('plug', 'NN', '', 'O') ('removing', 'VBG', '', 'O') ('product', 'NN', '', 'O') ('and', 'CC', '', 'O') ('holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O')
+Kao
+__NEW_SENT__
+('Unilever', 'NNP', 'ORG', 'B') ('produces', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('allegedly', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') ('product', 'NN', '', 'O') ('Pond', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('Clear', 'NNP', 'ORG', 'B') ('Pore', 'NNP', 'ORG', 'I') ('Strips', 'NNS', 'ORG', 'I')
+Unilever Pond Clear Pore Strips
+__NEW_SENT__

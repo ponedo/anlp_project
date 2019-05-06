@@ -1,0 +1,120 @@
+('903_F.2d_789', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('SHAMROCK', 'NNP', 'ORG', 'B') ('TECHNOLOGIES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('MEDICAL', 'NNP', '', 'O') ('STERILIZATION', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Robert_S._Luniewski', 'NN', 'PERSON', 'B') ('Defendants-Appellants', 'NNS', '', 'O')
+SHAMROCK TECHNOLOGIES INC. Robert_S._Luniewski
+__NEW_SENT__
+('No._89-1711', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('May_4,_1990', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('apparatus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('processing_polytetrafluoroethylene', 'NN', '', 'O') ('with', 'IN', '', 'O') ('radiation', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('former_employee-inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('former_employee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('current_employer', 'NN', '', 'O') ('alleging', 'NN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('current_employer', 'NN', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NNP', '', 'O') ('Jacob', 'NNP', 'PERSON', 'B') ('Mishler', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('applied', 'VBD', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('assignor_estoppel', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBN', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('partial', 'JJ', '', 'O') ('summary_judgment', 'NN', '', 'O')
+United_States_District_Court Jacob Mishler J.
+__NEW_SENT__
+('Appeal', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('taken', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Markey', 'NNP', 'ORG', 'I') ('Chief_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('radiation_processing', 'VBG', '', 'O') ('used', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('current_employer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('assignor_estoppel', 'NN', '', 'O') ('applied', 'VBD', '', 'O')
+The Court of Appeals Markey Chief_Judge 1 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*790', 'NNP', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Clark', 'NNP', 'PERSON', 'I') ('Brumbaugh', 'NNP', '', 'O') ('Graves', 'NNP', '', 'O') ('Donohue', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Raymond', 'NNP', '', 'O') ('New_York_City', 'NN', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Richard S. Clark
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Maune', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Marina', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Larson', 'NNP', 'PERSON', 'I')
+James J. Maune Marina T. Larson
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('Kurucz', 'NNP', 'PERSON', 'I') ('Kane', 'NNP', '', 'O') ('Dalsimer', 'NNP', '', 'O') ('Sullivan', 'NNP', 'ORG', 'B') ('Kurucz', 'NNP', 'ORG', 'I') ('Levy', 'NNP', 'ORG', 'I') ('Eisele', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Richard', 'NNP', 'ORG', 'I') ('New_York_City', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+John Kurucz Sullivan Kurucz Levy Eisele & Richard
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Dippert', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I')
+William H. Dippert Ronald E. Brown
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MARKEY', 'JJ', 'ORG', 'B') ('Chief_Judge', 'NN', 'ORG', 'I') ('and', 'CC', '', 'O') ('RICH', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('PLAGER', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judges', 'NNPS', 'ORG', 'I')
+MARKEY Chief_Judge RICH PLAGER Circuit Judges
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MARKEY', 'JJ', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Medical', 'NNP', 'ORG', 'B') ('Sterilization', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('MSI', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Robert_S._Luniewski', 'NN', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('Luniewski', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('Mishler', 'NNP', 'PERSON', 'B') ('J', 'NNP', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Medical Sterilization Inc. Robert_S._Luniewski Luniewski Mishler J
+__NEW_SENT__
+('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('New_York', 'NN', '', 'O') ('No', 'UH', '', 'O')
+
+__NEW_SENT__
+('CV', 'NNP', '', 'O') ('88-1681', 'CD', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Luniewski', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('employed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B') ('Technologies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B') (')', '-RRB-', 'ORG', 'I') ('between', 'IN', '', 'O') ('May', 'NNP', 'DATE', 'B') ('1980', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('July', 'NNP', 'DATE', 'B') ('1983', 'CD', 'DATE', 'I')
+Luniewski Shamrock Technologies Inc. Shamrock ) May 1980 July 1983
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('condition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('employment', 'NN', '', 'O') ('he', 'PRP', '', 'O') ('agreed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('assign', 'VB', '', 'O') ('his', 'PRP$', '', 'O') ('work-related', 'JJ', '', 'O') ('inventions', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B')
+Shamrock
+__NEW_SENT__
+('Luniewski', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('Neuberg', 'NNP', 'PERSON', 'I') ('jointly', 'RB', '', 'O') ('invented', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('apparatus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('processing_polytetrafluoroethylene', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('PTFE', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('radiation', 'NN', '', 'O')
+Luniewski William Neuberg
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_26,_1982', 'NNP', 'PERSON', 'B') ('Luniewski', 'NNP', 'PERSON', 'I') ('assigned', 'VBD', '', 'O') ('his', 'PRP$', '', 'O') ('rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventions', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B')
+March_26,_1982 Luniewski Shamrock
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('May_3,_1982', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('July_22,_1983', 'NNP', '', 'O')
+May_3,_1982
+__NEW_SENT__
+('Having', 'VBG', '', 'O') ('signed', 'VBN', '', 'O') ('declarations', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('filed', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('Luniewski', 'NNP', 'ORG', 'B') ('left', 'VBD', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('July', 'NNP', 'DATE', 'B') ('1983', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('joined', 'VBD', '', 'O') ('MSI', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('Vice', 'NNP', '', 'O') ('President', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('charge', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Operations', 'NNS', 'ORG', 'B')
+Luniewski Shamrock July 1983 Operations
+__NEW_SENT__
+('Thereafter', 'NNP', '', 'O') ('MSI', 'NNP', 'ORG', 'B') ('began', 'VBD', '', 'O') ('radiation_processing', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('PTFE', 'NNP', 'ORG', 'B') (';', ':', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('by', 'IN', '', 'O') ('an', 'DT', '', 'O') ('``', '``', '', 'O') ('original', 'JJ', '', 'O') ('process', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('after', 'IN', '', 'O') ('this', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('commenced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('current', 'JJ', '', 'O') ('process', 'NN', '', 'O') ("''1", 'NN', '', 'O')
+MSI PTFE first
+__NEW_SENT__
+('On', 'IN', '', 'O') ('May_31,_1988', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('October', 'NNP', 'DATE', 'B') ('11', 'CD', 'DATE', 'I') ('1988', 'CD', 'DATE', 'I') ('respectively', 'RB', '', 'O') ('the', 'DT', '', 'O') ('applications', 'NNS', '', 'O') ('issued', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NN', 'ORG', 'I') ('Nos._4748,005', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ("'005", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('apparatus', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('4,777,192', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'192", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('method', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+October 11 1988 United States Patent 4,777,192
+__NEW_SENT__
+('On', 'IN', '', 'O') ('May_31,_1988', 'NNP', '', 'O') ('Shamrock', 'NNP', '', 'O') ('sued', 'VBD', '', 'O') ('MSI', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Luniewski', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ("'005_patent", 'NN', '', 'O')
+MSI Luniewski
+__NEW_SENT__
+('MSI', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Luniewski', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+Luniewski
+__NEW_SENT__
+('In', 'IN', '', 'O') ('an', 'DT', 'DATE', 'B') ('October', 'NNP', 'DATE', 'I') ('13', 'CD', 'DATE', 'I') ('1988', 'CD', 'DATE', 'I') ('``', '``', 'WORK_OF_ART', 'B') ('Memorandum', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Decision', 'NNP', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Order', 'NN', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('applied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('doctrine', 'NN', '', 'O') ('of', 'IN', '', 'O') ('assignor_estoppel', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBD', '', 'O') ('Shamrock', 'NNP', 'ORG', 'B') ("'s", 'POS', 'ORG', 'I') ('partial', 'JJ', '', 'O') ('summary_judgment', 'NN', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('strike', 'VB', '', 'O') ('affirmative_defenses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('to', 'TO', '', 'O') ('dismiss', 'VB', '', 'O') ('the', 'DT', '', 'O') ('counterclaim', 'NN', '', 'O')
+an October 13 1988 `` Memorandum of Decision and Order '' Shamrock 's
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('assignment', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('fraudulently', 'RB', '', 'O') ('obtained', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('privity', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('lacking', 'VBG', '', 'O') ('between', 'IN', '', 'O') ('Luniewski', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('MSI.2', 'NNP', '', 'O')
+Luniewski
+__NEW_SENT__
+('On', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('18', 'CD', 'DATE', 'I') ('1988', 'CD', 'DATE', 'I') ('Shamrock', 'NNP', 'ORG', 'B') ('amended', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('complaint', 'NN', '', 'O') ('asserting', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O')
+November 18 1988 Shamrock
+__NEW_SENT__
+('In', 'IN', '', 'O') ('an', 'DT', 'DATE', 'B') ('August', 'NNP', 'DATE', 'I') ('8', 'CD', 'DATE', 'I') ('1989', 'CD', 'DATE', 'I') ('``', '``', 'WORK_OF_ART', 'B') ('Memorandum', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Decision', 'NNP', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Order', 'NN', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('request', 'NN', '', 'O') ('to', 'TO', '', 'O') ('withdraw', 'VB', '', 'O') ('the', 'DT', '', 'O') ('October', 'NNP', 'DATE', 'B') ('13', 'CD', 'DATE', 'I') ('1988', 'CD', 'DATE', 'I') ('order', 'NN', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('affirmative_defenses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('counterclaim', 'NN', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O') ('were', 'VBD', '', 'O') ('barred', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('assignor_estoppel', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('defense', 'NN', '', 'O') ('of', 'IN', '', 'O') ('unenforceability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('both', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('barred', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('assignor_estoppel', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('original', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('current', 'JJ', '', 'O') ('processes', 'NNS', '', 'O') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+an August 8 1989 `` Memorandum of Decision and Order '' October 13 1988 1 2 3
+__NEW_SENT__
+('On', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('24', 'CD', 'DATE', 'I') ('1989', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('Final', 'JJ', '', 'O') ('Partial', 'NNP', '', 'O') ('Judgment', 'NNP', '', 'O') ("''", "''", '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Rule', 'NNP', 'LAW', 'B') ('54', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('Fed.R.Civ.P.,3', 'CC', '', 'O') ('holding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('enforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('infringed', 'VBD', '', 'O') ('*791', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('enjoining', 'VBG', '', 'O') ('MSI', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Luniewski', 'NNP', 'PERSON', 'B') ('from', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('infringement', 'NN', '', 'O')
+August 24 1989 Rule 54 MSI Luniewski
+__NEW_SENT__

@@ -1,0 +1,94 @@
+487_F.3d_897
+United States Court of Appeals Federal Circuit
+McKESSON INFORMATION SOLUTIONS INC. Plaintiff-Appellant v. BRIDGE MEDICAL INC. Defendant-Appellee
+No._2006-1517
+| May_18,_2007
+| Rehearing En Banc Denied July_10,_2007
+Synopsis
+Background : Patentee sued competitor for infringement of patent related to patient_identification_system
+The United_States_District_Court for the Eastern_District of California Frank C. Damrell Jr. J. 2006_WL_1652518 dismissed action finding patent unenforceable due to inequitable_conduct
+Patentee appealed
+
+Holdings : The Court of Appeals Clevenger Senior_Circuit_Judge held that :
+
+prior_art that applicant failed to disclose was not merely cumulative to prior_art which was before examiner ;
+
+overwhelming circumstantial evidence coupled with lack of any credible_explanation for nondisclosure of prior_art supported finding that patentee had deceptive_intent ;
+
+prior rejection of three-node communication claim would have been considered important by any reasonable examiner reviewing application ;
+
+patentee intended to deceive Patent and Trademark_Office ( PTO ) by not disclosing to examiner adverse decisions by another examiner in a closely-related application ;
+
+allowance of claims to a three-node communication system was material to application and should have been disclosed to examiner ; and
+
+district_court 's holding patent unenforceable was not abuse of discretion
+
+Affirmed
+
+Newman Circuit_Judge filed a dissenting opinion
+
+Attorneys and Law Firms
+*901 Daniel Johnson Jr. Morgan Lewis & Bockius LLP of San_Francisco California argued for plaintiff-appellant
+With him on the brief was Mark K. Dickson Winston & Strawn LLP of San_Francisco California
+Of counsel on the brief was Marcus T. Hall
+Jose L. Patino Morrison & Foerster LLP of San Diego California argued for defendant-appellee
+With him on the brief were Eric M. Acker and Katherine L. Parker
+Before NEWMAN Circuit_Judge CLEVENGER Senior_Circuit_Judge and BRYSON Circuit_Judge
+Opinion
+Opinion for the court filed by Circuit_Judge CLEVENGER
+Dissenting opinion filed by Circuit_Judge NEWMAN
+CLEVENGER Senior_Circuit_Judge
+Plaintiff McKesson Information Solutions Inc. ( `` McKesson '' ) appeals the final decision of the United_States_District_Court for the Eastern_District of California dismissing McKesson 's infringement suit against defendant Bridge Medical Inc. ( `` Bridge '' ) after the court found the only patent at issue U.S. Patent No._4857,716 ( `` the ¡¬716_patent `` ) unenforceable due to inequitable_conduct
+
+As set forth in considerable detail below this case involves McKesson 's nondisclosure of three items of information during prosecution of the ¡¬716_patent in a setting where the applicant had co-pending applications
+The district_court found each of the three nondisclosures individually and collectively material to prosecution of the application that led to the ¡¬716_patent
+With regard to deceptive_intent regarding each nondisclosure the district_court found circumstantial evidence strongly supports an inference of deceptive_intent
+After assessing all the facts the district_court held that McKesson failed to provide a credible_explanation for the material nondisclosures
+As the district_court noted this was not a case of mistake or negligence-the prosecuting attorney testified that he would make all the same nondisclosure decisions again if prosecuting the same applications today
+
+The district_court 's thorough written opinion documents the court 's correct understanding and application of the relevant *902 precedent
+The issues of materiality and intent are fact-driven
+With regard to the issue of intent the law recognizes that deceptive_intent is virtually never shown or disproved by direct evidence
+Instead the ultimate fact finding on the issue depends on assessment of all the inferences favorable and unfavorable that can be drawn from pertinent evidence
+To prevail on appeal McKesson must demonstrate that the district_court 's findings of fact are clearly erroneous
+After careful review of the record we conclude that McKesson has not met its burden and we therefore affirm
+
+I
+A
+The ¡¬716_patent provides `` a patient_identification_system for relating items with patients and ensuring that an identified item corresponds to an identified patient ''
+¡¬716_patent at [ 57 ]
+This is accomplished first by providing a set of bar_codes associated with a given patient such that one bar_code from the set is physically attached to the patient and the other bar_codes from the set are physically attached to for example the patient 's medications ; and second by providing a portable handheld bar_code reader ( or patient_terminal ) wirelessly connected to a base_station unit ( typically located in the patient 's room ) that communicates via modem with a system_computer capable of `` processing and storing patient_data ''
+Id
+col.30 l.23-col.31 l.17
+Thus among the handheld_patient_terminal the base_station and the system_computer the ¡¬716_patent teaches a `` three node_approach to communications ''
+J.A.at 366
+Moreover because the handheld_patient_terminals are portable it is desirable to prevent one such terminal from wirelessly communicating with a base_station in say an adjacent room
+The base_stations of the ¡¬716_patent therefore include `` a programmable unique identifier '' that `` only allow [ s ] communication with a portable_handheld_patient_terminal.. having a corresponding program identifier ''
+¡¬716_patent col.31 ll.2-7
+
+The only_independent_claim of the ¡¬716_patent incorporates both of these features-i.e. three-node communications and a programmable unique identifier-as limitations
+Claim 1 thus provides : 1
+A patient identification and verification system comprising : ( a ) programmed system_computer means for processing and storing patient_data ; ( b ) input_means operatively interconnected to the programmed system_computer means for input of data to the programmed system_computer means ; ( c ) output means operatively interconnected to the programmed system_computer means for output of data from the programmed system_computer means ; ( d ) first bar_code identifier means adapted for attachment to a patient for identification of the patient the bar_code identifier means including a patient unique code ; ( e ) a plurality of second_bar_code_identifier_means for identifying patient care related items such as medication etc
+; ( f ) the input_means and output means including : ( i ) microprocessor controlled portable_handheld_patient_terminal means having bar_code reader means for scanning the first bar_code identifier means to identify the patient and for scanning the second_bar_code_identifier_means for relating various items to a specific patient the portable_handheld_patient_terminal means further including keyboard means for data entry and display means for display of information the portable *903 handheld_patient_terminal means including electromagnetic_wave_transceiver_means including means for transmission of patient and item_data as an electromagnetic_wave which is representative of the first and second_bar_code_identifier_means scanned by the bar_code reader means and including means for receipt of data as an electromagnetic_wave ; ( ii ) microprocessor controlled base_station means including electromagnetic_wave_transceiver_means for receipt of and transmission of the patient and item_data as an electromagnetic_wave to the electromagnetic_wave_transceiver_means of the portable_handheld_patient_terminal means the base_station means being interconnected to the programmed system_computer means at least in part by electrical_lines for receipt and transmission of the patient and item_data on the electrical_lines to the programmed system_computer means the base_station means includes a programmable unique identifier the base_station means including means for only allowing communication with a portable handheld patent [ sic ] terminal means having a corresponding program identifier the patient system including means for programming the portable_handheld_patient_terminal means with the corresponding identifier [ `` programmable unique identifier '' limitation ] ; and
+( iii ) the programmed system_computer means including program means for verifying the patient and item_data properly correspond and transmitting an alarm signal if improper correspondence noted
+Id
+col.30 l.23-col.31 l.17 ( emphasis added )
+
+On October 6 1987 claim 1 was submitted in substantially this form-except that the `` programmable unique identifier '' limitation was separated as a limitation in dependent_claim 6-as part of parent Application No._06 /862,278 ( `` the ¡¬278_application '' ) ( subsequently abandoned ) in response to an April_6,_1987 rejection by Examiner David Trafton of the United States Patent and Trademark_Office ( `` PTO '' )
+Accompanying this submission were the remarks of prosecuting attorney Michael Schumann : None of the references either singularly or in combination teach or suggest the claimed invention
+In addition to numerous other differences none of the references teach the three node_approach to communications as provided in the claimed invention
+In the present_invention the first node of communication is a main or central computer which may have its own terminals for entry/display of information
+The second node of communication are [ sic ] the base_stations which are wired to the main_computer
+The base_stations are preferably located in the various patient rooms and other suitable locations
+The third node of communication in the present_invention is the portable_handheld_patient_terminal which cooperates with the base_stations to provide for wireless_transmission of data between the base_station and the patient_terminal
+This approach provides a system which allows for maximum portability of the patient_terminals and yet allows access to the main_computer in an inexpensive manner by use of the base_stations which provide wired communication to the main_computer
+Many of the references such as Koenig do disclose the use of wireless_transmission which has long been in use and many of the systems do disclose the use of bar_code readers to scan bar_codes to see if they correspond
+However none of the references disclose the real time interactive three node *904 communication system of the present_invention as claimed
+J.A.at 366-67 ( emphasis added )
+
+In a December 8 1987 office action Examiner_Trafton maintained his rejection of amended claim 1 albeit based upon a different combination of prior_art references patents to Blum and Pejas
+However Examiner_Trafton also explained that dependent_claim 6 would be allowable if rewritten in independent form
+J.A.at 371
+Schumann accepted this offer on June_8,_1988 by abandoning the ¡¬278_application and filing a continuation application ( Application No._07 /205,527 ) with the only_independent_claim rewritten in the manner suggested by Examiner_Trafton
+The claims in their current form were allowed on February 27 1989 and the ¡¬716_patent issued on August 15 1989
+

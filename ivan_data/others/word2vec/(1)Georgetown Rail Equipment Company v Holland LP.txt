@@ -1,0 +1,614 @@
+867_f.3d_1229
+united states court of appeals federal circuit
+georgetown rail equipment company plaintiff-appellee
+v. holland l.p. defendant-appellant
+2016-2297
+| decided august 1 2017
+synopsis
+background owner of patent related to a system and method for inspecting railroad_tracks with the use of digital_technology brought infringement action
+following claim_construction 2014_wl_11498109 and jury_trial the united_states_district_court for the eastern_district of texas no._613-cv-00366-rws robert schroeder iii j. entered finding of infringement and 2016_wl_3346084 denied competitors renewed motion for judgment as a matter of law jmol of noninfringement and awarded enhanced_damages based on finding of willful_infringement
+competitor appealed
+
+holdings the court of appeals wallach circuit_judge held that
+
+competitor infringed patent ;
+
+substantial_evidence supported award of lost profits ;
+
+substantial_evidence supported finding that subjective_recklessness led to willful_infringement of patent ; and
+
+it was within district_courts discretion to award enhanced_damages
+
+affirmed
+
+*1233 appeal from the united_states_district_court for the eastern_district of texas in no._613-cv-00366-rws judge robert schroeder iii
+attorneys and law firms
+dana m. herberholz parsons behle & latimer boise id argued for plaintiff-appellee
+also represented by christopher cuneo jamie k. ellsworth ; c. kevin speirs salt lake city ut
+daniel j. schwartz faegre baker daniels llp chicago il argued for defendant-appellant
+also represented by kathryn ann feiereisel ; lauren j. frank timothy e. grimsrud minneapolis mn
+before reyna schall and wallach circuit_judges
+opinion
+wallach circuit_judge
+following a claim_construction ruling adverse to appellant holland_l.p.` holland' a jury in the u.s._district_court for the eastern_district of texas` district_court' found that holland infringed appellee georgetown rail equipment companys` georgetown' u.s._patent 7,616,329` the329_patent` and awarded georgetown lost profits
+the district_court later approved an additional award of enhanced_damages based on a finding of willful_infringement
+holland appeals the district_courts conclusions as to claim_construction willful_infringement and enhanced_damages as well as its decision to deny hollands renewed motion for judgment as a matter of law` jmol' of noninfringement
+see georgetown rail equip co. v. holland_l.p. georgetown_rail_ii no._613-cv-366 2016_wl_3346084 at *1 e.d
+tex
+june_16,_2016 denying jmol and granting motions for finding of willful infringement and enhanced_damages ; georgetown rail equip co. v. holland_l.p. georgetown_rail_i no._613-cv-366-jdl 2014_wl_11498109 at *1 e.d
+tex
+nov._13,_2014 claim construction order ; j.a
+162-63 final_judgment
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1 2012
+we affirm
+
+background
+i
+the patented technology
+the329_patent generally relates to a` system and method for inspecting railroad_tracks' with the use of digital_technology
+'329_patent abstract
+specifically it discloses a system for inspecting tie_plates which are steel plates that connect the steel rail tracks to wooden_ties
+id
+col. 2_ll._19 -31 ; j.a
+928
+tie plates can sink or cut into the wooden_ties and disrupt railroad service
+'329_patent abstract
+the329_patent purportedly improves the *1234 prior_art by automating the examination of misaligned tie_plates a process that was historically performed manually with certain software systems
+see id
+col. 1_l._39 -col. 2_l._6_(describing_the_prior_art)
+
+claim 16 the only asserted claim recites a system for inspecting a railroad_track_bed including the railroad_track to be mounted on a vehicle for movement along the railroad_track the system comprising at least one light_generator positioned adjacent the railroad_track for projecting a beam of light across the railroad_track_bed ; at least one optical_receiver positioned adjacent the railroad_track for receiving at least a portion of the light reflected from the railroad_track_bed and generating a plurality of images representative of the profile of at least a portion of the railroad_track_bed ; and.at least one processor for analyzing the plurality of images and determining one or more_physical_characteristics of the said portion of the railroad_track_bed the one or more_physical_characteristics comprising at least a geographic location of the plurality of images along the railroad_track_bed wherein the processor includes an algorithm for detecting a misaligned or sunken tie_plate of the railroad_track_bed the algorithm comprising the steps of a analyzing a frame of the plurality of images the frame comprising a region of interest ; b determining whether the region of interest contains a tie_plate ; c if a tie_plate is present determining a crosstie_contour and a tie_plate_contour ; d comparing an orientation of the crosstie_contour and an orientation of the tie_plate_contour ; and
+( e determining whether the tie_plate is misaligned or sunken based upon the comparison
+id
+col. 11_l._40 -col. 12_l._2_(emphasis_added)
+
+ii
+relevant facts and procedural history
+holland purchases track and crosstie measuring technologies from rail_vision_systems j.a
+1072-73 and then places those technologies on its own track inspection_vehicles called trackstar vehicles j.a
+1564
+data from the track is collected and then may be sent to third-party companies for example rail_vision_europe_ltd. a company based in the united kingdom for data_processing
+see georgetown_rail_ii 2016_wl_3346084 at *6
+rail_vision_europe_ltd. then sends finished reports back to holland for distribution to hollands customers
+id.at *5-6 ; see j.a
+1103-04
+
+georgetown markets similar products that practice the329_patent as part of its aurora_track_inspection_system
+j.a
+850
+specifically the aurora_track_inspection_system uses lasers and cameras mounted on a hi-rail vehicle to collect and process information about track_ties
+j.a
+817-19
+the purpose of these types of systems is generally to allow customers to use the processed data to` manage the logistics of crosstie replacement and to quantify the need for new crossties'
+'329_patent col. 1_ll._39 -40 ; see j.a
+1102-03
+
+holland and georgetown knew of each others place in the track-tie market
+in january 2012 both companies participated in a` head-to-head challenge' in which they demonstrated their services to potential customer union_pacific railroad` union_pacific'
+georgetown_rail_ii 2016_wl_3346084 at *3 citations omitted
+following *1235 the demonstrations union_pacific and holland entered into a change order agreement` change_order' to alter an existing contract between holland and union_pacific to allow holland to provide rail_vision_systems_technology to union_pacific on an as needed basis
+id
+; appellants br
+23 ; appellees br
+13 ; j.a
+10741-44
+the change_order was signed for a particular number of years and included compensatory amounts for actual quantities of work performed upon union_pacifics request
+appellants br
+25-26 ; j.a
+10742
+
+georgetown sued holland for infringement in 2013 and was granted a preliminary_injunction in january 2014 ending any of hollands potential sales to union_pacific under the change_order
+georgetown_rail_ii 2016_wl_3346084 at *3
+the parties proceeded to a jury_trial and the jury found that holland willfully infringed the329_patent and awarded $ 1,541,333 in damages
+id
+the district_court then denied hollands motion for jmol and awarded georgetown an additional $ 1,000,000 in enhanced_damages based on a finding of willful_infringement pursuant to 35 u.s.c.¡± 284 2012
+id.at *12-21.1
+
+discussion
+holland raises four issues on appeal
+first holland challenges the district_courts finding that the term` mounted on a vehicle for movement along the railroad_track' in the preamble of claim 16 is not a claim_limitation
+appellants br
+62-66
+second holland challenges the jurys infringement finding
+id.at 33-45
+third holland challenges the district_courts approval of the jurys award of lost profits
+id.at 45-58
+fourth holland argues that we should reverse the district_courts award of enhanced_damages
+id.at 58-62
+we address these issues in turn
+
+i
+claim construction
+at the district_court holland argued that the phrase` mounted on a vehicle for movement along the railroad_track' in the preamble of claim 16 was a claim_limitation such that hollands product which did not have a processor capable of mounting on a vehicle could not infringe
+georgetown_rail_i 2014_wl_11498109 at *2
+the district_court rejected this argument for four reasons
+first it found that the term did not recite an` essential_structure' of the invention because the specification also included the phrase` [ a ] lternatively the computer_analysis can be performed by another computer_system having image_processing_software known in the art'329_patent col. 7_ll._12 -14 such that the system need not be performed in a vehicle georgetown_rail_i 2014_wl_11498109 at *2-3
+second it found that for the same_reason the phrase could not recite` additional_structure or steps.. underscored as important by the specification'
+id.at *3 capitalization omitted
+third it found that the term was not an` antecedent_basis' for the claim_terms because` [ t ] he claim_body neither in whole [ n ] or in part mentions the phrasemounted on a vehicle
+`` id
+finally it found that georgetown did not clearly rely on the limitation during prosecution because the cited statements from the prosecution_history did not` distinguish the claimed invention from the prior_art by reference to the system being mounted on a vehicle'
+id.at *4
+
+a
+standard of review and legal_standard
+we review the district_courts ultimate construction of the claim_language *1236 de novo
+teva pharm usa inc. v. sandoz inc. -- - u.s. -- -- 135_s.ct._831 835 -- - l.ed.2d -- -- 2015
+`` [ w ] hen the district_court reviews only evidence intrinsic to the patent the patent claims and specifications along with the patents prosecution_history [ 2 ] the judges determination will amount solely to a determination of law and the court of appeals will review that construction de novo'
+id.at 841
+`` in cases where.. subsidiary facts [ relating to claim_construction ] are in dispute courts will need to make subsidiary factual findings about that extrinsic evidence
+these are the evidentiary underpinnings of claim_construction.. and this subsidiary factfinding must be reviewed for clear error on appeal'
+id
+( internal_quotation_marks omitted
+because our analysis of the relevant issue here the preamble involves an examination of only intrinsic evidence we review the district_courts determination de novo
+
+`` whether to treat a preamble as a limitation is a determination resolved only on review of the entire.. patent to gain an understanding of what the inventors actually invented and intended to encompass by the claim'
+catalina_mktg_. int l inc. v. coolsavings.com inc. 289_f.3d_801 808 fed
+cir
+2002 internal_quotation_marks brackets and citation omitted ; see applied materials inc. v. advanced semiconductor materials am. inc. 98_f.3d_1563 1572-73 fed
+cir
+1996 stating that whether the preamble constitutes a limitation` is determined on the facts of each case in light of the overall form of the claim and the invention as described in the specification and illuminated in the prosecution_history'
+`` [ t ] here is no simple test' for understanding the import of the preamble but` we have set forth some general principles to guide th [ e ] inquiry'
+am
+med sys. inc. v. biolitec inc. 618_f.3d_1354 1358 fed
+cir
+2010
+
+`` generally the preamble does not limit the claims'
+allen eng g corp. v. bartell indus. inc. 299_f.3d_1336 1346 fed
+cir
+2002 citation omitted
+however a preamble may be limiting if` it recites essential_structure or steps' ; claims` depend [ ] on a particular disputed preamble phrase for antecedent_basis' ; the preamble` is essential to understand limitations or terms in the claim_body' ; the preamble` recit [ es ] additional_structure or steps underscored as important by the specification' ; or there was` clear_reliance on the preamble during prosecution to distinguish the claimed invention from the prior_art'
+catalina mktg. 289 f.3d at 808 citations omitted
+
+the reverse is also true
+a preamble is not a claim_limitation if the claim_body` defines a structurally complete_invention.. and uses the preamble only to state a purpose or intended use for the invention'
+rowe v. dror 112_f.3d_473 478 fed
+cir
+1997
+`` [ p ] reamble language merely extolling benefits or features of the claimed invention does not limit the claim scope without clear_reliance on those benefits or features as patentably significant'
+catalina mktg. 289 f.3d at 809 citations omitted
+
+b
+the district_court properly found the preamble is not limiting
+in the context of the entire patent it is apparent that the term` mounted on a vehicle for movement along the railroad_track' is meant to describe the principal *1237 intended use of the invention but not to import a structural limitation or to exclude from the reach of the claims an assembly that does not include a vehicle mount
+nothing in the specification or prosecution_history states or even suggests that georgetown intended to exclude use of technology that was structurally identical to its claimed product but that was installed and performed analysis on a non-vehicle mount
+see generally329_patent ; see j.a
+10967 11034 11043 11057-58 11067 11070 11078 11092-94329_patent prosecution_history
+the body of the claim itself describes a` structurally complete_invention' rowe 112 f.3d at 478 because it describes a closed` system' comprised of a` light_generator'` optical_receiver' and` processor' which are the objects required to perform the stated purposes of gathering and processing data on misaligned track_ties329_patent col. 11_ll._42 43 46 51 ; see id. abstract col. 2_ll._13 -34 summary of the disclosure
+the location of the system is not an essential feature of the invention
+indeed as the district_court noted the specification states that` [ t ] he computer_analysis can be performed by the processing_device.. located on the inspection_vehicle
+alternatively the computer_analysis can be performed by another computer_system having image_processing_software known in the art'
+georgetown_rail_i 2014_wl_11498109 at *2-3 quoting329_patent col. 7_ll._10 -14
+
+hollands arguments do not require us to reach a different conclusion
+first holland argues that the specification describes all embodiments of the invention as vehicle-based such that the phrase is` underscored as important' by the specification
+appellants br
+63 internal_quotation_marks and citation omitted
+holland is incorrect
+the specification states that the disclosed inspection_system` can be mounted on an inspection_vehicle.. or other device moving along the track so as to maintain the inspection_system.. in the proper position'
+'329_patent col. 3_ll._55 -57 emphasis added
+it gives additional options that are not vehicle mounts as well such as mounting the system on a` chassis that is towed by a vehicle' or on a` locomotive' or` freight car'
+id
+col. 4_ll._7 -8
+the specification also uses the verb` can be' indicating an option rather than a requirement
+id
+col. 3_l._54
+moreover the specification describes the patented_invention as the system itself noting that to mount the system` it is understood that other known components.. may be needed' but do not form the basis for the patented_invention
+id
+col. 3_ll._59 -60
+as the district_court noted the specification explicitly states that the relevant computation and processing of the data using the patented algorithms and the processing_device respectively also do not need to be performed on or affixed to a vehicle
+georgetown_rail_i 2014_wl_11498109 at *2-3 ; see329_patent col. 7_ll._10 -14
+for these reasons the phrase` mounted on a vehicle for movement along the railroad_track' can not be a part of the essential_structure of the invention or a` fundamental characteristic' required for any part of the claims
+poly-am. l.p. v. gse lining tech. inc. 383_f.3d_1303 1310 fed
+cir
+2004
+
+hollands second argument that the preamble is` essential' to understand limitations in the claim_body appellants br
+66 internal_quotation_marks and citation omitted fails for the same_reason
+contrary to hollands assertion the system described in the claim_body and in the specification is structurally complete without the disclosure of how the technology moves over the tracks
+holland argues as an example of the need to include the preamble in the claim_language that the claim_terms` plurality of images' and light_generator and cameras that are` positioned *1238 adjacent' to the track would not make sense without the preamble
+id
+( internal_quotation_marks omitted
+this puts the caboose before the locomotive
+it is easy to imagine that the patented system could be manually carried or pulled across tracks and that software configured in any type of device on-site or off could process the data
+these claim_terms still would apply because the system i.e. the` lasers cameras and a processor'329_patent col. 2_ll._14 -15 still would generate a` plurality of images' using a light_generator and cameras that are` positioned adjacent' to the track id
+col. 11_ll._43 -48
+such a preamble is not limiting` where a patentee defines a structurally complete_invention in the claim_body and uses the preamble only to state a purpose or intended use for the invention'
+catalina mktg. 289 f.3d at 808 internal_quotation_marks and citation omitted
+
+finally holland argues that georgetown relied upon the preamble during prosecution to distinguish the invention from the prior_art
+appellants br
+66-67
+holland relies upon georgetowns statements that various prior_art references teach away from the329_patent because the prior_art did not teach` analyzing or determining.. characteristics.. along the railroad_track_bed' j.a
+11092 internal_quotation_marks and emphasis omitted` utiliz [ ing ] physical track measurements to position the system' j.a
+11058 or` correlat [ ing ] measured surface characteristics to geographic measured locations along roadway/rail surfaces' j.a
+11034
+however none of these statements distinguish the patented_invention from the prior_art based on the mounting of the data processor part of the invention onto a vehicle
+ambiguous statements made during prosecution especially those that do not directly distinguish the element claimed as essential for purposes of finding a limitation in the preamble` can not fairly limit the characteristics of the claim_term'
+grober v. mako prods. inc. 686_f.3d_1335 1342 fed
+cir
+2012
+for these reasons we hold that the district_court properly found the preamble does not limit the asserted claim_term
+
+ii
+infringement
+at the district_court holland argued that it could not have infringed because it` did not benefit from or control' the purported infringing technology
+georgetown_rail_ii 2016_wl_3346084 at *5
+in denying hollands request for jmol the district_court found that` holland has provided no basis for the [ district ] court to reevaluate the evidence' because` [ a ] reasonable_jury could find that holland exercised control of and benefited from' its infringing rail_vision_systems_device regardless of the fact that a third_party rail_vision_europe_ltd. processed the gathered data
+id.at *6
+
+a
+standard of review and legal_standard
+`` for issues not unique to patent law we apply the law of the regional circuit in which this appeal would otherwise lie' here the fifth_circuit i4i_ltd._p'ship v. microsoft corp. 598_f.3d_831 841 fed
+cir
+2010
+the fifth_circuit reviews denials of a renewed jmol_de_novo
+vanderbilt_mortg
+& fin. inc. v. flores 692_f.3d_358 364 5th_cir
+2012
+`` when reviewing jury verdicts the court views all the evidence and draws all reasonable inferences in the light most favorable to the verdict'
+black v. pan am
+labs. l.l.c. 646_f.3d_254 258 5th_cir
+2011 citation omitted
+a jmol will be granted` [ i ] f the facts and inferences point so strongly in favor of [ appellant ] that a rational jury could not arrive at a contrary *1239 verdict'
+id
+( internal_quotation_marks brackets and citation omitted
+
+`` [ d ] irect infringement by use of a system_claim requires a party.. to use each and every.. element of a claimed system'
+centillion data sys. llc v. qwest commc'ns int l inc. 631_f.3d_1279 1284 fed
+cir
+2011 internal_quotation_marks and brackets omitted
+`` [ t ] o use a system for purposes of infringement a party must put the invention into service i.e. control the system as a whole and obtain benefit from it'
+id
+( internal_quotation_marks and citation omitted
+significantly use does not require a party to` exercise physical or direct control over each individual element of the system'
+id
+in a situation where a` back-end_system [ ]' is used for processing certain data or information the party collecting the information may still be said to be using the system because` [ i ] f the user did not make the request then the back-end_processing would not be put into service' demonstrating` control' of the system
+id.at 1285
+
+b
+the district_court did not err in denying_jmol for infringement
+holland presents two theories why it has not directly infringed the329_patent pursuant to 35 u.s.c.¡± 271 a3 first it alleges that` [ n ] o reasonable_jury could have found that hollandused.. the allegedly infringing data_processing equipment'
+appellants br
+34 ; see id.at 34-41
+second it claims that no reasonable_jury could have found that it` offer [ ed ] to sell' the entire invention covered by the329_patent as required under a separate theory of infringement
+id.at 42 internal_quotation_marks and citation omitted ; see id.at 42-45
+because we resolve this question on the first theory argued by holland we need not address hollands arguments related to the offer to sell
+see novartis ag v. noven pharm. inc. 853_f.3d_1289 1296 fed
+cir
+2017
+
+in centillion this court addressed infringement of a system_claim on information technology
+the claim recited a` front-end' system maintained by an end user and a` back-end' system maintained by a service provider
+centillion 631 f.3d at 1281
+the facts of the case were that customers of the company accused of infringing used the companys front-end client application software to trigger data_processing by the companys back-end_system
+see id.at 1281-82
+relevant to this case we held that the companys customers` used' the entire system for purposes of ¡± 271 a because the customers entered informational queries into the front-end and these queries caused the back-end to perform additional processing as required by the patent claim
+id.at 1285
+importantly we held that` [ i ] t makes no difference that the back-end_processing is physically possessed by' a third_party
+id
+
+hollands use of rail_vision_systemss technology is analogous to the system found` used' for purposes of the infringement analysis in centillion
+as in centillion holland collects and gathers data by its system platform on the front-end
+j.a
+1137-39
+then holland sends the gathered information to a back-end third-party company with instructions to process and analyze the information
+j.a
+1106 1139-40
+the fact that the transmission from the front-end to the back-end in this case involves` physically remov [ ing ] the hard drives with data.. and ship [ ping ] them *1240 overseas to rail vision [ europe ltd. ]' is of no consequence
+appellants br
+38 citing j.a
+1103-04
+the intermediary steps are still` put into service' as a result of hollands front-end collection and request for processing demonstrating hollands ultimate control of and derivation of benefit from the system
+see centillion 631 f.3d at 1285
+holland would have us look to the part of centillion that found the back-end processor had not infringed because it only supplied software for the customer to use on the front-end
+appellants br
+39-40
+however this analogy overlooks the finding of infringing use by the companys customers who were actively using and requesting the analysis of their data
+j.a
+1126-27 1139-40
+here holland acts like the customers in centillion-its trucks gather and collect the data and it makes the choice to send collected information to the third-party rail_vision_europe_ltd. for processing
+
+holland argues that as a factual matter it may have collected and shipped the raw data to rail_vision_europe_ltd. but it has not been proven that holland actually ever gathered any data that was sent for processing
+appellants br
+34-37 ; see oral arg.at 3:45-4:09 http //oralarguments.cafc.uscourts.gov/default.aspx ? fl=2016-2297.mp3
+specifically holland points to a line in the district_court opinion stating that` hollands 2012 demonstration in yuma is a use of the rail_vision_systems' appellants br
+20 quoting georgetown_rail_ii 2016_wl_3346084 at *5 and alleges that there is` no evidence that any data collected during the yuma_demonstration was processed by anyone' id.at 34
+regardless of whether the information shown at the yuma_demonstration was ever processed by rail_vision_europe_ltd. hollands expert affirmatively stated several times on the record that holland has collected data and has directed rail_vision_systems to process the collected data
+see j.a
+1135 1138-39 1141 1143-44 ; see also j.a
+1103 1106 similar4 as such a reasonable_jury could find evidence supporting its conclusion that holland infringed georgetowns329_patent by putting all elements of the infringing system into use
+that is all that is required to uphold the jury finding of infringement
+
+iii
+the district_court did not err in denying_jmol for damages based on lost_profits
+holland challenges the district_courts denial of jmol on lost profits damages
+at trial georgetown asserted that hollands infringing sales of data collected and analyzed from the rail_vision_systems_technology caused it to lose profits that it otherwise would have made from the329_patent
+the jury awarded georgetown $ 1,541,333 in lost profits
+georgetown_rail_ii 2016_wl_3346084 at *7
+
+a
+standard of review and legal_standard
+as stated above the fifth_circuit reviews denials of a renewed jmol_de_novo
+vanderbilt_mortg. 692 f.3d at 364
+to recover lost profits` a patent owner must prove a causal relation between the infringement and its loss of profits'
+crystal semiconductor corp. v. tritech microelecs
+int l inc. 246_f.3d_1336 1353 fed
+cir
+2001 internal_quotation_marks and citation omitted
+`` in other words the burden rests on the patentee to show a *1241 reasonable probability that but for the infringing_activity the patentee would have made the infringers sales'
+id
+( internal_quotation_marks and citation omitted
+`` there is no particular required method to prove but for causation' in patent_cases
+mentor_graphics corp. v. eve-usa inc. 851_f.3d_1275 1284 fed
+cir
+2017
+`` one useful but non-exclusive method to establish the patentees entitlement to lost profits is the.. test first articulated by the sixth circuit' in panduit corp. v. stahlin brothers fibre works inc. 575_f.2d_1152_(6th_cir._1978)
+mentor_graphics 851 f.3d at 1284 internal_quotation_marks and citation omitted
+before the district_court georgetown chose to calculate damages based on a lost profits model under the four-factor panduit_test
+see georgetown_rail_ii 2016_wl_3346084 at *7-8
+the panduit_test requires the patentee to show 1` demand for the patented_product' ; 2` absence of acceptable noninfringing substitutes' ; 3` manufacturing and marketing capability to exploit the demand' ; and 4` the amount of profit that.. would have [ been ] made'
+575 f.2d at 1156
+
+b
+substantial evidence supports the award of lost_profits
+holland challenges the sufficiency of evidence for panduit factors one and four arguing that georgetowns calculation of lost profits had` no legally sufficient_evidentiary_basis' to support the district_courts findings as to these factors
+appellants br
+46
+we disagree
+
+1
+demand for the patented product
+as to the first_panduit_factor holland alleges that there is no evidence that union_pacific demanded georgetowns patented_invention and instead evidence points to a conclusion that union_pacific` repeatedly rejected' georgetowns patented technology
+id.at 49 ; see id.at 49-53
+holland further contends that the evidence can not support demand for the patented_product because it` consists only of generalized market projections by holland not union_pacific' id.at 51-52 citation omitted and that georgetown` fail [ ed ] to show demand during the period of allegedly infringing sales' id.at 51
+holland also states that evidence of demand by other class i railroads can not satisfy the panduit_test because it does not` establish that union_pacific demanded its technology'
+id
+
+holland improperly narrows the scope of the inquiry for the first_panduit_factor
+the proper inquiry asks whether demand existed in the marketplace for the patented_product i.e. a product` covered by the patent in suit or that directly competes with the infringing device'
+depuy spine inc. v. medtronic sofamor danek inc. 567_f.3d_1314 1330 fed
+cir
+2009 internal_quotation_marks and citation omitted
+georgetowns aurora_system and hollands rail_vision_systems are covered by claim 16 of the329_patent
+see supra section ii
+holland submitted its own evidence showing that there was demand for the rail_vision_systems_device at least before 2011
+see j.a
+1113-15 1127-30
+georgetown submitted evidence that its aurora_system generated millions in revenue and was contracted out to four u.s. railroad companies in long-term contracts exhibiting strong evidence of demand
+see j.a
+66 867-68 1011-12 1591 10091-147
+although holland attempts to discredit this evidence by stating that georgetown must show demand` during the period of allegedly infringing sales' appellants br
+51 internal_quotation_marks and citation omitted holland again recites an incorrect standard
+all a patentee must do is` sell [ ] some item the profits of which have been lost due to *1242 infringing sales'
+versata software inc. v. sap am. inc. 717_f.3d_1255 1265 fed
+cir
+2013 internal_quotation_marks and citation omitted
+holland has not suggested nor can it suggest that georgetown was not selling its aurora_system from 2012_through_2015_(the_period_of_allegedly_infringing_sales)
+see generally appellants br
+thus we find substantial_evidence supports a finding that demand for the patented_product existed and we decline to disturb the jurys award or the district_courts denial of hollands request for jmol on this basis
+
+2
+amount of profits that would have been made
+as to the fourth panduit factor holland alleges that georgetown did not submit adequate evidence to show its lost profits
+id.at 53-58
+georgetown submitted evidence that its lost profits_calculation was based on failure to secure a contract with union_pacific which entered into a deal with holland instead through the change_order
+see georgetown_rail_ii 2016_wl_3346084 at *8 ; j.a
+1600
+holland contends that because it made no profit under the change_order signed with union_pacific georgetown could not have missed any potential profits
+appellants br
+47
+it further alleges that the district_courts assumption that holland made no profit on the change_order solely due to the january 2014 preliminary_injunction preventing sales was improper speculation running contrary to actual commercial data
+id.at 48
+
+georgetowns expert calculated lost profits using the following method
+first he assumed that had the change_order between holland and union_pacific not been implemented union_pacifics track maintenance business would have gone to georgetown
+j.a
+1608-10
+second he calculated that georgetown would have inspected a certain mileage of union_pacifics track over a certain period at a prevailing market rate
+j.a
+1606 1610-12
+third he accounted for the typical delay between the contracts effective date and the start of georgetowns hypothetical work
+j.a
+1610
+he further stated that the per-mile_rate was on the higher end of comparable ranges because it would not have included downward pressure on price created with the entrance of the infringing technology into the current market
+j.a
+1599-600
+fourth to calculate the length of the contract he looked at comparable contracts already entered into between georgetown and four other u.s. railway companies
+see j.a
+10148 10170 10179 10091 ; see also j.a
+1586 1608
+his proposed contract_length squarely in the middle of lengths contracted with other railroads was also the same number of years as hollands change_order with union_pacific
+see j.a
+10742-45.5 finally to keep the estimate within a reasonable range he did not include more speculative damages such as loss of market share or ancillary costs
+j.a
+1587-88 1601 1605
+
+georgetowns expert used the same method of reviewing competitive market *1243 contracts to determine the number of miles of track to be inspected yearly and to approximate the per-mile_rates of inspection
+see j.a
+1585-618
+both of these numbers were within the range of rates in the valid contracts georgetown maintained with other u.s. railroads
+see j.a
+10145 10160 10177 10198 ; see also j.a
+860-63
+the number used for the per-mile_rate was also the same calculation that georgetown had submitted in a revised proposal to union_pacific to use its technology in april 2012 an offer which union_pacific did not accept
+j.a
+973 10213
+finally georgetowns expert deducted costs to arrive at the final calculation
+j.a
+1612-18
+these cost deductions included job costs capital expenditures and deductions for net-present value using a standard discount rate
+j.a
+1613-18
+
+hollands argument that the award does not reflect market or economic variables is belied by the record
+`` we have affirmed lost profits awards based on a wide variety of reconstruction theories in which the patentee has presented reliable economic evidence of but for causation'
+ericsson inc. v. harris corp. 352_f.3d_1369 1377 fed
+cir
+2003 internal_quotation_marks and citation omitted
+that is the case here
+georgetowns lost profits_calculation including contract_length per-mile_rate and yearly miles of track to review was based on sound economic proof confirmed by the historical record
+as such georgetown` made a prima facie showing of lost profits and the burden shifted to [ holland ] to prove that a different rate would have been more reasonable'
+versata 717 f.3d at 1267 citation omitted ; see mentor_graphics 851 f.3d at 1285-89 reviewing case law using the panduit_test and using similar evidence to award lost profits in a two-player market crystal semiconductor 246 f.3d at 1354-57 calculating lost profits based on similar` market variables'
+holland did not make any such showing nor has it alleged that it made a showing of a more reasonable damages award
+see generally appellants br
+
+holland also contends that there is no but-for causation because georgetowns calculations assume that union_pacific would have ordered from georgetown ; however during the same period where union_pacific could have ordered data_collection_services` as needed' from holland under the change_order union_pacific did not purchase any services
+id.at 47-48
+losses must be` reasonably related' to the infringing_activity
+brooktree corp. v. advanced micro devices inc. 977_f.2d_1555 1579 fed
+cir
+1992
+georgetown presented evidence that the market for its laser-based track inspection services was a two-supplier market
+see j.a
+828 1264 1522
+its expert stated that only georgetown and holland were invited to demonstrate their technologies for union_pacific j.a
+890-92 and that union_pacific was interested in purchasing this technology and asked for it j.a
+1592
+georgetown provided further evidence that union_pacific entered into a change_order with holland that contemplated providing the services j.a
+1626-27 and that union_pacific purchased a certain amount of inspection_system technologies from holland before the preliminary_injunction went into effect j.a
+1179 10521-24
+we conclude that there was a legally sufficient_evidentiary_basis in the record from which a reasonable_jury could have found that georgetown would have received business from union_pacific for data_collection_services if hollands infringing product was not in the market
+holland presented evidence that georgetown had offered its services unsuccessfully to union_pacific prior to the relevant time period j.a
+1627 ; union_pacific had not authorized work under the change_order j.a
+1627-29 ; and at all times even after the change_order was signed union *1244 pacific was free to enter into a separate contract for services with georgetown j.a
+10740-43 demonstrating non-exclusivity of the change_order
+the jury weighed that evidence against georgetowns and found georgetowns evidence more persuasive
+we may not reweigh that evidence here
+see lighting ballast control llc v. philips elecs
+n. am corp. 790_f.3d_1329 1342 fed
+cir
+2015
+thus we affirm the district_courts entry of the jury award of lost profits
+
+iv
+willfulness and enhanced_damages
+the final issue before us concerns the district_courts finding of willful_infringement and its related decision to enhance damages
+the district_court found in relevant_part that the jury verdict of willful_infringement was supported by substantial_evidence and that` the totality of the circumstances' warranted an award of enhanced_damages based in part on the fact that` holland continued to rely on arguments through trial that were substantially weak and rejected time and again'
+georgetown_rail_ii 2016_wl_3346084 at *15 *17 ; see id.at *15-21
+the district_court awarded georgetown an additional $ 1,000,000 in enhanced_damages
+id.at *21
+
+a
+standard of review and legal_standard
+`` when reviewing damages in patent_cases we apply regional circuit law to procedural issues and federal_circuit_law to substantive.. issues pertaining to patent law'
+whitserve llc v. comput
+packages inc. 694_f.3d_10 26 fed
+cir
+2012 internal_quotation_marks and citation omitted reviewing willfulness and enhanced_damages under federal_circuit_law
+a jurys willfulness finding is a question of fact reviewed for substantial_evidence
+wbip llc v. kohler co. 829_f.3d_1317 1341-42 fed
+cir
+2016
+a district_courts decision to award enhanced_damages upon a finding of willful_infringement is reviewed for abuse of discretion
+halo elecs. inc. v. pulse elecs. inc. -- - u.s. -- -- 136_s.ct._1923 1934 195_l.ed.2d_278_(2016)
+
+when a court is assessing appropriate damages upon a finding for the claimant` the court may increase the damages up to three times the amount found or assessed'
+35 u.s.c.¡± 284
+this case was decided by the district_court under the then-applicable willful_infringement standard
+at the time of the decision proof of willful_infringement required` clear and convincing evidence that the infringer acted despite an objectively high likelihood that its actions constituted infringement of a valid patent' and that` this objectively-defined risk.. was either known or so obvious that it should have been known'
+in re seagate tech. llc 497_f.3d_1360 1371 fed
+cir
+2007
+since the district_courts decision the supreme_court issued halo electronics which rejected the requirement of` finding.. objective recklessness in every case before district_courts may award enhanced_damages'
+136 s.ct.at 1932
+now` [ t ] he subjective willfulness of a patent infringer intentional or knowing may warrant enhanced_damages without regard to whether his infringement was objectively reckless'
+id
+
+the supreme_court has made it clear that awards of enhanced_damages are discretionary and` courts should continue to take into account the particular circumstances of each case in deciding whether to award damages and in what amount'
+id
+when deciding how much to award in enhanced_damages district_courts often apply the non-exclusive factors articulated in read corp. v. portec inc. 970_f.2d_816_(fed._cir._1992) abrogated in part on other grounds by *1245 markman v. westview instruments inc. 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)6 see i4i_ltd._p'ship 598 f.3d at 858-59 affirming district_courts review of the read_factors ; innovention toys llc v. mga entm't inc. 667_fed.appx._992 993 fed
+cir
+2016 similar
+
+b
+the district_court did not err in its willfulness finding or award of enhanced_damages
+holland argues that this court should reverse the finding of willful_infringement and the award of enhanced_damages because 1 there is no evidence to suggest that holland knew of the329_patent before the start of this litigation ; 2 there is no evidence to suggest that holland had access to the technical algorithms used in the329_patent such that willful copying would be impossible ; 3 it is undisputed that holland was not involved in development of the rail_vision_systems software ; and 4 holland processes its data using different software algorithms than those in the329_patent
+appellants br
+58-61
+
+substantial evidence supports the jurys finding that subjective_recklessness led to willful_infringement in this case
+the jury heard evidence that holland was aware of the329_patent prior to the current litigation see e.g. j.a
+1180-87 1340 1384-85 ; see also j.a
+1161-62 1277 and believed that it was infringing the patent
+evidence to support this latter proposition included evidence of the parties prior business dealings from which the jury could have inferred that holland believed that it needed to acquire or license georgetowns aurora_system to avoid infringement see e.g. j.a
+1187-88 and` circumstantial evidence that holland copied [ georgetowns ] technology' georgetown_rail_ii 2016_wl_3346084 at *17
+although holland continues to dispute several of these facts the jury was free to decide whose evidence it found more compelling on the question of willfulness and found in georgetowns favor
+lighting ballast control 790 f.3d at 1342
+we will not disturb that finding here where substantial_evidence supports the jurys conclusions
+see id
+
+as for enhanced_damages on this record we can not conclude that the district_court abused its discretion in weighing the evidence or applying the read_factors
+see i4i_ltd._p'ship 598 f.3d at 858
+holland makes no specific arguments with respect to the district_courts application of the read_factors in its opening brief
+see generally appellants br
+in its reply brief holland states that the same arguments it makes to reverse the finding of willfulness go to certain read_factors without directly connecting its arguments to individual read_factors
+reply br
+28
+
+none of the arguments holland makes with respect to the findings of enhanced_damages demonstrate abuse of discretion by the district_court
+the district_court made detailed factual findings which taken together support its award of enhanced_damages
+it did not merely look at the jurys finding of willfulness ; rather it applied and considered all nine read_factors
+specifically after analyzing each read factor *1246 individually the district_court stated that` [ f ] actors 1 2 and 5 support enhancement ; factors 3 4 and 7 slightly support enhancement ; and factors 6 8 and 9 are neutral'
+georgetown_rail_ii 2016_wl_3346084 at *21
+it also found that` no single factor weighs against enhancement'
+id
+finally the district_court took into account the degree of willfulness and found that it was` not warranted' to enhance damages to the full maximum statutory amount of treble damages over $ 4,500,000 ; rather it awarded only an additional $ 1,000,000
+id
+considering all of the read_factors and the district_courts statutory authority to treble damages under ¡± 284 the award of $ 1,000,000 in addition to the damages award of $ 1,544,333 was not an abuse of discretion
+
+conclusion
+we have considered the parties remaining arguments and find them unpersuasive
+accordingly the final_judgment of the u.s._district_court for the eastern_district of texas is
+
+affirmed
+
+costs
+costs to georgetown rail
+
+all citations
+867_f.3d_1229 123_u.s.p.q.2d_1766
+footnotes
+1
+the district_court additionally found the case exceptional under 35 u.s.c.¡± 285 and awarded attorney fees
+georgetown_rail_ii 2016_wl_3346084 at *21-24
+holland does not challenge this finding
+see generally appellants br
+2
+a patents prosecution_history` consists of the complete record of the proceedings before the [ u.s._patent and trademark officeuspto ]' providing` evidence of how the [ us ] pto and the inventor understood the patent'
+phillips v. awh corp. 415_f.3d_1303 1317 fed
+cir
+2005 en banc citation omitted
+3
+in relevant_part ¡± 271 provides that` whoever without authority makes uses offers to sell or sells any patented_invention [ ] within the united states.. infringes the patent'
+35 u.s.c.¡± 271 a emphasis added
+section 271 was not amended in the leahy-smith america invents act pub
+l. no._112-29 ¡± 3 125_stat._284 285-93 2011
+4
+although these pages have been designated as confidential the information generally contained therein was discussed publically at oral argument
+oral arg.at 2:19-5:05 31:51-32:24 statements made by hollands attorney 20:45-21:49 statements made by georgetowns attorney http //oralarguments.cafc.uscourts.gov/default.aspx ? fl=2016-2297.mp3 ; see appellees br
+36-37
+5
+holland makes an additional argument objecting to the lost profits_calculation as improper for calculating subjective` future' profits that would accrue following trial
+see appellants br
+56-57
+georgetown counters that this argument has been waived because it was not raised below
+see appellees br
+56 citing golden bridge tech. inc. v. nokia inc. 527_f.3d_1318 1323 fed
+cir
+2008
+because we find substantial_evidence exists to support the length of the contract calculation for lost profits we decline to address arguments related to future lost profits that are encompassed within the reasonable contract_length
+6
+the read_factors consider 1` whether the infringer deliberately copied the ideas of another' ; 2` whether the infringer when he knew of the others patent protection investigated the scope of the patent and formed a good-faith belief that it was invalid or that it was not infringed' ; 3` the infringers behavior as a party to the litigation' ; 4 the` [ d ] efendants size and financial condition' ; 5 the` [ c ] loseness of the case' ; 6 the` [ d ] uration of the defendants misconduct' ; 7` [ r ] emedial action by the defendant' ; 8 the` [ d ] efendants motivation for harm' ; and 9` [ w ] hether the defendant attempted to conceal its misconduct'
+970 f.2d at 827 footnote and citations omitted
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+georgetown rail equipment company v. holland_l.p. 867_f.3d_1229 2017 123_u.s.p.q.2d_1766
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

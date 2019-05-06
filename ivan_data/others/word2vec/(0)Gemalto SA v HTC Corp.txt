@@ -1,0 +1,348 @@
+754_f.3d_1364
+united_states_court of appeals federal circuit
+gemalto s.a. plaintiff-appellant v. htc corporation htc_america inc. exedea inc. google inc. motorola_mobility llc also known as motorola_mobility inc. samsung_electronics_co. ltd. and samsung_telecommunications_america llc defendants-appellees
+no._2013-1397
+| june_19,_2014
+synopsis
+background patentee brought infringement action against alleged infringers claiming infringement of patent relating to the use of a high_level_programming_language with a microcontroller
+the united states district court for the eastern_district of texas leonard davis j. 2012_wl_2505745 construed terms and granted summary_judgment to the alleged infringers
+the patentee appealed
+
+holdings the united_states_court of appeals dyk circuit_judge held that
+
+term` memory' meant all program_memory ;
+
+term` programmable_device' meant a single_semiconductor_substrate integrating electronic_circuit_components that includes a central_processing_unit and all program_memory making it suitable for use as an embedded system ; and
+
+patentee failed to establish infringement under doctrine of equivalents
+
+affirmed
+
+attorneys and law firms
+*1365 john m. whealan of chevy chase md argued for plaintiff-appellant
+with him on the brief were dirk d. thomas mckool smith p.c. of washington dc ; robert a. cote of new_york n.y. ; and joel l. thollander of austin tx
+david a. perlson quinn emanuel urquhart & sullivan llp of san_francisco ca argued for defendants-appellees
+with him on the brief were charles k. verhoeven and antonio r. sistos
+of counsel were kristin j. madigan of san_francisco ca joseph milowic iii and robert b. wilson of new_york n.y. before newman rader * and dyk circuit_judges
+opinion
+*1366 dyk circuit_judge
+gemalto_s.a.` gemalto' is the owner of u.s. patent nos._6308,317` the ¡¬317_patent` 7,117,485` the ¡¬485_patent` and 7,818,727` the ¡¬ 727 patent'
+gemalto sued htc corporation htc_america inc. exedea inc. google inc. motorola_mobility llc samsung_electronics_co. ltd. and samsung_telecommunications_america llc collectively` defendants' in the eastern_district of texas alleging infringement of various claims of the three patents
+the district_court construed the asserted claims and granted summary_judgment of non-infringement concluding that the accused products did not infringe literally or under the doctrine of equivalents
+on appeal gemalto challenges the district_courts claim_construction and its grant of summary_judgment of non-infringement under the doctrine of equivalents
+we affirm
+
+background
+the ¡¬317_patent the ¡¬485_patent and the ¡¬727_patent derive priority from the same provisional patent application,1 and share the same named inventors specification and title` using a high level programming language with a microcontroller
+`` 2 the patented technology is designed to allow resource-constrained devices including microcontrollers to run software applications or programs written in high_level_programming_languages such as java
+
+before gemaltos invention microprocessor-based personal_computers could run java_applications
+at the time of gemaltos invention these computers used processors that required substantial amounts of memory which was located on chips separate from the chip containing the processor referred to as off-chip_memory
+however microcontroller-based devices such as integrated circuit_cards or smart_cards had substantially less memory using memory located on the same_chip as the processor
+these devices did not require external memory to function but were constrained by the amount of space on the chip or integrated circuit used for memory
+at the time of gemaltos invention there were no java implementations for microcontroller-based smart_cards or integrated circuit_cards
+due to the disparity between the constraints of the devices and the demands of the applications` [ f ] itting java_technology inside smart_cards was like playing golf in a telephone booth'
+joint appendix` j.a'
+643 quoting sun microsystems ceo scott mcnealy internal_quotation_marks omitted
+
+according to gemalto its invention enabled resource-constrained devices to run applications written in high_level_programming_languages such as java by minimizing the computing resources that applications consumed during storage and execution
+the asserted claims are directed to applications that are converted from a high_level_programming_language into another format that is suitable for resource-constrained computing devices
+the application in converted form is stored in the memory of the chip containing the embedded processor that executes the application
+however the processor can not run the converted_application directly and requires an interpreter or virtual machine to translate the converted_application into instructions that the processor can execute
+the interpreter is also stored in on-chip_memory
+this is important because to run a java_application both the application and the interpreter must fit within the constraints of the platform for the purposes of storage and execution
+
+*1367 in october 2010 gemalto sued the defendants for infringement alleging that the defendants smartphones infringe when they run the android operating system and java_applications converted using the android software development kit
+the defendants contended that the accused smartphones do not infringe because they are not resource-constrained devices but rather rely on off-chip_memory to run java_applications similar to prior_art personal_computers
+
+before summary_judgment gemalto narrowed the number of asserted claims to the 6 claims asserted on appeal claims 1 4 and 5 of the ¡¬317_patent ; claims 38_and_39 of the ¡¬485_patent ; and claim 3 of the ¡¬727_patent3 these claims recite either an` integrated circuit_card' or a` programmable_device' that includes a processor and a` memory' storing a converted_application and an interpreter
+claim 1 of the ¡¬317_patent which is representative of the` integrated circuit_card' claims reads
+
+1
+an integrated circuit_card for use with a terminal comprising a communicator configured to communicate with the terminal ; a memory storing an application derived from a program written in a high_level_programming_language_format wherein the application is derived from a program written in a high_level_programming_language_format by first compiling the program into a compiled form and then converting the compiled form into a converted form the converting step including at least one step selected from a group consisting of
+recording all jumps and their destinations in the original byte codes ; converting specific byte codes into equivalent generic byte codes or vice-versa ; modifying byte code operands from references using identifying strings to references using unique identifiers ; and
+renumbering byte codes in a compiled format to equivalent byte codes in a format suitable for interpretation ; and
+an interpreter operable to interpret such an application derived from a program written in a high_level_programming_language_format ; and
+a processor coupled to the memory the processor configured to use the interpreter to interpret the application for execution and to use the communicator to communicate with the terminal
+¡¬317_patent_col. 19_ll._38 -67
+claim 3 of the ¡¬727_patent the only asserted claim directed to a` programmable_device' reads 3
+a programmable_device comprising a memory and
+a processor ; the memory comprising an interpreter ; and.at least one application loaded in the memory to be interpreted by the interpreter wherein the at least one application is generated by a programming environment comprising a a compiler for compiling application source programs written in high_level_language source code form into a compiled form and
+b a converter for post processing the compiled form into a minimized form suitable for interpretation within the *1368 set of resource_constraints by the interpreter
+¡¬727_patent_col. 19_ll._29 -43 emphases added
+both the integrated circuit_card and programmable_device claims require the recited` memory' to store a converted_application and an interpreter
+the asserted programmable_device claim expressly requires the application to be converted` into a minimized form suitable for interpretation within the set of resource_constraints by the interpreter'
+¡¬727_patent_col. 19_ll._41 -43
+the district_court construed the recited` memory' as` all program_memory' -i.e.` sufficient_memory to run the java_code [ or other high_level_programming_language ] in accordance with the patentees invention'
+j.a
+26 footnote omitted
+in other words the courts construction required all application memory to be stored on the same_chip as the processor
+the court construed` resource_constraints' to mean` insufficient_memory to run the compiled_application_source_program in an unconverted_form'
+j.a
+40-41
+the district_court construed` integrated circuit_card' to mean` a card containing a single_semiconductor_substrate [ i.e. a chip ] having a central_processing_unit and all program_memory'
+j.a
+31
+the court construed` programmable_device' as` a single_semiconductor_substrate integrating electronic_circuit_components that includes a central_processing_unit and all program_memory making it suitable for use as an embedded system'
+j.a
+33
+
+after the court construed the claims the defendants moved for summary_judgment of non-infringement
+gemalto did not dispute that the` accused devices do not containall program_memory on a single_semiconductor_substrate because they requireoff chip memory to run the accused.. android applications' j.a
+11 but argued that requiring off-chip_memory did not preclude infringement
+the court concluded that the accused devices did not literally infringe because applications were stored in off-chip_memory-i.e. on a chip other than the chip containing the processor
+the court also rejected gemaltos theory that the accused devices infringed under the doctrine of equivalents when they temporarily loaded program_instructions into on-chip_cache_memory prior to execution
+the court concluded that temporary storage in cache_memory was not substantially the same as permanent_memory storage
+
+gemalto appealed
+we have jurisdiction pursuant to 28 u.s.c.¡± 1295 a 1
+claim construction is a question of law that we review de novo
+lighting ballast control llc v. philips elecs
+n.a
+corp. 744_f.3d_1272 1276-77 fed.cir.2014 en banc ; cybor corp. v. fas techs. inc. 138_f.3d_1448 1454-55 fed.cir.1998 en banc
+we review a district_courts grant of summary_judgment of non-infringement without deference
+bd
+of regents of the univ
+of tex
+sys
+v. benq am corp. 533_f.3d_1362 1367 fed.cir.2008
+
+discussion
+i
+claim construction
+a
+`` integrated circuit card' claims
+our claim_construction methodology is described in phillips v. awh corp. 415_f.3d_1303 1312-19 fed.cir.2005 en banc
+gemalto first challenges the district_courts construction of the` memory' limitation in the integrated circuit_card_claims to require all program_memory on a single_semiconductor_substrate or chip
+gemalto does not dispute that an integrated circuit_card is` a card containing a single_semiconductor_substrate having a central_processing_unit and memory' j.a
+31 but contends that the card should be able to access applications stored in off-chip_memory i.e. memory located on chips *1369 other than the chip containing the processor
+the claim_language does not support gemaltos theory
+the claim_language requires a` memory' that stores an` application' and a` processor' that is coupled to the memory
+¡¬317_patent_col. 19_ll._42 43 64
+the specification demonstrates that the entire purpose of the invention was to enable the application to be stored within the memory on the chip of the integrated circuit_card
+
+integrated circuit_cards such as smart_cards are small portable devices
+before gemaltos invention applications for integrated circuit_cards were typically written in low level programming languages to conserve memory
+with the expansion of digital networking there was a` need to load new applications on the card..
+however typically this [ wa ] s not practical.. using low level languages'
+¡¬317_patent_col. 3_ll._47 -48
+the purpose of gemaltos invention was to make it possible to load applications written in high_level_languages such as java into the memory of a resource-constrained integrated circuit_card
+
+gemalto does not dispute that integrated circuit_cards are one-chip devices but argues that these cards can access applications stored in external_memory_sources such as other chips in accordance with its invention
+the specification however identifies configurations in which a processor runs java_applications stored in off-chip_memory and ascribes them to the prior_art-i.e. microprocessor-based personal_computers
+the specification describes` [ c ] onventional platforms that support java' as` microprocessor-based computers' which have` a central_processing_unit that requires certain external components e.g. memory input controls and output controls to function properly'
+¡¬317_patent_col. 1_ll._55 -56 ; 62-66
+
+gemaltos invention was not directed to these conventional prior_art platforms for java
+instead it focused on resource-constrained computing platforms such as integrated circuit_cards and microcontrollers which were previously unable to run java_applications
+`` in contrast to the microprocessor a microcontroller includes a central_processing_unit memory and other functional elements all on a single_semiconductor_substrate or integrated circuit e.g. achip'
+¡¬317_patent_col. 2_ll._2 -5
+according to the specification the crucial difference between prior_art microprocessor-based computers and microcontroller-based devices is that` [ i ] n a microcontroller the amount of each kind of memory available is constrained by the amount of space on the integrated circuit' ¡¬317_patent_col. 2_ll._14 -16 while` [ a ] microprocessor system.. is not constrained by what will fit on a single integrated circuit device'
+id
+ll
+26-31
+the specification demonstrates that external memory storage was a defining feature of prior_art java_technology and that the patented invention was designed to eliminate the need for such external storage
+of course` the claims can not be of broader scope than the invention that is set forth in the specification'
+on demand mach corp. v. ingram indus. inc. 442_f.3d_1331 1340 fed.cir.2006
+
+gemaltos interpretation of the term` memory' also conflicts with the prosecution_history
+during initial prosecution and reexamination of the ¡¬ 317 patent gemalto repeatedly distinguished invalidating prior_art by emphasizing the novelty of squeezing a java_application onto the memory of an integrated circuit_card
+initially the united states patent and trademark office` pto' rejected all claims in the ¡¬317_patent as anticipated and obvious in view of u.s. patent no._5923,884` peyret' titled` system and method for loading applications onto a smart card' as *1370 well as other prior_art references
+in response the patentee emphasized the novelty of fitting the application onto an integrated circuit_card arguing that` peyret does not deal with a solution of how to squeeze java or another_high_level_language onto a smart_card
+`` 4_j.a._1162
+the applicant explained that
+
+[ m ] aking it possible to run programs written in a high_level_language on a smart_card was not obvious prior to applicants invention.. to put java or any other_high_level_language on an integrated circuit_card is anything but obvious
+at the time of the invention the typical java virtual machine required over 1 mb of memory
+any person of ordinary skill would realize that to squeeze such an interpreter into an integrated circuit_card such as a smart_card is anything but an obvious task'
+j.a
+1164 emphases added
+based on the applicants argument the application subsequently issued as the ¡¬317_patent
+during reexamination of the ¡¬317_patent the patentee again argued for patentability based on the difficulty of fitting a java_application into the memory of a resource-constrained device
+gemalto argued that` providing java_technology onto smart_cards would be very challenging due to the size constraints of smart_cards as contrasted to the minimum requirements of java'
+j.a
+1199
+because java` applications typically compile into files much larger than the pragmatically available space in a smart_card [ ].. the problem of fitting them onto a smart_card would be rather challenging
+also the intermediate language interpreter e.g. the jvm would also have to fit on the card'
+j.a
+1201
+
+in obtaining and sustaining the ¡¬317_patent gemalto emphasized the significance of fitting the application and interpreter onto the memory of an integrated circuit_card
+if the card could simply access external_memory_sources there would be no need to` squeeze' the application or its interpreter onto the card
+the integrated circuit_card could simply access the application and interpreter from an external memory source without being constrained by the resources available on the integrated circuit_card itself
+
+however gemalto contends that claim_differentiation supports its theory that the integrated circuit_card_claims should be construed to cover off-chip_memory
+that contention rests on claim 4 of the ¡¬317_patent which recites` [ t ] he integrated circuit_card of claim 1 wherein at least a portion of the memory is located in the processor'
+¡¬317_patent_col. 20_ll._6 -7
+according to this theory by requiring a` portion of the memory' to be in the processor claim 4 indicates that some program_memory can be stored on separate chips
+but the language of claim 4 only allows some memory to be outside the processor not outside the chip
+it implies that the memory recited in other_claims may be located on the same_chip as the processor but not within the processor itself
+claim differentiation based on claim 4 only indicates that none of the memory recited in other_claims needs to be located` in the processor' ; it says nothing about the location of the memory with respect to the chip containing the processor
+thus claim_differentiation does not support gemaltos argument or overcome the conclusion that the claims require the processor to be` coupled to the memory' id
+col. 19_l._64 i.e. on the same_chip storing the application and interpreter *1371 necessary for the integrated circuit_card to run the application
+
+the patentees arguments regarding the` memory' limitation recited in the integrated circuit_card_claims of the ¡¬317_patent apply equally to the` memory' limitation recited in the integrated circuit_card_claims of the ¡¬485_patent
+as we held in elkay manufacturing co. v. ebco manufacturing co. 192_f.3d_973 980 fed.cir.1999` [ w ] hen multiple patents derive from the same initial application the prosecution_history regarding a claim_limitation in any patent that has issued applies with equal_force to subsequently issued patents that contain the same claim_limitation'
+id
+( citing jonsson v. stanley works 903_f.2d_812 817-18 fed.cir.1990 ; see also andersen corp. v. fiber composites llc 474_f.3d_1361 1368-69 fed.cir.2007 construing claim_language based on statements made during prosecution of parent application regarding similar claim_language biovail corp. int l v. andrx pharms. inc. 239_f.3d_1297 1301-02 fed.cir.2001 construing disputed limitation based on statements relating to that limitation during prosecution of a patent deriving priority from the same original application as the patent-in-suit
+the ¡¬485_patent is a continuation of the ¡¬317_patent and shares the same title specification and provisional application from which both derive their priority_date
+further claim 38 of the ¡¬485_patent describes the memory and the application it stores using identical_language as claim 1 of the ¡¬317_patent
+compare ¡¬317_patent_col. 19_ll._42 -49 with ¡¬485_patent col. 23_ll._25 -32
+claim 39 depends from claim 38 and incorporates the same memory limitation adding additional limitations only to the process for converting the application before loading it onto the memory
+
+in short we agree with the district_court that the memory recited in the integrated circuit_card_claims should be construed as` all program_memory' which means` sufficient_memory to run the java_code [ i.e. the application and interpreter ] in accordance with the patentees invention'
+
+b
+`` programmable device' claims
+gemalto also argues that any limitations barring the use of off-chip_memory in an integrated circuit_card are not relevant to claim 3 of the ¡¬727_patent which is directed to a` programmable_device'
+gemalto asserts that the term should be construed broadly to mean` a device that can execute a computer program'
+appellants br
+37
+gemalto suggests that its proposed construction reflects the ordinary_meaning of` programmable_device' to one of skill in the art
+however the testimony of two of the asserted_patents inventors timothy wilkinson and scott guthery persons skilled in the relevant art confirms that the term had no such meaning
+when asked what the meaning of` programmable_device' is one inventor stated` [ i ] t has no meaning'
+j.a
+1074
+the other averred` i do n't remember anybody ever talking about a programmable_device particularly..
+sounds like a patent term to me' and agreed that even a punch-card computer could be considered a programmable_device
+j.a
+985
+gemalto does not assert that` programmable_device' has any ordinary_meaning to a skilled practitioner in the field of computer programming let alone the particular construction it proposes
+
+in any event gemaltos central problem is that the limitation is not` programmable_device' but` memory'
+claim 3 explicitly requires a device that has` a memory' and` at least one application loaded in the memory'
+¡¬727_patent_col. 19_ll._30 34
+the meaning of terms appearing in the ¡¬727_patent must be construed in light of the same terms recited in the ¡¬317_patent
+all three asserted_patents are directly related *1372 the ¡¬727_patent is a continuation of the ¡¬485_patent which is a continuation of the ¡¬317_patent derive priority from the same provisional application and share the same disputed claim_language
+statements made by the applicant concerning the` memory' limitation in the ¡¬317_patents claims therefore apply with equal_force to the` memory' limitation in the ¡¬727_patents claims with the same limitation
+elkay 192 f.3d at 980
+claim 3 of the ¡¬727_patent uses identical_language to that of claim 65 of the ¡¬317_patent requiring the recited application to be` loaded in the memory to be interpreted by the interpreter' and converted into` a minimized form suitable for interpretation within the set of resource_constraints by the interpreter'
+¡¬727_patent_col. 19_ll._30 -43 ; see also ¡¬317_patent_col. 24_ll._51 -64
+the claim requires the application to be loaded in the recited memory and processed into a form that allows the application to be interpreted and thus executed within the set of resource_constraints
+as construed by the district_court-and not challenged on appeal-those constraints require the device to lack sufficient_memory if the application had not been so converted
+
+here the meaning of` memory' is made even clearer by the language of the programmable_device claim that requires the application loaded in the memory to be converted` into a minimized form suitable for interpretation within the set of resource_constraints by the interpreter'
+¡¬727_patent_col. 19_ll._42 -43 emphasis added
+gemaltos arguments to the pto during prosecution of the ¡¬ 317 patent directly make clear the meaning of` resource_constraints' recited in claim 3 of the ¡¬727_patent
+to obtain the ¡¬317_patent gemalto emphasized that the conversion of the application was necessary because of the resource_constraints on the device on which it was stored
+gemalto explained that
+appellants recognized the difficulty in operating java or other_high_level_language programs within the limited resources of an integrated circuit_card or other microcontroller
+to solve that problem appellants introduced the additional_step of converting the compiled form from a java compiler into a form suitable for interpretation on a specialized interpreter
+peyret does not teach or suggest this additional_step
+j.a
+1174
+the prosecution_history of the ¡¬727_patent and those from which it derives priority do not support gemaltos theory that a` programmable_device' can be any type of computer
+rather the prosecution_history demonstrates that a programmable_device must have resource_constraints that the patentee argued made squeezing java_applications on them` anything but obvious'
+j.a
+1176
+
+on appeal gemalto does not challenge the construction of` resource_constraints' as meaning` insufficient_memory to run the compiled_application_source_program in an unconverted_form'
+j.a
+40-41
+while gemalto admits that the device must meet these limitations it does not explain how the broad_construction it proposes would satisfy them
+to be consistent with the` resource_constraints' limitation the device must have insufficient_memory to run the application in an unconverted_form
+allowing the device to access external off-chip_memory would effectively read this express limitation out of the claim
+
+gemalto contends that the prosecution_history of the ¡¬727_patent supports a broad_construction pointing to a statement by the examiner that` the present claims are merely considered a broader recitation of claims 1-86 of the ¡¬317_patent'
+appellant br
+34 internal_quotation_marks omitted
+in fact the examiner made the exact same statement about the claims as originally drafted-at which point they recited a *1373` smart_card' rather than a` programmable_device'
+further the examiner also recognized that the` [ t ] he subject matter claimed in the instant application [ for the ¡¬727_patent ] is fully disclosed in the [ ¡¬317 ] patent and is covered by the [ ¡¬317 ] patent'
+j.a
+751 ; see also j.a
+1183
+the ¡¬317_patent expressly discloses prior_art computers-devices capable of executing computer programs-that run java_applications without the claimed invention
+the examiners statement standing alone does not support construing` programmable_device' so broadly that it encompasses any device capable of executing program_instructions particularly those within the prior_art as defined by the specification of the ¡¬727_patent and shared by all three asserted_patents
+
+we thus agree with the district_court that the programmable_device of claim 3 of the ¡¬727_patent should be construed as` a single_semiconductor_substrate integrating electronic_circuit_components that includes a central_processing_unit and all program_memory making it suitable for use as an embedded system'
+j.a
+33
+
+ii
+infringement
+the district_court granted summary_judgment of non-infringement as to all asserted claims
+the court found that the accused devices did not infringe literally because it was undisputed that they` store program_instructions off-chip and access those off-chip instructions to run the accused applications'
+j.a
+12
+because the devices could not literally infringe the court found no indirect_infringement of claim 3 of the ¡¬727_patent
+with respect to infringement gemalto does not challenge the courts findings on literal or indirect_infringement under the district_courts construction
+
+instead gemalto argues that the accused devices infringe the asserted claims as construed by the district_court under the doctrine of equivalents
+a device that does not literally infringe a claim may infringe under the doctrine of equivalents
+energy transp grp. inc. v. william demant holding a/s 697_f.3d_1342 1352 fed.cir.2012
+we have held that` a patentee may prove that a particular claim element is met under the doctrine of equivalents.. by showing thatthe accused product performs substantially the same function in substantially the same_way with substantially the same result as claimed in the patent'
+id
+( quoting crown packaging tech. inc. v. rexam bev
+can co. 559_f.3d_1308 1312 fed.cir.2009 ; see also warner-jenkinson co. v. hilton davis chem co. 520_u.s._17 39-40 117_s.ct._1040 137_l.ed.2d_146_(1997)
+
+gemalto contends that the accused devices infringe under the doctrine of equivalents when they temporarily load program_instructions from off-chip_memory into on-chip_cache_memory before execution
+because cache_memory can not store applications or any content when a device is turned off the court concluded that cache_memory is substantially different from permanent_memory and not equivalent for infringement purposes
+gemalto admits that cache_memory does not store program_instructions when the accused devices are turned off but argues that the difference between temporary on-chip_storage and permanent on-chip_storage is insubstantial or alternatively that the significance of this difference raises a genuine question of material fact
+gemaltos theory of infringement by equivalents hinges on its contention that on-chip_cache_memory is equivalent to on-chip_memory permanently storing applications
+according to gemalto applications are loaded into on-chip_cache_memory before execution 97 % of the time and the difference between 97 % and 100 % is insubstantial
+
+*1374 a plaintiff must provide` particularized_testimony and linking_argument to show the equivalents' are insubstantially different
+aquatex indus. inc. v. techniche solutions 479_f.3d_1320 1329 fed.cir.2007 ; accord texas_instruments inc. v. cypress semiconductor corp. 90_f.3d_1558 1566 fed.cir.1996
+`` generalized testimony as to the overall_similarity between the claims and the accused infringers product or process will not suffice'
+texas_instruments 90 f.3d at 1567
+these requirements` assure that the fact-finder does notunder the guise of applying the doctrine of equivalents erase a plethora of meaningful structural and functional limitations of the claim on which the public is entitled to rely in avoiding infringement
+`` id
+( quoting pennwalt corp. v. durand-wayland inc. 833_f.2d_931 935 fed.cir.1987 en banc
+gemalto has failed to provide particularized_testimony and linking_argument
+
+gemalto provided no testimony asserting that the difference in functionality between cache_memory and permanent_memory is in fact insubstantial
+gemaltos expert testimony only addresses the difference between having 100 % or 97 % of program_instructions stored on-chip not the underlying difference between temporary and permanent storage
+the testimony does not address whether cache_memory is equivalent to other types of memory that are capable of storing applications after a device is turned off
+absent any testimony suggesting that cache_memory is equivalent to permanent_memory no reasonable fact finder could find that the two types of memory function in substantially the same_way to achieve substantially similar results
+
+gemalto asserts that the` invention works the same whether or not the memory is on the same_chip as the cpu or the program is executed from temporary memory'
+appellants reply br
+30
+these arguments are not directed to the equivalence between the accused products functionality and the particular claim_limitation reciting a memory storing an application and interpreter as a whole
+rather gemalto offers` merely generalized testimony as to overall_similarity' between the accused products and the claims which under well-established case law` can not support a finding that the differences [ a ] reinsubstantial
+`` texas_instruments 90 f.3d at 1568 ; see also aquatex 479 f.3d at 1329` [ t ] he doctrine of equivalents must be applied to individual elements of the invention not the invention as a whole
+`` quoting warner-jenkinson 520 u.s. at 29 117_s.ct._1040
+establishing infringement under the doctrine of equivalents requires particularized_testimony and linking_argument as the equivalence between the claim_limitation and the alleged equivalent
+texas_instruments 90 f.3d at 1567
+such testimony is missing here
+
+moreover the cache_memory functionality that is the basis for gemaltos theory was employed by microprocessor-based systems at the time of the invention
+gemalto has admitted that`microprocessors in 1996 did have cache_memory` j.a
+1852 and that these microprocessors ran java_applications before the 1996 priority_date of the asserted_patents
+if cache_memory were equivalent to the recited memory that stores an application and interpreter gemaltos claims would read on microprocessor systems that were widely used prior to its invention
+the doctrine of equivalents can not be applied to encompass the prior_art as` this court has consistently limited the doctrine of equivalents to prevent its application to ensnare prior_art'
+marquip inc. v. fosber am. inc. 198_f.3d_1363 1367 fed.cir.1999 citing wilson sporting goods v. david geoffrey & assoc. 904_f.2d_677 683 fed.cir.1990
+in marquip we recognized *1375 that` [ b ] ecause prior_art limits the exclusive right available to an inventor it also limits the range of permissible equivalents of a claim'
+id
+applying the doctrine of equivalents to cover cache_memory used in the prior_art is not permissible
+we agree with the district_court that the accused devices do not infringe under the doctrine of equivalents due to their use of cache_memory
+
+conclusion
+we affirm the district_courts claim_construction and summary_judgment of no infringement with respect to all asserted claims
+
+affirmed
+
+all citations
+754_f.3d_1364 111_u.s.p.q.2d_1487
+footnotes
+* randall r. rader vacated the position of chief judge on may_30,_2014
+1
+application serial no._60 /029,057 filed on october 25 1996
+2
+for simplicity all references to the specification are to the ¡¬ 317 patent
+3
+gemalto previously asserted 28 claims across the three patents
+the 22 claims not asserted on appeal were not before the district_court at summary_judgment
+4
+the specification uses the terms integrated circuit_card and smart_card interchangeably
+see e.g. ¡¬317_patent_col. 2_ll._37 -38` microcontrollers frequently are used in integrated circuit_cards such as smart_cards'
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+gemalto_s.a. v. htc corp. 754_f.3d_1364 2014 111_u.s.p.q.2d_1487
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

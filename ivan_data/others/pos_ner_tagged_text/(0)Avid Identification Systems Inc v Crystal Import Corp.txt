@@ -1,0 +1,207 @@
+('603_F.3d_967', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('AVID', 'NNP', '', 'O') ('IDENTIFICATION', 'NNP', '', 'O') ('SYSTEMS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('The', 'DT', '', 'O') ('CRYSTAL', 'NNP', '', 'O') ('IMPORT', 'NNP', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Datamars_SA', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Datamars', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants', 'NNS', 'ORG', 'I')
+Datamars Inc. Defendants
+__NEW_SENT__
+('Nos._2009-1216', 'NNP', '', 'O') ('2009-1254', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('April_27,_2010', 'NNP', 'PERSON', 'B')
+April_27,_2010
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('multi-mode', 'JJ', '', 'O') ('radio-frequency_identification_system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reading', 'VBG', '', 'O') ('encoded', 'VBN', '', 'O') ('biocompatible_chips', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('unfair_competition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('false', 'JJ', '', 'O') ('advertising', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('assignee', 'NN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Eastern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('T.', 'NNP', 'PERSON', 'B') ('John', 'NNP', 'PERSON', 'I') ('Ward', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('hold', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('2007_WL_2901415', 'CD', '', 'O') ('and', 'CC', '', 'O') ('subsequently', 'RB', '', 'O') ('dismissed', 'VBD', '', 'O') ('assignee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('unopposed_motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O')
+the United States District Court the Eastern District Texas T. John Ward J.
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Prost Circuit_Judge
+__NEW_SENT__
+('live', 'JJ', '', 'O') ('controversy', 'NN', '', 'O') ('remained', 'VBD', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('trade_show_demonstration', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('material_prior_art', 'CD', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('assignee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('president', 'NN', '', 'O') ('owed', 'VBD', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('candor', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Linn', 'NNP', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dissenting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+Linn Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*969', 'NNP', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Thornburgh', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Diego', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+John W. Thornburgh Fish & Richardson San Diego
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Juanita', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Brooks', 'NNP', 'PERSON', 'I') ('Roger', 'NNP', 'PERSON', 'I') ('A.', 'NN', 'PERSON', 'I') ('Denning', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Amon', 'NNP', 'PERSON', 'I')
+Juanita R. Brooks Roger A. Denning Michael A. Amon
+__NEW_SENT__
+('K.T', 'NNP', 'ORG', 'B')
+K.T
+__NEW_SENT__
+('Cherian', 'NNP', '', 'O') ('Howrey', 'NNP', 'PERSON', 'B') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Francisco', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Allflex', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Wynn', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Stanley', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O')
+Howrey San Francisco Allflex USA Inc. Ronald S. Wynn Richard L. Stanley Houston
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('LINN', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', 'CARDINAL', 'B') ('PROST', 'NNP', '', 'O')
+Court Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NNP', '', 'O') ('concurring-in-part', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dissenting-in-part', 'NNP', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('LINN', 'NNP', '', 'O')
+
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', 'ORG', 'B') ('Identification', 'NNP', 'ORG', 'I') ('Systems', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Avid', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Datamars_SA', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('subsidiary', 'NN', '', 'O') ('Crystal', 'NNP', 'ORG', 'B') ('Import', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Datamars', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Avid', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('No._5235,326', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('directed', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('multi-mode', 'JJ', '', 'O') ('radio-frequency_identification_system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reading', 'VBG', '', 'O') ('encoded', 'VBN', '', 'O') ('biocompatible_chips', 'NNS', '', 'O')
+Avid Identification Systems Inc. Avid Crystal Import Corporation Avid U.S. Patent No._5235,326
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('found', 'VBN', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('infringed', 'VBN', '', 'O') ('but', 'CC', '', 'O') ('held', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('reviewing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('address', 'VBP', '', 'O') ('which', 'WDT', '', 'O') ('individuals', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('``', '``', '', 'O') ('substantively', 'RB', '', 'O') ('involved', 'VBN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preparation', 'NN', '', 'O') ('or', 'CC', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent_application', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('owe', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('candor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('good', 'JJ', '', 'O') ('faith', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('under', 'IN', '', 'O') ('37', 'CD', 'CARDINAL', 'B') ('C.F.R.¡±', 'NNP', '', 'O') ('1.56', 'CD', '', 'O')
+the Patent and Trademark_Office 37
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('small', 'JJ', '', 'O') ('closely', 'RB', '', 'O') ('held', 'VBN', '', 'O') ('company', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('designs', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('markets', 'VBZ', '', 'O') ('biocompatible', 'JJ', '', 'O') ('radio', 'NN', '', 'O') ('frequency', 'NN', '', 'O') ('identification', 'NN', '', 'O') ('chips', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('implantation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('animals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', '', 'O') ('markets', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('chips', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('pet', 'VB', '', 'O') ('owners', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('way', 'NN', '', 'O') ('of', 'IN', '', 'O') ('increasing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('chances', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('an', 'DT', '', 'O') ('estranged', 'JJ', '', 'O') ('companion', 'NN', '', 'O') ('animal', 'NN', '', 'O') ('will', 'MD', '', 'O') ('be', 'VB', '', 'O') ('identified', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('reunited', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('family', 'NN', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', '', 'O') ('markets', 'NNS', '', 'O') ('devices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('reading', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('chips', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('animal', 'NN', '', 'O') ('hospitals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('shelters', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('founder', 'NN', '', 'O') ('and', 'CC', '', 'O') ('president', 'NN', '', 'O') ('veterinarian', 'NN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Hannis', 'NNP', 'PERSON', 'B') ('Stoddard', 'NNP', 'PERSON', 'I') ('testified', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('he', 'PRP', '', 'O') ('decided', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('the', 'DT', '', 'O') ('Avid', 'NNP', 'NORP', 'B') ('corporation', 'NN', '', 'O') ('after', 'IN', '', 'O') ('visiting', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('animal', 'NN', '', 'O') ('shelter', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reclaim', 'VB', '', 'O') ('his', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('lost', 'JJ', '', 'O') ('dog', 'NN', '', 'O')
+Avid Hannis Stoddard Avid
+__NEW_SENT__
+('He', 'PRP', '', 'O') ('explained', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('most', 'JJS', '', 'O') ('animals', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('shelter', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('clearly', 'RB', '', 'O') ('lost', 'VBN', '', 'O') ('pets', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('way', 'NN', '', 'O') ('to', 'TO', '', 'O') ('find', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('homes', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Dr._Stoddard', 'NN', '', 'O') ('made', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('his', 'PRP$', '', 'O') ('mission', 'NN', '', 'O') ('*970', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('implement', 'VB', '', 'O') ('a', 'DT', '', 'O') ('better', 'JJR', '', 'O') ('system', 'NN', '', 'O') ('of', 'IN', '', 'O') ('dealing', 'VBG', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('identification', 'NN', '', 'O') ('and', 'CC', '', 'O') ('processing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('recovered', 'VBN', '', 'O') ('animals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('He', 'PRP', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('colleague', 'NN', '', 'O') ('Peter', 'NNP', 'PERSON', 'B') ('Troesch', 'NNP', 'PERSON', 'I') ('formed', 'VBD', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('purpose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('carrying', 'VBG', '', 'O') ('out', 'RP', '', 'O') ('Dr._Stoddard', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('mission', 'NN', '', 'O')
+Peter Troesch Avid
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('company', 'NN', '', 'O') ('first', 'RB', '', 'O') ('started', 'VBD', '', 'O') ('Avid', 'NNP', 'PRODUCT', 'B') ('purchased', 'VBD', '', 'O') ('unencrypted', 'JJ', '', 'O') ('identification', 'NN', '', 'O') ('chips', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('supplier', 'NN', '', 'O') ('relabeled', 'VBD', '', 'O') ('them', 'PRP', '', 'O') ('and', 'CC', '', 'O') ('sold', 'VBD', '', 'O') ('them', 'PRP', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('marketer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('distributor', 'NN', '', 'O')
+Avid
+__NEW_SENT__
+('The', 'DT', '', 'O') ('company', 'NN', '', 'O') ('discontinued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('resale', 'NN', '', 'O') ('business', 'NN', '', 'O') ('model', 'NN', '', 'O') ('in', 'IN', '', 'O') ('around', 'IN', '', 'O') ('1985', 'CD', 'DATE', 'B') ('because', 'IN', '', 'O') ('Dr._Stoddard', 'NN', '', 'O') ('wanted', 'VBD', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('technology', 'NN', '', 'O')
+1985 Avid
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('Stoddard', 'NNP', 'PERSON', 'B') ('wanted', 'VBD', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('develop', 'VB', '', 'O') ('a', 'DT', '', 'O') ('chip', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reader_system', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('reader', 'NN', '', 'O') ('could', 'MD', '', 'O') ('read', 'VB', '', 'O') ('both', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('unencrypted_chips', 'NNS', '', 'O') ('currently', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('encrypted', 'VBN', '', 'O') ('chips', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('produced', 'VBD', '', 'O')
+Stoddard Avid Avid
+__NEW_SENT__
+('Stoddard', 'NN', '', 'O') ('hired', 'VBD', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('three', 'CD', 'CARDINAL', 'I') ('engineers', 'NNS', '', 'O') ('Dr.', 'NNP', '', 'O') ('Polish', 'NNP', 'NORP', 'B') ('Dr._Malm', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Mr.', 'NNP', '', 'O') ('Beigel', 'NNP', 'PERSON', 'B') ('to', 'TO', '', 'O') ('carry', 'VB', '', 'O') ('out', 'RP', '', 'O') ('this', 'DT', '', 'O') ('objective', 'NN', '', 'O')
+at least three Polish Beigel
+__NEW_SENT__
+('By', 'IN', '', 'O') ('about', 'RB', 'DATE', 'B') ('1990', 'CD', 'DATE', 'I') ('these', 'DT', '', 'O') ('engineers', 'NNS', '', 'O') ('developed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('encrypted', 'VBN', '', 'O') ('identification', 'NN', '', 'O') ('chip', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('read', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('reader', 'NN', '', 'O') ('programmed', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('decryption', 'NN', '', 'O') ('code', 'NN', '', 'O')
+about 1990 Avid
+__NEW_SENT__
+('They', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('developed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('multi-mode', 'JJ', '', 'O') ("''", "''", '', 'O') ('reader', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('could', 'MD', '', 'O') ('read', 'VB', '', 'O') ('both', 'CC', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('encrypted', 'VBN', '', 'O') ('chip', 'NN', '', 'O') ('and', 'CC', '', 'O') ('traditional', 'JJ', '', 'O') ('unencrypted_chips', 'NNS', '', 'O')
+Avid
+__NEW_SENT__
+('Dr._Stoddard', 'NN', '', 'O') ('demonstrated', 'VBD', '', 'O') ('some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('technology', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('U.S.', 'NNP', '', 'O') ('Livestock', 'NNP', '', 'O') ('Committee', 'NNP', '', 'O') ('trade', 'NN', '', 'O') ('show', 'NN', '', 'O') ('in', 'IN', '', 'O') ('around', 'IN', 'DATE', 'B') ('April', 'NNP', 'DATE', 'I') ('of', 'IN', 'DATE', 'I') ('1990', 'CD', 'DATE', 'I')
+Avid around April of 1990
+__NEW_SENT__
+('In', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('of', 'IN', 'DATE', 'I') ('1991', 'CD', 'DATE', 'I') ('Avid', 'NNP', 'PERSON', 'B') ('filed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('multi-mode', 'JJ', '', 'O') ('encrypted', 'VBN', '', 'O') ('chip', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reader_system', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('reader', 'NN', '', 'O') ('can', 'MD', '', 'O') ('read', 'VB', '', 'O') ('both', 'DT', '', 'O') ('unencrypted_chips', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('encrypted', 'VBN', '', 'O') ('chips', 'NNS', '', 'O')
+August of 1991 Avid Avid
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('named', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Polish', 'NNP', 'NORP', 'B') ('Malm', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Beigel', 'NNP', 'PERSON', 'B')
+Polish Malm Beigel
+__NEW_SENT__
+('Dr._Malm', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('listed', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecuting', 'VBG', '', 'O') ('attorney', 'NN', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', 'DATE', 'B') ('few', 'JJ', 'DATE', 'I') ('days', 'NNS', 'DATE', 'I') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent_application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('assigned', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('rights', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('Avid', 'NNP', '', 'O')
+A few days
+__NEW_SENT__
+('Dr._Stoddard', 'NN', '', 'O') ('signed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('small', 'JJ', '', 'O') ('entity', 'NN', '', 'O') ('status', 'NN', '', 'O') ('affidavit', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Avid', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('pursuing', 'VBG', '', 'O') ('European', 'JJ', 'NORP', 'B') ('patent', 'NN', '', 'O') ('rights', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('encrypted', 'VBN', '', 'O') ('chip', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reader_system', 'NN', '', 'O') ('during', 'IN', '', 'O') ('this', 'DT', '', 'O') ('time', 'NN', '', 'O')
+Avid European
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('issued', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('of', 'IN', 'DATE', 'I') ('1993', 'CD', 'DATE', 'I')
+August of 1993
+__NEW_SENT__
+('Datamars', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Avid', 'NNP', 'LOC', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('companion', 'NN', '', 'O') ('animal', 'NN', '', 'O') ('identification', 'NN', '', 'O') ('chip', 'NN', '', 'O') ('market', 'NN', '', 'O')
+Avid
+__NEW_SENT__
+('Avid', 'NNP', '', 'O') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Datamars', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('several', 'JJ', '', 'O') ('other', 'JJ', '', 'O') ('competitors', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('2004', 'CD', 'DATE', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('unfair_competition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('false_advertising_claims', 'NNS', '', 'O')
+Datamars 2004
+__NEW_SENT__
+('The', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('defendants', 'NNS', '', 'O') ('settled', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('claims', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('Avid', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Datamars', 'NNP', 'PERSON', 'B') ('proceeded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('verdict', 'NN', '', 'O')
+Datamars
+__NEW_SENT__
+('The', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('willfully', 'RB', '', 'O') ('infringed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('found', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Avid', 'NNP', 'LOC', 'B') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('unfair_competition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('false_advertising_claims', 'NNS', '', 'O')
+Avid
+__NEW_SENT__
+('The', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('awarded', 'VBD', '', 'O') ('Avid', 'NNP', '', 'O') ('$', '$', '', 'O') ('26,981', 'CD', 'MONEY', 'B') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('and', 'CC', '', 'O') ('$', '$', 'MONEY', 'B') ('6', 'CD', 'MONEY', 'I') ('million', 'CD', 'MONEY', 'I') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('unfair_competition', 'NN', '', 'O') ('claim', 'NN', '', 'O')
+26,981 $ 6 million
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('Datamars', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('hold', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Datamars
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('without', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Dr._Stoddard', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('trade_show_demonstration', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('material_prior_art', 'CD', 'CARDINAL', 'B') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('that', 'DT', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('demonstration', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('withheld', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark_Office', 'NNS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('deceptive', 'JJ', '', 'O') ('intent', 'NN', '', 'O')
+material_prior_art 35 102 the U.S. Patent and Trademark_Office
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Dr._Stoddard', 'NN', '', 'O') ('owed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('candor', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('this', 'DT', '', 'O') ('ruling', 'NN', '', 'O') ('on', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('entered', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('settlement_agreement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('agreement', 'NN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('stipulated', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('dismissal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('other', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('those', 'DT', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('payment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('unfair_competition', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('reduced', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('$', '$', 'MONEY', 'B') ('3', 'CD', 'MONEY', 'I') ('million', 'CD', 'MONEY', 'I') ('Avid', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('unopposed_motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inequitable_conduct_decision', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Datamars', 'NNP', '', 'O') ('agreed', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('to', 'TO', '', 'O') ('contest', 'VB', '', 'O') ('the', 'DT', '', 'O') ('standing', 'VBG', '', 'O') ('jurisdiction', 'NN', '', 'O') ('mootness', 'NN', '', 'O') ('or', 'CC', '', 'O') ('case', 'NN', '', 'O') ('and', 'CC', '', 'O') ('controversy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inequitable_conduct_decision', 'NN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O')
+$ 3 million Avid
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('event', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('prevailed', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('reversing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('*971', 'NNP', '', 'O') ('determination', 'NN', '', 'O') ('on', 'IN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('or', 'CC', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('Datamars', 'NNP', 'DATE', 'B') ('agreed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('pay', 'VB', '', 'O') ('the', 'DT', '', 'O') ('$', '$', '', 'O') ('26,981', 'CD', 'MONEY', 'B') ('previously', 'RB', '', 'O') ('awarded', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬326_patent', 'NNP', '', 'O')
+Avid Datamars 26,981
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('unopposed_motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inequitable_conduct_decision', 'NN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('case', 'NN', '', 'O') ('or', 'CC', '', 'O') ('controversy', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('explained', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('settlement_agreement', 'NN', '', 'O') ('explicitly', 'RB', '', 'O') ('precluded', 'VBD', '', 'O') ('Datamars', 'NNP', '', 'O') ('from', 'IN', '', 'O') ('opposing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('in', 'IN', '', 'O') ('any', 'DT', '', 'O') ('way', 'NN', '', 'O') ('thus', 'RB', '', 'O') ('eliminating', 'VBG', '', 'O') ('any', 'DT', '', 'O') ('adversity', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('all', 'DT', '', 'O') ('matters', 'NNS', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('noted', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('opinion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Avid', 'NNP', 'PERSON', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('time', 'NN', '', 'O') ('on', 'IN', '', 'O') ('reconsideration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Dr._Stoddard', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('duty', 'NN', '', 'O') ('of', 'IN', '', 'O') ('candor', 'NN', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O')
+Avid first
+__NEW_SENT__
+('Avid', 'NNP', '', 'O') ('timely', 'RB', '', 'O') ('appealed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('determination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O')
+
+__NEW_SENT__
+('Datamars', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('file', 'VB', '', 'O') ('a', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('in', 'IN', '', 'O') ('response', 'NN', '', 'O')
+
+__NEW_SENT__

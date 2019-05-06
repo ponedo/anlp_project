@@ -1,0 +1,296 @@
+157_f.3d_887
+united states court of appeals federal_circuit
+emi group north america inc. plaintiff-appellant v. intel corporation defendant/cross-appellant
+nos._97-1137 97-1153
+| sept._29,_1998
+| rehearing denied ; suggestion for rehearing in banc declined nov._30,_1998
+* synopsis
+patentee brought infringement action against competitor claiming infringement of its patent for an improved method of fabricating metal_oxide_semiconductor mos field_effect_transistors in a large scale integrated circuit
+the united_states_district_court for the district of delaware roderick r. mckelvie j. 928_f.supp._449 936_f.supp._1186 granted summary_judgment in favor of competitor
+patentee appealed and competitor cross-appealed challenging ruling that competitor was not licensed under patent
+the court of appeals pauline newman circuit_judge held that 1 claim at issue was properly construed by district_court ; 2 patent was not literally infringed ; and 3 patent was not infringed under doctrine of equivalents
+
+affirmed and cross-appeal dismissed
+
+attorneys and law firms
+*889 james p. bradley sidley & austin of dallas texas argued for plaintiff-appellant
+with him on the brief were michael chibib and kathi a
+cover
+also on the brief were ivan s. kavrukov peter j. phillips cooper & dunham llp new york city ; donald f. parsons jr. morris nichols arsht & tunnell wilmington de
+of counsel were d. scott hemingway sidley & austin and lisa b. baeurle morris nichols arsht & tunnel
+james j. elacqua brobeck phleger & harrison palo alto ca argued for defendant/cross-appellant
+of counsel on the brief were susan k. knoll jeffrey l. garrett and michael s. dowler arnold white & durkee of houston tx
+also of counsel on the brief were peter n. detkin and mark v. seeley intel_corporation of santa clara ca
+of counsel was amber l. hatfield arnold white & durkee
+before newman plager and bryson circuit_judges
+opinion
+pauline newman circuit_judge
+in this patent infringement case the united_states_district_court for the district of delaware following a two-day_markman_hearing on the issue of` claim_construction' granted summary_judgment in favor of intel_corporation holding that three of intels manufacturing processes do not infringe united states patent no._4486,943 the943_patent owned by emi group north america.1 emi appeals
+intel cross-appeals inter alia the ruling that intel is not licensed under the943_patent
+we affirm the district_courts judgment that the claims are not infringed and dismiss the cross-appeal
+
+i
+the patented invention
+the943_patent entitled` zero drain overlap and self aligned contact method for mos devices' issued december 11 1984 is directed to a method of fabricating metal_oxide_semiconductor mos field_effect_transistors used in the integrated circuits of computer memory and microprocessor chips
+each mos_transistor acts as a switch to turn an electric current on and off
+a chip may contain as many as several million transistors
+
+mos_transistors are built on a wafer or` substrate' that forms the bottom of the transistor
+a mos_transistor typically consists of a gate_electrode that has been deposited on a thin dielectric insulating layer over the substrate with electrically conductive` source' and` drain' regions formed in the substrate on opposing sides of the gate_electrode
+these conductive regions are separated by the` channel' a poorly conductive region under the gate_electrode
+the basic mos structure of the prior_art is illustrated as follows
+
+*890. ?
+-- -- - upon application of voltage to the gate_electrode current flows from the source to the drain_region emitting an electrical signal that contributes to the operation of the chip
+when the gate voltage is discontinued the transistor reverts to static mode and ceases to emit signals
+
+various methods of manufacturing mos_transistors have been described whereby a semiconductor is produced by forming a thin layer of dielectric_material the oxide in the illustration on a silicon_substrate then depositing gate_electrode material such as polysilicon on the dielectric layer` doping' the polysilicon with activating ionic substances so that it will conduct electricity and vertically implanting or doping the source and drain_regions of the silicon_substrate with ions so that they become conductive
+the portion of the substrate under the gate_electrode is shielded from the vertical ion_implantation whereby after implantation the edges of the source and drain_regions are generally vertically aligned with the sides of the gate_electrode
+
+after implantation the entire structure is heated to activate the ions in the implanted regions as is necessary to make the regions conductive
+this step leads to an undesirable consequence because during this heating process the implanted ions tend to diffuse through the substrate
+diffusion under the gate_electrode causes buildup of an electric charge known as` miller_capacitance' which reduces the transistors operating speed
+the943_patent is directed to a mos_transistor fabrication method that reduces the occurrence of miller_capacitance
+
+in accordance with the943 method dielectric_oxide_layers are thermally grown on the top and sides of the gate_electrode
+this oxide serves as a mask during the ion_implantation of the substrate thereby spacing the source and drain_regions from the region under the gate as shown in fig._1 of the943_patent
+
+fig._1
+?
+*891 the dielectric_oxide_layers are differentially grown meaning that the oxide 18 grown on the top and sides of the gate_electrode 16 poly for polysilicon is thicker than the oxide grown over the source and drain_regions 20_and_22 of the substrate
+the grown oxide on the top and sides of the gate_electrode shields the gate_electrode and the underlying portions of the substrate from ion_implantation during creation of the source and drain_regions forming a gap that is free of implanted ions
+upon heat_activation there is some migration of ions but the conditions are controlled whereby there is substantially zero overlap in the vertical alignment of the gate_electrode and the implanted_source and drain_regions
+since the ions do not migrate beyond the gap into the area underneath the gate_electrode miller_capacitance is avoided and operating speed is increased
+claim 1 of the943_patent states the claimed process 1
+a method for fabricating on a substrate an mos_transistor having a gate_electrode and a self-aligned source/drain_region with zero overlap comprising a forming a doped polysilicon gate_electrode upon but insulated from the substrate ; then
+( b differentially thermally growing an oxide to serve as an implant_mask having controlled thickness on both the top and sides of the gate_electrode whereby a relatively thicker layer of oxide is developed on the top and sides of the gate_electrode and a relatively thinner layer of oxide is developed on the intended source and drain_regions of the substrate ; then
+( c anisotropically etching said oxide ; d implanting a source/drain_region in the substrate such that said implant_mask shields an underlying portion of the substrate from implantation to result in a gap between a side_edge of the gate_electrode and a side_edge of the implanted region ; and then
+( e heat driving the implanted_source/drain_region until its side_edge is substantially aligned with the previously separated side_edge of the gate_electrode whereby the source/drain edge is aligned with the gate_electrode edge and there is substantially zero overlap
+emi charged that certain of intels mos_transistor fabrication methods infringe claim 1 literally or under the doctrine of equivalents
+
+infringement
+determination of infringement entails a two-step analysis wherein the claims are first construed by the court as a matter of law following which the construed claims are applied to the accused device or method a question of fact
+markman v. westview instruments inc. 52_f.3d_967 976 34_u.s.p.q.2d_1321 1326 fed.cir.1995 in banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577 38_u.s.p.q.2d_1461_(1996)
+in cybor corp. v. fas techs. inc. 138_f.3d_1448 1455 46_u.s.p.q.2d_1169 1173 fed.cir.1998 in banc the federal_circuit confirmed that any disputed questions concerning the meaning and scope of patent_claims including the meaning of technologic and other terms` the totality of claim_construction' are treated as questions of law and are determined de novo on appeal without deference to the decision of the trial_court
+
+on appeal of the district_courts grant of summary_judgment we first must construe the claims and then apply the rules governing summary_judgment to the district_courts rulings on the factual issues of infringement
+when disputed questions of material fact underlie the summary_judgment` the evidence of the nonmovant is to be believed and all justifiable inferences are to be drawn in his favor'
+anderson v. liberty lobby inc. 477_u.s._242 254 106_s.ct._2505 91_l.ed.2d_202_(1986)
+the appellate tribunal must assure itself that there is no reasonable version of the facts on the summary_judgment record whereby the nonmovant could prevail recognizing that the purpose of summary_judgment is not to deprive a litigant of a fair hearing but to avoid an unnecessary trial
+see id.at 250 106_s.ct._2505
+on this basis the grant of summary_judgment is reviewed de novo on appeal
+see e.g. stark v. advanced magnetics inc. 29_f.3d_1570 1572-73 31_u.s.p.q.2d_1290 1292 fed.cir.1994
+
+the markman hearing
+construction of the claims by the trial_court is often conducted upon a preliminary *892 evidentiary hearing called a markman_hearing in homage to the decision cited supra that established that this step must be performed by the judge not the jury
+this case illustrates the resolution of most of a complex infringement case with no more trial than a two-day_markman_hearing
+
+at the markman_hearing the district_court heard extensive testimony from the technical experts on the various issues and arguments concerning the scope of the claims in the context of the accused structures and made findings thereon in construing the claims
+the federal_circuit has admonished that claims should preferably be interpreted without recourse to extrinsic_evidence such as expert_testimony other than perhaps dictionaries or reference books and that expert_testimony should be received only for the purpose of educating the judge
+see markman 52 f.3d at 983 34 u.s.p.q.2d at 1133 expert_testimony can not` relieve the court of its obligation to construe the claims according to the tenor of the patent
+this opinion testimony also does not change or affect the de novo appellate review standard for ascertaining the meaning of the claim language'
+in cybor the court reaffirmed that extrinsic_evidence including expert_testimony is not to be relied upon for purposes of claim interpretation other than to aid the judge in understanding the technology ; such evidence is only` an aid to the court in coming to a correct conclusion as to the true meaning of the language employed in the patent'
+138 f.3d at 1454_n._3 1455-56 46 u.s.p.q.2d at 1173_n._3 1174
+
+at the hearing the court received the testimony of expert_witnesses for both sides
+the witnesses explained the technology of mos field effect transistor fabrication analyzed the cited references and testified as to the technologic facts of the patented and the accused processes and their effect
+the expert_witnesses discussed the specification and the prosecution_history and the meaning of certain rejections arguments and amendments during patent_prosecution
+the expert_witnesses expressed their views on the meaning and scope of the claims as well as on legal and technologic issues relating to prosecution_history estoppel and equivalency
+
+following the markman_hearing the district_court construed the scope of the claims with respect particularly to the relative_thickness of the grown oxide on the top of the poly gate
+this construction was dispositive of the issue of literal_infringement
+the district_court granted intels motion for summary_judgment that there was not literal_infringement and a few weeks later upon intels renewed motion the court granted summary_judgment that there was not infringement under the doctrine of equivalents
+emi argues that the district_court incorrectly construed the claims denying the patented_invention its proper scope
+emi states that the courts overly narrow claim_construction incorrectly excluded the accused intel_processes
+
+several complex and disputed technologic questions have been raised concerning the scope of the claims and their construction particularly in the context of the accused structures
+in our de novo review we have considered the analysis and conclusions of the district_court as well as the testimony and opinions of the expert_witnesses in resolving these questions
+although both sides have attempted to provide basic education in this field of technology our determination of the issues on appeal has drawn on the record of the markman_hearing and the testimony of the expert_witnesses including their conflicting views of the significance of various distinctions drawn during patent_prosecution with respect to the prior_art as well as with respect to the accused intel_methods and their relation to the emi method and prior_art methods
+
+the oxide thickness claim clause b the district_court construed clause b to require that the dielectric oxide grown on top of the gate_electrode must be sufficiently thick of itself without additional deposited dielectric to serve as an implant_mask for the gate_electrode
+this requirement is not stated in the943 specification but intel argued that it is implicit in the patented_invention and that this can be discerned from the prosecution_history and the prior_art
+
+the issue was debated by the expert_witnesses who disputed the purpose of the grown oxide on top of the gate applied the *893 prior_art to set limits to the top_oxide_thickness and discussed the implications for intels process
+drawing heavily on this testimony the district_court construed claim_clause b to require the following characteristics of the grown oxide on the top and sides of the gate some of which are stated in the claim and some of which are not 1 the grown oxide must be thick enough on top of the gate_electrode to serve as a mask for the implant of step d ; 2 the grown oxide must be thick enough on the side of the gate_electrode to block the implant of step d thereby making a` gap ;' and
+( 3 the top_oxide_thickness must be in a proportion of at least 1.big_token__77_to_1__big_token to the substrate oxide thickness
+emi assigns several errors to this claim_construction
+first emi argues that clause b does not require that the grown oxide on top of the gate_electrode be sufficiently thick by itself to serve as a mask during implantation of the source/drain_region
+this aspect is relevant to the issue of infringement for intel adds dielectric to the top of the gate in order to achieve this masking result
+emi states that the doping implanting of the gate_electrode itself is not part of the943 invention and that it is irrelevant to the construction of the claim to consider how the top of the gate is masked
+emi states that neither the specification nor the prosecution_history concerns the mask thickness of the oxide on top of the gate or whether that oxide is grown or additional_dielectric is deposited or both
+thus emi argues that the district_court incorrectly construed the claim by imposing the enumerated limitations on the claim element of clause b
+
+emi points out that clause b as written requires only that the oxide grown on the top and sides of the gate_electrode has a` controlled thickness' thicker than the oxide grown on the substrate this is the agreed meaning of` differentially' growing and requires only that the grown oxide on top and sides` serves as an implant_mask' during implanting of the source and drain_regions
+emi states that this does not mean or require that the grown oxide must be sufficiently thick on top of the gate to serve as a complete implant_mask to the gate_electrode itself which has already been doped
+emi states that the943 claims do not exclude intels deposit of additional oxide on the top of the gate to add to the masking_effect of the grown oxide
+emi argues that the phrase in clause b` having controlled thickness on both top and sides' refers grammatically and technologically to the term` oxide' not the term` implant_mask'
+emi states that the943_patent is directed to masking the substrate during ion_implantation of the drain and source regions and that it is irrelevant how the top of the gate is shielded during this step
+
+thus emi argues that clause b correctly construed requires only that the differentially grown oxide must have controlled thickness on the gate_electrode as compared with the substrate but does not also require the grown oxide on top of the gate_electrode to serve as a total mask to the top of the gate during the implantation of the substrate in accordance with clause d
+emi argues that the specification supports the claim_construction that only the oxide grown on the sides of the gate_electrode must serve as a complete mask to the underlying substrate pointing out that column 3 lines 42-44 of the943_patent states that` the oxide 18 on the sides of the gate_electrode acts as an implant_mask to shield underlying portions of the substrate from implantation'
+
+during patent_prosecution the claims were rejected on the ground of obviousness based on u.s._patent_no._4182,023 the cohen_patent in light of u.s._patent_no._4356,623 the hunter_patent
+the cohen_patent describes the implanting of mos source and drain_regions when there is formed on top of the gate_electrode a layer of oxide slightly larger than the gate_electrode thereby providing an overhanging mask that shields a portion of the substrate below the overhang during the vertical implantation of ions into the source and drain_regions
+the hunter_patent describes depositing an oxide_layer over the top and sides of the gate_electrode then etching away the oxide on the top of the gate so that the top can be implanted with dopant leaving the oxide on the sides of the gate to serve as an implant_mask for the *894 substrate
+to overcome the rejection on the combination of cohen and hunter emi amended clause b which had initially stated` forming an implant_mask of a controlled width on the sides of the gate_electrode' without mentioning the top of the gate_electrode to` forming an implant_mask of a controlled thickness on both the sides and on the top of the gate_electrode'
+emis patent_attorney pointed out to the examiner that the hunter_patent required etching away the oxide on top of the gate_electrode and if enough oxide is etched away to permit implanting the source and drain because there is no differential between the gate oxide thickness and the source/drain oxide thickness the gate would similarly be implanted
+this too is a severe_problem
+[ emphasis in original ]
+thus emi stressed to the pto that in its invention failure to totally mask the gate would result in a` severe_problem'
+
+again rejecting the pending claims the examiner next cited the steinmaier_patent u.s._patent_no._4139,402 in view of the cohen_patent
+steinmaier shows grown oxide on the top and sides of the gate and was distinguished by the applicants stressing that in the943 invention the oxide was differentially thermally grown that the gate was already doped before the oxide was grown and that the oxide in steinmaier was too thin to serve as an implant_mask for the doped polysilicon or to prevent diffusion of ions from the source and drain_regions into the area under the gate
+the rejection was also based on the stoffel_patent u.s._patent_no._4287,661 which showed an implant_mask having deposited oxide on top of the gate and grown oxide on the sides of the gate and on the substrate
+emi argued that stoffel was distinguishable on the basis that the top of the gate is covered with a coterminous layer of deposited_silicon_oxide
+next to get to fig._4 a thermal_growth occurs as described in column 4 lines 15-27
+clearly this oxidation is entirely of polysilicon because polysilicon is the upper most layer
+there is no differential growth because there is only one substance being oxidized
+( a difference in thickness results only because there is the added thickness of deposited_silicon_oxide 32
+[ emphasis in original ]
+at the same time claims covering alternate embodiments including those to composites of two dielectrics to mask the gate were cancelled and claim 1 was amended and limited to` b differentially thermally growing an implant_mask of oxide.. on the top and sides'
+
+the oxide grown under the conditions of the943_patent was consistently described to the examiner as having the advantage of producing a` relatively thicker' oxide covering the gate_electrode
+although it is undisputed that intels grown oxide is also` relatively thicker' on the gate it was stipulated that it is not thick enough to mask the top during ion_implantation and requires a supplemental deposit of dielectric_material for that purpose
+we observe that emis claims all state that the gate_electrode is already` doped' before implantation of the source/drain_region see clause a of claim 1 thus requiring that the top be masked during implantation of the source/drain_regions
+
+with the guidance of expert_testimony on all of these issues raised by the prior_art and the prosecution_history the district_court held that the differentially thermally grown oxide on top of the gate_electrode in the943_patents process must be thicker than the oxide grown on the substrate by a ratio of at least 1.big_token__77_to_1__big_token
+this ratio does not appear in the943 specification but is derived from the steinmaier_reference which was distinguished during prosecution as inadequate to satisfy the masking requirements of the943 process because the differential available from steinmaier was only 1.big_token__77_to_1__big_token
+thus the district_court placed this numerical threshold on the term` relatively thicker' in claim_clause b
+emi argues on appeal that the specification and claims require only that the oxide grown on top of the gate_electrode is relatively thicker than the oxide grown over the substrate that the prosecution_history did not focus on the top thickness of the mask which is irrelevant to the943 invention and that the numbers extracted from the prior_art are inaptly imported into the943 claims
+
+*895 although we agree with emi that the 1.big_token__77_to_1__big_token ratio is not the only way of defining` relatively thicker' it was presented to the examiner in distinguishing the steinmaier_reference as a ratio below which differential_thermal_growth is not deemed to be achieved
+it was not incorrect for the district_court to construe the claims as requiring at least the relative_thickness that was invoked to distinguish the943 method from the prior_art
+in all events it is clear that the oxide grown on top of the gate must be thick enough to serve as a mask for the gate during the implant step d for this was the basis on which emi overcame the final rejection on the cohen and steinmaier_references ; and emi concedes that the differentially thermally grown oxide of intel without additional_dielectric does not mask the gate during step d
+
+the` implanted region' emi states that the district_court erred by equating` the implanted region' with` the source/drain_region' at the stage of claim_clause b emi arguing that the source/drain_region does not fully exist until after the heat_activation step of clause e
+however we observe that emis counsel as well as expert_witnesses for both sides referred to this region as the source/drain_region before as well as after heat_activation
+if there were technical error it is harmless for there is no uncertainty as to the region of the transistor that was meant to be described
+
+in claim_clause d the district_court construed the phrases` implanted region' and` source/drain_region' to mean` regions of opposite polarity as compared to the substrate surrounding them'
+this construction has not been challenged
+
+the` gap' emi also criticizes the district_courts construction of` gap' in claim_clause d
+we do not discern the errors assigned by emi
+the district_court defined the` gap' area as` a distance between a side_edge of the gate_electrode and a side_edge of the implanted region'
+this definition had been refined upon emis criticism with the benefit of testimony of the expert_witnesses
+we confirm that this definition is correct
+again there is no ambiguity as to the area that is intended to be described as the gap area
+
+the side edge
+the district_court defined the phrase` a side_edge of the implanted region' in clause d to mean` where the concentration of n-type_polarity equals the concentration of p-type_polarity'
+emi portrays this definition as deficient in several ways ; in particular emi states that the district_court confused` p+' and` n+' references to concentration with` p-type' and` n-type' references to polarity
+
+upon review of the expert_testimony the arguments and the application of each claim_step to the intel_process we conclude that it is irrelevant whether the district_court achieved a technologically perfect definition because there is no dispute that the corresponding step of the intel_process is within the literal_scope of clause d however` the side_edge' is defined
+thus we do not attempt to decide de novo the correct meaning of p+/n+ and p-type/n-type in this field of science and as used in the943_patent to delineate the side_edge of the source/drain_region
+
+substantially aligned
+the district_court construed the phrases` substantially aligned' and` substantially zero overlap' to mean` the same as or very close to perfect_alignment' and` the same as or very close to zero overlap' respectively
+emi does not challenge the latter definition but contests the use of` perfect_alignment' in defining` substantially aligned'
+according to emi the term` perfect' is superfluous and inappropriate
+however the district_court extensively documented the statements in the943 specification and the prosecution_history that` perfect_alignment' along with` zero overlap' was a key distinguishing aspect of this invention
+
+upon review of these materials we reach the same conclusion as did the district_court
+we also observe that this aspect of the claim_construction does not affect the infringement decisions which accepted that intel employed literally the heat driving step of *896 clause e to achieve the alignment and zero overlap required by clause e
+
+literal infringement
+the parties agree that if the district_courts claim_construction stands intels process does not literally infringe claim 1
+the parties stipulated facts which the district_court held on its claim_construction to warrant summary_judgment that there was not literal_infringement of claim 1
+specifically [ the parties ] stipulate that the thermally grown oxide_layer on the top of the gate_electrode in the p650 p651 and p852 revs.1-8 processes used by intel to fabricate mosfet transistors does not by itself mask the top of the gate_electrode from the n+ and p+ implants at the energy levels used in said process for said implants
+we agree with the district_court that if the claims are construed to require that the thermally grown oxide in clause b must be not only thicker on the top and sides than on the substrate but also must be thick enough by itself to serve as an implant_mask for the top of the gate_electrode there can not be literal_infringement
+since we have confirmed the district_courts ruling that claim 1 requires that the grown oxide on the top of the gate_electrode must be sufficiently thick to mask implantation of the top of the gate without augmentation with deposited dielectric and in view of the stipulation quoted supra we affirm that intels processes that are subject to this stipulation do not literally infringe claim 1
+
+the doctrine of equivalents
+the doctrine of equivalents is intended to permit the patentee to enforce the patent against substantially the same invention recognizing the strong constraints of the patent_claims as the statement of the statutory patent right
+thus the doctrine of equivalents is invoked to prevent a` fraud on the patent' graver tank & mfg co. v. linde air prods co. 339_u.s._605 608 70_s.ct._854 94_l.ed._1097_(1950) when an accused infringer is` stealing the benefit of the invention' by making insubstantial changes that avoid the literal_scope of the claims
+see warner-jenkinson co. inc. v. hilton davis chem co. 520_u.s._17 117_s.ct._1040 137_l.ed.2d_146_(1997)
+
+infringement by equivalents requires that` the accused product or process contain elements identical or equivalent to each claimed element of the patented_invention'
+id.at -- -- 117_s.ct._1040
+for infringement of a process invention all of the claimed steps of the process must be performed either as claimed or by an equivalent step
+see applied materials inc. v. advanced semiconductor materials am. inc. 98_f.3d_1563 1574 40_u.s.p.q.2d_1481 1489 fed.cir.1996
+
+emi states that even if intels accused methods do not literally infringe claim 1 they infringe under the doctrine of equivalents
+emi states and intel does not dispute that the only difference is intels use of a composite_dielectric of grown and deposited oxide on top of the gate to mask the gate during implantation of the source/drain_region
+emi states that this composite_dielectric is equivalent to the grown oxide of claim_clause b in its function way and result and indeed is substantially the same
+intel responds that emi is estopped by the prosecution_history from invoking this equivalency as grounds of infringement
+
+emi states that intels implant_mask on the top of the gate_electrode is the equivalent of the mask of claim_clause b because intel not only uses differentially thermally grown oxide as stated in clause b but simply deposits additional_dielectric_material over the grown oxide
+this composite layer is sufficiently thick to serve as an implant_mask which according to emi is the identical function required by the claim achieved in the same way with the same result
+there is no dispute that this is what intel does and that it achieves the result of masking the gate_electrode during implantation of the source/drain_regions as stated in the claim
+according to emi intel simply substitutes a known expedient for part of the grown oxide
+
+equivalency is not defeated by using an additional step to achieve what the patentee does in one step
+see e.g. *897 intel_corp. v. united_states_int l_trade_comm n 946_f.2d_821 832 20_u.s.p.q.2d_1161 1171 fed.cir.1991 infringement under the doctrine of equivalents when a combination of components performed the function of a single element of the patented_invention
+such a process may avoid the reach of the doctrine of equivalents however if the asserted variation had been relinquished during prosecution on grounds of patentability
+warner-jenkinson 520 u.s. at -- -- 117_s.ct._1040 ; mannesmann demag corp. v. engineered metal prods co. 793_f.2d_1279 1284 230_u.s.p.q._45 47-48 fed.cir.1986
+thus when claims are amended for reasons of patentability it is necessary to determine the scope of the estoppel that has been incurred by the amendment
+see hughes aircraft co. v. united states 140_f.3d_1470 1477 46_u.s.p.q.2d_1285 1289-90 fed.cir.1998 amendments made to overcome a prior_art rejection narrow the range of equivalents accordingly ; however they do not by the fact of amendment preclude access to the doctrine of equivalents ; litton sys. inc. v. honeywell inc. 140_f.3d_1449 1455 46_u.s.p.q.2d_1321 1325 fed.cir.1998 equivalency must be determined on the facts of what was surrendered and why
+we agree with emi that on the face of the differences between the intel_methods and the943 claims there is no substantial difference between the masking_effect of differentially thermally grown oxide of a certain thickness and the masking_effect of differentially thermally grown oxide of a lesser thickness that is supplemented by deposited oxide to achieve the needed thickness
+however the district_court determined that emi is estopped from achieving the benefit of that equivalency
+
+emi argues that no estoppel can flow from the amendment to clause b that resulted from the rejection based on the steinmaier and stoffel references
+this amendment related to the differential thermal growing of relatively thick oxide and in conjunction with a prior amendment required such grown oxide on the top as well as the sides of the gate
+in making this amendment emi drew the examiners attention to the fact that in contrast to steinmaier the claimed differentially thermally grown oxide must be sufficiently thick to prevent ion_implantation
+similarly emi distinguished stoffel on the ground that the gate in stoffel was covered with deposited material not differentially thermally grown oxide once again emphasizing that` the implant_mask of step b [ of emis claim 1 ] is specified to be thermally grown oxide'
+in view of these arguments made to distinguish steinmaier and stoffel and the special significance placed on the use of a differentially thermally grown oxide_layer that was by itself thick enough to prevent ion_implantation we conclude that emi surrendered coverage to a mask consisting in part of differentially thermally grown oxide and in part of deposited material
+
+along with its amendment to clause b to distinguish steinmaier and stoffel emi also cancelled claims covering composite_masks claims 8_and_23 in particular albeit claims that did not specifically describe the intel products
+this combination of cancellations and amendments ultimately led to allowance of the claims in suit
+claims 8_and_23 as well as the other pending claims had been rejected as unpatentable over the steinmaier_patent in view of cohen as well as over the stoffel_patent in view of cohen
+as discussed ante steinmaier describes forming an implant_mask by thermally growing an oxide_layer over the gate and substrate while stoffel teaches forming an implant_mask by depositing oxide on top of the gate and then thermally but non-differentially growing an oxide_layer over the sides of the gate and the substrate
+although none of these references explicitly refers to composite_dielectric layers as implant_masks over a gate the district_court placed weight on the following argument of emis patent_attorney when cancelling these claims [ a ] pplicant considers that the rejections of claims on the basis of steinmaier or stoffel in combination with cohen are infirm because these references do not suggest the use of differential_thermal_growth with a high differential rate to form a device according to claim 1
+further none of the prior_art suggests combining such_differential_thermal_growth with anisotropic etching for this purpose
+third none of the prior_art is seen to suggest the combination of such_differential_thermal_growth *898 with such anisotropic etching combined with the self-alignment of contacts
+the court concluded that the emphasis on differential_thermal_growth constituted a surrender with respect to coverage of implant_masks that were not differentially thermally grown including composite_dielectric masks
+
+we agree with emi that the cancellation of its broad claims to composite_masks was not a disclaimer of every possible composite mask
+cancellation of a claim that is written broadly does not always generate an estoppel to narrower subject matter
+the particular facts must be considered
+see e.g. modine mfg co. v. united_states_int l_trade_comm n 75_f.3d_1545 1555-56 37_u.s.p.q.2d_1609 1616 fed.cir.1996 determination` is based on the reasonable reading by a person of skill in the field of the invention of the entire prosecution_history
+`` ; pall corp. v. micron separations inc. 66_f.3d_1211 1218-19 36_u.s.p.q.2d_1225 1230 fed.cir.1995 expert evidence of the significance of terms of art as used in the patent ; cf
+litton 140 f.3d at 1455 46 u.s.p.q.2d at 1325
+
+notwithstanding our conclusion that cancellation of claims to certain composite_masks by itself did not effect an estoppel with respect to intels accused processes we have determined that the district_court correctly interpreted the prosecution_history as a whole in estopping emi
+emi specifically argued that the differentially thermally grown oxide on top of the gate masks the gate during the implant deposition of claim_step d in response to rejections on prior_art
+the applicant had stressed to the examiner throughout the prosecution that the differential_thermal_growth of the masking oxide on the top and sides of the gate provided a patentable_distinction from hunter steinmaier and stoffel as well as other references
+the significance of a substantial differential in thickness of the thermally grown oxide of itself was emphasized by emi in amendment and argument accompanied by amendment or cancellation of claims not so limited
+although emi now argues that the only important aspect of the943 invention is the masking_effect of the side oxide to produce the gap in the substrate that is an inadequate view of the prior_art and the prosecution of the claims for the prior_art showed side masks for the purpose here used and the other limitations of the claims were relied upon to distinguish the various cited references
+emi had been steadfast in its argument that a patentable_distinction from the prior_art was the differentially thermally grown oxide to mask the top and sides of the gate accompanied by amendments to limit the broadest remaining claim now claim 1 to differentially thermally grown oxide` to serve as an implant_mask' clause b the claim also requiring that the gate_electrode had already been doped clause a thus implicitly requiring masking during implant of the source/drain_regions
+
+we thus affirm the district_courts ruling that emi is estopped to assert equivalency against intels combination of differentially thermally grown oxide and deposited dielectric on the gate when the differentially thermally grown oxide itself is not thick enough to mask the top of the gate from implant
+emi acknowledged to the examiner that` steinmaier is one of what must be a huge number of patents which relate to the formation of a transistor device' and in this congested art and in view of all of the cited references and the prosecution_history we agree that emi is now estopped from asserting equivalency of intels composite_dielectric when the masking_effect on the top of the gate is achieved only by an additional deposit of dielectric
+the summary_judgment of non-infringement under the doctrine of equivalents is affirmed
+
+ii
+the intel cross-appeal
+intel raises two issues in its cross-appeal
+first intel argues that summary_judgment was inappropriately granted on the issue of the asserted license under the943_patent
+second intel objects to the district_courts ruling on an issue of privileged documents
+
+intel states and emi does not disagree that in the event of our affirmance of the *899 judgments of non-infringement the cross-appeal need not be reached
+accordingly the cross-appeal is dismissed
+
+costs
+no costs
+
+affirmed ; cross-appeal dismissed
+
+all citations
+157_f.3d_887 48_u.s.p.q.2d_1181
+footnotes
+* circuit_judges clevenger and schall did not participate in the vote
+1
+emi group n
+am. inc. v. intel_corp. c.a
+no._955-199- rrm d. del
+may 1 & oct._31,_1996 ; nov._4,_1996 partial summary_judgment ; judgment ; thorn emi north am. inc. v. intel_corp. 936_f.supp._1186 928_f.supp._449 d.del.1996 partial summary_judgments
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+emi group north america inc. v. intel_corp. 157_f.3d_887 1998 48_u.s.p.q.2d_1181
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

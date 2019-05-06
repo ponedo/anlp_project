@@ -1,0 +1,83 @@
+908_F.3d_1343
+United States Court of Appeals Federal Circuit
+ANCORA TECHNOLOGIES INC. Plaintiff-Appellant
+v. HTC AMERICA INC. HTC_Corporation Defendants-Appellees
+2018-1404
+| Decided : November 16 2018
+| As Amended November 20 2018
+Synopsis
+Background : Owner of patent describing and claiming methods of limiting a computer 's running of software not authorized for that computer to run brought infringement action
+Competitor moved to dismiss
+The United_States_District_Court for the Western_District of Washington No._2 :16-cv-01919-RAJ Richard A. Jones J. 287_F.Supp.3d_1168 granted motion
+Patent owner appealed
+
+The Court of Appeals Taranto Circuit_Judge held that claim was not directed to an abstract_idea and thus was not patent ineligible
+
+Reversed and remanded
+
+Procedural Posture ( s ) : On Appeal ; Motion to Dismiss for Failure to State a Claim
+*1344 Appeal from the United_States_District_Court for the Western_District of Washington in No._2 :16-cv-01919-RAJ Judge Richard A. Jones
+Attorneys and Law Firms
+Marc Lorelli Brooks Kushman PC Southfield MI argued for plaintiff-appellant
+Also represented by Mark A. Cantor John S. Le Roy John P. Rondini
+Irfan A. Lateef Knobbe Martens Olson & Bear LLP Irvine CA argued for defendants-appellees
+Also represented by Brian Christopher Claassen Daniel C. Kiang Joseph R. Re
+Before Dyk Wallach and Taranto Circuit_Judges
+Opinion
+Taranto Circuit_Judge
+Ancora_Technologies Inc. 's U.S. Patent 6,411,941 is entitled `` Method of Restricting Software Operation Within a License Limitation ''
+The patent describes and claims methods of limiting a computer 's running of software not authorized for that computer to run
+It issued in 2002 and the patentability of all claims was confirmed in a reexamination in 2010
+The '941_patent was previously before this court in Ancora_Technologies Inc. v. Apple Inc. 744_F.3d_732_(Fed._Cir._2014) which involved a 2011 infringement suit against Apple that raised issues of claim construction and indefiniteness in this court
+
+Ancora brought this action against HTC America and HTC_Corporation in 2016 alleging infringement of the '941_patent
+HTC moved to dismiss on the ground that the patent 's claims are invalid because their subject_matter is ineligible for patenting under 35 U.S.C ¡± 101
+The district_court granted HTC 's motion to dismiss concluding that the claims are directed to and ultimately claim no more than an abstract_idea
+
+We reverse
+Under Enfish LLC v. Microsoft Corp. 822_F.3d_1327_(Fed._Cir._2016) and related authorities we conclude the claims at issue here are not directed to ineligible subject_matter
+Rather we hold the claimed advance is a concrete assignment of specified functions among a computer 's components to improve computer_security and this claimed improvement in computer_functionality is eligible for patenting
+As a result the claims are not invalid under ¡± 101
+
+I
+A
+Describing aspects of the prior-art methods it seeks to improve the '941_patent states that `` [ n ] umerous methods have been devised for the identifying and restricting of an unauthorized software program 's operation ''
+'941_patent col. 1 lines 12-14
+For example software-based methods exist that require writing a license signature on the computer 's hard drive but a flaw in those methods is that such a signature can be changed by hackers without damaging other aspects of computer_functionality
+Id. col. 1 lines 19-26
+Hardware-based methods exist that require inserting a dongle into a computer port to authenticate the software authorization but those methods are costly inconvenient and not suitable for software sold and downloaded over the internet
+Id. col. 1 lines 27-32
+
+The '941_patent describes an asserted improvement based on assigning certain functions to particular computer components *1345 and having them interact in specified ways
+The proposed method `` relies on the use of a key and of a record ''
+Id. col. 1 lines 40-41
+A `` key '' which is `` a unique identification code '' for the computer is embedded in the read-only memory ( ROM ) of the computer 's Basic Input Output System ( BIOS ) module : the key `` can not be removed or modified ''
+Id. col. 1 lines 45-51
+A `` record '' is a `` license_record '' associated with a particular application : `` each application program that is to be licensed to run on the specified computer [ ] is associated with a license_record [ ] that consists of author name program name [ ] and number of licensed users ( for network ) ''
+Id. col. 1 lines 52-57
+
+The asserted innovation of the patent relates to where the license_record is stored in the computer and the interaction of that memory with other_memory to check for permission to run a program that is introduced into the computer
+The inventive method uses a modifiable part of the BIOS_memory-not other computer memory-to store the information that can be used when a program is introduced into the computer to determine whether the program is licensed to run on that computer
+BIOS_memory is typically used for storing programs that assist in the start-up of a computer not verification_structures comparable to the software-licensing structure embodied by the claimed invention
+Using BIOS_memory rather than other_memory in the computer improves computer_security the patent indicates because successfully hacking BIOS_memory ( i.e. altering it without rendering the computer inoperable ) is much harder than hacking the memory used by the prior art to store license-verification_information
+Id. col. 3 lines 4-17 ; see Ancora 744 F.3d at 733-34 ( `` Thus the inventors stated that their method makes use of the existing computer hardware ( eliminating the expense and inconvenience of using additional hardware ) while storing the verification_information in a space that is harder and riskier for a hacker to tamper with than storage areas used by earlier methods
+`` )
+
+More specifically : The method calls for storage of a license_record in a `` verification_structure '' created in a portion of BIOS_memory that unlike the ROM of the BIOS `` may be erased or modified '' -for example an Electrically Erasable Programmable Read Only Memory ( E2PROM ) which may be altered by `` using E2PROM manipulation commands ''
+Id. col. 1 line 65 through col. 2 line 5
+The role of the verification_structure is to `` indicate that the specified program is licensed to run on the specified computer ''
+Id. col. 1 lines 60-62
+`` This is implemented by encrypting the license_record ( or portion thereof ) using [ the computer-specific ] key ( or portion thereof ).. as an encryption key ''
+Id.at lines 59-67
+When a program has been loaded into the computer 's volatile_memory ( e.g. Random Access Memory ) the computer in order to verify authorization to run that program `` accesses the program under question retrieves therefrom the license_record encrypts the record utilizing the specified unique key.. and compares the so encrypted record '' to the one stored in the verification_structure in the ( erasable modifiable ) BIOS
+Id. col. 2 lines 10-19
+If the newly encrypted record does not match the one in the BIOS the program is halted or other action is taken
+Id.at lines 19-26
+
+In the district_court the parties focused their arguments on claim 1 of the '941_patent
+We therefore discuss only that claim
+It reads as follows : 1
+A method of restricting software operation within a license for use with a computer including an erasable non-volatile_memory area of a BIOS of the computer and a volatile_memory area ; the method comprising the steps of : *1346 selecting a program residing in the volatile_memory using an agent to set up a verification_structure in the erasable non-volatile_memory of the BIOS the verification_structure accommodating data that includes at least one license_record verifying the program using at least the verification_structure from the erasable non-volatile_memory of the BIOS and
+acting on the program according to the verification
+Id. col. 6 line 59 through col. 7 line 4
+

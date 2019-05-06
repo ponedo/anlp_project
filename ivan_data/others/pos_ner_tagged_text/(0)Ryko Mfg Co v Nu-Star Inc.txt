@@ -1,0 +1,105 @@
+('950_F.2d_714', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('RYKO', 'NNP', 'ORG', 'B') ('MANUFACTURING', 'NNP', 'ORG', 'I') ('CO.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('NU-STAR', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+RYKO MANUFACTURING CO.
+__NEW_SENT__
+('No._91-1065', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Dec._4,_1991', 'NNS', 'PERSON', 'B')
+Dec._4,_1991
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('reissue', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('combination', 'NN', '', 'O') ('for', 'IN', '', 'O') ('activating', 'VBG', '', 'O') ('automatic_car_wash_system', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Minnesota', 'NNP', 'GPE', 'I') ('Diana', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Murphy', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+United_States_District_Court the District of Minnesota Diana E. Murphy J.
+__NEW_SENT__
+('Plaintiff', 'NNP', 'PERSON', 'B') ('appealed', 'VBD', '', 'O')
+Plaintiff
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Edward', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Smith', 'NNP', 'PERSON', 'I') ('Senior_Circuit_Judge', 'NNP', 'PERSON', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patented', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('engineer', 'VB', '', 'O') ('of', 'IN', '', 'O') ('low', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('medium', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('technology', 'NN', '', 'O') ('of', 'IN', '', 'O') ('power', 'NN', '', 'O') ('system', 'NN', '', 'O') ('activation', 'NN', '', 'O') ('devices', 'NNS', '', 'O')
+The Court of Appeals Edward S. Smith Senior_Circuit_Judge
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*715', 'JJ', '', 'O') ('Sheldon', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Witcoff', 'NNP', 'PERSON', 'I') ('Allegretti', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Witcoff', 'NNP', '', 'O') ('Ltd.', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Ill.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('(', '-LRB-', '', 'O') ('Ronald', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Larson', 'NNP', 'PERSON', 'I') ('on', 'IN', '', 'O') ('brief', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Sheldon W. Witcoff Allegretti & Chicago Ill. Ronald E. Larson
+__NEW_SENT__
+('David', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Fairbairn', 'NNP', 'PERSON', 'I') ('Kinney', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Lange', 'NNP', '', 'O') ('P.A.', 'NNP', 'GPE', 'B') ('Minneapolis', 'NNP', '', 'O') ('Minn.', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('(', '-LRB-', '', 'O') ('Judson', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Champlin', 'NNP', 'PERSON', 'I') ('on', 'IN', '', 'O') ('brief', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Stueber', 'NNP', 'PERSON', 'I') ('Kinney', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Lange', 'NNP', 'PERSON', 'I') ('P.A.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+David R. Fairbairn Kinney & P.A. Minn. Judson K. Champlin Thomas J. Stueber Kinney & Lange P.A.
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RICH', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('SMITH', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('NEWMAN', 'NN', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I')
+NEWMAN Circuit_Judge
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('EDWARD', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('SMITH', 'NNP', 'PERSON', 'I') ('Senior_Circuit_Judge', 'NNP', '', 'O')
+EDWARD S. SMITH
+__NEW_SENT__
+('Ryko', 'NNP', 'ORG', 'B') ('Manufacturing', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Ryko', 'NNP', 'PERSON', 'B') (')', '-RRB-', '', 'O') ('sued', 'VBD', '', 'O') ('Nu-Star', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Nu-Star', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('reissue', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('Re', 'NN', '', 'O')
+Ryko Manufacturing Co. Ryko Nu-Star Inc.
+__NEW_SENT__
+('32,601', 'LS', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('¡¬601', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+32,601
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Minnesota', 'NNP', 'GPE', 'I') ('granted', 'VBD', '', 'O') ('Nu-Star', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('determining', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('invention', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O')
+United_States_District_Court the District of Minnesota Nu-Star
+__NEW_SENT__
+('Ryko_appeals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Facts', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Conventional', 'JJ', '', 'O') ('automatic', 'JJ', '', 'O') ('car', 'NN', '', 'O') ('washes', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('activated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('mechanical', 'JJ', '', 'O') ('insertion', 'NN', '', 'O') ('devices', 'NNS', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('devices', 'NNS', '', 'O') ('activated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('carwash', 'NN', '', 'O') ('system', 'NN', '', 'O') ('by', 'IN', '', 'O') ('permitting', 'VBG', '', 'O') ('electrical', 'JJ', '', 'O') ('current', 'NN', '', 'O') ('to', 'TO', '', 'O') ('flow', 'VB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('an', 'DT', '', 'O') ('appropriate', 'JJ', '', 'O') ('article', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('coin', 'NN', '', 'O') ('token', 'JJ', '', 'O') ('credit', 'NN', '', 'O') ('card', 'NN', '', 'O') ('or', 'CC', '', 'O') ('receipt', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('inserted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('device', 'NN', '', 'O') ('required', 'VBD', '', 'O') ('much', 'JJ', '', 'O') ('maintenance', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mechanical', 'JJ', '', 'O') ('hardware', 'NN', '', 'O') ('could', 'MD', '', 'O') ('cause', 'VB', '', 'O') ('problems', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('could', 'MD', '', 'O') ('become', 'VB', '', 'O') ('congested', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('too', 'RB', '', 'O') ('many', 'JJ', '', 'O') ('inserted', 'VBN', '', 'O') ('articles', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Many', 'JJ', '', 'O') ('attempts', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('solve', 'VB', '', 'O') ('these', 'DT', '', 'O') ('problems', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('solution', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('discovered', 'VBN', '', 'O') ('when', 'WRB', '', 'O') ('Klein', 'NNP', 'PERSON', 'B') ('invented', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('reissue', 'NN', '', 'O') ('patent', 'NN', '', 'O') ('¡¬601', 'NNS', 'PERSON', 'B') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Ryko', 'NNP', 'GPE', 'B')
+Klein ¡¬601 Ryko
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬601_patent', 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('automatic_car_wash_system', 'NN', '', 'O') ('electronically', 'RB', '', 'O') ('activated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electrical', 'JJ', '', 'O') ('numerical', 'JJ', '', 'O') ('keypad', 'NN', '', 'O') ('device', 'NN', '', 'O')
+
+__NEW_SENT__
+('Nu-Star', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('sells', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('automatic_car_wash_system', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('utilizes', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('keypad', 'JJ', '', 'O') ('activation', 'NN', '', 'O') ('device', 'NN', '', 'O')
+
+__NEW_SENT__
+('Ryko', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('Nu-Star', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('claim', 'NN', '', 'O') ('seven', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O')
+Nu-Star seven
+__NEW_SENT__
+('Nu-Star', 'NNP', '', 'O') ('countered', 'VBD', '', 'O') ('with', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('considering', 'VBG', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('primary_considerations', 'NNS', '', 'O') ('enumerated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Graham', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('Deere,1', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('utilization', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('numerical', 'JJ', '', 'O') ('keypad', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('to', 'TO', '', 'O') ('electronically', 'RB', '', 'O') ('activate', 'VB', '', 'O') ('an', 'DT', '', 'O') ('automatic_car_wash_system', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('invention', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('clearly', 'RB', '', 'O') ('suggested', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NN', '', 'O')
+Graham John Deere,1
+__NEW_SENT__
+('Therefore', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('made', 'VBN', '', 'O') ('it', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('secondary', 'JJ', '', 'O') ('considerations', 'NNS', '', 'O') ('purportedly', 'RB', '', 'O') ('weighed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('nonobviousness', 'NN', '', 'O') ('but', 'CC', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('sufficiently', 'RB', '', 'O') ('influential', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('override', 'VB', '', 'O') ('the', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'NN', '', 'O') ('compelled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('primary_considerations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Nu-Star', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O')
+Nu-Star
+__NEW_SENT__
+('Ryko_appeals', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('Court', 'NNP', 'ORG', 'B') ('asserting', 'VBG', '', 'O') ('various', 'JJ', '', 'O') ('errors', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('rationale', 'NN', '', 'O')
+Court
+__NEW_SENT__

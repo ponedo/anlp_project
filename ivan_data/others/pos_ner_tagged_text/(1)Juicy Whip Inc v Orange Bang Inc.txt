@@ -1,0 +1,162 @@
+('292_F.3d_728', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('JUICY', 'NNP', '', 'O') ('WHIP', 'VBD', '', 'O') ('INC.', 'JJ', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('ORANGE', 'NNP', '', 'O') ('BANG', 'NNP', '', 'O') ('INC.', 'CD', '', 'O') ('Unique', 'NNP', 'ORG', 'B') ('Beverage', 'NNP', 'ORG', 'I') ('Dispensers', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('David', 'NNP', 'PERSON', 'B') ('Fox', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Bruce', 'NNP', 'PERSON', 'B') ('Burwick', 'NNP', 'PERSON', 'I') ('Defendants-Appellees', 'NNP', 'PERSON', 'I')
+Unique Beverage Dispensers Inc. David Fox Bruce Burwick Defendants-Appellees
+__NEW_SENT__
+('Nos._01-1263', 'NNP', '', 'O') ('01-1317', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('DECIDED', 'NNS', '', 'O') (':', ':', '', 'O') ('June_7,_2002', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Beverage', 'NN', '', 'O') ('manufacturer', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('post-mix', 'NN', '', 'O') ('beverage_dispenser', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('Audrey', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Collins', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('lack', 'NN', '', 'O') ('of', 'IN', '', 'O') ('utility', 'NN', '', 'O') ('and', 'CC', '', 'O') ('manufacturer', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court California Audrey B. Collins J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bryson', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('reversed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+The Court of Appeals Bryson Circuit_Judge
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('entered', 'VBD', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('manufacturer', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court California
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Linn', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('evidence', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('insufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('findings', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('beverage_manufacturer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('that', 'IN', '', 'O') ('manufacturer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('prior_public_use', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('Evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('insufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('render', 'VB', '', 'O') ('beverage_manufacturer', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O') ('invalid', 'JJ', '', 'O')
+The Court of Appeals Linn Circuit_Judge 1 2
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('vacated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Mayer', 'NN', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*730', 'NNP', '', 'O') ('Ernie', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Brooks', 'NNP', 'PERSON', 'I') ('Brooks', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Kushman', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Southfield', 'NNP', 'ORG', 'B') ('MI', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Ernie L. Brooks Brooks & Kushman P.C. Southfield MI
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Frank', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Angileri', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Abbatt', 'NNP', 'PERSON', 'I')
+Frank A. Angileri William G. Abbatt
+__NEW_SENT__
+('Jeffrey', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Schwab', 'NNP', 'PERSON', 'I') ('Abelman', 'NNP', 'PERSON', 'I') ('Frayne', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Schwab', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Jeffrey A. Schwab Abelman Frayne & Schwab New York
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Anthony', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Coppola', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Crisona', 'NNP', 'PERSON', 'I')
+Anthony A. Coppola Richard L. Crisona
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('LOURIE', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LINN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('LINN', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Chief_Judge', 'NNP', '', 'O') ('MAYER', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*731', 'NN', '', 'O') ('LINN', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Juicy_Whip', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Juicy_Whip', 'NN', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('U.S.', 'NNP', 'WORK_OF_ART', 'B') ('Patent', 'NN', 'WORK_OF_ART', 'I') ('No._5575,405', 'NNP', 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', 'WORK_OF_ART', 'B') ('¡¬405_patent', 'NNP', 'WORK_OF_ART', 'I') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('entered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('on', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('18', 'CD', 'DATE', 'I') ('2001', 'CD', 'DATE', 'I') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defendants', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Orange_Bang', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Juicy_Whip Inc. Juicy_Whip U.S. Patent No._5575,405 the ¡¬405_patent California January 18 2001 Orange_Bang
+__NEW_SENT__
+('Juicy_Whip', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Orange_Bang', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('No._96-08148', 'NNP', '', 'O') ('ABC', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('RNBx', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('C.D.Cal', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Feb._21,_2001', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('substantial', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('support', 'VB', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('verdict', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('having', 'VBG', '', 'O') ('been', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('prior_public_use', 'NN', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('also', 'RB', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('support', 'VB', '', 'O') ('the', 'DT', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('ruling', 'NN', '', 'O')
+
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Invention', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬405_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', '', 'O') ('Post-Mix', 'NNP', '', 'O') ('Beverage', 'NNP', '', 'O') ('Dispenser', 'NNP', '', 'O') ('With', 'IN', '', 'O') ('an', 'DT', '', 'O') ('Associated', 'NNP', '', 'O') ('Simulated', 'NNP', '', 'O') ('Display', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Beverage', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('depicts', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('beverage_dispenser', 'NN', '', 'O') ('embodying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('showing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('countertop', 'NN', '', 'O') ('display', 'NN', '', 'O') ('bowl', 'NN', '', 'O') ('with', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('auxiliary', 'JJ', '', 'O') ('equipment', 'NN', '', 'O') ('located', 'VBN', '', 'O') ('below', 'IN', '', 'O') ('the', 'DT', '', 'O') ('counter', 'NN', '', 'O') ('and', 'CC', '', 'O') ('concealed', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('public', 'JJ', '', 'O') ('view', 'NN', '', 'O')
+1
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('set', 'VBN', '', 'O') ('forth', 'RP', '', 'O') ('in', 'IN', '', 'O') ('more', 'JJR', '', 'O') ('detail', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('previous', 'JJ', '', 'O') ('appeal', 'NN', '', 'O') ('involving', 'VBG', '', 'O') ('this', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('post-mix', 'JJ', '', 'O') ("''", "''", '', 'O') ('beverage_dispenser', 'JJ', '', 'O') ('stores', 'NNS', '', 'O') ('beverage', 'VBP', '', 'O') ('syrup_concentrate', 'NN', '', 'O') ('and', 'CC', '', 'O') ('water', 'NN', '', 'O') ('in', 'IN', '', 'O') ('separate', 'JJ', '', 'O') ('locations', 'NNS', '', 'O') ('until', 'IN', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('ready', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('dispensed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Juicy_Whip', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('*732', 'NNP', '', 'O') ('Orange_Bang', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('185_F.3d_1364', 'CD', '', 'O') ('1365', 'CD', '', 'O') ('51_USPQ2d_1700', 'CD', '', 'O') ('1701', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1999', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Juicy_Whip', 'NN', '', 'O') ('I', 'PRP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Orange_Bang Inc.
+__NEW_SENT__
+('The', 'DT', '', 'O') ('syrup', 'NN', '', 'O') ('and', 'CC', '', 'O') ('water', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('mixed', 'VBN', '', 'O') ('together', 'RB', '', 'O') ('immediately', 'RB', '', 'O') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('dispensed', 'VBN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('usually', 'RB', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('consumer', 'NN', '', 'O') ('requests', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('contrast', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('pre-mix', 'NN', '', 'O') ("''", "''", '', 'O') ('beverage_dispenser', 'NN', '', 'O') ('the', 'DT', '', 'O') ('syrup_concentrate', 'NN', '', 'O') ('and', 'CC', '', 'O') ('water', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('pre-mixed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('stored', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('display', 'NN', '', 'O') ('reservoir', 'NN', '', 'O') ('bowl', 'NN', '', 'O') ('until', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('ready', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('dispensed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('display', 'NN', '', 'O') ('bowl', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('said', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('stimulate', 'VB', '', 'O') ('impulse', 'NN', '', 'O') ('buying', 'NN', '', 'O') ('by', 'IN', '', 'O') ('providing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('consumer', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('visual', 'JJ', '', 'O') ('beverage', 'NN', '', 'O') ('display', 'NN', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('pre-mix', 'JJ', '', 'O') ('display', 'NN', '', 'O') ('bowl', 'NN', '', 'O') ('however', 'RB', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('limited', 'JJ', '', 'O') ('capacity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('subject', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('contamination', 'NN', '', 'O') ('by', 'IN', '', 'O') ('bacteria', 'NNS', '', 'O')
+
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('therefore', 'RB', '', 'O') ('must', 'MD', '', 'O') ('be', 'VB', '', 'O') ('refilled', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('cleaned', 'VBN', '', 'O') ('frequently', 'RB', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬405_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('post-mix', 'JJ', '', 'O') ('beverage_dispenser', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('look', 'VB', '', 'O') ('like', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pre-mix', 'JJ', '', 'O') ('beverage_dispenser', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('require', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('post-mix', 'JJ', '', 'O') ('dispenser', 'NN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('transparent', 'JJ', '', 'O') ('bowl', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('filled', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fluid', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('simulates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('appearance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('resistant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('bacterial', 'JJ', '', 'O') ('growth', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('require', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispenser', 'NN', '', 'O') ('create', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('visual_impression', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bowl', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('principal_source', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('although', 'IN', '', 'O') ('in', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('mixed', 'VBN', '', 'O') ('immediately', 'RB', '', 'O') ('before', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('dispensed', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('in', 'IN', '', 'O') ('conventional', 'JJ', '', 'O') ('post-mix', 'JJ', '', 'O') ('dispensers', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('6_and_9', 'IN', '', 'O') ('provide', 'NN', '', 'O') (':', ':', '', 'O') ('6', 'CD', 'CARDINAL', 'B')
+two 6
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('inducing', 'VBG', '', 'O') ('sales', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('dispensed', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('outlet', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('post-mix', 'JJ', '', 'O') ('beverage_dispenser', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('method', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('steps', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('positioning', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('transparent', 'JJ', '', 'O') ('display', 'NN', '', 'O') ('bowl', 'NN', '', 'O') ('relative', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispenser', 'NN', '', 'O') ('outlet', 'VB', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('the', 'DT', '', 'O') ('visual_impression', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('said', 'VBD', '', 'O') ('bowl', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('reservoir', 'NN', '', 'O') ('and', 'CC', '', 'O') ('principal_source', 'NN', '', 'O') ('from', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('serving', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('dispensed', 'VBN', '', 'O') (';', ':', '', 'O') ('selecting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('display', 'NN', '', 'O') ('fluid', 'NN', '', 'O') ('for', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('bowl', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('resists', 'VBZ', '', 'O') ('formation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('organic_growth', 'NN', '', 'O') ('and', 'CC', '', 'O') ('simulates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('appearance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispensed_beverage', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('visibly', 'RB', '', 'O') ('storing', 'VBG', '', 'O') ('without', 'IN', '', 'O') ('dispensing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('quantity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('fluid', 'NN', '', 'O') ('in', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('bowl', 'NN', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('the', 'DT', '', 'O') ('visual_impression', 'NN', '', 'O') ('that', 'IN', '', 'O') ('multiple_servings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('stored', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('bowl', 'NN', '', 'O') ('for', 'IN', '', 'O') ('issuance', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('outlet', 'NN', '', 'O')
+
+__NEW_SENT__
+('9', 'CD', 'CARDINAL', 'B')
+9
+__NEW_SENT__
+('A', 'DT', '', 'O') ('beverage', 'NN', '', 'O') ('dispensing', 'VBG', '', 'O') ('apparatus', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('post-mix', 'JJ', '', 'O') ('dispenser', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('dispensing', 'VBG', '', 'O') ('outlet', 'NN', '', 'O') ('for', 'IN', '', 'O') ('discharging', 'VBG', '', 'O') ('beverage', 'NN', '', 'O') ('components', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('predetermined', 'VBN', '', 'O') ('proportions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('provide', 'VB', '', 'O') ('a', 'DT', '', 'O') ('serving', 'NN', '', 'O') ('of', 'IN', '', 'O') ('dispensed_beverage', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('a', 'DT', '', 'O') ('transparent', 'JJ', '', 'O') ('display', 'NN', '', 'O') ('container', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('no', 'DT', '', 'O') ('fluid', 'JJ', '', 'O') ('connection', 'NN', '', 'O') ('with', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('outlet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('visibly', 'RB', '', 'O') ('containing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('quantity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fluid', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('simulates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('appearance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('fluid', 'JJ', '', 'O') ('being', 'VBG', '', 'O') ('resistant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('organic_growth', 'NN', '', 'O') (';', ':', '', 'O') ('said', 'VBD', '', 'O') ('container', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('positioned', 'VBN', '', 'O') ('relative', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('outlet', 'VB', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('the', 'DT', '', 'O') ('visual_impression', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('said', 'VBD', '', 'O') ('container', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('reservoir', 'NN', '', 'O') ('and', 'CC', '', 'O') ('principal_source', 'NN', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('issuing', 'NN', '', 'O') ('from', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('outlet', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('said', 'VBD', '', 'O') ('container', 'NN', '', 'O') ('and', 'CC', '', 'O') ('said', 'VBD', '', 'O') ('quantity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fluid', 'JJ', '', 'O') ('visible', 'JJ', '', 'O') ('within', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('container', 'NN', '', 'O') ('cooperating', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('the', 'DT', '', 'O') ('visual_impression', 'NN', '', 'O') ('that', 'IN', '', 'O') ('multiple_servings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('dispensed_beverage', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('stored', 'VBN', '', 'O') ('within', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('container', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬405_patent', 'NN', '', 'O') ('col._12,_ll._49-63', 'NNS', '', 'O') (';', ':', '', 'O') ('col._13,_l._1-', 'NN', '', 'O') ('col._14,_l._2', 'NN', '', 'O')
+
+__NEW_SENT__

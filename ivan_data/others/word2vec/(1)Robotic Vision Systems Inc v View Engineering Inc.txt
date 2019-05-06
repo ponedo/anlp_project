@@ -1,0 +1,229 @@
+189_f.3d_1370
+united states court of appeals federal circuit
+robotic vision systems inc. plaintiff-appellee v. view engineering inc. defendant-appellant
+no._98-1477
+| sept._3,_1999
+synopsis
+manufacturer of machines used to perform inspections of integrated circuit_devices brought action against competitor alleging infringement of patent disclosing method for using incident_laser_radiation to measure the coplanarity of a substrate
+the united_states_district_court for the central_district of california lourdes g. baird j. found patent to be valid and infringed
+competitor appealed
+the court of appeals gajarsa circuit_judge held that 1 patent encompassed measurement_method in which index_pads could either be separately fabricated or simply selected from existing signal_pads and 2 patent was not invalid for obviousness
+
+affirmed
+
+attorneys and law firms
+*1371 albert j. breneisen kenyon & kenyon new_york new_york argued for plaintiff-appellee
+of counsel on the brief were edward j. handler iii robert f. perry and joseph r. palmieri
+ernie l. brooks brooks & kushman southfield michigan argued for the defendant-appellant
+with him on the brief was frank a. angileri
+before clevenger bryson and gajarsa circuit_judges
+gajarsa circuit_judge
+decision
+view_engineering inc.` view' appeals the july_1,_1998 decision of the united_states_district_court for the central_district of california docket 96-cv-2288 finding that view had infringed u.s. patent no._5465,152` the152_patent` issued to the robotic_vision_systems inc.` rvsi' and holding the patent to be not invalid for obviousness under 35 u.s.c.¡± 103
+because the trial court did not err in its determinations we affirm
+
+background
+robotic_vision_systems inc.` rvsi' manufactures and sells machines to perform inspections of integrated circuit_devices
+until june 1998 view_engineering inc.` view' also manufactured and sold inspection equipment in particular its model 880 inspection_machine
+although rvsi and view do not manufacture chips themselves they sell equipment for use by device_manufacturers
+
+united states patent no._5465,152 issued to rvsi on november 7 1995
+the patent is directed to a` method for coplanarity inspection of package or substrate warpage for ball grid arrays column arrays and similar structures'
+ball grid arrays` bgas' are integrated circuit_devices that have an array of solder_balls on one face
+each ball sits on a metal pad known as a` signal_pad' which in turn sits on a` substrate' and connects the ball to the internal integrated circuitry
+`` coplanarity' refers to the degree to which a set of points are in the same plane i.e. how` flat' something is
+at the time of the invention ball-top_coplanarity_measurements1 were known in the prior *1372 art because it is important for device_manufacturers to know the coplanarity of the solder_balls to make sure that the bga devices will mate properly with other devices
+
+the152_patent discloses a method for using incident_laser_radiation to measure the coplanarity of a substrate
+the measurements are not done on the substrate directly or on the ball-tops but are done by using` index_pads' on the substrate as targets to perform the measurements.2 according to the written description these index_pads can be separately manufactured pads used only to measure substrate coplanarity or the index_pads can be selected from signal_pads that may or may not eventually be used as bga sites
+the only independent_claim in the152_patent is claim 1 which reads as follows
+
+1
+a method for determining coplanarity of substrates for ball grid array column grid array and similar surface mount integrated circuit chips using 3-d optical_sensing_means comprising the steps of [ 1 ] providing opaque fiducials as index_pads
+[ 2 ] where the heights of said index_pads are correlated with signal_pad heights in a neighborhood about said index_pads ; [ 3 ] said index_pads being opaque to incident radiation from said 3-d optical_sensing_means ; [ 4 ] reflecting by said index_pads sufficient radiation allow height measurement by said 3-d optical_sensing_means ; [ 5 ] disposing said index_pads in a prearranged pattern over a domain of array signal_pads ; [ 6 ] restricting said index_pads to a predetermined range of heights ; [ 7 ] measuring the heights of each of at least three said index_pads at said index_pad coordinate locations ; [ 8 ] suitably fitting a preselected surface_shape to the index_pad height and coordinate location data ; [ 9 ] and calculating the difference in height between each index_pad and the preselected surface_shape evaluated at the index_pad location
+( paragraphing and emphasis added
+dependent claims 3_and_12 are also at issue
+they read as follows 3
+a method as defined in claim 1 wherein said index_pads are metallic and opaque
+12
+a method as described in claim 1 in which the index_pads are identical with the signal_pads rather than separately fabricated elements intended solely for use as fiducial_pads which index_pads are located at signal_pad sites occupied by array elements such as bga balls columns or other ; and determining coplanarity prior to deposition of grid_array_elements
+the written description of the152_patent discloses three examples as preferred embodiments of the claimed method there must be a close correlation between the heights of the index_pads and the signal_pads since the objective of having the index_pads is to provide a means of inferring the heights of the signal_pads
+this can be accomplished by properly designing the fabrication process
+one means of accomplishing this is to use unused_signal_pads as index_pads
+a second means is to construct index_pads by plating additional material on existing signal_pads using photoresist masking techniques to avoid plating signal_pads which are not dedicated to indexing
+...
+there are innumerable ways of creating and disposing the index_pads over the substrate only several of which will be detailed here
+however other embodiments which generally follow the *1373 concepts outlined here are considered to be covered by this disclosure
+three approaches serve to illustrate the method
+in the first two cases the index_pads are selected from the totality of pad on the substrate
+in third case the index_pads are fabricated separately from the signal_pads
+in case one the index_pads are selected from the total number of available pads and dedicated for measurement_purposes
+that is they are empty signal_pads
+they are distributed over the substrate surface so that their height provides a measure of the variations in signal_pad coplanarity
+'152_patent col._5,_ll._30-57 emphasis added
+therefore the written description discloses the use of signal_pads as index_pads and index_pads that are separately fabricated
+rvsi filed suit against view alleging that view infringed the method claims of the152_patent through the view_model 880 inspection_machine
+the 880 machine measures bga coplanarity by using bare signal_pads as laser targets
+view moved for summary_judgment of noninfringement arguing that properly interpreted the claim required the manufacture or fabrication of the index_pads along with their measurement
+the court on summary_judgment rejected this argument and held that the language of claim 1 - specifically the terms` providing'` correlating'` disposing' and` restricting' - did not require separate_manufacture of the index_pads and encompassed the selection of pre-existing signal_pads as index_pads for measurement_purposes
+a bench_trial followed ; the court reiterated its summary_judgment claim_construction and found the view_model 880 accused device to infringe claims 1 3 and 12
+
+in its opinion the court stated that properly interpreted the152_patent requires that index_pads disposed in a particular arrangement be provided for measurement and that the heights of these index_pads should be correlated with that of signal_pads and restricted to a specific range of heights
+the selection of index_pads for measurement can satisfy these requirements
+claim 12 requires identical signal and index_pads ; claim 1 permits either separate index_pads and signal_pads or identical signal_pads/index_pads
+slip op.at 8
+
+the court based this interpretation on the claim language and on the examples disclosed in the written description which described embodiments of the claimed method using both separately manufactured index_pads and index_pads that were chosen from pre-existing signal_pads
+based on this interpretation the court found the model 880 device to infringe the152_patent
+
+the court also addressed views obviousness defense which it rejected
+the court found that one of ordinary_skill in the art would be either 1 a person with a b.s
+degree in engineering mathematics or a technical discipline ; 2 an applications engineer ; or 3 a person with knowledge based on experience equivalent to 1 or 2
+the court further found that the date of the invention was no later than january 31 1994
+based on its factual_findings including those concerning objective_evidence of nonobviousness the court held that the invention of the152_patent would not have been obvious to one of ordinary_skill in the art
+view now appeals the courts finding of infringement and its holding of non-obviousness
+
+discussion
+i
+claim construction and infringement
+determining whether a patent claim has been infringed involves two steps 1 claim_construction to determine the scope and meaning of the claims asserted to be infringed followed by 2 a determination of whether the properly construed claim encompasses the accused method
+see markman v. westview instruments inc. 52_f.3d_967 976 34_uspq2d_1321 1326 fed.cir.1995 en banc affd *1374 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577_(1996)
+claim construction is a matter of law that we review de novo
+see cybor corp. v. fas techs. inc. 138_f.3d_1448 1455 46_uspq2d_1169 1173 fed.cir.1998 en banc
+whether a claim encompasses an accused method either literally or under the doctrine of equivalents is a question of fact that we review for clear_error when tried to the court
+see sri int l v. matsushita elec corp. of am. 775_f.2d_1107 1125 227_uspq_577 589 fed.cir.1985 en banc
+
+view does not dispute that it performs the measuring steps of the method recited in claim 1 of the152_patent - elements 7 8_and_9 - however view argues that it does not perform what it calls the fabrication or manufacturing steps of the claim - elements 1_through_6
+view states that its model 880 machine does not` provide'` correlate'` dispose' or` restrict' the pads in any way it merely selects device signal_pads as measurement targets
+view contends therefore that the accused method can not infringe the152_patent because the accused method does not perform all the necessary steps
+view argues that the district_court erred in its claim_construction because the court did not base its claim_construction on the language of the claims
+view contends that the district_court ignored the ordinary and customary meanings of terms` provide'` correlate'` dispose'` restrict' and` select' 3 and instead the court looked to the examples provided in the written description of the152_patent to interpret the claim
+view asserts that the district_courts reliance on all three examples disclosed in the written description to interpret claim 1 is incorrect
+view argues that example 3 in which the index_pads are separately manufactured is actually the preferred embodiment of the claimed invention and the first two examples in which index_pads are selected from the signal_pads are not embodiments of the invention disclosed in claim 1
+
+view further contends that as construed by the district_court the providing correlating disposing and restricting steps have been read out of claim 1
+the` providing' element was read out of the claim by interpreting this limitation to cover selecting signal_pads for measurement
+the correlating step was also eliminated by the district_court ; correlation according to view requires comparing two separate things with each other whereas the district_courts interpretation allows something to be correlated with itself
+view also claims that the` disposing' step has also been reduced to a non-limitation by the district_court
+
+finally view argues that the plain_language of claim 12 also indicates that claim 1 was not meant to cover an embodiment in which the index_pads were not separately manufactured
+claim 12 reads as follows` [ a ] method as described in claim 1 in which the index_pads are identical with the signal_pads rather than separately fabricated elements intended solely for use as fiducial_pads..' view contends that the use of the phrase` rather than' indicates that claim 12 is to be distinguished from claim 1 in which the index_pads are` separately fabricated elements intended solely for use as fiducial_pads'
+therefore claim 1 can not encompass the method in which index_pads are chosen from signal_pads
+
+rvsi argues that based on the intrinsic_evidence - the claims themselves the written *1375 description in the152_patent and the prosecution_history -the district_court correctly construed the claims at issue
+rvsi points out that the written description provides examples of the invention in which the claim elements may be satisfied by selecting a pre-existing signal_pad as an index_pad
+rvsi also argues that the plain_language of dependent_claims 11_and_12 specifically requires that the index_pads be selected from the signal_pads as disclosed in examples 1_and_2 ; therefore the limitations in claims 11_and_12 as dependent_claims of claim 1 must be included in claim 1 as well
+
+next rvsi argues that the prosecution_history of the152_patent supports the courts claim_construction
+as filed claim 1 did not contain elements 7 8 and 9 - the explicit measurement steps
+the examiner rejected claim 1 as
+being indefinite for failing to particularly point out and distinctly claim the subject_matter which applicant regards as the invention..
+claim 1 does not clearly and definitely set forth the actual measurement of the ball grid array signal_pads and the index_pads although the claim does appear to intend to claim this measurement and appears to require such measurement
+rvsi contends that this indicates that the examiner realized that it was the measurement_method that was the claimed invention not some sort of fabrication or manufacturing process as view claims
+
+finally rvsi asserts that views dictionary_definitions of the disputed terms as extrinsic_evidence are not relevant if the context of the patent uses them differently
+in this case rvsi contends that the district_court correctly decided not to interpret claim 1 of the152_patent in light of the dictionary_definitions because the intrinsic_evidence adequately defined the terms
+the court explicitly recognized that it was construing the disputed terms` in the context of the152_patent'
+as a result rvsi argues that the court correctly found that views device infringes the152_patent because contrary to views arguments the claims at issue do not require a specific manufacturing step
+
+when construing a claim a court should first look to the intrinsic_evidence i.e. the patent itself including the claims the written description and the prosecution_history if in evidence
+see vitronics corp. v. conceptronic inc. 90_f.3d_1576 1582 39_uspq2d_1573 1576 fed.cir.1996
+often the intrinsic_evidence alone will resolve any ambiguity in a disputed claim term and in such instances reliance on extrinsic_evidence is improper
+see id.at 1583 90_f.3d_1576 39 uspq2d at 1577
+all claim_interpretation begins with the language of the claims
+see johnson worldwide assoc. inc. v. zebco corp. 175_f.3d_985 989 50_uspq2d_1607 1609 fed.cir.1999 ; bell communications research inc. v. vitalink communications corp. 55_f.3d_615 619-20 34_uspq2d_1816 1819 fed.cir.1995
+view argues that by using the terms` providing.. fiducials'` correlated.. heights'` disposing.. in a prearranged pattern' and` restricting.. to a predetermined range of heights' claim 1 of the152_patent is limited to the separate_fabrication of index_pads and does not encompass the use of signal_pads as index_pads
+it is not clear to us that claim 1 is meant to be read this way even using the ordinary and accustomed_meaning of the disputed terms
+we turn to the written description for clarification of these terms
+see johnson 175 f.3d at 990 50 uspq2d at 1610 stating that a court may look to a written description for meaning of terms at variance with the ordinary and accustomed_meaning of terms if` the term or terms chosen by the patentee so deprive the claim of clarity that there is no means by which the scope of the claim may be ascertained from the language used`
+the written description clearly discloses embodiments of the patent consistent with the language used in claim 1 in which index_pads are unused_signal_pads which may or may not be used later and in which index_pads are separately manufactured
+
+*1376 furthermore beyond the language of claim 1 the plain_language of claims 4 11 and 12 support such a reading of claim 1
+claim 4 reads as follows a method as defined in claim 1 wherein said index_pads are produced separately from the signal_pads
+and claims 11_and_12 both begin with the following a method as described in claim 1 in which the index_pads are identical with the signal_pads rather than separately fabricated elements intended solely for use as fiducial_pads.. view argues that the clause` rather than' in claims 11_and_12 seeks to distinguish those two claims in which the index_pads are identical with the signal_pads from claim 1 in which the index_pads are separately fabricated elements
+this is however clearly an incorrect way of reading claims 11_and_12
+claims 11_and_12 are dependent_claims of claim 1 and are to be construed to incorporate by reference all the limitations of claim 1
+see 35 u.s.c.¡± 112 1994
+views construction incorrectly attributes the requirement of separately fabricated index_pads to an independent_claim when it is clear that a claim that depends from that independent_claim does not incorporate that limitation
+
+similarly the only further limitation to claim 1 disclosed by dependent_claim 4 is the limitation` wherein said index_pads are produced separately from the signal_pads'
+if claim 1 were limited to separate_fabrication of index_pads claim 4 would necessarily be redundant and would add no additional limitations
+this would again be an absurd construction of claim 4 as a dependent_claim of claim 1
+
+therefore we hold that the district_courts interpretation of the152_patent construing claim 1 to encompass a measurement_method in which the index_pads can be separately fabricated or simply selected from existing signal_pads is correct
+claim 3 adds the additional limitation to claim 1 that the index_pads be metallic and opaque
+claim 12 adds the limitation to claim 1 that the index_pads be identical to the signal_pads and that the coplanarity_measurements are performed before grid_array_elements are deposited on the substrate
+view makes no argument that the district_court incorrectly applied its claim_construction to the accused method practiced by views model 880 machine
+we find no reversible error in the district_courts application of the claims at issue to the accused method and therefore affirm the district_courts finding of infringement of claims 1 3_and_12 of the152_patent
+
+ii
+obviousness
+the second issue on appeal is the district_courts holding that the152_patent is not invalid for obviousness under 35 u.s.c.¡± 103
+a claimed invention is unpatentable if the differences between it and the prior_art` are such that the subject_matter as a whole would have been obvious at the time the invention was made to a person having ordinary_skill in the art'
+35 u.s.c.¡± 103 a 1994 ; see graham v. john deere co. 383_u.s._1 13-14 86_s.ct._684 15_l.ed.2d_545_(1966)
+on appeal from a bench_trial the ultimate determination of whether an invention would have been obvious under 35 u.s.c.¡± 103 is a legal_conclusion that we review de novo
+see gentry_gallery v. berkline corp. 134_f.3d_1473 1478 45_uspq2d_1498 1502 fed.cir.1998
+an obviousness_determination is based on underlying factual inquiries including 1 the scope and content of the prior_art ; 2 the level of ordinary_skill in the art ; 3 the differences between the claimed invention and the prior_art ; and 4 objective_evidence of nonobviousness
+see graham 383 u.s. at 17-18 86_s.ct._684 ; miles labs. inc. v. shandon inc. 997_f.2d_870 877 27_uspq2d_1123 1128 fed.cir.1993
+the underlying factual determinations on which the legal_conclusion of non-obviousness is based are reviewed for clear_error
+see gentry_gallery 134 f.3d at 1478 45 uspq2d at 1502.`
+' a finding is clearly erroneous when although there is evidence to support it the reviewing court on the entire evidence is left with the definite *1377 and firm conviction that a mistake has been committed
+`` in re graves 69_f.3d_1147 1151 36_uspq2d_1697 1700 fed.cir.1995 quoting united states v. united states gypsum co. 333_u.s._364 395 68_s.ct._525 92_l.ed._746_(1948)
+there is a strong presumption of validity for issued patents see 35 u.s.c.¡± 282 1994 therefore an accused infringer who raises patent invalidity as a defense bears the burden of showing invalidity by facts supported by clear and convincing evidence
+see monarch knitting mach
+v. sulzer morat gmbh 139_f.3d_877 881 45_uspq2d_1977 1981 fed.cir.1998
+
+views main argument on appeal is that if the claims are to be construed as broadly as the district_court interpreted them to be i.e. not requiring the separate_manufacture of index_pads then the claimed invention would have been obvious in light of the prior_art ball top coplanarity measurement_methods combined with a clear suggestion by mr. don banks in his december 14 1993 letter to steve bilodeau the inventor of the152_patent requesting that rvsi perform bottom surface metallization` bsm' measurements on certain substrates
+view argues that this letter indicates that banks requested rvsi to use signal_pads rather than ball_tops as targets to measure substrate warpage
+view contends that one of ordinary_skill in the art would have found it obvious given this instruction to then substitute signal_pads for ball_tops using the ball-top coplanarity measurement_method
+view asserts that the only difference between the coplanarity measurement_method disclosed in the152_patent and that known in the prior_art is the selection of a target
+
+rvsi argues that in concluding that the method claimed in the152_patent would not have been obvious the district_court made factual_findings that the prior_art does not teach the claimed methods and that those of ordinary_skill in the art had failed to practice the claimed invention
+the court also found that views proposed combination of prior_art fails to teach or suggest the claimed invention
+rvsi also contends that view misinterprets the contents of the banks_letter and that the letter makes no suggestion to use signal_pads for coplanarity_measurements
+
+we find views arguments to be without merit
+the party seeking a holding of invalidity based on a combination of two or more prior_art teachings must show some motivation or suggestion to combine the teachings
+see al-site corp. v. vsi int l inc. 174_f.3d_1308 1323-24 50_uspq2d_1161 1170 fed.cir.1999 ; in re rouffet 149_f.3d_1350 1355 47_uspq2d_1453 1457 fed.cir.1998
+a suggestion or motivation to combine generally comes from the teachings of pertinent references but it may also come from the nature of the problem or from the ordinary knowledge of one skilled in the art
+see rouffet 149 f.3d at 1355 47 uspq2d at 1457
+in reviewing the record before us including the banks_letter we conclude that the district_court did not clearly err in its factual determinations including its finding that the banks_letter did not teach the use of signal_pads to make substrate coplanarity_measurements
+the district_court found that that banks_letter did not disclose any step of rsvis patented method and that the letter merely stated that` enclosed are [ bgas ] to assist you in bga inspection system development'
+the district_courts findings are not clearly erroneous
+the record does not disclose a prior_art teaching or suggestion to use signal_pads for coplanarity_measurements let alone a suggestion to substitute signal_pads for ball-tops in the ball-top_coplanarity_measurements
+without such teachings we must affirm the district_courts holding that the152_patent has not been shown to be invalid for obviousness
+see e.g. gambro lundia ab v. baxter healthcare corp. 110_f.3d_1573 1578-79 42_uspq2d_1378 1383 fed.cir.1997 absence of a suggestion to combine is dispositive of an obviousness_determination
+
+conclusion
+because we conclude that the district_court did not err in its claim_interpretation *1378 and did not err in its application of the claims to the accused device we affirm the finding that views accused method infringes claims 1 3 and 12 of the152_patent
+we also affirm the district_courts holding that the152_patent would not have been invalid on the ground of obviousness
+
+affirmed
+
+costs
+each party to bear its own costs
+
+all citations
+189_f.3d_1370 51_u.s.p.q.2d_1948
+footnotes
+1
+ball-top_coplanarity_measurements involve measuring the heights of the tops of the solder_balls on a bga fitting a least means square plane to the height data and calculating the deviations of the individual ball-tops from the fitted plane
+2
+rvsi asserts that the use of an index_pad is important because many substrates are at least partially transparent to laser radiation making direct substrate measurements inaccurate
+3
+view submitted the following dictionary_definitions of the disputed terms' provide'.. to supply or furnish for use ; to yield afford.. to furnish or supply a person etc
+with something
+`` correlate'.. to have a mutual relation
+`` dispose'.. to place things at proper distances apart and in proper positions with regard to each other to place suitably adjust to place or arrange in a particular order
+`` restrict'.. to confine some person or thing to or within certain limits ; to limit or bound
+`` select'.. to choose or pick out in preference to another or others
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+robotic_vision_systems inc. v. view_engineering inc. 189_f.3d_1370 1999 51_u.s.p.q.2d_1948
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

@@ -1,0 +1,528 @@
+('712_F.3d_549', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('Bruce', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('SAFFRAN', 'NNP', 'PERSON', 'I') ('M.D.', 'NNP', '', 'O') ('Ph.D.', 'NN', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('JOHNSON', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('JOHNSON', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Cordis_Corporation', 'NN', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+Bruce N. SAFFRAN JOHNSON & JOHNSON
+__NEW_SENT__
+('No._2012-1043', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('April_4,_2013', 'UH', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NN', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('July_1,_2013', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('medical', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('toward', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('T.', 'NNP', '', 'O') ('John', 'NNP', '', 'O') ('Ward', 'NNP', '', 'O') ('J.', 'NNP', '', 'O') ('740_F.Supp.2d_899', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('after', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O') ('2011_WL_1299607', 'CD', '', 'O') ('awarded', 'VBN', '', 'O') ('damages', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('2011_WL_1306420', 'CD', '', 'O') ('denied', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+United_States_District_Court Texas
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Lourie Circuit_Judge
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('device', 'NN', '', 'O') ("''", "''", '', 'O') ('meant', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('continuous', 'JJ', '', 'O') ('sheet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('excluded', 'VBN', '', 'O') ('stents', 'NNS', '', 'O') ('having', 'VBG', '', 'O') ('open_mesh_holes', 'NNS', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('function', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('directional_manner', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('release', 'VB', '', 'O') ('a', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('preferentially', 'RB', '', 'O') ('toward', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') (';', ':', '', 'O')
+at least one
+__NEW_SENT__
+('structure', 'NN', '', 'O') ('corresponding', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('function', 'NN', '', 'O') ('of', 'IN', '', 'O') ('releasing', 'VBG', '', 'O') ('drug', 'NN', '', 'O') ('preferentially', 'RB', '', 'O') ('toward', 'IN', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('hydrolyzable_bonds', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('medical', 'JJ', '', 'O') ('stents', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('both', 'DT', '', 'O') ('lacked', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('open_mesh_holes', '-RRB-', '', 'O') ('between', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('struts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('lacked', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('affixed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('surfaces', 'NNS', '', 'O') ('via', 'IN', '', 'O') ('hydrolyzable_bonds', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('upon', 'IN', '', 'O') ('patent', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Moore', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+Moore Circuit_Judge
+__NEW_SENT__
+("O'Malley", 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O')
+O'Malley Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*550', 'NNP', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Frederick', 'NNP', 'PERSON', 'I') ('Kellogg', 'NNP', 'PERSON', 'I') ('Huber', 'NNP', 'PERSON', 'I') ('Hansen', 'NNP', 'PERSON', 'I') ('Todd', 'NNP', 'PERSON', 'I') ('Evans', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Figel', 'NNP', 'PERSON', 'I') ('P.L.L.C.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+David C. Frederick Kellogg Huber Hansen Todd Evans & Figel P.L.L.C. Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Joffre', 'NNP', 'PERSON', 'I') ('Kiran', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Raj', 'NNP', 'PERSON', 'I') ('Melanie', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Bostwick', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Christopher', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Funk', 'NNP', 'PERSON', 'I')
+Michael E. Joffre Kiran S. Raj Melanie L. Bostwick Christopher C. Funk
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Taskier', 'NNP', 'PERSON', 'I') ('James', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Brady', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jeremy', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Cubert', 'NNP', 'PERSON', 'I') ('Dickstein_Shapiro_LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Paul R. Taskier James W. Brady Jr. Jeremy A. Cubert Washington
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Eric', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Albritton', 'NNP', 'PERSON', 'I') ('Albritton', 'NNP', '', 'O') ('Law', 'NNP', 'ORG', 'B') ('Firm', 'NN', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Longview', 'NNP', 'ORG', 'I') ('TX', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('Ryan', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Flax', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Kimberly', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Parke', 'NNP', 'PERSON', 'I') ('Dickstein_Shapiro_LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') (';', ':', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Rodgers', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Danny', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Williams', 'NNP', 'PERSON', 'I') ('Williams', 'NNP', '', 'O') ('Morgan', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Amerson', 'NNP', 'ORG', 'I') ('P.C.', 'NNP', 'GPE', 'B') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O')
+Eric M. Albritton Law Firm of Longview TX Ryan H. Flax Kimberly R. Parke Washington DC Matthew R. Rodgers Danny L. Williams Morgan & Amerson P.C. Houston
+__NEW_SENT__
+('Gregory', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Diskant', 'NNP', 'PERSON', 'I') ('Patterson', 'NNP', 'ORG', 'B') ('Belknap', 'NNP', 'ORG', 'I') ('Webb', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Tyler', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+Gregory L. Diskant Patterson Belknap Webb & Tyler LLP New York
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Eugene', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Gelernter', 'NNP', 'PERSON', 'I') ('Scott', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Howard', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Irena', 'NNP', 'GPE', 'B') ('Royzman', 'NNP', '', 'O')
+Eugene M. Gelernter Scott B. Howard Irena
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Sayles', 'NNPS', 'PERSON', 'I') ('Sayles', 'NNPS', 'PERSON', 'I') ('Werbner', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O')
+Richard A. Sayles Sayles Werbner Dallas
+__NEW_SENT__
+('Michael', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Morin', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ('Laboratories', 'NNP', 'ORG', 'I')
+Michael A. Morin Finnegan Henderson Farabow Garrett & Dunner LLP Washington Abbott Laboratories
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Kara', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Stoll', 'NNP', 'PERSON', 'I') ('James', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Barney', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jason', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Melvin', 'NNP', 'PERSON', 'I')
+Kara F. Stoll James R. Barney Jason W. Melvin
+__NEW_SENT__
+('*551', 'NNP', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Massey', 'NNP', 'PERSON', 'I') ('Massey', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Gail', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('amici', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Scientists', 'NNP', 'NORP', 'B') ('Tonia', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('YoungFadok', 'NNP', 'PERSON', 'I') ('et', 'NNP', '', 'O') ('al', 'NNP', 'LOC', 'B')
+Jonathan S. Massey Massey & Gail LLP Washington DC Scientists Tonia M. YoungFadok al
+__NEW_SENT__
+('Jennifer_Kuhn', 'NNP', '', 'O') ('Law', 'NNP', 'ORG', 'B') ('Office', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Jennifer_Kuhn', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Austin', 'NNP', '', 'O') ('TX', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('amicus', 'NN', '', 'O') ('curiae', 'NN', '', 'O') ('Professor', 'NNP', '', 'O') ('Lara', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Estroff', 'NNP', 'PERSON', 'I')
+Law Office of Jennifer_Kuhn of Lara A. Estroff
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('MOORE', 'NNP', '', 'O') ('and', 'CC', '', 'O') ("O'MALLEY", 'NN', 'CARDINAL', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LOURIE O'MALLEY
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'ORG', 'B') ('LOURIE', 'NNS', 'ORG', 'I') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Circuit_Judge_MOORE', 'NNP', 'CARDINAL', 'B') ('joins', 'VBZ', '', 'O') ('except', 'IN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('Parts_II-A-2', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('II-B-2', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ("Circuit_Judge_O'MALLEY", 'NN', '', 'O') ('joins', 'VBZ', '', 'O') ('except', 'IN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('Parts_II-A-1', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('II-B-1', 'NNP', '', 'O')
+Circuit_Judge LOURIE Circuit_Judge_MOORE
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge_MOORE', 'NNP', 'CARDINAL', 'B')
+Circuit_Judge_MOORE
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('concurring', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ("Circuit_Judge_O'MALLEY", 'NNP', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Johnson', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Johnson', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Cordis_Corporation', 'NN', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Bruce', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Saffran', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Saffran', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('liable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('1-3', 'CD', 'CARDINAL', 'B') ('6', 'CD', '', 'O') ('8', 'CD', '', 'O') ('9', 'CD', 'CARDINAL', 'B') ('11', 'CD', 'CARDINAL', 'I') ('13', 'CD', 'CARDINAL', 'I') ('15', 'CD', '', 'O') ('and', 'CC', '', 'O') ('17', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('Saffran', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('5,653,760', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Johnson & Johnson and Cordis_Corporation Cordis United_States_District_Court Texas Bruce N. Saffran Saffran Cordis 1-3 9 11 13 17 Saffran U.S. 5,653,760
+__NEW_SENT__
+('Saffran', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Johnson', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Johnson', 'NNP', 'ORG', 'I') ('No._2', 'NNP', 'ORG', 'I') (':07-cv-451', 'NFP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('E.D', 'NNP', 'GPE', 'B')
+Saffran Johnson & Johnson No._2 :07-cv-451 E.D
+__NEW_SENT__
+('Tex', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Mar._31,_2011', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('ECF', 'NNP', 'ORG', 'B') ('No._326', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Final_Judgment', 'JJ', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O')
+ECF No._326
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erroneously', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('correct', 'JJ', '', 'O') ('construction', 'NN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+¡¬760_patent Cordis
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Saffran', 'NNP', 'PERSON', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('and', 'CC', '', 'O') ('sole', 'JJ', '', 'O') ('named', 'VBN', '', 'O') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Method', 'NNP', 'WORK_OF_ART', 'I') ('and', 'CC', 'WORK_OF_ART', 'I') ('Apparatus', 'NNP', 'WORK_OF_ART', 'I') ('for', 'IN', 'WORK_OF_ART', 'I') ('Managing', 'VBG', 'WORK_OF_ART', 'I') ('Macromolecular', 'NNP', 'WORK_OF_ART', 'I') ('Distribution', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('and', 'CC', '', 'O') ('concerns', 'NNS', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injured', 'VBN', '', 'O') ('tissues', 'NNS', '', 'O') ('within', 'IN', '', 'O') ('human', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('animal', 'NN', '', 'O') ('bodies', 'NNS', '', 'O') ('specifically..', 'LS', '', 'O') ('the', 'DT', '', 'O') ('way', 'NN', '', 'O') ('injured', 'VBN', '', 'O') ('tissues', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('joined', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('way', 'NN', '', 'O') ('macromolecules', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('promote', 'VB', '', 'O') ('healing', 'NN', '', 'O') ("''", "''", '', 'O')
+Saffran ¡¬760_patent `` Method and Apparatus for Managing Macromolecular Distribution ''
+__NEW_SENT__
+('¡¬760_patent_col.', 'NNP', '', 'O') ('1_ll._21', 'CD', '', 'O') ('-24', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('methods', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('devices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('injured', 'VBN', '', 'O') ('tissues', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('sequestering', 'VBG', '', 'O') ('particles', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('macromolecules', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('defined', 'VBN', '', 'O') ('space', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('selectively', 'RB', '', 'O') ('permeable', 'JJ', '', 'O') ('barrier', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('primarily', 'RB', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('in', 'IN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('strategy', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('serious', 'JJ', '', 'O') ('bone', 'NN', '', 'O') ('fractures', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('complex', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('comminuted', 'VBN', '', 'O') ('fractures', 'NNS', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('bone', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('shattered', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('numerous', 'JJ', '', 'O') ('fragments', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('cases', 'NNS', '', 'O') ('standard', 'JJ', '', 'O') ('treatment', 'NN', '', 'O') ('may', 'MD', '', 'O') ('involve', 'VB', '', 'O') ('surgical', 'JJ', '', 'O') ('intervention', 'NN', '', 'O') ('to', 'TO', '', 'O') ('align', 'VB', '', 'O') ('the', 'DT', '', 'O') ('bone', 'NN', '', 'O') ('fragments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('affix', 'NN', '', 'O') ('a', 'DT', '', 'O') ('stabilizing', 'VBG', '', 'O') ('device', 'NN', '', 'O') ('across', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fracture_site', 'NN', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('enable', 'VB', '', 'O') ('new', 'JJ', '', 'O') ('bone', 'NN', '', 'O') ('to', 'TO', '', 'O') ('form', 'VB', '', 'O') ('between', 'IN', '', 'O') ('and', 'CC', '', 'O') ('eventually', 'RB', '', 'O') ('unite', 'VB', '', 'O') ('the', 'DT', '', 'O') ('fragments', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('healing', 'VBG', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('complex', 'JJ', '', 'O') ('fractures', 'NNS', '', 'O') ('often', 'RB', '', 'O') ('heal', 'VBP', '', 'O') ('poorly', 'RB', '', 'O') ('requiring', 'VBG', '', 'O') ('repeated', 'VBN', '', 'O') ('operations', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('permanent', 'JJ', '', 'O') ('disability', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('1_l._43', 'CD', 'CARDINAL', 'B') ('-col.', 'SYM', '', 'O') ('2_l._16', 'CD', '', 'O')
+1_l._43
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('several', 'JJ', '', 'O') ('cellular', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('molecular', 'JJ', '', 'O') ('processes', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('may', 'MD', '', 'O') ('influence', 'VB', '', 'O') ('clinical', 'JJ', '', 'O') ('outcomes', 'NNS', '', 'O') ('following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('complex', 'JJ', '', 'O') ('fracture', 'NN', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('cells', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('site', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injury', 'NN', '', 'O') ('secrete', 'NN', '', 'O') ('growth-promoting', 'JJ', '', 'O') ('proteins', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('growth_factors', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('interfragmentary_spaces', 'NNS', '', 'O') ('where', 'WRB', '', 'O') ('those', 'DT', '', 'O') ('proteins', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('in', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('concentrations', 'NNS', '', 'O') ('stimulate', 'VBP', '', 'O') ('cellular', 'JJ', '', 'O') ('proliferation', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('assembly', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('scaffolding', 'NN', '', 'O') ("''", "''", '', 'O') ('matrix', 'NN', '', 'O') ('between', 'IN', '', 'O') ('fragments', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('serves', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('prelude', 'NN', '', 'O') ('to', 'IN', '', 'O') ('new', 'JJ', '', 'O') ('bone', 'NN', '', 'O') ('formation', 'NN', '', 'O')
+one
+__NEW_SENT__
+('If', 'IN', '', 'O') ('the', 'DT', '', 'O') ('local', 'JJ', '', 'O') ('concentration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('growth_factors', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('too', 'RB', '', 'O') ('low', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('scaffolding', 'NN', '', 'O') ('process', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('occur-small', 'VB', '', 'O') ('bone', 'NN', '', 'O') ('fragments', 'NNS', '', 'O') ('instead', 'RB', '', 'O') ('remain', 'VBP', '', 'O') ('isolated', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('are', 'VBP', '', 'O') ('eventually', 'RB', '', 'O') ('absorbed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('leaving', 'VBG', '', 'O') ('persistent', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('ever-larger', 'JJ', '', 'O') ('gaps', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('major', 'JJ', '', 'O') ('fragments', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('bone', 'NN', '', 'O') ('growth_factors', 'NNS', '', 'O') ('diffuse', 'VBP', '', 'O') ('away', 'RB', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fracture_site', 'NN', '', 'O') ('and', 'CC', '', 'O') ('into', 'IN', '', 'O') ('adjacent', 'JJ', '', 'O') ('soft', 'JJ', '', 'O') ('tissues', 'NNS', '', 'O') ('they', 'PRP', '', 'O') ('can', 'MD', '', 'O') ('spur', 'VB', '', 'O') ('calcification', 'NN', '', 'O') ('*552', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('heterotopic', 'JJ', '', 'O') ('bone', 'NN', '', 'O') ('growth', 'NN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('muscles', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('can', 'MD', '', 'O') ('permanently', 'RB', '', 'O') ('limit', 'VB', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('range', 'NN', '', 'O') ('of', 'IN', '', 'O') ('motion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('2_ll._17', 'NN', '', 'O') ('-64', '.', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('improve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('injuries', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('discloses', 'VBZ', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('unique', 'JJ', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('fracture', 'NN', '', 'O') ('stabilization', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('means', 'NN', '', 'O') ('to', 'TO', '', 'O') ('restrain', 'VB', '', 'O') ('interfragmentary', 'JJ', '', 'O') ('macromolecules', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('flexible', 'JJ', '', 'O') ('minimally', 'RB', '', 'O') ('porous_sheet', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('7_ll._34', 'NNS', '', 'O') ('-36', ':', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('purposes', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('substances', 'NNS', '', 'O') ('larger', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('about', 'RB', '', 'O') ('500', 'CD', '', 'O') ('daltons1', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('e.g.', 'JJ', '', 'O') ('proteins', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('many', 'JJ', '', 'O') ('drugs', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('considered', 'VBN', '', 'O') ('macromolecules', 'NNS', '', 'O')
+¡¬760_patent
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('8_ll._3', 'CD', 'CARDINAL', 'B') ('-6', '.', '', 'O')
+8_ll._3
+__NEW_SENT__
+('The', 'DT', '', 'O') ('single-layered', 'JJ', '', 'O') ('sheet', 'NN', '', 'O') ('serves', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('selective', 'JJ', '', 'O') ('barrier', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('blocks', 'VBZ', '', 'O') ('macromolecules', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('larger', 'JJR', '', 'O') ('particles', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('tissue', 'NN', '', 'O') ('fragments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('cells', 'NNS', '', 'O') ('yet', 'CC', '', 'O') ('contains', 'VBZ', '', 'O') ('micropores', 'NNS', '', 'O') ('sized', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('free', 'JJ', '', 'O') ('passage', 'NN', '', 'O') ('for', 'IN', '', 'O') ('small', 'JJ', '', 'O') ('molecules', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('e.g.', 'JJ', '', 'O') ('water', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('13_ll._39', 'CD', '', 'O') ('-57', '.', '', 'O')
+
+__NEW_SENT__
+('Other', 'JJ', '', 'O') ('sheets', 'NNS', '', 'O') ('might', 'MD', '', 'O') ('be', 'VB', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('screen', 'NN', '', 'O') ('molecules', 'NNS', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('properties', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('ionic', 'JJ', '', 'O') ('charge', 'NN', '', 'O') ('or', 'CC', '', 'O') ('hydrophobicity', 'NN', '', 'O') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('size', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('8_ll._15', 'NNP', 'CARDINAL', 'B') ('-24', 'NN', '', 'O')
+8_ll._15
+__NEW_SENT__
+('Once', 'RB', '', 'O') ('selected', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('cut', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('size', 'NN', '', 'O') ('and', 'CC', '', 'O') ('shape', 'VB', '', 'O') ('the', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('wrapped', 'VBN', '', 'O') ('around', 'RB', '', 'O') ('or', 'CC', '', 'O') ('affixed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fracture_site', 'NN', '', 'O') ('for', 'IN', '', 'O') ('example', 'NN', '', 'O') ('with', 'IN', '', 'O') ('staples', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('as', 'IN', '', 'O') ('shown', 'VBN', '', 'O') ('below', 'IN', '', 'O')
+1 6
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('¡¬760_patent', 'NNP', '', 'O') ('fig._4', 'NNP', '', 'O') ('a', 'DT', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('id', 'UH', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('16_ll._13', 'CD', '', 'O') ('-47', '.', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('barrier', 'NN', '', 'O') ('properties', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('growth_factors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('macromolecules', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('8', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('produced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('injured', 'VBN', '', 'O') ('tissues', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fracture_site', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('restrained', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('concentrated', 'VBN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('interfragmentary_spaces', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('as', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('cross-sectional', 'JJ', '', 'O') ('diagram', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('after', 'IN', '', 'O') ('implantation', 'NN', '', 'O') (':', ':', '', 'O')
+8 4
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('*553', 'NNP', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('fig._4', 'NN', '', 'O') ('b', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('pre-formed', 'JJ', '', 'O') ('sheets', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('also', 'RB', '', 'O') ('discloses', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('applied', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('site', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injury', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('spray..', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('deposited', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('thin', 'JJ', '', 'O') ('film', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tissue..', 'NN', '', 'O') ('to', 'TO', '', 'O') ('maximize', 'VB', '', 'O') ('the', 'DT', '', 'O') ('surface', 'NN', '', 'O') ('area', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('treated', 'VBN', '', 'O') ('while', 'IN', '', 'O') ('minimizing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('need', 'NN', '', 'O') ('to', 'TO', '', 'O') ('dissect', 'VB', '', 'O') ('and', 'CC', '', 'O') ('staple', 'JJ', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('18_ll._29', 'NNS', '', 'O') ('-47', '.', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('fig._6', 'RBR', '', 'O') ('a', 'DT', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('id', 'UH', '', 'O')
+
+__NEW_SENT__
+('fig._6', 'NN', '', 'O') ('b', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('above-described', 'JJ', '', 'O') ('properties', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('can', 'MD', '', 'O') ('also', 'RB', '', 'O') ('be', 'VB', '', 'O') ('configured', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('deliver', 'VB', '', 'O') ('a', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('or', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('therapeutic', 'JJ', '', 'O') ('agent', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('site', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('embodiments', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('teaches', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('``', '``', '', 'O') ('is', 'VBZ', '', 'O') ('affixed', 'VBN', '', 'O') ('directly', 'RB', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('minimally-porous_sheet', 'NN', '', 'O') ("''", "''", '', 'O')
+¡¬760_patent one
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('8_ll._3', 'CD', '', 'O') ('1-32', 'CD', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('affixing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('12', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hydrolyzable', 'JJ', '', 'O') ('chemical', 'NN', '', 'O') ('bond', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('24', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preferred', 'JJ', '', 'O') ('embodiment', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('severed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('release', 'VB', '', 'O') ('the', 'DT', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('by', 'IN', '', 'O') ('means', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('water', 'NN', '', 'O') ('molecules', 'NNS', '', 'O') ('present', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('site.2', 'NNS', '', 'O') ('Id', 'NNP', '', 'O')
+12 one 1 24
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('14_ll._65', 'CD', 'CARDINAL', 'B') ('-67', '.', '', 'O')
+14_ll._65
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('3a', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('represents', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('configured', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('drug', 'NN', '', 'O') ('delivery', 'NN', '', 'O') ('as', 'IN', '', 'O') ('described', 'VBN', '', 'O') ('above', 'RB', '', 'O') (':', ':', '', 'O')
+3a
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('¡¬760_patent', 'NN', '', 'O') ('fig._3', 'VBZ', '', 'O') ('a.', 'DT', '', 'O') ('Lysis', 'NN', 'ORG', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bonds', 'NNS', '', 'O') ('occurs', 'VBZ', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('constant', 'JJ', '', 'O') ('rate', 'NN', '', 'O') ('releasing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('steady', 'JJ', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O')
+Lysis
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('14_l._43', 'CD', 'CARDINAL', 'B') ('-col.', 'SYM', '', 'O') ('15_l._20', 'CD', 'CARDINAL', 'B') ('col.', 'NN', '', 'O') ('22_ll._4', 'CD', '', 'O') ('-17', '.', '', 'O')
+14_l._43 15_l._20
+__NEW_SENT__
+('*554', 'NNP', '', 'O') ('Moreover', 'RB', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('released', 'VBN', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('10', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('is', 'VBZ', '', 'O') ('too', 'RB', '', 'O') ('large', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('pass', 'VB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('minimally', 'RB', '', 'O') ('porous_sheet', 'NN', '', 'O') ('the', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('device', 'NN', '', 'O') ('can', 'MD', '', 'O') ('deliver', 'VB', '', 'O') ('such', 'JJ', '', 'O') ('therapeutics', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('spatially', 'RB', '', 'O') ('directed', 'VBN', '', 'O') ('manner-generally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('delivered', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('maintained', 'VBD', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('facing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('injured', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('as', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('760', 'CD', 'DATE', 'I') ('patent', 'NN', '', 'O') (':', ':', '', 'O')
+10 ¡¬ 760
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('¡¬760_patent', 'NN', '', 'O') ('fig._3', 'VBZ', '', 'O') ('b', 'NNS', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('another', 'DT', '', 'O') ('use', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('also', 'RB', '', 'O') ('describes', 'VBZ', '', 'O') ('intravascular', 'JJ', '', 'O') ('stents', 'NNS', '', 'O') ('incorporating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('technology', 'NN', '', 'O')
+¡¬760_patent
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('20_l._9', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('21_l._3', 'CD', 'CARDINAL', 'B')
+20_l._9 21_l._3
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('vascular', 'NN', '', 'O') ('plaques', 'NNS', '', 'O') ('form', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('response', 'NN', '', 'O') ('to', 'TO', '', 'O') ('microscopic', 'JJ', '', 'O') ('injuries', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('blood_vessel_wall', 'NN', '', 'O') (':', ':', '', 'O') ('``', '``', '', 'O') ('When', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('vessel', 'NN', '', 'O') ('attempts', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('heal', 'VB', '', 'O') ('neighboring', 'NN', '', 'O') ('cells', 'NNS', '', 'O') ('[', '-LRB-', '', 'O') ('secrete', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('series', 'NN', '', 'O') ('of', 'IN', '', 'O') ('macromolecules', 'NNS', '', 'O') ('to', 'TO', '', 'O') ("'patch", 'VB', '', 'O') ("'", "''", '', 'O') ('the', 'DT', '', 'O') ('defect', 'NN', '', 'O')
+
+__NEW_SENT__
+('If', 'IN', '', 'O') ('the', 'DT', '', 'O') ('macromolecules', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('kept', 'VBN', '', 'O') ('substantially', 'RB', '', 'O') ('in', 'IN', '', 'O') ('place', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('will', 'MD', '', 'O') ('be', 'VB', '', 'O') ('swept', 'VBN', '', 'O') ('away', 'RB', '', 'O') ('by', 'IN', '', 'O') ('moving', 'VBG', '', 'O') ('blood..', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('T', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('he', 'PRP', '', 'O') ('sooner', 'RBR', '', 'O') ('the', 'DT', '', 'O') ('injury', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('repaired', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('smaller', 'JJR', '', 'O') ('the', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('plaque', 'NN', '', 'O') ('will', 'MD', '', 'O') ('be', 'VB', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('20_ll._14', 'CD', '', 'O') ('-21', '.', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('regard', 'NN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('criticizes', 'VBZ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('stents', 'NNS', '', 'O') ('consisting', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('open', 'JJ', '', 'O') ('wire', 'NN', '', 'O') ('mesh', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('holes', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('27', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('mesh', 'NN', '', 'O') ('between', 'IN', '', 'O') ('adjacent', 'JJ', '', 'O') ('stent', 'NN', '', 'O') ('struts', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('29', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('so', 'RB', '', 'O') ('large', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('both', 'DT', '', 'O') ('cells', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('macromolecules', 'NNS', '', 'O') ('[', '-LRB-', '', 'O') ('(', '-LRB-', '', 'O') ('8', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') (']', '-RRB-', '', 'O') ('are', 'VBP', '', 'O') ('free', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('move', 'VB', '', 'O') ('through', 'IN', '', 'O') ('them', 'PRP', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('blood_vessel_lumen', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('38', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('id', 'UH', '', 'O')
+¡¬760_patent 27 29 8 38
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('20_ll._34', 'CD', '', 'O') ('-38', ',', '', 'O') ('as', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('below', 'IN', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('¡¬760_patent', 'NN', '', 'O') ('fig._8', 'NN', '', 'O') ('c.', 'NN', '', 'O') ('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('notes', 'VBZ', '', 'O') ('prior', 'RB', '', 'O') ('art', 'NN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('5,383,928', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Scott', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('improvement', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('traditional', 'JJ', '', 'O') ('open', 'JJ', '', 'O') ('mesh', 'NN', '', 'O') ('stent', 'NN', '', 'O') ('design', 'NN', '', 'O') ('incorporating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('sheath', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('can', 'MD', '', 'O') ('cover', 'VB', '', 'O') ('the', 'DT', '', 'O') ('metallic_mesh', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('porous', 'JJ', '', 'O') ('stent', 'NN', '', 'O') ('thereby', 'RB', '', 'O') ('somewhat', 'RB', '', 'O') ('limiting', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('*555', 'NNP', '', 'O') ('porosity', 'NN', '', 'O') ("''", "''", '', 'O')
+U.S. 5,383,928 Scott
+__NEW_SENT__
+('¡¬760_patent_col.', 'CD', '', 'O') ('20_ll._38', 'CD', '', 'O') ('-45', ':', '', 'O') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('id', 'UH', '', 'O')
+
+__NEW_SENT__
+('fig._8', 'JJ', '', 'O') ('d.', 'NN', '', 'O') ('The', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('observes', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Scott', 'NNP', 'PERSON', 'B') ('described', 'VBD', '', 'O') ('embedding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sheath', 'NN', '', 'O') ('for', 'IN', '', 'O') ('local', 'JJ', '', 'O') ('delivery', 'NN', '', 'O') ('but', 'CC', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Scott', 'NNP', 'PERSON', 'B') ('``', '``', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('means', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('restrain', 'VB', '', 'O') ('macromolecules', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('sheath', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('vessel_wall', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('provide', 'VB', '', 'O') ('``', '``', '', 'O') ("'directional", 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('delivery', 'NN', '', 'O') ('means', 'NNS', '', 'O') ("'", "''", '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('restrain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('medicine', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('their', 'PRP$', '', 'O') ('sheath', 'NN', '', 'O') ('delivers', 'VBZ', '', 'O') ("''", "''", '', 'O')
+Scott Scott
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('20_ll._42', 'CD', 'CARDINAL', 'B') ('-58', 'NNS', '', 'O')
+20_ll._42
+__NEW_SENT__
+('In', 'IN', '', 'O') ('contrast', 'NN', '', 'O') ('the', 'DT', '', 'O') ('minimally', 'RB', '', 'O') ('porous_sheet', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('``', '``', '', 'O') ('provides', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('means', 'NN', '', 'O') ('to', 'TO', '', 'O') ('restrain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('macromolecules', 'NNS', '', 'O') ('elaborated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('healing', 'NN', '', 'O') ('tissue', 'NN', '', 'O') ('as', 'RB', '', 'O') ('well', 'RB', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('restrain', 'VB', '', 'O') ('any', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('medicines', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('space', 'NN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('injured', 'VBN', '', 'O') ('blood_vessel_wall', 'NNP', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('20_ll._59', 'CD', 'CARDINAL', 'B') ('-62', '.', '', 'O')
+20_ll._59
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('provides', 'VBZ', '', 'O') ('several', 'JJ', '', 'O') ('figures', 'NNS', '', 'O') ('depicting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('stents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('operation', 'NN', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('¡¬760_patent', 'NN', '', 'O') ('figs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('8e-f', 'NNS', 'CARDINAL', 'B') (';', ':', '', 'O') ('see', 'VB', '', 'O') ('also', 'RB', '', 'O') ('id', 'UH', '', 'O')
+8e-f
+__NEW_SENT__
+('figs', 'NNS', '', 'O')
+
+__NEW_SENT__
+('8g-9e', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('drawings', 'NNS', '', 'O') ('show', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('minimally', 'RB', '', 'O') ('porous_sheet', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('wrapped', 'VBN', '', 'O') ('around', 'IN', '', 'O') ('a', 'DT', '', 'O') ('mesh', 'NN', '', 'O') ('stent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('positioned', 'VBN', '', 'O') ('inside', 'IN', '', 'O') ('a', 'DT', '', 'O') ('partly', 'RB', '', 'O') ('occluded', 'JJ', '', 'O') ('blood', 'NN', '', 'O') ('vessel', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('atherosclerotic', 'JJ', '', 'O') ('plaque', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('18', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1 18
+__NEW_SENT__
+('The', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('12', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('bound', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('side', 'NN', '', 'O') ('facing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('blood_vessel_wall', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('39', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+12 one 39
+__NEW_SENT__
+('Tissue-derived', 'JJ', '', 'O') ('macromolecules', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('8', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('released', 'VBN', '', 'O') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('10', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('remain', 'VBP', '', 'O') ('sequestered', 'VBN', '', 'O') ('*556', 'NNP', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sheet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('vessel_wall', 'NN', '', 'O') ('while', 'IN', '', 'O') ('water', 'NN', '', 'O') ('and', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('small', 'JJ', '', 'O') ('molecules', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('16', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('pass', 'VB', '', 'O') ('freely', 'RB', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('blood_vessel_lumen', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('38', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+8 10 16 38
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id', 'JJ', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('11_ll._28', 'CD', 'GPE', 'B') ('-53', 'NN', '', 'O') ('col.', 'FW', '', 'O') ('12_l._21', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('13_l._18', 'CD', 'CARDINAL', 'B')
+11_ll._28 12_l._21 13_l._18
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('concludes', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O') ('reciting', 'VBG', '', 'O') ('devices', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('damaged', 'VBN', '', 'O') ('tissues', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('disclosed', 'VBN', '', 'O') ('minimally', 'RB', '', 'O') ('porous', 'JJ', '', 'O') ('devices', 'NNS', '', 'O')
+¡¬760_patent 18
+__NEW_SENT__
+('Independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_8', 'CD', 'CARDINAL', 'B') ('are', 'VBP', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+1_and_8 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('flexible', 'JJ', '', 'O') ('fixation', 'NN', '', 'O') ('device', 'NN', '', 'O') ('for', 'IN', '', 'O') ('implantation', 'NN', '', 'O') ('into', 'IN', '', 'O') ('human', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('animal', 'JJ', '', 'O') ('tissue', 'NN', '', 'O') ('to', 'TO', '', 'O') ('promote', 'VB', '', 'O') ('healing', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('flexible_material', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('minimally', 'RB', '', 'O') ('porous', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('macromolecules', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('layer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second_major_surface', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('shaped', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('dimensions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('manipulation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('human_hands', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('first_major_surface', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('placed', 'VBN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('second_major_surface', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('placed', 'VBN', '', 'O') ('opposite', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('material_release', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('directional_manner', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('layer', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('placed', 'VBN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('flexible', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('dimensions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('manipulation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('human_hands', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('substantially', 'RB', '', 'O') ('restricting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('through', 'IN', '', 'O') ('passage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('macromolecule_therethrough', 'NN', '', 'O')
+first three at least one three at least one
+__NEW_SENT__
+('...', 'NFP', '', 'O') ('8', 'CD', 'CARDINAL', 'B')
+8
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('to', 'TO', '', 'O') ('promote', 'VB', '', 'O') ('repair', 'VB', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('flexible_material', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('minimally', 'RB', '', 'O') ('porous', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('macromolecules', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('layer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second_major_surface', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('shaping', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('dimensions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('manipulation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('human_hands', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('first_major_surface', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('placed', 'VBN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('second_major_surface', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('adapted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('placed', 'VBN', '', 'O') ('opposite', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('layer', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('material_release', 'NN', '', 'O') ('means', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('unidirectional_manner', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('said', 'VBD', '', 'O') ('layer', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('placed', 'VBN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('flexible', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('dimensions', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('manipulation', 'NN', '', 'O') ('by', 'IN', '', 'O') ('human_hands', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('being', 'VBG', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('restricting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('through', 'IN', '', 'O') ('passage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('macromolecule_therethrough', 'JJ', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('placing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('adjacent', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('whereby', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('placed', 'VBN', '', 'O') ('device', 'NN', '', 'O') ('results', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('directional', 'JJ', '', 'O') ('presentation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'NN', '', 'O') ('material', 'NN', '', 'O')
+first three at least one three at least one at least one
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('22_ll._29', 'CD', '', 'O') ('-47', 'HYPH', '', 'O') ('col.', 'FW', '', 'O') ('23_ll._14', 'CD', '', 'O') ('-37', 'DT', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('9', 'CD', 'DATE', 'I') ('2007', 'CD', 'DATE', 'I') ('Saffran', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O')
+October 9 2007 Saffran Cordis
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('complaint', 'NN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('infringed', 'VBD', '', 'O') ('by', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('using', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('selling', 'VBG', '', 'O') ('drug-eluting', 'JJ', '', 'O') ('stents', 'NNS', '', 'O') ('marketed', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brand', 'NN', '', 'O') ('name', 'NN', '', 'O') ('CypherTHE_R', 'NNP', '', 'O')
+Cordis
+__NEW_SENT__
+('Briefly', 'NNP', 'GPE', 'B') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('stents', 'NNS', '', 'O') ('comprise', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('metallic_mesh', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('microscopic', 'JJ', '', 'O') ('layer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('polymer', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('coats', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('strut', 'NN', '', 'O')
+Briefly
+__NEW_SENT__
+('The', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('applied', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('stents', 'NNS', '', 'O') ('contains', 'VBZ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('polymers', 'NNS', '', 'O') ('mixed', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('macromolecular', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('sirolimus,3', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('diffuses', 'VBZ', '', 'O') ('out', 'IN', '', 'O') ('of', 'IN', '', 'O') ('*557', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('controlled', 'VBN', '', 'O') ('fashion', 'NN', '', 'O') ('after', 'IN', '', 'O') ('implantation', 'NN', '', 'O') ('gradually', 'RB', '', 'O') ('escaping', 'VBG', '', 'O') ('through', 'IN', '', 'O') ('gaps', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('polymer', 'NN', '', 'O') ('matrix', 'NN', '', 'O') ('over', 'IN', '', 'O') ('a', 'DT', '', 'O') ('90-day', 'CD', '', 'O') ('period', 'NN', '', 'O')
+Cordis two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('holes', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('coated', 'JJ', '', 'O') ('struts', 'NNS', '', 'O') ('remain', 'VBP', '', 'O') ('open', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('shown', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('images', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('conducted', 'VBD', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('proceedings', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('construe', 'VB', '', 'O') ('several', 'JJ', '', 'O') ('disputed', 'VBN', '', 'O') ('claim_limitations', 'NNS', '', 'O')
+Markman
+__NEW_SENT__
+('Saffran', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Johnson', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Johnson', 'NNP', 'ORG', 'I') ('740_F.Supp.2d_899', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('E.D.Tex.2010', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Claim', 'NNP', '', 'O') ('Construction', 'NNP', '', 'O') ('Order', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Saffran Johnson & Johnson
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('first', 'RB', '', 'O') ('addressed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('device', 'NN', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('it', 'PRP', '', 'O') ('viewed', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('non-limiting', 'VBG', '', 'O') ('preamble', 'JJ', '', 'O') ('language', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('``', '``', '', 'O') ('merely', 'RB', '', 'O') ('gives', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('descriptive', 'JJ', '', 'O') ('name', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('set', 'NN', '', 'O') ('of', 'IN', '', 'O') ('limitations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('911', 'CD', 'CARDINAL', 'B')
+911
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('``', '``', '', 'O') ('device', 'NN', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('mean', 'VB', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('limitations', 'NNS', '', 'O') ('called', 'VBN', '', 'O') ('out', 'RP', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('interpreted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('language', 'NN', '', 'O') ('``', '``', '', 'O') ('minimally', 'RB', '', 'O') ('porous', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('macromolecules', 'NNS', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('meaning', 'VBG', '', 'O') ('``', '``', '', 'O') ('substantially', 'RB', '', 'O') ('impermeable', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('macromolecules', 'NNS', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('phrase', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ordinary', 'JJ', '', 'O') ('meaning', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('specification', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('913-14', 'CD', '', 'O')
+
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('language', 'NN', '', 'O') ('``', '``', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('directional_manner', 'NN', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('means-plus-function', 'NN', '', 'O') ('limitation', 'NN', '', 'O') ('governed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('112', 'CD', 'CARDINAL', 'B') ('?', '.', '', 'O')
+at least one 35 112
+__NEW_SENT__
+('6.4', 'CD', 'CARDINAL', 'B') ('Accordingly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('function', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('``', '``', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ("''", "''", '', 'O') ('is', 'VBZ', '', 'O') ('``', '``', '', 'O') ('to', 'TO', '', 'O') ('release', 'VB', '', 'O') ('a', 'DT', '', 'O') ('drug', 'NN', '', 'O') ('preferentially', 'RB', '', 'O') ('toward', 'IN', '', 'O') ('the', 'DT', '', 'O') ('damaged', 'VBN', '', 'O') ('tissue', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('defined', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('corresponding', 'JJ', '', 'O') ('structures', 'NNS', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ("'s", 'POS', '', 'O') ('specification', 'NN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('chemical', 'NN', '', 'O') ('bonds', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('linkages', 'NNS', '', 'O') ("''", "''", '', 'O')
+6.4 ¡¬760_patent
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('914-19', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('case', 'NN', '', 'O') ('proceeded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('returned', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('verdict', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Saffran', 'NNP', 'GPE', 'B') ('on', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('28', 'CD', 'DATE', 'I') ('2011', 'CD', 'DATE', 'I')
+Saffran January 28 2011
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('proven', 'VBN', '', 'O') ('invalid', 'JJ', '', 'O') (';', ':', '', 'O') ('that', 'IN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('willfully', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manufacture', 'NN', '', 'O') ('use', 'NN', '', 'O') ('and', 'CC', '', 'O') ('sale', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('accused', 'VBN', '', 'O') ('stent', 'NN', '', 'O') ('products', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Saffran', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('totaling', 'VBG', '', 'O') ('$', '$', '', 'O') ('482,000,000', 'CD', 'MONEY', 'B')
+Cordis Saffran 482,000,000
+__NEW_SENT__
+('Saffran', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Johnson', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Johnson', 'NNP', 'ORG', 'I') ('No._2', 'NNP', 'ORG', 'I') (':07-cv-451', '.', '', 'O') ('2011_WL_1299607', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('E.D.Tex', 'RBS', '', 'O')
+Saffran Johnson & Johnson No._2
+__NEW_SENT__
+('Mar._31,_2011', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('the', 'DT', '', 'O') ('verdict', 'NN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('on', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('willfulness', 'NN', '', 'O') ('and', 'CC', '', 'O') ('damages', 'NNS', '', 'O')
+Cordis
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusions', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('damages', 'NNS', '', 'O') ('denying', 'VBG', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motions', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('those', 'DT', '', 'O') ('grounds', 'NNS', '', 'O')
+Cordis
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('*2-8', 'FW', '', 'O') ('*10-11', '.', '', 'O')
+
+__NEW_SENT__
+('Regarding', 'VBG', '', 'O') ('willfulness', 'NN', '', 'O') ('however', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Saffran', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('satisfied', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('objective', 'JJ', '', 'O') ('prong', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('willfulness', 'JJ', '', 'O') ('test', 'NN', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('on', 'IN', '', 'O') ('that', 'DT', '', 'O') ('issue', 'NN', '', 'O')
+Saffran Cordis
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*8-9', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('Having', 'VBG', '', 'O') ('upheld', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('calculation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('awarded', 'VBD', '', 'O') ('an', 'DT', 'MONEY', 'B') ('additional', 'JJ', 'MONEY', 'I') ('$', '$', 'MONEY', 'I') ('111,364,281', 'CD', 'MONEY', 'I') ('in', 'IN', '', 'O') ('prejudgment', 'NN', '', 'O') ('interest', 'NN', '', 'O') ('bringing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('total', 'JJ', '', 'O') ('award', 'NN', '', 'O') ('to', 'IN', '', 'O') ('$', '$', '', 'O') ('593,364,281', 'CD', 'MONEY', 'B')
+an additional $ 111,364,281 593,364,281
+__NEW_SENT__
+('Final_Judgment', 'NN', '', 'O') ('slip', 'NN', '', 'O') ('op.at', 'NNP', '', 'O') ('1-2', 'CD', '', 'O')
+
+__NEW_SENT__
+('Cordis', 'NNP', 'ORG', 'B') ('now', 'RB', '', 'O') ('appeals', 'VBZ', '', 'O') (';', ':', '', 'O') ('we', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+Cordis 1
+__NEW_SENT__
+('*558', 'NN', '', 'O') ('II', 'NNP', '', 'O')
+
+__NEW_SENT__
+('DISCUSSION', 'NN', 'ORG', 'B')
+DISCUSSION
+__NEW_SENT__
+('Claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('``', '``', '', 'O') ('exclusively', 'RB', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('province', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Markman', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('Westview', 'NNP', 'ORG', 'B') ('Instruments', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('517_U.S._370', 'CD', '', 'O') ('372', 'CD', 'CARDINAL', 'B') ('116_S.Ct._1384', 'CD', '', 'O') ('134_L.Ed.2d_577_(1996)', 'CD', 'CARDINAL', 'B')
+Markman Westview Instruments Inc. 372 134_L.Ed.2d_577_(1996)
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('apply', 'VBP', '', 'O') ('regional', 'JJ', '', 'O') ('circuit', 'NN', '', 'O') ('law', 'NN', '', 'O') ('in', 'IN', '', 'O') ('assessing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('grant', 'NN', '', 'O') ('or', 'CC', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+
+__NEW_SENT__
+('Summit', 'NNP', 'ORG', 'B') ('Tech.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Nidek', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('363_F.3d_1219', 'CD', 'DATE', 'B') ('1223', 'CD', 'DATE', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.2004', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Summit Tech. Inc. Nidek Co. 363_F.3d_1219 1223
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Fifth', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('reviews', 'VBZ', '', 'O') ('orders', 'NNS', '', 'O') ('granting', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('denying', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('without', 'IN', '', 'O') ('deference', 'NN', '', 'O') ('applying', 'VBG', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('standard', 'NN', '', 'O') ('to', 'TO', '', 'O') ('review', 'VB', '', 'O') ('the', 'DT', '', 'O') ('verdict', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('passing', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ("''", "''", '', 'O')
+Fifth Circuit first
+__NEW_SENT__
+('Hiltgen', 'NNP', 'ORG', 'B') ('v.', 'IN', '', 'O') ('Sumrall', 'NNP', 'ORG', 'B') ('47_F.3d_695', 'NNP', '', 'O') ('699', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('5th', 'JJ', 'ORDINAL', 'B') ('Cir.1995', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+Hiltgen Sumrall 699 5th
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('appropriate', 'JJ', '', 'O') ('if', 'IN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('facts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('inferences', 'NNS', '', 'O') ('point', 'VBP', '', 'O') ('so', 'RB', '', 'O') ('strongly', 'RB', '', 'O') ('and', 'CC', '', 'O') ('overwhelmingly', 'RB', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('party', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('concludes', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('reasonable', 'JJ', '', 'O') ('jurors', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('arrive', 'VB', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('contrary', 'JJ', '', 'O') ('verdict', 'NN', '', 'O') ("''", "''", '', 'O')
+one
+__NEW_SENT__
+('Bellows', 'NNS', '', 'O') ('v.', 'IN', '', 'O') ('Amoco', 'NNP', 'ORG', 'B') ('Oil', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('118_F.3d_268', 'CD', '', 'O') ('273', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('5th', 'JJ', '', 'O') ('Cir.1997', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+Amoco Oil Co. 273
+__NEW_SENT__
+('On', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('disputes', 'VBZ', '', 'O') ('inter', 'RB', '', 'O') ('alia', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim_limitations', 'NNS', '', 'O') ('``', '``', '', 'O') ('device', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('release', 'VB', '', 'O') ('means', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('release', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('treating', 'VBG', '', 'O') ('material', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('directional_manner', 'NN', '', 'O') ("''", "''", '', 'O')
+Cordis at least one
+__NEW_SENT__
+('Under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('correct', 'JJ', '', 'O') ('constructions', 'NNS', '', 'O') ('according', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('Cordis', 'NNP', 'ORG', 'B') ('its', 'PRP$', '', 'O') ('products', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('found', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬760_patent', 'NNP', 'LOC', 'B') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+Cordis ¡¬760_patent
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('will', 'MD', '', 'O') ('consider', 'VB', '', 'O') ('those', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('set', 'VBN', '', 'O') ('forth', 'RP', '', 'O') ('below', 'IN', '', 'O')
+
+__NEW_SENT__

@@ -1,0 +1,144 @@
+('355_F.3d_1327', 'UH', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GOLIGHT', 'NNP', 'ORG', 'B') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('WAL-MART', 'NNP', 'ORG', 'B') ('STORES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', '', 'O') ('Defendant/Third', 'NNP', '', 'O') ('Party', 'NNP', 'ORG', 'B') ('Plaintiff-Appellant', 'NNP', '', 'O') ('and', 'CC', '', 'O')
+GOLIGHT WAL-MART STORES Party
+__NEW_SENT__
+('North', 'NNP', 'ORG', 'B') ('Arkansas', 'NNP', 'ORG', 'I') ('Wholesale', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Innovative', 'NNP', 'ORG', 'B') ('International', 'NNP', 'ORG', 'I') ('(', '-LRB-', 'ORG', 'I') ('H.K', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O')
+North Arkansas Wholesale Company Inc. Innovative International ( H.K
+__NEW_SENT__
+('Ltd.', 'NNP', '', 'O') ('Third', 'NNP', '', 'O') ('Party', 'NNP', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+
+__NEW_SENT__
+('No._02-1608', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._20,_2004', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', 'ORG', 'B') ('Rehearing', 'NN', 'ORG', 'I') ('En', 'NNP', 'ORG', 'I') ('Banc', 'NNP', 'ORG', 'I') ('Denied', 'VBN', 'ORG', 'I') ('March_30,_2004', 'NNP', 'ORG', 'I')
+| Rehearing En Banc Denied March_30,_2004
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('remote', 'JJ', '', 'O') ('controlled', 'VBN', '', 'O') ('portable', 'JJ', '', 'O') ('searchlight', 'JJ', '', 'O') ('sued', 'VBN', '', 'O') ('retail', 'JJ', '', 'O') ('store', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Colorado', 'NNP', 'GPE', 'I') ('216_F.Supp.2d_1175', 'CD', '', 'O') ('Zita', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Weinshienk', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', '', 'O') ('District', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('valid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('infringed', 'VBN', '', 'O')
+United_States_District_Court the District of Colorado Zita L. Weinshienk
+__NEW_SENT__
+('Store', 'NNP', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Prost Circuit_Judge
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('require', 'VB', '', 'O') ('that', 'IN', '', 'O') ('light', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('rotatable', 'JJ', '', 'O') ('through', 'IN', '', 'O') ('full', 'JJ', '', 'O') ('360¢X', 'CD', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('damage', 'NN', '', 'O') ('award', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('willful', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('award', 'NN', '', 'O') ('of', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('discretion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Archer', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('dissented', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBN', '', 'O') ('opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1329', 'UH', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('DeBruin', 'NNP', '', 'O') ('Michael', 'NNP', 'ORG', 'B') ('Best', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Friedrich', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Milwaukee', 'NNP', 'GPE', 'B') ('WI', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+David L. Michael Best & Friedrich Milwaukee
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('MacLean', 'NNP', 'PERSON', 'I')
+Matthew S. MacLean
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Coston', 'NNP', 'PERSON', 'I') ('Venable', 'NNP', '', 'O') ('Baetjer', 'NNP', '', 'O') ('Howard', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Civiletti', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant/third', 'NN', '', 'O') ('party', 'NN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+William D. Coston Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Collins', 'NNP', 'PERSON', 'I')
+Kevin B. Collins
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('SCHALL', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O') ('ARCHER', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Wal-Mart_Stores', 'NNS', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Wal-Mart', '.', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('District', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Colorado', 'NNP', 'GPE', 'B') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('bench', 'JJ', '', 'O') ('trial', 'NN', '', 'O') ('entering', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('United', 'NNP', 'GPE', 'B') ('States', 'NNP', 'GPE', 'I') ('Patent', 'NNP', '', 'O') ('No._5673,989', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬989_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Golight', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Golight', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Wal-Mart_Stores Inc. Wal-Mart Colorado Wal-Mart United States Golight Inc. Golight
+__NEW_SENT__
+('Golight', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Wal-Mart_Stores', 'VBZ', '', 'O') ('Inc.', 'NNP', '', 'O') ('216_F.Supp.2d_1175', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('D.Colo.2002', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Golight Inc.
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('find', 'VBP', '', 'O') ('no', 'DT', '', 'O') ('errors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('or', 'CC', '', 'O') ('any', 'DT', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') ('findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('fact', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬989_patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('wireless', 'JJ', '', 'O') ('remote-controlled', 'JJ', '', 'O') ('portable_search_light', 'NN', '', 'O') ('invented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Gerald', 'NNP', 'PERSON', 'B') ('Gohl', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Al', 'NNP', 'PERSON', 'B') ('Gebhardt', 'NNP', 'PERSON', 'I')
+Gerald Gohl Al Gebhardt
+__NEW_SENT__
+('The', 'DT', '', 'O') ('idea', 'NN', '', 'O') ('for', 'IN', '', 'O') ('this', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('originated', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('Gohl', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('experiences', 'NNS', '', 'O') ('cattle', 'NNS', '', 'O') ('ranching', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('Nebraska', 'NNP', 'GPE', 'B') ('where', 'WRB', '', 'O') ('he', 'PRP', '', 'O') ('used', 'VBD', '', 'O') ('hand-held', 'JJ', '', 'O') ('search_lights', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('locate', 'VB', '', 'O') ('and', 'CC', '', 'O') ('assist', 'VB', '', 'O') ('calving', 'NN', '', 'O') ('animals', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('harsh', 'JJ', '', 'O') ('blizzard', 'NN', '', 'O') ('conditions', 'NNS', '', 'O')
+Gohl Nebraska
+__NEW_SENT__
+('Gohl', 'NNS', 'PERSON', 'B') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('advantageous', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('conditions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('a', 'DT', '', 'O') ('portable_search_light', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('mounted', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('outside', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vehicle', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remotely', 'RB', '', 'O') ('controlled', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('either', 'DT', '', 'O') ('inside', 'IN', '', 'O') ('or', 'CC', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('vehicle', 'NN', '', 'O')
+Gohl
+__NEW_SENT__
+('Together', 'RB', '', 'O') ('Gohl', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Gebhardt', 'NNP', 'PERSON', 'B') ('developed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('patented', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Golight', 'NNP', 'PERSON', 'B') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('generally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('subject', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5490,046', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬046_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('the', 'DT', '', 'O') ('wireless', 'JJ', '', 'O') ('remote-controlled', 'JJ', '', 'O') ('Radio_Ray', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('generally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('subject', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬989_patent', 'NN', '', 'O')
+Gohl Gebhardt Golight U.S.
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1997', 'CD', 'DATE', 'B') ('Wal-Mart', 'JJR', 'ORG', 'B') ('through', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('Sam', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('Club', 'NNP', '', 'O') ('stores', 'NNS', '', 'O') ('began', 'VBD', '', 'O') ('selling', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('portable', 'JJ', '', 'O') ('wireless', 'NN', '', 'O') ('remote-controlled', 'JJ', '', 'O') ('search_light', 'NN', '', 'O')
+1997 Wal-Mart Sam
+__NEW_SENT__
+('This', 'DT', '', 'O') ('search_light', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('allegedly', 'RB', '', 'O') ('a', 'DT', '', 'O') ('low-end', 'NN', '', 'O') ('copy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Radio_Ray', 'NNS', '', 'O') ('being', 'VBG', '', 'O') ('virtually', 'RB', '', 'O') ('identical', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('all', 'DT', '', 'O') ('relevant', 'JJ', '', 'O') ('respects', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('apparently', 'RB', '', 'O') ('arbitrary', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('rather', 'RB', '', 'O') ('suspicious', 'JJ', '', 'O') ('placement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('plastic', 'NN', '', 'O') ("'stop", 'NN', '', 'O') ("'", "''", '', 'O') ('piece', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('prevented', 'VBD', '', 'O') ("''", "''", '', 'O') ('the', 'DT', '', 'O') ('search_light', 'NN', '', 'O') ('from', 'IN', '', 'O') ('rotating', 'VBG', '', 'O') ('through', 'IN', '', 'O') ('360¢X', 'CD', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('1180', 'CD', 'DATE', 'B')
+1180
+__NEW_SENT__
+('This', 'DT', '', 'O') ('stop', 'NN', '', 'O') ('piece', 'NN', '', 'O') ('restricted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ('search_light', 'NN', '', 'O') ('to', 'IN', '', 'O') ('rotating', 'VBG', '', 'O') ('somewhere', 'RB', '', 'O') ('between', 'IN', '', 'O') ('340¢X', 'CD', '', 'O') ('and', 'CC', '', 'O') ('351¢X', 'CD', '', 'O')
+Wal-Mart
+__NEW_SENT__
+('Counsel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Golight', 'NNP', 'PERSON', 'B') ('sent', 'VBD', '', 'O') ('Wal-Mart', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('cease', 'NN', '', 'O') ('and', 'CC', '', 'O') ('desist', 'VB', '', 'O') ('letter', 'NN', '', 'O') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('11', 'CD', 'DATE', 'I') ('1998', 'CD', 'DATE', 'I') ('indicating', 'VBG', '', 'O') ('Golight', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('belief', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('device', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬989_patent', 'NN', '', 'O')
+Golight December 11 1998 Golight Wal-Mart
+__NEW_SENT__
+('Golight', 'NNP', 'ORG', 'B') ('then', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('lawsuit', 'NN', '', 'O') ('on', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('14', 'CD', 'DATE', 'I') ('2000', 'CD', 'DATE', 'I')
+Golight February 14 2000
+__NEW_SENT__
+('After', 'IN', '', 'O') ('holding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('three-day', 'JJ', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ('infringed', 'VBD', '', 'O') ('claim', 'NN', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬989_patent', 'NNP', '', 'O') ('by', 'IN', '', 'O') ('importing', 'VBG', '', 'O') ('portable_search_lights', 'NNP', '', 'O') ('literally', 'RB', '', 'O') ('meeting', 'VBG', '', 'O') ('each', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('Wal-Mart', '.', 'ORG', 'B') ("'s", 'POS', '', 'O') ('infringement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('willful', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('Golight', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('damages', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('$', '$', '', 'O') ('464,280', 'CD', 'MONEY', 'B') ('plus', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+Wal-Mart 11 Wal-Mart Golight 464,280
+__NEW_SENT__
+('On', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('Wal-Mart', 'NNP', 'PERSON', 'B') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claim_construction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('should', 'MD', '', 'O') ('we', 'PRP', '', 'O') ('adopt', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('proposed', 'VBN', '', 'O') ('claim_construction', 'NN', '', 'O')
+Wal-Mart
+__NEW_SENT__
+('Should', 'MD', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claim_construction', 'NN', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ('concedes', 'VBZ', '', 'O') ('infringement', 'NN', '', 'O') ('but', 'CC', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('should', 'MD', '', 'O') ('have', 'VB', '', 'O') ('found', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+Wal-Mart 11
+__NEW_SENT__
+('Wal-Mart', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('challenges', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ruling', 'NN', '', 'O') ('that', 'IN', '', 'O') ('any', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('willful', 'JJ', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('such', 'PDT', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') ('facts', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('abuse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('discretion', 'NN', '', 'O')
+Wal-Mart
+__NEW_SENT__
+('With', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('*1330', 'JJ', '', 'O') ('damages', 'NNS', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('selected', 'VBN', '', 'O') ('royalty', 'NN', '', 'O') ('rate', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('unreasonable', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('factual', 'JJ', '', 'O') ('findings', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+Wal-Mart
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('consider', 'VB', '', 'O') ('Wal-Mart', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('appeal', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+Wal-Mart 28 1
+__NEW_SENT__

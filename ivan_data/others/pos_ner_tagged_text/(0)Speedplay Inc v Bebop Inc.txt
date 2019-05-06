@@ -1,0 +1,177 @@
+('211_F.3d_1245', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('SPEEDPLAY', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('BEBOP', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Defendant/Cross-Appellant', '.', '', 'O')
+
+__NEW_SENT__
+('Nos._98-1527', 'NN', '', 'O') ('98-1528', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') ('March_1,_2000', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Rehearing', 'VBG', 'ORG', 'B') ('Denied', 'VBN', 'ORG', 'I') ('March_24,_2000', 'NNP', 'ORG', 'I')
+Rehearing Denied March_24,_2000
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Licensee', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('clipless', 'JJ', '', 'O') ('bicycle', 'NN', '', 'O') ('pedal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cleat', 'NN', '', 'O') ('patents', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competing', 'VBG', '', 'O') ('clipless_pedal', 'JJ', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('trade_dress', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('defendant', 'NN', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('seeking', 'VBG', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Southern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('James', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Stiven', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('enforceable', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('infringement', 'NN', '', 'O')
+The United States District Court the Southern District California James F. Stiven J.
+__NEW_SENT__
+('Cross-appeals', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('filed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bryson', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('licensee', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('standing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('bring', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('own_name', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('pedals', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('neither', 'CC', '', 'O') ('literally', 'RB', '', 'O') ('nor', 'CC', '', 'O') ('equivalently', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('cleats', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('plaintiff', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('trade_dress', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('5', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('unenforceable', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('failure', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('defendant', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+The Court of Appeals Bryson Circuit_Judge 1 2 3 4 5 6
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1248', 'NNP', '', 'O') ('Eleanor', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Musick', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I') ('Martin', 'NNP', 'PERSON', 'I') ('Haller', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('McClain', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San', 'NNP', '', 'O') ('Diego', 'NNP', '', 'O') ('California', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Eleanor M. Musick Brown Martin Haller & McClain California
+__NEW_SENT__
+('Jeffrey', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Fillerup', 'NNP', 'PERSON', 'I') ('Luce', 'NNP', 'PERSON', 'I') ('Forward', 'NNP', '', 'O') ('Hamilton', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Scripps', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Francisco', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O')
+Jeffrey L. Fillerup Luce San Francisco California
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Spirra', 'NNP', 'PERSON', 'I')
+Richard R. Spirra
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('BRYSON', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('SKELTON', 'VBD', '', 'O') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('GAJARSA', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('I.', 'NN', 'ORG', 'B') ('BRYSON', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I')
+I. BRYSON Circuit_Judge
+__NEW_SENT__
+('Serious', 'JJ', '', 'O') ('bicyclists', 'NNS', '', 'O') ('often', 'RB', '', 'O') ('use', 'VBP', '', 'O') ('pedal', 'NN', '', 'O') ('assemblies', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('enable', 'VBP', '', 'O') ('them', 'PRP', '', 'O') ('to', 'TO', '', 'O') ('secure', 'VB', '', 'O') ('their', 'PRP$', '', 'O') ('feet', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bicycle_pedals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('effect', 'NN', '', 'O') ('of', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('assemblies', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('the', 'DT', '', 'O') ('bicyclists', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('increase', 'VB', '', 'O') ('the', 'DT', '', 'O') ('power', 'NN', '', 'O') ('transmitted', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('wheels', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('simultaneously', 'RB', '', 'O') ('applying', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('downward', 'JJ', '', 'O') ('pushing', 'VBG', '', 'O') ('force', 'NN', '', 'O') ('with', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('foot', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('upward', 'JJ', '', 'O') ('pulling', 'VBG', '', 'O') ('force', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O')
+one
+__NEW_SENT__
+('Clip-less_pedal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cleat', 'NN', '', 'O') ('assemblies', 'NNS', '', 'O') ('offer', 'VBP', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('function', 'NN', '', 'O')
+one
+__NEW_SENT__
+('With', 'IN', '', 'O') ('clip-less_pedals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('cleats', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('rider', 'NN', '', 'O') ('can', 'MD', '', 'O') ('attach', 'VB', '', 'O') ('his', 'PRP$', '', 'O') ('feet', 'NNS', '', 'O') ('securely', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pedals', 'NNS', '', 'O') ('yet', 'RB', '', 'O') ('release', 'VB', '', 'O') ('them', 'PRP', '', 'O') ('easily', 'RB', '', 'O') ('in', 'IN', '', 'O') ('contrast', 'NN', '', 'O') ('to', 'IN', '', 'O') ('earlier', 'JJR', '', 'O') ('systems', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('straps', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('cages', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('cleats', 'NNS', '', 'O') ('attach', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rider', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('shoes', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('engage', 'VB', '', 'O') ('the', 'DT', '', 'O') ('pedals', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('specially', 'RB', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('interact', 'VB', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cleats', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('most', 'JJS', '', 'O') ('clip-less_pedal', 'JJ', '', 'O') ('systems', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('rider', 'NN', '', 'O') ('attaches', 'VBZ', '', 'O') ('his', 'PRP$', '', 'O') ('foot', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pedal', 'NN', '', 'O') ('by', 'IN', '', 'O') ('stepping', 'VBG', '', 'O') ('straight', 'RB', '', 'O') ('*1249', 'VB', '', 'O') ('down', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pedal', 'NN', '', 'O') ('until', 'IN', '', 'O') ('the', 'DT', '', 'O') ('cleat', 'NN', '', 'O') ('engages', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pedal', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('rider', 'NN', '', 'O') ('typically', 'RB', '', 'O') ('releases', 'VBZ', '', 'O') ('his', 'PRP$', '', 'O') ('foot', 'NN', '', 'O') ('by', 'IN', '', 'O') ('rotating', 'VBG', '', 'O') ('his', 'PRP$', '', 'O') ('foot', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('side', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('disengages', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('cleat', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pedal', 'NN', '', 'O')
+
+__NEW_SENT__
+('Richard', 'NNP', 'PERSON', 'B') ('Bryne', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('chief', 'JJ', '', 'O') ('executive', 'JJ', '', 'O') ('officer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('founder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('primary', 'JJ', '', 'O') ('designer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('bicycle_pedals', 'NNS', '', 'O')
+Richard Bryne Speedplay Inc. Speedplay
+__NEW_SENT__
+('He', 'PRP', '', 'O') ('obtained', 'VBD', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._4942,778', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'778_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('clip-less_pedal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cleat', 'NN', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('1992', 'CD', 'DATE', 'B') ('entered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('product', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('that', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+U.S. No._4942,778 1992
+__NEW_SENT__
+('Shortly', 'RB', '', 'O') ('thereafter', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('issued', 'VBN', '', 'O') ('U.S._Patent_No._5213,009', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'009_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('multilayered', 'JJ', '', 'O') ('cleat', 'NN', '', 'O') ('design', 'NN', '', 'O')
+Bryne
+__NEW_SENT__
+('Within', 'IN', '', 'O') ('two', 'CD', 'DATE', 'B') ('years', 'NNS', 'DATE', 'I') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('founding', 'VBG', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('entered', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('agreements', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B')
+two years Speedplay two Bryne
+__NEW_SENT__
+('The', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('granted', 'VBN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('a', 'DT', '', 'O') ('license', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'778_patent", 'NN', '', 'O') ('and', 'CC', '', 'O') ('improvements', 'VBZ', '', 'O') ('thereon', 'NN', '', 'O') ('while', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('assigned', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('bicycle-related', 'JJ', '', 'O') ('inventions', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('employment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('company', 'NN', '', 'O')
+first Speedplay second Speedplay Bryne
+__NEW_SENT__
+('Steven', 'NNP', 'PERSON', 'B') ('Zoumaras', 'NNP', 'PERSON', 'I') ('who', 'WP', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('50', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('interest', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'778_patent", 'NN', '', 'O') ('in', 'IN', '', 'O') ('return', 'NN', '', 'O') ('for', 'IN', '', 'O') ('financing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('procurement', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('a', 'DT', '', 'O') ('party', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('license', 'NN', '', 'O') ('but', 'CC', '', 'O') ('he', 'PRP', '', 'O') ('assigned', 'VBD', '', 'O') ('his', 'PRP$', '', 'O') ('entire', 'JJ', '', 'O') ('interest', 'NN', '', 'O') ('to', 'TO', '', 'O') ('Speedplay', 'VB', 'ORG', 'B') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('course', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O')
+Steven Zoumaras 50 % Speedplay
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('Steinberg', 'NNP', 'PERSON', 'I') ('the', 'DT', '', 'O') ('president', 'NN', '', 'O') ('and', 'CC', '', 'O') ('founder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Bebop', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('bicycle_pedals', 'NNS', '', 'O')
+John Steinberg Bebop Inc. Bebop
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1989', 'CD', 'DATE', 'B') ('Steinberg', 'NNP', 'PERSON', 'B') ('conceived', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('basic', 'JJ', '', 'O') ('idea', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('pedal', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('features', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('hollow', 'JJ', '', 'O') ('cylindrical', 'JJ', '', 'O') ('body', 'NN', '', 'O')
+1989 Steinberg Bebop
+__NEW_SENT__
+('Over', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('next', 'JJ', 'DATE', 'I') ('few', 'JJ', 'DATE', 'I') ('years', 'NNS', 'DATE', 'I') ('Steinberg', 'NNP', 'PERSON', 'B') ('refined', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('concept', 'NN', '', 'O') ('obtained', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('marketed', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('Bebop', 'NNP', 'GPE', 'B') ('pedal', 'NN', '', 'O') ('designs', 'NNS', '', 'O')
+the next few years Steinberg two Bebop
+__NEW_SENT__
+('Shortly', 'RB', '', 'O') ('after', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ('saw', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('prototype', 'NN', '', 'O') ('in', 'IN', '', 'O') ('1993', 'CD', 'DATE', 'B') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('clashed', 'VBD', '', 'O') ('over', 'IN', '', 'O') ('intellectual', 'JJ', '', 'O') ('property', 'NN', '', 'O') ('and', 'CC', '', 'O') ('commercial', 'JJ', '', 'O') ('tort', 'NN', '', 'O') ('issues', 'NNS', '', 'O')
+Bryne Bebop 1993
+__NEW_SENT__
+('The', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('led', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('present', 'JJ', '', 'O') ('lawsuit', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('claimed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('was', 'VBD', '', 'O') ('infringing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ("'778", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'009_patent", 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('by', 'IN', '', 'O') ('manufacturing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('marketing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('clip-less', 'NN', '', 'O') ('bicycle_pedals', 'NNS', '', 'O')
+Speedplay Bebop Bebop
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('was', 'VBD', '', 'O') ('infringing', 'VBG', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('trade_dress', 'NN', '', 'O') ('under', 'IN', '', 'O') ('section', 'NN', 'LAW', 'B') ('43', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'LAW', 'B') ('Lanham', 'NNP', 'LAW', 'I') ('Act', 'NNP', 'LAW', 'I') ('15', 'CD', 'LAW', 'I') ('U.S.C.¡±', 'NNP', 'LAW', 'I') ('1125', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('engaging', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('unfair', 'JJ', '', 'O') ('competition', 'NN', '', 'O') ('under', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('common', 'JJ', '', 'O') ('law', 'NN', '', 'O') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('violating', 'VBG', '', 'O') ('the', 'DT', 'ORG', 'B') ('California', 'NNP', 'ORG', 'I') ('Business', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Professions', 'NNP', 'ORG', 'I') ('Code', 'NNP', 'ORG', 'I')
+Speedplay Bebop Speedplay section 43 the Lanham Act 15 U.S.C.¡± California the California Business and Professions Code
+__NEW_SENT__
+('Bebop', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'778", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'009_patent", 'NNP', '', 'O') ('s', 'POS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('products', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('products', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('trade_dress', 'NN', '', 'O')
+Bebop Bebop Bebop Speedplay
+__NEW_SENT__
+('Bebop', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('sought', 'VBD', '', 'O') ('relief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('alleged', 'JJ', '', 'O') ('unfair', 'JJ', '', 'O') ('competition', 'NN', '', 'O') ('and', 'CC', '', 'O') ('intentional', 'JJ', '', 'O') ('interference', 'NN', '', 'O') ('with', 'IN', '', 'O') ('prospective', 'JJ', '', 'O') ('economic', 'JJ', '', 'O') ('advantage', 'NN', '', 'O')
+Bebop
+__NEW_SENT__
+('While', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('pending', 'VBG', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('issued', 'VBN', '', 'O') ('U.S._Patent_No._5606,894', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'894_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('clip-less', 'JJ', '', 'O') ('bicycle', 'NN', '', 'O') ('pedal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('amended', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('complaint', 'NN', '', 'O') ('to', 'TO', '', 'O') ('add', 'VB', '', 'O') ('an', 'DT', '', 'O') ('allegation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'894_patent", 'NNP', '', 'O')
+Bryne Speedplay
+__NEW_SENT__
+('Bebop', 'NNP', 'ORG', 'B') ('responded', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'894_patent", 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O')
+Bebop three
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('10-day', 'CD', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('on', 'IN', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('amended', 'VBN', '', 'O') ('complaint', 'NN', '', 'O')
+Speedplay
+__NEW_SENT__
+('With', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('counterclaims', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('the', 'DT', '', 'O') ("'894_patent", 'NNP', '', 'O') ('invalid', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('sale', 'NN', '', 'O') ('more', 'JJR', 'DATE', 'B') ('than', 'IN', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('year', 'NN', 'DATE', 'I') ('before', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O')
+Bebop more than one year
+__NEW_SENT__
+('See', 'VB', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+35
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('relief', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Bebop', 'NNP', 'GPE', 'B') ('however', 'RB', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('state', 'NN', '', 'O') ('law', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('request', 'NN', '', 'O') ('to', 'TO', '', 'O') ('hold', 'VB', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('other', 'JJ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('all', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+Bebop Speedplay two three
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('II', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Bebop', 'NNP', '', 'O') ('raises', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('threshold', 'NN', '', 'O') ('issue', 'NN', '', 'O') ('concerning', 'VBG', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('bring', 'VB', '', 'O') ('an', 'DT', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'778", 'NNP', '', 'O') ("'009", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'894_patent", 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('own_name', 'NN', '', 'O')
+Speedplay
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('judge', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('transferred', 'VBN', '', 'O') ('``', '``', '', 'O') ('all', 'DT', '', 'O') ('right', 'JJ', '', 'O') ('title', 'NN', '', 'O') ('and', 'CC', '', 'O') ('interest', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventions', 'NNS', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('thereby', 'RB', '', 'O') ('securing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('Speedplay', 'VB', 'ORG', 'B') ('the', 'DT', '', 'O') ('right', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sue', 'VB', '', 'O') ('individually', 'RB', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+Bryne Speedplay Speedplay
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('has', 'VBZ', '', 'O') ('standing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('maintain', 'VB', '', 'O') ('this', 'DT', '', 'O') ('suit', 'NN', '', 'O')
+Speedplay
+__NEW_SENT__
+('A', 'DT', '', 'O') ('party', 'NN', '', 'O') ('may', 'MD', '', 'O') ('bring', 'VB', '', 'O') ('an', 'DT', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('only', 'RB', '', 'O') ('if', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('patentee', 'NN', '', 'O') ("''", "''", '', 'O') ('i.e.', 'FW', '', 'O') ('if', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('owns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('either', 'CC', '', 'O') ('by', 'IN', '', 'O') ('*1250', 'JJ', '', 'O') ('issuance', 'NN', '', 'O') ('or', 'CC', '', 'O') ('by', 'IN', '', 'O') ('assignment', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±¡±', 'NN', '', 'O') ('100', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('261', 'CD', 'CARDINAL', 'B') ('281', 'CD', '', 'O')
+35 261
+__NEW_SENT__
+('A', 'DT', '', 'O') ('party', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('granted', 'VBN', '', 'O') ('all', 'DT', '', 'O') ('substantial_rights', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('considered', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('owner', 'NN', '', 'O') ('regardless', 'RB', '', 'O') ('of', 'IN', '', 'O') ('how', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('characterize', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('conveyed', 'VBD', '', 'O') ('those', 'DT', '', 'O') ('rights', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('in', 'IN', '', 'O') ('Vaupel', 'NNP', '', 'O') ('Textilmaschinen', 'NNP', '', 'O') ('KG', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Meccanica', 'NNP', 'ORG', 'B') ('Euro', 'NNP', 'ORG', 'I') ('Italia', 'NNP', 'ORG', 'I') ('S.P.A.', 'NNP', 'ORG', 'I') ('944_F.2d_870', 'CD', '', 'O') ('874', 'CD', 'CARDINAL', 'B') ('873-76', 'CD', '', 'O') ('20_USPQ2d_1045', 'CD', '', 'O') ('1048', 'CD', '', 'O') ('1047-50', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1991', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('proper', 'JJ', '', 'O') ('focus', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('substance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('what', 'WP', '', 'O') ('was', 'VBD', '', 'O') ('granted', 'VBN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('grantee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('license', 'NN', '', 'O') ('could', 'MD', '', 'O') ('sue', 'VB', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('own_name', 'NNP', '', 'O') ('without', 'IN', '', 'O') ('joining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('grantor', 'NN', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('license', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('effect', 'NN', '', 'O') ('of', 'IN', '', 'O') ('conveying', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('substantial_rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('licensee', 'NN', '', 'O')
+Meccanica Euro Italia S.P.A. 874
+__NEW_SENT__
+('Speedplay', 'VB', 'ORG', 'B') ('asserts', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('obtained', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('substantial_rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'778", 'NNP', '', 'O') ("'009", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'894_patent", 'NNP', '', 'O') ('s', 'NNP', '', 'O') ('from', 'IN', '', 'O') ('Bryne', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('may', 'MD', '', 'O') ('therefore', 'RB', '', 'O') ('sue', 'VB', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('own_name', 'NNP', '', 'O')
+Speedplay Bryne
+__NEW_SENT__
+('To', 'TO', '', 'O') ('support', 'VB', '', 'O') ('that', 'DT', '', 'O') ('assertion', 'NN', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('must', 'MD', '', 'O') ('produce', 'VB', '', 'O') ('a', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('instrument', 'NN', '', 'O') ('documenting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('transfer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('proprietary', 'JJ', '', 'O') ('rights', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+Speedplay
+__NEW_SENT__
+('See', 'VB', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('261', 'CD', 'CARDINAL', 'B') (';', ':', '', 'O') ('Enzo', 'NNP', '', 'O') ('APA', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Son', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Geapag', 'NNP', 'ORG', 'B') ('A.G.', 'NNP', 'ORG', 'I') ('134_F.3d_1090', 'CD', '', 'O') ('1093', 'CD', 'DATE', 'B') ('45_USPQ2d_1368', 'CD', '', 'O') ('1370-71', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.1998', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+35 261 Geapag A.G. 1093
+__NEW_SENT__
+('Speedplay', 'NNP', 'ORG', 'B') ('relies', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('documents', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('Contribution', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('License', 'NNP', '', 'O') ('Agreement', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('Confidentiality', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Inventions', 'NNPS', '', 'O') ('Agreement', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('support', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('assertion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('rights', 'NNS', '', 'O')
+Speedplay two
+__NEW_SENT__
+('Bebop', 'NNP', 'GPE', 'B') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('those', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('documents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('insufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('allow', 'VB', '', 'O') ('Speedplay', 'NNP', 'ORG', 'B') ('to', 'TO', '', 'O') ('sue', 'VB', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('own_name', 'NN', '', 'O')
+Bebop two Speedplay
+__NEW_SENT__

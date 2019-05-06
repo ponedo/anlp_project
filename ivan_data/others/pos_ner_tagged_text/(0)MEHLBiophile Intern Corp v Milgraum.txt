@@ -1,0 +1,168 @@
+('192_F.3d_1362', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('MEHL/BIOPHILE', 'NNP', '', 'O') ('INTERNATIONAL', 'NNP', 'ORG', 'B') ('CORP.', 'NNP', 'ORG', 'I') ('Selvac_Acquisitions_Corp.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Nardo', 'NNP', 'PERSON', 'B') ('Zaias', 'NNP', 'PERSON', 'I') ('M.D.', 'NNP', '', 'O') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('Sandy', 'NNP', 'DATE', 'B') ('MILGRAUM', 'NNP', 'DATE', 'I') ('M.D.', 'NNP', 'ORG', 'B') ('Palomar_Medical_Technologies', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Spectrum_Medical_Technologies', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'VBZ', 'ORG', 'I')
+INTERNATIONAL CORP. Nardo Zaias Sandy MILGRAUM M.D. Palomar_Medical_Technologies Inc. Spectrum_Medical_Technologies Inc. Defendants-Appellees
+__NEW_SENT__
+('No._99-1038', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Sept._30,_1999', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Rehearing', 'VBG', '', 'O') ('Denied', 'VBN', '', 'O') ('Oct._27,_1999', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'NN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hair', 'NN', '', 'O') ('removal', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('laser', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'GPE', 'I') ('Alfred', 'NNP', 'GPE', 'I') ('M.', 'NNP', 'GPE', 'I') ('Wolin', 'NNP', 'GPE', 'I') ('J.', 'NNP', 'GPE', 'I') ('8_F.Supp.2d_434', 'NNP', 'GPE', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the District of New_Jersey Alfred M. Wolin J. 8_F.Supp.2d_434
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('instruction_manual', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('laser', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('tattoos', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('article', 'NN', '', 'O')
+The Court of Appeals Rader Circuit_Judge 1 2
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1363', 'NFP', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Schwab', 'NNP', 'PERSON', 'I') ('Abelman', 'NNP', 'PERSON', 'I') ('Frayne', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Schwab', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('New_York', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Jeffrey A. Schwab Abelman Frayne & Schwab New_York New_York
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('Aschen', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Anthony', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('DiFilippi', 'NNP', 'PERSON', 'I')
+Michael Aschen Anthony J. DiFilippi
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('George', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Arkwright', 'NNP', 'PERSON', 'I') ('Schlesinger', 'NNP', 'PERSON', 'I') ('Arkwright', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Garvey', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Arlington', 'NNP', 'GPE', 'B') ('Virginia', 'NNP', 'GPE', 'I')
+George A. Arkwright Schlesinger Arkwright & Garvey LLP Arlington Virginia
+__NEW_SENT__
+('Wayne', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Stoner', 'NNP', 'PERSON', 'I') ('Hale', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Dorr', 'NNP', 'ORG', 'B') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('Massachusetts', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Wayne L. Stoner Hale Dorr LLP Boston Massachusetts
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Hall', 'NNP', 'PERSON', 'I')
+William F. Lee James M. Hall
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Reed', 'NNP', 'PERSON', 'I') ('Palomar_Medical_Technologies', 'NNP', 'PERSON', 'I') ('Inc.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Lexington', 'NNP', 'GPE', 'B') ('Massachusetts', 'NNP', 'GPE', 'B')
+Thomas A. Reed Palomar_Medical_Technologies Inc. Lexington Massachusetts
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MAYER', 'NNP', '', 'O') ('MICHEL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('RADER', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('MEHL/Biophile', 'NNP', 'ORG', 'B') ('International', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('Selvac_Acquisitions_Corp.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Dr.', 'NNP', '', 'O') ('Nardo', 'NNP', 'PERSON', 'B') ('Zaias', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('MEHL/Biophile', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('asserted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Sandy', 'NNP', 'PERSON', 'B') ('Milgraum', 'NNP', 'PERSON', 'I') ('Palomar_Medical_Technologies', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Spectrum_Medical_Technologies', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Milgraum', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('infringed', 'VBD', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._5059,192', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+MEHL/Biophile International Corp. Selvac_Acquisitions_Corp. Nardo Zaias Sandy Milgraum Palomar_Medical_Technologies Inc. Spectrum_Medical_Technologies Inc. U.S. No._5059,192
+__NEW_SENT__
+('On', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('Milgraum', 'NNP', 'PERSON', 'B') ('contended', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'192_patent", 'NNP', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('an', 'DT', '', 'O') ('instruction_manual', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Spectrum', 'NNP', 'NORP', 'B') ('RD-1200', 'NNP', '', 'O') ('laser', 'NN', '', 'O') ('and', 'CC', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('1987', 'CD', 'DATE', 'B') ('Journal', 'NNP', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Investigative', 'NNP', 'ORG', 'I') ('Dermatology', 'NNP', 'ORG', 'I') ('article', 'NN', '', 'O') ('authored', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Luigi', 'NNP', 'PERSON', 'B') ('Polla', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('others', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('Polla_article', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Milgraum Spectrum 1987 Journal of Investigative Dermatology Luigi Polla
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('agreed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('anticipated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('dismissed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('action', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Mehl/Biophile', 'NNP', '', 'O') ('Int', 'NNP', '', 'O') ("'", "''", '', 'O') ('l', 'NNP', '', 'O') ('*1364', 'XX', '', 'O') ('Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Milgraum', 'NNP', 'ORG', 'B') ('8_F.Supp.2d_434', 'NNP', 'ORG', 'I') ('47_USPQ2d_1248_(D.N.J.1998)', 'CD', 'ORG', 'I')
+Milgraum 8_F.Supp.2d_434 47_USPQ2d_1248_(D.N.J.1998)
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('disagrees', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('discloses', 'VBZ', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('elements', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Polla_article', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O') ('entitled', 'VBD', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Method', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Hair', 'NNP', 'WORK_OF_ART', 'I') ('Depilation', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('removing', 'VBG', '', 'O') ('hair', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('laser', 'NN', '', 'O')
+`` Method of Hair Depilation ''
+__NEW_SENT__
+('Hairs', 'NNP', '', 'O') ('grows', 'VBZ', '', 'O') ('out', 'IN', '', 'O') ('of', 'IN', '', 'O') ('hair_follicles', 'NNS', '', 'O') ('tubular', 'JJ', '', 'O') ('apertures', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('skin', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('collection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('germ', 'NN', '', 'O') ('cells', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('hairs', 'NNS', '', 'O') ('grow', 'VBP', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('lies', 'VBZ', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('base', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('follicle', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('destroying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('thereby', 'RB', '', 'O') ('preventing', 'VBG', '', 'O') ('hair_regrowth', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('discloses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Q-switched', 'VBN', '', 'O') ('ruby_laser', 'NN', '', 'O') ('to', 'TO', '', 'O') ('effect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('destruction', 'NN', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('a', 'DT', '', 'O') ('meeting', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('American', 'NNP', 'ORG', 'I') ('Academy', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Dermatology', 'NNP', 'ORG', 'I') ('Dr._Zaias', 'NNP', '', 'O') ('visited', 'VBD', '', 'O') ('Spectrum', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('booth', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('Spectrum', 'NNP', 'ORG', 'B') ('displayed', 'VBD', '', 'O') ('such', 'PDT', '', 'O') ('a', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RD-1200', 'NNP', '', 'O')
+the American Academy of Dermatology Spectrum Spectrum
+__NEW_SENT__
+('Spectrum', 'NNP', 'ORG', 'B') ('sold', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('RD-1200', 'NNP', 'PRODUCT', 'B') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('in', 'IN', '', 'O') ('removing', 'NN', '', 'O') ('tattoos', 'NNS', '', 'O')
+Spectrum RD-1200
+__NEW_SENT__
+('Dr._Zaias', 'NNS', '', 'O') ('recognized', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('principles', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('govern', 'VBP', '', 'O') ('laser_absorption', 'NN', '', 'O') ('in', 'IN', '', 'O') ('skin', 'NN', '', 'O') ('pigmented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('tattoo', 'NN', '', 'O') ('would', 'MD', '', 'O') ('also', 'RB', '', 'O') ('focus', 'VB', '', 'O') ('laser_absorption', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('natural', 'JJ', '', 'O') ('skin', 'NN', '', 'O') ('pigment', 'NN', '', 'O') ('found', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O')
+
+__NEW_SENT__
+('More', 'RBR', '', 'O') ('specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('contains', 'VBZ', '', 'O') ('granules', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('called', 'VBN', '', 'O') ('melanosomes', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('dark', 'JJ', '', 'O') ('pigment', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('called', 'VBN', '', 'O') ('melanin', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('Q-switched', 'VBN', '', 'O') ('ruby_laser', 'NN', '', 'O') ('aimed', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hair_follicle', 'NN', '', 'O') ('will', 'MD', '', 'O') ('penetrate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('skin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reach', 'VB', '', 'O') ('the', 'DT', '', 'O') ('papillary', 'JJ', '', 'O') ('melanin', 'NN', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('a', 'DT', '', 'O') ('particular', 'JJ', '', 'O') ('wavelength', 'NN', '', 'O') ('the', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('will', 'MD', '', 'O') ('heat', 'VB', '', 'O') ('up', 'RP', '', 'O') ('and', 'CC', '', 'O') ('destroy', 'VB', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('without', 'IN', '', 'O') ('damaging', 'VBG', '', 'O') ('surrounding', 'VBG', '', 'O') ('tissue', 'NN', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('independent', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('reads', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hair_depilation', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('steps', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('aligning', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('laser_light_applicator', 'NN', '', 'O') ('substantially', 'RB', '', 'O') ('vertically', 'RB', '', 'O') ('over', 'IN', '', 'O') ('a', 'DT', '', 'O') ('hair_follicle', 'NN', '', 'O') ('opening', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('applicator', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('aperture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('area', 'NN', '', 'O') ('to', 'TO', '', 'O') ('surround', 'VB', '', 'O') ('a', 'DT', '', 'O') ('hair_follicle', 'NN', '', 'O') ('and', 'CC', '', 'O') ('overlie', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('papilla', 'NN', '', 'O') (';', ':', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('applying', 'VBG', '', 'O') ('through', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('aperture', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hair_follicle', 'NN', '', 'O') ('a', 'DT', '', 'O') ('pulse', 'NN', '', 'O') ('of', 'IN', '', 'O') ('laser', 'NN', '', 'O') ('energy', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('wavelength', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('readily', 'RB', '', 'O') ('absorbed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('melanin', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('and', 'CC', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('radiant', 'JJ', '', 'O') ('exposure', 'NN', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('energy', 'NN', '', 'O') ('and', 'CC', '', 'O') ('duration', 'NN', '', 'O') ('to', 'TO', '', 'O') ('damage', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('papilla', 'NN', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('hair_regrowth', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('prevented', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('scarring', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('surrounding', 'VBG', '', 'O') ('skin', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('avoided', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('2-6', 'CD', 'CARDINAL', 'B') ('further', 'RB', '', 'O') ('specify', 'VBP', '', 'O') ('parameters', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('laser_light_applicator', 'NNP', '', 'O') ('energy', 'NN', '', 'O') ('delivery', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('type', 'NN', '', 'O') ('of', 'IN', '', 'O') ('laser', 'NN', '', 'O')
+2-6
+__NEW_SENT__
+('MEHL/Biophile', 'NNP', '', 'O') ('sued', 'VBD', '', 'O') ('Milgraum', 'NNP', 'PERSON', 'B') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'192_patent", 'NN', '', 'O')
+Milgraum the District of New_Jersey
+__NEW_SENT__
+('Milgraum', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('1994', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('references', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('teach', 'VBP', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('limitations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O')
+Milgraum 35 102 1994 two
+__NEW_SENT__
+('As', 'IN', '', 'O') ('noted', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('outset', 'NN', '', 'O') ('Milgraum', 'NNP', 'LOC', 'B') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RD-1200', 'NNP', 'PRODUCT', 'B') ('laser', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('tattoos', 'NNS', '', 'O')
+Milgraum RD-1200
+__NEW_SENT__
+('The', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Q-switched', 'VBN', '', 'O') ('ruby_laser', 'NN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('a', 'DT', '', 'O') ('tattoo', 'NN', '', 'O') (':', ':', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('E', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('nergy', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('selectively', 'RB', '', 'O') ('absorbed', 'VBN', '', 'O') ('only', 'RB', '', 'O') ('by', 'IN', '', 'O') ('pigmented', 'VBN', '', 'O') ('chromophores', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('surrounding', 'VBG', '', 'O') ('tissue', 'NN', '', 'O') ('greatly', 'RB', '', 'O') ('reducing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('risk', 'NN', '', 'O') ('of', 'IN', '', 'O') ('scarring', 'VBG', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Milgraum', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Polla_article', 'NN', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Melanosomes', 'NNPS', 'WORK_OF_ART', 'I') ('Are', 'VBP', 'WORK_OF_ART', 'I') ('a', 'DT', 'WORK_OF_ART', 'I') ('Primary', 'NNP', 'WORK_OF_ART', 'I') ('Target', 'NNP', 'WORK_OF_ART', 'I') ('of', 'IN', 'WORK_OF_ART', 'I') ('Q-Switched', 'NNP', 'WORK_OF_ART', 'I') ('Ruby', 'NNP', 'WORK_OF_ART', 'I') ('Laser', 'NNP', 'WORK_OF_ART', 'I') ('Irradiation', 'NNP', 'WORK_OF_ART', 'I') ('in', 'IN', '', 'O') ('Guinea', 'NNP', '', 'O') ('Pig', 'NNP', '', 'O') ('Skin', 'NNP', '', 'O') ("''", "''", '', 'O')
+Milgraum `` Melanosomes Are a Primary Target of Q-Switched Ruby Laser Irradiation
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Polla_article', 'NN', '', 'O') ('documents', 'NNS', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('tissue', 'NN', '', 'O') ('damage', 'NN', '', 'O') ('induced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Q-switched', 'VBN', '', 'O') ('ruby_laser', 'NN', '', 'O') ('pulses', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('black', 'JJ', '', 'O') ('brown', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('albino', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('control', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('guinea_pigs..', 'NN', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('effort', 'NN', '', 'O') ('to', 'TO', '', 'O') ('define', 'VB', '', 'O') ('the', 'DT', '', 'O') ('nature', 'NN', '', 'O') ('and', 'CC', '', 'O') ('extent', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pigmented', 'VBN', '', 'O') ('cell', 'NN', '', 'O') ('injury', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('method', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('epilating', 'VBG', '', 'O') ('guinea_pigs', 'NN', '', 'O') ('with', 'IN', '', 'O') ('soft', 'JJ', '', 'O') ('wax', 'NN', '', 'O') ('holding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('aperture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('in', 'IN', '', 'O') ('contact', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('skin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('pulsing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('laser', 'NN', '', 'O')
+
+__NEW_SENT__
+('Using', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('electron', 'NN', '', 'O') ('microscope', 'VB', '', 'O') ('the', 'DT', '', 'O') ('researchers', 'NNS', '', 'O') ('observed', 'VBD', '', 'O') ('``', '``', '', 'O') ('disruption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('melanosomes', 'NNS', '', 'O') ('deep', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('hair', 'NN', '', 'O') ('papillae', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('considered', 'VBD', '', 'O') ('both', 'DT', '', 'O') ('references', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('ultimately', 'RB', '', 'O') ('rested', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('decision', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('RD-1200', 'NNP', '', 'O') ('manual', 'NN', '', 'O')
+
+__NEW_SENT__
+('MEHL/Biophile', 'NN', '', 'O') ('appeals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('MEHL/Biophile', 'NNP', '', 'O') ('makes', 'VBZ', '', 'O') ('several', 'JJ', '', 'O') ('arguments', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('disregarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('anticipating', 'JJ', '', 'O') ('reference', 'NN', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('instance', 'NN', '', 'O') ('MEHL/Biophile', 'NNP', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('teach', 'VB', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('to', 'TO', '', 'O') ('remove', 'VB', '', 'O') ('hair', 'NN', '', 'O') ('at', 'RB', '', 'O') ('all', 'RB', '', 'O')
+
+__NEW_SENT__
+('Further', 'NNP', '', 'O') ('MEHL/Biophile', 'NNP', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('manual', 'NN', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('disclose', 'VB', '', 'O') ('a', 'DT', '', 'O') ('substantially', 'RB', '', 'O') ('vertical', 'JJ', '', 'O') ('alignment', 'NN', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('element', 'NN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Polla_article', 'NN', '', 'O') ('*1365', '.', '', 'O') ('MEHL/Biophile', 'NNP', '', 'O') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reference', 'NN', '', 'O') ('relates', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('guinea', 'VB', '', 'O') ('pig', 'NN', '', 'O') ('skin', 'NN', '', 'O') ('and', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('mention', 'VB', '', 'O') ('hair_depilation', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('MEHL/Biophile', 'NNP', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('epilation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('guinea', 'NN', '', 'O') ('pig', 'NN', '', 'O') ('backs', 'NNS', '', 'O') ('removed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O') ('so', 'IN', '', 'O') ('the', 'DT', '', 'O') ('laser', 'NN', '', 'O') ('treatment', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('damaged', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('papilla', 'NN', '', 'O')
+
+__NEW_SENT__

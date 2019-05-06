@@ -1,0 +1,195 @@
+('717_F.3d_929', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('REGENTS', 'NNS', '', 'O') ('OF', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('UNIVERSITY', 'NNP', 'ORG', 'I') ('OF', 'IN', 'ORG', 'I') ('MINNESOTA', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ('MEDICAL', 'NNP', 'ORG', 'I') ('CORPORATION', 'NN', '', 'O') ('Defendant-Appellee', 'VB', '', 'O')
+the UNIVERSITY OF MINNESOTA AGA MEDICAL
+__NEW_SENT__
+('No._2012-1167', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('June_3,_2013', 'NNP', 'ORG', 'B')
+June_3,_2013
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('medical_devices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('repairing', 'VBG', '', 'O') ('heart_defects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Minnesota', 'NNP', 'GPE', 'I') ('Patrick', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Schiltz', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('660_F.Supp.2d_1037', 'CD', 'PERSON', 'I') ('construed', 'VBD', '', 'O') ('disputed', 'VBN', '', 'O') ('terms', 'NNS', '', 'O') ('partially', 'RB', '', 'O') ('granted', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('2011_WL_13943', 'CD', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('granted', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+The United States District Court the District of Minnesota Patrick J. Schiltz J. 660_F.Supp.2d_1037
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Dyk', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Dyk Circuit_Judge
+__NEW_SENT__
+('phrase', 'VB', '', 'O') ('``', '``', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second_occluding_disks', 'NNPS', '', 'O') ("''", "''", '', 'O') ('meant', 'VBD', '', 'O') ('physically', 'RB', '', 'O') ('distinct', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('separate', 'JJ', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second_occluding_disks', 'NNS', '', 'O') (';', ':', '', 'O')
+first first
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('been', 'VBN', '', 'O') ('infringed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('prior_art', 'NN', '', 'O') ('that', 'DT', '', 'O') ('contained', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('umbrella-shaped', 'JJ', '', 'O') ('parts', 'NNS', '', 'O') ('oriented', 'VBN', '', 'O') ('like', 'IN', '', 'O') ('umbrellas', 'NNS', '', 'O') ('joined', 'VBD', '', 'O') ('at', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('tips', 'NNS', '', 'O') ('anticipated', 'VBD', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') (';', '.', '', 'O')
+two
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('disclaimer', 'NN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('applications', 'NNS', '', 'O') ('regarding', 'VBG', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('radial', 'JJ', '', 'O') ('frame', 'NN', '', 'O') ('as', 'IN', '', 'O') ('equivalent', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('peripheral', 'JJ', '', 'O') ('frame', 'NN', '', 'O') ('for', 'IN', '', 'O') ('medical', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('for', 'IN', '', 'O') ('repairing', 'VBG', '', 'O') ('heart_defects', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('carry', 'VB', '', 'O') ('forward', 'RB', '', 'O') ('to', 'IN', '', 'O') ('means-plus-function', 'NN', '', 'O') ('language', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('subsequent', 'JJ', '', 'O') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('contained', 'VBD', '', 'O') ('different', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('limitation', 'NN', '', 'O') ('than', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('predecessors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('captured', 'VBD', '', 'O') ('different', 'JJ', '', 'O') ('subject', 'NN', '', 'O') ('matter', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('phrase', 'VB', '', 'O') ('``', '``', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('substantial_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('central_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('member', 'NN', '', 'O') ("''", "''", '', 'O') ('be', 'VB', '', 'O') ('``', '``', '', 'O') ('in', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('substantial_portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('member', 'NN', '', 'O') ("''", "''", '', 'O') ('required', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('substantial_portions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('central_portions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('members', 'NNS', '', 'O') ('communicated', 'VBD', '', 'O') ('``', '``', '', 'O') ('movement', 'NN', '', 'O') ("''", "''", '', 'O') (';', ':', '', 'O')
+first second
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('waived', 'VBD', '', 'O') ('any', 'DT', '', 'O') ('objection', 'NN', '', 'O') ('to', 'TO', '', 'O') ('aspect', 'NN', '', 'O') ('of', 'IN', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('on', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('of', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('allegedly', 'RB', '', 'O') ('wrongly', 'RB', '', 'O') ('allowed', 'VBN', '', 'O') ('translational', 'JJ', '', 'O') ('movement', 'NN', '', 'O') ('communicated', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('members', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('satisfy', 'VB', '', 'O') ('``', '``', '', 'O') ('in', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ("''", '``', '', 'O') ('claim', 'NN', '', 'O') ('limitation', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('barred', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('argument', 'NN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('central_portion', 'NN', '', 'O') ("''", "''", '', 'O') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('member', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('medical_devices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('repairing', 'VBG', '', 'O') ('heart_defects', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('fill', 'VB', '', 'O') ('septal_defect', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('prior_art', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('hub', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('satisfy', 'VB', '', 'O') ('that', 'DT', '', 'O') ('requirement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*932', 'NNP', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Conneely', 'NNP', 'PERSON', 'I') ('Leonard', 'NNP', '', 'O') ('Street', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Deinard', 'NNP', 'ORG', 'B') ('Professional', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', '', 'O') ('MN', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Kevin D. Conneely Deinard Professional Association
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Axtell', 'NNP', 'PERSON', 'I') ('Ruth', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Rivard', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Katherine', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Moerke', 'NNP', 'PERSON', 'I')
+David D. Axtell Ruth A. Rivard Katherine A. Moerke
+__NEW_SENT__
+('J.', 'NNP', 'ORG', 'B') ('Derek', 'NNP', 'ORG', 'I') ('Vandenburgh', 'NNP', 'ORG', 'I') ('Carlson', 'NNP', 'ORG', 'I') ('Caspers', 'NNPS', '', 'O') ('Vandenburgh', 'NNP', 'ORG', 'B') ('Lindquist', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Schuman', 'NNP', 'ORG', 'I') ('P.A.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', 'GPE', 'B') ('MN', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+J. Derek Vandenburgh Carlson Vandenburgh Lindquist & Schuman P.A. Minneapolis
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Alan', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Carlson', 'NNP', 'PERSON', 'I') ('R.J.', 'NNP', 'PERSON', 'B') ('Zayed', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Tara', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Norgard', 'NNP', 'PERSON', 'I')
+Alan G. Carlson R.J. Zayed Tara C. Norgard
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('WALLACH', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('DYK', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Appellant', 'JJ', '', 'O') ('Regents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Minnesota', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('University', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('owns', 'VBZ', '', 'O') ('U.S._Patent_No._6077,281', 'ADD', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('U.S._Patent_No._6077,291', 'VBZ', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬291_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('medical_devices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('repairing', 'VBG', '', 'O') ('heart_defects', 'NNS', '', 'O')
+the University of Minnesota
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('University', 'NNP', 'ORG', 'I') ('accused', 'VBD', 'ORG', 'I') ('AGA_Medical', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('infringing', 'VBG', '', 'O') ('both', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+The University accused AGA_Medical Corporation AGA
+__NEW_SENT__
+('After', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬291_patent', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O')
+¡¬291_patent
+__NEW_SENT__
+('The', 'DT', '', 'O') ('University', 'NNP', '', 'O') ('appeals', 'NNS', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬291_patent', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('device', 'NN', '', 'O')
+¡¬291_patent
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬291', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('toward', 'IN', '', 'O') ('``', '``', '', 'O') ('septal_occluders', 'NNS', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('medical_devices', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('block', 'VB', '', 'O') ('holes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('thin', 'JJ', '', 'O') ('wall', 'NN', '', 'O') ('of', 'IN', '', 'O') ('muscle', 'NN', '', 'O') ('and', 'CC', '', 'O') ('tissue', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('septum', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('dividing', 'VBG', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('chambers', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O')
+two
+__NEW_SENT__
+('``', '``', '', 'O') ('Transcatheter', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') ('septal_occluders', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('delivered', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('and', 'CC', '', 'O') ('positioned', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('septal_defect', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('threaded', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('vein', 'NN', '', 'O')
+Transcatheter
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1975', 'CD', 'DATE', 'B') ('King', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Mills', 'NNP', 'ORG', 'I') ('received', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('transcatheter', 'NN', '', 'O') ('septal', 'NN', '', 'O') ('occluder', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', 'WORK_OF_ART', 'B') ('King', 'NNP', 'WORK_OF_ART', 'I') ('device', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+1975 King and Mills first the King
+__NEW_SENT__
+('U.S.', 'NNP', 'GPE', 'B') ('Pat', 'NNP', '', 'O')
+U.S.
+__NEW_SENT__
+('No._3874,388', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('filed', 'VBN', '', 'O') ('Feb._12,_1973', 'NFP', '', 'O') (')', '-RRB-', '', 'O')
+No._3874,388
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1992', 'CD', 'DATE', 'B') ('the', 'DT', '', 'O') ('University', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('Patent', 'NNP', '', 'O') ('Application', 'NNP', '', 'O') ('No._07', 'NN', '', 'O') ('/822,951', '.', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬951_application', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('claiming', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('transcatheter', 'NN', '', 'O') ('septal', 'NN', '', 'O') ('occluder', 'NN', '', 'O') ('invented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Gladwin', 'NNP', 'PERSON', 'B') ('Das', 'NNP', 'PERSON', 'I')
+1992 University Gladwin Das
+__NEW_SENT__
+('Four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('eventually', 'RB', '', 'O') ('issued', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('successive', 'JJ', '', 'O') ('*933', 'NNP', '', 'O') ('divisions', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬951_application', 'NNP', 'ORG', 'B') ('including', 'VBG', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('No._5334,217', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬217_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('April', 'NNP', 'DATE', 'B') ('1994', 'CD', 'DATE', 'I') ('another', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('not', 'RB', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('here', 'RB', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('¡¬291', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('s', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('were', 'VBD', '', 'O') ('both', 'DT', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('June', 'NNP', 'DATE', 'B') ('2000', 'CD', 'DATE', 'I')
+Four ¡¬951_application U.S. Patent No._5334,217 April 1994 June 2000
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('have', 'VBP', '', 'O') ('different', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('but', 'CC', '', 'O') ('generally', 'RB', '', 'O') ('share', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('specification', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('``', '``', '', 'O') ('Summary', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Invention', 'NNP', '', 'O') ("''", "''", '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('device', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('``', '``', '', 'O') ('first', 'RB', 'ORDINAL', 'B') ('and', 'CC', '', 'O') ('second_occluding_disks', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('attached', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('one', 'NN', '', 'O') ('another', 'DT', '', 'O') ("''", "''", '', 'O') ('centrally', 'RB', '', 'O')
+first
+__NEW_SENT__
+('¡¬291_patent_col.', 'NNP', '', 'O') ('3_ll._7', 'CD', '', 'O') ('-8', ':', '', 'O') (';', ':', '', 'O') ('¡¬281_patent_col.', 'NNP', '', 'O') ('3_ll._11', 'CD', '', 'O') ('-12', '.', '', 'O')
+
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('disk', 'NN', '', 'O') ('comprises', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('membrane', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('frame', 'NN', '', 'O') ('and', 'CC', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('``', '``', '', 'O') ('collapsed', 'VBN', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('catheter', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬291_patent_col.', 'NNP', '', 'O') ('3_ll._8', 'CD', '', 'O') ('-12', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('device', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('delivered', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('it', 'PRP', '', 'O') ('is', 'VBZ', '', 'O') ('positioned', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('disk', 'NN', '', 'O') ('on', 'IN', '', 'O') ('each', 'DT', '', 'O') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defective_septum', 'NN', '', 'O')
+one
+__NEW_SENT__
+('As', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('withdrawn', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('disks', 'NNS', '', 'O') ('expand', 'VBP', '', 'O') ('covering', 'VBG', '', 'O') ('both', 'DT', '', 'O') ('sides', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('defective_septum', 'NN', '', 'O') ('and', 'CC', '', 'O') ('blocking', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('hole', 'NN', '', 'O')
+
+__NEW_SENT__
+('See', 'VB', '', 'O') ('id.at', 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('3_ll._10', 'CD', '', 'O') ('-14', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('shared', 'VBN', '', 'O') ('specification', 'NN', '', 'O') ('acknowledges', 'VBZ', '', 'O') ('prior_art', 'NNP', '', 'O') ('septal_occluders', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('expandable', 'JJ', '', 'O') ('membranes', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('King', 'NNP', '', 'O') ('device', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('device', 'NN', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('an', 'DT', '', 'O') ('article', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Dr.', 'NNP', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('Lock', 'NNP', 'PERSON', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', 'WORK_OF_ART', 'B') ('Lock', 'NNP', 'WORK_OF_ART', 'I') ('device', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+James Lock the Lock
+__NEW_SENT__
+('The', 'DT', '', 'O') ('Lock', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('King', 'NNP', '', 'O') ('devices', 'NNS', '', 'O') ('both', 'DT', '', 'O') ('have', 'VBP', '', 'O') ('``', '``', '', 'O') ('umbrella-like', 'JJ', '', 'O') ("''", "''", '', 'O') ('structures', 'NNS', '', 'O') ('mounted', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('radial', 'JJ', '', 'O') ('frames', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents-in-suit', 'NN', 'GPE', 'B') ('disparages', 'NNS', '', 'O') ('prior_art', 'NNP', '', 'O') ('radial', 'JJ', '', 'O') ('frame', 'NN', '', 'O') ('devices', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('mechanically', 'RB', '', 'O') ('complex', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('requir', 'NNS', '', 'O') ('[', '-LRB-', '', 'O') ('ing', 'VBG', '', 'O') (']', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('great', 'JJ', '', 'O') ('deal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('remote', 'JJ', '', 'O') ('manipulation', 'NN', '', 'O') ('for', 'IN', '', 'O') ('deployment', 'NN', '', 'O') ("''", "''", '', 'O') ('¡¬', 'NNP', 'CARDINAL', 'B') ('291', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('col.', 'FW', '', 'O') ('2_ll._44', 'NNP', '', 'O') ('-45', 'HYPH', '', 'O') (';', ':', '', 'O') ('¡¬281_patent_col.', 'NNP', '', 'O') ('2_ll._48', 'NNP', '', 'O') ('-49', ':', '', 'O') ('and', 'CC', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('single', 'JJ', '', 'O') ('point', 'NN', '', 'O') ('or', 'CC', '', 'O') ('pivot', 'NN', '', 'O') ("''", "''", '', 'O') ('connecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('umbrella', 'NN', '', 'O') ('structures', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('drift', 'VB', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('septal_defect', 'NN', '', 'O') ('allowing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('to', 'TO', '', 'O') ('become', 'VB', '', 'O') ('decentered', 'VBN', '', 'O')
+patents-in-suit ¡¬ 291 two
+__NEW_SENT__
+('¡¬291_patent_col.', 'NNP', '', 'O') ('2_ll._52', 'NNP', 'ORG', 'B') ('-56', 'HYPH', 'ORG', 'I') (';', ':', '', 'O') ('¡¬281_patent_col.', 'NNP', '', 'O') ('2_ll._56', 'CD', '', 'O') ('-60', '.', '', 'O')
+2_ll._52 -56
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2007', 'CD', 'DATE', 'B') ('the', 'DT', '', 'O') ('University', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ('alleging', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬291', 'NNS', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬281_patent', 'JJ', '', 'O') ('s.', 'NNP', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('accused', 'VBN', '', 'O') ('septal_occluders', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('one-piece', 'JJ', '', 'O') ('devices', 'NNS', '', 'O') ('made', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('tubes', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('wire', 'NN', '', 'O') ('mesh', 'NN', '', 'O')
+2007 University AGA ¡¬291 AGA
+__NEW_SENT__
+('The', 'DT', '', 'O') ('mesh', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('molded', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preset_shape', 'NN', '', 'O') ('with', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('large', 'JJ', '', 'O') ('flat', 'JJ', '', 'O') ('regions', 'NNS', '', 'O') ('separated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('narrow', 'JJ', '', 'O') ('waist', 'NN', '', 'O')
+two
+__NEW_SENT__
+('The', 'DT', '', 'O') ('device', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('compressed', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('an', 'DT', '', 'O') ('elongated', 'VBN', '', 'O') ('shape', 'NN', '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('catheter', 'NN', '', 'O')
+
+__NEW_SENT__
+('Upon', 'IN', '', 'O') ('deployment', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catheter', 'NN', '', 'O') ('inside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('heart', 'NN', '', 'O') ('the', 'DT', '', 'O') ('device', 'NN', '', 'O') ('spontaneously', 'RB', '', 'O') ('springs', 'VBZ', '', 'O') ('back', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preset_shape', 'NN', '', 'O') ('and', 'CC', '', 'O') ('blocks', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('septal_defect', 'NN', '', 'O')
+
+__NEW_SENT__
+('At', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('request', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('hearing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('construed', 'VBD', '', 'O') ('various', 'JJ', '', 'O') ('disputed', 'VBN', '', 'O') ('terms', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬291', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('¡¬281_patent', 'JJ', '', 'O') ('s.', 'NN', '', 'O') ('See', 'NNP', '', 'O') ('Regents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Univ', 'NNP', '', 'O')
+Markman
+__NEW_SENT__
+('of', 'IN', '', 'O') ('Minn.', 'NNP', 'GPE', 'B') ('v.', 'CC', '', 'O') ('AGA_Med', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('660_F.Supp.2d_1037', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('D.Minn.2009', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Minn. AGA_Med Corp.
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('2011', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('partially', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('ruling', 'NN', '', 'O') ('that', 'IN', '', 'O') ('no', 'DT', '', 'O') ('reasonable', 'JJ', '', 'O') ('jury', 'NN', '', 'O') ('could', 'MD', '', 'O') ('find', 'VB', '', 'O') ('that', 'IN', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('one-piece', 'JJ', '', 'O') ('mesh', 'NN', '', 'O') ('device', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬291_patent', 'NN', '', 'O')
+January 2011 AGA AGA
+__NEW_SENT__
+('Regents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Univ', 'NNP', '', 'O')
+
+__NEW_SENT__
+('of', 'IN', '', 'O') ('Minn.', 'NNP', 'GPE', 'B') ('v.', 'CC', '', 'O') ('AGA_Med', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('No._07', 'NN', '', 'O') ('-CV-4732', '.', '', 'O') ('2011_WL_13943', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*9', 'NN', '', 'O') ('*15-16', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('D.Minn', 'NNP', '', 'O')
+Minn. AGA_Med Corp.
+__NEW_SENT__
+('Jan._4,_2011', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('2011', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('asserted', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('4', 'CD', 'CARDINAL', 'I') ('and', 'CC', 'CARDINAL', 'I') ('5', 'CD', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬281_patent', 'NNP', '', 'O') ('Regents', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Univ', 'NNP', '', 'O')
+December 2011 AGA 1 4 and 5
+__NEW_SENT__
+('of', 'IN', '', 'O') ('Minn.', 'NNP', 'GPE', 'B') ('v.', 'CC', '', 'O') ('AGA_Med', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('835_F.Supp.2d_711_(D.Minn.2011)', 'NN', '', 'O') ('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('Lock', 'NNP', 'PERSON', 'B') ('device', 'NN', '', 'O') ('id.at', 'NNP', '', 'O') ('723-26.1', 'CD', 'CARDINAL', 'B') ('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('dismissed', 'VBD', '', 'O') ('AGA', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('remaining', 'VBG', '', 'O') ('counterclaims', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('moot', 'NN', '', 'O')
+Minn. AGA_Med Corp. three Lock 723-26.1 AGA
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('713-14.2', 'CD', '', 'O') ('The', 'DT', '', 'O') ('University', 'NNP', '', 'O') ('*934', 'NNP', '', 'O') ('timely', 'RB', '', 'O') ('appealed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+Id.at 28 1
+__NEW_SENT__
+('Although', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('related', 'VBN', '', 'O') ('they', 'PRP', '', 'O') ('present', 'JJ', '', 'O') ('distinct', 'JJ', '', 'O') ('legal', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('so', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('discuss', 'VBP', '', 'O') ('them', 'PRP', '', 'O') ('separately', 'RB', '', 'O')
+
+__NEW_SENT__

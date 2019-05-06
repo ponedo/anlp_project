@@ -1,0 +1,387 @@
+('519_F.3d_1366', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('COMPUTER', 'NN', '', 'O') ('DOCKING', 'NN', '', 'O') ('STATION', 'NN', '', 'O') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('DELL', 'NNP', '', 'O') ('INC.', 'CD', '', 'O') ('Defendant-Cross_Appellant', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('Gateway', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Cross_Appellant', 'NN', '', 'O') ('and', 'CC', '', 'O')
+Gateway Inc.
+__NEW_SENT__
+('Toshiba_America', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Toshiba_America_Information_Systems', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Cross_Appellants', 'NNS', '', 'O')
+Toshiba_America Inc. Toshiba_America_Information_Systems Inc.
+__NEW_SENT__
+('Nos._2007-1169', 'NN', '', 'O') ('2007-1316', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('March_21,_2008', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitors', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'NN', '', 'O') ('portable_microprocessor_system', 'NNP', '', 'O') ('with', 'IN', '', 'O') ('sufficient_processing_power', ',', '', 'O') ('memory', 'NN', '', 'O') ('and', 'CC', '', 'O') ('network_compatibility', 'NN', '', 'O') ('for', 'IN', '', 'O') ('business_applications', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Wisconsin', 'NNP', 'GPE', 'B') ('Barbara', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Crabb', 'NNP', 'PERSON', 'I') ('Chief_Judge', 'NN', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('competitors', 'NNS', '', 'O')
+United_States_District_Court Wisconsin Barbara B. Crabb Chief_Judge
+__NEW_SENT__
+('Owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Rader Circuit_Judge
+__NEW_SENT__
+('terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ('microprocessing', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O') ('limited', 'JJ', '', 'O') ('scope', 'NN', '', 'O') ('of', 'IN', '', 'O') ('asserted', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('portable', 'JJ', '', 'O') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('moved', 'VBN', '', 'O') ('about', 'IN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('phrases', 'NNS', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ('microprocessing', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O') ('excluded', 'VBD', '', 'O') ('computers', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('built-in', 'NN', '', 'O') ('displays', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('keyboards', 'NNS', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('examiner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('citation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('single', 'JJ', '', 'O') ('connection', 'NN', '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('reasons', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('allowability', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('erase', 'VB', '', 'O') ('applicants', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('clear_disavowal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('laptops', 'NNS', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('applicants', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('clear_disavowal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('laptops', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('prosecution_history', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pre-filing', 'JJ', '', 'O') ('activities', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('record', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('mean', 'VB', '', 'O') ('that', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('objectively', 'RB', '', 'O') ('baseless', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('owner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('to', 'TO', '', 'O') ('continue', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('litigation', 'NN', '', 'O') ('after', 'IN', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('adverse', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('make', 'VB', '', 'O') ('case', 'NN', '', 'O') ('exceptional', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1369', 'FW', '', 'O') ('Roderick', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Dorman', 'NNP', 'PERSON', 'I') ('Hennigan', 'NNP', 'PERSON', 'I') ('Bennett', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Dorman', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Roderick G. Dorman Hennigan Los Angeles
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Shenkman', 'NNP', 'PERSON', 'I')
+Kevin I. Shenkman
+__NEW_SENT__
+('Vito', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Canuso', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('Knobbe', 'NNP', 'PERSON', 'I') ('Martens', 'NNP', 'PERSON', 'I') ('Olson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Bear', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Irvine', 'NNP', 'ORG', 'B') ('CA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('all', 'DT', '', 'O') ('defendants-cross', 'JJ', '', 'O') ('appellants', 'NNS', '', 'O')
+Vito A. Canuso III Knobbe Martens Olson & Bear LLP Irvine CA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendants-cross', 'JJ', '', 'O') ('appellants', 'NNS', '', 'O') ('Toshiba_America', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('et', 'NNP', '', 'O') ('al.', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Re', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Cannon', 'NNP', 'PERSON', 'I')
+Toshiba_America Inc. Joseph R. Re Edward M. Cannon
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'NN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('were', 'VBD', '', 'O') ('Brian', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Buss', 'NNP', 'PERSON', 'I') ('David', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Weaver', 'NNP', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Ruble', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Gentry', 'NNP', '', 'O') ('C.', 'NNP', '', 'O') ('McLean', 'NNP', '', 'O') ('Vinson', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Elkins', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Austin', 'NNP', '', 'O') ('TX', 'NNP', '', 'O')
+Dell Inc. Brian K. Buss David B. Richard R. Ruble Vinson & Elkins LLP
+__NEW_SENT__
+('On', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('for', 'IN', '', 'O') ('defendant-cross', 'JJ', '', 'O') ('appellant', 'JJ', '', 'O') ('Gateway', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('were', 'VBD', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Baker', 'NNP', 'PERSON', 'I') ('W.', 'NNP', 'PERSON', 'B') ('Bryan', 'NNP', 'PERSON', 'I') ('Farney', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Mason', 'NNP', 'ORG', 'B') ('A', 'NNP', 'ORG', 'I')
+Gateway Inc. Jonathan D. Baker W. Bryan Farney Mason A
+__NEW_SENT__
+('Gross', 'NNP', 'PERSON', 'B') ('Dechert', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Mountain', 'NNP', 'ORG', 'B') ('View', 'NNP', 'ORG', 'I') ('CA', 'NNP', 'ORG', 'I')
+Gross Dechert LLP Mountain View CA
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('PLAGER', 'NNP', '', 'O') ('Senior', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('and', 'CC', '', 'O') ('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Wisconsin', 'NNP', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Gateway', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Toshiba_America', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Toshiba_America_Information_Systems', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('claims', 'NNS', '', 'O') ('17-20', 'CD', '', 'O') ('22', 'CD', '', 'O') ('24', 'CD', '', 'O') ('and', 'CC', '', 'O') ('26-28', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('*1370', 'NN', '', 'O') ('Computer', 'NNP', 'ORG', 'B') ('Docking', 'NNP', 'ORG', 'I') ('Station', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('CDSC', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') (')', '-RRB-', '', 'O') ('United', 'NNP', '', 'O') ('States', 'NNP', '', 'O') ('Patent', 'NN', '', 'O') ('No._5187,645', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'645_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Dell Inc. Gateway Inc. Toshiba_America Inc. Toshiba_America_Information_Systems Inc. Defendants 26-28 Computer Docking Station Corporation 's CDSC
+__NEW_SENT__
+('Computer_Docking_Station_Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Case_No._06-_C-0032-C', 'NNP', '', 'O') ('2007', 'CD', 'DATE', 'B') ('U.S._Dist', 'NN', '', 'O')
+Dell Inc. 2007
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('2419', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('W.D.Wis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Jan.10', 'NNP', 'PERSON', 'B') ('2007', 'CD', 'PERSON', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Summary_Judgment_Order', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Jan.10 2007
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('disavowed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('interpretation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('that', 'WDT', '', 'O') ('would', 'MD', '', 'O') ('encompass', 'VB', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('built-in', 'NN', '', 'O') ('display', 'NN', '', 'O') ('or', 'CC', '', 'O') ('keyboard', 'VB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('holding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('no', 'DT', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('exceptional', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warranted', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', '', 'O')
+35
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬645_patent', 'NNP', 'ORG', 'B') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('portable_microprocessor_system', 'NN', '', 'O') ('with', 'IN', '', 'O') ('sufficient_processing_power', ',', '', 'O') ('memory', 'NN', '', 'O') ('and', 'CC', '', 'O') ('network_compatibility', 'NN', '', 'O') ('for', 'IN', '', 'O') ('business_applications', 'NNS', '', 'O')
+¡¬645_patent
+__NEW_SENT__
+('¡¬645_patent', 'NN', '', 'O') ('col.3', 'NN', '', 'O') ('II.18-20', 'NNP', 'NORP', 'B')
+II.18-20
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('below', 'IN', '', 'O') ('depicts', 'NNS', '', 'O') ('this', 'DT', '', 'O') ('system', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('contained', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('label', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B')
+1 10
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('teaches', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('size', 'NN', '', 'O') ('and', 'CC', '', 'O') ('weight', 'NN', '', 'O') ('account', 'NN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('portability', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.1_II.29-36', 'XX', '', 'O') ('56-62', 'CD', '', 'O') (';', ':', '', 'O') ('col.3', 'NN', '', 'O') ('II.44-45', 'NNP', 'ORG', 'B')
+II.44-45
+__NEW_SENT__
+('The', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('``', '``', '', 'O') ('resembles', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('brick', 'NN', '', 'O') ("''", "''", '', 'O') ('about', 'RB', 'QUANTITY', 'B') ('eleven', 'CD', 'QUANTITY', 'I') ('inches', 'NNS', 'QUANTITY', 'I') ('high', 'JJ', 'QUANTITY', 'I') ('eight', 'CD', 'QUANTITY', 'I') ('inches', 'NNS', 'QUANTITY', 'I') ('wide', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('three', 'CD', 'QUANTITY', 'B') ('inches', 'NNS', 'QUANTITY', 'I') ('thick', 'JJ', '', 'O')
+about eleven inches high eight inches three inches
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('weighs', 'VBZ', '', 'O') ('approximately', 'RB', 'QUANTITY', 'B') ('eight', 'CD', 'QUANTITY', 'I') ('pounds', 'NNS', 'QUANTITY', 'I')
+approximately eight pounds
+__NEW_SENT__
+('As', 'IN', '', 'O') ('illustrated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('may', 'MD', '', 'O') ('fit', 'VB', '', 'O') ('in', 'RP', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('half', 'NN', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('attache', 'NN', '', 'O') ('case', 'NN', '', 'O')
+2 one half
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.3', 'NN', '', 'O') ('II.33-45', 'NNP', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('system', 'NN', '', 'O') ('also', 'RB', '', 'O') ('includes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('capability', 'NN', '', 'O') ('to', 'TO', '', 'O') ('connect', 'VB', '', 'O') ('to', 'IN', '', 'O') ('peripheral_devices', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('keyboard', 'NN', '', 'O') ('or', 'CC', '', 'O') ('mouse', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('agree', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('peripheral_device', 'NN', '', 'O') ("''", "''", '', 'O') ('means', 'VBZ', '', 'O') ('``', '``', '', 'O') ('an', 'DT', '', 'O') ('external', 'JJ', '', 'O') ('device', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('connecting', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('controlled', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Computer_Docking_Station_Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No._06-', 'NNP', '', 'O') ('C-32-C', 'VBZ', 'ORG', 'B') ('2006', 'CD', 'ORG', 'I') ('U.S._Dist', 'NN', 'ORG', 'I')
+Dell Inc. C-32-C 2006 U.S._Dist
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('58388', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*10-11', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('W.D.Wis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Aug._16,_2006', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Claim_Construction_Order', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('connects', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('these', 'DT', '', 'O') ('peripheral_devices', 'NNS', '', 'O') ('either', 'CC', '', 'O') ('through', 'IN', '', 'O') ('individual_connectors', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('one', 'CD', '', 'O') ('connector', 'NN', '', 'O') ('per', 'IN', '', 'O') ('peripheral_device', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('or', 'CC', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('docking', 'VBG', '', 'O') ('connector', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('``', '``', '', 'O') ('allows', 'VBZ', '', 'O') ('all', 'DT', '', 'O') ('peripheral', 'JJ', '', 'O') ('connections', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('realized', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single_connector', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('¡¬645_patent', 'NN', '', 'O') ('col.1', 'NN', '', 'O') ('II.24-31', 'NNP', 'ORG', 'B') (';', ':', '', 'O') ('col.2', 'VBD', '', 'O') ('II.23-34', 'NNP', 'GPE', 'B')
+II.24-31 II.23-34
+__NEW_SENT__
+('The', 'DT', '', 'O') ('docking', 'NN', '', 'O') ('connector', 'NN', '', 'O') ('simplifies', 'NNS', '', 'O') ('coupling', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('decoupling', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('with', 'IN', '', 'O') ('peripheral_devices', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.1_II.29-36', 'XX', '', 'O') (';', ':', '', 'O') ('col.3', 'NN', '', 'O') ('II.64-66', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('O', 'UH', '', 'O') (']', '-RRB-', '', 'O') ('nly', 'RB', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('connection', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('disconnect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('or', 'CC', '', 'O') ('connect', 'VB', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+II.64-66 one
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('6', 'CD', 'CARDINAL', 'B') ('illustrates', 'VBZ', '', 'O') ('individual', 'JJ', '', 'O') ('connections', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('each', 'DT', '', 'O') ('peripheral_device', 'NN', '', 'O') (';', ':', '', 'O') ('Figure', 'NN', '', 'O') ('3', 'CD', 'CARDINAL', 'B') ('illustrates', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('connection', 'NN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('main_housing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('docking', 'NN', '', 'O') ('connector', 'NN', '', 'O')
+6 3
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.7', 'VB', '', 'O') ('II.23-26', 'NN', 'ORG', 'B') (';', ':', '', 'O') ('col.2', 'VBD', '', 'O') ('II.42-43', 'NNP', 'ORG', 'B')
+II.23-26 II.42-43
+__NEW_SENT__
+('*1371.', 'NNP', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('explains', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('keyboard', 'NN', '', 'O') ('and', 'CC', '', 'O') ('visual', 'JJ', '', 'O') ('display', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('``', '``', '', 'O') ('options', 'NNS', '', 'O') ('available', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.2', 'VBD', '', 'O') ('II.8-11', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Figures', 'NNS', '', 'O') ('13-15', 'CD', '', 'O') ('illustrate', 'VBP', '', 'O') ('these', 'DT', '', 'O') ('options', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('13', 'CD', 'CARDINAL', 'B') ('shows', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('a', 'DT', '', 'O') ('keyboard', 'NN', '', 'O') ('60', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('display', 'VB', '', 'O') ('58', 'CD', 'CARDINAL', 'B') ('``', '``', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('coupled', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microcomputer', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O')
+13 60 58
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.7', 'VB', '', 'O') ('II.23-24', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('keyboard', 'NN', '', 'O') ('connects', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('connector', 'NN', '', 'O') ('24b', 'NNS', '', 'O') ('shown', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('left-hand', 'JJ', '', 'O') ('side', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rear', 'JJ', '', 'O') ('bezel', 'NN', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('6', 'CD', 'CARDINAL', 'B')
+6
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.5', 'VBZ', '', 'O') ('II.30-31', 'NNP', 'ORG', 'B')
+II.30-31
+__NEW_SENT__
+('As', 'IN', '', 'O') ('shown', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('Figure', 'NNP', '', 'O') ('14', 'CD', 'CARDINAL', 'B') ('display', 'NN', '', 'O') ('58', 'CD', 'DATE', 'B') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('external', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('but', 'CC', '', 'O') ('may', 'MD', '', 'O') ('be', 'VB', '', 'O') ('attached', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('and', 'CC', '', 'O') ('removed', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('using', 'VBG', '', 'O') ('individual_connectors', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('thumbscrews', 'NNS', '', 'O')
+14 58
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.7', 'VB', '', 'O') ('II.28-42', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('shows', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('as', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('fits', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('display', 'NN', '', 'O') ('and', 'CC', '', 'O') ('keyboard', 'NN', '', 'O')
+15
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('requires', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ('microprocessing', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('portable_computer_limitation', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('single_connector', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('connections', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('specific_computer_peripheral_devices', 'NNP', '', 'O') ("''", "''", '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('all', 'DT', '', 'O') ('connections_limitation', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('28', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('asserted', 'JJ', '', 'O') ('independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') (':', ':', '', 'O') ('28', 'CD', 'CARDINAL', 'B')
+Claim 28 three 28
+__NEW_SENT__
+('A', 'DT', '', 'O') ('portable_computer', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('processing', 'NN', '', 'O') ('instructions', 'NNS', '', 'O') (';', ':', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') (';', ':', '', 'O') ('c', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('computer-peripheral-device-specific_connectors', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('electrical_communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('computer-peripheral-device', 'NN', '', 'O') ('specific_connectors', 'NNS', '', 'O') ('provides', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('computer-peripheral-device', 'NN', '', 'O') ('specific', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('link', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('microprocessors', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('connectors', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('connecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('to', 'IN', '', 'O') ('specific_computer_peripheral_devices', 'NNS', '', 'O') ('*1372', '.', '', 'O') ('and', 'CC', '', 'O') ('being', 'VBG', '', 'O') ('mounted', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('d', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('another', 'DT', '', 'O') ('single_connector', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('said', 'VBD', '', 'O') ('single_connector', 'NN', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('set', 'NN', '', 'O') ('of', 'IN', '', 'O') ('pins', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('set', 'VBN', '', 'O') ('further', 'RB', '', 'O') ('comprising', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('subsets', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('computer-peripheral-device-specific_pins', 'NNS', '', 'O') ('being', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('electrical_communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('microprocessor', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBN', '', 'O') ('subsets', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('computer-peripheral-device-specific_pins', 'NNS', '', 'O') ('provides', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('computer-peripheral-device-specific', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('link', 'VBP', '', 'O') ('as', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('plurality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('computer-peripheral-device-specific_connectors', 'NNS', '', 'O') ('said', 'VBD', '', 'O') ('single_connector', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('connections', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('specific_computer_peripheral_devices', 'NNS', '', 'O')
+one
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'JJ', '', 'O') ('12', 'CD', 'CARDINAL', 'B') ('II.11-34', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+12
+__NEW_SENT__
+('During', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('several', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5030,128', 'NNP', '', 'O') ('to', 'IN', '', 'O') ('Herron', 'NNP', 'GPE', 'B') ('et', 'NNP', '', 'O') ('al', 'NNP', '', 'O')
+U.S. Herron
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('¡¬128_patent', 'NNP', '', 'O') ('or', 'CC', '', 'O') ('Herron', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+Herron
+__NEW_SENT__
+('Herron', 'NNP', 'ORG', 'B') ('discloses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('laptop_computer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('docking_module', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('facilitates', 'VBZ', '', 'O') ('operation', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('desktop', 'NN', '', 'O')
+Herron
+__NEW_SENT__
+('Herron', 'NNP', 'ORG', 'B') ('connects', 'VBZ', '', 'O') ('each', 'DT', '', 'O') ('peripheral', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('docking_module', 'NN', '', 'O')
+Herron
+__NEW_SENT__
+('¡¬128_patent', 'JJ', '', 'O') ('col.2', 'VBD', '', 'O') ('II.3-38', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Attempting', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('distinguish', 'VB', '', 'O') ('Herron', 'NNP', 'ORG', 'B') ('the', 'DT', '', 'O') ('applicants', 'NNS', '', 'O') ('expressly', 'RB', '', 'O') ('defined', 'VBD', '', 'O') ('their', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') ('in', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('terms', 'NNS', '', 'O')
+Herron
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('the', 'DT', '', 'O') ('applicants', 'NNS', '', 'O') ('amended', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('an', 'DT', '', 'O') ('interview', 'NN', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('amended', 'VBN', '', 'O') ('``', '``', '', 'O') ('claims', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('redundant', 'JJ', '', 'O') ('connectors', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('set', 'NN', '', 'O') ('plural', 'NN', '', 'O') ('&', 'CC', '', 'O') ('one', 'CD', '', 'O') ('a', 'DT', '', 'O') ('single_connector', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('allowable', 'JJ', '', 'O') ("''", "''", '', 'O')
+one
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬645_patent', 'NNP', '', 'O') ('issued', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('1993', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('was', 'VBD', '', 'O') ('later', 'RB', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('CDSC', 'NNP', '', 'O')
+February 1993
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('produce', 'VBP', '', 'O') ('various', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('devices', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('laptops', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('docking_stations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('amended', 'VBN', '', 'O') ('complaint', 'NN', '', 'O') ('CDSC', 'NNP', '', 'O') ('identified', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendants', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('laptop_computers', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('docking_stations', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('infringing', 'VBG', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('record', 'NN', '', 'O') ('shows', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('each', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('laptop_computer', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('built-in', 'NN', '', 'O') ('display', 'NN', '', 'O') ('or', 'CC', '', 'O') ('keyboard', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ('microprocessing', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preambles', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('mean', 'VB', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('without', 'IN', '', 'O') ('a', 'DT', '', 'O') ('built-in', 'NN', '', 'O') ('display', 'NN', '', 'O') ('or', 'CC', '', 'O') ('keyboard', 'VB', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('moved', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('carried', 'VBN', '', 'O') ('about', 'IN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Claim_Construction_Order', 'NNP', '', 'O') ('2006', 'CD', 'DATE', 'B') ('U.S._Dist', 'NN', '', 'O')
+2006
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('58388', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*32-33', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution_history', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('specification', 'NN', '', 'O') ('distinguished', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('invention', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('laptop_computer', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('applicants', 'NNS', '', 'O') ('had', 'VBD', '', 'O') ('emphasized', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('differences', 'NNS', '', 'O') ('between', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('laptop_computers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('overcome', 'VB', '', 'O') ('the', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('rejections', 'NNS', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('Herron', 'NNP', 'ORG', 'B')
+Herron
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('statements', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution_history', 'NN', '', 'O') ('amounted', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unmistakable', 'JJ', '', 'O') ('disavowal', 'NN', '', 'O') ('it', 'PRP', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('portable_computer', 'NN', '', 'O') ('microprocessing', 'NN', '', 'O') ('system', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('exclude', 'VB', '', 'O') ('computers', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('built-in', 'NN', '', 'O') ('displays', 'NNS', '', 'O') ('or', 'CC', '', 'O') ('keyboards', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*18-24', 'NNP', '', 'O')
+Id.at
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('phrase', 'NN', '', 'O') ('``', '``', '', 'O') ('said', 'VBD', '', 'O') ('single_connector', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('connections', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('to', 'IN', '', 'O') ('said', 'VBD', '', 'O') ('computer', 'NN', '', 'O') ('peripheral_devices', 'NNS', '', 'O') ("''", "''", '', 'O') ('to', 'TO', '', 'O') ('require', 'VB', '', 'O') ('``', '``', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('individual', 'JJ', '', 'O') ('peripheral_device', 'NN', '', 'O') ('connections', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('connect', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('microprocessor', 'NN', '', 'O') ('also', 'RB', '', 'O') ('pass', 'VB', '', 'O') ('through', 'IN', '', 'O') ('the', 'DT', '', 'O') ('single_connector', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*40-45', 'NNS', '', 'O')
+Id.at
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('these', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('interpretations', 'NNS', '', 'O') ('CDSC', 'NNP', '', 'O') ('itself', 'PRP', '', 'O') ('sought', 'VBD', '', 'O') ('entry', 'NN', '', 'O') ('of', 'IN', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'JJ', '', 'O') ('conceding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('none', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('meets', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('portable_computer_limitation', 'NN', '', 'O')
+
+__NEW_SENT__
+('CDSC', 'NNP', '', 'O') ('also', 'RB', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('satisfy', 'VB', '', 'O') ('the', 'DT', '', 'O') ('all', 'DT', '', 'O') ('connections_limitation', 'NN', '', 'O')
+
+__NEW_SENT__
+('CDSC', 'NNP', '', 'O') ('admitted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('each', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('product', 'NN', '', 'O') ('``', '``', '', 'O') ('includes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('keyboard', 'NN', '', 'O') ('and', 'CC', '', 'O') ('display', 'NN', '', 'O') ('that', 'DT', '', 'O') ('*1373', 'WP', '', 'O') ('are', 'VBP', '', 'O') ('affixed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('housing..', 'XX', '', 'O') ('and', 'CC', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('designed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('detached', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('use', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('PL', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('Mem', 'NNP', '', 'O')
+PL
+__NEW_SENT__
+('Supp', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Entry', 'NNP', '', 'O') ('Final', 'NNP', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('Non-Infringe', 'NNP', 'PERSON', 'I')
+J. Non-Infringe
+__NEW_SENT__
+('and', 'CC', '', 'O') ('Certification', 'NNP', '', 'O') ('Case_No._06-_C-0032-C', 'NNPS', '', 'O') ('Docket', 'NNP', '', 'O') ('No._105', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('Sept._15,_2006', 'NNP', 'GPE', 'B') ('at', 'IN', '', 'O') ('2', 'CD', 'CARDINAL', 'B')
+Sept._15,_2006 2
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('opposed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('agree', 'VB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('all', 'DT', '', 'O') ('connections_limitation', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('CDSC', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Computer_Docking_Station_Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Case_No._06-_C-0032-C', 'NNS', '', 'O') ('2006', 'CD', 'DATE', 'B') ('U.S._Dist', 'NN', '', 'O')
+Dell Inc. 2006
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('74421', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('W.D.Wis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Oct.11', 'NNP', 'PERSON', 'B') ('2006', 'CD', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Oct.11 2006
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('then', 'RB', '', 'O') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('non-infringement', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('both', 'DT', '', 'O') ('limitations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Defendants', 'NNP', '', 'O') ('introduced', 'VBD', '', 'O') ('new', 'JJ', '', 'O') ('documents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('support', 'NN', '', 'O') ('of', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('motion', 'NN', '', 'O') ('as', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('related', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('all', 'DT', '', 'O') ('connections_limitation', 'NN', '', 'O') ('CDSC', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', 'LAW', 'B') ('Federal', 'NNP', 'LAW', 'I') ('Rule', 'NNP', 'LAW', 'I') ('of', 'IN', 'LAW', 'I') ('Civil', 'NNP', 'LAW', 'I') ('Procedure', 'NNP', 'LAW', 'I') ('56', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('f', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('additional', 'JJ', '', 'O') ('discovery', 'NN', '', 'O')
+a Federal Rule of Civil Procedure 56
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('the', 'DT', 'LAW', 'B') ('Rule', 'NNP', 'LAW', 'I') ('56', 'CD', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('f', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('granted', 'VBD', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('both', 'DT', '', 'O') ('limitations', 'NNS', '', 'O')
+the Rule 56 Defendants
+__NEW_SENT__
+('Summary_Judgment_Order', 'IN', '', 'O') ('2007', 'CD', 'DATE', 'B') ('U.S._Dist', 'NN', '', 'O')
+2007
+__NEW_SENT__
+('LEXIS', 'NN', '', 'O') ('2419', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('costs', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('285', 'CD', '', 'O')
+Defendants 35
+__NEW_SENT__
+('Computer_Docking_Station_Corp.', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Dell', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Case_No._06-_C-0032-C', 'NNP', '', 'O') ('2007', 'CD', 'DATE', 'B') ('U.S._Dist', 'NN', '', 'O')
+Dell Inc. 2007
+__NEW_SENT__
+('LEXIS', 'NNP', '', 'O') ('24045', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('W.D.Wis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Mar.29', 'NNP', '', 'O') ('2007', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Fees', 'NNS', '', 'O') ('Order', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+2007
+__NEW_SENT__
+('CDSC', 'NNP', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('portable_computer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('all', 'DT', '', 'O') ('connections_limitations', 'NNS', '', 'O') ('its', 'PRP$', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('both', 'DT', '', 'O') ('limitations', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('CDSC', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Rule', 'NNP', 'FAC', 'B') ('56', 'CD', 'FAC', 'I') ('(', '-LRB-', '', 'O') ('f', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('motion', 'NN', '', 'O')
+Rule 56
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('denial', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('attorney_fees', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1
+__NEW_SENT__

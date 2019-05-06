@@ -1,0 +1,121 @@
+247_F.3d_1316
+United States Court of Appeals Federal Circuit
+TELEMAC CELLULAR CORPORATION Plaintiff-Appellant v. TOPP TELECOM INC. Defendant-Appellee
+No._99-1562
+| April_25,_2001
+| Rehearing and Rehearing En Banc Denied June_1,_2001
+Synopsis
+Patentee brought suit against competitor for infringement of its patent for a mobile cellular telephone system having a host_processor and internal_accounting_capabilities for performing real-time_call_debiting
+The United_States_District_Court for the Northern_District of California Claudia Wilken J. granted summary_judgment to competitor finding certain claims of patent invalid and not infringed
+Patentee appealed
+The Court of Appeals Gajarsa Circuit_Judge held that : ( 1 ) claim limitation of a communication means for selectively establishing a communication_link with each mobile telephone_unit described the selective and automatic establishment by host_processor of communications for performing activation or programming and did not encompass systems in which user manually established communications ; ( 2 ) limitation of a complex_billing_algorithm required the storage of phone_rates for at a minimum local long_distance international and roaming calls and a means for identifying appropriate_rate_category ; ( 3 ) disputed claims were anticipated by prior art ; and ( 4 ) claims were not infringed literally or under doctrine of equivalents
+
+Affirmed
+
+Attorneys and Law Firms
+*1319 Guy W. Chambers Townsend and Townsend and Crew LLP of San Francisco CA argued for plaintiff-appellant
+With him on the brief was Roger L. Cook
+Daniel A. DeVito Skadden Arps Slate Meagher & Flom_LLP of New York NY argued for defendant-appellee
+With him on the brief was Carolyn H. Blankenship
+Of counsel on the brief were David W. Hansen and Benjamin R. Ostapuk Skadden Arps Slate Meagher & Flom_LLP of Palo Alto CA
+Before NEWMAN LOURIE and GAJARSA Circuit_Judges
+Opinion
+GAJARSA Circuit_Judge
+Telemac Cellular Corporation ( `` Telemac '' ) appeals from a grant of summary_judgment by the United_States_District_Court for the Northern_District of California finding claims 1 4 6 9 18 20-24 29_and_30 of Telemac 's U.S._Patent_No._5577,100 ( `` the ¡¬100_patent `` ) invalid and not infringed by the TRACFONE_system
+Telemac Cellular Corp. v. Topp_Telecom Inc. No._98- CV-22 ( N.D.Cal
+Aug._25,_1999 )
+For the reasons discussed below we affirm the judgment of the district_court
+
+BACKGROUND
+Appellant Telemac plaintiff below was formed in the early 1990s with a focus on the rental cellular telephone market
+In an effort to minimize credit risk Telemac sought to provide a cellular_phone that automatically debited the cost of each call from an available credit account stored within the cellular_phone
+On January 30 1995 Telemac filed a patent application describing that technology
+The application issued as the ¡¬100_patent on November 19 1996
+The ¡¬100_patent discloses and claims a phone system including a mobile_phone having internal_accounting_capabilities for performing real-time_call_debiting
+
+*1320 The patented debit phone differs from the conventional mobile_phone in that the user pre-pays for calls or `` air time '' when the user takes possession of the phone from the rental company
+Specifically the user is allowed a certain total amount of credit which amount is stored in the phone 's memory
+As the user places calls the cost for each call is debited from the stored credited amount in real-time
+Debiting is accomplished using a program for carrying out the functional steps of the billing_algorithm
+In accordance with that algorithm the call is first classified into one of the appropriate categories including local long_distance international or roaming calls
+An internal rate_table stores rate values corresponding to each calling category
+The charge amount is determined based on the call 's classification the length of time of the call and the corresponding rate value stored in the rate_table
+
+The phone may be activated and programmed by placing it in a module or `` boot '' connected to the host_processor
+It may also be programmed remotely using cellular paging signals to establish the call and Dual Tone Multi Frequency ( `` DTMF '' ) signals for communicating programming codes
+In both programming methods the host_processor initiates communication and automatically transmits operating_codes to the cellular_phone to enable its operation
+In accordance with yet a third programming method the phone is activated manually via a user-initiated technique
+In that activation method a user calls the system_provider 's toll-free number and obtains activation codes from an operator which the user enters manually
+
+Claim 1 of the ¡¬100_patent is the only independent claim
+It reads as follows : 1
+A mobile_phone system comprising a system_provider having a host_processor_unit and a plurality of system users each having at least one mobile_phone_unit wherein : the host_processor_unit has communication means for selectively establishing a communication_link with each mobile_phone_unit ; and each phone_unit includes a processor a clock chip memory associated with the processor program means including a complex_billing_algorithm and rate data for internally calculating call charges as calls are made wherein the phone_unit includes internal accounting means for generating a debit_account with an account_amount in the phone_unit and decrementing the account_amount in the debit_account in real time and wherein the system_provider has payment_verification means under system_provider control for setting a phone use account_amount and communicating the account_amount to the phone_unit wherein the internal account means adds the account_amount to the debit_account
+'100_patent col._19,_ll._2-21
+
+Topp_Telecom Inc. ( `` Topp '' ) the appellee-defendant sells the TRACFONE_system which also utilizes a prepaid cellular telephone
+To activate Topp 's phone or to have credit_amounts replenished a user contacts a customer service representative at Topp 's central service facility using a telephone other than the one purchased from Topp
+The user provides an operator with the serial number of the Topp telephone_unit as well as information identifying the user
+The operator in turn provides the user with operating_codes and instruction necessary to activate the phone
+Manual entry of the operating_codes by the user causes the telephone to store a credit_amount and completes activation
+Once activated the charges for *1321 each call are calculated using prestored rates and those charges are subtracted from the stored credited amount
+Upon exhaustion of the credit_amount the user can purchase additional airtime through Topp 's service center
+
+Because the phone is preprogrammed to recognize and block placement of international_calls the TRACFONE 's billing_algorithm does not calculate charges for international_calls using an international rate
+A TRACFONE user can not place international_calls directly but must place international_calls using an external exchange via a calling card or with the assistance of an operator
+
+In January 1998 Telemac filed an action against Topp alleging that Topp 's TRACFONE_system infringed the claims of the ¡¬100_patent
+On October 16 1998 Topp filed a motion for summary_judgment alleging that claims 1 4 6 9 18 20-24 29_and_30 of the ¡¬100_patent should be declared invalid under 35 U.S.C.¡± 102 ( b ) as anticipated by U.S._Patent_No._5631,947 granted to Wittstein et al
+( the `` Wittstein_patent '' )
+In opposition to that motion Telemac submitted a declaration from Mr. Stephen Bristow an industry expert opposing Topp 's invalidity allegation
+The district_court heard argument on Topp 's summary_judgment motion and on issues involving claim_construction
+In February 1999 the district_court issued an order construing the claims of the patent rejecting Telemac 's expert evidence and granting Topp 's motion for partial_summary_judgment of invalidity finding the claims anticipated by the Wittstein_patent
+In an additional order issued in March 1999 the district_court denied Telemac 's motion for reconsideration finding that while not expressly described the claimed billing_algorithm was necessarily present in Wittstein 's patent
+On subsequent cross-motions for summary_judgment the district_court found as a matter of law that none of the claims of the ¡¬100_patent was infringed by the accused TRACFONE_system
+In August 1999 the parties agreed to an entry of final_judgment
+The district_court entered the requested final_judgment citing portions of each of the previously described orders for its validity and infringement determinations
+
+In reviewing the district_court 's analysis we note that consistent with the arguments of the parties its claim_construction was limited solely to an interpretation of claim 1
+The district_court concluded that in accordance with the plain language of that claim the host_processor initiates communications with the mobile_phone
+Specifically the court based its construction of the claim on the language requiring that `` the host_processor.. selectively establish [ es ] a communication_link.. with '' the mobile telephone
+The court explained that an interpretation in which the customer initiates the claimed communication is contrary to the plain meaning of the claim
+The court further rejected Telemac 's argument that such a construction of claim 1 would render similar language in claim 3 duplicative concluding that the dependent claim included limitations not found in claim 1 as construed
+
+Relying on both the language of the claims and the written description the court next determined that the term `` communication_link '' be construed to require `` automatic communications ''
+First the court reiterated that the claim requires communications established by the host_processor not the customer
+Looking to the written description the court determined that in each embodiment in which the host_processor establishes the communication the communication is established automatically
+It further determined that in those embodiments the communication is established to perform activation and *1322 programming of a customer 's phone
+The court cited various portions of the specification in support of its argument including a description of the preferred embodiment in which activation of the phone is accomplished using `` a terminal interconnect '' for direct machine-to-machine communication
+Similarly another section of the specification describing `` automatic '' communications cited by the court recited reprogramming of the rate_table over the air at the initiation of the system_provider
+Thus the court concluded that the `` communication means '' should be construed to encompass automatically established communications initiated for the sole purpose of performing activation or programming
+
+Rejecting Telemac 's proffered construction the court concluded that the embodiment relied on by Telemac describing manually established communications functioned in accordance with the clause of the claim reciting the function of the `` payment_verification means '' not the `` communication means ''
+The district_court also determined that whether or not the structure of the claimed `` payment_verification means '' uses some of the same technology employed by the `` communication means '' the two means constitute distinct components of the claimed invention
+Specifically the court found that the `` communication means '' functioned to establish the communication_link for activating and programming the mobile_phone whereas the `` payment_verification means '' describes the process for updating the amount credited to the account
+Based on that reading of the specification the district_court rejected Telemac 's arguments that the `` communication means '' should be construed broadly to include structure for performing user initiated communications
+
+With respect to the claimed `` complex_billing_algorithm '' finding no clear meaning of this phrase evident from the claim itself the court turned to the written description to discern its meaning
+The court concluded that the complex_billing_algorithm is defined therein as a function that includes the means to store phone_rates for local long_distance international and roaming calls
+The district_court further determined that the algorithm includes means to identify the appropriate_rate_category and to selectively apply those rates to each call
+
+In its February 1999 order the district_court also determined that the Wittstein_patent disclosed each of the limitations present in claim 1 of the patent as construed as well as the limitations found in dependent claims 4 6 9 18 20-24 29_and_30
+Accordingly the court granted Topp 's motion for partial_summary_judgment of invalidity
+In the order denying Telemac 's request for leave to file a motion for reconsideration the district_court acknowledge that `` the Wittstein_patent does not expressly identify the four specific rate categories '' required by the `` complex_billing_algorithm ''
+The district_court explained that the disputed features are necessarily present in the disclosure of the Wittstein_patent
+
+On April_17,_1999 Topp filed a motion for summary_judgment of non-infringement in which it argued that the claimed `` complex_billing_algorithm '' and `` communication means '' were missing from the accused TRACFONE_system
+On July_1,_1999 the district_court granted Topp 's motion for summary_judgment on the issue of non-infringement
+The court found that because the TRACFONE_system as manufactured and sold blocks international_calls the accused device does not store international rates in its memory and does not deduct values from the credit_amount based on such rates
+Instead the court noted that international_calls can not be completed unless the customer first calls *1323 an outside international carrier
+Accordingly the court determined that the accused device lacked the `` complex_billing_algorithm '' limitation as construed
+The court further determined that because the accused device did not allow placement of international_calls it did not perform substantially the same function in substantially the same way as the claimed algorithm
+Thus the court concluded that the claims were not infringed literally or equivalently
+
+The court further found that the claimed `` communication means for selectively establishing a communications link '' was not present in the accused device
+According to the district_court the claims require communication means that automatically establish communications with the phone via an electronic_link for performing activation and programming
+In the TRACFONE_system however the programming and activation process is initiated manually by the user not automatically by the host_processor using an electronic_link
+The court determined that the only automatic transmission of data present in the TRACFONE_system relates to replenishment of the user 's credit_amount a function associated with the claimed `` payment_verification means ''
+The district_court also rejected Telemac 's argument that automatic and manual programming are equivalent
+The court determined that to reach such a finding it would have to in effect vitiate the host initiated automated communication requirements of the claims as construed
+On August 25 1999 the district_court entered final_judgment pursuant to Rule 54 ( b ) of Federal Rules of Civil Procedure summarily holding the patent invalid and not infringed
+Telemac appeals the judgment of the district_court
+

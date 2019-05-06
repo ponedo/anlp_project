@@ -1,0 +1,49 @@
+BIG_TOKEN__239_F.3d_1343__BIG_TOKEN United States Court of Appeals , Federal Circuit .	1.0297773226021196
+AMAZON.COM , INC. , Plaintiff-Appellee , v. BARNESANDNOBLE.COM , INC. , and Barnesandnoble.Com , LLC , Defendants-Appellants .	0.9724226565329339
+BIG_TOKEN__No._00-1109__BIG_TOKEN .	0.0
+| Feb. 14 , 2001 .	1.1553490767777126
+Synopsis Patentee brought action against competitor , alleging infringement of patent claiming a `` 1-Click ( r ) '' method and system for placing a purchase_order over the Internet .	4.683868163450844
+Patentee 's motion for preliminary_injunction was granted by the United_States_District_Court for the Western_District of Washington , Marsha J. Pechman , J. , BIG_TOKEN__73_F.Supp.2d_1228__BIG_TOKEN , and competitor appealed .	3.4484941622526537
+The Court of Appeals , Clevenger , Circuit_Judge , held that : ( 1 ) patentee demonstrated likely literal infringement of at least the four independent claims of the patent , but ( 2 ) competitor mounted a serious challenge , based on obviousness in light of on prior art , to the validity of the patent , precluding preliminary_injunction .	2.202428867306614
+Vacated and remanded .	1.0326804778287066
+Attorneys and Law Firms *1346 Lynn H. Pasahow , McCutchen , Doyle , Brown & Enersen , LLP , of Palo_Alto , CA , argued for plaintiff-appellee .	2.922150241526116
+With him on the brief were J. David Hadden , of Palo_Alto ; and Beth H. Parker , Christopher B. Hockett , and Thomas S. Hixson , of San_Francisco , from McCutchen , Doyle , Brown & Enersen , LLP .	2.574911670232775
+Of counsel was John R. Reese , McCutchen , Doyle , Brown & Enersen , LLP , of San_Francisco , CA .	3.3960825001107406
+Of counsel on the brief were David J. Burman , Brian G. Bodine , and Jerry A. Riedinger , Perkins Coie , LLP , of Seattle , WA .	1.9633118717323341
+Jonathan A. Marshall , Pennie & Edmonds LLP , of New_York , NY , argued for defendants-appellants .	1.8318045703743522
+With him on the brief were William G. Pecau , and Steven I. Wallach .	1.1826918233870993
+Of counsel on the brief were Michael N. Rosen , and Mark J. Sugarman , Robinson Silverman Pearce Aronsohn & Berman LLP , of New_York , NY .	2.010510990162964
+Of counsel was Stanton T. Lawrence III , of Pennie & Edmonds , of Washington , DC .	1.9252060437713432
+Before CLEVENGER , GAJARSA and LINN , Circuit_Judges .	0.9055269316402568
+Opinion CLEVENGER , Circuit_Judge .	0.8618399373528428
+This is a patent infringement suit brought by Amazon.com , Inc. ( `` Amazon '' ) against barnesandnoble.com , inc. , and barnesandnoble.com llc ( together , `` BN '' ) .	31.18618500915981
+Amazon moved for a preliminary_injunction to prohibit BN 's use of a feature of its web_site called `` Express Lane . ''	51.51627077526951
+BN resisted *1347 the preliminary_injunction on several grounds , including that its Express Lane feature did not infringe the claims of Amazon 's patent , and that substantial questions exist as to the validity of Amazon 's patent .	33.2936281863863
+The United_States_District_Court for the Western_District of Washington rejected BN 's contentions .	46.248571860370255
+Instead , the district_court held that Amazon had presented a case showing a likelihood of infringement by BN , and that BN 's challenges to the validity of the patent in suit lacked sufficient merit to avoid awarding extraordinary preliminary injunctive relief to Amazon .	37.47897422286644
+The district_court granted Amazon 's motion , and now BN brings its timely appeal from the order entering the preliminary_injunction .	42.751590413641814
+We have jurisdiction to review the district_court 's order under 28 U.S.C.§ 1292 ( c ) ( 1 ) ( 1994 ) .	1.63317694479073
+After careful review of the district_court 's opinion , the record , and the arguments advanced by the parties , we conclude that BN has mounted a substantial challenge to the validity of the patent in suit .	15.99006331234773
+Because Amazon is not entitled to preliminary injunctive relief under these circumstances , we vacate the order of the district_court that set the preliminary_injunction in place and remand the case for further proceedings.\n \n\n\nI This case involves United States Patent BIG_TOKEN__No._5__BIG_TOKEN ,960,411 ( `` the BIG_TOKEN__′411_patent__BIG_TOKEN `` ) , which issued on September 28 , 1999 , and is assigned to Amazon .	16.211468698349876
+On October 21 , 1999 , Amazon brought suit against BN alleging infringement of the patent and seeking a preliminary_injunction .	41.96171289592119
+Amazon 's patent is directed to a method and system for `` single_action '' ordering of items in a client/server_environment such as the Internet .	38.940219403058364
+In the context of the BIG_TOKEN__′411_patent__BIG_TOKEN , a client/server_environment describes the relationship between two computer systems in which a program executing on a client_computer_system makes a service request from another program executing on a server_computer_system , which fulfills the request .	10.844897964575328
+See BIG_TOKEN__col._1 , _ll._10-31__BIG_TOKEN ; BIG_TOKEN__col._3 , _ll._31-33__BIG_TOKEN ; BIG_TOKEN__col._5 , _l._56__BIG_TOKEN to BIG_TOKEN__col._6 , _l._21__BIG_TOKEN ; BIG_TOKEN__Fig._2__BIG_TOKEN .	0.40006657235728915
+Typically , the client_computer_system and the server_computer_system are located remotely from each other and communicate via a data communication network .	4.0798676802782845
+The BIG_TOKEN__′411_patent__BIG_TOKEN describes a method and system in which a consumer can complete a purchase_order for an item via an electronic network using only a `` single_action , '' such as the click of a computer mouse button on the client_computer_system .	33.00548175085275
+Amazon developed the patent to cope with what it considered to be frustrations presented by what is known as the `` shopping_cart_model '' purchase system for electronic commerce purchasing events .	18.878193616077326
+In previous incarnations of the shopping_cart_model , a purchaser using a client_computer_system ( such as a personal computer executing a web browser program ) could select an item from an electronic catalog , typically by clicking on an `` Add to Shopping Cart '' icon , thereby placing the item in the `` virtual '' shopping_cart .	27.097441492751376
+Other items from the catalog could be added to the shopping_cart in the same manner .	7.745212885276937
+When the shopper completed the selecting process , the electronic commercial event would move to the check-out counter , so to speak .	2.5971169998318486
+Then , information regarding the purchaser 's identity , billing and shipping addresses , and credit payment method would be inserted into the transactional information base by the soon-to-be purchaser .	17.920723877878675
+Finally , the purchaser would `` click '' on a button displayed on the screen or somehow issue a command to execute the completed order , and the server_computer_system would verify and store the information concerning the transaction .	14.659514943647007
+As is evident from the foregoing , an electronic commerce purchaser using the shopping_cart_model is required to perform *1348 several actions before achieving the ultimate goal of the placed_order .	13.463130657574837
+The BIG_TOKEN__′411_patent__BIG_TOKEN sought to reduce the number of actions required from a consumer to effect a placed_order .	14.70776497575536
+In the words of the written description of the BIG_TOKEN__′411_patent__BIG_TOKEN : The present_invention provides a method and system for single-action ordering of items in a client/server_environment .	18.09618389017308
+The single-action ordering system of the present_invention reduces the number of purchaser_interactions needed to place an order and reduces the amount of sensitive information that is transmitted between a client system and a server system .	10.646948109995094
+BIG_TOKEN__Col._3 , _ll._31-37__BIG_TOKEN .	0.0
+How , one may ask , is the number of purchaser_interactions reduced ?	2.9548496202636447
+The answer is that the number of purchaser_interactions is reduced because the purchaser has previously visited the seller 's web_site and has previously entered into the database of the seller all of the required billing and shipping information that is needed to effect a sales transaction .	9.018668874796944
+Thereafter , when the purchaser visits the seller 's web_site and wishes to purchase a product from that site , the patent specifies that only a single_action is necessary to place the order for the item .	30.931996993703805
+In the words of the written description , `` once the description of an item is displayed , the purchaser need only take a single_action to place the order to purchase that item . ''	47.84520572835726
+BIG_TOKEN__Col._3 , _ll._64-66__BIG_TOKEN .	0.0

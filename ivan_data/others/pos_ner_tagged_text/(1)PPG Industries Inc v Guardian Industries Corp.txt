@@ -1,0 +1,99 @@
+('75_F.3d_1558', 'CD', 'CARDINAL', 'B')
+75_F.3d_1558
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('PPG', 'NNP', 'ORG', 'B') ('INDUSTRIES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('GUARDIAN', 'NNP', 'ORG', 'B') ('INDUSTRIES', 'NNP', 'ORG', 'I') ('CORPORATION', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'JJ', '', 'O')
+PPG INDUSTRIES INC. GUARDIAN INDUSTRIES CORPORATION
+__NEW_SENT__
+('No._95-1222', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Feb._6,_1996', 'RB', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('automotive_solar_control_glass', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Pennsylvania', 'NNP', 'GPE', 'B') ('Gary', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Lancaster', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('and', 'CC', '', 'O') ('competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Pennsylvania Gary L. Lancaster J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bryson', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('automotive_solar_control_glass', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('filtered', 'VBD', '', 'O') ('ultraviolet', 'JJ', '', 'O') ('infrared', 'JJ', '', 'O') ('radiation', 'NN', '', 'O') ('could', 'MD', '', 'O') ('infringe', 'VB', '', 'O') ('patented', 'VBN', '', 'O') ('glass', 'NN', '', 'O') ('even', 'RB', '', 'O') ('if', 'IN', '', 'O') ('inventor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('flawed', 'JJ', '', 'O') ('testing', 'NN', '', 'O') ('equipment', 'NN', '', 'O') ('led', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('belief', 'NN', '', 'O') ('that', 'IN', '', 'O') ('glass', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('glass', 'NN', '', 'O') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('satisfy', 'VB', '', 'O') ('patent', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('31', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('ultraviolet', 'NN', '', 'O') ('transmission', 'NN', '', 'O') ('requirement', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('inventors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('mistaken', 'JJ', '', 'O') ('belief', 'NN', '', 'O') ('at', 'IN', '', 'O') ('time', 'NN', '', 'O') ('they', 'PRP', '', 'O') ('applied', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('solar_control_glass', 'NNP', '', 'O') ('that', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('glass', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('meet', 'VB', '', 'O') ('transmittance', 'NN', '', 'O') ('limitations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('patent_claims', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('establish', 'VB', '', 'O') ('that', 'IN', '', 'O') ('patent_claims', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('accurately', 'RB', '', 'O') ('and', 'CC', '', 'O') ('distinctly', 'RB', '', 'O') ('set', 'VB', '', 'O') ('out', 'RP', '', 'O') ('what', 'WP', '', 'O') ('inventors', 'NNS', '', 'O') ('regarded', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('invention', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('satisfied', 'JJ', '', 'O') ('statutory', 'JJ', '', 'O') ('enablement', 'NN', '', 'O') ('requirement', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('sulfur', 'NN', '', 'O') ('content', 'NN', '', 'O') ('in', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('automotive_solar_control_glass', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('required', 'VBN', '', 'O') ('contained', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('establish', 'VB', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('glass', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringing', 'VBG', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('5', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('grounds', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('anticipation', 'NN', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('6', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'VBZ', '', 'O') ('showing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('likely', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('prevail', 'VB', '', 'O') ('on', 'IN', '', 'O') ('issues', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('infringement', 'NN', '', 'O') ('entitled', 'VBD', '', 'O') ('it', 'PRP', '', 'O') ('to', 'IN', '', 'O') ('presumption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('irreparable_harm', 'NN', '', 'O') ('necessary', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('preliminary_injunctive_relief', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('7', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('balance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hardships', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('public_interest', 'JJ', '', 'O') ('favored', 'VBD', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O')
+The Court of Appeals Bryson Circuit_Judge 1 31 % 2 3 4 5 6 7
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('*1560', 'NFP', '', 'O') ('Appealed', 'VBN', '', 'O') ('from', 'IN', '', 'O') (':', ':', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('Western_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Pennsylvania', 'NNP', 'GPE', 'B') ('Judge', 'NNP', '', 'O') ('Lancaster', 'NNP', '', 'O')
+Pennsylvania
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Arland', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Stein', 'NNP', 'PERSON', 'I') ('Reed', 'NNP', 'PERSON', 'I') ('Smith', 'NNP', 'PERSON', 'I') ('Shaw', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('McClay', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Pittsburgh', 'NNP', 'GPE', 'B') ('Pennsylvania', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Arland T. Stein Reed Smith Shaw & McClay Pittsburgh
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Stanley', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Ference', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I')
+Stanley D. Ference III
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Cynthia', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Kernick', 'NNP', 'PERSON', 'I')
+Cynthia E. Kernick
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('Levin', 'NNP', 'PERSON', 'I') ('PPG', 'NNP', 'ORG', 'B') ('Industries', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Pittsburgh', 'NNP', 'GPE', 'B') ('Pennsylvania', 'NNP', 'GPE', 'B')
+Mark Levin PPG Industries Inc. Pittsburgh Pennsylvania
+__NEW_SENT__
+('Daniel', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Vittum', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', '', 'O') ('Kirkland', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Ellis', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Illinois', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Daniel W. Vittum Jr. Kirkland & Ellis Chicago Illinois
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Mills', 'NNP', 'PERSON', 'I')
+Jeffrey D. Mills
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', '', 'O') ('SCHALL', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+BRYSON
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('BRYSON', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('concerns', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('between', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('major', 'JJ', '', 'O') ('manufacturers', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('automotive', 'JJ', '', 'O') ('glass', 'NN', '', 'O') (';', ':', '', 'O') ('the', 'DT', '', 'O') ('dispute', 'NN', '', 'O') ('revolves', 'VBZ', '', 'O') ('around', 'IN', '', 'O') ('glass', 'NN', '', 'O') ('compositions', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('solar_control_glass', 'NNP', '', 'O') ("''", "''", '', 'O') ('which', 'WDT', '', 'O') ('have', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('highly', 'RB', '', 'O') ('desirable', 'JJ', '', 'O') ('characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('filtering', 'VBG', '', 'O') ('out', 'RP', '', 'O') ('most', 'JJS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sun', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ultraviolet', 'NN', '', 'O') ('and', 'CC', '', 'O') ('infrared', 'JJ', '', 'O') ('radiation', 'NN', '', 'O') ('while', 'IN', '', 'O') ('transmitting', 'VBG', '', 'O') ('most', 'JJS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('light', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('visible', 'JJ', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('spectrum', 'NN', '', 'O')
+two
+__NEW_SENT__
+('Appellee', 'NNP', 'ORG', 'B') ('PPG', 'NNP', 'ORG', 'I') ('Industries', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('which', 'WDT', '', 'O') ('holds', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('solar_control_glass', 'NNP', '', 'O') ('sued', 'VBN', '', 'O') ('appellant', 'JJ', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ('Industries', 'NNPS', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('obtained', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'GPE', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Pennsylvania', 'NNP', 'GPE', 'B')
+Appellee PPG Industries Inc. Guardian Industries Corporation United_States_District_Court Pennsylvania
+__NEW_SENT__
+('The', 'DT', '', 'O') ('injunction', 'NN', '', 'O') ('prohibits', 'VBZ', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ('from', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('using', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('selling', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('composition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('solar_control_glass', 'NNP', '', 'O')
+Guardian
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('preliminary_injunctive_relief', 'NNP', '', 'O') ('to', 'IN', '', 'O') ('PPG', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('therefore', 'RB', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('31', 'CD', 'DATE', 'I') ('1993', 'CD', 'DATE', 'I') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('issued', 'VBD', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('No._5240,886', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'886_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('PPG', 'NNP', '', 'O')
+August 31 1993 the Patent and Trademark Office U.S. Patent No._5240,886
+__NEW_SENT__
+('Shortly', 'RB', '', 'O') ('after', 'IN', '', 'O') ('obtaining', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('PPG', 'NNP', '', 'O') ('advised', 'VBD', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('believed', 'VBD', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('solar_control_glass', 'NNP', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Solar', 'NNP', 'WORK_OF_ART', 'I') ('Management', 'NNP', 'WORK_OF_ART', 'I') ('Glass', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('SMG', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('infringed', 'VBD', '', 'O') ('PPG', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('rights', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+Guardian Guardian `` Solar Management Glass '' SMG
+__NEW_SENT__
+('Litigation', 'NN', '', 'O') ('followed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('five-day', 'NN', '', 'O') ('hearing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBN', '', 'O') ('PPG', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('PPG', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('established', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('strong', 'JJ', '', 'O') ('showing', 'NN', '', 'O') ('that', 'IN', '', 'O') ('SMG', 'NNP', 'ORG', 'B') ('infringed', 'VBD', '', 'O') ('PPG', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('rights', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+PPG SMG PPG
+__NEW_SENT__
+('In', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('PPG', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('showing', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('PPG', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('presumption', 'NN', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('would', 'MD', '', 'O') ('suffer', 'VB', '', 'O') ('irreparable_harm', 'NN', '', 'O') ('from', 'IN', '', 'O') ('Guardian', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('continued', 'JJ', '', 'O') ('infringement', 'NN', '', 'O')
+PPG PPG Guardian
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('balance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hardships', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('public_interest', 'NN', '', 'O') ('weighed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('PPG', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('preliminary_injunctive_relief', 'NN', '', 'O')
+
+__NEW_SENT__
+('Guardian', 'NNP', 'ORG', 'B') ('brought', 'VBD', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('contesting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('ruling', 'NN', '', 'O') ('on', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('points', 'NNS', '', 'O')
+Guardian
+__NEW_SENT__

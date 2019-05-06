@@ -1,0 +1,183 @@
+('254_F.3d_1031', 'LS', '', 'O')
+
+__NEW_SENT__
+('United_States', 'NNPS', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United_States Court of Appeals Federal Circuit
+__NEW_SENT__
+('APOTEX', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('MERCK', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('CO.', 'NNP', '', 'O') ('INC.', 'NN', '', 'O') ('Defendant-Appellee', 'NN', '', 'O')
+APOTEX USA INC. MERCK &
+__NEW_SENT__
+('No._00-1272', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') ('June_8,_2001', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Corrected', 'VBN', '', 'O') ('June_26,_2001', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Aug._2,_2001', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('competitor', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('patents', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('solid', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enalapril_sodium', 'NN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('in', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('high_blood_pressure', 'ADD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Illinois', 'NNP', '', 'O') ('2000_WL_97582', 'NNP', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Kennelly', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('grounds', 'NNS', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the Northern_District of Matthew F. Kennelly J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('statute', 'NN', '', 'O') ('under', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('if', 'IN', '', 'O') ('invention', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('previously', 'RB', '', 'O') ('made', 'VBN', '', 'O') ('``', '``', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('country', 'NN', '', 'O') ('by', 'IN', '', 'O') ('another', 'DT', '', 'O') ('inventor', 'NN', '', 'O') ('who', 'WP', '', 'O') ('had', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abandoned', 'VBN', '', 'O') ('suppressed', 'VBN', '', 'O') ('or', 'CC', '', 'O') ('concealed', 'VBN', '', 'O') ('it', 'PRP', '', 'O') ("''", "''", '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('limit', 'VB', '', 'O') ('proof', 'NN', '', 'O') ('negating', 'VBG', '', 'O') ('suppression', 'NN', '', 'O') ('or', 'CC', '', 'O') ('concealment', 'NN', '', 'O') ('to', 'IN', '', 'O') ('activities', 'NNS', '', 'O') ('occurring', 'VBG', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States', 'NNS', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ('in', 'IN', '', 'O') ('asserting', 'VBG', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('ground', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prior_invention', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('rebut', 'VB', '', 'O') ('any', 'DT', '', 'O') ('alleged', 'JJ', '', 'O') ('suppression', 'NN', '', 'O') ('or', 'CC', '', 'O') ('concealment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('contrary', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('successfully', 'RB', '', 'O') ('discharged', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('burden', 'NN', '', 'O') ('of', 'IN', '', 'O') ('going', 'VBG', '', 'O') ('forward', 'RB', '', 'O') ('with', 'IN', '', 'O') ('evidence', 'NN', '', 'O') ('creating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('genuine', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('material', 'JJ', '', 'O') ('fact', 'NN', '', 'O') ('of', 'IN', '', 'O') ('suppression', 'NN', '', 'O') ('or', 'CC', '', 'O') ('concealment', 'NN', '', 'O') (';', ':', '', 'O') ('but', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('inventor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('manufacturing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('patented', 'JJ', '', 'O') ('product', 'NN', '', 'O') ('succeeded', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('rebutting', 'NN', '', 'O') ('by', 'IN', '', 'O') ('clear', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('convincing', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('inference', 'NN', '', 'O') ('of', 'IN', '', 'O') ('suppression', 'NN', '', 'O') ('or', 'CC', '', 'O') ('concealment', 'NN', '', 'O') ('created', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('five-year', 'JJ', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('inactivity', 'NN', '', 'O') ('in', 'IN', '', 'O') ('disclosing', 'VBG', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('established', 'VBN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('prior_invention', 'NN', '', 'O')
+The Court of Appeals Lourie Circuit_Judge 1 2 3 4 first
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('2001_WL_630026', 'CD', '', 'O') ('superseded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1033', 'NNP', '', 'O') ('Alan', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Bernstein', 'NNP', 'PERSON', 'I') ('Caesar', 'NNP', '', 'O') ('Rivise', 'NNP', '', 'O') ('Bernstein', 'NNP', '', 'O') ('Cohen', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Pokotilow', 'NNP', 'ORG', 'I') ('LTD.', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Philadelphia', 'NNP', 'GPE', 'B') ('PA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Alan H. Bernstein Cohen & Pokotilow LTD. Philadelphia
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Silver', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('Joseph', 'NNP', 'PERSON', 'I') ('Castillo', 'NNP', 'PERSON', 'I')
+Robert S. Silver William Joseph Castillo
+__NEW_SENT__
+('Nicolas', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Barzoukas', 'NNP', 'PERSON', 'I') ('Howrey_Simon_Arnold', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('White', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Nicolas G. Barzoukas Howrey_Simon_Arnold & White LLP Houston
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Lynch', 'NNP', 'PERSON', 'I') ('Gerard', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Devlin', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Peter', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Chassman', 'NNP', 'PERSON', 'I') ('Howrey_Simon_Arnold', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('White', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Paul', 'NNP', 'ORG', 'B') ('D.', 'NNP', 'ORG', 'I') ('Matukaitis', 'NNP', 'ORG', 'I') ('Merck', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Whitehouse', 'NNP', '', 'O') ('Station', 'NNP', '', 'O') ('New_Jersey', 'NNP', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Murray', 'NNP', 'PERSON', 'I') ('Merck', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Company', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Rahway', 'NNP', '', 'O') ('New_Jersey', 'NNP', '', 'O')
+John F. Lynch Gerard M. Devlin Jr. Peter J. Chassman Howrey_Simon_Arnold & White LLP Paul D. Matukaitis Merck & Company Edward W. Murray Merck & Company
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('CLEVENGER', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('LINN', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+LOURIE CLEVENGER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Apotex', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('appeals', 'VBZ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+Apotex USA Inc. United_States_District_Court Northern_District Illinois Merck & U.S
+__NEW_SENT__
+('Patents', 'NNS', '', 'O') ('5,573', 'CD', 'CARDINAL', 'B') ('780_and_5690,962', 'CD', 'CARDINAL', 'I') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+5,573 780_and_5690,962 35
+__NEW_SENT__
+('Apotex_Corp.', 'UH', '', 'O') ('v.', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('No._96-_C-7375', 'NNP', '', 'O') ('2000_WL_97582', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Ill', '.', '', 'O')
+Merck &
+__NEW_SENT__
+('Jan.25', 'NNP', 'PERSON', 'B') ('2000', 'CD', 'PERSON', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Apotex', 'NNP', 'WORK_OF_ART', 'B') ('I', 'PRP', 'WORK_OF_ART', 'I') ('``', '``', 'WORK_OF_ART', 'I') (')', '-RRB-', '', 'O')
+Jan.25 2000 Apotex I ``
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('err', 'VB', '', 'O') ('in', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬780', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬', 'NNP', '', 'O') ('962', 'CD', '', 'O') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O')
+¡¬780 35
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Apotex', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('¡¬780', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('¡¬962_patent', 'NNP', 'ORG', 'I') ('s', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('relate', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('stable', 'JJ', '', 'O') ('solid', 'JJ', '', 'O') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enalapril_sodium', 'NN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('high_blood_pressure', 'ADD', '', 'O')
+Apotex the ¡¬780 and ¡¬962_patent
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('I', 'PRP', '', 'O') ('at', 'IN', '', 'O') ('*1', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', 'PERSON', 'I') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('780', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('reads', 'VBZ', '', 'O') ('as', 'IN', '', 'O') ('follows', 'VBZ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 of ¡¬ 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manufacture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutical', 'JJ', '', 'O') ('solid', 'JJ', '', 'O') ('composition', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('enalapril_sodium', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('process', 'NN', '', 'O') ('comprises', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('steps', 'NNS', '', 'O') ('of', 'IN', '', 'O') (':', ':', '', 'O') ('i', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('mixing', 'VBG', '', 'O') ('enalapril_maleate', 'NN', '', 'O') ('with', 'IN', '', 'O') ('an', 'DT', '', 'O') ('alkaline_sodium_compound', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('other', 'JJ', '', 'O') ('excipient', 'NN', '', 'O') ('adding', 'VBG', '', 'O') ('water', 'NN', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('moisten', 'VB', '', 'O') ('and', 'CC', '', 'O') ('mixing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('a', 'DT', '', 'O') ('wet_mass', 'NNP', '', 'O') ('or', 'CC', '', 'O')
+at least one
+__NEW_SENT__
+('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('mixing', 'VBG', '', 'O') ('enalapril_maleate', 'JJ', '', 'O') ('with', 'IN', '', 'O') ('at', 'RB', 'CARDINAL', 'B') ('least', 'RBS', 'CARDINAL', 'I') ('one', 'CD', 'CARDINAL', 'I') ('excipient', 'NN', '', 'O') ('other', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('an', 'DT', '', 'O') ('alkaline_sodium_compound', 'VBN', '', 'O') ('adding', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('solution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('alkaline_sodium_compound', 'NNP', '', 'O') ('in', 'IN', '', 'O') ('water', 'NN', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('moisten', 'VB', '', 'O') ('and', 'CC', '', 'O') ('mixing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('a', 'DT', '', 'O') ('wet_mass', 'NNP', '', 'O') (';', ':', '', 'O') ('thereby', 'RB', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('a', 'DT', '', 'O') ('reaction', 'NN', '', 'O') ('without', 'IN', '', 'O') ('converting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('enalapril_maleate', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('clear', 'JJ', '', 'O') ('solution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enalapril_sodium', 'NN', '', 'O') ('and', 'CC', '', 'O') ('maleic', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sodium', 'NN', '', 'O') ('salt', 'NN', '', 'O') ('in', 'IN', '', 'O') ('water', 'NN', '', 'O') ('ii', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('drying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('wet_mass', 'NNP', '', 'O') ('and', 'CC', '', 'O')
+at least one
+__NEW_SENT__
+('*1034', 'NFP', '', 'O') ('iii', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('further', 'RB', '', 'O') ('processing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('dried', 'VBN', '', 'O') ('material', 'NN', '', 'O') ('into', 'IN', '', 'O') ('tablets', 'NNS', '', 'O')
+
+__NEW_SENT__
+("'780_patent", 'NN', '', 'O') ('col._5,_l._34', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('col._6,_l._15', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬962_patent', 'NNP', 'ORG', 'B') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('continuation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('led', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬780_patent', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('identical', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('those', 'DT', '', 'O') ('found', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬780_patent', 'NNP', 'ORG', 'B') ('except', 'IN', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('restricted', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('tablet', 'VB', '', 'O') ('form', 'NN', '', 'O') ('but', 'CC', '', 'O') ('rather', 'RB', '', 'O') ('encompass', 'VB', '', 'O') ('any', 'DT', '', 'O') ('solid', 'JJ', '', 'O') ('pharmaceutical', 'JJ', '', 'O') ('dosage', 'NN', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('enalapril_sodium', 'NN', '', 'O')
+¡¬962_patent ¡¬780_patent ¡¬780_patent
+__NEW_SENT__
+('¡¬962_patent', 'JJ', '', 'O') ('col._5,_l._22', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('col._6,_l._11', 'CD', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('distinction', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('material', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('resolution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+
+__NEW_SENT__
+('Merck', 'NNP', 'ORG', 'B') ('manufactures', 'VBZ', '', 'O') ('enalapril_sodium', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trade', 'NN', '', 'O') ('name', 'NN', '', 'O') ('VASOTECTHE_R', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('has', 'VBZ', '', 'O') ('been', 'VBN', '', 'O') ('continuously', 'RB', '', 'O') ('manufacturing', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('commercially', 'RB', '', 'O') ('selling', 'VBG', '', 'O') ('VASOTECTHE_R', 'NN', '', 'O') ('tablets', 'NNS', '', 'O') ('since', 'IN', '', 'O') ('1983', 'CD', 'DATE', 'B')
+Merck VASOTECTHE_R 1983
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('I', 'PRP', '', 'O') ('at', 'IN', '', 'O') ('*7', 'NN', '', 'O')
+
+__NEW_SENT__
+('Merck', 'NNP', 'ORG', 'B') ('owns', 'VBZ', '', 'O') ('both', 'DT', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('patents', 'NNS', '', 'O') ('covering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('enalapril_sodium_compound', 'NNP', '', 'O') ('but', 'CC', '', 'O') ('does', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('own', 'VB', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manufacturing_VASOTECTHE_R', 'NNS', '', 'O')
+Merck U.S. Canadian
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*1', 'VBZ', '', 'O')
+Id.at
+__NEW_SENT__
+('However', 'RB', '', 'O') ('in', 'IN', '', 'O') ('1992', 'CD', 'DATE', 'B') ('Merck', 'NNP', 'ORG', 'B') ('disclosed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('ingredients', 'NNS', '', 'O') ('utilized', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('VASOTECTHE_R', 'NN', '', 'O') ('manufacturing', 'NN', '', 'O') ('process', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('product', 'NN', '', 'O') ('monograph', 'NN', '', 'O') ('and', 'CC', '', 'O') ('more', 'JJR', 'CARDINAL', 'B') ('than', 'IN', 'CARDINAL', 'I') ('30,000', 'CD', 'CARDINAL', 'I') ('copies', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('monograph', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('distributed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('1993', 'CD', 'DATE', 'B') ('alone', 'RB', '', 'O')
+1992 Merck Canadian more than 30,000 1993
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*7', 'NN', '', 'O')
+Id.at
+__NEW_SENT__
+('Merck', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('disclosed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('ingredients', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('manufacturing', 'NN', '', 'O') ('RENITECTHE_R', 'NN', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('trademark', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('enalapril_sodium', 'JJ', '', 'O') ('product', 'NN', '', 'O') ('sold', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('foreign', 'JJ', '', 'O') ('countries', 'NNS', '', 'O') (')', '-RRB-', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1988', 'CD', 'DATE', 'B') ('edition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Dictionnaire', 'NNP', 'ORG', 'I') ('Vidal', 'NNP', 'ORG', 'I') ('a', 'DT', '', 'O') ('French', 'JJ', 'NORP', 'B') ('pharmaceutical', 'NN', '', 'O') ('dictionary', 'NN', '', 'O')
+Merck RENITECTHE_R 1988 the Dictionnaire Vidal French
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1991', 'CD', 'DATE', 'B') ('Merck', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('its', 'PRP$', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('subsidiary', 'NN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('Frosst', 'NNP', 'ORG', 'I') ('Canada', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('sued', 'VBD', '', 'O') ('Apotex', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('affiliate', 'NN', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('Canada', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('patent', 'NN', '', 'O') ('covering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('enalapril_sodium_compound', 'NN', '', 'O')
+1991 Merck Canadian Merck Frosst Canada Inc. Apotex Canadian Apotex Canada Merck Canadian
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*1', 'VBZ', '', 'O')
+Id.at
+__NEW_SENT__
+('During', 'IN', '', 'O') ('the', 'DT', '', 'O') ('1994', 'CD', 'DATE', 'B') ('trial', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('Canadian', 'JJ', 'NORP', 'B') ('trial', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('Brian', 'NNP', 'PERSON', 'B') ('McLeod', 'NNP', 'PERSON', 'I') ('Merck', 'NNP', 'PERSON', 'I') ("'s", 'POS', 'PERSON', 'I') ('then-vice', 'JJ', '', 'O') ('president', 'NN', '', 'O') ('of', 'IN', '', 'O') ('marketing', 'NN', '', 'O') ('performed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('step-by-step', 'NNP', 'PRODUCT', 'B') ('narration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('videotape', 'NN', '', 'O') ('demonstrating', 'VBG', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manufacturing_VASOTECTHE_R', 'NNS', '', 'O')
+1994 Canadian Brian McLeod Merck 's step-by-step Merck
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Within', 'IN', '', 'O') ('days', 'NNS', 'DATE', 'B') ('of', 'IN', '', 'O') ('hearing', 'VBG', '', 'O') ('this', 'DT', '', 'O') ('testimony', 'NN', '', 'O') ('Dr.', 'NNP', '', 'O') ('Bernard', 'NNP', 'PERSON', 'B') ('Sherman', 'NNP', 'PERSON', 'I') ('an', 'DT', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('official', 'NN', '', 'O') ('allegedly', 'RB', '', 'O') ('conceived', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patented', 'JJ', '', 'O') ('process', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O')
+days Bernard Sherman Apotex
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Apotex', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('present', 'JJ', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manufacturing_VASOTECTHE_R', 'NNS', '', 'O') ('infringes', 'VBZ', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('both', 'CC', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('780', 'CD', '', 'O') ('and', 'CC', '', 'O') ('¡¬962_patent', 'NNP', '', 'O') ('s.', 'NN', '', 'O') ('Id', 'NNP', '', 'O')
+Apotex Merck Merck
+__NEW_SENT__
+('Both', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('cross-motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('cross-moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Merck 102
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('but', 'CC', '', 'O') ('also', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('cross-motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('invented', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('process', 'NN', '', 'O') ('claimed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('¡¬780', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('¡¬962_patent', 'NNP', 'ORG', 'I') ('s', 'VBZ', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('United_States', 'NNS', 'ORG', 'I') ('before', 'IN', 'ORG', 'I') ('Apotex', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abandon', 'VB', '', 'O') ('suppress', 'NN', '', 'O') ('or', 'CC', '', 'O') ('conceal', 'NN', '', 'O') ('that', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('g', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Apotex Merck Merck the ¡¬780 and ¡¬962_patent the United_States before Apotex 102
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('*9', 'FW', '', 'O')
+Id.at
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('thereafter', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('asking', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reconsider', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Apotex_Corp.', 'UH', '', 'O') ('v.', 'IN', '', 'O') ('Merck', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('No._96-_C-7375', 'NNP', '', 'O') ('2000_WL_656670', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('N.D.Ill', '.', '', 'O')
+Merck & 2000_WL_656670
+__NEW_SENT__
+('Mar.17', 'NNP', 'PERSON', 'B') ('2000', 'CD', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Mar.17 2000
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1994', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+28 1 1994
+__NEW_SENT__

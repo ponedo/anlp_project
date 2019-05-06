@@ -1,0 +1,141 @@
+('480_F.3d_1129', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('eSPEED', 'VB', '', 'O') ('INC.', 'CD', '', 'O') ('Cantor_Fitzgerald', 'NNP', '', 'O') ('L.P.', 'NNP', '', 'O') ('CFPH', 'NNP', '', 'O') ('L.L.C.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('eSpeed_Government_Securities', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Plaintiffs-Appellants', 'NNPS', '', 'O') ('v.', 'IN', '', 'O') ('BROKERTEC', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('L.L.C.', 'NNP', 'PERSON', 'B') ('Garban', 'NNP', 'PERSON', 'I') ('L.L.C.', 'NNP', 'ORG', 'B') ('OM', 'NNP', 'ORG', 'I') ('Technology', 'NNP', 'ORG', 'I') ('US', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('OM', 'NNP', 'ORG', 'B') ('Technology', 'NNP', 'ORG', 'I') ('AB', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'NNP', 'ORG', 'I')
+BROKERTEC USA L.L.C. Garban L.L.C. OM Technology US Inc. OM Technology AB Defendants-Appellees
+__NEW_SENT__
+('No._2006-1385', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('March_20,_2007', 'NNP', 'PERSON', 'B')
+March_20,_2007
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('May_23,_2007', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('electronic', 'JJ', '', 'O') ('trading', 'NN', '', 'O') ('platform', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('trading', 'NN', '', 'O') ('government', 'NN', '', 'O') ('securities', 'NNS', '', 'O') ('sued', 'VBD', '', 'O') ('competitor', 'NN', '', 'O') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('counterclaimed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'DT', '', 'O') ('suit', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('barred', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('laches', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('Kent', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Jordan', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'B') ('417_F.Supp.2d_580', 'NNS', 'PERSON', 'I') ('found', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('final_judgment', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+The United States District Court the District of Delaware Kent A. Jordan J. 417_F.Supp.2d_580
+__NEW_SENT__
+('Patent', 'NN', '', 'O') ('owner', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Moore', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Moore Circuit_Judge
+__NEW_SENT__
+('false', 'JJ', '', 'O') ('statements', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('declarations', 'NNS', '', 'O') ('submitted', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('to', 'TO', '', 'O') ('disclose', 'VB', '', 'O') ('prior_art', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('attempt', 'VB', '', 'O') ('to', 'TO', '', 'O') ('cure', 'VB', '', 'O') ('the', 'DT', '', 'O') ('earlier', 'JJR', '', 'O') ('non-disclosure', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('prior_art', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('material', 'NN', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('finding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('declarations', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('submitted', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+the Patent and Trademark Office
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1131', 'UH', '', 'O') ('Gary_A._Rosen', 'NNP', '', 'O') ('Law', 'NNP', '', 'O') ('Offices', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Gary_A._Rosen', 'NNP', '', 'O') ('P.C.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Philadelphia', 'NNP', 'GPE', 'B') ('PA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+Philadelphia
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Jack', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Blumenfeld', 'NNP', 'PERSON', 'I') ('Morris', 'NNP', 'PERSON', 'I') ('Nichols', 'NNP', '', 'O') ('Arsht', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Tunnell', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Wilmington', 'NNP', 'ORG', 'B') ('DE', 'NNP', 'ORG', 'I')
+Jack B. Blumenfeld Morris Wilmington DE
+__NEW_SENT__
+('J.', 'NNP', 'PERSON', 'B') ('Michael', 'NNP', 'PERSON', 'I') ('Jakes', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', 'PERSON', 'I') ('Farabow', 'NNP', 'PERSON', 'I') ('Garrett', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Dunner', 'NNP', 'PERSON', 'I') ('L.L.P.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'ORG', 'B') ('DC', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+J. Michael Jakes Finnegan Henderson Farabow Garrett & Dunner L.L.P. Washington DC
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Barney', 'NNP', 'PERSON', 'I')
+James R. Barney
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('DYK', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('MOORE', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+LINN DYK MOORE
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MOORE', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Plaintiffs-appellants', 'NNP', '', 'O') ('eSpeed', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Cantor_Fitzgerald', 'NN', '', 'O') ('L.P.', 'NNP', '', 'O') ('CFPH', 'NNP', '', 'O') ('L.L.C', 'NNP', '', 'O')
+
+__NEW_SENT__
+('and', 'CC', '', 'O') ('eSpeed_Government_Securities', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('Cantor', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('final_judgment', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('20-23', 'CD', '', 'O') ('of', 'IN', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('No._6560,580', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('invalid', 'JJ', '', 'O') ('declaring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('unenforceable', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('entering', 'VBG', '', 'O') ('final_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendants', 'NNS', '', 'O')
+eSpeed_Government_Securities Inc. Cantor United States Patent No._6560,580
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('need', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('decide', 'VB', '', 'O') ('the', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('raised', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Cantor', 'NNP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'NN', '', 'O')
+
+__NEW_SENT__
+('Technological', 'JJ', '', 'O') ('Background', 'NNP', '', 'O')
+
+__NEW_SENT__
+('1', 'LS', 'CARDINAL', 'B')
+1
+__NEW_SENT__
+('Methods', 'NNS', '', 'O') ('involving', 'VBG', '', 'O') ('``', '``', '', 'O') ('open_outcry', 'JJ', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('trade_capture', 'NN', '', 'O') ("''", "''", '', 'O') ('The', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('pertains', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('automated', 'VBN', '', 'O') ('methods', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('systems', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('trading', 'NN', '', 'O') ('financial_instruments', 'NNS', '', 'O') ('particularly', 'RB', '', 'O') ('fixed', 'VBN', '', 'O') ('income_securities', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('development', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('financial_instruments', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('sold', 'VBN', '', 'O') ('using', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('``', '``', '', 'O') ('open-outcry', 'JJ', '', 'O') ("''", "''", '', 'O') ('method', 'NN', '', 'O') ('whereby', 'WRB', '', 'O') ('``', '``', '', 'O') ('voice_brokers', 'NNS', '', 'O') ("''", "''", '', 'O') ('would', 'MD', '', 'O') ('express', 'VB', '', 'O') ('various', 'JJ', '', 'O') ('bid', 'NN', '', 'O') ('and', 'CC', '', 'O') ('offer', 'VB', '', 'O') ('prices', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('given', 'VBN', '', 'O') ('instrument', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬580_patent', 'NN', '', 'O') ('col.3', 'NN', '', 'O') ('ll.6-9', '.', '', 'O')
+
+__NEW_SENT__
+('According', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('his', 'PRP$', '', 'O') ('expression', 'NN', '', 'O') ('would', 'MD', '', 'O') ('involve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('loud', 'JJ', '', 'O') ('oral', 'JJ', '', 'O') ("'cry", 'NNP', '', 'O') ("'", "''", '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('customer-proposed', 'JJ', '', 'O') ('bid', 'NN', '', 'O') ('or', 'CC', '', 'O') ('offer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('coordination', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('fellow', 'JJ', '', 'O') ('representatives', 'NNS', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('extraction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('complementary', 'JJ', '', 'O') ('positions-until', 'NN', '', 'O') ('a', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('match', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('made', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('deal', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('done', 'VBN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at_col.3', 'JJ', '', 'O') ('ll.9-12', 'NN', '', 'O')
+
+__NEW_SENT__
+('Open', 'JJ', '', 'O') ('outcry', 'NN', '', 'O') ('auction', 'NN', '', 'O') ('bond', 'NN', '', 'O') ('brokering', 'NN', '', 'O') ('served', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('customers', 'NNS', '', 'O') ('well', 'RB', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('efficient', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('permitted', 'VBD', '', 'O') ('trading', 'NN', '', 'O') ('at', 'IN', '', 'O') ('``', '``', '', 'O') ('near', 'IN', '', 'O') ('perfect', 'JJ', '', 'O') ('market', 'NN', '', 'O') ('pricing', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('col.2', 'NN', '', 'O') ('ll.64-66', '.', '', 'O')
+Id.at
+__NEW_SENT__
+('While', 'IN', '', 'O') ('voice_brokers', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('participating', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('open_outcry', 'JJ', '', 'O') ('trading', 'NN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('trade_capture', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('performed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('designated', 'VBN', '', 'O') ('clerks', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id.at_col.3', 'NN', '', 'O') ('ll.13-18', '.', '', 'O')
+
+__NEW_SENT__
+('These', 'DT', '', 'O') ('clerks', 'NNS', '', 'O') ('would', 'MD', '', 'O') ('attempt', 'VB', '', 'O') ('to', 'TO', '', 'O') ('record', 'VB', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('outcry', 'NN', '', 'O') ('of', 'IN', '', 'O') ('many', 'JJ', '', 'O') ('individual', 'JJ', '', 'O') ('brokers', 'NNS', '', 'O') ('simultaneously', 'RB', '', 'O') ("''", "''", '', 'O') ('using', 'VBG', '', 'O') ('electronic', 'JJ', '', 'O') ('input', 'NN', '', 'O') ('devices', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('or', 'CC', '', 'O') ('workstation', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id.at_col.3', 'NN', '', 'O') ('ll.18-21', '.', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('might', 'MD', '', 'O') ('be', 'VB', '', 'O') ('apparent', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('description', 'NN', '', 'O') ('the', 'DT', '', 'O') ('quality', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('information', 'NN', '', 'O') ('inputted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('devices', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('clerk', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('function', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('interpretative', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('input', 'NN', '', 'O') ('clerk', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('volume', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('volatility', 'NN', '', 'O') ('of', 'IN', '', 'O') ('customer', 'NN', '', 'O') ('orders', 'NNS', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at_col.3', 'JJ', '', 'O') ('ll.22-23', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬580_patent', 'NNP', '', 'O') ('recognized', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('need', 'NN', '', 'O') ('for', 'IN', '', 'O') ('greater', 'JJR', '', 'O') ('efficiency', 'NN', '', 'O') ('and', 'CC', '', 'O') ('accuracy', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('trading', 'NN', '', 'O') ('of', 'IN', '', 'O') ('instruments', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('fixed', 'VBN', '', 'O') ('income_securities', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Id.at_col.3', 'NN', '', 'O') ('l.29-col.4', 'UH', '', 'O') ('l.3', 'NN', '', 'O')
+
+__NEW_SENT__
+('Therefore', 'RB', '', 'O') ('they', 'PRP', '', 'O') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('create', 'VB', '', 'O') ('a', 'DT', '', 'O') ('system', 'NN', '', 'O') ('to', 'TO', '', 'O') ('automate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('trading', 'NN', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('avoid', 'VB', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('open_outcry', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('trade_capture', 'NN', '', 'O') ('processes', 'NNS', '', 'O')
+
+__NEW_SENT__

@@ -1,0 +1,165 @@
+('239_F.3d_1343', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('AMAZON.COM', 'NNP', 'ORG', 'B') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('BARNESANDNOBLE.COM', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Barnesandnoble.Com', 'NNP', 'ORG', 'B') ('LLC', 'NNP', 'ORG', 'I') ('Defendants-Appellants', 'NNS', '', 'O')
+AMAZON.COM INC. Barnesandnoble.Com LLC
+__NEW_SENT__
+('No._00-1109', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Feb._14,_2001', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('1-ClickTHE_R', 'CD', 'CARDINAL', 'B') ("''", "''", '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('placing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('purchase_order', 'NN', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Internet', 'NN', '', 'O')
+1-ClickTHE_R
+__NEW_SENT__
+('Patentee', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('granted', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('Marsha', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Pechman', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('73_F.Supp.2d_1228', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court Western_District Washington Marsha J. Pechman J. 73_F.Supp.2d_1228
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Clevenger', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patentee', 'NN', '', 'O') ('demonstrated', 'VBD', '', 'O') ('likely', 'JJ', '', 'O') ('literal', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('independent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('but', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('competitor', 'NN', '', 'O') ('mounted', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('serious', 'JJ', '', 'O') ('challenge', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('on', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('precluding', 'NN', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+The Court of Appeals Clevenger Circuit_Judge 1 four 2
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1346', 'NFP', '', 'O') ('Lynn', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Pasahow', 'NNP', 'PERSON', 'I') ('McCutchen', 'NNP', 'PERSON', 'I') ('Doyle', 'NNP', '', 'O') ('Brown', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Enersen', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Palo_Alto', 'NNP', 'GPE', 'B') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Lynn H. Pasahow McCutchen Palo_Alto
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('J.', 'NNP', 'PERSON', 'B') ('David', 'NNP', 'PERSON', 'I') ('Hadden', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Palo_Alto', 'NNP', 'GPE', 'B') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Beth', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Parker', 'NNP', 'PERSON', 'I') ('Christopher', 'NNP', 'PERSON', 'I') ('B.', 'NNP', 'PERSON', 'I') ('Hockett', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Hixson', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San_Francisco', 'NNP', 'PERSON', 'B') ('from', 'IN', '', 'O') ('McCutchen', 'NNP', 'ORG', 'B') ('Doyle', 'NNP', 'ORG', 'I') ('Brown', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Enersen', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I')
+J. David Hadden Palo_Alto Beth H. Parker Christopher B. Hockett Thomas S. Hixson San_Francisco McCutchen Doyle Brown & Enersen LLP
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('John', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Reese', 'NNP', 'PERSON', 'I') ('McCutchen', 'NNP', 'ORG', 'B') ('Doyle', 'NNP', 'ORG', 'I') ('Brown', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Enersen', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('San_Francisco', 'NNP', '', 'O') ('CA', 'NNP', '', 'O')
+John R. Reese McCutchen Doyle Brown & Enersen LLP
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Burman', 'NNP', 'PERSON', 'I') ('Brian', 'NNP', 'PERSON', 'I') ('G.', 'NNP', 'PERSON', 'I') ('Bodine', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jerry', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Riedinger', 'NNP', 'PERSON', 'I') ('Perkins', 'NNP', 'PERSON', 'I') ('Coie', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Seattle', 'NNP', 'GPE', 'B') ('WA', 'NNP', '', 'O')
+David J. Burman Brian G. Bodine Jerry A. Riedinger Perkins Coie LLP Seattle
+__NEW_SENT__
+('Jonathan', 'NNP', 'PERSON', 'B') ('A.', 'NN', 'PERSON', 'I') ('Marshall', 'NNP', 'PERSON', 'I') ('Pennie', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Edmonds', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+Jonathan A. Marshall Pennie & Edmonds LLP New_York NY
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Pecau', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Wallach', 'NNP', 'PERSON', 'I')
+William G. Pecau Steven I. Wallach
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('N.', 'NNP', 'PERSON', 'I') ('Rosen', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Mark', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Sugarman', 'NNP', 'PERSON', 'I') ('Robinson', 'NNP', '', 'O') ('Silverman', 'NNP', 'ORG', 'B') ('Pearce', 'NNP', 'ORG', 'I') ('Aronsohn', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Berman', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I')
+Michael N. Rosen Mark J. Sugarman Silverman Pearce Aronsohn & Berman LLP New_York NY
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Stanton', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Lawrence', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Pennie', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Edmonds', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Stanton T. Lawrence III Pennie & Edmonds Washington
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('CLEVENGER', 'NNP', 'ORG', 'B') ('GAJARSA', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('LINN', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+CLEVENGER LINN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('CLEVENGER', 'NN', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I')
+CLEVENGER Circuit_Judge
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('brought', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Amazon.com', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Amazon', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('against', 'IN', '', 'O') ('barnesandnoble.com', 'ADD', '', 'O') ('inc.', 'NN', '', 'O') ('and', 'CC', '', 'O') ('barnesandnoble.com', 'ADD', '', 'O') ('llc', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('together', 'RB', '', 'O') ('``', '``', '', 'O') ('BN', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+Amazon.com Inc. Amazon BN
+__NEW_SENT__
+('Amazon', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('prohibit', 'VB', '', 'O') ('BN', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('feature', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('web_site', 'NNP', '', 'O') ('called', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Express', 'NNP', 'WORK_OF_ART', 'I') ('Lane', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I')
+Amazon BN `` Express Lane ''
+__NEW_SENT__
+('BN', 'NNP', 'GPE', 'B') ('resisted', 'VBD', '', 'O') ('*1347', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('on', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('grounds', 'NNS', '', 'O') ('including', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('Express', 'NNP', 'ORG', 'B') ('Lane', 'NNP', 'ORG', 'I') ('feature', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('substantial', 'JJ', '', 'O') ('questions', 'NNS', '', 'O') ('exist', 'VBP', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O')
+BN Express Lane Amazon Amazon
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('rejected', 'VBD', '', 'O') ('BN', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('contentions', 'NNS', '', 'O')
+United_States_District_Court Western_District Washington BN
+__NEW_SENT__
+('Instead', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('presented', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('case', 'NN', '', 'O') ('showing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('by', 'IN', '', 'O') ('BN', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('BN', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('challenges', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('lacked', 'VBD', '', 'O') ('sufficient', 'JJ', '', 'O') ('merit', 'NN', '', 'O') ('to', 'TO', '', 'O') ('avoid', 'VB', '', 'O') ('awarding', 'VBG', '', 'O') ('extraordinary', 'JJ', '', 'O') ('preliminary', 'JJ', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B')
+Amazon BN BN Amazon
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Amazon', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('and', 'CC', '', 'O') ('now', 'RB', '', 'O') ('BN', 'NNP', 'GPE', 'B') ('brings', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('timely', 'JJ', '', 'O') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('entering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+Amazon BN
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('review', 'VB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('order', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1292', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1994', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O')
+28 1 1994
+__NEW_SENT__
+('After', 'IN', '', 'O') ('careful', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('opinion', 'NN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('arguments', 'NNS', '', 'O') ('advanced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('BN', 'NNP', 'GPE', 'B') ('has', 'VBZ', '', 'O') ('mounted', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('substantial', 'JJ', '', 'O') ('challenge', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O')
+BN
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('entitled', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('preliminary', 'JJ', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O') ('under', 'IN', '', 'O') ('these', 'DT', '', 'O') ('circumstances', 'NNS', '', 'O') ('we', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('set', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('in', 'IN', '', 'O') ('place', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+Amazon
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('involves', 'VBZ', '', 'O') ('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Patent', 'NN', 'ORG', 'I') ('No._5960,411', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('issued', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('28', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Amazon', 'NNP', 'ORG', 'B')
+United States Patent No._5960,411 September 28 1999 Amazon
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('Amazon', 'NNP', 'ORG', 'B') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('BN', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+October 21 1999 Amazon BN
+__NEW_SENT__
+('Amazon', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('``', '``', '', 'O') ('single_action', 'NN', '', 'O') ("''", "''", '', 'O') ('ordering', 'NN', '', 'O') ('of', 'IN', '', 'O') ('items', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('client/server_environment', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Internet', 'NN', '', 'O')
+Amazon
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('context', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('client/server_environment', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('relationship', 'NN', '', 'O') ('between', 'IN', 'CARDINAL', 'B') ('two', 'CD', 'CARDINAL', 'I') ('computer', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('program', 'NN', '', 'O') ('executing', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('client_computer_system', 'NNP', '', 'O') ('makes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('service', 'NN', '', 'O') ('request', 'NN', '', 'O') ('from', 'IN', '', 'O') ('another', 'DT', '', 'O') ('program', 'NN', '', 'O') ('executing', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('server_computer_system', 'NNP', '', 'O') ('which', 'WDT', '', 'O') ('fulfills', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('request', 'NN', '', 'O')
+between two
+__NEW_SENT__
+('See', 'VB', '', 'O') ('col._1,_ll._10-31', 'NN', '', 'O') (';', ':', '', 'O') ('col._3,_ll._31-33', 'NNS', '', 'O') (';', ':', '', 'O') ('col._5,_l._56', 'NN', '', 'O') ('to', 'IN', '', 'O') ('col._6,_l._21', 'NNP', '', 'O') (';', ':', '', 'O') ('Fig._2', 'NN', 'DATE', 'B')
+Fig._2
+__NEW_SENT__
+('Typically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('client_computer_system', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('server_computer_system', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('located', 'VBN', '', 'O') ('remotely', 'RB', '', 'O') ('from', 'IN', '', 'O') ('each', 'DT', '', 'O') ('other', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('communicate', 'VBP', '', 'O') ('via', 'IN', '', 'O') ('a', 'DT', '', 'O') ('data', 'NN', '', 'O') ('communication', 'NN', '', 'O') ('network', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('describes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('system', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('a', 'DT', '', 'O') ('consumer', 'NN', '', 'O') ('can', 'MD', '', 'O') ('complete', 'VB', '', 'O') ('a', 'DT', '', 'O') ('purchase_order', 'NN', '', 'O') ('for', 'IN', '', 'O') ('an', 'DT', '', 'O') ('item', 'NN', '', 'O') ('via', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('network', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('only', 'RB', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('single_action', 'NN', '', 'O') ("''", "''", '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('click', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('mouse', 'NN', '', 'O') ('button', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('client_computer_system', '.', '', 'O')
+
+__NEW_SENT__
+('Amazon', 'NNP', 'ORG', 'B') ('developed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('cope', 'VB', '', 'O') ('with', 'IN', '', 'O') ('what', 'WP', '', 'O') ('it', 'PRP', '', 'O') ('considered', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('frustrations', 'NNS', '', 'O') ('presented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('what', 'WP', '', 'O') ('is', 'VBZ', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('shopping_cart_model', 'NNP', '', 'O') ("''", "''", '', 'O') ('purchase', 'NN', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('electronic', 'JJ', '', 'O') ('commerce', 'NN', '', 'O') ('purchasing', 'NN', '', 'O') ('events', 'NNS', '', 'O')
+Amazon
+__NEW_SENT__
+('In', 'IN', '', 'O') ('previous', 'JJ', '', 'O') ('incarnations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('shopping_cart_model', 'NNP', '', 'O') ('a', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('client_computer_system', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('personal', 'JJ', '', 'O') ('computer', 'NN', '', 'O') ('executing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('web', 'NN', '', 'O') ('browser', 'NN', '', 'O') ('program', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('could', 'MD', '', 'O') ('select', 'VB', '', 'O') ('an', 'DT', '', 'O') ('item', 'NN', '', 'O') ('from', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('catalog', 'NN', '', 'O') ('typically', 'RB', '', 'O') ('by', 'IN', '', 'O') ('clicking', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('``', '``', '', 'O') ('Add', 'VB', '', 'O') ('to', 'IN', '', 'O') ('Shopping', 'NNP', '', 'O') ('Cart', 'NNP', '', 'O') ("''", "''", '', 'O') ('icon', 'NN', '', 'O') ('thereby', 'RB', '', 'O') ('placing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('item', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('virtual', 'JJ', '', 'O') ("''", "''", '', 'O') ('shopping_cart', 'NN', '', 'O')
+
+__NEW_SENT__
+('Other', 'JJ', '', 'O') ('items', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('catalog', 'NN', '', 'O') ('could', 'MD', '', 'O') ('be', 'VB', '', 'O') ('added', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('shopping_cart', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('manner', 'NN', '', 'O')
+
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('shopper', 'NN', '', 'O') ('completed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('selecting', 'VBG', '', 'O') ('process', 'NN', '', 'O') ('the', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('commercial', 'JJ', '', 'O') ('event', 'NN', '', 'O') ('would', 'MD', '', 'O') ('move', 'VB', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('check-out', 'JJ', '', 'O') ('counter', 'NN', '', 'O') ('so', 'RB', '', 'O') ('to', 'TO', '', 'O') ('speak', 'VB', '', 'O')
+
+__NEW_SENT__
+('Then', 'RB', '', 'O') ('information', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('identity', 'NN', '', 'O') ('billing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('shipping', 'NN', '', 'O') ('addresses', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('credit', 'NN', '', 'O') ('payment', 'NN', '', 'O') ('method', 'NN', '', 'O') ('would', 'MD', '', 'O') ('be', 'VB', '', 'O') ('inserted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transactional', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('base', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('soon-to-be', 'NNP', '', 'O') ('purchaser', 'NN', '', 'O')
+
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('the', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ('would', 'MD', '', 'O') ('``', '``', '', 'O') ('click', 'VB', '', 'O') ("''", "''", '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('button', 'NN', '', 'O') ('displayed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('screen', 'NN', '', 'O') ('or', 'CC', '', 'O') ('somehow', 'RB', '', 'O') ('issue', 'VB', '', 'O') ('a', 'DT', '', 'O') ('command', 'NN', '', 'O') ('to', 'TO', '', 'O') ('execute', 'VB', '', 'O') ('the', 'DT', '', 'O') ('completed', 'VBN', '', 'O') ('order', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('server_computer_system', 'NNP', '', 'O') ('would', 'MD', '', 'O') ('verify', 'VB', '', 'O') ('and', 'CC', '', 'O') ('store', 'VB', '', 'O') ('the', 'DT', '', 'O') ('information', 'NN', '', 'O') ('concerning', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O')
+
+__NEW_SENT__
+('As', 'IN', '', 'O') ('is', 'VBZ', '', 'O') ('evident', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('foregoing', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('electronic', 'JJ', '', 'O') ('commerce', 'NN', '', 'O') ('purchaser', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('shopping_cart_model', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('required', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('perform', 'VB', '', 'O') ('*1348', 'JJ', '', 'O') ('several', 'JJ', '', 'O') ('actions', 'NNS', '', 'O') ('before', 'IN', '', 'O') ('achieving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('ultimate', 'JJ', '', 'O') ('goal', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('placed_order', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬411_patent', 'NNP', '', 'O') ('sought', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('actions', 'NNS', '', 'O') ('required', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('consumer', 'NN', '', 'O') ('to', 'TO', '', 'O') ('effect', 'VB', '', 'O') ('a', 'DT', '', 'O') ('placed_order', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('words', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬411_patent', 'NN', '', 'O') (':', ':', '', 'O') ('The', 'DT', '', 'O') ('present_invention', 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('single-action', 'JJ', '', 'O') ('ordering', 'NN', '', 'O') ('of', 'IN', '', 'O') ('items', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('client/server_environment', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('single-action', 'JJ', '', 'O') ('ordering', 'NN', '', 'O') ('system', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('present_invention', 'NN', '', 'O') ('reduces', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('purchaser_interactions', 'NNS', '', 'O') ('needed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('place', 'VB', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reduces', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('sensitive', 'JJ', '', 'O') ('information', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('transmitted', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('a', 'DT', '', 'O') ('client', 'NN', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('server', 'NN', '', 'O') ('system', 'NN', '', 'O')
+
+__NEW_SENT__
+('Col._3,_ll._31-37', 'NNP', '', 'O')
+
+__NEW_SENT__
+('How', 'WRB', '', 'O') ('one', 'PRP', '', 'O') ('may', 'MD', '', 'O') ('ask', 'VB', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('purchaser_interactions', 'NNS', '', 'O') ('reduced', 'VBN', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('answer', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('purchaser_interactions', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('reduced', 'VBN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('previously', 'RB', '', 'O') ('visited', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('seller', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('web_site', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('has', 'VBZ', '', 'O') ('previously', 'RB', '', 'O') ('entered', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('database', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('seller', 'NN', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('required', 'VBN', '', 'O') ('billing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('shipping', 'NN', '', 'O') ('information', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('needed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('effect', 'VB', '', 'O') ('a', 'DT', '', 'O') ('sales', 'NNS', '', 'O') ('transaction', 'NN', '', 'O')
+
+__NEW_SENT__
+('Thereafter', 'RB', '', 'O') ('when', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ('visits', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('seller', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('web_site', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('wishes', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('purchase', 'VB', '', 'O') ('a', 'DT', '', 'O') ('product', 'NN', '', 'O') ('from', 'IN', '', 'O') ('that', 'DT', '', 'O') ('site', 'NN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('specifies', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('only', 'RB', '', 'O') ('a', 'DT', '', 'O') ('single_action', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('place', 'VB', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('item', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('words', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('written', 'VBN', '', 'O') ('description', 'NN', '', 'O') ('``', '``', '', 'O') ('once', 'RB', '', 'O') ('the', 'DT', '', 'O') ('description', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('item', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('displayed', 'VBN', '', 'O') ('the', 'DT', '', 'O') ('purchaser', 'NN', '', 'O') ('need', 'MD', '', 'O') ('only', 'RB', '', 'O') ('take', 'VB', '', 'O') ('a', 'DT', '', 'O') ('single_action', 'NN', '', 'O') ('to', 'TO', '', 'O') ('place', 'VB', '', 'O') ('the', 'DT', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('purchase', 'VB', '', 'O') ('that', 'DT', '', 'O') ('item', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Col._3,_ll._64-66', 'VBN', '', 'O')
+
+__NEW_SENT__

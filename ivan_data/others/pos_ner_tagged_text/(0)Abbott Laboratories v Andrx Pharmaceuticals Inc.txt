@@ -1,0 +1,207 @@
+('452_F.3d_1331', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('ABBOTT', 'NNP', 'ORG', 'B') ('LABORATORIES', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', 'ORG', 'I') ('v.', 'IN', 'ORG', 'I') ('ANDRX', 'NNP', 'ORG', 'B') ('PHARMACEUTICALS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('ROXANE', 'NNP', 'ORG', 'B') ('LABORATORIES', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Defendants', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+ABBOTT LABORATORIES Plaintiff-Appellee v. ANDRX PHARMACEUTICALS INC. ROXANE LABORATORIES INC. Defendants
+__NEW_SENT__
+('Teva_Pharmaceuticals_USA', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'NN', '', 'O')
+Teva_Pharmaceuticals_USA Inc.
+__NEW_SENT__
+('No._05-1433', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'IN', '', 'O') ('June_22,_2006', 'NNP', 'GPE', 'B')
+June_22,_2006
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patents', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('extended_release_formulations', 'NNPS', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Northern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Illinois', 'NNP', 'GPE', 'B') ('David', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Coar', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2005_WL_1323435', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('defendant', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+The United States District Court the Northern District Illinois David H. Coar J. 2005_WL_1323435
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Prost', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('accused', 'VBD', '', 'O') ('infringer', 'NN', '', 'O') ('raised', 'VBD', '', 'O') ('substantial_questions', 'NNS', '', 'O') ('concerning', 'VBG', '', 'O') ('validity', 'NN', '', 'O') ('on', 'IN', '', 'O') ('grounds', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('obviousness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('patentee', 'NN', '', 'O') ('failed', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('establish', 'VB', '', 'O') ('a', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O')
+The Court of Appeals Prost Circuit_Judge
+__NEW_SENT__
+('Vacated', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Newman Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1332', 'NNP', '', 'O') ('Jeffrey', 'NNP', 'PERSON', 'B') ('I.', 'NNP', 'PERSON', 'I') ('Weinberger', 'NNP', 'PERSON', 'I') ('Munger', 'NNP', '', 'O') ('Tolles', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Olson', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Jeffrey I. Weinberger Los Angeles California
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ted', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Dane', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Andrea', 'NNP', 'PERSON', 'B') ('Weiss', 'NNP', 'PERSON', 'I') ('Jeffries', 'NNPS', 'PERSON', 'I')
+Ted G. Dane Andrea Weiss Jeffries
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Jennifer', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Polse', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jason', 'NNP', 'PERSON', 'B') ('Rantanen', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Francisco', 'NNP', 'GPE', 'I') ('California', 'NNP', 'GPE', 'B')
+Jennifer L. Polse Jason Rantanen San Francisco California
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Todd', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Ehlman', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('R.', 'NNP', 'PERSON', 'B') ('Mark', 'NNP', 'PERSON', 'I') ('McCareins', 'NNP', 'PERSON', 'I') ('Winston', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Strawn', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('Illinois', 'NNP', '', 'O')
+Todd J. Ehlman R. Mark McCareins Chicago
+__NEW_SENT__
+('James', 'NNP', 'PERSON', 'B') ('Galbraith', 'NNP', 'PERSON', 'I') ('Kenyon', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Kenyon', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('New_York', 'NNP', 'ORG', 'B') ('New_York', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+James Galbraith Kenyon & Kenyon New_York New_York
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Maria', 'NNP', 'PERSON', 'B') ('Luisa', 'NNP', 'PERSON', 'I') ('Palmese', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Cerwinski', 'NNP', 'PERSON', 'I')
+Maria Luisa Palmese Robert V. Cerwinski
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('GAJARSA', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN GAJARSA
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NNP', 'CARDINAL', 'B') ('PROST', 'NNP', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'CARDINAL', 'B') ('NEWMAN', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('PROST', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Abbott', 'NNP', 'ORG', 'B') ('Laboratories', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Abbott', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('brought', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Teva_Pharmaceuticals_USA', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Teva', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patents', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('extended_release_formulations', 'NNPS', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O')
+Abbott Laboratories Abbott Teva_Pharmaceuticals_USA Inc.
+__NEW_SENT__
+('Abbott', 'NNP', 'ORG', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('grounds', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('infringing', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('4', 'CD', 'CARDINAL', 'I') ('and', 'CC', 'CARDINAL', 'I') ('6', 'CD', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('U.S._Patent_No._6010,718', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ("'718_patent", 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('claim', 'VBP', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('U.S._Patent_No._6551,616', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ("'616_patent", 'WP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+Abbott Teva Teva 2 4 and 6 2
+__NEW_SENT__
+('Teva', 'NNP', '', 'O') ('resisted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('primarily', 'RB', '', 'O') ('by', 'IN', '', 'O') ('arguing', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('substantial_questions', 'NNS', '', 'O') ('existed', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B')
+Abbott 35 103
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('agreed', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('raised', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('substantial_question', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'616_patent", 'NNP', '', 'O') ('but', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('rejected', 'VBD', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('invalidity_arguments', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NN', '', 'O')
+Teva 2 Teva
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+Abbott
+__NEW_SENT__
+('Teva', 'NNP', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('review', 'VB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('order', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1292', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('c', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__
+('On', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('has', 'VBZ', '', 'O') ('raised', 'VBN', '', 'O') ('substantial', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('relied', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+Teva
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O')
+
+__NEW_SENT__
+('I.', 'NNP', 'ORG', 'B') ('Clarithromycin', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('broad', 'JJ', '', 'O') ('spectrum', 'NN', '', 'O') ('antibiotic', 'JJ', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('macrolide', 'NN', '', 'O') ('family', 'NN', '', 'O') ('of', 'IN', '', 'O') ('antibiotics', 'NNS', '', 'O') ('all', 'DT', '', 'O') ('of', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('derived', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('erythromycin', 'JJ', '', 'O') ('A.', 'NN', 'ORG', 'B') ('Taisho', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('received', 'VBD', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._4331,803', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ("'803_patent", 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O') ('in', 'IN', '', 'O') ('1982', 'CD', 'DATE', 'B')
+I. Clarithromycin A. Taisho Pharmaceuticals Ltd. U.S. No._4331,803 1982
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1991', 'CD', 'DATE', 'B') ('Abbott', 'NNP', 'PERSON', 'B') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('licensee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'803_patent", 'NNP', '', 'O') ('introduced', 'VBD', '', 'O') ('Biaxin', 'NNP', 'GPE', 'B') ('an', 'DT', '', 'O') ('immediate', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('dosage', 'NN', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O')
+1991 Abbott Biaxin
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'803_patent", 'NNP', '', 'O') ('expired', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('May_23,_2005', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*BIG_TOKEN__1333_In_1997__BIG_TOKEN', 'NNP', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('claiming', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('extended', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O')
+Abbott
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('describes', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('claims', 'NNS', '', 'O') ('extended', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ER', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('formulations', 'NNS', '', 'O') ('comprising', 'VBG', '', 'O') ('erythromycin', 'JJ', '', 'O') ('derivatives', 'NNS', '', 'O') ('combined', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'RB', '', 'O') ('acceptable', 'JJ', '', 'O') ('polymer', 'NN', '', 'O')
+ER
+__NEW_SENT__
+('The', 'DT', '', 'O') ('resulting', 'VBG', '', 'O') ('drug-polymer', 'JJ', '', 'O') ('matrix', 'NN', '', 'O') ('leads', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('extended', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('properties', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('formulation', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('ER', 'NNP', 'ORG', 'B') ('formulation', 'NN', '', 'O') ('enabled', 'VBD', '', 'O') ('patients', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('take', 'VB', '', 'O') ('one', 'CD', 'DATE', 'B') ('pill', 'NN', 'DATE', 'I') ('per', 'IN', 'DATE', 'I') ('day', 'NN', 'DATE', 'I') ('rather', 'RB', '', 'O') ('than', 'IN', '', 'O') ('twice', 'RB', '', 'O') ('as', 'IN', '', 'O') ('had', 'VBD', '', 'O') ('been', 'VBN', '', 'O') ('required', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('immediate', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('IR', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('formulation', 'NN', '', 'O')
+ER one pill per day
+__NEW_SENT__
+('That', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('4', 'CD', 'DATE', 'I') ('2000', 'CD', 'DATE', 'I') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NN', '', 'O')
+January 4 2000
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NNP', '', 'O') ('application', 'NN', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('continuation-in-part', 'NNP', 'ORG', 'B') ('application', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('reducing', 'VBG', '', 'O') ('adverse', 'JJ', '', 'O') ('gastrointestinal', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('GI', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('side', 'NN', '', 'O') ('effects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('erythromycin-derived', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('formulations', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('extended_release_formulations', 'NNS', '', 'O')
+Abbott continuation-in-part GI
+__NEW_SENT__
+('This', 'DT', '', 'O') ('continuation-in-part', 'NNP', 'ORG', 'B') ('issued', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'616_patent", 'NN', '', 'O')
+continuation-in-part
+__NEW_SENT__
+('In', 'IN', '', 'O') ('2000', 'CD', 'DATE', 'B') ('Abbott', 'NNP', 'ORG', 'B') ('introduced', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('ER', 'NNP', '', 'O') ('clarithromycin', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('Biaxin_XL', '.', '', 'O')
+2000 Abbott
+__NEW_SENT__
+('As', 'IN', '', 'O') ('of', 'IN', '', 'O') ('May', 'NNP', 'DATE', 'B') ('2005', 'CD', 'DATE', 'I') ('Abbott', 'NNP', 'PERSON', 'B') ('estimated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('as', 'IN', '', 'O') ('between', 'IN', '', 'O') ('Biaxin', 'NNP', 'GPE', 'B') ('and', 'CC', '', 'O') ('Biaxin_XL', 'NNP', 'ORG', 'B') ('Biaxin_XL', 'NNP', 'ORG', 'I') ('accounted', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('70', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('of', 'IN', '', 'O') ('sales', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Biaxin', 'NNP', 'GPE', 'B') ('market', 'NN', '', 'O')
+May 2005 Abbott Biaxin Biaxin_XL Biaxin_XL 70 % Biaxin
+__NEW_SENT__
+('As', 'IN', '', 'O') ('the', 'DT', '', 'O') ('original', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O') ('expired', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('May_23,_2005', 'NNP', '', 'O') ('generic', 'JJ', '', 'O') ('competitors', 'NNS', '', 'O') ('entered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ('for', 'IN', '', 'O') ('immediate', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('clarithromycin', 'NN', '', 'O') ('on', 'IN', '', 'O') ('May_24,_2005', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('2002', 'CD', 'DATE', 'I') ('Teva', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Abbreviated', 'NNP', 'ORG', 'B') ('New', 'NNP', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ANDA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('seeking', 'VBG', '', 'O') ('approval', 'NN', '', 'O') ('to', 'TO', '', 'O') ('market', 'VB', '', 'O') ('an', 'DT', '', 'O') ('extended', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O') ('similar', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('ER', 'NNP', '', 'O') ('clarithromycin', 'NN', '', 'O') ('drug', 'NN', '', 'O') ('Biaxin_XL', '.', '', 'O')
+December 2002 Teva Abbreviated New Drug Application Abbott
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_14,_2005', 'NNP', 'PERSON', 'B') ('Abbott', 'NNP', 'PERSON', 'I') ('sued', 'VBD', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'616_patent", 'NNP', '', 'O') ('s.1', 'NNP', '', 'O') ('On', 'IN', '', 'O') ('May_18,_2005', 'NNP', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ('moved', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Teva', 'NNP', '', 'O')
+March_14,_2005 Abbott Teva Abbott
+__NEW_SENT__
+('On', 'IN', '', 'O') ('May', 'NNP', 'DATE', 'B') ('26', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('June_1,_2005', 'NNP', 'ORG', 'B') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('oral', 'JJ', '', 'O') ('argument', 'NN', '', 'O') ('on', 'IN', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thereafter', 'RB', '', 'O') ('on', 'IN', '', 'O') ('June', 'NNP', 'DATE', 'B') ('3', 'CD', 'DATE', 'I') ('issued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('memorandum', 'NN', '', 'O') ('opinion', 'NN', '', 'O')
+May 26 June_1,_2005 Abbott June 3
+__NEW_SENT__
+('It', 'PRP', '', 'O') ('listed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('factor', 'NN', '', 'O') ('test', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('namely', 'RB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('party', 'NN', '', 'O') ('seeking', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('must', 'MD', '', 'O') ('show', 'VB', '', 'O')
+four
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('movant', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('some', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('underlying', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('immediate', 'JJ', '', 'O') ('irreparable_harm', 'NN', '', 'O') ('will', 'MD', '', 'O') ('result', 'VB', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('relief', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('granted', 'VBN', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('balance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hardships', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('weighs', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('movant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('public_interest', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('best', 'RBS', '', 'O') ('served', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('injunctive', 'JJ', '', 'O') ('relief', 'NN', '', 'O')
+1 2 3 4
+__NEW_SENT__
+('Abbott_Labs', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('v.', 'IN', '', 'O') ('Andrx', 'NNP', 'ORG', 'B') ('Pharms.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('No._05-1433', 'NNP', 'ORG', 'I') ('slip', 'VBP', '', 'O') ('op.at', 'NNP', '', 'O') ('3', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('N.D.', 'NNP', '', 'O') ('Ill.', 'NNP', '', 'O') ('June_3,_2005', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('citing', 'VBG', '', 'O') ('Polymer', 'NNP', 'ORG', 'B') ('Techs.', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Bridwell', 'NNP', 'ORG', 'B') ('103_F.3d_970', 'CD', 'ORG', 'I') ('973', 'CD', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.1996', 'NNP', '', 'O') (')', '-RRB-', '', 'O') (')', '-RRB-', '', 'O')
+Andrx Pharms. Inc. No._05-1433 3 Polymer Techs. Inc. Bridwell 103_F.3d_970 973
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('began', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('analysis', 'NN', '', 'O') ('and', 'CC', '', 'O') ('evaluated', 'VBD', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('considering', 'VBG', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('infringement', 'NN', '', 'O') ('contentions', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('invalidity', 'NN', '', 'O') ('defenses', 'NNS', '', 'O')
+Abbott Abbott Teva
+__NEW_SENT__
+('Teva', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('dispute', 'VB', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('generic', 'JJ', '', 'O') ('ER', 'NNP', 'ORG', 'B') ('formulation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('clarithromycin', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ("'718", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'616_patent", 'NNP', '', 'O') ('claims', 'NNS', '', 'O')
+ER Abbott
+__NEW_SENT__
+('Rather', 'RB', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('alleged', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B')
+Teva 35 103
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('focused', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('invalidity_arguments', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('raised', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('substantial_question', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'616_patent", 'NNP', '', 'O') ('but', 'CC', '', 'O') ('it', 'PRP', '', 'O') ('``', '``', '', 'O') ('ha', 'XX', '', 'O') ('[', '-LRB-', '', 'O') ('d', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('not', 'RB', '', 'O') ('established', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('claims', 'VBZ', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('4', 'CD', 'CARDINAL', 'I') ('and', 'CC', 'CARDINAL', 'I') ('6', 'CD', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ("''", "''", '', 'O')
+Teva Teva 2 2 4 and 6
+__NEW_SENT__
+('Abbott_Labs.', 'RB', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('32', 'CD', 'CARDINAL', 'B')
+32
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NNP', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('established', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O')
+Abbott
+__NEW_SENT__
+('As', 'IN', '', 'O') ('to', 'TO', '', 'O') ('irreparable_harm', 'VB', '', 'O') ('the', 'DT', '', 'O') ('*1334', 'NNS', '', 'O') ('district_court', 'NN', '', 'O') ('first', 'RB', '', 'O') ('noted', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('proved', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('likelihood', 'NN', '', 'O') ('of', 'IN', '', 'O') ('success', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('merits', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NNP', '', 'O') ('claims', 'NNS', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('presumption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('irreparable_harm', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('had', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('rebut', 'VB', '', 'O')
+Abbott Teva
+__NEW_SENT__
+('Furthermore', 'RB', 'PERSON', 'B') ('Abbott', 'NNP', 'PERSON', 'I') ('contended', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('will', 'MD', '', 'O') ('face', 'VB', '', 'O') ('``', '``', '', 'O') ('irreversible', 'JJ', '', 'O') ('market', 'NN', '', 'O') ('share', 'NN', '', 'O') ('losses', 'NNS', '', 'O') ('[', '-LRB-', '', 'O') ('if', 'IN', '', 'O') (']..', 'DT', '', 'O') ('it', 'PRP', '', 'O') ('loses', 'VBZ', '', 'O') ('its', 'PRP$', '', 'O') ('preferred', 'JJ', '', 'O') ('position', 'NN', '', 'O') ('on', 'IN', '', 'O') ('pharmacy', 'NN', '', 'O') ('and', 'CC', '', 'O') ('insurance', 'NN', '', 'O') ('formularies', 'NNS', '', 'O') ("''", "''", '', 'O')
+Furthermore Abbott
+__NEW_SENT__
+('Abbott_Labs.', 'RB', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('25', 'CD', 'CARDINAL', 'B')
+25
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('entry', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('generic', 'JJ', '', 'O') ('extended', 'JJ', '', 'O') ('release', 'NN', '', 'O') ('formulation', 'NN', '', 'O') ('competitor', 'NN', '', 'O') ('will', 'MD', '', 'O') ('likely', 'RB', '', 'O') ('crush', 'VB', '', 'O') ('the', 'DT', '', 'O') ('market', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('therefore', 'RB', '', 'O') ('absent', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('Abbott', 'NNP', 'ORG', 'B') ('would', 'MD', '', 'O') ('suffer', 'VB', '', 'O') ('irreparable_harm', 'NN', '', 'O')
+Abbott
+__NEW_SENT__
+('Abbott_Labs.', 'RB', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('27', 'CD', 'CARDINAL', 'B')
+27
+__NEW_SENT__
+('As', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('factor', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('stated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Teva', 'NNP', 'PERSON', 'B') ('was', 'VBD', '', 'O') ('``', '``', '', 'O') ('reluctan', 'JJ', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('or', 'CC', '', 'O') ('inab', 'NN', '', 'O') ('[', '-LRB-', '', 'O') ('le', 'FW', '', 'O') (']', '-RRB-', '', 'O') ('to', 'TO', '', 'O') ('quantify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('hardship', 'NN', '', 'O') ('if', 'IN', '', 'O') ('any', 'DT', '', 'O') ('it', 'PRP', '', 'O') ('will', 'MD', '', 'O') ('face', 'VB', '', 'O') ('if', 'IN', '', 'O') ('an', 'DT', '', 'O') ('injunction', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('incorrectly', 'RB', '', 'O') ('entered', 'VBN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('little', 'JJ', '', 'O') ('choice', 'NN', '', 'O') ('but', 'CC', '', 'O') ('to', 'TO', '', 'O') ('conclude', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('balance', 'NN', '', 'O') ('of', 'IN', '', 'O') ('hardships', 'NNS', '', 'O') ('favors', 'VBZ', '', 'O') ('[', '-LRB-', '', 'O') ('Abbott', 'NNP', 'PERSON', 'B') (']', '-RRB-', '', 'O') ("''", "''", '', 'O')
+third Teva Abbott
+__NEW_SENT__
+('Abbott_Labs.', 'RB', '', 'O') ('slip', 'VB', '', 'O') ('op.at', 'NNP', '', 'O') ('30-31', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Lastly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('t', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('o', 'NN', '', 'O') ('the', 'DT', '', 'O') ('extent', 'NN', '', 'O') ('that', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('found', 'VBN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('valid', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('public_interest', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('best', 'RBS', '', 'O') ('served', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('enforcing', 'VBG', '', 'O') ('them', 'PRP', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('these', 'DT', '', 'O') ('considerations', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('order', 'NN', '', 'O') ('entering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('preliminary_injunction', 'NN', '', 'O') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'718_patent", 'NN', '', 'O')
+
+__NEW_SENT__

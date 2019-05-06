@@ -1,0 +1,189 @@
+('514_F.3d_1229', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('MONSANTO', 'NNP', '', 'O') ('COMPANY', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('BAYER', 'NNP', '', 'O') ('BIOSCIENCE', 'NNP', '', 'O') ('N.V.', 'NNP', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O')
+
+__NEW_SENT__
+('No._2007-1109', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Jan._25,_2008', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('April_17,_2008', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Manufacturer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('genetically', 'RB', '', 'O') ('modified', 'VBN', '', 'O') ('corn', 'NN', '', 'O') ('seed', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('declaratory_judgment_action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ('challenging', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('enforceability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('expression', 'NN', '', 'O') ('in', 'IN', '', 'O') ('plants', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('bacteria', 'NNS', '', 'O') ('strains', 'VBZ', '', 'O') ('toxic', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('certain_crop-destroying', 'VBG', '', 'O') ('insects', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('asserting', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('products', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+four
+__NEW_SENT__
+('After', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Bryson', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('363_F.3d_1235', 'UH', '', 'O') ('reversed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('United', 'NNP', 'ORG', 'I') ('States', 'NNP', 'ORG', 'I') ('District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Missouri', 'NNP', 'GPE', 'B') ('E.', 'NNP', '', 'O') ('Richard', 'NNP', 'PERSON', 'B') ('Webber', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('264_F.Supp.2d_852', 'CD', 'PERSON', 'I') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('manufacturer', 'NN', '', 'O') ('the', 'DT', '', 'O') ('District_Court', 'NNS', 'PERSON', 'B') ('after', 'IN', '', 'O') ('a', 'DT', '', 'O') ('jury_trial', 'JJ', '', 'O') ('declared', 'VBD', '', 'O') ('asserted', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('patent', 'NN', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('non-infringed', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('all', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+the Court of Appeals Bryson Circuit_Judge the United States Missouri Richard Webber J. 264_F.Supp.2d_852 District_Court one four
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Gajarsa', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Gajarsa Circuit_Judge
+__NEW_SENT__
+('notes', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('employees', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('material', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('patent', 'VB', '', 'O') ('prosecution', 'NN', '', 'O') ('and', 'CC', '', 'O')
+one
+__NEW_SENT__
+('District_Court', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('err', 'VB', '', 'O') ('in', 'IN', '', 'O') ('concluding', 'VBG', '', 'O') ('that', 'DT', '', 'O') ('patentee', 'NN', '', 'O') ('intentionally', 'RB', '', 'O') ('withheld', 'VBD', '', 'O') ('notes', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('intent', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('Patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Trademark', 'NNP', 'ORG', 'B') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('PTO', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Trademark Office
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1231', 'NFP', '', 'O') ('Susan', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Knoll', 'NNP', '', 'O') ('Howrey', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Houston', 'NNP', 'GPE', 'B') ('Texas', 'NNP', 'GPE', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Susan K. Houston Texas
+__NEW_SENT__
+('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Spears', 'NNP', 'PERSON', 'I') ('Daniel', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Shvodian', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Michelle', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Replogle', 'NNP', 'PERSON', 'I')
+Steven G. Spears Daniel T. Shvodian Michelle C. Replogle
+__NEW_SENT__
+('George', 'NNP', 'PERSON', 'B') ('Pazuniak', 'NNP', 'PERSON', 'I') ('Womble', 'NNP', '', 'O') ('Carlyle', 'NNP', '', 'O') ('Sandridge', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Rice', 'NNP', '', 'O') ('PLLC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Wilmington', 'NNP', 'ORG', 'B') ('Delaware', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+George Pazuniak Wilmington Delaware
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Anna', 'NNP', 'PERSON', 'B') ('Martina', 'NNP', 'PERSON', 'I') ('Linnea', 'NNP', 'PERSON', 'I') ('Tyreus', 'NNP', '', 'O')
+Anna Martina Linnea
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Virginia', 'NNP', 'PERSON', 'B') ('Whitne', 'NNP', 'PERSON', 'I') ('Hoptman', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Tysons', 'NNP', 'ORG', 'B') ('Corner', 'NNP', 'PERSON', 'B') ('Virginia', 'NNP', 'PERSON', 'I')
+Virginia Whitne Hoptman Tysons Corner Virginia
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Timothy', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Barber', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Charlotte', 'NNP', 'GPE', 'B') ('North', 'NNP', 'GPE', 'I') ('Carolina', 'NNP', 'GPE', 'I')
+Timothy G. Barber Charlotte North Carolina
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('BRYSON', 'NNP', 'ORG', 'B') ('GAJARSA', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+BRYSON DYK
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('GAJARSA', 'NN', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('case', 'NN', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('chimeric_genes', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Plaintiff-Appellee', 'NNP', '', 'O') ('Monsanto', 'NNP', '', 'O') ('Co.', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Monsanto', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('brought', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment_action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Defendant-Appellant', 'NNP', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('Bioscience', 'NNP', 'ORG', 'I') ('N.V.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Bayer', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('challenging', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('unenforceability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('Bayer', 'NNP', 'ORG', 'B') ('patents', 'NNS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('Nos._5545,565', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('5,767,372', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬372_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('6,107,546', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬546_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('5,254,799', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬799_patent', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('asserting', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('transgenic', 'JJ', '', 'O') ('corn', 'NN', '', 'O') ('products', 'NNS', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+Monsanto Bayer Bioscience N.V. Bayer four Bayer U.S. 5,767,372 6,107,546 5,254,799 Monsanto
+__NEW_SENT__
+('Bayer', 'NN', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('final_judgment', 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('jury_trial', 'NN', '', 'O') ('declaring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', 'ORG', 'B') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('non-infringed', 'JJ', '', 'O')
+Bayer ¡¬565_patent
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('final_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+Bayer four
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('hold', 'VB', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('had', 'VBD', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('declare', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬372', 'NN', '', 'O') ('¡¬546', '.', '', 'O') ('and', 'CC', '', 'O') ('¡¬', 'NNP', '', 'O') ('799', 'CD', '', 'O') ('patents', 'NNS', '', 'O') ('unenforceable', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('reach', 'VB', '', 'O') ('the', 'DT', '', 'O') ('other_issues', 'NNS', '', 'O') ('raised', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O')
+Bayer
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('Strains', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('bacteria', 'NNS', '', 'O') ('Bacillus', 'NN', '', 'O') ('thuringiensis', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Bt', 'UH', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('produce', 'VBP', '', 'O') ('proteins', 'NNS', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Bt', 'NNP', '', 'O') ('toxins', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('while', 'IN', '', 'O') ('harmless', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('humans', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('most', 'JJS', '', 'O') ('animals', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('toxic', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('certain_crop-destroying', 'VBG', '', 'O') ('insects', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', 'DATE', 'B') ('1980s', 'CD', 'DATE', 'I') ('multiple', 'JJ', '', 'O') ('companies', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('academic', 'JJ', '', 'O') ('groups', 'NNS', '', 'O') ('took', 'VBD', '', 'O') ('advantage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('newly', 'RB', '', 'O') ('emergent', 'NN', '', 'O') ('science', 'NN', '', 'O') ('of', 'IN', '', 'O') ('genetic', 'JJ', '', 'O') ('engineering', 'NN', '', 'O') ('by', 'IN', '', 'O') ('attempting', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('insert', 'VB', '', 'O') ('a', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('for', 'IN', '', 'O') ('Bt', 'NNP', '', 'O') ('toxin', 'NN', '', 'O') ('into', 'IN', '', 'O') ('plants', 'NNS', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('transformation', 'NN', '', 'O')
+the 1980s
+__NEW_SENT__
+('The', 'DT', '', 'O') ('goal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('these', 'DT', '', 'O') ('genetically', 'RB', '', 'O') ('engineered', 'VBN', '', 'O') ('plants', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('express', 'VB', '', 'O') ('(', '-LRB-', '', 'O') ('i.e.', 'FW', '', 'O') ('produce', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('Bt', 'FW', '', 'O') ('toxin', 'NN', '', 'O') ('protein', 'NN', '', 'O') ('in', 'IN', '', 'O') ('sufficient', 'JJ', '', 'O') ('quantities', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('the', 'DT', '', 'O') ('plants', 'NNS', '', 'O') ('insect-resistant.1', 'JJ', '', 'O') ('Difficulties', 'NNPS', '', 'O') ('*1232', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('getting', 'VBG', '', 'O') ('plants', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('express', 'VB', '', 'O') ('a', 'DT', '', 'O') ('full-length', 'NN', '', 'O') ('Bt_toxin_gene', 'NN', 'ORG', 'B') ('which', 'WDT', '', 'O') ('encodes', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('protein', 'NN', '', 'O') ('of', 'IN', '', 'O') ('approximately', 'RB', 'CARDINAL', 'B') ('130', 'CD', 'CARDINAL', 'I') ('kD,2', 'NN', '', 'O') ('led', 'VBD', '', 'O') ('researchers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('investigate', 'VB', '', 'O') ('various', 'JJ', '', 'O') ('alternatives', 'NNS', '', 'O')
+Bt_toxin_gene approximately 130
+__NEW_SENT__
+('In', 'IN', '', 'O') ('1986', 'CD', 'DATE', 'B') ('Plant', 'NNP', 'ORG', 'B') ('Genetic', 'NNP', 'ORG', 'I') ('Systems', 'NNPS', 'ORG', 'I') ('N.V.', 'NNP', 'ORG', 'I') ('a', 'DT', '', 'O') ('predecessor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('(', '-LRB-', '', 'O') ('hereinafter', 'NN', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('Bayer', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('succeeded', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('obtaining', 'VBG', '', 'O') ('plants', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('expressed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('truncated', 'JJ', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Bt', 'FW', '', 'O') ('toxin', 'NN', '', 'O')
+1986 Plant Genetic Systems N.V. Bayer Bayer
+__NEW_SENT__
+('This', 'DT', '', 'O') ('shortened', 'JJ', '', 'O') ('protein', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('produced', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('transforming', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('plants', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('fragment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Bt_toxin_gene', 'NN', 'ORG', 'B') ('that', 'WDT', '', 'O') ('encoded', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('part', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('or', 'CC', '', 'O') ('N-terminal', 'NNP', '', 'O') ('end', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('toxin', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('bacterium', 'NN', '', 'O') ('Agrobacterium', 'NNP', 'GPE', 'B') ('tumefaciens', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Agrobacterium', 'NNP', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('known', 'VBN', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('plant', 'NN', '', 'O') ('transformation.3', "''", '', 'O')
+Bt_toxin_gene first Agrobacterium
+__NEW_SENT__
+('The', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('involved', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('present', 'JJ', '', 'O') ('suit', 'NN', '', 'O') ('relate', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('invention', 'NN', '', 'O')
+four
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('565', 'CD', 'CARDINAL', 'B') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('chimeric_genes4', 'XX', '', 'O') ('comprising', 'VBG', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('truncated', 'JJ', '', 'O') ('Bt_toxin_gene', 'NN', '', 'O') ('encoding', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('approximately', 'RB', '', 'O') ('60', 'CD', '', 'O') ('kD', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('80', 'CD', 'CARDINAL', 'B') ('kD', 'NN', '', 'O') ('Bt', 'UH', '', 'O') ('toxin', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('amino', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequence,5', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ('regulatory', 'JJ', '', 'O') ('region', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('``', '``', '', 'O') ('naturally', 'RB', '', 'O') ('expressed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('plant_cells', 'NNS', '', 'O') ("''", "''", '', 'O') ('6', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('enables', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('gene', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('transcribed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('plants', 'NNS', '', 'O') ('i.e.', 'FW', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('plant', 'NN', '', 'O') ('promoter', 'NN', '', 'O') ("''", "''", '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('Bt_toxin_gene', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('control', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('plant', 'NN', '', 'O') ('promoter.7', '.', '', 'O') ('The', 'DT', 'LAW', 'B') ('¡¬372_patent', 'NNP', 'LAW', 'I') ('¡¬546_patent', 'NNP', 'LAW', 'I') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('¡¬799_patent', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('towards', 'IN', '', 'O') ('various', 'JJ', '', 'O') ('other', 'JJ', '', 'O') ('aspects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('technology', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('plant_cells', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('plants', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('produce', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('insecticidal', 'JJ', '', 'O') ('protein', 'NN', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('transforming', 'VBG', '', 'O') ('plants', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('chimeric_genes', 'NNS', '', 'O')
+¡¬ 565 80 6 The ¡¬372_patent ¡¬546_patent
+__NEW_SENT__
+('Monsanto', 'NNP', 'ORG', 'B') ('sells', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('genetically', 'RB', '', 'O') ('modified', 'VBN', '', 'O') ('corn', 'NN', '', 'O') ('product', 'NN', '', 'O') ('MON810', 'NNP', '', 'O') ('that', 'WDT', '', 'O') ('expresses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('Bt', 'FW', '', 'O') ('toxin', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('amino', 'NN', '', 'O') ('acid', 'NN', '', 'O') ('sequence', 'NN', '', 'O') ('claimed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B')
+Monsanto Bayer
+__NEW_SENT__
+('In', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('2000', 'CD', 'DATE', 'I') ('Monsanto', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('declaratory_judgment_action', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Missouri', 'NNP', 'GPE', 'B') ('seeking', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('declaration', 'NN', '', 'O') ('that', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('product', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬565', 'NNS', '', 'O') ('¡¬', 'NNP', '', 'O') ('372', 'CD', '', 'O') ('¡¬546', ',', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬799_patent', 'NNP', '', 'O') ('s', 'NNPS', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('unenforceable', 'JJ', '', 'O')
+December 2000 Monsanto Missouri ¡¬546
+__NEW_SENT__
+('Bayer', 'NNP', 'ORG', 'B') ('counterclaimed', 'VBD', '', 'O') ('*1233', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('each', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+Bayer
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('initially', 'RB', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B') ('holding', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('unenforceable', 'JJ', '', 'O') ('due', 'IN', '', 'O') ('to', 'IN', '', 'O') ('inequitable_conduct', 'VB', '', 'O') ('that', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('565', 'CD', 'CARDINAL', 'B') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+Monsanto four 565
+__NEW_SENT__
+('Bayer', 'NNP', 'ORG', 'B') ('appealed', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O')
+Bayer
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reversed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('claim_construction', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('Bt2', 'NN', '', 'O') ('toxin', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('vacated', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('unenforceability', 'NN', '', 'O') ('and', 'CC', '', 'O') ('invalidity', 'NN', '', 'O') ('judgments', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Monsanto', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Bayer_BioScience_N.V.', 'NNP', '', 'O') ('363_F.3d_1235', 'XX', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir.2004', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B') ('I', 'PRP', '', 'O') (')', '-RRB-', '', 'O')
+Monsanto Co. Monsanto
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('we', 'PRP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('unenforceability', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬799_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('improper', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('there', 'EX', '', 'O') ('were', 'VBD', '', 'O') ('material', 'JJ', '', 'O') ('facts', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('dispute', 'NN', '', 'O') ('and', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('giving', 'VBG', '', 'O') ('collateral', 'JJ', '', 'O') ('estoppel', 'JJ', '', 'O') ('effect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('earlier', 'JJR', '', 'O') ('case', 'NN', '', 'O') ('between', 'IN', '', 'O') ('predecessors', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('and', 'CC', '', 'O') ('basing', 'VBG', '', 'O') ('its', 'PRP$', '', 'O') ('invalidity', 'NN', '', 'O') ('findings', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('estoppel', 'NN', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('remand', 'NN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('dismissed', 'VBD', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('that', 'IN', '', 'O') ('MON810', 'NNP', '', 'O') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬799', 'NN', '', 'O') ('¡¬372', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬546_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Statement', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Non-Liability', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O')
+Bayer
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('when', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('proceeded', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('trial', 'NN', '', 'O') ('only', 'RB', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O')
+¡¬565_patent
+__NEW_SENT__
+('The', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', 'ORG', 'B') ('not', 'RB', '', 'O') ('infringed', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('prior_invention', 'NN', '', 'O') ('by', 'IN', '', 'O') ('Monsanto', 'NNP', 'ORG', 'B')
+¡¬565_patent Monsanto
+__NEW_SENT__
+('Subsequently', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('four-day', 'JJ', 'DATE', 'B') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O')
+four-day
+__NEW_SENT__
+('In', 'IN', '', 'O') ('a', 'DT', '', 'O') ('99-page', 'JJ', '', 'O') ('opinion', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('materiality', 'NN', '', 'O') ('and', 'CC', '', 'O') ('intent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('separate', 'JJ', '', 'O') ('acts', 'NNS', '', 'O') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('made', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', '', 'O') ('unenforceable', 'JJ', '', 'O')
+two ¡¬565_patent
+__NEW_SENT__
+('Monsanto', 'NNP', 'ORG', 'B') ('v.', 'IN', '', 'O') ('Bayer_BioScience_N.V.', 'NNP', '', 'O') ('No._400', 'NNP', '', 'O') ('cv01915', 'NNP', '', 'O') ('slip', 'NN', '', 'O')
+Monsanto
+__NEW_SENT__
+('op', 'IN', '', 'O')
+
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('E.D.Mo', 'CD', '', 'O')
+
+__NEW_SENT__
+('Aug._28,_2006', 'NNP', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('Monsanto', 'NNP', 'PERSON', 'B') ('II', 'NNP', 'PERSON', 'I') (')', '-RRB-', '', 'O')
+Aug._28,_2006 Monsanto II
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬799', 'NN', 'ORG', 'B') ('¡¬372', 'NN', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('¡¬546_patent', 'NNP', 'PRODUCT', 'B') ('s', 'VBZ', '', 'O') ('and', 'CC', '', 'O') ('accordingly', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('unenforceable', 'JJ', '', 'O')
+¡¬799 ¡¬372 ¡¬546_patent
+__NEW_SENT__
+('Id.at', 'NNP', '', 'O') ('95', 'CD', 'CARDINAL', 'B')
+95
+__NEW_SENT__
+('Bayer', 'NN', 'ORG', 'B') ('appealed', 'VBD', '', 'O')
+Bayer
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('current', 'JJ', '', 'O') ('appeal', 'NN', '', 'O') ('Bayer', 'NNP', 'PERSON', 'B') ('argues', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('claim_construction', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('allegedly', 'RB', '', 'O') ('prejudicial', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('admitted', 'VBN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury_trial', 'NN', '', 'O') ('that', 'IN', '', 'O') ('there', 'EX', '', 'O') ('was', 'VBD', '', 'O') ('insufficient', 'JJ', '', 'O') ('evidence', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sustain', 'VB', '', 'O') ('the', 'DT', '', 'O') ('jury_findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('prior_invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('obviousness', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('erred', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('finding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('565', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('lacked', 'VBD', '', 'O') ('jurisdiction', 'NN', '', 'O') ('to', 'TO', '', 'O') ('find', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬799', 'NN', '', 'O') ('¡¬372', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬546_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('unenforceable', 'JJ', '', 'O')
+Bayer
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('holding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬565_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('unenforceable', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('inequitable_conduct', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('need', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('reach', 'VB', '', 'O') ('the', 'DT', '', 'O') ('other_issues', 'NNS', '', 'O') ('raised', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Bayer', 'NNP', 'ORG', 'B') ('relating', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('jury_findings', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('and', 'CC', '', 'O') ('non-infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O')
+Bayer
+__NEW_SENT__
+('See', 'VB', 'ORG', 'B') ('eSpeed', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Brokertec', 'NNP', 'ORG', 'B') ('USA', 'NNP', 'ORG', 'I') ('L.L.C.', 'NNP', 'ORG', 'I') ('480_F.3d_1129', 'NNP', 'FAC', 'B') ('1138-39', 'CD', 'FAC', 'I') ('(', '-LRB-', '', 'O') ('Fed.Cir.2007', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+See eSpeed Inc. Brokertec USA L.L.C. 480_F.3d_1129 1138-39
+__NEW_SENT__
+('Accordingly', 'RB', '', 'O') ('we', 'PRP', '', 'O') ('review', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('inequitable_conduct', 'JJ', '', 'O') ('holdings', 'NNS', '', 'O')
+
+__NEW_SENT__

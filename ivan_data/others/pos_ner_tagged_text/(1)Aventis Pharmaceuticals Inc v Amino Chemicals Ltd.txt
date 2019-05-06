@@ -1,0 +1,132 @@
+('715_F.3d_1363', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('AVENTIS', 'NNP', 'ORG', 'B') ('PHARMACEUTICALS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'NN', '', 'O') ('and', 'CC', '', 'O')
+AVENTIS
+__NEW_SENT__
+('AMR_Technology', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Albany_Molecular_Research', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('AMINO', 'NNP', '', 'O') ('CHEMICALS', 'NNP', '', 'O') ('LTD.', 'NN', '', 'O') ('Dipharma_Francis', 'NNP', '', 'O') ('Sr.L.', 'NN', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Dipharma_Spa', 'NNP', 'GPE', 'B') ('Defendants-Appellees', 'NNPS', 'GPE', 'I') ('and', 'CC', '', 'O')
+AMR_Technology Inc. Albany_Molecular_Research Inc. Sr.L. Dipharma_Spa Defendants-Appellees
+__NEW_SENT__
+('Mylan', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant', 'NN', '', 'O')
+Mylan Pharmaceuticals Inc.
+__NEW_SENT__
+('Aventis_Pharmaceuticals_Inc.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('AMR_Technology', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('now', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Albany_Molecular_Research', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Plaintiff-Appellant', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O')
+AMR_Technology Inc. Albany_Molecular_Research Inc. Teva Pharmaceuticals USA Inc. Defendants
+__NEW_SENT__
+('Amino_Chemicals_Ltd.', 'NN', 'ORG', 'B') ('Dipharma_Francis', 'NNP', 'ORG', 'I') ('Sr.L.', 'NN', 'ORG', 'I') ('and', 'CC', '', 'O') ('Dipharma_Spa', 'NN', '', 'O') ('Defendants-Appellees', 'NNS', '', 'O')
+Amino_Chemicals_Ltd. Dipharma_Francis Sr.L.
+__NEW_SENT__
+('Nos._2011-1335', 'JJ', '', 'O') ('2011-1336', 'NNS', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('May_20,_2013', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('preparing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('piperidine', 'JJ', '', 'O') ('derivative', 'JJ', '', 'O') ('compound', 'NN', '', 'O') ('commonly', 'RB', '', 'O') ('used', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('active_ingredient', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('antihistamines', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('manufacturers', 'NNS', '', 'O') ('alleging', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'PERSON', 'B') ('Garrett', 'NNP', 'PERSON', 'I') ('E.', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('2011_WL_2175928', 'NNP', '', 'O') ('construed', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O')
+The United States District Court the District of New_Jersey Garrett E. Brown Jr.
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('stipulated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('could', 'MD', '', 'O') ('no', 'RB', '', 'O') ('longer', 'RB', '', 'O') ('prove', 'VB', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('plaintiff', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O')
+
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Reyna', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Reyna Circuit_Judge
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('substantially', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ("''", "''", '', 'O') ('should', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('construed', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('same', 'JJ', '', 'O') ('meaning', 'NN', '', 'O') ('in', 'IN', '', 'O') ('different', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('substantially', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ("''", "''", '', 'O') ('only', 'RB', '', 'O') ('applied', 'VBD', '', 'O') ('regioisomeric', 'JJ', '', 'O') ('impurities', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('substantially', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('largely', 'RB', '', 'O') ('but', 'CC', '', 'O') ('not', 'RB', '', 'O') ('wholly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('para', 'NN', '', 'O') ('regioisomer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('intermediate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('structure', 'NN', '', 'O') ('shown', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('meta', 'JJ', '', 'O') ('isomer', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('Remanded', 'VBN', 'ORG', 'B')
+Remanded
+__NEW_SENT__
+('Bryson', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('filed', 'VBD', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Bryson Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1365', 'NFP', '', 'O') ('Paul', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Berghoff', 'NNP', 'PERSON', 'I') ('McDonnell', 'NNP', 'ORG', 'B') ('Boehnen', 'NNP', 'ORG', 'I') ('Hulbert', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Berghoff', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O') ('Aventis_Pharmaceuticals_Inc.', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('AMR_Technology', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Gumina', 'NNP', 'PERSON', 'I') ('Jeremy', 'NNP', 'PERSON', 'I') ('E.', 'NNP', 'PERSON', 'I') ('Noe', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Paula', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Fritsch', 'NNP', 'PERSON', 'I')
+Paul H. Berghoff McDonnell Boehnen Hulbert & Berghoff LLP Chicago IL James C. Gumina Jeremy E. Noe Paula S. Fritsch
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Liza', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Walsh', 'NNP', 'PERSON', 'I') ('Connell', 'NNP', 'PERSON', 'I') ('Foley', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Roseland', 'NNP', 'ORG', 'B') ('NJ', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Zappia', 'NNP', 'PERSON', 'I') ('Richard', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('McGuirk', 'NNP', '', 'O') ('Wendell', 'NNP', '', 'O') ('W.', 'NNP', 'PERSON', 'B') ('Harris', 'NNP', 'PERSON', 'I') ('Tate', 'NNP', '', 'O') ('T.', 'NNP', '', 'O') ('Tischner', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Shelley', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Jones', 'NNP', 'PERSON', 'I') ('LeClairRyan', 'POS', '', 'O') ('Rochester', 'NNP', '', 'O') ('NY', 'NNP', '', 'O')
+Liza M. Walsh Connell Roseland NJ Andrew P. Zappia Richard A. W. Harris Shelley A. Jones
+__NEW_SENT__
+('Anthony', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Shaw', 'NNP', 'PERSON', 'I') ('Arent', 'NNP', 'PERSON', 'I') ('Fox', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Amino_Chemicals_Ltd.', 'NNP', '', 'O') ('et', 'FW', '', 'O') ('al', 'NNP', '', 'O')
+Anthony W. Shaw Arent Fox LLP Washington
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Joerg-Uwe', 'NNP', 'ORG', 'B') ('Szipl', 'NNP', 'ORG', 'I') ('Griffin', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Szipl', 'NNP', 'ORG', 'I') ('PC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Arlington', 'NNP', 'ORG', 'B') ('VA.', 'NNP', 'ORG', 'I') ('Before', 'NNP', '', 'O') ('NEWMAN', 'NNP', '', 'O') ('BRYSON', 'NNP', '', 'O') ('*', 'NFP', '', 'O') ('and', 'CC', '', 'O') ('REYNA', 'JJ', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+Joerg-Uwe Szipl Griffin & Szipl Arlington VA.
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Opinion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', 'CARDINAL', 'B') ('REYNA', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'NN', 'CARDINAL', 'B') ('BRYSON', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('REYNA', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('Aventis', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Albany_Molecular_Research', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('AMRI', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Appellants', 'NNPS', 'PERSON', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('stipulated', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('entered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('District', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'GPE', 'I')
+Aventis Pharmaceuticals Inc. Albany_Molecular_Research Inc. Appellants the U.S. District Court the District of New_Jersey
+__NEW_SENT__
+('The', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('stipulated', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('following', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('Markman_opinion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('January', 'NNP', '', 'O') ('13', 'CD', '', 'O') ('2011', 'CD', '', 'O') ('which', 'WDT', '', 'O') ('consolidated', 'VBD', '', 'O') ('numerous', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('cases', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('construed', 'VBD', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('AMRI', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._5750,703', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬703_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('among', 'IN', '', 'O') ('others.1', '.', '', 'O') ('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('conclude', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('Markman_opinion', 'NN', '', 'O') ('misinterpreted', 'VBN', '', 'O') ('claim', 'NN', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', 'DATE', 'B') ('703', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+U.S. ¡¬
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('concerns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('processes', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('make', 'VB', '', 'O') ('various', 'JJ', '', 'O') ('piperidine_derivatives', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('are', 'VBP', '', 'O') ('commonly', 'RB', '', 'O') ('used', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('active_ingredients', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('*1366', 'NN', '', 'O') ('antihistamines', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Dr.', 'NNP', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ("D'Ambra", 'NNP', 'PERSON', 'I') ('AMRI', 'NNP', 'PERSON', 'I') ("'s", 'POS', 'PERSON', 'I') ('president', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('prior_art_processes', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('piperidine_derivatives', 'NNS', '', 'O') ('inefficient', 'JJ', '', 'O')
+Thomas E. D'Ambra AMRI 's
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('goal', 'NN', '', 'O') ('of', 'IN', '', 'O') ("Dr._D'Ambra", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('work', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('obtain', 'VB', '', 'O') ('substantially', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ('piperidine', 'JJ', '', 'O') ('derivative', 'NN', '', 'O') ('compounds-ultimately', 'RB', '', 'O') ('required', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('pharmaceutical-grade', 'JJ', '', 'O') ('end', 'NN', '', 'O') ('products', 'NNS', '', 'O') (';', ':', '', 'O') ('that', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('end', 'NN', '', 'O') ('products', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('greater', 'JJR', '', 'O') ('than', 'IN', '', 'O') ('98', 'CD', 'PERCENT', 'B') ('%', 'NN', 'PERCENT', 'I') ('purity-he', 'NN', '', 'O') ('recognized', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reduced', 'VBN', '', 'O') ('purity', 'NN', '', 'O') ('achieved', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('known', 'VBN', '', 'O') ('teachings', 'NNS', '', 'O') ('meant', 'VBD', '', 'O') ('additional', 'JJ', '', 'O') ('purification', 'NN', '', 'O') ('steps', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('required', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('piperidine', 'JJ', '', 'O') ('derivative', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('fully', 'RB', '', 'O') ('formed', 'VBN', '', 'O') ('leading', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('low', 'JJ', '', 'O') ('yields', 'NNS', '', 'O')
+one 98 %
+__NEW_SENT__
+('The', 'DT', '', 'O') ('prior_art_processes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('short', 'JJ', '', 'O') ('were', 'VBD', '', 'O') ('costly', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('time', 'NN', '', 'O') ('consuming', 'VBG', '', 'O')
+
+__NEW_SENT__
+("Dr._D'Ambra", 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('invention', 'NN', '', 'O') ('overcame', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('deficiencies', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('by', 'IN', '', 'O') ('synthesizing', 'VBG', '', 'O') ('piperidine_derivatives', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('piperidine', 'NN', '', 'O') ('and', 'CC', '', 'O') ('cyclopropylketone', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('CPK', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('intermediates', 'VBZ', '', 'O') ('at', 'IN', '', 'O') ('an', 'DT', '', 'O') ('earlier', 'JJR', '', 'O') ('stage', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('reaction', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('processes', 'NNS', '', 'O') ('developed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ("Dr._D'Ambra", 'NNP', '', 'O') ('have', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('stated', 'VBN', '', 'O') ('advantage', 'NN', '', 'O') ('of', 'IN', '', 'O') ('more', 'JJR', '', 'O') ('readily', 'RB', '', 'O') ('separating', 'VBG', '', 'O') ('out', 'RP', '', 'O') ('a', 'DT', '', 'O') ('substantially', 'RB', '', 'O') ('pure', 'JJ', '', 'O') ('piperidine', 'JJ', '', 'O') ('derivative', 'JJ', '', 'O') ('end', 'NN', '', 'O') ('product', 'NN', '', 'O') ('if', 'IN', '', 'O') ('desired', 'VBN', '', 'O')
+
+__NEW_SENT__
+("Dr._D'Ambra", 'NNP', '', 'O') ('claimed', 'VBD', '', 'O') ('these', 'DT', '', 'O') ('novel', 'JJ', '', 'O') ('methods', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('his', 'PRP$', '', 'O') ('¡¬703_patent2', 'NNP', 'PRODUCT', 'B') ('Fexofenadine', 'NNP', 'PRODUCT', 'I') ('a', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('piperidine', 'NN', '', 'O') ('derivative', 'NN', '', 'O') ('can', 'MD', '', 'O') ('be', 'VB', '', 'O') ('synthesized', 'VBN', '', 'O') ('using', 'VBG', '', 'O') ('these', 'DT', '', 'O') ('methods', 'NNS', '', 'O')
+¡¬703_patent2 Fexofenadine
+__NEW_SENT__
+('See', 'VB', '', 'O') ('¡¬703_patent', 'NN', '', 'O') ('col.', 'NN', '', 'O') ('26_ll._17', 'CD', '', 'O') ('-33', 'NFP', '', 'O') ('(', '-LRB-', '', 'O') ('claim', 'NN', '', 'O') ('7', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+7
+__NEW_SENT__
+("Dr._D'Ambra", 'NNP', '', 'O') ('eventually', 'RB', '', 'O') ('assigned', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬703_patent', 'NNP', '', 'O') ('to', 'IN', '', 'O') ('AMRI.3', 'NNP', '', 'O') ('Sanofi-Aventis', 'NNP', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('the', 'DT', '', 'O') ('exclusive', 'JJ', '', 'O') ('licensee', 'NN', '', 'O') ('uses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('patented', 'VBN', '', 'O') ('processes', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('large', 'JJ', '', 'O') ('quantities', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('fexofenadine', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('active_ingredient', 'NN', '', 'O') ('in', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('antihistamines', 'NNS', '', 'O') ('marketed', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brand', 'NN', '', 'O') ('name', 'NN', '', 'O') ('AllegraTHE_R', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('Allegra-DTHE_R', 'NNP', '', 'O') ('24', 'CD', 'TIME', 'B') ('Hour', 'NNP', 'TIME', 'I')
+U.S. AllegraTHE_R 24 Hour
+__NEW_SENT__
+('The', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('relevant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('gravitate', 'VBP', '', 'O') ('around', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('6', 'CD', 'CARDINAL', 'I') ('and', 'CC', 'CARDINAL', 'I') ('7', 'CD', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬703_patent', 'NN', '', 'O')
+1 6 and 7
+__NEW_SENT__

@@ -1,0 +1,102 @@
+
+
+
+265 F.3d 1349
+United States Court of Appeals,
+Federal Circuit.
+Roger W. BROWN, Ph.D., Plaintiff-Appellant,
+v.
+3M, Defendant-Appellee,
+and
+Air Products and Chemicals, Inc., Defendant-Appellee,
+and
+Revlon, Inc., Defendant.
+No. 00-1552.
+|
+Sept. 18, 2001.
+Synopsis
+Patentee brought suit alleging infringement of its patent for computer data processing system directed at solving Year 2000 (Y2K) problem by setting computer clock to an offset time. The United States District Court for the District of Arizona, Paul G. Rosenblatt, J., granted summary judgment of invalidity to competitor. Patentee appealed. The Court of Appeals, Pauline Newman, Circuit Judge, held that: (1) patent described an apparatus capable of converting only two-digit, only three-digit, only four-digit, or any combination of two-, three-, and four-digit date-data, and (2) patent thus was anticipated by prior art, and was invalid for lack of novelty.
+ 
+Affirmed.
+ 
+Mayer, Chief Judge, dissented and filed opinion.
+ 
+Attorneys and Law Firms
+*1350 Maria Crimi Speth, Grant, Williams & Dangerfield, P.C., of Phoenix, AZ, argued for plaintiff-appellant.
+James J. Elacqua, Brobeck, Phleger & Harrison, LLP, of Palo Alto, CA, argued for defendant-appellee, 3M. With him on the brief were Craig Y. Allison, and Michelle S. Falkoff. Edward R. Glady, Jr., and J. Marty Harper, Goodman Raup PC, of Phoenix, AZ, joined in the brief.
+*1351 Before MAYER, Chief Judge, NEWMAN and CLEVENGER, Circuit Judges.
+Opinion
+
+PAULINE NEWMAN, Circuit Judge.
+
+Dr. Roger W. Brown appeals the decision of the United States District Court for the District of Arizona, granting summary judgment of invalidity of Dr. Brown's United States Patent No. 5,852,824.1 We affirm the district court's judgment.
+ 
+
+
+DISCUSSION
+ The district court ruled summarily that Brown's patent was anticipated by United States Patent No. 5,600,836 (the "TOCS" patent, for Turn of the Century Systems). For the grant of summary judgment there must be no material fact in dispute, or no reasonable version of material fact upon which the nonmovant could prevail. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986) (the purpose of the summary judgment procedure is not to deprive a litigant of a trial, but to avoid an unnecessary trial when there is only one reasonably possible outcome). The grant of summary judgment of invalidity is reviewed on the same standard as applied by the district court, viz. whether upon application of the correct law a reasonable trier of fact could find for the nonmovant when all reasonably disputed material facts and factual inferences are resolved in favor of the nonmovant.
+ 
+ Anticipation under 35 U.S.C. ¡± 102 means lack of novelty, and is a question of fact. To anticipate, every element and limitation of the claimed invention must be found in a single prior art reference, arranged as in the claim. Karsten Mfg. Corp. v. Cleveland Golf Co. ., 242 F.3d 1376, 1383, 58 USPQ2d 1286, 1291 (Fed.Cir.2001); Scripps Clinic & Research Foundation v. Genentech, Inc., 927 F.2d 1565, 1576, 18 USPQ2d 1001, 1010 (Fed.Cir.1991). When a claim covers several structures or compositions, either generically or as alternatives, the claim is deemed anticipated if any of the structures or compositions within the scope of the claim is known in the prior art. Titanium Metals Corp. of America v. Banner, 778 F.2d 775, 782, 227 USPQ 773, 778 (Fed.Cir.1985). See also In re Petering, 49 C.C.P.A. 993, 301 F.2d 676, 682, 133 USPQ 275, 280 (CCPA 1962) (a compound described in a reference, and a generic claim including that compound, are unpatentable under 35 U.S.C. ¡± 102(b)); In re Slayter, 47 C.C.P.A. 849, 276 F.2d 408, 411, 125 USPQ 345, 347 (CCPA 1960) (a generic claim can not be allowed if the prior art describes a species within the claimed genus).
+ 
+The Brown and the TOCS patents are both directed to the Year 2000(Y2K) problem. For computer programs where the year 1999 was represented by the two digits "99," there was concern about whether in the year 2000 the programs would differentiate between the year dates 2000 and 1900, with forecasts of catastrophic consequences. One proposed solution was to reprogram the computer into thinking it was an earlier year than it actually was, so that a year date ending in "00" would not soon be reached. The TOCS patent presented a solution of this type, wherein "two-digit years provided as inputs to the application are adjusted by either a time change value or complement value," while the output dates are represented in local time. Although it is disputed, for the purposes of review of this summary judgment we accept Brown's position that the TOCS patent does not teach remediation of other than two-digit year dates.
+ 
+*1352 Not all computer databases represent the year date solely by two digits; some databases use three digits or four digits to represent year dates, especially in newer computer programs. Thus several different date formats may be running on the same computer system. The Brown invention includes adjustment of programs containing any such date systems.
+ 
+The TOCS patent was licensed to a company called Unbeaten Path International Ltd. (UPI), who provided a program that, according to Dr. Brown, remediated year dates on computers running applications containing two-, three-, and four-digit year dates by setting the computer date clock to an offset time. Dr. Brown states that the defendants use this method of remediating year date data, and that by application to two-, three- or four-digit year dates, the Brown patent is infringed.
+ 
+ Dr. Brown's patent, filed on May 22, 1997, claims a system for setting the computer clock to an offset time, applicable to records with year date data in "at least one of two-digit, three-digit, or four-digit" representations. Claim 16 is in suit:
+16. An apparatus for processing year-date data in a computer system, the apparatus comprising:
+a CPU;
+a bus coupled to the CPU;
+a memory coupled to the bus;
+a system clock coupled to the bus, wherein the system clock is set to an offset time wherein the offset time is a time other than the actual time;
+at least one application program stored in the memory and being executed by the CPU;
+a[t] least one database file stored in the memory containing records with year-date data with years being represented by at least one of two-digit, three-digit, or four-digit year-date representations; and
+a mechanism for converting the year-date data representations in the database file to a two-digit year-date data representation.
+(Emphasis added.) During prosecution Dr. Brown identified the TOCS patent (filed on November 14, 1995) as the closest reference.
+ 
+ The district court construed the word "or" in claim 16 as meaning that the apparatus was capable of converting "only two-digit, only three-digit, only four-digit, or any combination of two-, three-, and four-digit date-data." Slip op. at 9. We agree with this construction of the claim, for it is the plain reading of the claim text. These are not technical terms of art, and do not require elaborate interpretation. There is no basis in the specification or prosecution history for reading "or" as "and"-nor does Dr. Brown request such a reading.
+ 
+ Neither party disputes that the TOCS patent teaches the handling of year dates in two-digit format by setting the system clock to an offset date other than the actual date. Although Dr. Brown argues that TOCS does not anticipate the larger capability of the Brown system to conduct threeand/or four-digit date conversion, the TOCS disclosure of two-digit remediation anticipates the Brown two-digit rededication. By claiming his invention in the alternative, Dr. Brown has presented a claim for which infringement would lie whether or not there were also offset of three-digit or four-digit year dates. The principle of law is concisely embodied in the truism that: "That which infringes if later anticipates if earlier." Polaroid Corp. v. Eastman Kodak Co., 789 F.2d 1556, 1573, 229 USPQ 561, 574 (Fed.Cir.1986) (citing Peters v. Active Mfg. Co., 129 U.S. 530, 537, 9 S.Ct. 389, 32 L.Ed. 738 (1889)). See generally Lewmar Marine, *1353 Inc. v. Barient, Inc., 827 F.2d 744, 747, 3 USPQ2d 1766, 1768 (Fed.Cir.1987).
+ 
+Dr. Brown argues that because the capability to act on a combination of two-, three-, and four-digit data when such data are present is not shown in the prior art, claim 16 can not be anticipated. However, claim 16 is written in the alternative, and as written would be literally infringed by a system that offsets year dates only in two-digit formats such as the TOCS system. Thus the district court correctly ruled that claim 16 was anticipated, and invalid for lack of novelty. 35 U.S.C. ¡± 102.
+ 
+Each party shall bear its costs.
+ 
+AFFIRMED.
+ 
+
+
+MAYER, Chief Judge, dissenting.
+
+I would reverse. The court errs by reading the claim term "or" exclusively, while the district court appropriately read it inclusively when construing the claim. This is not a case of a species anticipating a genus, or of a combination claimed in the alternative. Instead, the Brown patent teaches an apparatus with additional functionality not disclosed in the allegedly anticipating TOCS patent.
+ 
+Claim 16 of the Brown patent includes the following limitations:
+at least one database file stored in the memory containing records with year-date data with years being represented by at least one of two-digit, three-digit, or four-digit year-date data representations;
+and
+a mechanism for converting the year-date data representations in the database file to a two-digit year-date data representation.
+¡¬824 patent, col. 18, ll. 59-65.
+ 
+The "mechanism for converting the year-date data representations in the database file" refers to "the" antecedent year-date data representations in the prior limitation. Such data representations may consist of only two-digit dates, only three-digit dates, only four-digit dates, or any combination or sub-combination thereof. Therefore, although the data may vary, the mechanism always must have the capacity to convert all of the possible data sets into two-digit year-date data representations. Moreover, the "mechanism for converting ..." limitation is stated in means-plus-function format pursuant to 35 U.S.C. ¡± 112, ? 6, and must be interpreted by reference to the structure or acts disclosed in the specification. The preferred embodiment in the specification discloses a process for converting all such possible year-date combinations to two-digit representations, before further processing to offset the system clock. See ¡¬824 patent, col. 12, l. 5-col. 13, l. 7. The presence of this disclosure mandates the construction of the "mechanism for converting ..." limitation as one that requires the capacity to process two-, three- and four-digit dates, even if the full capacity of the device is not always utilized.
+ 
+To invalidate a patent by anticipation, a prior art reference needs to disclose each and every limitation of the claim. Standard Havens Prods., Inc. v. Gencor Indus., Inc., 953 F.2d 1360, 1369, 21 USPQ2d 1321, 1328 (Fed.Cir.1991). The TOCS patent teaches a mechanism for processing two-digit year-date representations by using an offset date other than an actual date. However, it does not disclose a mechanism for converting three- or four-digit year-date representations to two-digit year-date representations for use with the offset clock. See, e.g., ¡¬836 patent, col. 9, ll. 50-64, col. 10, ll. 38-67, col. 2, ll. 42-44. Although its specification states that "... all date data is preferably converted prior to processing by the application so that the years are confined to a single century," id. at col. 4, ll. 18-20, it discloses no acts or structure to perform this conversion, and *1354 makes no mention of reducing three- or four-digit dates to two-digit dates. Therefore, the TOCS patent does not anticipate because it does disclose the "mechanism for converting the year-date data representations" limitation.
+ 
+Similarly, the test for literal infringement under ¡± 112, ? 6 is first, whether the accused device performs an identical function to the one recited in the claim, and, if so, whether the accused device uses the same structure, materials or acts found in the specification, or their equivalents. Gen. Elec. Co. v. Nintendo Co., Ltd., 179 F.3d 1350, 1355, 50 USPQ2d 1910, 1913-14 (Fed.Cir.1999). A system made in accordance with the TOCS patent would not literally infringe the ¡¬824 patent because it would not perform the function of converting three-digit and four-digit date representations. Therefore, because it would not infringe if later, it cannot anticipate though earlier.
+ 
+Moreover, the burden of proving a patent anticipated is particularly high when the prior art was before the examiner during prosecution of the application. Hewlett-Packard Co. v. Bausch & Lomb Inc., 909 F.2d 1464, 1467, 15 USPQ2d 1525, 1527 (Fed.Cir.1990). Brown cited the TOCS patent as a reference to the examiner in his application for his ¡¬824 patent. Had the examiner believed that the Brown patent was claimed in the alternative, he would be expected to have imposed a restriction requirement, or rejected the application. Instead, he allowed the claims, which use the term "or" in a practical common-sense way of claiming the single invention of an apparatus with multiple inter-related functions. This is not to say that the TOCS patent might not inherently disclose the missing limitation in the Brown patent, or that the Brown patent might not be held invalid as obvious, or even that Brown might be unpatentable as not "useful." But neither the parties nor the district court put those questions before us today.
+ 
+All Citations
+265 F.3d 1349, 60 U.S.P.Q.2d 1375
+Footnotes
+1
+Brown v. Proctor & Gamble Co., No. 99-CV-1577 (D.Az. Aug. 10, 2000).
+
+End of Document
+(c) 2019 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+Liao, Ivan 2/4/2019
+For Educational Use OnlyBrown v. 3M, 265 F.3d 1349 (2001)60 U.S.P.Q.2d 1375
+
+ (c) 2019 Thomson Reuters. No claim to original U.S. Government Works. 
+

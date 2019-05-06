@@ -1,0 +1,64 @@
+867_F.3d_1229
+United States Court of Appeals Federal Circuit
+GEORGETOWN RAIL EQUIPMENT COMPANY Plaintiff-Appellee
+v. HOLLAND L.P. Defendant-Appellant
+2016-2297
+| Decided : August 1 2017
+Synopsis
+Background : Owner of patent related to a system and method for inspecting railroad_tracks with the use of digital_technology brought infringement action
+Following claim_construction 2014_WL_11498109 and jury trial the United_States_District_Court for the Eastern_District of Texas No._6 :13-cv-00366-RWS Robert Schroeder III J. entered finding of infringement and 2016_WL_3346084 denied competitor 's renewed motion for judgment as a matter of law ( JMOL ) of noninfringement and awarded enhanced damages based on finding of willful_infringement
+Competitor appealed
+
+Holdings : The Court of Appeals Wallach Circuit_Judge held that :
+
+competitor infringed patent ;
+
+substantial_evidence supported award of lost profits ;
+
+substantial_evidence supported finding that subjective recklessness led to willful_infringement of patent ; and
+
+it was within district court 's discretion to award enhanced damages
+
+Affirmed
+
+*1233 Appeal from the United_States_District_Court for the Eastern_District of Texas in No._6 :13-cv-00366-RWS Judge Robert Schroeder III
+Attorneys and Law Firms
+DANA M. HERBERHOLZ Parsons Behle & Latimer Boise ID argued for plaintiff-appellee
+Also represented by CHRISTOPHER CUNEO JAMIE K. ELLSWORTH ; C. KEVIN SPEIRS Salt Lake City UT
+DANIEL J. SCHWARTZ Faegre Baker Daniels LLP Chicago IL argued for defendant-appellant
+Also represented by KATHRYN ANN FEIEREISEL ; LAUREN J. FRANK TIMOTHY E. GRIMSRUD Minneapolis MN
+Before Reyna Schall and Wallach Circuit_Judges
+Opinion
+Wallach Circuit_Judge
+Following a claim_construction ruling adverse to Appellant Holland_L.P. ( `` Holland '' ) a jury in the U.S. District_Court for the Eastern_District of Texas ( `` District_Court '' ) found that Holland infringed Appellee Georgetown Rail Equipment Company 's ( `` Georgetown '' ) U.S. Patent 7,616,329 ( `` the '329_patent `` ) and awarded Georgetown lost profits
+The District_Court later approved an additional award of enhanced damages based on a finding of willful_infringement
+Holland appeals the District_Court 's conclusions as to claim_construction willful_infringement and enhanced damages as well as its decision to deny Holland 's renewed motion for judgment as a matter of law ( `` JMOL '' ) of noninfringement
+See Georgetown Rail Equip Co. v. Holland_L.P. ( Georgetown Rail II ) No._6 :13-cv-366 2016_WL_3346084 at *1 ( E.D
+Tex
+June_16,_2016 ) ( denying JMOL and granting Motions for Finding of Willful Infringement and Enhanced Damages ) ; Georgetown Rail Equip Co. v. Holland_L.P. ( Georgetown Rail I ) No._6 :13-cv-366-JDL 2014_WL_11498109 at *1 ( E.D
+Tex
+Nov._13,_2014 ) ( Claim Construction Order ) ; J.A
+162-63 ( Final Judgment )
+We have jurisdiction pursuant to 28 U.S.C.¡± 1295 ( a ) ( 1 ) ( 2012 )
+We affirm
+
+BACKGROUND
+I
+The Patented Technology
+The '329_patent generally relates to a `` system and method for inspecting railroad_tracks '' with the use of digital_technology
+'329_patent Abstract
+Specifically it discloses a system for inspecting tie_plates which are steel plates that connect the steel rail tracks to wooden_ties
+Id
+col. 2_ll._19 -31 ; J.A
+928
+Tie plates can sink or cut into the wooden_ties and disrupt railroad service
+'329_patent Abstract
+The '329_patent purportedly improves the *1234 prior art by automating the examination of misaligned tie_plates a process that was historically performed manually with certain software systems
+See id
+col. 1_l._39 -col. 2_l._6_(describing_the_prior_art)
+
+Claim 16 the only asserted claim recites : A system for inspecting a railroad_track_bed including the railroad_track to be mounted on a vehicle for movement along the railroad_track the system comprising : at least one light generator positioned adjacent the railroad_track for projecting a beam of light across the railroad_track_bed ; at least one optical receiver positioned adjacent the railroad_track for receiving at least a portion of the light reflected from the railroad_track_bed and generating a plurality of images representative of the profile of at least a portion of the railroad_track_bed ; and.at least one processor for analyzing the plurality of images and determining one or more_physical_characteristics of the said portion of the railroad_track_bed the one or more_physical_characteristics comprising at least a geographic location of the plurality of images along the railroad_track_bed wherein the processor includes an algorithm for detecting a misaligned or sunken tie_plate of the railroad_track_bed the algorithm comprising the steps of : ( a ) analyzing a frame of the plurality of images the frame comprising a region of interest ; ( b ) determining whether the region of interest contains a tie_plate ; ( c ) if a tie_plate is present determining a crosstie_contour and a tie_plate_contour ; ( d ) comparing an orientation of the crosstie_contour and an orientation of the tie_plate_contour ; and
+( e ) determining whether the tie_plate is misaligned or sunken based upon the comparison
+Id
+col. 11_l._40 -col. 12_l._2_(emphasis_added)
+

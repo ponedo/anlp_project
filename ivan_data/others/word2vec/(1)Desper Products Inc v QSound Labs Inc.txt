@@ -1,0 +1,441 @@
+157_f.3d_1325
+united states court of appeals federal circuit
+desper products inc. and spatializer_audio_laboratories inc. plaintiffs-appellees v. qsound labs inc. defendant-appellant
+no._97-1163
+| sept._18,_1998
+synopsis
+patentees competitors brought declaratory judgment action against patentee seeking that their product did not infringe patents for an audio_sound_image_location_system and that patents were invalid and patentee counterclaimed for patent_infringement
+the united_states_district_court for the central_district of california william duffy keller j. entered summary_judgment in favor of competitors and patentee appealed
+the court of appeals plager circuit_judge held that 1 district_court correctly interpreted patent claims ; 2 prosecuting attorneys remarks during prosecution of the applications could be used to interpret disputed claim_language ; 3 patents were not literally infringed ; and 4 prosecution_history estopped precluded finding of infringement under the doctrine of equivalents
+
+affirmed
+
+attorneys and law firms
+*1327 ira m. siegel ladas & parry los angeles california argued for plaintiffs-appellees
+of counsel was james c. yoon wilson sonsini goodrich & rosati palo alto california
+mark norman mutterperl fulbright & jaworski l.l.p. washington dc argued for defendant-appellant
+with him on the brief were robert j. koch and karen a. ballotta washington dc and david h. tannenbaum dallas texas
+before plager clevenger and gajarsa circuit_judges
+opinion
+plager circuit_judge
+desper_products inc. and spatializer_audio_laboratories inc. collectively` desper' sued qsound_labs inc.` qsound' owner of u.s. patent nos._5105,462 the462_patent and 5,208,860 the860_patent in the united_states_district_court for the central_district of california no
+cv 94-7276
+desper sought a declaratory judgment that despers` spatializer' product does not infringe either patent and that the patents are invalid
+qsound counterclaimed for patent_infringement
+the district_court entered summary_judgment for desper and qsound appeals
+because the district_court correctly interpreted the disputed claim_language and properly concluded that qsound surrendered subject_matter within which despers` spatializer' product falls we affirm the judgment for desper
+
+background
+this case involves two patents the462_patent and the860_patent both entitled *1328` sound imaging method and apparatus'
+at the trial level the case was assigned with the consent of the parties to a special_master
+the parties filed cross-motions for summary_judgment with regard to the question of infringement
+after considering both parties submissions and after conducting an extensive hearing during which both sides put on expert_testimony the special_master recommended that judgment of non-infringement be entered in favor of desper with one exception in which the special_master deemed the infringement of certain claims to involve a disputed question of fact precluding summary_judgment
+
+the district_court adopted all of the special_masters recommendations except the one in which the master thought there existed a genuine dispute of material_fact
+the district_court concluded that desper was entitled to summary_judgment of non-infringement on all the asserted claims
+the district_court entered final judgment of non-infringement in despers favor under fed.r.civ.p
+54 b
+qsound now appeals that ruling
+
+a
+the patented technology
+both of qsounds patents stem from a common application and as such have a common written description ; only the claims differ between the two
+the patents describe an audio_sound_image_location_system that processes a monaural sound signal in such a way as to create an illusion that the source of the sound is located someplace in a three-dimensional_space
+the patented invention gives an audiophile the ability to locate individual sounds at different locations in space in order to create a` virtual symphony'
+
+at the heart of the patented_system is a so-called` sound_processor'
+a block diagram of a sound image location system incorporating two such sound_processors is shown in fig._16 in the patents and is reproduced below
+
+fig._16
+?
+a monaural_signal is provided at terminal 1502
+that signal is separated into two individual` channel_signals'
+each channel_signal is then processed through a separate` channel'
+one channel includes sound_processor 1501 while the other includes sound_processor 1502
+each sound_processor alters the phase and amplitude of the channel_signal passed through the respective channel
+the output of each sound_processor can be coupled to a transducer not shown in fig._16 otherwise known as a speaker to reproduce the sound
+by altering the phase and amplitude of the channel_signals the patented_system allegedly can create the illusion that the sound originates from a point in 3-dimensional_space away from the speakers even though the sound actually originates from the speakers
+
+as is well known in the art a transfer_function is the relationship between the output *1329 of a component in a system to its input
+the transfer_function in the preferred_embodiment of the patents was empirically derived through a laborious process which is described in detail in the patents
+the patents stress the importance of the change in amplitude and phase of one of the channel_signals relative to the other
+as a result of this relative relationship between the signals one of the sound_processors can be significantly reduced or even eliminated by performing all of the amplitude_alteration and phase_shifting on one of the channel_signals
+as described in the patents the transfer_functions themselves can be changed by position_control_parameters that are provided to the sound_processors via terminal 1505
+these position_control_parameters give a user the added flexibility of moving the apparent point of origin of a sound giving a similar effect as the adjustment of` balance' or` fade' controls would in a conventional stereo
+
+a schematic diagram of the preferred_embodiment of the patented sound_processor is shown in the patents at fig._18 a which is reproduced below
+
+fig._18 a. ?
+the phase_shifting and amplitude_alteration is performed in filters 1610_and_1630 which are specifically designed to impart a unique and different change in each of a plurality of successive frequency_bands that comprise the audio_spectrum i.e. 20-20,000 hz
+in one embodiment of the sound_processor the bands are 40 hz in width thus creating approximately 500 bands within the audio_spectrum
+it is critical both for the operation and patentability of the invention that the phase_shift and amplitude_change for each of the frequency_bands be individually specified
+the ability to separately alter the phase and amplitude of the channel_signals for each frequency band is at the heart of the invention
+to implement this approach the patent describes a filter embodiment that uses a plurality of cascaded bandpass_filters with each bandpass_filter designed to impart a pre-determined phase_shift and amplitude_change to a corresponding frequency band
+
+the sound_processor design shown in fig._18 a includes six potentiometers 1651-1654 1657 1658 to give the system added flexibility
+in the preferred_embodiment four of the potentiometers 1651-1654 are controlled by a single two-axis joystick so that an operator can vary the apparent position of the sound in a smooth and continuous manner
+the four potentiometers operate as follows
+the monaural_signal is simultaneously fed to the potentiometers 1651_and_1652
+the two potentiometers 1651_and_1652 work differentially so that an increase in one produces a corresponding decrease in the other and vice versa
+the output of filter 1610 is fed to a differentially controlled potentiometer 1653 which attenuates the output of the filter
+*1330 the companion to potentiometer 1653 is potentiometer 1654 which is coupled to the output of filter 1630 in order to attenuate its output
+the two potentiometers 1653_and_1654 operate in the same complimentary manner as potentiometers 1651_and_1652
+
+the output of potentiometer 1653 is passed through a buffer amplifier 1655 to another potentiometer 1657 and from there to reversing switch 1659` which allows the filter_signals to be fed directly or interchanged to first_inputs of summing elements 1660_and_1670'
+'462_patent col._13,_ll._12-14
+assuming that switch 1659 is in the position shown in fig._18 a the output of potentiometer 1657 is fed to summing element 1670 while the output of potentiometer 1658 which acts in unison with potentiometer 1657 is fed to summing element 1660 where it is summed with the attenuated monaural_signal
+
+from the summing elements the channel_signals proceed to their respective output terminals 1688_and_1689
+the embodiment shown in fig._18 a permits the operator to individually select different signals by changing the settings of switches 1682 1685 and 1691 the details of which are not relevant to the present dispute
+
+b
+the district court proceedings
+before the district_court qsound asserted the four independent_claims of the two patents claims 1_and_7 of the462_patent ; and claims 1_and_5 of the860_patent
+the special_master in a thorough opinion interpreted a number of disputed words and phrases in the asserted claims.1 the district_court adopted most of the special_masters findings and recommendations
+while qsound challenges many of these conclusions we need only consider a few of the disputed phrases because they are dispositive
+each of the independent_claims is reproduced below with the disputed claim_language emphasized
+
+1
+the claims
+a
+the462_patent 1
+a method for producing and locating an apparent_origin of a selected sound from an electrical_signal corresponding to the selected sound in a predetermined and localized position anywhere within the three-dimensional_space containing a listener comprising the steps of separating said electrical_signal into respective first and second_channel_signals ; altering the amplitude and shifting the phase of the signal in both said first and second_channel_signals while maintaining said phase and amplitude_differential therebetween for successive_discrete_frequency_bands across the audio_spectrum and each successive_phase_shift being different than the preceding phase_shift relative to zero degrees thereby producing first_channel and second_channel modified signals and creating a phase differential and an amplitude_differential between the two channel_signals ; maintaining the first_channel_signal separate and apart from the second_channel_signal following the step of altering the amplitude and shifting the phase ; and
+respectively applying said first and second_channel modified signals that are maintained separate and apart and that have said phase and amplitude_differential therebetween to first and second_transducer means located within the three-dimensional_space and spaced part [ sic apart ] from the listener to produce a sound apparently originating at a predetermined location in the three-dimensional_space that may be different from the location of said sound_transducer means
+7
+a system for conditioning a signal for producing and locating using two transducers located in free_space an auditory_sensory_illusion of an apparent_origin for at least one selected sound at a predetermined localized position located within the three-dimensional_space containing a listener from a single electrical_signal corresponding to the selected sound comprising first and second_channel means both *1331 receiving the same single electrical_signal said first and signal [ sic second ] channel means including respective first and second sound_processor means each for altering the amplitude and shifting the phase_angle of the respective electrical_signal on a frequency_dependent_basis for successive_discrete_frequency_intervals across the audio_spectrum to produce a respective modified signal wherein the amplitude_alteration differential and the phase_angle_shift differential occurring between the two channels are respective predetermined values for each said successive_frequency_interval of the audio_spectrum said sound_processor means shifting the phase_angle such that each successive phase_angle_shift is different and independent of a preceding phase_angle_shift relative to zero degrees and said first and second_channels being maintained separate and apart prior to being fed to the two transducers
+b
+the860_patent 1
+a method for producing and locating an apparent_origin of a selected sound from an input_monaural_signal corresponding to the selected sound in a predetermined and localized position anywhere within the three-dimensional_space containing a listener comprising the steps of separating said input_monaural_signal into respective first and second_channel_signals ; providing a sound_position_control_signal derived independently of the input_monaural_signal for making amplitude and phase_adjustments at each of a number of discrete_frequency_bands over the audio_spectrum and relating to a sound_location determined by azimuth height and depth ; altering the amplitude and shifting the phase of the signal in at least one of said first and second_channels in response to said sound_position_control_signal both altering and shifting being done on a predetermined frequency_dependent_basis for successive_discrete_frequency_bands across the audio_spectrum and each successive_phase_shift being different than the preceding phase_shift relative to zero degrees thereby producing at least a first_channel or a second_channel modified signal and creating a continuous phase differential and a continuous amplitude_differential between the two channel_signals that varies for each of said discrete_frequency_bands ; maintaining the first_channel_signal separate and apart from the second_channel_signal following the step of altering the amplitude and shifting the phase ; and
+respectively applying at least first and second_channel modified signals that are maintained separate and apart and that have said phase and amplitude_differential therebetween to first and second_transducer means located with [ sic within ] the three-dimensional_space and spaced apart from the listener to produce a sound apparently originating at a predetermined location in the three dimensional_space that may be different from the location of said sound_transducer means
+5
+a system for conditioning a signal for producing and locating using two transducers located in free_space an auditory_sensory_illusion of an apparent_origin for at least one selected sound at a predetermined localized position located within the three-dimensional_space containing a listener from a single_monaural_input_signal corresponding to be selected sound comprising first and second_channel means both receiving the same single_monaural_input_signal one of said first and signal channel means including sound_processor means connected to receive a sound_position_control_signal derived independently of the input_monaural_signal for controlling amplitude and phase_adjustments at each of a number of selected frequency_intervals of the audio_spectrum and relating to a sound_location determined by azimuth height and depth for altering the amplitude and shifting the phase_angle of the respective signal on a frequency_dependent_basis for successive_discrete_frequency_intervals across the audio_spectrum to produce a respective modified signal therefrom *1332 in response to said sound_position_control_signal wherein the amplitude_alterations and the phase_shifts form a continuous differential between the two channels that varies for each said successive_frequency_interval of the audio_spectrum said sound_processor means shifting the phase_angle such that each phase_angle_shift is different relative to zero degrees and said first and second_channels being maintained separate and apart prior to being fed to the two transducers
+2
+the claim construction
+the first claim at issue of each of the patents is a method_claim while the second claim at issue of each of the patents is a claim to a` system'
+after examining the prosecution_history the special_master gave the phrase` being maintained separate and apart' its ordinary literal meaning
+he distinguished however between the term` following' that appears in claim 1 of the462 and the860_patent s and the phrase` prior to' that appears in claim 7 of the462_patent and claim 5 of the860_patent
+
+the special_master interpreted` prior to' as simply requiring that the two signals be kept separate and apart` merely immediately before the loudspeakers [ i.e. thetransducers ] where the signals are clearly separate and apart'
+`` following' however was deemed more restrictive
+the special_master interpreted that term to require the two signals to be kept` separate and apart' from each other immediately after the two signals are initially altered
+
+because the two channel_signals in the accused spatializer_device are combined after their phase and amplitudes are altered but are separated immediately before they are fed to the speakers the special_master recommended that the spatializer does not infringe the` following' claims but potentially could infringe the` prior to' claims
+as indicated above the district_court adopted the special_masters recommendations as to the` following' claims but not the` prior to' claims
+the district_court held that desper was entitled to summary_judgment of non-infringement on the` prior to' claims as well as the` following' claims
+on appeal qsound challenges the district_courts interpretation of both` following' and` prior to
+`` 2
+
+discussion
+`` the law governing summary_judgment is well established'
+c.r
+bard inc. v. advanced cardiovascular inc. 911_f.2d_670 672 15_uspq2d_1540 1542 fed.cir.1990
+`` summary judgment is as appropriate in a patent case as it is in any other case'
+id
+under the federal rules of civil procedure a motion for summary_judgment should properly be granted when` there is no genuine issue as to any material_fact and.. the moving party is entitled to a judgment as a matter of law'
+fed.r.civ.p
+56 c
+
+the determination of whether an accused product or process infringes a claim of a patent is universally understood to involve two steps
+first we construe the asserted claim to determine its meaning and scope
+see markman v. westview instruments inc. 52_f.3d_967 976 34_uspq2d_1321 1326 fed.cir.1995 in banc affd 517_u.s._370 116_s.ct._1384 134_l.ed.2d_577 38_uspq2d_1461_(1996)
+in the second_step we compare the accused product or process to the properly construed claim
+see id
+
+whether a product or process infringes the properly construed claims of a patent literally or under the doctrine of equivalents is a question of fact
+see tanabe seiyaku co. v. united_states_int l_trade_comm n 109_f.3d_726 731 41_uspq2d_1976 1981 fed.cir.1997
+often as in this case the composition of the allegedly infringing process or product is undisputed
+in such a case literal infringement collapses into claim_construction-a matter of law-amenable to *1333 summary_judgment
+see athletic alternatives inc. v. prince mfg. inc. 73_f.3d_1573 1578 37_uspq2d_1365 1370 fed.cir.1996
+
+to determine the meaning and scope of a claim we first examine the claim_language the specification and if in evidence the prosecution_history
+see vitronics corp. v. conceptronic inc. 90_f.3d_1576 1581 39_uspq2d_1573 1576 fed.cir.1996
+extrinsic evidence that is evidence outside the record before the united states patent and trademark_office` pto' such as expert_testimony about how those skilled in the art would interpret certain language in the claim may also be considered when appropriate as an inherent part of the process of claim_construction and as an aid in arriving at the proper construction of the claim but may not be used to vary or contradict the otherwise unambiguous meaning of the claim
+see id.at 1582 90_f.3d_1576 39 uspq2d at 1577
+the proper_interpretation of a claim is a legal conclusion over which we exercise plenary review
+see cybor corp. v. fas tech. inc. 138_f.3d_1448 1456 46_uspq2d_1169 1174 fed.cir.1998 in banc` [ w ] e review claim_construction de novo on appeal including any allegedly fact-based questions relating to claim_construction
+``
+
+i
+`` following' we start first with the claim_language itself
+see thermalloy inc. v. aavid eng g inc. 121_f.3d_691 692 43_uspq2d_1846 1848 fed.cir.1997` [ t ] hroughout the interpretation process the focus remains on the meaning of claim_language'
+the first claims of both the462_patent and the860_patent require that the system` maintain [ ] the first_channel_signal separate and apart from the second_channel_signal following the step of altering the amplitude and shifting the phase' emphasis added
+the plain_meaning of` following' is` subsequent to after in time' or` next after' depending on the context
+websters third new international dictionary 883 1986
+the problem in this case is that this definition does not tell us how close in time to the` altering' step the signals must be maintained separate and apart
+to answer that question we consult the specifications
+
+though not definitive the specifications support an interpretation that requires the two signals to be maintained separate and apart beginning immediately after the amplitude is initially altered and the phase is initially shifted
+the word` following' appears only twice in each of the written descriptions and is not used with reference to the channel_signals
+( the same is true of the phrase` prior to' discussed infra
+the drawings fig._16 and fig._18 a pictured_supra however graphically demonstrate that once the two channel_signals are separated they are thereafter kept separate
+thus the drawings support the interpretation that immediately after the amplitude and phase of the channels signals are initially altered by the filter they thereafter must be maintained separate and apart
+
+qsound points to an isolated passage in the written description to support its proposed claim_construction that it is only after the alteration of the amplitude and the shifting of the phase by filters and summers are complete that the signals are required to be maintained separate and apart
+the passage upon which qsound relies simply indicates that the sound_processor` may include some or all of the following circuit elements filters delays [ inverters ] summers amplifiers and phase_shifters'
+'462_patent col._11,_ll._11-12
+the passage sheds no light as to when the signals must be maintained separate and apart
+
+in contrast the prosecution_history confirms our claim_construction
+the limitation that the channel_signals be maintained separate and apart was not in the original claim_language
+the original claims of what is now the462_patent were rejected as obvious under ¡± 103 in light of british_patent no._942459
+the original application ser
+no._07 /398,988 was then abandoned in favor of a file_wrapper_continuation` fwc' ser
+no._07_/696,989
+see 37 c.f.r.¡± 1.62 1997
+the limitation that the channel_signals be *1334 maintained separate and apart was then added in a preliminary_amendment dated june_12,_1991
+in the remarks accompanying that amendment the patent applicants attorney stated in fact according to the present_invention once the monaural_signal is split into the two channel_signals those signals are forever after isolated one from another and are never combined or commingled
+various_operations may take place in each channel provided by the present_invention yet the signals being operated upon are never recombined or mixed
+this is in direct_distinction to the teaching of the british_patent.. emphasis added
+in his closing remarks the attorney further stressed in urging reconsideration [ i ] n view of the amendments to the claims hereby as well as the above remarks it is respectfully submitted that a method and apparatus for producing two sound signals derived from a single_monaural_input_signal in which an amplitude and phase_shift is provided with such signals being maintained separate and apart up until the actual production of the sounds at the speakers as taught by the present_invention and as recited in the amended claims is neither shown nor suggested in any of the cited references alone or in combination
+( emphasis added
+rather than wait for a formal written response the applicants conducted a personal examiner interview
+in the resulting` examiner interview summary record' the examiner indicated that the amended claims` appear to distinguish over art of record in prior case fr 1,512,059 & b 942,459'
+however the examiner did come up with a new_reference on which to base another prior_art_rejection
+despite this new_reference the examiner indicated that two dependent_claims would be allowable if they were to be rewritten in independent form
+in response the applicants abandoned the original independent_claims and took what the examiner allowed
+the rewritten claims were subsequently allowed and issued as part of the462_patent
+
+the prosecution_history of the860_patent s tells much the same story
+the860_patent was originally filed as a rule 60 divisional of the fwc ser
+no._07_/696,989
+see 37 c.f.r.¡± 1.60 1997
+in a preliminary_amendment dated october 31 1991 after the parent application had been rejected in view of the british_patent the applicants amended all the independent_claims to include the limitation that the channel_signals be maintained separate and apart
+in an office action dated february 5 1992 the examiner rejected the amended claims as obvious in light of another reference
+the applicants attorney responded with further amendments to the claims and accompanying remarks in which the attorney distinguished the claimed invention from the cited reference
+this amendment was sufficient to overcome the rejection and the amended claims were issued as part of the860_patent
+thus in the file history of both patents the limitation that the channel_signals be maintained separate and apart was added to overcome the prior_art_rejection based on the british_reference and in both cases it succeeded
+
+qsound does not argue on appeal that its attorneys comments do not on their face limit the scope of the asserted claims
+rather qsound argues that the prosecuting attorneys remarks should not be used to interpret the disputed claim_language because the remarks according to qsound were both erroneous and extraneous-erroneous because they are contrary to the express teaching of the patent itself and extraneous because they did not become part of the claim
+we disagree on both accounts
+
+fig._18 a pictured_supra according to qsound` proves.. that counsels statement was erroneous'
+brief for appellant at 33
+in particular qsound argues that` [ a ] fter the signals pass through the points labeled 1657_and_1658 figure 18 [ a ] shows that the signals cross and are commingled at the point labeled 1659'
+brief for appellant at *1335 34
+this post-hoc argument flies in the face of the entirety of the written description and the operation of a switch as well understood in the art
+the symbol for 1659 shows a broken diagonal_line with a continuous diagonal_line passing through the opening therein
+this notation is used as is well known in the art to indicate that the two conductors within the switch are not connected
+the switch according to the written description` allows the filter_signals to be fed directly or interchanged to first_inputs of summing elements 1660_and_1670'
+'462_patent col. 13 lines 12-14
+thus reversible_switch 1659 does not as qsound alleges` commingle' the two channel_signals but instead re-routes the respective signals to either summing element 1660_or_1670 depending on the switch setting
+switch 1659 therefore gives the operator the ability to create a mirror image of the sound illusion by simply flipping the switch
+this reading is consistent with the normal operation of a reversible_switch
+counsels argument to the contrary is disingenuous at best and blatantly false at worst
+
+following oral argument during which counsels characterization of the switch was challenged qsound attempted to bolster its untenable position with a submission of testimony from its expert ostensibly pursuant to fed
+r.app
+p. 28 j
+rule 28 j however permits a party to bring supplemental authorities to the courts attention not supplemental argument
+accordingly qsounds submission was improper
+even were we to consider the proffered testimony it does not prove qsounds point
+none of the cited testimony establishes that reversible_switch 1659 commingles the two channel_signals
+qsounds attempt to sacrifice the prosecuting attorney who wrote and prosecuted the application before the pto and who presumably was in the best position at the time to understand the true nature of the invention-for the sake of its case here-is unavailing
+
+qsound also argues that the prosecuting attorneys remarks were` extraneous' in that` they did not become part of the claim'
+in essence qsound argues our interpretation would import into the claim the attorneys` erroneous' remarks
+in support of this proposition qsound relies primarily on intervet america inc. v. kee-vet labs. inc. 887_f.2d_1050 12_uspq2d_1474_(fed.cir.1989)
+intervet provides no such support
+in intervet the trial_court read two limitations into the claims` single_administration' and` attenuation' based on the remarks of the prosecuting attorney
+the` single_administration' limitation was in fact an express limitation in one of the independent_claims but not the others
+during prosecution` the attorney made the unqualified and now admittedly untrue_statement thatthe claims are restricted to a single vaccination scheme
+`` id.at 1054 12 uspq2d at 1477
+this court not surprisingly held that the independent_claims in which the` single_administration' limitation did not appear were not limited to a` single_administration' the attorneys remarks notwithstanding
+id
+this court also reversed the trial_courts construction that required the claims to include an` attenuation' limitation based on the attorneys remarks even though that word did not appear in any of the claims
+id.at 1055 12 uspq2d at 1478` we have set forth the asserted claims in full above and it is clear that they make no reference whatever to attenuation
+``
+
+the differences between intervet and this case are apparent
+first the dispute in this case involves the proper_interpretation of language that is in the claims in particular the words` following' and` prior to'
+we are interpreting explicit claim_language not importing limitations into the claim
+second the attorneys remarks in this case were not` erroneous'
+as we have discussed above the attorney accurately described the claimed invention and the cited prior_art
+there is no` admittedly untrue_statement' in this case as in intervet
+thus qsounds reliance upon intervet is misplaced
+
+qsound further argues that the attorneys remarks should not be used to interpret the claim_language because the amendment that precipitated the remarks did not end the prosecution
+in effect qsound argues that the remarks were inconsequential because *1336 they did not result in allowance of the claims
+again qsound relies on intervet
+what qsound fails to acknowledge however is that the amendment and accompanying remarks were made for the purpose of overcoming the outstanding_rejection based on the british_patent
+that the prosecution shifted to a different focus does not blunt the impact of those remarks made to overcome the prior rejection
+the significance of the remarks in this case is no different than in a case in which the claims are allowed in response to an amendment
+
+we conclude that the claim_construction for claim 1 of the462_patent and of the860_patent adopted by the district_court is correct
+
+ii
+`` prior to' claim 7 of the462_patent and claim 5 of the860_patent the two other independent_claims that are at issue both claim a` sound_processor means'
+these elements are written in means-plus-function_language as 35 u.s.c.¡± 112 ?
+6 1994 permits since they recite a function without corresponding structure see id
+; fonar corp. v. general elec co. 107_f.3d_1543 1551 41_uspq2d_1801 1807 fed.cir.1997
+interpreting the function of an element written in means-plus-function_language is a question of law subject to complete and independent review on appeal
+see chiuminatta concrete concepts inc. v. cardinal indus. inc. 145_f.3d_1303 46_uspq2d_1752 1755 fed.cir.1998
+
+qsound argues that the district_court misconstrued the functional language-' said first and second_channels being maintained separate and apart prior to being fed to the two transducers' -appearing in claims 5_and_7
+in particular qsound argues that the court erred in its construction of` prior to'
+the district_court construed` prior to' based on the written description and the prosecution_history consistent with its interpretation of` following'
+in light of all the intrinsic_evidence we conclude that the district_court properly construed this phrase
+
+the plain_meaning of` prior' supports qsounds argument that` prior to' should be construed more broadly than` following'
+qsound offers a definition for` prior' which desper does not dispute` preceding in time ; earlier ; previous ; former' quoting websters newworld dictionary 1131 2d ed.1984
+accord websters ii new college dictionary 879 1995
+all the plain language requires under this definition is that the two channel_signals must be maintained separate and apart before they are fed into the transducers i.e. the speakers
+there is some appeal to this argument
+common words unless the context suggests otherwise should be interpreted according to their ordinary_meaning
+see york prods. inc. v. central tractor farm & family ctr. 99_f.3d_1568 1572 40_uspq2d_1619 1622 fed.cir.1996` without an express intent to impart a novel meaning to claim terms an inventors claim terms take on their ordinary_meaning'
+the problem with qsounds approach in this case is that the context of the specifications strongly suggests that` prior to' should not be given its ordinary_meaning
+
+the drawings and corresponding discussion in the written description show that the two channel_signals are initially separated and thereafter maintained separate and apart
+the phase and amplitude of each channel_signal is altered and then supplied to one of the speakers
+the district_court construed the` prior to' language as requiring the channel_signals to be maintained separate and apart after the phase and amplitude are initially altered
+obviously this construction is supported by the written description because this is precisely how the preferred_embodiment of the invention works
+moreover maintaining the channel_signals separate and apart after the phase and amplitude are initially altered is still before the signals are fed into the transducers
+
+the district_court concluded that the prosecution_history tips the balance in favor of construing` prior to' in the same manner as` following' in claim 1
+we agree
+prosecution history is an important source *1337 of intrinsic_evidence in interpreting claims because it is a contemporaneous exchange between the applicant and the examiner
+this is true whether the claim element in question is written pursuant to ¡± 112 ?
+6 or not
+see alpex computer corp. v. nintendo co. 102_f.3d_1214 1220 40_uspq2d_1667 1671 fed.cir.1996 prosecution_history is relevant to interpreting an element written in means-plus-function_language ; united states v. telectronics inc. 857_f.2d_778 782 8_uspq2d_1217 1220 fed.cir.1988
+during the prosecution of claim 7 of the462_patent qsound treated claim 1 and claim 7 then claim 8 together even though one used` following' language and the other used` prior to' language
+in successfully overcoming the prior_art_rejection based on the british_patent qsound argued that` claims 1_and_8 have been amended hereby to make it more clear that the first_channel_signal is always maintained separate and apart from the second_channel_signal following the step of altering the amplitude and shifting the phase in at least one of those signals'
+( emphasis added
+thus even though only claim 1 included the` following' language qsound itself considered the scope of claims 1_and_8 commensurate in this regard
+
+because the public has the right to rely on the applicants remarks in seeking allowance of their claims see alpex 102 f.3d at 1221 40 uspq2d at 1673` just as prosecution_history_estoppel may act to estop an equivalence argument under the doctrine of equivalents positions taken before the pto may bar an inconsistent position on claim_construction under ¡± 112 ?
+6
+`` we agree with the district_court that` prior to' should be construed to mean after the altering of the amplitude and shifting of the phase has begun see tandon corp. v. united_states_int l_trade_comm n 831_f.2d_1017 1023 4_uspq2d_1283 1288 fed.cir.1987` [ t ] wo claims which read differently can cover the same subject_matter
+``3
+
+iii
+non-infringement
+the second_step in an infringement analysis is determining whether the properly construed claim reads on the accused device
+see markman 52 f.3d at 976 34 uspq2d at 1326
+in order to literally infringe a method_claim the accused device must literally meet each and every one of the claim limitations
+to find infringement under ¡± 112 ?
+6 the accused device must inter_alia perform the identical_function to that claimed in the means-plus-function element
+see cybor 138 f.3d at 1457 46 uspq2d at 1175
+
+a
+the structure of the spatializer is not in dispute
+the spatializer,4 as in the claimed invention splits the monaural_signal into two channel_signals` lin' and` rin'
+a third_signal` c' is created by summing these two signals together
+the phase and amplitude of this third_signal are then altered by a bandpass_filter
+the output of the filter is passed through an amplifier
+the output of the amplifier is then added to one of the two channel_signals i.e. lin by a summer to form one of the output_signals` lout' which is then fed to a speaker
+the third_signal c is subtracted from the other channel_signal i.e. rin to form the other_output_signal` rout'
+
+in view of the undisputed structure and operation of the accused device we agree with the district_court that the two channel_signals in the spatializer are not` maintain [ ed ] *1338.. separate and apart.. following the step of altering the amplitude and shifting the phase' as we have properly interpreted that phrase
+the two channel_signals are mixed by the summer thereby altering the amplitude after the phase has been shifted by the bandpass_filter
+thus the two channel_signals are not maintained separate and apart after the step of altering the amplitude and shifting the phase has begun
+accordingly the spatializer can not and does not literally infringe either claim 1 of the462_patent or claim 1 of the860_patent5 since we have construed the phrase` prior to' in claim 7 of the462_patent and claim 5 of the860_patent to be commensurate with the` following' limitation these claims also are not literally infringed because the spatializer does not perform the identical_function
+accordingly we affirm the district_courts summary_judgment that the accused` spatializer' device does not literally infringe
+
+b
+an accused device that does not literally infringe a claim may nonetheless infringe under the doctrine of equivalents if differences between the accused device and the claimed invention are` insubstantial'
+see fonar 107 f.3d at 1555 41 uspq2d at 1810
+however` [ p ] rosecution history estoppel precludes a patentee from obtaining in an infringement suit patent protection for subject_matter which it relinquished during prosecution in order to obtain allowance of the claims'
+mark_i mktg corp. v. r.r
+donnelley & sons co. 66_f.3d_285 291 36_uspq2d_1095 1099-1100 fed.cir.1995 ; southwall techs. inc. v. cardinal ig co. 54_f.3d_1570 1580 34_uspq2d_1673 1680 fed.cir.1995
+
+amendments made to overcome a prior_art_rejection can create such an estoppel
+see litton sys. inc. v. honeywell inc. 140_f.3d_1449 1462 46_uspq2d_1321 1330 fed.cir.1998
+the scope of the estoppel in such cases includes` features that the applicant amended his claim to avoid' or` trivial variations of such prior_art features'
+id
+( citing southwall 54 f.3d at 1580 34 uspq2d at 1680
+moreover prosecution_history_estoppel can not be avoided by filing a continuing application with narrowed claims rather than responding directly to an outstanding_rejection
+see mark_i 66 f.3d at 292 36 uspq2d at 1100
+
+unequivocal assertions or arguments made during prosecution may also create an estoppel
+see haynes int l inc. v. jessop steel co. 8_f.3d_1573 1579 28_uspq2d_1652 1657 fed.cir.1993` thus an estoppel can be created even when the claim which is the basis for the assertion of infringement under the doctrine of equivalents was not amended during prosecution
+`` ; texas instruments inc. v. united_states_int l_trade_comm n 988_f.2d_1165 1174 26_uspq2d_1018 1025 fed.cir.1993
+
+the application and scope of prosecution_history_estoppel is a legal question which is reviewed without deference to the trial_court
+see labounty mfg. inc. v. united_states_int l_trade_comm n 867_f.2d_1572 1576 9_uspq2d_1995 1998 fed.cir.1989
+in determining the scope of what if any subject_matter has been surrendered the standard is an objective one what would a reasonable competitor reading the prosecution_history conclude has been surrendered
+see mark_i 66 f.3d at 291 36 uspq2d at 1100
+
+in this case the amendments made to overcome the prior_art_rejection based on the british_patent coupled with the accompanying unequivocal assertions made by the applicants before the patent and trademark_office to obtain allowance of the claims create an estoppel that precludes infringement under the doctrine of equivalents as a matter of law
+the british_patent entitled` improvements relating to apparatus for deriving pseudo-stereophonic signals' describes an electrical circuit used to produce two *1339 pseudo-stereophonic_signals from a single monaural_signal
+this invention takes the monaural_signal and splits it into two` channel_signals'
+the amplitudes of these two channel_signals are then altered by manipulating the two signals to form a signal equal to their difference
+this difference signal is then added to an attenuated version of the monaural_signal to form one of the pseudo-stereophonic_signals e.g. a right signal and subtracted from the attenuated monaural_signal to form the other pseudo-stereophonic signal e.g. a left signal
+these two pseudo-stereophonic_signals are then fed to respective speakers to reproduce the sound
+
+as explained above the claims of the original patent application ser
+no._07 /398,988 were rejected under 35 u.s.c.¡± 103 1994 as being obvious in view of inter_alia the british_patent
+that action was made final
+rather than appeal this final decision the applicants chose instead to file a file_wrapper_continuation under 37 c.f.r.¡± 1.62
+in addition the applicants filed a preliminary amendment which added the` maintaining.. following' language to claim 1 and` maintained.. prior to' language to then claim 8
+in the accompanying remarks after describing the teaching of the british_patent applicants attorney distinguished the claimed invention including claims 1 and then claim 8 from that reference by the following in fact according to the present_invention once the monaural_signal is split into the two channel_signals those signals are forever after isolated one from another and are never combined or commingled
+various_operations may take place in each channel provided by the present_invention yet the signals being operated upon are never recombined or mixed
+this is in direct_distinction to the teaching of the british_patent..
+
+* * * in order to emphasize the above distinction claims 1_and_8 have been amended hereby to make it more clear that the first_channel_signal is always maintained separate and apart from the second_channel_signal following the step of altering the amplitude and shifting the phase in at least one of those channels
+
+it is clear from this record that the applicants surrendered subject_matter that includes the specific technique employed in the accused spatializer_device
+the british_patent teaches the use of a conditioning_signal derived from the monaural_input_signal
+that conditioning_signal is then added to the monaural_input_signal to form one of the output_signals and subtracted from the input_signal to form the other_output_signal
+thus in the british_patent the conditioning_signal is not kept separate and apart from the input_signal after altering of the amplitude and shifting of the phase has begun
+the applicants explicitly surrendered such a topology when they distinguished the claimed invention from the teaching of the british_patent
+
+the spatializer topology falls within the subject_matter that applicants explicitly disclaimed
+in the spatializer the monaural_input_signal is split into two input_signals
+a conditioning_signal is generated by processing the input_signal
+this conditioning_signal is added back to one of the two input_signals to form one output signal and subtracted from the other input_signal to form the other_output_signal
+thus as in the british_patent the conditioning_signal in the spatializer is not maintained separate and apart from the input_signals after altering of the amplitude and shifting of the phase has begun
+whatever differences there are between the sound_processor in the british_patent and the spatializer with regard to this limitation are` trivial'
+see litton 140 f.3d at 1462 46 uspq2d at 1330
+because the spatializer falls within the subject_matter surrendered by the applicants during the prosecution of the patents infringement under the doctrine of equivalents is precluded as a matter of law.6
+
+qsounds response is to argue that estoppel should not apply since there are other *1340 bases upon which the claimed invention and the british_reference could have been distinguished besides the way the signals are maintained separate and apart
+qsound cites conroy v. reebok int l ltd. 14_f.3d_1570 1576 29_uspq2d_1373 1378 fed.cir.1994 in support
+that case has no application here
+in conroy the district_court granted summary_judgment of non-infringement purportedly using the` hypothetical_claim' analysis under wilson sporting goods co. v. david geoffrey & assoc. 904_f.2d_677 14_uspq2d_1942_(fed.cir.1990) simply upon finding one of the elements of the accused device in the prior_art
+see conroy 14 f.3d at 1577 29 uspq2d at 1378
+we held that that was improper because it failed to consider whether the prior_art would render the` hypothetical_claim' invalid
+see id
+in the case at bar the district_court did not merely find the accused structure in the prior_art
+instead it held that the applicants affirmatively distinguished their claimed invention from that in the prior_art
+this is a classic case of prosecution_history_estoppel
+the fact that the british_reference could have been distinguished standing alone on different grounds is immaterial
+see southwall 54 f.3d at 1583 34 uspq2d at 1682` [ a ] ny argument made regarding the need to distinguish the prior_art.. does create a separate estoppel regardless of other distinctions made'
+( citation omitted
+accordingly summary_judgment of non-infringement under the doctrine of equivalents was proper
+the public has a right to rely on the assertions made by a patent applicant to secure allowance of its claims
+post-hoc litigation-inspired argument can not be used to reclaim subject_matter that the public record in the pto clearly shows has been abandoned
+
+conclusion
+accordingly the summary_judgment of non-infringement is
+
+affirmed
+all citations
+157_f.3d_1325 48_u.s.p.q.2d_1088
+footnotes
+1
+specifically the special_master interpreted` locating'` localized'` predetermined'` maintaining'` channel'` successive'` discrete_frequency_bands'` separate and apart'` altering the amplitude.. for successive_discrete_frequency_bands' and` independent'
+2
+qsound also challenges the interpretation of` discrete' and` independent' as it must to ultimately prevail
+given our interpretation of` maintained separate and apart'` following' and` prior to' however we need not reach these issues
+3
+qsound invokes the rule that different words should be interpreted differently yet it concedes that in other parts of the claims different words should be interpreted the same
+for example the special_master found and qsound concedes that the phrase` frequency_bands' in claim 1 of the860_patent and the phrase` frequency_intervals' in claim 5 mean the same thing
+qsounds argument based on constructional rules therefore loses much of its force
+4
+although there is more than one version of the spatializer the general description given applies equally to all versions
+a protective order prevents us from giving more details on the accused devices
+5
+qsound does not argue the remaining dependent_claims separately and because those claims necessarily must be narrower than the independent_claims they too can not be infringed
+6
+this estoppel applies with equal force to the identical language appearing in the860_patent which was a divisional of the common parent application
+see mark_i 66 f.3d at 291 36 uspq2d at 1100 applying prosecution_history_estoppel to claims in a patent from related application
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only
+desper_products inc. v. qsound_labs inc. 157_f.3d_1325 1998 48_u.s.p.q.2d_1088
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

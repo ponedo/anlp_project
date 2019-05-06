@@ -1,0 +1,84 @@
+521_F.3d_1351
+United States Court of Appeals Federal Circuit
+O2 MICRO INTERNATIONAL LIMITED Plaintiff-Appellee v. BEYOND INNOVATION TECHNOLOGY CO. LTD. Defendant-Appellant and
+FSP_Group and SPI_Electronic_Co. Ltd. Defendants-Appellants and
+Lien Chang Electronic Enterprise Co. Ltd. Defendant-Appellant
+Nos._2007-1302 2007-1303 2007-1304
+| April_3,_2008
+| Rehearing and Rehearing En Banc Denied June_11,_2008
+Synopsis
+Background : Owner of patents relating to inverter_controllers which convert low_voltage_direct_current ( DC ) into higher_voltage alternating current ( AC ) brought infringement action against competitors
+The United_States_District_Court for the Eastern_District of Texas T. John Ward J. 2007_WL_869576 inter_alia granted patent_owner a permanent_injunction
+Competitors appealed
+
+Holdings : The Court of Appeals Prost Circuit_Judge held that :
+
+competitors did not waive on appeal any objection to claim construction determined at Markman hearing ;
+
+arguments regarding the meaning and legal significance of `` only if '' limitation were improperly submitted to the jury ; and
+
+prosecution history estoppel barred patent_owner from relying on the doctrine of equivalents
+
+Vacated and remanded
+
+Attorneys and Law Firms
+*1353 James Pooley Morrison & Foerster LLP of Palo Alto CA argued for plaintiff-appellee
+With him on the brief was Bryan Wilson
+Of counsel on the brief was Richard S.J
+Hung of San_Francisco CA
+Of counsel were Duane H. Mathiowetz Howrey LLP of San_Francisco CA ; and Richard C. Lin and Henry C. Su of East Palo Alto CA
+Stanley Young Heller Ehrman LLP of Menlo Park CA argued for defendant- *1354 appellant Beyond Innovation Technology Co. Ltd. With him on the brief was Sarah R. Houghland
+Of counsel on the brief were Johnny Cheng-Teh Chiu of Washington DC ; E. Joshua Rosenkranz of New York NY ; and Ethan C. Glass of San_Francisco CA
+Gregory W. Carr Carr LLP of Dallas TX for defendants-appellants FSP_Group and SPI_Electronic_Co. Ltd. With him on the brief was Theodore F. Shiells
+Mao-Sen_Yieh Law Offices of Mao-Sen_Yieh of Houston TX for defendant-appellant Lien Chang Electronic Enterprise Co. Ltd. Before LOURIE Circuit_Judge CLEVENGER Senior Circuit_Judge and PROST Circuit_Judge
+Opinion
+PROST Circuit_Judge
+Defendants-Appellants Beyond Innovation Technology Company Limited ( `` BiTEK '' ) SPI Electronic Company Limited and FSP_Group ( collectively `` SPI/FSP '' ) and Lien Chang Electronic Enterprise Company Limited ( `` Lien Chang '' ) appeal a final_judgment by the United_States_District_Court for the Eastern_District of Texas
+O2_Micro Int ' l Ltd. v. Beyond Innovation Tech Co. No._2 :04-CV-32 2007_WL_869576 ( E.D.Tex
+Mar
+21 2007 )
+A jury found that Defendants-Appellants willfully induced the infringement of claims 1 15 35 and 39 of U.S._Patent_No._6259,615 ( `` the ¡¬615_patent `` ) claims 12_and_16 of U.S._Patent_No._6396,722 ( `` the ¡¬722_patent `` ) and claims 13 16 and 17 of U.S._Patent_No._6804,129 ( `` the ¡¬129_patent `` ) all of which are owned by Plaintiff-Appellee O2_Micro International Ltd. ( `` O2_Micro '' )
+The district court entered a final_judgment and permanent_injunction
+For the reasons explained below we vacate and remand for further proceedings
+
+I
+BACKGROUND
+A. Patents-in-Suit
+The patents-in-suit1 are directed to DC-to-AC_converter_circuits which convert low_voltage_direct_current ( `` DC '' ) into higher_voltage alternating current ( `` AC '' )
+Also called inverter_controllers these circuits may be used to control the amount of power delivered to cold cathode fluorescent lamps ( `` CCFLs '' ) that are used to backlight the screens of laptop computers and televisions
+When powered by a battery or other DC power source a CCFL uses a DC-to-AC_converter_circuit because CCFLs are designed to run on AC power
+The patents-in-suit describe a converter_circuit that employs a feedback_control_loop to control the amount of power delivered from the DC power source ( the `` drive '' ) to the CCFL ( the `` load '' )
+
+As shown in Figure 2 of the ¡¬615_patent the converter_circuit includes a number of switches ( 80 ) placed between the drive ( 12 ) and the load ( 20 )
+Drive circuitry ( 50 ) associated with each switch determines when and how long a given switch will be turned on ( `` ON time '' )
+If a pair of switches along a conduction path are ON simultaneously the circuit will deliver more power to the load
+Thus by adjusting the overlap between switches ' ON_times the circuit can precisely control the amount of power delivered to the load
+
+*1355. ?
+¡¬615_patent 's Figure 2
+The converter_circuit uses a feedback_control_loop ( 40 ) to affect the switches ' ON_times
+To the feedback_control_loop the converter_circuit provides a feedback_signal ( FB ) indicative of the total_current ( and thus power ) at the load and a reference_voltage ( REF ) indicative of the desired load conditions ( for example the desired total_current at the load )
+An error amplifier ( 32 ) compares the feedback_signal ( FB ) and the reference_voltage ( REF ) to produce a comparison_signal ( CMP )
+During normal_operation the drive_circuitry ( 50 ) receives the comparison_signal ( 94 ) and may use it to adjust the switches ' ON_times thereby regulating the power to the load
+To protect the circuitry from damage during an open-circuit condition ( such as when a CCFL breaks or becomes disconnected ) the feedback_signal ( FB ) may also be compared to a reference_value ( not shown in Figure 2 ) at the current_sense_comparator ( 42 )
+This reference_value preferably reflects the minimum or maximum current permitted by the system
+Thus when the value of the feedback_signal ( FB ) is within a permitted range ( i.e. during normal_operation ) the current_sense_comparator ( 42 ) allows the comparison_signal ( CMP ) to flow through switch 38 ; however when the value of the feedback_signal is outside that range ( e.g. during an open circuit or short circuit condition ) the current_sense_comparator substitutes a minimum_voltage ( Vmin ) for the comparison_signal ( CMP ) at switch 38
+In the latter case the minimum_voltage minimizes the overlap of the switches ' ON_times reducing the power to a safer level while avoiding shutdown if the lamp remains operable
+
+During prosecution of the application the examiner rejected the ¡¬615_patent under 35 U.S.C.¡± 103 as unpatentable over a combination of U.S. Patent No._5384,516 to Kawabata ( `` Kawabata '' ) and U.S._Patent_No._6011,360 to Gradzki ( `` Gradzki '' )
+*1356 The examiner observed that the feedback loop described in the originally filed claims was obvious stating that `` Gradzki et al
+teaches the utilization of the technique for a feedback loop circuit between the load and the drive_circuitry supplying a feedback_signal indicative of power being supplied to the load ''
+J.A
+7638
+The examiner found that like the application 's pending claims Gradzki discloses an inverter controller that regulates lamp power irrespective of the level of the feedback_signal
+
+In response to the examiner 's rejection O2_Micro added a limitation to each of the independent claims
+Specifically O2_Micro amended Claim 1 of the ¡¬ 615 patent to require that the feedback_control_loop_circuit control the conduction_state of the switches `` only if said feedback_signal is above a predetermined threshold '' ( the `` 'only if ' limitation '' )
+O2_Micro provided little explanation for the amendment stating that `` [ i ] n contrast to [ the prior art ] Applicant 's invention of independent claim 1 requires inter_alia a DC/AC_converter_circuit that includes a feedback_control_loop_circuit.. adapted to generate a second pulse signal.. only if said feedback_signal is above a predetermined threshold ''
+J.A
+7626
+After receiving this amendment the examiner issued a notice of allowance
+
+Claim 1 of the ¡¬615_patent is representative of the asserted claims for the issues presented by this appeal
+As issued it requires in relevant part a DC/AC_converter_circuit comprising : a feedback_control_loop_circuit receiving a feedback_signal indicative of power being supplied to said load and adapted to generate a second signal pulse signal for controlling the conduction_state of said second plurality of switches only if said feedback_signal is above a predetermined threshold ; '615_patent col. 10 l.67-col. 11 l.5
+

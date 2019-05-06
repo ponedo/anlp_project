@@ -1,0 +1,117 @@
+('527_F.3d_1318', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('GOLDEN', 'NNP', 'ORG', 'B') ('BRIDGE', 'NNP', 'ORG', 'I') ('TECHNOLOGY', 'NNP', 'ORG', 'I') ('INC.', 'CD', 'ORG', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('NOKIA', 'NNP', 'ORG', 'B') ('INC.', 'NNP', 'ORG', 'I') ('Defendant', 'NNP', '', 'O') ('and', 'CC', '', 'O')
+GOLDEN BRIDGE TECHNOLOGY INC. NOKIA INC.
+__NEW_SENT__
+('Lucent', 'NNP', 'ORG', 'B') ('Technologies', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Defendant-Appellee', 'VB', '', 'O')
+Lucent Technologies Inc.
+__NEW_SENT__
+('No._2007-1215', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('May_21,_2008', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Assignee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claimed', 'VBD', '', 'O') ('technique', 'NN', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('gradual_ramping', 'NN', '', 'O') ('up', 'RP', '', 'O') ('of', 'IN', '', 'O') ('power_signal', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('code', 'NN', '', 'O') ('division', 'NN', '', 'O') ('multiple', 'JJ', '', 'O') ('access', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CDMA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('mobile_communication_system', '.', '', 'O')
+CDMA
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Leonard', 'NNP', 'PERSON', 'B') ('Davis', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2007_WL_294176', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O')
+United_States_District_Court Texas Leonard Davis J. 2007_WL_294176
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Moore', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Moore Circuit_Judge
+__NEW_SENT__
+('fact', 'NN', '', 'O') ('issue', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('prior_art_reference', 'NN', '', 'O') ('disclosed', 'VBD', '', 'O') ('``', '``', '', 'O') ('synchronization', 'NN', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('transmission', 'NN', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('raised', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('assignee', 'NN', '', 'O') ('for', 'IN', '', 'O') ('first_time', 'NN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('assignee', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('raise', 'VB', '', 'O') ('issue', 'NN', '', 'O') ('before', 'IN', '', 'O') ('district_court', 'NN', '', 'O') ('of', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('prior_art_reference', 'NN', '', 'O') ('disclosed', 'VBD', '', 'O') ('``', '``', '', 'O') ('synchronization', 'NN', '', 'O') ('prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('transmission', 'NN', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('client', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('selection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('new', 'JJ', '', 'O') ('counsel', 'NN', '', 'O') ('for', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('appeal', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('present', 'VB', '', 'O') ('exceptional', 'JJ', '', 'O') ('case', 'NN', '', 'O') ('or', 'CC', '', 'O') ('circumstance', 'NN', '', 'O') ('in', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('declining', 'VBG', '', 'O') ('appellate', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('arguments', 'NNS', '', 'O') ('not', 'RB', '', 'O') ('presented', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('district_court', 'NNP', '', 'O') ('would', 'MD', '', 'O') ('result', 'VB', '', 'O') ('in', 'IN', '', 'O') ('injustice', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('Court', 'NN', 'ORG', 'B') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('determine', 'VB', '', 'O') ('in', 'IN', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('instance', 'NN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('what', 'WP', '', 'O') ('particular', 'JJ', '', 'O') ('prior_art_reference', 'XX', '', 'O') ('disclosed', 'VBD', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+Court of Appeals first
+__NEW_SENT__
+('assignee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('argument', 'NN', '', 'O') ('raised', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('first_time', 'NN', '', 'O') ('on', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('without', 'IN', '', 'O') ('any', 'DT', '', 'O') ('justification', 'NN', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('what', 'WP', '', 'O') ('prior_art_reference', 'NN', '', 'O') ('disclosed', 'VBD', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('warrant', 'VB', '', 'O') ('remand', 'NN', '', 'O') ('to', 'IN', '', 'O') ('district_court', 'NN', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1320', 'LS', '', 'O') ('Duncan', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Turner', 'NNP', 'PERSON', 'I') ('Badgley-Mullins', 'NNP', 'PERSON', 'I') ('Law', 'NNP', '', 'O') ('Group', 'NNP', '', 'O') ('PLLC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Seattle', 'NNP', 'GPE', 'B') ('WA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Duncan C. Turner Badgley-Mullins Seattle
+__NEW_SENT__
+('David', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Nelson', 'NNP', 'PERSON', 'I') ('Latham', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Watkins', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+David A. Nelson Latham & Watkins LLP Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('McKone', 'NNP', 'PERSON', 'I')
+David C. McKone
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('NEWMAN', 'NNP', 'PERSON', 'B') ('and', 'CC', '', 'O') ('MOORE', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+MICHEL NEWMAN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('MOORE', 'NNP', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Plaintiff-Appellant', 'JJ', 'ORG', 'B') ('Golden_Bridge', 'NNP', 'ORG', 'I') ('Technology', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Golden_Bridge', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Eastern_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('13_and_23', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._6574,267', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('¡¬267_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('assigned', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('Golden_Bridge', 'NNP', 'ORG', 'B') ('are', 'VBP', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('PCT', 'NNP', 'ORG', 'B') ('Publication', 'NNP', 'ORG', 'I') ('No', 'NN', '', 'O')
+Plaintiff-Appellant Golden_Bridge Technology Inc. United_States_District_Court Texas 13_and_23 U.S. Golden_Bridge PCT Publication
+__NEW_SENT__
+('WO9746041', 'UH', '', 'O') ('to', 'IN', '', 'O') ('Hakkinen', 'NNP', 'PERSON', 'B') ('et', 'NNP', 'PERSON', 'I') ('al', 'NNP', 'PERSON', 'I')
+Hakkinen et al
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('Hakkinen', 'NNP', 'NORP', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('May', 'NNP', 'DATE', 'B') ('1995', 'CD', 'DATE', 'I') ('version', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Code', 'NNP', '', 'O') ('Division', 'NNP', '', 'O') ('Multiple', 'NNP', '', 'O') ('Access', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('CDMA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('standard', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('``', '``', 'LAW', 'B') ('Mobile', 'NNP', 'LAW', 'I') ('Station-Base', 'NNP', 'LAW', 'I') ('Station', 'NNP', 'LAW', 'I') ('Compatibility', 'NNP', 'LAW', 'I') ('Standard', 'NNP', 'LAW', 'I') ('for', 'IN', '', 'O') ('Dual-Mode', 'NN', 'DATE', 'B') ('Wideband', 'NNP', '', 'O') ('Spread', 'NNP', '', 'O') ('Spectrum', 'NNP', '', 'O') ('Cellular', 'NNP', '', 'O') ('System', 'NNP', '', 'O') ("''", "''", '', 'O') ('TIA/EIA/IS-95A', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('IS-95A', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Hakkinen May 1995 CDMA `` Mobile Station-Base Station Compatibility Standard Dual-Mode
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('claims', 'VBZ', '', 'O') ('13_and_23', 'CD', 'CARDINAL', 'B') ('are', 'VBP', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Hakkinen_reference', 'NN', '', 'O')
+13_and_23
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('affirm', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('basis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Hakkinen_reference', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('address', 'VB', '', 'O') ('the', 'DT', '', 'O') ('invalidation', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('the', 'DT', '', 'O') ('IS-95A_reference', 'NN', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('mobile_communication_system', 'NNP', '', 'O') ('described', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬267_patent', 'NNP', '', 'O') ('employs', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('CDMA', 'NNP', 'ORG', 'B') ('scheme', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('multiple', 'JJ', '', 'O') ('mobile', 'JJ', '', 'O') ('phones', 'NNS', '', 'O') ('communicate', 'VBP', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('time', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('base', 'NN', '', 'O') ('station', 'NN', '', 'O') ('over', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('frequency', 'NN', '', 'O') ('range', 'NN', '', 'O') ('by', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('different', 'JJ', '', 'O') ('numerical', 'JJ', '', 'O') ('``', '``', '', 'O') ('spreading', 'VBG', '', 'O') ('codes', 'NNS', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('their', 'PRP$', '', 'O') ('transmissions.1', 'NN', '', 'O') ('If', 'IN', '', 'O') ('too', 'RB', '', 'O') ('many', 'JJ', '', 'O') ('mobile', 'JJ', '', 'O') ('phones', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('transmitting', 'VBG', '', 'O') ('simultaneously', 'RB', '', 'O') ('at', 'IN', '', 'O') ('high', 'JJ', '', 'O') ('power', 'NN', '', 'O') ('levels', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('mobile', 'JJ', '', 'O') ('phones', 'NNS', '', 'O') ('can', 'MD', '', 'O') ('interfere', 'VB', '', 'O') ('with', 'IN', '', 'O') ('each', 'DT', '', 'O') ('other', 'JJ', '', 'O')
+CDMA
+__NEW_SENT__
+('Therefore', 'RB', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('need', 'NN', '', 'O') ('to', 'TO', '', 'O') ('have', 'VB', '', 'O') ('*1321', 'NN', '', 'O') ('each', 'DT', '', 'O') ('mobile', 'JJ', '', 'O') ('phone', 'NN', '', 'O') ('transmit', 'VBP', '', 'O') ('only', 'RB', '', 'O') ('as', 'RB', '', 'O') ('loudly', 'RB', '', 'O') ('as', 'IN', '', 'O') ('necessary', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('heard', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('base', 'NN', '', 'O') ('station', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬267_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('technique', 'NN', '', 'O') ('to', 'TO', '', 'O') ('achieve', 'VB', '', 'O') ('this', 'DT', '', 'O') ('result', 'NN', '', 'O') ('the', 'DT', '', 'O') ('gradual_ramping', 'NN', '', 'O') ('up', 'RP', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('power_signal', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('CDMA', 'NNP', 'ORG', 'B') ('system', 'NN', '', 'O')
+CDMA
+__NEW_SENT__
+('After', 'IN', '', 'O') ('Golden_Bridge', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Lucent', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('hearing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('parties', 'NNS', '', 'O') ('shortly', 'RB', '', 'O') ('thereafter', 'RB', '', 'O') ('reached', 'VBD', '', 'O') ('agreement', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('terms', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+
+__NEW_SENT__
+('Lucent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Nokia', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬', 'NNP', '', 'O') ('267', 'CD', '', 'O') ('patent', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('IS-95A', 'NN', '', 'O') ('and', 'CC', '', 'O') ('Hakkinen_references', 'NNS', '', 'O')
+Nokia
+__NEW_SENT__
+('The', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('referred', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('Magistrate', 'NNP', 'TIME', 'B') ('Judge', 'NNP', '', 'O') ('who', 'WP', '', 'O') ('after', 'IN', '', 'O') ('conducting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('hearing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('reviewing', 'VBG', '', 'O') ('extensive', 'JJ', '', 'O') ('briefing', 'NN', '', 'O') ('recommended', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬267_patent', 'NNP', '', 'O') ('as', 'IN', '', 'O') ('being', 'VBG', '', 'O') ('anticipated', 'VBN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('by', 'IN', '', 'O') ('each', 'DT', '', 'O') ('the', 'DT', '', 'O') ('IS-95A_reference', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('Hakkinen_reference', 'NN', '', 'O')
+Magistrate 35 102
+__NEW_SENT__
+('Golden_Bridge', 'NNP', '', 'O') ('objected', 'VBD', '', 'O') ('and', 'CC', '', 'O') ('filed', 'VBD', '', 'O') ('another', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('articulating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('reasons', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('Hakkinen_reference', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('anticipate', 'VB', '', 'O')
+
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('upon', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('and', 'CC', '', 'O') ('analysis', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('evidentiary', 'JJ', '', 'O') ('record', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('adopted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('Magistrate', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Report', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Recommendation', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('then', 'RB', '', 'O') ('entered', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invalidity', 'NN', '', 'O') ('from', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Golden_Bridge', 'VBP', 'ORG', 'B') ('now', 'RB', '', 'O') ('appeals', 'VBZ', '', 'O')
+Golden_Bridge
+__NEW_SENT__

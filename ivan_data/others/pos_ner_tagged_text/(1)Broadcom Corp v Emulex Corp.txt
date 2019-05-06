@@ -1,0 +1,240 @@
+('732_F.3d_1325', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('BROADCOM', 'NNP', 'ORG', 'B') ('CORPORATION', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', 'PERSON', 'B') ('v.', 'IN', '', 'O') ('EMULEX', 'NNP', 'ORG', 'B') ('CORPORATION', 'NNP', 'ORG', 'I') ('Defendant-Appellant', 'JJ', 'ORG', 'I')
+BROADCOM Plaintiff-Appellee EMULEX CORPORATION Defendant-Appellant
+__NEW_SENT__
+('No._2012-1309', 'UH', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Oct._7,_2013', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('commenced', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('toward', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('device', 'NN', '', 'O') ('configured', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('receive', 'VB', '', 'O') ('multiple', 'JJ', '', 'O') ('serial', 'JJ', '', 'O') ('data_signals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('James', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Selna', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O')
+United_States_District_Court California James V. Selna J.
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Rader', 'NNP', 'ORG', 'I') ('Chief_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Rader Chief_Judge
+__NEW_SENT__
+('half-rate', 'JJ', '', 'O') ('architecture', 'NN', '', 'O') ('in', 'IN', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('``', '``', '', 'O') ('correspond', 'VB', '', 'O') ('[', '-LRB-', '', 'O') ('ed', 'NN', '', 'O') (']', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('frequency', 'NN', '', 'O') ('offset', 'NN', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('required', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('show', 'VB', '', 'O') ('that', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('infringed', 'VBD', '', 'O') ('``', '``', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('rate', 'NN', '', 'O') ('so', 'IN', '', 'O') ('as', 'IN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ("''", "''", '', 'O') ('limitation', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('substantial_evidence', 'NN', '', 'O') ('supported', 'VBD', '', 'O') ('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('commercial', 'JJ', '', 'O') ('success', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('jury', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('long-felt', 'JJ', '', 'O') ('but', 'CC', '', 'O') ('unsolved', 'JJ', '', 'O') ('need', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('supported', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('substantial_evidence', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('exclusion', 'NN', '', 'O') ('from', 'IN', '', 'O') ('fair', 'JJ', '', 'O') ('opportunity', 'NN', '', 'O') ('to', 'TO', '', 'O') ('compete', 'VB', '', 'O') ('for', 'IN', '', 'O') ('design', 'NN', '', 'O') ('wins', 'NNS', '', 'O') ('constituted', 'VBD', '', 'O') ('irreparable', 'JJ', '', 'O') ('harm', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('abuse', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('issuing', 'VBG', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('with', 'IN', '', 'O') ('18', 'CD', 'DATE', 'B') ('month', 'NN', 'DATE', 'I') ('sunset', 'NN', '', 'O') ('period', 'NN', '', 'O')
+18 month
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1328', 'FW', '', 'O') ('Dominic', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Massa', 'NNP', 'PERSON', 'I') ('Wilmer', 'NNP', '', 'O') ('Cutler', 'NNP', '', 'O') ('Pickering', 'NNP', '', 'O') ('Hale', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Dorr', 'NNP', 'CARDINAL', 'B') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('MA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Dominic E. Massa Dorr Boston MA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('Gregory', 'NNP', 'PERSON', 'I') ('P.', 'NNP', 'PERSON', 'I') ('Teran', 'NNP', 'PERSON', 'I') ('Louis', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Tompros', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Jason', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Liss', 'NNP', 'PERSON', 'I')
+William F. Lee Gregory P. Teran Louis W. Tompros Jason H. Liss
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Craig', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Davis', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O')
+Craig E. Davis Palo Alto
+__NEW_SENT__
+('Juanita', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Brooks', 'NNP', 'PERSON', 'I') ('Fish', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Richardson', 'NNP', 'PERSON', 'I') ('P.C.', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+Juanita R. Brooks Fish & Richardson
+__NEW_SENT__
+('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Barkan', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Redwood_City', 'NN', '', 'O') ('CA', 'NNP', '', 'O')
+David M. Barkan
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Craig', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Countryman', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San_Diego', 'NNP', '', 'O') ('CA', 'NNP', '', 'O') ('Rebecca', 'NNP', '', 'O') ('Charnas', 'NNP', '', 'O') ('Grant', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Jonathan', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Lamberson', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Redwood_City', 'NN', '', 'O') ('CA', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Thomas', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Reger', 'NNP', 'PERSON', 'I') ('II', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Dallas', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O')
+Craig E. Countryman Jonathan J. Lamberson CA Thomas H. Reger II Dallas
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('Chief_Judge', 'NN', '', 'O') ('LOURIE', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('WALLACH', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judges', 'NNPS', 'ORG', 'I')
+WALLACH Circuit Judges
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('RADER', 'NNS', '', 'O') ('Chief_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('and', 'CC', '', 'O') ('post-trial', 'JJ', '', 'O') ('motions', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Central_District', 'NN', '', 'O') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Emulex', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Emulex', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('infringed', 'VBD', '', 'O') ('Broadcom', 'NNP', 'ORG', 'B') ('Corporation', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Broadcom', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NN', '', 'O') ('No._7058,150', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+United_States_District_Court California Emulex Corporation Emulex Broadcom Corporation 's Broadcom U.S.
+__NEW_SENT__
+('On', 'IN', '', 'O') ('appeal', 'NN', '', 'O') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('issues', 'NNS', '', 'O') ('remaining', 'VBG', '', 'O') ('relate', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('grant', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('modifications', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('that', 'DT', '', 'O') ('permanent_injunction', 'NN', '', 'O')
+¡¬150_patent
+__NEW_SENT__
+('Second', 'NNP', 'ORDINAL', 'B') ('Amended', 'NNP', '', 'O') ('Notice', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Appeal', 'NNP', 'ORG', 'B') ('Broadcom', 'NNP', 'ORG', 'I') ('Corp.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Emulex', 'NNP', 'ORG', 'B') ('Corp.', 'NNP', 'ORG', 'I') ('No._2012-1309', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('Fed.Cir', 'RB', '', 'O')
+Second Appeal Broadcom Corp. Emulex Corp.
+__NEW_SENT__
+('August', 'NNP', 'DATE', 'B') ('10', 'CD', 'DATE', 'I') ('2012', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('No._43', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+August 10 2012
+__NEW_SENT__
+('Upon', 'IN', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('record', 'NN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('finding', 'NN', '', 'O') ('that', 'IN', '', 'O') ('Emulex', 'NNP', 'ORG', 'B') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', '', 'O')
+Emulex
+__NEW_SENT__
+('Similarly', 'RB', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('affirms', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('determination', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('would', 'MD', '', 'O') ('not', 'RB', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('invention', 'NN', '', 'O') ('and', 'CC', '', 'O') ('hence', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+¡¬150_patent
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('properly', 'RB', '', 'O') ('exercised', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('discretion', 'NN', '', 'O') ('in', 'IN', '', 'O') ('granting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('permanent_injunction', 'NN', '', 'O') ('with', 'IN', '', 'O') ('a', 'DT', '', 'O') ('well-crafted', 'JJ', '', 'O') ('sunset', 'NN', '', 'O') ('period', 'NN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('affirms', 'VBZ', '', 'O') ('that', 'DT', '', 'O') ('determination', 'NN', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('case', 'NN', '', 'O') ('concerns', 'VBZ', '', 'O') ('digital', 'JJ', '', 'O') ('communication', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('data', 'NNS', '', 'O') ('transceivers', 'NNS', '', 'O') ('capable', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('multiple', 'JJ', '', 'O') ('analog', 'NN', '', 'O') ('high-speed', 'JJ', '', 'O') ('serial', 'JJ', '', 'O') ('data_signals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('¡¬', 'NNP', 'CARDINAL', 'B') ('150', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('Abstract', 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('2', 'CD', 'CARDINAL', 'B') ('ll.17-26', 'NN', '', 'O')
+¡¬ 150 2
+__NEW_SENT__
+('Once', 'RB', '', 'O') ('received', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('analog', 'JJ', '', 'O') ('data_signal', 'JJ', '', 'O') ('needs', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('converted', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('a', 'DT', '', 'O') ('digital', 'JJ', '', 'O') ('signal', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('process', 'NN', '', 'O') ('called', 'VBN', '', 'O') ('``', '``', '', 'O') ('sampling', 'VBG', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Sampling', 'VBG', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('process', 'NN', '', 'O') ('of', 'IN', '', 'O') ('measuring', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('amplitude', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('analog_signal', 'NN', '', 'O') ('at', 'IN', '', 'O') ('precisely', 'RB', '', 'O') ('timed', 'VBN', '', 'O') ('intervals', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('extract', 'VB', '', 'O') ('the', 'DT', '', 'O') ('data', 'NNS', '', 'O') ('carried', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('analog_signal', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('do', 'VB', '', 'O') ('so', 'RB', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('needs', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('way', 'NN', '', 'O') ('to', 'TO', '', 'O') ('discern', 'VB', '', 'O') ('the', 'DT', '', 'O') ('proper', 'JJ', '', 'O') ('rate', 'NN', '', 'O') ('at', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('to', 'TO', '', 'O') ('sample', 'VB', '', 'O') ('the', 'DT', '', 'O') ('analog_signal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('needs', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('means', 'NN', '', 'O') ('for', 'IN', '', 'O') ('generating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('appropriate', 'JJ', '', 'O') ('frequency', 'NN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('when', 'WRB', '', 'O') ('data', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('sent', 'VBN', '', 'O') ('through', 'IN', '', 'O') ('cables', 'NNS', '', 'O') ('over', 'IN', '', 'O') ('long', 'JJ', '', 'O') ('distances', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('incoming', 'JJ', '', 'O') ('signal', 'NN', '', 'O') ('frequency', 'NN', '', 'O') ('can', 'MD', '', 'O') ('vary', 'VB', '', 'O') ('over', 'IN', '', 'O') ('time', 'NN', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('compensate', 'VB', '', 'O') ('for', 'IN', '', 'O') ('such', 'JJ', '', 'O') ('variances', 'NNS', '', 'O') ('receiver', 'NN', '', 'O') ('circuits', 'NNS', '', 'O') ('adjust', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('to', 'TO', '', 'O') ('match', 'VB', '', 'O') ('the', 'DT', '', 'O') ('frequency', 'NN', '', 'O') ('and', 'CC', '', 'O') ('phase', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('incoming_data_signal', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Circuits', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('aligning', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('sampling', 'VBG', '', 'O') ('data', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('manner', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Clock/Data', 'NNP', 'ORG', 'B') ('Recovery', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('CDR', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('circuits', 'NNS', '', 'O')
+Clock/Data Recovery CDR
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('discusses', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('devices', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('transceivers', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('transmitting', 'VBG', '', 'O') ('and', 'CC', '', 'O') ('receiving', 'VBG', '', 'O') ('data_signals', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O')
+¡¬150_patent
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._18', 'NNP', '', 'O') ('-25', '.', '', 'O')
+
+__NEW_SENT__
+('And', 'CC', '', 'O') ('integrating', 'VBG', '', 'O') ('transceiver_circuits', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('integrated', 'VBN', '', 'O') ('circuit', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('IC', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('chip', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('size', 'NN', '', 'O') ('and', 'CC', '', 'O') ('power', 'NN', '', 'O') ('dissipation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transceiver', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('also', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._26', 'CD', '', 'O') ('-28', 'NFP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('circuits', 'NNS', '', 'O') ('typically', 'RB', '', 'O') ('operate', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('accordance', 'NN', '', 'O') ('with', 'IN', '', 'O') ('timing', 'NN', '', 'O') ('signals', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('sampling', 'VBG', '', 'O') ('signals', 'NNS', '', 'O') ('generated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('oscillators', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1329', 'UH', '', 'O') ('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._26', 'NNP', '', 'O') ('-41', '.', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('there', 'EX', '', 'O') ('are', 'VBP', '', 'O') ('multiple', 'JJ', '', 'O') ('transceiver_circuits', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IC_chip', 'NN', 'GPE', 'B') ('there', 'EX', '', 'O') ('are', 'VBP', '', 'O') ('also', 'RB', '', 'O') ('multiple_oscillators', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('IC_chip', 'NN', '', 'O')
+IC_chip
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._26', 'NNP', '', 'O') ('-41', '.', '', 'O')
+
+__NEW_SENT__
+('However', 'RB', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('multiple_oscillators', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('IC_chip', 'NN', 'GPE', 'B') ('can', 'MD', '', 'O') ('cause', 'VB', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('oscillator', 'NN', '', 'O') ('to', 'TO', '', 'O') ('deleteriously', 'RB', '', 'O') ('influence', 'VB', '', 'O') ('the', 'DT', '', 'O') ('operation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('another', 'DT', '', 'O') ('oscillator', 'NN', '', 'O')
+one IC_chip one
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._37', 'CD', '', 'O') ('-47', '.', '', 'O')
+
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('need', 'NN', '', 'O') ('to', 'TO', '', 'O') ('integrate', 'VB', '', 'O') ('transceiver_circuits', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IC_chip', 'NN', 'GPE', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('related', 'VBN', '', 'O') ('need', 'NN', '', 'O') ('to', 'TO', '', 'O') ('reduce', 'VB', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('oscillators', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('IC_chip', 'NN', 'GPE', 'B') ('were', 'VBD', '', 'O') ('long', 'RB', '', 'O') ('felt', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('those', 'DT', '', 'O') ('of', 'IN', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O')
+IC_chip IC_chip
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._42', 'NNP', '', 'O') ('-47', '.', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('reliably', 'RB', '', 'O') ('process', 'VB', '', 'O') ('a', 'DT', '', 'O') ('data_signal', 'JJ', '', 'O') ('a', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('needs', 'VBZ', '', 'O') ('to', 'TO', '', 'O') ('match', 'VB', '', 'O') ('its', 'PRP$', '', 'O') ('operating', 'NN', '', 'O') ('characteristics', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('characteristics', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_signal', 'JJ', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._48', 'CD', '', 'O') ('-50', '.', '', 'O')
+
+__NEW_SENT__
+('To', 'TO', '', 'O') ('do', 'VB', '', 'O') ('so', 'RB', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('to', 'TO', '', 'O') ('employ', 'VB', '', 'O') ('a', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('uses', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('to', 'TO', '', 'O') ('sample', 'VB', '', 'O') ('the', 'DT', '', 'O') ('data_signal', 'JJ', '', 'O') ('at', 'IN', '', 'O') ('sample', 'NN', '', 'O') ('times', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('produce', 'VB', '', 'O') ('optimal', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('recovery', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thus', 'RB', '', 'O') ('minimize', 'VB', '', 'O') ('errors', 'NNS', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._48', 'CD', '', 'O') ('-55', '.', '', 'O')
+
+__NEW_SENT__
+('Such', 'JJ', '', 'O') ('timing', 'NN', '', 'O') ('control', 'NN', '', 'O') ('includes', 'VBZ', '', 'O') ('control', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('phase', 'NN', '', 'O') ('and', 'CC', '', 'O') ('frequency', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('sample', 'VB', '', 'O') ('the', 'DT', '', 'O') ('received', 'VBN', '', 'O') ('data_signal', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('1_ll._59', 'CD', '', 'O') ('-61', '.', '', 'O')
+
+__NEW_SENT__
+('Sampling', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('high', 'JJ', '', 'O') ('data', 'NN', '', 'O') ('rate', 'NN', '', 'O') ('signals', 'NNS', '', 'O') ('also', 'RB', '', 'O') ('presented', 'VBD', '', 'O') ('challenges', 'NNS', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('2_ll._7', 'CD', '', 'O') ('-9', 'NFP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('received', 'VBN', '', 'O') ('data_signal', 'JJ', '', 'O') ('rate', 'NN', '', 'O') ('increased', 'VBD', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('multigigabit-per-second', 'NN', '', 'O') ('range', 'NN', '', 'O') ('the', 'DT', '', 'O') ('difficulty', 'NN', '', 'O') ('in', 'IN', '', 'O') ('effectively', 'RB', '', 'O') ('controlling', 'VBG', '', 'O') ('sampling', 'NN', '', 'O') ('processes', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('correspondingly', 'RB', '', 'O') ('increased', 'VBD', '', 'O')
+
+__NEW_SENT__
+('¡¬', 'NNP', 'CARDINAL', 'B') ('150', 'CD', 'CARDINAL', 'I') ('patent', 'NN', '', 'O') ('col.', 'NN', '', 'O') ('1_ll._62', 'NNP', '', 'O') ('-66', ':', '', 'O')
+¡¬ 150
+__NEW_SENT__
+('At', 'IN', '', 'O') ('lower', 'JJR', '', 'O') ('rates', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'NN', '', 'O') ('proceeds', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('making', 'VBG', '', 'O') ('multiple', 'JJ', '', 'O') ('copies', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('high-speed', 'JJ', '', 'O') ('signal', 'NN', '', 'O') ('and', 'CC', '', 'O') ('distributing', 'VBG', '', 'O') ('those', 'DT', '', 'O') ('copies', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('sampling', 'VBG', '', 'O') ('circuits', 'NNS', '', 'O') ('operating', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('parallel', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('29_l._65', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('30_l._6', 'CD', '', 'O')
+29_l._65
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('solves', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('problems', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('by', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('phase_interpolator', 'NN', '', 'O') ('to', 'TO', '', 'O') ('perform', 'VB', '', 'O') ('high', 'JJ', '', 'O') ('speed', 'NN', '', 'O') ('sampling', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('signal', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('technique', 'NN', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('clock', 'NN', '', 'O') ('and', 'CC', '', 'O') ('data', 'NN', '', 'O') ('recovery', 'NN', '', 'O')
+¡¬150_patent
+__NEW_SENT__
+('Specifically', 'RB', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('addresses', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'NN', '', 'O') ('problem', 'NN', '', 'O') ('at', 'IN', '', 'O') ('high', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('rates', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('using', 'VBG', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('parallel', 'JJ', '', 'O') ('data', 'NNS', '', 'O') ('paths', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('operating', 'VBG', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', 'CARDINAL', 'B') ('quarter', 'NN', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('rate', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('incoming_data_signal', 'JJ', '', 'O')
+¡¬150_patent four a quarter
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('31_ll._10', 'CD', '', 'O') ('-37', 'DT', '', 'O')
+
+__NEW_SENT__
+('Further', 'RB', '', 'O') ('to', 'TO', '', 'O') ('solve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('problems', 'NNS', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('presence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('multiple_oscillators', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IC_chip', 'NN', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', '', 'O') ('eliminates', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('need', 'NN', '', 'O') ('for', 'IN', '', 'O') ('multiple_oscillators', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('``', '``', '', 'O') ('advantageously', 'RB', '', 'O') ("''", "''", '', 'O') ('using', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('master', 'NN', '', 'O') ('oscillator', 'NN', '', 'O') ('``', '``', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('multiple', 'JJ', '', 'O') ('receiver', 'NN', '', 'O') ("''", "''", '', 'O') ('environment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('an', 'DT', '', 'O') ('IC_chip', 'NN', 'GPE', 'B')
+IC_chip
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('3_ll._22', 'CD', '', 'O') ('-40', ':', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('thus', 'RB', '', 'O') ('relies', 'VBZ', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('master', 'NN', '', 'O') ('oscillator', 'NN', '', 'O') ('because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('phase_interpolator', 'NN', '', 'O') ('not', 'RB', '', 'O') ('the', 'DT', '', 'O') ('oscillator', 'NN', '', 'O') ('tunes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('phase', 'NN', '', 'O') ('and', 'CC', '', 'O') ('frequency', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('3_ll._22', 'CD', '', 'O') ('-25', '.', '', 'O')
+
+__NEW_SENT__
+('Instead', 'RB', '', 'O') ('of', 'IN', '', 'O') ('changing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('oscillator', 'NN', '', 'O') ('frequency', 'NN', '', 'O') ('the', 'DT', '', 'O') ('¡¬150_patent', 'NNP', 'ORG', 'B') ('discloses', 'VBZ', '', 'O') ('adjusting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('phase', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('forward', 'RB', '', 'O') ('or', 'CC', '', 'O') ('backward', 'JJ', '', 'O') ('so', 'IN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'NN', '', 'O') ('rate', 'NN', '', 'O') ('i.e.', 'FW', '', 'O') ('the', 'DT', '', 'O') ('number', 'NN', '', 'O') ('of', 'IN', '', 'O') ('rising', 'VBG', '', 'O') ('edges', 'NNS', '', 'O') ('per', 'IN', '', 'O') ('unit', 'NN', '', 'O') ('time', 'NN', '', 'O') ('matches', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('data', 'NN', '', 'O') ('rate', 'NN', '', 'O')
+¡¬150_patent
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('23_ll._15', 'NNP', '', 'O') ('-41', '.', '', 'O')
+
+__NEW_SENT__
+('For', 'IN', '', 'O') ('a', 'DT', '', 'O') ('change', 'NN', '', 'O') ('in', 'IN', '', 'O') ('phase', 'NN', '', 'O') ('to', 'TO', '', 'O') ('cause', 'VB', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('ultimate', 'JJ', '', 'O') ('result', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('change', 'NN', '', 'O') ('in', 'IN', '', 'O') ('frequency', 'NN', '', 'O') ('the', 'DT', '', 'O') ('phase', 'NN', '', 'O') ('must', 'MD', '', 'O') ('be', 'VB', '', 'O') ('continually', 'RB', '', 'O') ('``', '``', '', 'O') ('rotated', 'VBN', '', 'O') ("''", "''", '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('specific', 'JJ', '', 'O') ('rate-otherwise', 'NN', '', 'O') ('the', 'DT', '', 'O') ('sampling', 'VBG', '', 'O') ('signal', 'NN', '', 'O') ('will', 'MD', '', 'O') ('not', 'RB', '', 'O') ('keep', 'VB', '', 'O') ('up', 'RP', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('sampling', 'NN', '', 'O') ('frequency', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬150_patent_col.', 'NNP', '', 'O') ('23_ll._17', 'CD', '', 'O') ('-55', '.', '', 'O')
+
+__NEW_SENT__
+('Claim', 'NN', 'PERSON', 'B') ('8', 'CD', 'PERSON', 'I') ('the', 'DT', '', 'O') ('only', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('recites', 'VBZ', '', 'O') (':', ':', '', 'O')
+Claim 8
+__NEW_SENT__

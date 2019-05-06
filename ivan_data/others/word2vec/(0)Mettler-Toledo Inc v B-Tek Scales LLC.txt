@@ -1,0 +1,244 @@
+671_f.3d_1291
+united states court of appeals federal circuit
+mettler-toledo inc. plaintiff-appellant v. b-tek scales llc defendant-cross appellant
+nos._2011-1173 2011-1200
+| feb._8,_2012
+synopsis
+background patentee filed action against competitor alleging infringement of patents relating to technology for weighing_objects such as large_commercial_trucks
+the united states district court for the eastern district of texas keith f. giblin united states magistrate judge 551_f.supp.2d_576 construed the claims and then jury rendered verdict in favor of competitor
+parties appealed
+
+holdings the court of appeals moore circuit_judge held that
+
+appropriate_structure for disputed means-plus-function_claim_elements in patent was multiple_slope integrating analog-to-digital converter and equivalents thereof ;
+
+substantial_evidence supported jury_determination that prior_art_patent taught correcting for load_position ;
+
+substantial_evidence existed for jurys conclusion that prior_art_patent did not teach away from patent ; and
+
+district_court did not abuse its discretion by denying sanctions for alleged discovery_abuses by patentee
+
+affirmed
+
+attorneys and law firms
+*1293 james l. kwak standley law group llp of dublin oh argued for plaintiff-appellant
+with him on the brief were jeffrey s. standley and f. michael speed jr. richard h. tilghman iv ungaretti & harris llp of chicago il argued for defendant-cross appellant
+with him on the brief were f. thomas hecht richard c. himelhoch and lisa c. sullivan
+before bryson moore and reyna circuit_judges
+opinion
+moore circuit_judge mettler-toledo inc. mettler filed suit accusing b-tek_scales llc b-tek of infringing claims of u.s. patent nos._4815,547 ¡¬547_patent and 4,804,052 ¡¬052_patent
+after the district_court construed the claims a jury determined that the claims of the ¡¬547_patent were not infringed and that the claims of the ¡¬052_patent were both not infringed and invalid
+mettler appeals the district_courts denial of judgment as a matter of law jmol for each of these determinations
+because the district_court correctly construed the claims of the ¡¬547_patent and because substantial_evidence supports the jurys verdict of invalidity of the ¡¬052_patent we affirm
+
+cross-appellant b-tek appeals the district_courts denial of sanctions for alleged withholding and destruction of relevant documents
+because the district_court did not abuse its discretion in determining that the documents were not highly relevant and that there was little harm to b-tek we affirm
+
+background
+the ¡¬547 and ¡¬052_patent s relate to technology for weighing_objects such as large_commercial_trucks
+the ¡¬547_patent describes an individual load_cell that is one of several cells used in a scale
+the cell produces an electrical signal in response to being deformed by an external force such as an object to be weighed
+the ¡¬052_patent describes a system and method for measuring the weight of moveable objects on a scale
+specifically the patent discloses a system for correcting weight measurements based on the location of objects on a scale
+for example an object placed at one end of a scale may exert more pressure on the weight sensors positioned at that end than an identical object *1294 placed in the center
+the ¡¬052_patent describes correcting for this load_position so that the same total weight will be determined regardless of the placement of the object
+
+mettler sued b-tek alleging infringement of certain claims of the ¡¬547 and ¡¬ 052 patents
+the district_court construed the claims and the case proceeded to trial where the jury found that b-tek did not infringe any of the asserted claims of the ¡¬547 and ¡¬052_patent s. the jury also determined that the asserted claims of the ¡¬052_patent would have been obvious
+mettler filed a motion for jmol on both the infringement and invalidity issues which the court denied
+mettler appeals the district_courts denial of its motion for jmol for both patents
+b-tek cross appeals the district_courts denial of sanctions
+we have jurisdiction under 28 u.s.c.¡± 1295 a 1
+
+discussion
+we apply the law of the regional_circuit when reviewing a denial of jmol
+union carbide chems
+& plastics tech corp. v. shell oil co. 425_f.3d_1366 1372 fed.cir.2005 ; wms gaming inc. v. int l game tech. 184_f.3d_1339 1361 fed.cir.1999
+in the fifth circuit jmol is appropriate if the facts and inferences point so strongly and overwhelmingly in favor of one party that a reasonable jury could not have concluded otherwise
+armendariz v. pinkerton tobacco co. 58_f.3d_144 148 5th cir.1995 citation omitted
+`` there must be a conflict in substantial_evidence to create a jury question'
+id
+we have interpreted this standard to mean that a jurys determination must be supported by substantial_evidence
+acco brands inc. v. aba locks mfrs co. 501_f.3d_1307 1312-13 fed.cir.2007
+we review claim construction de novo
+cybor corp. v. fas techs. inc. 138_f.3d_1448 1455-56 fed.cir.1998 en banc
+the words of a claim are generally given their ordinary and customary meaning as understood by a person of ordinary skill in the art when read in the context of the specification and prosecution_history
+see phillips v. awh corp. 415_f.3d_1303 1313 fed.cir.2005 en banc
+
+i. ¡¬547_patent
+the ¡¬547_patent describes a load_cell for measuring a force
+¡¬547_patent col.1 ll.51-53
+the cell utilizes a counterforce attached to a circuit board illustrated in figure 5
+
+?
+*1295 the circuit includes strain gauges 75 76 79_and_80 which via a bridge circuit create an analog electrical signal related to an objects weight
+id
+col.4 ll.62-66
+this analog signal is converted to a digital_signal by` multiple_slope integrating analog-to-digital a/d converter 100'
+id
+col.5 ll.1-2
+this digital_signal is then sent to microprocessor 105
+id
+col.5 ll.9-15
+claim 1 is illustrative of the asserted claims weighing apparatus comprising a counterforce transducer means mounted on said counterforce circuit_means associated with said counterforce said circuit_means being responsive to external_control and including means for producing digital_representations of loads applied to said counterforce means for applying at least one correction factor to said digital_representations and means for transmitting said digital_representations means providing a sealed enclosure for said transducer means and said circuit_means means providing a path through said enclosure means for external communication with said circuit_means
+the district_court construed a number of the means-plus-function claim terms including the terms in dispute` circuit_means associated with said counterforce said circuit_means being responsive to external_control'` means for producing digital_representations of loads applied to said counterforce' and` means for transmitting said digital_representations'
+it held that for each of these terms the associated structure in the specification includes the multiple_slope integrating a/d_converter and equivalents thereof
+for example for the term` means for producing digital_representations of loads applied to said counterforce' the district_court held that the corresponding structure was` a multiple_slope integrating analog-to-digital a/d converter and equivalents thereof'
+mettler-toledo inc. v. fairbanks scales inc. 551_f.supp.2d_576 598 e.d.tex.2008
+in the accused products the a/d_converter is a delta-sigma_a/d_converter
+the jury determined that the accused products did not infringe either literally or under the doctrine of equivalents
+in its jmol motion mettler argued that the delta-sigma_a/d_converter is equivalent to the multiple_slope integrating a/d_converter
+the district_court held that substantial_evidence supported the jurys verdict that they were not equivalent pointing to trial testimony by b-teks expert and a corporate representative from another defendant that there are substantial differences between the two types of converters
+
+on appeal mettler limits its arguments to a single claim construction issue whether the district_court improperly construed the relevant claim terms to require a multiple_slope integrating a/d_converter rather than any generic_a/d_converter
+mettler argues that the district_court erred by importing the structure of only the preferred_embodiment or best_mode of the disclosure into the claim
+it contends that a/d_converters are well-known in the art and that there was no reason to limit the structure to only the multiple_slope integrating a/d_converter
+it further points to figure 5 that illustrates an` analog to digital converter 100'
+it argues that this shows that the specification discloses generic_a/d_converters as well as the more specific multiple_slope integrating embodiment
+mettler contends that the abstract by mentioning a generic_a/d_converter supports its broad construction
+finally mettler points out that the district_court applied a different_construction for the ¡¬052_patent holding that a generic_a/d_converter is included in the claim terms *1296 construction
+it argues that the two patent_specifications are very similar and both disclose a generic_a/d_converter linked to the claimed functions
+
+citing medical instrumentation & diagnostics corp. v. elekta ab 344_f.3d_1205 1211 fed.cir.2003 b-tek responds that the patent never links a generic_a/d_converter to the claimed functions
+it points out that the a/d_converter shown in figure 5 is only referred to in the specification as` multiple_slope integrating analog-to-digital a/d converter 100'
+¡¬547_patent col.5 ll.1-2
+it argues that every mention of a converter in the specification refers back to this specific type of converter
+
+we agree with the district_court that the appropriate_structure for the disputed means-plus-function_claim_elements in the ¡¬547_patent is the multiple_slope integrating a/d_converter and equivalents thereof
+our case law is clear that a means-plus-function_claim_limitation is limited to the structures disclosed in the specification and equivalents
+med
+instrumentation & diagnostics 344 f.3d at 1210
+a court must look to the specification to determine the structures that correspond to the claimed function
+`` [ s ] tructure disclosed in the specification iscorresponding structure only if the specification or prosecution_history clearly links or associates that structure to the function recited in the claim'
+b. braun med inc. v. abbott labs. 124_f.3d_1419 1424 fed.cir.1997
+if a patentee chooses to disclose a single_embodiment then any means-plus-function_claim_limitation will be limited to the single disclosed structure and equivalents thereof
+see nomos corp. v. brainlab u.s.a. inc. 357_f.3d_1364 1368 fed.cir.2004
+
+the ¡¬547_patent discloses a single_embodiment for the claimed invention that uses a multiple_slope integrating a/d_converter
+in every instance where the specification refers to an` a/d_converter' see e.g. ¡¬547_patent col.5 l.14 it is referring to the preferred_embodiment which only includes the multiple_slope integrating a/d_converter 100
+although generic_a/d_converters were known in the art the patentee chose to use means-plus-function language which limits it to the disclosed embodiments and equivalents
+while mettler argues that the district_court erred by limiting it to the` best_mode' the best_mode was also the only structure disclosed in the specification
+
+we are not persuaded that the single statement in the abstract regarding an` a/d_converter' requires a different result
+this disclosure is not linked to any claimed function as required by our precedent and therefore does not support a broader construction
+b. braun med. 124 f.3d at 1424
+further the district_courts different_construction in the ¡¬052_patent is not at odds with its construction in the ¡¬547_patent
+while the two patent_specifications are very similar the ¡¬052_patent differs in an important way in the summary of the invention the ¡¬052_patent mentions a generic_a/d_converter and links it to the claimed function
+¡¬052_patent col.2 ll.21-24
+mettler relied on this language in its claim construction argument for the ¡¬052_patent
+the district_court correctly held that the ¡¬052_patent linked a generic_a/d_converter to the claimed function
+in contrast the ¡¬547_patent does not include this language and is thus limited to the only a/d_converter that it discloses-the multiple_slope integrating a/d_converter
+the district_court correctly held that the multiple_slope integrating a/d_converter was the only converter disclosed by the ¡¬547_patent and linked to the claimed functions
+therefore we affirm the district_courts denial of jmol of infringement
+
+*1297 ii
+¡¬052_patent
+the ¡¬052_patent teaches a system and method for correctly measuring the weight of an object regardless of where that object sits on the scale
+¡¬052_patent col.6 ll.28-42
+this system is particularly useful when measuring the weight of trucks or other large equipment because the load will rarely be positioned identically from one measurement to the next
+the system includes a number of load_cells like the one described in the ¡¬547_patent arranged around a scale
+depending on the location of the load to be weighed these cells will indicate different weights
+the system is calibrated to create an equation that allows for correction for the differing load_positions so that regardless of the load_position the same weight will be measured
+id
+col.6 ll.52-60
+
+the jury found that the ¡¬052_patent was both invalid for obviousness and not infringed
+the district_court denied mettlers jmol motions on both issues
+claim 1 is illustrative weighing apparatus comprising a plurality of load_cells load_receiving_means supported by said load_cells means associated with said load_cells for providing a digital_representation of a load on each load_cell means for storing a mathematical_expression for load corrected for load_position and
+means for applying said mathematical_expression to said digital_load_representations to produce a digital_representation of the total load on said load_receiving_means corrected for load_position
+claim 7 is a similar method drawn to` compensating a multiple_load_cell_scale for load_position'
+
+the jury returned a verdict that the asserted claims would have been obvious
+on appeal mettler argues that jmol should have been granted because gb 1,462,808 avery does not teach correcting for load_position which is a limitation of each asserted claim
+appellants br
+30
+what is disclosed by a prior art reference is a question of fact
+uniloc usa inc. v. microsoft corp. 632_f.3d_1292 1323 fed.cir.2011 ; upjohn co. v. mova pharm corp. 225_f.3d_1306 1310 fed.cir.2000
+and given the jury verdict of obviousness we must presume that the jury found the facts that support its determination
+upjohn 225 f.3d at 1310
+we conclude that substantial_evidence supports the jury_determination that avery teaches correcting for load_position
+
+avery discloses a system using several transducers to measure a single load
+j.a
+7861 ll.52-61
+using calibration_data which may be an equation the system corrects for an` unevenly loaded' scale
+id
+this is sufficient for a jury to find that it discloses correcting for a load_position
+moving a load to one end of a scale rather than the center would amount to` uneven_loading'
+further b-teks expert testified that avery disclosed this feature thus providing more evidence on which the jury could rely
+
+referring only to claim 7 mettler argues another factual issue-whether avery teaches away from the claimed invention
+spectralytics inc. v. cordis corp. 649_f.3d_1336 1343 fed.cir.2011 holding that whether the prior art teaches away from the claimed invention is a questions of fact
+mettler contends that claim 7 of the ¡¬052_patent explicitly requires` compensating a multiple_load_cell_scale' but the avery reference teaches away from the claimed invention stating` because the transducer signals are corrected or adjusted individually.. the combined output need not be corrected to compensate *1298 for uneven_loading'
+j.a
+7862 ll.69-74
+
+read in context there is substantial_evidence for the jurys conclusion that avery does not teach away
+claim 7 requires` compensating a multiple_load_cell_scale'
+while avery states that it eliminates the need to` compensate for uneven_loading' it is clearly discussing the timing and location of any adjustments or corrections
+in avery each individual transducer or load_cell is individually corrected for` uneven_loading'
+this means that when each transducer measurement is considered together there is no need for additional compensation
+claim 7 of the ¡¬052_patent clearly covers this type of correction
+it requires 1 determining a mathematical_expression 2 interrogating each load_cell or transducer in avery to receive a` digital load representation' and 3` applying said mathematical_expression to said digital_load_representations'
+this encompasses correcting each individual reading or an overall reading
+thus avery does not teach away from the claimed invention.1 mettler also argues that avery fails to teach moving a weight around the scale to calibrate the system
+because the claims do not require moving a weight around the scale avery need not expressly teach this particular calibration technique
+we affirm the district_courts denial of jmol on the nonobviousness of the ¡¬052_patent
+
+iii
+cross-appeal
+b-tek cross-appeals the district_courts denial of sanctions for alleged discovery_abuses by mettler
+we apply the law of the regional_circuit when considering the denial of sanctions
+clearvalue inc. v. pearl river polymers inc. 560_f.3d_1291 1304 fed.cir.2009
+fifth circuit precedent requires that we review the district_courts order for an abuse of discretion
+id
+a district_court abuses its discretion when its` ruling is based on an erroneous_view of the law or on a clearly erroneous_assessment of the evidence'
+id
+fact findings are not clearly erroneous unless` the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed'
+anderson v. city of bessemer city 470_u.s._564 573 105_s.ct._1504 84_l.ed.2d_518_(1985)
+
+in order to develop its case rebutting lost profits damages b-tek requested documents related to mettlers manufacturing_capacity
+mettler stated that it had no such documents
+during trial a mettler employee admitted that certain documents existed-a production_schedule and a plant diagram-and that some of these documents had been destroyed
+further mettler admitted that it provided some of these documents to its own damages expert during the preparation of its case showing that mettler appreciated the documents relevance
+b-tek moved for sanctions including attorneys fees
+the district_court denied the motion
+it noted that mettler did not hide the documents because mettlers representative in a deposition spoke about manufacturing capability and mentioned the production_schedule
+further the district_court found that the documents were not particularly relevant stating *1299 production schedules are as the court understands them merely an ever-changing real-time representation of mettler-toledos backlog and unlikely to provide much if any relevant information about manufacturing_capacity
+nor does the court see how a physical layout diagram of the masstron facility would be relevant
+j.a
+170
+the district_court also noted that b-tek could not show the requisite harm or prejudice because` [ b-tek ] ultimately prevailed at trial on the issue of infringement' so it did not have to rely on its damages case
+id
+thus the court held` assuming there was a discovery violation at all which is somewhat doubtful it does not rise to the level of sanctionable behavior under rule 37'
+id
+
+we hold that the district_court did not abuse its discretion
+it correctly considered the relevance of the documents and any harm to b-tek due to the withholding
+the district_court determined that the documents in question were at best only somewhat relevant
+the court also concluded that there was no harm to b-tek
+b-tek can not point to any` erroneous_view of the law or [ ] a clearly erroneous_assessment of the evidence' and thus we affirm
+clearvalue 560 f.3d at 1304
+
+affirmed
+
+costs
+no costs
+
+all citations
+671_f.3d_1291 101_u.s.p.q.2d_1619
+footnotes
+1
+b-tek responds to an argument that mettler did not put forth in its opening brief-that avery fails to disclose the equation from the ¡¬ 052 patent that the court construed to be a part of a means-plus-function limitation
+avery discloses that` [ t ] he calibration_data may for example be in the form of factors to be multiplied and/or algebraically summated with the respective transducer output'
+avery p. 2 ll.45-50
+this amounts to substantial_evidence because it is simply a prosaic description of the equation disclosed in the ¡¬052_patent
+end of document
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+liao ivan 2/4/2019
+for educational use only mettler-toledo inc. v. b-tek_scales llc 671_f.3d_1291 2012 101_u.s.p.q.2d_1619
+( c 2019 thomson_reuters
+no claim to original_u.s._government_works
+ 
+

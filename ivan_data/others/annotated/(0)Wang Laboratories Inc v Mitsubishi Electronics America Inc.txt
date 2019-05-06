@@ -1,0 +1,154 @@
+103_F.3d_1571
+United States Court of Appeals Federal Circuit
+WANG LABORATORIES INC. Plaintiff-Appellant v. MITSUBISHI ELECTRONICS AMERICA INC. and Mitsubishi_Electric_Corporation Defendants/Cross-Appellants
+Nos._95-1276 95-1324
+| Jan._3,_1997
+| Rehearing Denied ; Suggestion for Rehearing In Banc Declined March_12,_1997
+Synopsis
+Holder of two patents for single in-line_memory_module ( SIMM ) sued alleged_infringer
+Alleged infringer filed declaratory_judgment_action
+Cases were consolidated
+The United_States_District_Court for the Central_District of California John G. Davies J. granted partial_summary_judgment in favor of alleged_infringer 1994_WL_782694 and subsequently entered judgment on jury verdict in favor of alleged_infringer 1995_WL_491434
+Parties appealed
+The Court of Appeals Rich Circuit_Judge held that : ( 1 ) prosecution_history estoppel precluded finding of infringement of one patent ; ( 2 ) patentee had granted implied license to alleged_infringer with respect to one patent ; ( 3 ) patent was not invalid ; and ( 4 ) one patent was literally infringed
+
+Affirmed
+
+Mayer Circuit_Judge concurred in part and concurred in judgment
+
+Attorneys and Law Firms
+*1572 Thomas J. Scott Howrey & Simon Washington D.C. argued for plaintiff-appellant
+With him on the brief were Robert F. Ruyak and Sheila R. Schreiber
+*1573 John W. Kozak Leydig Voit & Mayer Ltd. Chicago IL argued for defendants/cross-appellants
+With him on the brief were Mark E. Phelps Brett A. Hesterberg and Steven P. Petersen
+Of counsel on the brief were Les J. Weinstein Martin J. Trupiano James B. Woodruff Daniel E. Robbins Graham & James of Los Angeles California
+Before RICH MAYER and SCHALL Circuit_Judges
+Opinion
+Opinion for the court filed by Circuit_Judge RICH
+Concurring in part and concurring in the judgment opinion filed by Circuit_Judge MAYER
+RICH Circuit_Judge
+Appellant Wang Laboratories Inc. sued Mitsubishi Electronics America Inc. for infringement of two patents
+Mitsubishi and its parent Mitsubishi_Electric_Corporation ( collectively `` Mitsubishi '' ) filed a declaratory_judgment_action and the cases were consolidated in the United_States_District_Court for the Central_District of California
+The district_court granted Mitsubishi partial_summary_judgment of non-infringement of one patent
+A jury then found both patents not invalid and that Mitsubishi literally infringed the other patent
+But the jury concluded that Wang 's conduct in dealing with Mitsubishi created an implied license from Wang to Mitsubishi to practice the invention claimed in the patent held infringed
+Wang appeals and Mitsubishi cross-appeals
+Since we agree that Mitsubishi was licensed there was no infringement and we therefore affirm
+
+BACKGROUND
+The two patents in suit relate to memory_modules known as `` Single In-line Memory Modules '' or SIMMs
+Generally Wang 's SIMM design consists of nine memory_chips with one reserved for parity checking
+The module is sometimes described as a `` times nine '' or `` X9 '' module
+The parity chip independently stores additional information allowing a device to verify the validity of data stored in and retrieved from the other eight memory_chips
+The nine chips are encased in plastic carriers having leads ( `` leaded '' ) and are arranged in one row along with associated decoupling_capacitors to protect the chips on a substrate with 30 connective terminal_pins
+When mounted on the printed-circuit `` mother board '' of a computer containing the computer 's central processing unit for example these modules allow the computer to write and read data in binary format to and from the SIMMs for storage
+In developing its SIMM Wang used 64-kilobit ( `` 64K '' ) memory_chips
+Together eight 64K_memory_chips could store 512 kilobits or 64 kilobytes of data ( eight binary digits or `` bits '' constitute one `` byte '' )
+More recent SIMMs may contain 256-kilobit ( `` 256K '' ) or larger memory_chips
+
+James Clayton the named inventor in the patents in suit joined Wang Laboratories in the fall of 1982
+At the time computer memory components remained relatively large expensive and difficult to upgrade
+In the spring of 1983 Clayton developed the SIMM as a smaller lower cost replaceable form of computer memory
+On September 2 1983 Clayton with Wang as assignee applied for a patent on the SIMM_invention application serial number 528,817
+The original application contained three claims all of which the Patent and Trademark Office ( `` PTO '' ) rejected on June_13,_1985
+The PTO based its rejection in part on obviousness of the claimed subject_matter
+Wang amended the application to cancel claims 1 2 and 3 and to add claims 4 5 and 6
+The new claims clarified that the invention consisted of a single_row of memory_chips packaged in `` plastic_leaded_chip_carriers '' for mounting on `` epoxy-glass '' printed circuit boards
+The PTO 's final office action however rejected the amended claims this time solely based on obviousness
+
+Wang submitted a file wrapper continuation application serial number 873,879 on June_12,_1986 replacing claims 4 5 and 6 with claim 7
+Wang then abandoned the initial application
+In `` remarks '' accompanying the continuation application Wang argued that the single new claim recited a unique specific combination of elements distinguishable from the prior art in particular from `` [ t ] he EDI_EDH-4816_publication describ [ ing ] a single in-line_memory_module *1574 which consists of eight ceramic chips mounted on a ceramic substrate
+The module contains thirty-two terminal_pins and ten decoupling_capacitors on the main voltages ''
+In contrast Wang claimed `` nine memory_chips ( eight for data one for parity ) contained in plastic_leaded_chip_carriers and mounted on a [ sic ] epoxy-glass pc [ printed circuit ] board of particular dimensions
+The module has thirty terminal_pins and eight decoupling_capacitors connected between the memory_chips to suppress voltage spikes ''
+The application resulted in patent_No._4656,605 ( '605_patent ) issued April_7,_1987
+The single claim reads ( emphasis ours ) : 1
+A memory_module for installation on a printed circuit_motherboard_comprising : eight data_memory_chips for storing digital_data each having a data_input and output a control_input and an address_input and each being packaged in a plastic_leaded_chip_carrier ; a ninth_memory_chip for storing error_detection and correction_information associated with the eight data_memory_chips said ninth_memory_chip having a data_input and output a control_input and an address_input interconnected with those of the eight memory_chips and a control_input to provide writing in or reading out of the ninth_memory_chip at times other than when said bytes of digital_information are written into or read out of the eight data_memory_chips to thereby facilitate said error_detection and correction operation ; an epoxy-glass printed circuit_board_substrate having a length and width adequate for mounting thereon only in a single_row said nine memory_chips and for interconnecting the control_inputs and the address_inputs of the memory_chips so that bytes of digital_information may be input to or output from the memory_chips one at a time ; the substrate including thirty terminals for providing access to the data_inputs and outputs control_inputs and address_inputs of the nine memory_chips to enable reading and writing of bytes of digital_information into and out of the eight memory_chips and to enable reading and writing of error_detection and correction_information into and out of the eight memory_chips ; support_means for supporting the memory_module at an angle with respect to the printed circuit motherboard when the memory_module is installed thereon ; and
+eight decoupling_capacitors mounted on said substrate and connected between the nine memory_chips for suppressing transient voltage spikes between said memory_chips
+
+Wang filed another application on February 20 1987 as a continuation of application number 873,879
+This application comprised two claims and led to patent_No._4727,513 ( '513_patent ) which issued on February 23 1988
+The two claims of the '513_patent are as follows : 1
+A memory_module for installation on a printed circuit_motherboard_comprising
+nine data_memory_chips for storing digital_data each having a data_input and output control_input and an address_input and each being packaged in a plastic_leaded_chip_carrier wherein said ninth_memory_chip is for storing detection and correction_information associated with the eight data_memory_chips an epoxy-glass printed circuit_board_substrate having a length and width adequate for mounting thereon only in a single_row said nine memory_chips and for interconnecting the control_inputs and the address_inputs of the memory_chips so that bytes of digital_information may be input to or output from the memory_chips the substrate including thirty terminals for providing access to the data_inputs and outputs control_inputs and address_inputs of the nine memory_chips and to enable reading and writing of information into and out of the nine chips support_means for supporting the memory_module at an angle with respect to a motherboard and
+decoupling_capacitors mounted on said substrate and coupled to the memory_chips for suppressing transient voltages
+2
+The module of claim 1 wherein all nine memory_chips are interconnected such that data is input to or output from the ninth *1575 memory_chips [ sic ] when data is input to or output from the other eight memory_chips
+
+A panel of Wang employees including Clayton introduced the SIMM technology to members of the computer industry press in June 1983
+After giving a detailed description of their invention Wang personnel answered questions
+According to the panelists Wang hoped to preempt the anticipated future introduction of 256K_chips by Japanese manufacturers in a format known as the Small Outline Integrated Circuit or SOIC
+By combining eight existing 64K_chips into a 64-kilobyte package Wang could introduce immediately a smaller denser lower cost memory option
+The panel went on to note an expected struggle at the Joint Electronic Device Council ( `` JEDEC '' ) a committee of the Electronic Industries Association invested with responsibility for setting industry standards over which format would become the memory_module standard
+
+Clayton described the period preceding the upcoming JEDEC meetings with manufacturers awaiting indication of which way the market would go before committing to a module design
+He explained Wang 's belief that the present introduction of its new package should be the catalyst to sway the industry to its approach
+Clayton revealed that Wang would not produce SIMMs
+Instead Wang intended to encourage others to produce the modules and would then buy SIMMs for use in its products
+The panel indicated that companies already were preparing to make SIMMs
+In response to questions a panelist stated that Wang was not seeking patent_rights in the SIMM,1 that no licensing agreements were involved for the companies approached by Wang to make SIMMs and that SIMM makers could sell their products to third parties
+Panelist Daniel Devlin summarized Wang 's goal : `` Hopefully if they sell it and if they have enough interest and the market gets big enough we get the advantage of the cost reduction because of the volumes involved ''
+Numerous trade publications carried SIMM stories in their July or August 1983 issues
+
+Wang subsequently brought its SIMMs to JEDEC and sought to persuade the group to designate Wang 's design a standard
+Wang argued for adoption of the SIMM from September 1983 through June 1986 when JEDEC accepted the SIMM as a standard
+During that period Wang did not inform JEDEC of its ongoing pursuit of patent_rights in the SIMM
+Meanwhile several manufacturers cooperated with Wang to begin mass producing and marketing SIMMs
+As predicted in the 1983 press presentation a large market developed for the modules and Wang became a high volume purchaser
+
+Mitsubishi first met with Wang regarding SIMMs in December 1983
+In their meetings Wang supplied drawings and other details to Mitsubishi and repeatedly requested that Mitsubishi manufacture SIMMs
+Mitsubishi researched the possibility of producing SIMMs for Wang but did not proceed with the project at that time
+After Mitsubishi began making 256K_memory_chips however Mitsubishi decided to assemble 256K_SIMMs incorporating the new chips into a SIMM similar to Wang 's for sale to Wang and others
+Mitsubishi declined to assess engineering costs to Wang contrary to its asserted practice when creating a custom product exclusively for a particular purchaser
+
+In 1985 meetings in the context of ongoing contacts between the two companies Mitsubishi and Wang discussed Mitsubishi 's new 256K_SIMMs.2 In one meeting Clayton suggested that Mitsubishi modify its SIMM by placing the decoupling_capacitors on the same side of the substrate with the chips as in the original Wang design
+Mitsubishi complied
+Mitsubishi went on to mass produce 256K_SIMMs ; and in 1987 Wang began buying Mitsubishi_SIMMs
+Wang never informed Mitsubishi of its patent applications *1576 patents or of any intent to execute a license or receive royalties until a December 22 1989 letter accusing Mitsubishi of infringing the '605 and '513_patent s which had issued in 1987_and_1988 respectively
+
+Wang sued Mitsubishi for infringement on June_4,_1992 in the United_States_District_Court for the Eastern District of Virginia
+Wang argued that Mitsubishi literally infringed the '513_patent and infringed the '605_patent under the doctrine of equivalents
+Mitsubishi had the case transferred to the United_States_District_Court for the Central_District of California and filed counterclaims seeking a declaratory judgment of invalidity non-infringement and unenforceability as well as alleging assorted state and federal antitrust violations
+Mitsubishi also asserted several affirmative defenses including the defense that Wang 's conduct created an implied license
+
+Wang moved for summary judgment that Mitsubishi infringed the '605_patent under the doctrine of equivalents because the nine decoupling_capacitors beneath nine memory_chips in Mitsubishi 's SIMMs are equivalent to the `` eight decoupling_capacitors.. between the nine memory_chips '' claimed in Wang 's '605_patent
+The court denied Wang 's motion
+Mitsubishi then sought summary adjudication that prosecution_history estoppel barred Wang from relying on the doctrine of equivalents with regard to this `` eight capacitor limitation ''
+For support Mitsubishi focused on Wang 's June_12,_1986 amendment and accompanying remarks distinguishing claim 7 from the EDI_EDH-4816_publication disclosing 10 capacitors
+
+The district_court agreed that Wang relied on the `` unique combination of elements '' in its design including exactly eight capacitors and granted partial_summary_judgment of non-infringement by Mitsubishi of the '605_patent
+
+The parties tried the remaining issues to a jury
+At the close of evidence each side was denied judgment as a matter of law ( `` JMOL '' ) under Rule 50 ( a )
+Next Wang and Mitsubishi fought over the formulation of the implied license instruction to the jury
+Wang submitted legal_estoppel language ; Mitsubishi objected and offered equitable_estoppel or estoppel by conduct as the basis of its license
+The final instruction merged the parties ' competing proposals into one instruction which read as follows : One who owns a patent as patentee or assignee having the right to exclude others from making using or selling what is claimed may agree to let another do one or more of those acts
+This is called a license and the person allowed to do the set of acts is a licensee
+An implied license is a form of implied-in-fact contract
+In order to proved [ sic ] the defense of implied license [ Mitsubishi ] must establish by a preponderance of the evidence that ( 1 ) there was an existing relationship between Wang and [ Mitsubishi ] ; ( 2 ) within that relationship Wang transferred a right to use SIMM_invention to [ Mitsubishi ] ; ( 3 ) the right was transferred for valuable_consideration ; and ( 4 ) Wang has now denied the existence of the right it transferred to [ Mitsubishi ]
+In deciding whether [ Mitsubishi has ] proved the existence of an implied license you may consider statements and conduct of Wang from which one would reasonably infer Wang 's consent to Mitsubishi 's making using or selling products to persons other than Wang under the patents
+If you find that a right to make use or sell the SIMM_invention was granted to [ Mitsubishi ] then you should find and [ sic ] implied license was granted to [ Mitsubishi ] by Wang
+The relevant question to the jury on the Special Verdict Form read `` Has Mitsubishi proven by a preponderance of the evidence that Wang licensed Mitsubishi to make use or sell the subject_matter of the '513_patent ? ''
+The jury answered `` Yes ''
+On other_issues the jury determined that Mitsubishi failed to prove that the '605 or '513_patent s were invalid for obviousness or for the alleged nondisclosure of the inventor 's best_mode
+The jury further found that the Mitsubishi_SIMMs infringed the '513_patent claims but that infringement was not willful
+In its advisory capacity the jury concluded that Mitsubishi did not prove its defenses of inequitable conduct equitable_estoppel laches patent misuse or unclean hands
+
+*1577 After the verdict the court held a hearing on Mitsubishi 's equitable_defenses then directed Wang to draft a proposed judgment and findings of fact and conclusions of law adopting the jury 's determinations on the equitable_defenses which Wang did
+Mitsubishi objected to Wang 's drafts and protested that although the findings and conclusions did not cover the implied license Wang wrote findings on other_issues which contradicted and undermined the jury 's implied license verdict
+Furthermore Wang had written that the jury found an implied license `` under the doctrine of legal_estoppel ''
+Notwithstanding Mitsubishi 's objections the court entered both the Judgment and the Findings of Fact and Conclusions of Law
+
+On March_6,_1995 the parties argued six motions to the district_court
+Wang 's motions addressed the implied license_defense
+First Wang moved for Rule 50 ( b ) JMOL because Wang believed that no reasonable jury could find Mitsubishi provided valuable_consideration for a license as required by Wang 's formulation of implied license elements based on legal_estoppel
+Second Wang sought a partial new trial on the implied license_defense
+Third Wang moved to amend the judgment based on its theory that the implied license conclusion mandated a finding that an implied contract existed and that assuming an absence of other consideration Mitsubishi must have promised royalties to Wang
+
+Mitsubishi moved for JMOL contending that because Clayton admitted he knew a best_mode which comprised two power pins and two ground pins wired in a symmetrical configuration and because the patent contains no express disclosure of that wiring scheme the jury erred in finding Mitsubishi failed to prove that Wang concealed the inventor 's best_mode
+Next Mitsubishi asserted that the evidence required a finding of obviousness and therefore invalidation of Wang 's patents under 35 U.S.C.¡± 103
+Last Mitsubishi argued that five differences between Mitsubishi 's modules and the SIMM claimed in the '513_patent bar a finding of literal infringement of the '513_patent
+The court denied all six motions
+

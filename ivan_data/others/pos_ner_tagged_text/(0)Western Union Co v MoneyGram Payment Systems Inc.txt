@@ -1,0 +1,186 @@
+('626_F.3d_1361', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('WESTERN', 'NNP', 'ORG', 'I') ('UNION', 'NNP', 'ORG', 'I') ('COMPANY', 'NNP', 'ORG', 'I') ('Plaintiff-Appellee', 'NNP', 'ORG', 'I') ('v.', 'IN', 'ORG', 'I') ('MONEYGRAM', 'NNP', 'ORG', 'B') ('PAYMENT', 'NNP', 'ORG', 'I') ('SYSTEMS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', '', 'O') ('Defendant-Appellant', 'NN', '', 'O')
+The WESTERN UNION COMPANY Plaintiff-Appellee v. MONEYGRAM PAYMENT SYSTEMS
+__NEW_SENT__
+('Nos._2010-1080', 'NN', '', 'O') ('2010-1210', 'CD', '', 'O')
+
+__NEW_SENT__
+('|', 'IN', '', 'O') ('Dec._7,_2010', 'NNP', 'ORG', 'B')
+Dec._7,_2010
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Rehearing', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Rehearing', 'VBG', '', 'O') ('En', 'NNP', '', 'O') ('Banc', 'NNP', '', 'O') ('Denied', 'VBN', '', 'O') ('Feb._8,_2011', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*', 'NFP', '', 'O') ('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Money', 'NN', '', 'O') ('transfer', 'NN', '', 'O') ('service', 'NN', '', 'O') ('company', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('patents', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('money_transfers', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('Sam', 'NNP', 'PERSON', 'B') ('Sparks', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('verdict', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patentee', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('favor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('denied', 'VBN', '', 'O') ('competitor', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O')
+United_States_District_Court Western_District Texas Sam Sparks J.
+__NEW_SENT__
+('Competitor', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Lourie', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Lourie Circuit_Judge
+__NEW_SENT__
+('competitor', 'NN', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('waive', 'VB', '', 'O') ('obviousness', 'JJ', '', 'O') ('claim', 'NN', '', 'O') (';', ':', '', 'O')
+
+__NEW_SENT__
+('patent', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('evidence', 'NN', '', 'O') ('of', 'IN', '', 'O') ('secondary', 'JJ', '', 'O') ('considerations', 'NNS', '', 'O') ('was', 'VBD', '', 'O') ('irrelevant', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1362', 'NFP', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('E.', 'NNP', 'PERSON', 'I') ('Sipiora', 'NNP', 'PERSON', 'I') ('Townsend', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Townsend', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Crew', 'NNP', 'ORG', 'B') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Denver', 'NNP', 'ORG', 'B') ('CO', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+David E. Sipiora Townsend Townsend Crew LLP Denver CO
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Ian', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Saffer', 'NNP', 'PERSON', 'I') ('Amanda', 'NNP', 'PERSON', 'I') ('L.', 'NNP', 'PERSON', 'I') ('Swaim', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Bell', 'NNP', 'PERSON', 'I')
+Ian L. Saffer Amanda L. Swaim Kevin M. Bell
+__NEW_SENT__
+('William', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Lee', 'NNP', 'PERSON', 'I') ('Wilmer', 'NNP', 'PERSON', 'I') ('Cutler', 'NNP', 'PERSON', 'I') ('Pickering', 'NNP', 'PERSON', 'I') ('Hale', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Dorr', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Boston', 'NNP', 'ORG', 'B') ('MA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellant', 'JJ', '', 'O')
+William F. Lee Wilmer Cutler Pickering Hale Boston MA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Joseph', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Mueller', 'NNP', 'PERSON', 'I') ('Megan', 'NNP', 'PERSON', 'I') ('Barbero', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Sydenham', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Alexander', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('McElwain', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O')
+Joseph J. Mueller Megan Barbero Sydenham B. Alexander III William G. McElwain Washington
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Martin', 'NNP', 'PERSON', 'B') ('R.', 'NNP', 'PERSON', 'I') ('Lueck', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Emmett', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('McMahon', 'NNP', 'PERSON', 'I') ('Robins', 'NNP', '', 'O') ('Kaplan', 'NNP', '', 'O') ('Miller', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Ciresi', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Minneapolis', 'NNP', 'GPE', 'B') ('MN', 'NNP', '', 'O')
+Martin R. Lueck Emmett J. McMahon Minneapolis
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('LOURIE', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('PROST', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+LOURIE
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('LOURIE', 'NNS', '', 'O') ('Circuit_Judge', 'VBP', '', 'O')
+
+__NEW_SENT__
+('MoneyGram', 'NNP', 'ORG', 'B') ('Payment', 'NNP', 'ORG', 'I') ('Systems', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('MoneyGram', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeals', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Western_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Western_Union', 'NNP', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Western_Union', 'NN', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+MoneyGram Payment Systems Inc. MoneyGram Western_District Texas the Western_Union Company Western_Union
+__NEW_SENT__
+('A', 'DT', '', 'O') ('jury', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('certain', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('U.S', 'NNP', 'GPE', 'B')
+U.S
+__NEW_SENT__
+('Patents', 'NNS', '', 'O') ('6,488,203', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬203_patent', 'JJ', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('6,502,747', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬747_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('6,761,309', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬309_patent', 'NNP', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('7,070,094', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬094_patent', 'NNP', '', 'O') ('``', "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('found', 'VBD', '', 'O') ('those', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('obviousness', 'JJ', '', 'O')
+6,488,203 6,502,747 6,761,309 7,070,094
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('MoneyGram', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('renewed', 'VBN', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('judgment', 'NN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('law', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('JMOL', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('on', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'JJ', '', 'O') ('patents', 'NNS', '', 'O')
+MoneyGram
+__NEW_SENT__
+('Western_Union', 'NNP', 'ORG', 'B') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('MoneyGram', 'NNP', 'ORG', 'B') ('Int', 'NNP', '', 'O') ("'", "''", '', 'O') ('l', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('No._1', 'NNP', '', 'O') (':07-cv00372', ':', '', 'O') ('Dkt', 'NNP', '', 'O')
+Western_Union Co. MoneyGram
+__NEW_SENT__
+('No._429', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('W.D.Tex', '.', '', 'O')
+No._429
+__NEW_SENT__
+('Nov._17,_2009', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('JMOL', 'NNP', '', 'O') ('Opinion', 'NNP', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('we', 'PRP', '', 'O') ('find', 'VBP', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('person', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('time', 'NN', '', 'O') ('of', 'IN', '', 'O') ('filing', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Western_Union', 'NN', '', 'O') ('owns', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('¡¬203', 'RB', 'CARDINAL', 'B') ('¡¬747', 'JJ', '', 'O') ('¡¬309', 'NN', '', 'O') ('and', 'CC', '', 'O') ('¡¬094_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('system', 'NN', '', 'O') ('for', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('money_transfers', 'NNS', '', 'O')
+¡¬203
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬203', 'NN', 'CARDINAL', 'B') ('¡¬747', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('¡¬309_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('send', 'VB', '', 'O') ('patents', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('specifically', 'RB', '', 'O') ('relate', 'VBP', '', 'O') ('to', 'IN', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('sending', 'VBG', '', 'O') ('money', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('financial_services_institution', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('FSI', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+¡¬203 FSI
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬094_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('methods', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('receiving', 'VBG', '', 'O') ('transferred', 'VBN', '', 'O') ('money', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patented_system', 'NN', '', 'O') ('relates', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('money_transfer', 'VB', '', 'O') ('services', 'NNS', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('those', 'DT', '', 'O') ('offered', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Western_Union', 'NN', '', 'O') ('through', 'IN', '', 'O') ('retail_locations', 'NNS', '', 'O') ('where', 'WRB', '', 'O') ('a', 'DT', '', 'O') ('customer', 'NN', '', 'O') ('may', 'MD', '', 'O') ('identify', 'VB', '', 'O') ('a', 'DT', '', 'O') ('recipient', 'NN', '', 'O') ('and', 'CC', '', 'O') ('tender', 'VB', '', 'O') ('an', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('delivered', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recipient', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('money_transfer', 'NN', '', 'O') ('service', 'NN', '', 'O') ('collects', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('retail_location', 'NN', '', 'O') ('and', 'CC', '', 'O') ('completes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('customer', 'NN', '', 'O')
+
+__NEW_SENT__
+('Some', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('traditional', 'JJ', '', 'O') ('money_transfer', 'NN', '', 'O') ('systems', 'NNS', '', 'O') ('required', 'VBD', '', 'O') ('money', 'NN', '', 'O') ('senders', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('fill', 'VB', '', 'O') ('out', 'RP', '', 'O') ('forms', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('transaction', 'NN', '', 'O') ('information', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('recipient', 'NN', '', 'O') ('information', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('money', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('transferred', 'VBN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬203_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('formless', 'JJ', '', 'O') ('money_transfer', 'NN', '', 'O') ('using', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('electronic_transaction_fulfillment_device', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ETFD', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NNP', '', 'O') ('depicts', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('embodiment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented_system', 'NN', '', 'O')
+1
+__NEW_SENT__
+('*1363.', 'NNP', '', 'O') ('?', '.', '', 'O')
+
+__NEW_SENT__
+('Figure', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NN', '', 'O')
+1
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented_system', 'NN', '', 'O') ('a', 'DT', '', 'O') ('customer', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('telephone', 'NN', '', 'O') ('access', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('customer', 'NN', '', 'O') ('service', 'NN', '', 'O') ('representative', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('CSR', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('financial', 'JJ', '', 'O') ('institution', 'NN', '', 'O') ('who', 'WP', '', 'O') ('obtains', 'VBZ', '', 'O') ('details', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transfer', 'NN', '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('stages', 'NNS', '', 'O') ("''", "''", '', 'O') ('the', 'DT', '', 'O') ('money_transfer', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('customer', 'NN', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('host', 'NN', '', 'O') ('computer', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('18', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+CSR 18
+__NEW_SENT__
+('The', 'DT', '', 'O') ('customer', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('later', 'RB', '', 'O') ('able', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('complete', 'VB', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('retail_location', 'NN', '', 'O') ('where', 'WRB', '', 'O') ('an', 'DT', '', 'O') ('agent', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('able', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('retrieve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('computer', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('18', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('through', 'IN', '', 'O') ('an', 'DT', '', 'O') ('ETFD', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('22', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('accept', 'VB', '', 'O') ('the', 'DT', '', 'O') ('required', 'VBN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('money', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('customer', 'NN', '', 'O')
+18 22
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented_invention', 'NN', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('money_transfer', 'NN', '', 'O') ('send_transaction', 'NN', '', 'O') ('the', 'DT', '', 'O') ('method_comprising', 'NN', '', 'O') (':', ':', '', 'O') ('providing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('direct', 'JJ', '', 'O') ('access', 'NN', '', 'O') ('to', 'IN', '', 'O') ('an', 'DT', '', 'O') ('employee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('financial_services_institution', 'NN', '', 'O') ('in', 'IN', '', 'O') ('order', 'NN', '', 'O') ('to', 'TO', '', 'O') ('receive', 'VB', '', 'O') ('transaction_details', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') (';', ':', '', 'O') ('storing', 'VBG', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('data_base', 'NN', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('include', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('money', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('sent', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('recipient', 'NN', '', 'O') (';', ':', '', 'O') ('establishing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('code', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('corresponds', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('stored', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('established', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O') (';', ':', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('useable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('identify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') (';', ':', '', 'O') ('entering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('into', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electronic_transaction_fulfillment_device', 'NN', '', 'O') ('in', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') ('to', 'TO', '', 'O') ('retrieve', 'VB', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('*1364', 'UH', '', 'O') ('data_base', 'NN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('step', 'NN', '', 'O') ('of', 'IN', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('determining', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('collect_amount', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('collected', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') (';', ':', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('or', 'CC', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recipient', 'NN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recipient', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬203_patent', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+1
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('12', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('adds', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('that', 'IN', '', 'O') ('an', 'DT', '', 'O') ('employee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('money_transfer', 'JJ', '', 'O') ('business', 'NN', '', 'O') ('provides', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('identifying', 'VBG', '', 'O') ('code', 'NN', '', 'O')
+Claim 12 1
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('16', 'CD', 'PERSON', 'I') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('dependent', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('adds', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('collecting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('money', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('notifying', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('database', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('collection', 'NN', '', 'O') ('and', 'CC', '', 'O') ('recording', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('transaction', 'NN', '', 'O') ('as', 'IN', '', 'O') ('complete', 'JJ', '', 'O')
+Claim 16 1
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬203_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('26', 'CD', 'DATE', 'I') ('1999', 'CD', 'DATE', 'I') ('and', 'CC', '', 'O') ('issued', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('December', 'NNP', 'DATE', 'B') ('3', 'CD', 'DATE', 'I') ('2002', 'CD', 'DATE', 'I')
+October 26 1999 December 3 2002
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬747_patent', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('1999', 'CD', 'DATE', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('¡¬309_patent', 'NNP', 'PERSON', 'B') ('filed', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('2004', 'CD', 'DATE', 'B') ('are', 'VBP', '', 'O') ('both', 'DT', '', 'O') ('continuations', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NN', '', 'O')
+¡¬747_patent 1999 ¡¬309_patent 2004
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬309_patent', 'NNP', '', 'O') ('claims', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('similar', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('substantially', 'RB', '', 'O') ('identical', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('scope', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NNP', '', 'O') ('claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬747_patent', 'NNP', 'ORG', 'B') ('primarily', 'RB', '', 'O') ('adds', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('internet-based', 'JJ', '', 'O') ('communications', 'NNS', '', 'O') ('using', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('internet', 'NN', '', 'O') ('communications', 'NNS', '', 'O') ('protocol', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('TCP/IP', 'CD', 'NORP', 'B') ('protocol', 'NN', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('money_transfer', 'NN', '', 'O') ('system', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claims', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('use', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('first_computer', 'NN', '', 'O') ("''", "''", '', 'O') ('instead', 'RB', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('data_base', 'NN', '', 'O') ("''", "''", '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NN', '', 'O')
+¡¬747_patent TCP/IP
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('20', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('illustrative', 'JJ', '', 'O') (':', ':', '', 'O') ('20', 'CD', 'CARDINAL', 'B')
+Claim 20 20
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('performing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('money_transfer', 'JJ', '', 'O') ('send_transaction', 'NN', '', 'O') ('through', 'IN', '', 'O') ('a', 'DT', '', 'O') ('financial_services_institution', 'NN', '', 'O') ('the', 'DT', '', 'O') ('method_comprising', 'NN', '', 'O') (':', ':', '', 'O') ('receiving', 'VBG', '', 'O') ('transaction_details', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('a', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('financial_services_institution', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('and', 'CC', '', 'O') ('include', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('desired', 'VBN', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('money', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('sent', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('recipient', 'NN', '', 'O') (';', ':', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') (';', ':', '', 'O') ('establishing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('code', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('corresponds', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_details', 'NNS', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('established', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O') (';', ':', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('useable', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('identify', 'VB', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O') (';', ':', '', 'O') ('receiving', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') ('from', 'IN', '', 'O') ('an', 'DT', '', 'O') ('electronic_transaction_fulfillment_device', 'NN', '', 'O') ('in', 'IN', '', 'O') ('communication', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') ('after', 'IN', '', 'O') ('the', 'DT', '', 'O') ('step', 'NN', '', 'O') ('of', 'IN', '', 'O') ('storing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') (';', ':', '', 'O') ('validating', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('received', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_fulfillment_device', 'NNP', '', 'O') ('by', 'IN', '', 'O') ('comparing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('received', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_fulfillment_device', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('stored', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('transmitting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('collect_amount', 'NN', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('collected', 'VBN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('sender', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('first_computer', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_fulfillment_device', 'NNPS', '', 'O') ('if', 'IN', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('received', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('transaction_fulfillment_device', 'NNPS', '', 'O') ('is', 'VBZ', '', 'O') ('valid', 'JJ', '', 'O') (';', ':', '', 'O') ('wherein', 'WRB', '', 'O') ('at', 'IN', '', 'O') ('least', 'JJS', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('method', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('performed', 'VBN', '', 'O') ('using', 'VBG', '', 'O') ('TCP/IP', 'CD', 'GPE', 'B') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('code', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('provided', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('or', 'CC', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recipient', 'NN', '', 'O') ('for', 'IN', '', 'O') ('use', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('recipient', 'NN', '', 'O') ('during', 'IN', '', 'O') ('the', 'DT', '', 'O') ('send_transaction', 'NN', '', 'O')
+TCP/IP
+__NEW_SENT__
+('¡¬747_patent', 'NN', '', 'O') ('claim', 'NN', '', 'O') ('20', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+20
+__NEW_SENT__
+('During', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬747', 'NN', 'NORP', 'B') ('and', 'CC', '', 'O') ('¡¬309_patent', 'NNP', '', 'O') ('s', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('terminal', 'JJ', '', 'O') ('disclaimer', 'NN', '', 'O') ('limiting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('those', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('that', 'DT', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬203_patent', 'NNP', 'NORP', 'B') ('in', 'IN', '', 'O') ('response', 'NN', '', 'O') ('to', 'IN', '', 'O') ('double', 'JJ', '', 'O') ('patenting', 'NN', '', 'O') ('rejections', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('USPTO', 'NNP', 'ORG', 'B')
+¡¬747 ¡¬203_patent USPTO
+__NEW_SENT__
+('Like', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patented_invention', 'NN', '', 'O') ('a', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('system', 'NN', '', 'O') ('owned', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Orlandi_Valuta', 'NN', '', 'O') ('another', 'DT', '', 'O') ('money_transfer', 'NN', '', 'O') ('service', 'NN', '', 'O') ('company', 'NN', '', 'O') ('also', 'RB', '', 'O') ('employed', 'VBD', '', 'O') ('technology', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('require', 'VB', '', 'O') ('customers', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('fill', 'VB', '', 'O') ('out', 'RP', '', 'O') ('forms', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('transfer', 'VB', '', 'O') ('money', 'NN', '', 'O')
+
+__NEW_SENT__
+('Below', 'RB', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('figure', 'NN', '', 'O') ('from', 'IN', '', 'O') ('Orlandi_Valuta', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('literature', 'NN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('``', '``', '', 'O') ('Red', 'NNP', '', 'O') ('Phone', 'NNP', '', 'O') ("''", "''", '', 'O') ('system', 'NN', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__

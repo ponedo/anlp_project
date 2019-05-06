@@ -1,0 +1,330 @@
+('724_F.3d_1343', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('PLANTRONICS', 'NNP', '', 'O') ('INC.', 'NNP', '', 'O') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('ALIPH', 'NNP', 'ORG', 'B') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Aliphcom', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Defendants-Appellees', 'VBZ', '', 'O')
+ALIPH INC. Aliphcom Inc.
+__NEW_SENT__
+('No._2012-1355', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('July_31,_2013', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('competitor', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('directed', 'VBN', '', 'O') ('toward', 'IN', '', 'O') ('concha-style_headset', 'NN', '', 'O') ('for', 'IN', '', 'O') ('transmitting', 'VBG', '', 'O') ('received', 'VBN', '', 'O') ('sounds', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('ear', 'NN', '', 'O') ('of', 'IN', '', 'O') ('user', 'NN', '', 'O') ('e.g.', 'JJ', '', 'O') ('headsets', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('cell_phone_receivers', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Parties', 'NNS', '', 'O') ('consented', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('final', 'JJ', '', 'O') ('disposition', 'NN', '', 'O') ('by', 'IN', '', 'O') ('magistrate', 'JJ', '', 'O') ('judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Northern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('California', 'NNP', '', 'O') ('Bernard', 'NNP', '', 'O') ('Zimmerman', 'NNP', '', 'O') ('United', 'NNP', '', 'O') ('States', 'NNP', '', 'O') ('Magistrate', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('2011_WL_4634066', 'NNP', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('then', 'RB', '', 'O') ('ruled', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBD', '', 'O') ('2012_WL_994636', 'CD', '', 'O')
+The United States District Court the Northern District
+__NEW_SENT__
+('Patentee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Wallach', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Wallach Circuit_Judge
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('stabilizer_support_member', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') ('meant', 'VBN', '', 'O') ('structure', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('extended', 'VBD', '', 'O') ('from', 'IN', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('to', 'IN', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('and', 'CC', '', 'O') ('stabilized', 'VBD', '', 'O') ('headset', 'NN', '', 'O') (';', ':', '', 'O')
+stabilizer_support_member
+__NEW_SENT__
+('term', 'NN', '', 'O') ('``', '``', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ("''", "''", '', 'O') ('meant', 'VBD', '', 'O') ('stabilizing', 'VBG', '', 'O') ('structure', 'NN', '', 'O') ('dimensioned', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('extend', 'VB', '', 'O') ('between', 'IN', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('upper_concha', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('prosecution', 'NN', '', 'O') ('history', 'NN', '', 'O') ('disclaimer', 'NN', '', 'O') ('doctrine', 'NN', '', 'O') ('could', 'MD', '', 'O') ('not', 'RB', '', 'O') ('be', 'VB', '', 'O') ('applied', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('limit', 'VB', '', 'O') ('terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('stabilizer_support_member', 'NNP', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ("''", "''", '', 'O') ('to', 'IN', '', 'O') ('elongated', 'VBN', '', 'O') ('structure', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('factual', 'JJ', '', 'O') ('issue', 'NN', '', 'O') ('existed', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('to', 'IN', '', 'O') ('whether', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('vacated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1345', 'UH', '', 'O') ('Kara', 'NNP', 'PERSON', 'B') ('F.', 'NNP', 'PERSON', 'I') ('Stoll', 'NNP', 'PERSON', 'I') ('Finnegan', 'NNP', 'PERSON', 'I') ('Henderson', 'NNP', '', 'O') ('Farabow', 'NNP', '', 'O') ('Garrett', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Dunner', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Kara F. Stoll Finnegan Washington
+__NEW_SENT__
+('With', 'IN', '', 'O') ('her', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Jason', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Melvin', 'NNP', 'PERSON', 'I')
+Jason W. Melvin
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Bohrer', 'NNP', 'PERSON', 'I') ('Confluence', 'NNP', 'PERSON', 'I') ('Law', 'NNP', 'PERSON', 'I') ('Partners', 'NNPS', 'PERSON', 'I') ('of', 'IN', '', 'O') ('San', 'NNP', 'GPE', 'B') ('Jose', 'NNP', 'GPE', 'I') ('CA', 'NNP', 'GPE', 'I') ('and', 'CC', '', 'O') ('Bruce', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Chapman', 'NNP', 'PERSON', 'I') ('Connolly', 'NNP', '', 'O') ('Bove', 'NNP', '', 'O') ('Lodge', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Hutz', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Los', 'NNP', 'GPE', 'B') ('Angeles', 'NNP', 'GPE', 'I') ('CA', 'NNP', '', 'O')
+David C. Bohrer Confluence Law Partners San Jose CA Bruce G. Chapman Lodge & Hutz LLP Los Angeles
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Feldman', 'NNP', 'PERSON', 'I') ('Quinn', 'NNP', 'ORG', 'B') ('Emanuel', 'NNP', 'ORG', 'I') ('Urquhart', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Sullivan', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Redwood', 'NNP', 'ORG', 'I') ('Shores', 'NNP', 'ORG', 'I') ('CA', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Robert P. Feldman Quinn Emanuel Urquhart & Sullivan LLP of Redwood Shores CA
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Daniel', 'NNP', 'PERSON', 'B') ('H.', 'NNP', 'PERSON', 'I') ('Bromberg', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Dane', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Reinstedt', 'NNP', 'PERSON', 'I')
+Daniel H. Bromberg Dane W. Reinstedt
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('RADER', 'NNP', '', 'O') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ("O'MALLEY", 'NN', 'PERSON', 'B') ('and', 'CC', '', 'O') ('WALLACH', 'NNP', '', 'O') ('Circuit_Judges', 'NNS', '', 'O')
+O'MALLEY
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('WALLACH', 'NNP', '', 'O') ('Circuit_Judge', 'VB', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('this', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('case', 'NN', '', 'O') ('Plantronics', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Plantronics', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('filed', 'VBD', '', 'O') ('suit', 'NN', '', 'O') ('alleging', 'VBG', '', 'O') ('that', 'IN', '', 'O') ('Aliph', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Aliphcom', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ("'s", 'POS', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Aliph', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('products', 'NNS', '', 'O') ('infringe', 'NN', '', 'O') ('*1346', 'XX', '', 'O') ('U.S._Patent_No._5712,453', 'VBG', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', 'WORK_OF_ART', 'B') ('Concha', 'NNP', 'WORK_OF_ART', 'I') ('Headset', 'NNP', 'WORK_OF_ART', 'I') ('Stabilizer', 'NNP', 'WORK_OF_ART', 'I') ("''", "''", 'WORK_OF_ART', 'I') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('¡¬453_patent', 'NNP', 'PRODUCT', 'B') ('``', '``', 'PRODUCT', 'I') (')', '-RRB-', '', 'O')
+Plantronics Inc. Plantronics Aliph Inc. Aliphcom Inc. 's `` Concha Headset Stabilizer '' ¡¬453_patent ``
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_23,_2012', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NNP', '', 'O') ('granted-in-part', 'NNP', '', 'O') ('Aliph', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('noninfringement', 'NN', '', 'O') ('and', 'CC', '', 'O') ('invalidity', 'NN', '', 'O') ('construing', 'VBG', '', 'O') ('certain', 'JJ', '', 'O') ('disputed', 'VBN', '', 'O') ('terms', 'NNS', '', 'O') ('finding', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('relevant_part', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('accused', 'VBN', '', 'O') ('products', 'NNS', '', 'O') ('do', 'VBP', '', 'O') ('not', 'RB', '', 'O') ('infringe', 'VB', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_10', 'CD', '', 'O') ('and', 'CC', '', 'O') ('holding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+Aliph
+__NEW_SENT__
+('Plantronics', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Aliph', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'UH', '', 'O')
+Plantronics Inc. Aliph Inc.
+__NEW_SENT__
+('C09-1714BZ', 'DT', 'QUANTITY', 'B') ('2012_WL_994636', 'CD', 'QUANTITY', 'I') ('at', 'IN', '', 'O') ('*12', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Cal', 'NNP', '', 'O')
+C09-1714BZ 2012_WL_994636
+__NEW_SENT__
+('Mar._23,_2012', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Summ', 'NNP', '', 'O')
+
+__NEW_SENT__
+('J', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Decision', 'NN', 'ORG', 'B') ("''", "''", 'ORG', 'I') (')', '-RRB-', '', 'O')
+Decision ''
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('decision', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('reversed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('vacated', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('part', 'NN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('further', 'JJ', '', 'O') ('proceedings', 'NNS', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬453_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('concha-style_headset', 'NN', '', 'O') ('for', 'IN', '', 'O') ('transmitting', 'VBG', '', 'O') ('received', 'VBN', '', 'O') ('sounds', 'NNS', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('user', 'NN', '', 'O') ('e.g.', 'JJ', '', 'O') ('headsets', 'NNS', '', 'O') ('used', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('cell_phone_receivers', 'NNS', '', 'O')
+
+__NEW_SENT__
+('¡¬453_patent_col.', 'NNP', '', 'O') ('1_ll._13', 'CD', '', 'O') ('-16', '.', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('patent', 'NN', '', 'O') ('discloses', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('apparatus', 'NN', '', 'O') ('for', 'IN', '', 'O') ('stabilizing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('concha_style_headset', 'NN', '', 'O') ('during', 'IN', '', 'O') ('use', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('2_ll._56', 'NN', '', 'O') ('-63', ':', '', 'O')
+
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('apparatus', 'NN', '', 'O') ('requires', 'VBZ', '', 'O') ('some', 'DT', '', 'O') ('familiarity', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human', 'JJ', '', 'O') ('ear', 'NN', '', 'O') ('an', 'DT', '', 'O') ('illustration', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('provided', 'VBN', '', 'O') ('below', 'RB', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('fig._3', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('relevance', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('concha', 'NN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('deep', 'JJ', '', 'O') ('cavity', 'NN', '', 'O') ('containing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('entry', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_canal', 'NNP', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('divided', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('upper', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('lower_concha', 'NN', '', 'O') ('43_and_41', 'NNS', 'CARDINAL', 'B')
+43_and_41
+__NEW_SENT__
+('¡¬453_patent_col.', 'NNP', '', 'O') ('4_ll._50', 'CD', '', 'O') ('-52', '.', '', 'O')
+
+__NEW_SENT__
+('Prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('headset', 'NN', '', 'O') ('stabilizers', 'NNS', '', 'O') ('included', 'VBD', '', 'O') ('large', 'JJ', '', 'O') ('supports', 'NNS', '', 'O') ('outside', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear', 'NN', '', 'O') ('or', 'CC', '', 'O') ('relied', 'VBD', '', 'O') ('on', 'IN', '', 'O') ('appendages', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('hook', 'VB', '', 'O') ('onto', 'IN', '', 'O') ('the', 'DT', '', 'O') ('crux', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('helix', 'NN', '', 'O') ('31', 'CD', 'CARDINAL', 'B')
+31
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('1_ll._20', 'NNP', '', 'O') ('-55', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬453_patent', 'NNP', 'LOC', 'B') ('purports', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('improve', 'VB', '', 'O') ('upon', 'IN', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('headset', 'NN', '', 'O') ('stabilizers', 'NNS', '', 'O')
+¡¬453_patent
+__NEW_SENT__
+('In', 'IN', '', 'O') ('particular', 'JJ', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('headset', 'NN', '', 'O') ('consists', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('``', '``', '', 'O') ('a', 'DT', '', 'O') ('receiver_attachment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('couples', 'VBZ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('a', 'DT', '', 'O') ('support_member', 'NN', '', 'O') ('extending', 'VBG', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver_attachment', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('support_member', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('contacts', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antihelix', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('placed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('lower_concha', 'NN', '', 'O') ('in', 'IN', '', 'O') ('front', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_canal', 'NNP', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('Id.at', 'NNP', 'ORG', 'B') ('[', '-LRB-', '', 'O') ('57', 'CD', 'CARDINAL', 'B') (']', '-RRB-', '', 'O')
+Id.at 57
+__NEW_SENT__
+('Thus', 'RB', '', 'O') ('the', 'DT', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('has', 'VBZ', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('points', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('contact', 'NN', '', 'O') (':', ':', '', 'O') ('the', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('the', 'DT', '', 'O') ('anti-tragus', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O')
+three
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('2_ll._2', 'CD', 'CARDINAL', 'B') ('-6', '.', '', 'O')
+2_ll._2
+__NEW_SENT__
+('Certain', 'JJ', '', 'O') ('embodiments', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ('are', 'VBP', '', 'O') ('depicted', 'VBN', '', 'O') ('below', 'IN', '', 'O') (':', ':', '', 'O')
+
+__NEW_SENT__
+('?', '.', '', 'O')
+
+__NEW_SENT__
+('*1347', 'NFP', '', 'O') ('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('figs', 'NNS', '', 'O') ('1A', 'JJ', '', 'O') ('1B', 'NNS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('stabilizing', 'VBG', '', 'O') ('concha_style_headset', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('described', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('typically', 'RB', '', 'O') ('including', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('27', 'CD', 'DATE', 'B') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('voice', 'NN', '', 'O') ('tube', 'NN', '', 'O') ('30', 'CD', 'CARDINAL', 'B')
+27 30
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('2.', 'LS', 'CARDINAL', 'B') ('ll', 'UH', '', 'O')
+2.
+__NEW_SENT__
+('64-65', 'LS', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('receiver_attachment', 'NN', '', 'O') ('comprises', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('preferably', 'RB', '', 'O') ('dimensioned', 'VBD', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('oblate', 'JJ', '', 'O') ('spheroid', 'NN', '', 'O') ('formed', 'VBN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('reticulated', 'VBN', '', 'O') ('fully', 'RB', '', 'O') ('open-pore', 'JJ', '', 'O') ('flexible', 'JJ', '', 'O') ('ester', 'NN', '', 'O') ('type', 'NN', '', 'O') ('polyurethane', 'NN', '', 'O') ('foam', 'NN', '', 'O')
+11
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'LS', '', 'O') ('2_l._66', 'XX', '', 'O') ('-col.', 'SYM', '', 'O') ('3_l._2', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('has', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('open', 'JJ', '', 'O') ('central', 'JJ', '', 'O') ('recessed', 'VBN', '', 'O') ('portion', 'NN', '', 'O') ('13', 'CD', 'CARDINAL', 'B') ('forming', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('C', 'NNP', '', 'O') ("''", "''", '', 'O') ('shape', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('is', 'VBZ', '', 'O') ('dimensioned', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('snugly', 'RB', '', 'O') ('onto', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('27', 'CD', 'CARDINAL', 'B')
+11 13 27
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('3.', 'LS', 'CARDINAL', 'B') ('ll', 'UH', '', 'O')
+3.
+__NEW_SENT__
+('6-9', 'LS', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('flexible', 'JJ', '', 'O') ('support_member', 'JJ', '', 'O') ('stabilizer_support', 'NN', '', 'O') ('17', 'CD', 'CARDINAL', 'B') ('extends', 'NNS', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('upper', 'JJ', '', 'O') ('surface', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NN', '', 'O') ('11', 'CD', 'CARDINAL', 'B')
+17 11
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('3_ll._18', 'NN', '', 'O') ('-19', '.', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('end', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('stabilizer_support', 'NNP', '', 'O') ('17', 'CD', 'CARDINAL', 'B') ('is', 'VBZ', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('21', 'CD', 'CARDINAL', 'B') ('which', 'WDT', '', 'O') ('contacts', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O') ('43', 'CD', 'CARDINAL', 'B') ('beneath', 'IN', '', 'O') ('the', 'DT', '', 'O') ('antihelix', 'NN', '', 'O')
+17 21 43
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('3_ll._26', 'NN', 'CARDINAL', 'B') ('-28', '.', '', 'O')
+3_ll._26
+__NEW_SENT__
+('When', 'WRB', '', 'O') ('placed', 'VBN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('lower_concha', 'NN', '', 'O') ('41', 'CD', 'CARDINAL', 'B') ('during', 'IN', '', 'O') ('use', 'NN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('contacts', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('antitragus', 'JJ', '', 'O') ('39', 'CD', 'CARDINAL', 'B') ('at', 'IN', '', 'O') ('a', 'DT', '', 'O') ('tragus_contact_point', 'NNP', '', 'O') ('23', 'CD', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('antitragus_contact_point', 'NNP', '', 'O') ('25', 'CD', 'CARDINAL', 'B') ('respectively', 'RB', '', 'O') ('where', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('face', 'NN', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('rests', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('lower_concha', 'NN', '', 'O') ('41', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('faces', 'VBZ', '', 'O') ('toward', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_canal', 'NNP', '', 'O') ('33', 'CD', 'CARDINAL', 'B')
+41 11 35 39 25 15 11 41 33
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('3.', 'LS', 'CARDINAL', 'B') ('ll', 'UH', '', 'O')
+3.
+__NEW_SENT__
+('9-14', 'CD', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('left/right', 'JJ', '', 'O') ('orientation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tragus_contact_point', 'NNP', '', 'O') ('23', 'CD', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('antitragus_contact_point', 'NN', '', 'O') ('25', 'CD', 'CARDINAL', 'B') ('with', 'IN', '', 'O') ('respect', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('face', 'NN', '', 'O') ('15', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('is', 'VBZ', '', 'O') ('reversed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('left', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('right', 'JJ', '', 'O') ('ears', 'NNS', '', 'O')
+25 15 11
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'FW', '', 'O') ('3_ll._14', 'CD', 'CARDINAL', 'B') ('-16', ':', '', 'O')
+3_ll._14
+__NEW_SENT__
+('Independent_claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Independent_claim 1 1
+__NEW_SENT__
+('An', 'DT', '', 'O') ('apparatus', 'NN', '', 'O') ('for', 'IN', '', 'O') ('stabilizing', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('headset', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('sized', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('between', 'IN', '', 'O') ('a', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('anti-tragus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('ear', 'NN', '', 'O') ('the', 'DT', '', 'O') ('apparatus', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('an', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('dimensioned', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('cover', 'VB', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('disposed', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('anti-tragus', 'NN', '', 'O') (';', ':', '', 'O') ('a', 'DT', '', 'O') ('resilient', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('flexible', 'JJ', '', 'O') ('stabilizer_support_member', 'NNP', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dimensioned', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('within', 'IN', '', 'O') ('an', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('disposed', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('anti-tragus', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('a', 'DT', '', 'O') ('concha_stabilizer_pad', 'CD', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('stabilizer_support_member', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('contacting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O')
+
+__NEW_SENT__
+('¡¬453_patent_col.', 'NNP', '', 'O') ('5_ll._10', 'NNP', '', 'O') ('-22', 'NFP', '', 'O') ('(', '-LRB-', '', 'O') ('emphases', 'NNS', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('Independent_claim', 'NNP', 'PERSON', 'B') ('10', 'CD', 'PERSON', 'I') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('relevant', 'JJ', '', 'O') ('here', 'RB', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('recited', 'VBN', '', 'O') ('below', 'IN', '', 'O') (':', ':', '', 'O') ('10', 'CD', 'CARDINAL', 'B')
+Independent_claim 10 10
+__NEW_SENT__
+('A', 'DT', '', 'O') ('headset', 'NN', '', 'O') ('comprising', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('sized', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('fit', 'VB', '', 'O') ('between', 'IN', '', 'O') ('a', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('anti-tragus', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('ear', 'NN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('having', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('tragus_contact_point', 'NN', '', 'O') ('and', 'CC', '', 'O') ('an', 'DT', '', 'O') ('anti-tragus_contact_point', 'NN', '', 'O') ('disposed', 'VBD', '', 'O') ('substantially', 'RB', '', 'O') ('opposite', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tragus_contact_point', 'NNPS', '', 'O') (';', ',', '', 'O') ('*1348', 'PDT', '', 'O') ('an', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('dimensioned', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('cover', 'VB', '', 'O') ('a', 'DT', '', 'O') ('portion', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('a', 'DT', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ('coupled', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear_cushion', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('dimensioned', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('contact', 'VB', '', 'O') ('an', 'DT', '', 'O') ('upper_concha', 'NN', '', 'O') ('between', 'IN', '', 'O') ('an', 'DT', '', 'O') ('antihelix', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('crux', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('helix', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('receiver', 'NN', '', 'O') ('disposed', 'VBN', '', 'O') ('between', 'IN', '', 'O') ('the', 'DT', '', 'O') ('tragus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('anti-tragus', 'NN', '', 'O')
+
+__NEW_SENT__
+('Id', 'NNP', '', 'O')
+
+__NEW_SENT__
+('col.', 'NNP', '', 'O') ('6_ll._5', 'CD', '', 'O') ('-14', 'JJ', '', 'O') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('15', 'CD', 'DATE', 'I') ('2009', 'CD', 'DATE', 'I') ('Plantronics', 'NNPS', '', 'O') ('filed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('underlying', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('suit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Aliph', 'NNP', 'PERSON', 'B') ('originally', 'RB', '', 'O') ('asserting', 'VBG', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('7', 'CD', 'CARDINAL', 'I') ('10_and_11', 'CD', 'CARDINAL', 'I')
+January 15 2009 Aliph 1 7 10_and_11
+__NEW_SENT__
+('Subsequently', 'RB', '', 'O') ('on', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('9', 'CD', 'DATE', 'I') ('2009', 'CD', 'DATE', 'I') ('Aliph', 'NNP', '', 'O') ('requested', 'VBD', '', 'O') ('ex', 'FW', '', 'O') ('parte', 'NN', '', 'O') ('reexamination', 'NN', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('U.S.', 'NNP', 'ORG', 'I') ('Patent', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('PTO', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('granted', 'VBD', '', 'O')
+November 9 2009 the U.S. Patent and Trademark Office
+__NEW_SENT__
+('As', 'IN', '', 'O') ('a', 'DT', '', 'O') ('result', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'JJ', '', 'O') ('litigation', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('stayed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('reexamination', 'NN', '', 'O') ('Aliph', 'NNP', 'PERSON', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('references', 'NNS', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('U.S._Patent_No._1753,817', 'DT', '', 'O') ('to', 'IN', '', 'O') ('Aber', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Aber', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('U.S._Patent_No._1893,143', 'VB', '', 'O') ('to', 'IN', '', 'O') ('Koch', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Koch', 'NNP', 'PERSON', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('U.S.', 'NNP', 'ORG', 'B') ('Patent', 'NNP', 'ORG', 'I') ('No._4720,857', 'NNP', 'ORG', 'I') ('to', 'IN', '', 'O') ('Burris', 'NNP', 'GPE', 'B') ('et', 'NNP', 'GPE', 'I') ('al', 'NNP', 'GPE', 'I')
+Aliph four 1 Aber 2 Koch Koch 3 U.S. Patent No._4720,857 Burris et al
+__NEW_SENT__
+('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Burris', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('Japanese', 'NNP', 'NORP', 'B') ('Application', 'NNP', '', 'O') ('Publication', 'NNP', '', 'O') ('No', 'NN', '', 'O')
+Burris 4 Japanese
+__NEW_SENT__
+('JP58-104077', 'NNP', 'GPE', 'B') ('to', 'IN', '', 'O') ('Watanabe', 'NNP', 'PERSON', 'B') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Watanabe', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+JP58-104077 Watanabe Watanabe
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_1,_2011', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('PTO', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('reexamination', 'NN', '', 'O') ('certificate', 'NN', '', 'O') ('confirming', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('patentability', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('challenged', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('along', 'IN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('addition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('dependent_claims', 'NNS', '', 'O') ('16-56', 'CD', 'CARDINAL', 'B')
+16-56
+__NEW_SENT__
+('Plantronics', 'NNS', '', 'O') ('thereafter', 'RB', '', 'O') ('amended', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('infringement', 'NN', '', 'O') ('contentions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('assert', 'VB', '', 'O') ('new', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('20-21', 'CD', '', 'O') ('25-26', 'CD', '', 'O') ('and', 'CC', '', 'O') ('28-56', 'CD', 'DATE', 'B') ('in', 'IN', '', 'O') ('addition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('originally', 'RB', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('7', 'CD', '', 'O') ('10', 'CD', '', 'O') ('and', 'CC', '', 'O') ('11', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('asserted', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+18 28-56 1 11
+__NEW_SENT__
+('On', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('19', 'CD', 'DATE', 'I') ('2011', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('tentative', 'JJ', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('order', 'NN', '', 'O') ('and', 'CC', '', 'O') ('held', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('hearing', 'NN', '', 'O') ('on', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('21', 'CD', 'DATE', 'I') ('2011', 'CD', 'DATE', 'I')
+September 19 2011 Markman September 21 2011
+__NEW_SENT__
+('On', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('6', 'CD', 'DATE', 'I') ('2011', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('order', 'NN', '', 'O') ('construing', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('relevant_part', 'NN', '', 'O') ('the', 'DT', '', 'O') ('terms', 'NNS', '', 'O') ('``', '``', '', 'O') ('stabilizer_support_member', 'NNP', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ("''", "''", '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('10', 'CD', 'CARDINAL', 'B')
+October 6 2011 1 10
+__NEW_SENT__
+('Plantronics', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('v.', 'IN', '', 'O') ('Aliph', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('No', 'UH', '', 'O')
+Plantronics Inc. Aliph Inc.
+__NEW_SENT__
+('C09-1714BZ', 'DT', '', 'O') ('2011_WL_4634066', 'CD', '', 'O') ('at', 'IN', '', 'O') ('*4', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('N.D.Cal', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Oct._6,_2011', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('On', 'IN', '', 'O') ('March_23,_2012', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('holding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('summary_judgment', 'NN', '', 'O') ('decision', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('provided', 'VBD', '', 'O') ('further', 'JJ', '', 'O') ('construction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('stabilizer_support_member', 'NNP', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('``', '``', '', 'O') ('concha_stabilizer', 'NN', '', 'O') ("''", "''", '', 'O') ('and', 'CC', '', 'O') ('in', 'IN', '', 'O') ('turn', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('no', 'DT', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('claims', 'NNS', '', 'O') ('1_and_10', 'CD', '', 'O')
+
+__NEW_SENT__
+('Likewise', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('held', 'VBD', '', 'O') ('claims', 'NNS', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('7', 'CD', '', 'O') ('10', 'CD', '', 'O') ('11', 'CD', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('20', 'CD', 'CARDINAL', 'B') ('21', 'CD', 'CARDINAL', 'B') ('26', 'CD', 'CARDINAL', 'B') ('28', 'CD', '', 'O') ('30', 'CD', 'CARDINAL', 'B') ('43_and_44', 'NN', 'CARDINAL', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬453_patent', 'NNP', 'LOC', 'B') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('light', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S._Patent_No._1893,474', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Lieber', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('with', 'IN', '', 'O') ('Japanese', 'NNP', 'NORP', 'B') ('Utility', 'NNP', '', 'O') ('Patent', 'NNP', '', 'O') ('Application', 'NNP', '', 'O') ('No._60-40187', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('U', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Komoda', 'NNP', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+1 18 20 21 26 30 43_and_44 ¡¬453_patent Lieber Japanese Komoda
+__NEW_SENT__
+('Furthermore', 'RB', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('determined', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('dependent_claims', 'JJ', '', 'O') ('25', 'CD', 'CARDINAL', 'B') ('29', 'CD', 'CARDINAL', 'I') ('31-BIG_TOKEN__42_and_45__BIG_TOKEN', 'CD', '', 'O') ('-56', 'NFP', '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('by', 'IN', '', 'O') ('the', 'DT', '', 'O') ('combination', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Lieber', 'NNP', 'ORG', 'B') ('patent', 'NN', '', 'O') ('the', 'DT', '', 'O') ('Komoda', 'NNP', 'PERSON', 'B') ('patent', 'NN', '', 'O') ('and', 'CC', '', 'O') ('U.S._Patent_No._5048,090', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Geers', 'NNS', 'WORK_OF_ART', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+25 29 Lieber Komoda Geers
+__NEW_SENT__
+('Plantronics', 'NNS', '', 'O') ('appeals', 'NNS', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('court', 'NN', '', 'O') ('has', 'VBZ', '', 'O') ('jurisdiction', 'NN', '', 'O') ('under', 'IN', '', 'O') ('28', 'CD', '', 'O') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+1
+__NEW_SENT__

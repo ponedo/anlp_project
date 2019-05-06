@@ -1,0 +1,216 @@
+('906_F.3d_1013', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('IN', 'IN', '', 'O') ('RE', 'NNP', '', 'O') (':', ':', '', 'O') ('COPAXONE', 'NN', '', 'O') ('CONSOLIDATED', 'JJ', '', 'O') ('CASES', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Teva_Pharmaceutical_Industries', 'NNPS', '', 'O') ('LTD.', 'NNP', '', 'O') ('Teva_Neuroscience', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Yeda_Research', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Development_Co.', 'NNP', 'ORG', 'B') ('LTD.', 'NN', 'ORG', 'I') ('Plaintiffs-Appellants', 'NNS', '', 'O')
+Teva Pharmaceuticals USA Inc. Development_Co. LTD.
+__NEW_SENT__
+('v.', 'CC', '', 'O') ('Sandoz', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('Momenta_Pharmaceuticals_Inc.', 'NNP', '', 'O') ('Dr_Reddy', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Laboratories', 'NNPS', '', 'O') ('LTD', 'NNP', '', 'O') ('Dr_Reddy', 'NNP', '', 'O') ("'s", 'POS', '', 'O') ('Laboratories_Inc.', 'NNP', 'ORG', 'B') ('Mylan', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Mylan_Inc.', 'NN', '', 'O') ('Synthon', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Synthon_B.V.', 'NN', '', 'O') ('Synthon', 'NNP', 'PERSON', 'B') ('S.R.O', 'NNP', 'PERSON', 'I')
+Sandoz Inc. Laboratories_Inc. Mylan Pharmaceuticals Inc. Synthon Pharmaceuticals Inc. Synthon S.R.O
+__NEW_SENT__
+('Blansko', 'NNP', 'ORG', 'B') ('Amneal', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('LLC', 'NNP', 'ORG', 'I') ('Amneal', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('Gmbh', 'NNP', 'ORG', 'I') ('Pfizer_Inc.', 'NN', 'ORG', 'I') ('Defendants-Appellees', 'VBZ', 'ORG', 'I')
+Blansko Amneal Pharmaceuticals LLC Amneal Pharmaceuticals Company Gmbh Pfizer_Inc. Defendants-Appellees
+__NEW_SENT__
+('2017-1575', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Decided', 'VBN', '', 'O') (':', ':', '', 'O') ('October', 'NNP', 'DATE', 'B') ('12', 'CD', 'DATE', 'I') ('2018', 'CD', 'DATE', 'I')
+October 12 2018
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('at', 'IN', '', 'O') ('drug', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('patients', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('relapsing', 'VBG', '', 'O') ('forms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('and', 'CC', '', 'O') ('related', 'JJ', '', 'O') ('entities', 'NNS', '', 'O') ('brought', 'VBD', '', 'O') ('actions', 'NNS', '', 'O') ('against', 'IN', '', 'O') ('generic', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('manufacturers', 'NNS', '', 'O') ('asserting', 'VBG', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('claims', 'VBZ', '', 'O')
+
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('order', 'NN', '', 'O') ('2016_WL_873062', 'CD', '', 'O') ('and', 'CC', '', 'O') ('following', 'VBG', '', 'O') ('consolidated', 'JJ', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('Nos._1', 'NNP', '', 'O') (':14-cv-01171-GMS', 'NNP', '', 'O') ('1:14-cv-01172-GMS', 'CD', '', 'O') ('1:14-cv-01278-GMS', 'NNP', '', 'O') ('1:14-cv-01419-GMS', 'CD', '', 'O') ('1:15-cv-00124-GMS', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('1:15-cv-00306-GMS', 'NNP', '', 'O') ('Gregory', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Sleet', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('2017_WL_401943', 'CD', 'PERSON', 'I') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('asserted_claims', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O')
+United_States_District_Court the District of Delaware Gregory M. Sleet J. 2017_WL_401943
+__NEW_SENT__
+('Assignee', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Reyna', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NN', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Reyna Circuit_Judge
+__NEW_SENT__
+('``', '``', '', 'O') ('sufficiency', 'NN', '', 'O') ("''", "''", '', 'O') ('terms', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('non-limiting', 'VBG', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('dosing', 'VBG', '', 'O') ('regimen', 'NNS', '', 'O') ('disclosed', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('limitations', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('``', '``', '', 'O') ('improved', 'VBN', '', 'O') ('tolerability', 'NN', '', 'O') ("''", "''", '', 'O') ('were', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('limitation', 'NN', '', 'O') ('in', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('``', '``', '', 'O') ('reduced_severity', 'NN', '', 'O') ("''", "''", '', 'O') ('was', 'VBD', '', 'O') ('obvious', 'JJ', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('clearly', 'RB', '', 'O') ('erroneous', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Affirmed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Procedural', 'JJ', '', 'O') ('Posture', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('s', 'NN', '', 'O') (')', '-RRB-', '', 'O') (':', ':', '', 'O') ('On', 'IN', '', 'O') ('Appeal', 'NNP', '', 'O') (';', ':', '', 'O') ('Judgment', 'NNP', '', 'O')
+
+__NEW_SENT__
+('*1015', 'LS', '', 'O') ('Appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('in', 'IN', '', 'O') ('Nos._1', 'NNP', '', 'O') (':14-cv-01171-GMS', 'NNP', '', 'O') ('1:14-cv-01172-GMS', 'CD', '', 'O') ('1:14-cv-01278-GMS', 'NNP', '', 'O') ('1:14-cv-01419-GMS', 'CD', '', 'O') ('1:15-cv-00124-GMS', 'NNP', '', 'O') ('1:15-cv-00306-GMS', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('Gregory', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Sleet', 'NNP', 'PERSON', 'I')
+United_States_District_Court the District of Delaware Gregory M. Sleet
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('John', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ("O'Quinn", 'NNP', 'PERSON', 'I') ('Kirkland', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Ellis', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellants', 'NNS', '', 'O')
+John C. O'Quinn Kirkland & Ellis LLP Washington
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Leslie', 'NNP', 'PERSON', 'B') ('M.', 'NNP', 'PERSON', 'I') ('Schmidt', 'NNP', 'PERSON', 'I') ('New_York', 'NNP', 'ORG', 'B') ('NY', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('Elizabeth', 'NNP', 'PERSON', 'B') ('Holland', 'NNP', 'PERSON', 'I') ('Goodwin', 'NNP', '', 'O') ('Procter', 'NNP', '', 'O') ('LLP', 'NNP', 'ORG', 'B') ('New_York', 'NNP', 'ORG', 'I') ('NY', 'NNP', 'ORG', 'I') (';', ':', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('James', 'NNP', 'PERSON', 'I') ('II', 'NNP', 'PERSON', 'I') ('William', 'NNP', 'PERSON', 'I') ('M.', 'NNP', 'PERSON', 'I') ('Jay', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', 'GPE', 'B') (';', ':', '', 'O') ('Daryl', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Wiesen', 'NNP', 'PERSON', 'I') ('Boston', 'NNP', 'PERSON', 'I') ('MA', 'NNP', '', 'O')
+Leslie M. Schmidt New_York NY Elizabeth Holland LLP New_York NY William G. James II William M. Jay DC Daryl L. Wiesen Boston
+__NEW_SENT__
+('Deanne', 'NNP', 'ORG', 'B') ('Maynard', 'NNP', 'ORG', 'I') ('Morrison', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Foerster', 'NNP', 'ORG', 'I') ('LLP', 'NNP', '', 'O') ('Washington', 'NNP', '', 'O') ('DC', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Deanne Maynard Morrison & Foerster
+__NEW_SENT__
+('Defendants-appellees', 'VBZ', 'ORG', 'B') ('Sandoz', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Momenta_Pharmaceuticals_Inc.', 'NNP', 'ORG', 'I') ('also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Seth', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Lloyd', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Rakoczy', 'NNP', 'PERSON', 'I') ('Matthew', 'NNP', 'PERSON', 'B') ('V.', 'NNP', 'PERSON', 'I') ('Anderson', 'NNP', 'PERSON', 'I') ('Thomas', 'NNP', 'PERSON', 'B') ('Ehrich', 'NNP', 'PERSON', 'I') ('Erin', 'NNP', 'PERSON', 'I') ('Forbes', 'NNP', '', 'O') ('Christopher', 'NNP', '', 'O') ('Patrick', 'NNP', 'PERSON', 'B') ('Galligan', 'NNP', 'PERSON', 'I') ('Deanne', 'NNP', '', 'O') ('M.', 'NNP', 'PERSON', 'B') ('Mazzochi', 'NNP', 'PERSON', 'I') ('Rachel', 'NNP', '', 'O') ('Waldron', 'NNP', 'PERSON', 'B') ('Rakoczy', 'NNP', 'PERSON', 'I') ('Molino', 'NNP', '', 'O') ('Mazzochi', 'NNP', '', 'O') ('Siwik', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', '', 'O')
+Defendants-appellees Sandoz Inc. Momenta_Pharmaceuticals_Inc. Seth W. Lloyd William A. Rakoczy Matthew V. Anderson Thomas Ehrich Erin Patrick Galligan M. Mazzochi Waldron Rakoczy Chicago
+__NEW_SENT__
+('Shannon', 'NNP', 'PERSON', 'B') ('Bloodworth', 'NNP', 'PERSON', 'I') ('Perkins', 'NNP', 'PERSON', 'I') ('Coie', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', 'GPE', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O')
+Shannon Bloodworth Perkins Coie LLP Washington DC
+__NEW_SENT__
+('Defendants-appellees', 'VBZ', '', 'O') ('Mylan', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Mylan_Inc.', 'NN', '', 'O') ('also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('Swanson', 'NNP', 'PERSON', 'I') ('Brandon', 'NNP', 'PERSON', 'I') ('Michael', 'NNP', 'PERSON', 'I') ('White', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('Lee', 'NNP', 'PERSON', 'I') ('Anstaett', 'NNP', 'PERSON', 'I') ('Madison', 'NNP', 'PERSON', 'I') ('WI', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Dan', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('Bagatell', 'NNP', 'PERSON', 'I') ('Hanover', 'NNP', 'PERSON', 'I') ('NH', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Christina', 'NNP', 'PERSON', 'B') ('Jordan', 'NNP', 'PERSON', 'I') ('McCullough', 'NNP', '', 'O') ('Seattle', 'NNP', '', 'O') ('WA', 'NNP', '', 'O')
+Mylan Pharmaceuticals Inc. Robert Swanson Brandon Michael White David Lee Anstaett Madison WI Dan L. Bagatell Hanover NH Christina Jordan
+__NEW_SENT__
+('Frank', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Rodriguez', 'NNP', 'PERSON', 'I') ('Budd', 'NNP', 'GPE', 'B') ('Larner', 'NNP', '', 'O') ('P.C.', 'NNP', '', 'O') ('Short', 'NNP', '', 'O') ('Hills', 'NNP', '', 'O') ('NJ', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Dr.', 'NNP', '', 'O') ('Reddy', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('Laboratories', 'NNPS', '', 'O') ('Ltd', 'NNP', '', 'O') ('Dr.', 'NNP', '', 'O') ('Reddy', 'NNP', 'PERSON', 'B') ("'s", 'POS', '', 'O') ('Laboratories_Inc.', 'NN', '', 'O') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Ellen', 'NNP', 'PERSON', 'B') ('Tchorni', 'NNP', 'PERSON', 'I') ('Lowenthal', 'NNP', '', 'O') ('Louis', 'NNP', 'PERSON', 'B') ('Harry', 'NNP', 'PERSON', 'I') ('Weinstein', 'NNP', 'PERSON', 'I')
+Frank D. Rodriguez Budd Reddy Reddy Ellen Tchorni Louis Harry Weinstein
+__NEW_SENT__
+('Edward', 'NNP', 'PERSON', 'B') ('Anthony', 'NNP', 'PERSON', 'I') ('Figg', 'NNP', 'PERSON', 'I') ('Rothwell', 'NNP', 'PERSON', 'I') ('Figg', 'NNP', '', 'O') ('Ernst', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Manbeck', 'NNP', '', 'O') ('PC', 'NNP', '', 'O') ('Washington', 'NNP', 'GPE', 'B') ('DC', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Synthon', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Synthon_B.V.', 'NN', '', 'O') ('Synthon', 'NNP', 'PERSON', 'B') ('S.r.o', 'NNP', 'PERSON', 'I')
+Edward Anthony Figg Rothwell Washington Synthon Pharmaceuticals Inc. Synthon S.r.o
+__NEW_SENT__
+('Blansko', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Seth', 'NNP', 'PERSON', 'B') ('Edward', 'NNP', 'PERSON', 'I') ('Cockrum', 'NNP', 'PERSON', 'I') ('Sharon', 'NNP', 'PERSON', 'I') ('Davis', 'NNP', 'PERSON', 'I') ('Jennifer', 'NNP', 'PERSON', 'I') ('Nock', 'NNP', 'PERSON', 'I') ('Brett', 'NNP', 'PERSON', 'I') ('Alan', 'NNP', 'PERSON', 'I') ('Postal', 'NNP', 'PERSON', 'I')
+Seth Edward Cockrum Sharon Davis Jennifer Nock Brett Alan Postal
+__NEW_SENT__
+('Anthony', 'NNP', 'PERSON', 'B') ('James', 'NNP', 'PERSON', 'I') ('Fitzpatrick', 'NNP', 'PERSON', 'I') ('Duane', 'NNP', 'PERSON', 'I') ('Morris', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('Boston', 'NNP', '', 'O') ('MA', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellees', 'NNS', '', 'O') ('Amneal', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('LLC', 'NNP', 'ORG', 'I') ('Amneal', 'NNP', 'ORG', 'I') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('Company', 'NNP', 'ORG', 'I') ('GmbH', 'NNP', 'ORG', 'I') ('Pfizer_Inc.', 'NN', '', 'O') ('Also', 'RB', '', 'O') ('represented', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Vincent', 'NNP', 'PERSON', 'B') ('Capuano', 'NNP', 'PERSON', 'I') ('Christopher', 'NNP', 'PERSON', 'B') ('S.', 'NNP', 'PERSON', 'I') ('Kroon', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('Patrick', 'NNP', 'PERSON', 'B') ('Gallagher', 'NNP', 'PERSON', 'I') ('Boca', 'NNP', 'PERSON', 'I') ('Raton', 'NNP', 'GPE', 'B') ('FL', 'NNP', '', 'O')
+Anthony James Fitzpatrick Duane Amneal Pharmaceuticals LLC Amneal Pharmaceuticals Company GmbH Vincent Capuano Christopher S. Kroon Patrick Gallagher Boca Raton
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('Reyna', 'NNP', 'PERSON', 'B') ('Bryson', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Stoll', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+Reyna Bryson Stoll
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reyna', 'JJ', '', 'O') ('Circuit_Judge', 'NN', '', 'O')
+
+__NEW_SENT__
+('*1016', 'NFP', '', 'O') ('Plaintiffs-Appellants', 'NNP', '', 'O') ('Teva', 'NNP', 'ORG', 'B') ('Pharmaceuticals', 'NNPS', 'ORG', 'I') ('USA', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Teva_Pharmaceutical_Industries', 'NNPS', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('Teva_Neuroscience', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Yeda_Research', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Development_Co.', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('decision', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('Delaware', 'NNP', 'GPE', 'I') ('invalidating', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('asserted_claims', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('COPAXONETHE_R_40mg/mL', 'VB', '', 'O') ('a', 'DT', '', 'O') ('product', 'NN', '', 'O') ('marketed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patients', 'NNS', '', 'O') ('with', 'IN', '', 'O') ('relapsing', 'VBG', '', 'O') ('forms', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('multiple_sclerosis', 'NN', '', 'O')
+Teva Pharmaceuticals USA Inc. Teva_Pharmaceutical_Industries Ltd. Teva_Neuroscience Inc. Yeda_Research and Development_Co. Ltd. United_States_District_Court the District of Delaware
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('correctly', 'RB', '', 'O') ('held', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('asserted_claims', 'JJ', '', 'O') ('invalid', 'JJ', '', 'O') ('as', 'RB', '', 'O') ('obvious', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('we', 'PRP', '', 'O') ('affirm.1', 'VBP', '', 'O')
+35 103
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('Patents', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('Issue', 'NN', '', 'O')
+
+__NEW_SENT__
+('Yeda_Research', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Development_Co.', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('assignee', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('Nos._8232,250', 'NNP', '', 'O') ('8,399,413', 'CD', 'CARDINAL', 'B') ('8,969,302', 'CD', 'CARDINAL', 'I') ('and', 'CC', '', 'O') ('9,155,776', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('the', 'DT', '', 'O') ("'250", 'NNP', '', 'O') ("'413", 'POS', '', 'O') ("'302", 'NNS', '', 'O') ('and', 'CC', '', 'O') ("'776_patent", 'NNP', '', 'O') ('respectively', 'RB', '', 'O') (')', '-RRB-', '', 'O') ('all', 'DT', '', 'O') ('entitled', 'VBN', '', 'O') ('``', '``', '', 'O') ('Low', 'NNP', '', 'O') ('Frequency', 'NNP', '', 'O') ('Glatiramer', 'NNP', '', 'O') ('Acetate', 'NNP', '', 'O') ('Therapy', 'NNP', '', 'O') ("''", "''", '', 'O')
+Yeda_Research & Development_Co. Ltd. U.S. 8,399,413 8,969,302 9,155,776
+__NEW_SENT__
+('The', 'DT', '', 'O') ('patents', 'NNS', '', 'O') ('collectively', 'RB', '', 'O') ('referred', 'VBD', '', 'O') ('to', 'IN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('``', '``', '', 'O') ('Copaxone_patents', 'NNS', '', 'O') ("''", "''", '', 'O') ('share', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('common', 'JJ', '', 'O') ('specification', 'NN', '', 'O') ('and', 'CC', '', 'O') ('claim', 'NN', '', 'O') ('priority', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('same', 'JJ', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('provisional', 'JJ', '', 'O') ('applications', 'NNS', '', 'O')
+two
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('57-69', 'LS', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('earliest', 'JJS', '', 'O') ('priority', 'NN', '', 'O') ('date', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Copaxone_patents', 'NNS', '', 'O') ('is', 'VBZ', '', 'O') ('August', 'NNP', 'DATE', 'B') ('20', 'CD', 'DATE', 'I') ('2009', 'CD', 'DATE', 'I')
+August 20 2009
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('23', 'CD', 'CARDINAL', 'B')
+23
+__NEW_SENT__
+('*1017', 'VB', '', 'O') ('The', 'DT', '', 'O') ('Copaxone_patents', 'NNS', '', 'O') ('describe', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('claim', 'VBP', '', 'O') ('COPAXONETHE_R_40mg/mL', 'VBP', '', 'O') ('a', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('relapsing-remitting', 'JJ', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('RRMS', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+
+__NEW_SENT__
+('RRMS', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('an', 'DT', '', 'O') ('autoimmune', 'JJ', '', 'O') ('disorder', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('causes', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('body', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('immune', 'JJ', '', 'O') ('system', 'NN', '', 'O') ('to', 'TO', '', 'O') ('attack', 'VB', '', 'O') ('the', 'DT', '', 'O') ('central', 'JJ', '', 'O') ('nervous', 'JJ', '', 'O') ('system', 'NN', '', 'O')
+
+__NEW_SENT__
+('RRMS', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('characterized', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('unpredictable', 'JJ', '', 'O') ('relapses', 'NNS', '', 'O') ('followed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('periods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('remission', 'NN', '', 'O') ('with', 'IN', '', 'O') ('no', 'DT', '', 'O') ('new', 'JJ', '', 'O') ('signs', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('disease', 'NN', '', 'O') ('activity', 'NN', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('active', 'JJ', '', 'O') ('ingredient', 'NN', '', 'O') ('in', 'IN', '', 'O') ('COPAXONETHE_R_40mg/mL', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('glatiramer', 'NN', '', 'O') ('acetate', 'VB', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('GA', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('synthetic', 'JJ', '', 'O') ('mixture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('polypeptides', 'NNS', '', 'O')
+GA
+__NEW_SENT__
+('GA', 'NNP', 'ORG', 'B') ('is', 'VBZ', '', 'O') ('also', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('copolymer', 'NN', '', 'O') ('1', 'CD', '', 'O') ("''", "''", '', 'O') ('or', 'CC', '', 'O') ('``', '``', '', 'O') ('Cop', 'VB', 'PRODUCT', 'B')
+GA Cop
+__NEW_SENT__
+('1', 'LS', 'CARDINAL', 'B') ("''", "''", '', 'O')
+1
+__NEW_SENT__
+('COPAXONETHE_R_40mg/mL', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('supplied', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single-dose', 'NN', '', 'O') ('prefilled', 'VBN', '', 'O') ('syringe', 'NN', '', 'O')
+
+__NEW_SENT__
+('Broadly', 'RB', '', 'O') ('the', 'DT', '', 'O') ('treatment', 'NN', '', 'O') ('consists', 'VBZ', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('injection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('40mg', 'NN', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('GA', 'NNP', 'ORG', 'B') ('three', 'CD', 'CARDINAL', 'B') ('times', 'NNS', '', 'O') ('a', 'DT', '', 'O') ('week', 'NN', '', 'O') ('abbreviated', 'VBN', '', 'O') ('``', '``', '', 'O') ('40mg_GA_3x/week', 'CD', 'WORK_OF_ART', 'B') ("''", "''", '', 'O')
+40mg GA three 40mg_GA_3x/week
+__NEW_SENT__
+('Relevant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('side_effects', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('GA', 'NNP', 'ORG', 'B') ('injections', 'NNS', '', 'O') ('include', 'VBP', '', 'O') ('injection-site', 'JJ', '', 'O') ('reactions', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ISRs', 'NNPS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('immediate', 'JJ', '', 'O') ('post-injection', 'NN', '', 'O') ('reactions', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('IPIRs', 'NNPS', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O')
+GA
+__NEW_SENT__
+('ISRs', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('physical', 'JJ', '', 'O') ('symptoms', 'NNS', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('injection', 'NN', '', 'O') ('site', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('swelling', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('itchiness', 'NN', '', 'O')
+
+__NEW_SENT__
+('IPIRs', 'NNS', '', 'O') ('are', 'VBP', '', 'O') ('reactions', 'NNS', '', 'O') ('immediately', 'RB', '', 'O') ('following', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('injection', 'NN', '', 'O') ('such', 'JJ', '', 'O') ('as', 'IN', '', 'O') ('flushes', 'NNS', '', 'O') ('sweating', 'VBG', '', 'O') ('or', 'CC', '', 'O') ('palpitations', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Prior', 'RB', '', 'O') ('to', 'IN', '', 'O') ('COPAXONETHE_R_40mg/mL', 'CD', '', 'O') ('in', 'IN', '', 'O') ('1996', 'CD', 'DATE', 'B') ('the', 'DT', 'ORG', 'B') ('Food', 'NNP', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Administration', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('FDA', 'NNP', 'ORG', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('approved', 'VBD', '', 'O') ('COPAXONETHE_R', 'NNP', 'PERSON', 'B') ('20mg/mL', 'CD', '', 'O') ('a', 'DT', '', 'O') ('regimen', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('daily', 'JJ', 'DATE', 'B') ('injection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('20mg', 'JJ', 'ORDINAL', 'B') ('GA.', 'NNP', 'ORG', 'B') ('Daily', 'NNP', 'ORG', 'I') ('GA', 'NNP', 'ORG', 'I') ('injections', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('known', 'VBN', '', 'O') ('to', 'TO', '', 'O') ('subject', 'VB', '', 'O') ('patients', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('discomfort', 'VB', '', 'O') ('including', 'VBG', '', 'O') ('side_effects', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ISRs', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('IPIRs', 'NNS', '', 'O')
+1996 the Food and Drug Administration FDA COPAXONETHE_R daily 20mg GA. Daily GA
+__NEW_SENT__
+('J.A', 'NNP', '', 'O')
+
+__NEW_SENT__
+('20692', 'CD', 'CARDINAL', 'B')
+20692
+__NEW_SENT__
+('For', 'IN', '', 'O') ('analyzing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('obviousness', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Copaxone_patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('case', 'NN', '', 'O') ('a', 'DT', '', 'O') ('key', 'JJ', '', 'O') ('limitation', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('asserted_claims', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('40mg', 'JJ', 'DATE', 'B') ('GA', 'NNP', 'ORG', 'B') ('dose', 'NN', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('subcutaneous_injections', 'NNS', '', 'O') ('over', 'IN', '', 'O') ('seven', 'CD', 'DATE', 'B') ('days', 'NNS', 'DATE', 'I')
+40mg GA three seven days
+__NEW_SENT__
+('Claim', 'NNP', 'PERSON', 'B') ('1', 'CD', 'PERSON', 'I') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'250_patent", 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') (':', ':', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+Claim 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('alleviating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('symptom', 'NN', '', 'O') ('of', 'IN', '', 'O') ('relapsing-remitting', 'JJ', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('human_patient_suffering', 'NN', '', 'O') ('from', 'IN', '', 'O') ('relapsing-remitting', 'JJ', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('patient', 'NN', '', 'O') ('who', 'WP', '', 'O') ('has', 'VBZ', '', 'O') ('experienced', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('clinical', 'JJ', '', 'O') ('episode', 'NN', '', 'O') ('and', 'CC', '', 'O') ('is', 'VBZ', '', 'O') ('determined', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('be', 'VB', '', 'O') ('at', 'IN', '', 'O') ('high', 'JJ', '', 'O') ('risk', 'NN', '', 'O') ('of', 'IN', '', 'O') ('developing', 'VBG', '', 'O') ('clinically', 'RB', '', 'O') ('definite', 'JJ', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('comprising', 'NN', '', 'O') ('administering', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human_patient', 'NN', '', 'O') ('a', 'DT', '', 'O') ('therapeutically', 'RB', '', 'O') ('effective', 'JJ', '', 'O') ('regimen', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('subcutaneous_injections', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('40', 'CD', 'CARDINAL', 'B') ('mg', 'NN', '', 'O') ('dose', 'NN', '', 'O') ('of', 'IN', '', 'O') ('glatiramer', 'NN', '', 'O') ('acetate', 'VBP', '', 'O') ('over', 'IN', '', 'O') ('a', 'DT', '', 'O') ('period', 'NN', '', 'O') ('of', 'IN', '', 'O') ('seven', 'CD', 'DATE', 'B') ('days', 'NNS', 'DATE', 'I') ('with', 'IN', '', 'O') ('at', 'RB', 'DATE', 'B') ('least', 'RBS', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('day', 'NN', 'DATE', 'I') ('between', 'IN', '', 'O') ('every', 'DT', '', 'O') ('subcutaneous_injection', 'NN', '', 'O') ('the', 'DT', '', 'O') ('regimen', 'NNS', '', 'O') ('being', 'VBG', '', 'O') ('sufficient', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('alleviate', 'VB', '', 'O') ('the', 'DT', '', 'O') ('symptom', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('patient', 'NN', '', 'O')
+first three 40 seven days at least one day
+__NEW_SENT__
+("'250_patent", 'NN', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._35', 'CD', '', 'O') ('-45', '.', '', 'O')
+
+__NEW_SENT__
+('Apart', 'RB', '', 'O') ('from', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'302_patent2", 'NNP', '', 'O') ('all', 'DT', '', 'O') ('asserted', 'VBN', '', 'O') ('in-dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('require', 'VBP', '', 'O') ('at', 'RB', 'DATE', 'B') ('least', 'RBS', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('day', 'NN', 'DATE', 'I') ('between', 'IN', '', 'O') ('doses', 'NNS', '', 'O')
+1 at least one day
+__NEW_SENT__
+("'250_patent", 'NN', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._35', 'CD', '', 'O') ('-45', 'NNS', '', 'O') ('col.', 'FW', '', 'O') ('17_l._25', 'CD', 'CARDINAL', 'B') ('-col.', 'SYM', '', 'O') ('18_l._6', 'CD', '', 'O') (';', ':', '', 'O') ("'413_patent", 'NNP', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._26', 'CD', '', 'O') ('-36', 'HYPH', '', 'O') ('col.', 'FW', '', 'O') ('18_ll._14', 'CD', '', 'O') ('-28', ',', '', 'O') (';', ':', '', 'O') ("'302_patent", 'NN', '', 'O') ('col.', 'NN', '', 'O') ('17_ll._4', 'CD', '', 'O') ('-12', 'NN', '', 'O') (';', ':', '', 'O') ("'776_patent", 'NNP', '', 'O') ('col.', 'NN', '', 'O') ('16_ll._35', 'NNP', 'LANGUAGE', 'B') ('-50', 'RB', '', 'O') ('col.', 'FW', '', 'O') ('16_l._61', 'CD', 'CARDINAL', 'B') ('-col.', 'SYM', '', 'O') ('17_l._19', 'CD', 'CARDINAL', 'B') ('col.', 'NN', '', 'O') ('17_ll._37', 'CD', '', 'O') ('-54', 'HYPH', '', 'O') ('col.', 'NN', '', 'O') ('17_l._65', 'CD', 'CARDINAL', 'B') ('-col.', 'SYM', '', 'O') ('18_l._22', 'CD', '', 'O')
+17_l._25 16_ll._35 16_l._61 17_l._19 17_l._65
+__NEW_SENT__
+('Certain', 'JJ', '', 'O') ('dependent', 'JJ', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'250", 'NNP', '', 'O') ("'413", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'776_patent", 'NNP', '', 'O') ('s', 'POS', '', 'O') ('further', 'RB', '', 'O') ('require', 'VB', '', 'O') ('improved', 'VBN', '', 'O') ('tolerability', 'NN', '', 'O') ('and/or', 'CC', '', 'O') ('reduced', 'VBN', '', 'O') ('frequency', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injection', 'NN', '', 'O') ('reactions', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claimed', 'VBN', '', 'O') ('regimen', 'NN', '', 'O') ('as', 'IN', '', 'O') ('compared', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('20mg', 'JJ', 'ORDINAL', 'B') ('GA', 'NNP', '', 'O') ('daily', 'JJ', '', 'O') ('regimen', 'NN', '', 'O')
+20mg
+__NEW_SENT__
+('See', 'VB', '', 'O') ('e.g.', 'NN', '', 'O') ("'250_patent", 'NNP', '', 'O') ('col.', 'FW', '', 'O') ('17_ll._21', 'CD', '', 'O') ('-24', 'NN', '', 'O') ('col.', 'FW', '', 'O') ('18_ll._7', 'CD', '', 'O') ('-15', 'VBD', '', 'O') (';', ':', '', 'O') ("'413_patent", 'NNP', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._51', 'NNP', 'CARDINAL', 'B') ('-54', ':', '', 'O') (';', ':', '', 'O') ("'776_patent", 'NNP', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._51', 'NNP', 'CARDINAL', 'B') ('-54', ':', '', 'O') ('col', 'NN', '', 'O') ('17_l._65', 'CD', 'CARDINAL', 'B') ('-col.', 'CD', '', 'O') ('18_l._25', 'CD', 'CARDINAL', 'B')
+16_ll._51 16_ll._51 17_l._65 18_l._25
+__NEW_SENT__
+('The', 'DT', '', 'O') ("'776_patent", 'NNP', '', 'O') ('contains', 'VBZ', '', 'O') ('additional', 'JJ', '', 'O') ('limitations', 'NNS', '', 'O') ('namely', 'RB', '', 'O') ('the', 'DT', '', 'O') ('requirement', 'NN', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('40mg_GA_3x/week', 'CD', 'NORP', 'B') ('regimen', 'NN', '', 'O') ('``', '``', '', 'O') ('reduce', 'VB', '', 'O') ('[', '-LRB-', '', 'O') (']', '-RRB-', '', 'O') ('severity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injection_site_reactions', 'NNPS', '', 'O') ("''", "''", '', 'O') ('compared', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('20mg', 'JJ', 'ORDINAL', 'B') ('daily', 'JJ', 'DATE', 'B') ('regimen', 'NN', '', 'O') ('as', 'IN', '', 'O') ('seen', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('claim', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (':', ':', '', 'O') ('*1018', 'NN', '', 'O') ('1', 'CD', 'CARDINAL', 'B')
+40mg_GA_3x/week 20mg daily 1 1
+__NEW_SENT__
+('A', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('human_patient_suffering', 'NN', '', 'O') ('from', 'IN', '', 'O') ('a', 'DT', '', 'O') ('relapsing', 'VBG', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('multiple_sclerosis', 'NN', '', 'O') ('while', 'IN', '', 'O') ('inducing', 'VBG', '', 'O') ('reduced_severity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injection_site_reactions', 'NNPS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('human_patient', 'JJ', '', 'O') ('relative', 'NN', '', 'O') ('to', 'IN', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('20', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('of', 'IN', '', 'O') ('glatiramer', 'NN', '', 'O') ('acetate', 'VBP', '', 'O') ('s.c.', 'FW', '', 'O') ('daily', 'RB', '', 'O') ('the', 'DT', '', 'O') ('method', 'NN', '', 'O') ('consisting', 'VBG', '', 'O') ('of', 'IN', '', 'O') ('one', 'CD', 'CARDINAL', 'B') ('subcutaneous_injection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('1', 'CD', 'QUANTITY', 'B') ('ml', 'NN', 'QUANTITY', 'I') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutical_composition', 'JJ', '', 'O') ('comprising', 'VBG', '', 'O') ('40', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('of', 'IN', '', 'O') ('glatiramer', 'NN', '', 'O') ('acetate', 'VBP', '', 'O') ('on', 'IN', '', 'O') ('only', 'RB', '', 'O') ('each', 'DT', '', 'O') ('of', 'IN', '', 'O') ('three', 'CD', 'DATE', 'B') ('days', 'NNS', 'DATE', 'I') ('during', 'IN', '', 'O') ('each', 'DT', 'DATE', 'B') ('week', 'NN', 'DATE', 'I') ('of', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('with', 'IN', '', 'O') ('at', 'RB', 'DATE', 'B') ('least', 'RBS', 'DATE', 'I') ('one', 'CD', 'DATE', 'I') ('day', 'NN', 'DATE', 'I') ('without', 'IN', '', 'O') ('a', 'DT', '', 'O') ('subcutaneous_injection', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('between', 'IN', '', 'O') ('each', 'DT', 'DATE', 'B') ('day', 'NN', 'DATE', 'I') ('on', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('there', 'EX', '', 'O') ('is', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('subcutaneous_injection', 'NN', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('prefilled', 'VBN', '', 'O') ('syringe', 'NN', '', 'O') ('and', 'CC', '', 'O') ('wherein', 'WRB', '', 'O') ('the', 'DT', '', 'O') ('pharmaceutical_composition', 'NN', '', 'O') ('further', 'JJ', '', 'O') ('comprises', 'VBZ', '', 'O') ('mannitol', 'NN', '', 'O') ('and', 'CC', '', 'O') ('has', 'VBZ', '', 'O') ('a', 'DT', '', 'O') ('pH', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('range', 'NN', '', 'O') ('5.BIG_TOKEN__5_to_7__BIG_TOKEN0', 'CD', '', 'O') ('so', 'RB', '', 'O') ('as', 'IN', '', 'O') ('to', 'TO', '', 'O') ('thereby', 'RB', '', 'O') ('treat', 'VB', '', 'O') ('the', 'DT', '', 'O') ('human_patient', 'NN', '', 'O') ('with', 'IN', '', 'O') ('reduced_severity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('injection_site_reactions', 'NNPS', '', 'O') ('relative', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('20', 'CD', 'QUANTITY', 'B') ('mg', 'NN', 'QUANTITY', 'I') ('of', 'IN', '', 'O') ('glatiramer', 'NN', '', 'O') ('acetate', 'VBP', '', 'O') ('s.c.', 'FW', '', 'O') ('daily', 'RB', '', 'O')
+20 mg one 1 ml 40 mg three days each week at least one day each day 20 mg
+__NEW_SENT__
+("'776_patent", 'NNP', '', 'O') ('col.', 'FW', '', 'O') ('16_ll._35', 'NNP', 'LOC', 'B') ('-50', 'RB', 'LOC', 'I') ('(', '-LRB-', '', 'O') ('emphasis', 'NN', '', 'O') ('added', 'VBN', '', 'O') (')', '-RRB-', '', 'O')
+16_ll._35 -50
+__NEW_SENT__

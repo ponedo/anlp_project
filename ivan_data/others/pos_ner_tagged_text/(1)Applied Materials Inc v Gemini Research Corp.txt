@@ -1,0 +1,132 @@
+('835_F.2d_279', 'LS', '', 'O')
+
+__NEW_SENT__
+('United_States_Court', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Appeals', 'NNP', 'ORG', 'B') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+Appeals Federal Circuit
+__NEW_SENT__
+('APPLIED', 'NNP', 'ORG', 'B') ('MATERIALS', 'NNP', 'ORG', 'I') ('INC.', 'NNP', 'ORG', 'I') ('Plaintiff-Appellant', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('GEMINI', 'NNP', '', 'O') ('RESEARCH', 'NNP', '', 'O') ('CORPORATION', 'NN', '', 'O') ('Defendant-Appellee', 'VB', '', 'O')
+APPLIED MATERIALS INC.
+__NEW_SENT__
+('87-1145', 'LS', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('Dec._16,_1987', 'NNP', 'GPE', 'B')
+Dec._16,_1987
+__NEW_SENT__
+('|', 'UH', '', 'O') ('As', 'IN', '', 'O') ('Modified', 'NNP', '', 'O') ('on', 'IN', '', 'O') ('Grant', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Rehearing', 'NNP', '', 'O') ('March_14,_1988', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Action', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('brought', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('alleged', 'JJ', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('apparatus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('chemical_vapor_deposition', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('Northern_District', 'NN', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('California', 'NNP', '', 'O') ('Robert', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Aguilar', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'I') ('granted', 'VBD', '', 'O') ('defendant', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('alleged', 'JJ', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('appeal', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('taken', 'VBN', '', 'O')
+United_States_District_Court the Northern_District of Robert P. Aguilar J.
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Baldwin', 'NNP', 'ORG', 'I') ('Senior_Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('presumption', 'NN', '', 'O') ('of', 'IN', '', 'O') ('validity', 'NN', '', 'O') ('attaching', 'VBG', '', 'O') ('to', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('finally', 'RB', '', 'O') ('issued', 'VBN', '', 'O') ('after', 'IN', '', 'O') ('applicant', 'NN', '', 'O') ('introduced', 'VBN', '', 'O') ('new_evidence', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('rebut', 'VB', '', 'O') ('prior', 'JJ', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prima_facie', 'JJ', '', 'O') ('obviousness', 'NN', '', 'O') ('carried', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('the', 'DT', '', 'O') ('assumption', 'NN', '', 'O') ('that', 'IN', '', 'O') ('new_evidence', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('material', 'NN', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('issued', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('radiation-heated', 'JJ', '', 'O') ('reactor', 'NN', '', 'O') ('used', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('chemical_vapor_deposition', 'NNP', '', 'O') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('anticipate', 'VB', '', 'O') ('later', 'JJ', '', 'O') ('patent', 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('chemical_vapor_deposition', 'NN', '', 'O') ('process', 'NN', '', 'O') ('and', 'CC', '', 'O') ('thereby', 'RB', '', 'O') ('render', 'VB', '', 'O') ('it', 'PRP', '', 'O') ('invalid', 'JJ', '', 'O')
+The Court of Appeals Baldwin Senior_Circuit_Judge 1 2
+__NEW_SENT__
+('Vacated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*279', 'NNP', '', 'O') ('Philip', 'NNP', 'ORG', 'B') ('P.', 'NNP', 'ORG', 'I') ('Berelson', 'NNP', 'ORG', 'I') ('Brown', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Bain', 'NNP', 'ORG', 'I') ('Palo', 'NNP', 'GPE', 'B') ('Alto', 'NNP', 'GPE', 'I') ('Cal.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellant', 'NN', '', 'O')
+Philip P. Berelson Brown & Bain Palo Alto
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Milton', 'NNP', 'PERSON', 'B') ('W.', 'NNP', 'PERSON', 'I') ('Schlemmer', 'NNP', 'PERSON', 'I') ('Flehr', 'NNP', 'ORG', 'B') ('Hohbach', 'NNP', 'ORG', 'I') ('Test', 'NNP', 'ORG', 'I') ('Albritton', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Herbert', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Matthew', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Powers', 'NNP', 'PERSON', 'I') ('Orrick', 'NNP', '', 'O') ('Herrington', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Sutcliffe', 'NNP', 'PERSON', 'B') ('San_Francisco', 'NNP', 'PERSON', 'I') ('Cal_.', 'NNP', 'PERSON', 'I')
+Milton W. Schlemmer Flehr Hohbach Test Albritton & Herbert Matthew D. Powers Sutcliffe San_Francisco Cal_.
+__NEW_SENT__
+('Albert', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Hillman', 'NNP', 'PERSON', 'I') ('Townsend', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Townsend', 'NNP', 'PERSON', 'I') ('San_Francisco', 'NNP', 'PERSON', 'I') ('Cal.', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('defendant-appellee', 'NN', '', 'O')
+Albert J. Hillman Townsend & Townsend San_Francisco
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Gary', 'NNP', 'PERSON', 'B') ('T.', 'NNP', 'PERSON', 'I') ('Aka', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Theodore', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Brown', 'NNP', 'PERSON', 'I') ('III', 'NNP', 'PERSON', 'I')
+Gary T. Aka Theodore G. Brown III
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('BISSELL', 'NNP', '', 'O') ('Circuit_Judge', 'NN', '', 'O') ('BALDWIN', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('ARCHER', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', '', 'O')
+ARCHER
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('BALDWIN', 'NNP', '', 'O') ('Senior_Circuit_Judge', 'NNP', '', 'O')
+
+__NEW_SENT__
+('This', 'DT', '', 'O') ('is', 'VBZ', '', 'O') ('an', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('by', 'IN', '', 'O') ('plaintiff', 'NN', '', 'O') ('Applied', 'NNP', 'ORG', 'B') ('Materials', 'NNPS', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Applied', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('*280', 'NNP', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Northern_District', 'NN', 'GPE', 'B') ('of', 'IN', '', 'O') ('California', 'NNP', 'GPE', 'B') ('granting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('defendant', 'NN', '', 'O') ('Gemini', 'NNP', 'ORG', 'B') ('Research', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('Gemini', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+Applied Materials Inc. United_States_District_Court Northern_District California Gemini Research Corporation
+__NEW_SENT__
+('Applied', 'NNP', '', 'O') ('sued', 'VBD', '', 'O') ('Gemini', 'NNP', 'PERSON', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('related', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('apparatus', 'NN', '', 'O') ('and', 'CC', '', 'O') ('methods', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('chemical_vapor_deposition', 'NNP', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('CVD', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O')
+Gemini four chemical_vapor_deposition CVD
+__NEW_SENT__
+('Gemini', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('motions', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('summary_judgment', 'NN', '', 'O') ('challenging', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Applied', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('patents', 'NNS', '', 'O')
+four Applied
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('motions', 'NNS', '', 'O') ('invalidating', 'VBG', '', 'O') ('all', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('entered', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('final', 'JJ', '', 'O') ('judgment', 'NN', '', 'O') ('in', 'IN', '', 'O') ('favor', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Gemini', 'NNP', 'GPE', 'B')
+two four Gemini
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('vacate', 'VBP', '', 'O') ('and', 'CC', '', 'O') ('remand', 'VBP', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O')
+
+__NEW_SENT__
+('Applied', 'NNP', '', 'O') ('contends', 'VBZ', '', 'O') ('that', 'IN', '', 'O') ('Gemini', 'NNP', 'PERSON', 'B') ('has', 'VBZ', '', 'O') ('infringed', 'VBN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('patent', 'NN', '', 'O') ('Nos._3623,712', 'NNP', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'712_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('4,047,496', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'496_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('4,081,313', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'313_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('4,496,609', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ("'609_patent", 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Gemini U.S. Nos._3623,712 4,047,496 4,081,313 4,496,609
+__NEW_SENT__
+('The', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('all', 'DT', '', 'O') ('grew', 'VBD', '', 'O') ('out', 'IN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('single', 'JJ', '', 'O') ('application', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('McNeilly', 'NNP', 'ORG', 'B') ('and', 'CC', 'ORG', 'I') ('Benzing', 'NNP', 'ORG', 'I') ('on', 'IN', '', 'O') ('October', 'NNP', 'DATE', 'B') ('15', 'CD', 'DATE', 'I') ('1969', 'CD', 'DATE', 'I')
+four McNeilly and Benzing October 15 1969
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_Patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Trademark', 'NNP', '', 'O') ('Office', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('PTO', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('required', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('be', 'VB', '', 'O') ('restricted', 'VBN', '', 'O') ('a', 'DT', '', 'O') ('requirement', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('resulted', 'VBD', '', 'O') ('in', 'IN', '', 'O') ('three', 'CD', 'CARDINAL', 'B') ('applications', 'NNS', '', 'O') ('each', 'DT', '', 'O') ('claiming', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('patentably', 'RB', '', 'O') ('distinct', 'JJ', '', 'O') ('invention', 'NN', '', 'O') (':', ':', '', 'O') ('a', 'DT', '', 'O') ('radiation', 'NN', '', 'O') ('heated', 'VBN', '', 'O') ('reactor', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('issued', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'712_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('a', 'DT', '', 'O') ('CVD_gas_reactant_reactor', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('issued', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'496_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('CVD', 'NNP', 'ORG', 'B') ('coating', 'NN', '', 'O') ('process', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('both', 'CC', '', 'O') ('method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('apparatus_claims', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('issued', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'609", 'NN', '', 'O') ('and', 'CC', '', 'O') ("'313_patent", 'NNP', '', 'O') ('s', 'NNS', '', 'O') (')', '-RRB-', '', 'O')
+three CVD
+__NEW_SENT__
+('Applied', 'NNP', '', 'O') ('elected', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prosecute', 'VB', '', 'O') ('the', 'DT', '', 'O') ('radiantly', 'RB', '', 'O') ('heated', 'JJ', '', 'O') ('CVD', 'NNP', 'ORG', 'B') ('reactor', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('which', 'WDT', '', 'O') ('appear', 'VBP', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'712_patent", 'NNP', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('1971', 'CD', 'DATE', 'I')
+CVD November 1971
+__NEW_SENT__
+('A', 'DT', '', 'O') ('divisional_application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('CVD_gas_reactant_reactor', 'NN', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('continuation_applications', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('execution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('a', 'DT', '', 'O') ('terminal', 'NN', '', 'O') ('disclaimer', 'NN', '', 'O') ('the', 'DT', '', 'O') ('application', 'NN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('CVD_gas_reactant_reactor', 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('September', 'NNP', 'DATE', 'B') ('1977', 'CD', 'DATE', 'I') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ("'496_patent", 'NNP', '', 'O')
+two September 1977
+__NEW_SENT__
+('A', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('divisional_application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('process', 'NN', '', 'O') ('followed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('a', 'DT', '', 'O') ('continuation-in-part', 'NNP', 'ORG', 'B') ('application', 'NN', '', 'O') ('which', 'WDT', '', 'O') ('inter', 'JJ', '', 'O') ('alia', 'NNS', '', 'O') ('included', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('addition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Locke', 'NNP', 'ORG', 'B') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('inventor', 'NN', '', 'O')
+second continuation-in-part Locke
+__NEW_SENT__
+('The', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('second', 'JJ', 'ORDINAL', 'B') ('restriction', 'NN', '', 'O') ('requirement', 'NN', '', 'O') ('resulting', 'VBG', '', 'O') ('in', 'IN', '', 'O') ('separate', 'JJ', '', 'O') ('applications', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('method', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('for', 'IN', '', 'O') ('which', 'WDT', '', 'O') ('Locke', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('joint', 'JJ', '', 'O') ('inventor', 'NN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('apparatus_claims', 'NNS', '', 'O')
+second Locke
+__NEW_SENT__
+('Applied', 'NNP', '', 'O') ('elected', 'VBD', '', 'O') ('to', 'TO', '', 'O') ('prosecute', 'VB', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('apparatus_claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('A', 'DT', '', 'O') ('divisional_application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('method', 'NN', '', 'O') ('claims', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('McNeilly', 'NNP', 'ORG', 'B') ('Benzing', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Locke', 'NNP', 'ORG', 'B') ('as', 'IN', '', 'O') ('the', 'DT', '', 'O') ('inventors', 'NNS', '', 'O')
+McNeilly Benzing Locke
+__NEW_SENT__
+('After', 'IN', '', 'O') ('another', 'DT', '', 'O') ('continuation_application', 'NN', '', 'O') ('and', 'CC', '', 'O') ('another', 'DT', '', 'O') ('restriction', 'NN', '', 'O') ('requirement', 'NN', '', 'O') ('the', 'DT', '', 'O') ("'313_patent", 'NNP', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('March', 'NNP', 'DATE', 'B') ('1978', 'CD', 'DATE', 'I')
+March 1978
+__NEW_SENT__
+('A', 'DT', '', 'O') ('continuation_application', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('filed', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', '', 'O') ('coating', 'NN', '', 'O') ('apparatus_claims', 'NNS', '', 'O')
+
+__NEW_SENT__
+('Locke', 'NNP', 'ORG', 'B') ('was', 'VBD', '', 'O') ('deleted', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('an', 'DT', '', 'O') ('inventor', 'NN', '', 'O')
+Locke
+__NEW_SENT__
+('The', 'DT', '', 'O') ('examiner', 'NN', '', 'O') ('rejected', 'VBD', '', 'O') ('these', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('as', 'IN', '', 'O') ('prima_facie', 'NN', '', 'O') ('obvious', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_Patent', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Trademark', 'NNP', 'ORG', 'B') ('Office', 'NNP', 'ORG', 'I') ('Board', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Patent_Appeals', 'NNS', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Interferences', 'NNPS', 'ORG', 'I') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('United_States_Court', 'NNP', 'ORG', 'B') ('of', 'IN', '', 'O') ('Customs', 'NNP', 'ORG', 'B') ('and', 'CC', '', 'O') ('Patent_Appeals', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('CCPA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('In', 'IN', '', 'O') ('re', 'NN', '', 'O') ('McNeilly', 'RB', '', 'O') ('612_F.2d_585_(C.C.P.A.1979)', 'CD', '', 'O') ('affirmed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('rejections', 'NNS', '', 'O')
+Trademark Office Board of Patent_Appeals and Interferences United_States_Court Customs CCPA
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('after', 'IN', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('more', 'JJR', '', 'O') ('continuation_applications', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('introduction', 'NN', '', 'O') ('of', 'IN', '', 'O') ('new_evidence', 'NNP', '', 'O') ('to', 'TO', '', 'O') ('rebut', 'VB', '', 'O') ('the', 'DT', '', 'O') ('finding', 'NN', '', 'O') ('of', 'IN', '', 'O') ('prima_facie', 'JJ', '', 'O') ('obviousness', 'NN', '', 'O') ('the', 'DT', '', 'O') ("'609_patent", 'NN', '', 'O') ('issued', 'VBN', '', 'O') ('in', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('1985', 'CD', 'DATE', 'I')
+two January 1985
+__NEW_SENT__
+('Gemini', 'NNP', 'PERSON', 'B') ('requested', 'VBD', '', 'O') ('summary_judgment', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invalidity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('patents', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('suit', 'NN', '', 'O') ('in', 'IN', '', 'O') ('four', 'CD', 'CARDINAL', 'B') ('motions', 'NNS', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('following', 'VBG', '', 'O') ('grounds', 'NNS', '', 'O') ('respectively', 'RB', '', 'O') (':', ':', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ("'609", 'NN', '', 'O') ("'712", 'NNP', '', 'O') ('and', 'CC', '', 'O') ("'496_patent", 'NNP', '', 'O') ('s', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('invalid', 'JJ', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('theory', 'NN', '', 'O') ('of', 'IN', '', 'O') ('collateral', 'JJ', '', 'O') ('estoppel', 'NN', '', 'O') ('and', 'CC', '', 'O') ('res', 'VBZ', '', 'O') ('judicata*', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('In', 'IN', '', 'O') ('re', 'NN', '', 'O') ('McNeilly', 'RB', '', 'O') (';', ':', '', 'O') ('(', '-LRB-', '', 'O') ('2', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('the', 'DT', '', 'O') ("'313_patent", 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('invalid', 'JJ', '', 'O') ('because', 'IN', '', 'O') ('of', 'IN', '', 'O') ('anticipation', 'NN', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('e', 'NN', '', 'O') (')', '-RRB-', '', 'O') (';', ',', '', 'O') ('(', '-LRB-', '', 'O') ('3', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('inequitable', 'JJ', '', 'O') ('conduct', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('part', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Applied', 'NNP', 'ORG', 'B') ('in', 'IN', '', 'O') ('prosecuting', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('applications', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('these', 'DT', '', 'O') ('patents', 'NNS', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('(', '-LRB-', '', 'O') ('4', 'LS', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('double', 'JJ', '', 'O') ('patenting', 'NN', '', 'O')
+Gemini four four 1 2 35 102 3 Applied 4
+__NEW_SENT__
+('The', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('granted', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('first', 'JJ', 'ORDINAL', 'B') ('two', 'CD', 'CARDINAL', 'B') ('motions', 'NNS', '', 'O') ('the', 'DT', '', 'O') ('third', 'JJ', 'ORDINAL', 'B') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('decided', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('the', 'DT', '', 'O') ('fourth', 'JJ', 'ORDINAL', 'B') ('was', 'VBD', '', 'O') ('withdrawn', 'VBN', '', 'O')
+first two third fourth
+__NEW_SENT__
+('Only', 'RB', '', 'O') ('the', 'DT', '', 'O') ('two', 'CD', 'CARDINAL', 'B') ('motions', 'NNS', '', 'O') ('that', 'WDT', '', 'O') ('were', 'VBD', '', 'O') ('granted', 'VBN', '', 'O') ('are', 'VBP', '', 'O') ('at', 'IN', '', 'O') ('issue', 'NN', '', 'O') ('in', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O')
+two
+__NEW_SENT__

@@ -1,0 +1,150 @@
+('759_F.3d_1307', 'XX', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('VIRTUALAGILITY', 'NNP', '', 'O') ('INC', 'NNP', '', 'O') ('Plaintiff-Appellee', 'NNP', '', 'O') ('v.', 'IN', '', 'O') ('SALESFORCE.COM', 'NN', 'ORG', 'B') ('INC.', 'NNP', 'ORG', 'I') ('Dell', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Dr.', 'NNP', '', 'O') ('Pepper', 'NNP', 'ORG', 'B') ('Snapple', 'NNP', 'ORG', 'I') ('Group', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Kimberly-Clark_Corporation', 'NNP', 'ORG', 'B') ('NBCUniversal', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Livingsocial', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Fedex', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('BMC', 'NNP', 'ORG', 'I') ('Software', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('Bank', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('America', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') ('Bank', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('America', 'NNP', 'ORG', 'I') ('National', 'NNP', 'ORG', 'I') ('Association', 'NNP', 'ORG', 'I') ('Merrill_Lynch', 'NN', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Co.', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('Merrill_Lynch', 'NN', '', 'O') ('Pierce', 'NNP', '', 'O') ('Fenner', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Smith', 'NNP', '', 'O') ('Incorporated', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Fedex', 'NNP', '', 'O') ('Corporate', 'NNP', '', 'O') ('Services', 'NNPS', '', 'O') ('Inc.', 'NNP', '', 'O') ('Defendants-Appellants', 'NNS', '', 'O')
+SALESFORCE.COM INC. Dell Inc. Pepper Snapple Group Inc. Kimberly-Clark_Corporation NBCUniversal Inc. Livingsocial Inc. Fedex Corporation BMC Software Inc. Bank of America Corporation Bank of America National Association Merrill_Lynch &
+__NEW_SENT__
+('No._2014-1232', 'NN', '', 'O')
+
+__NEW_SENT__
+('|', 'UH', '', 'O') ('July_10,_2014', 'NNP', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Patentee', 'NN', '', 'O') ('brought', 'VBD', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('claims', 'NNS', '', 'O') ('against', 'IN', '', 'O') ('alleged', 'VBN', '', 'O') ('competitors', 'NNS', '', 'O')
+
+__NEW_SENT__
+('After', 'IN', '', 'O') ('a', 'DT', '', 'O') ('competitor', 'NN', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('petition', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Trial', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('Appeal_Board', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('PTAB', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('post-grant', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('alleged', 'VBN', '', 'O') ('covered', 'VBN', '', 'O') ('business_method', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('CBM', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('the', 'DT', 'GPE', 'B') ('United', 'NNP', 'GPE', 'I') ('States', 'NNP', 'GPE', 'I') ('District', 'NNP', 'GPE', 'I') ('Court', 'NNP', 'GPE', 'I') ('for', 'IN', '', 'O') ('the', 'DT', 'LOC', 'B') ('Eastern', 'NNP', 'LOC', 'I') ('District', 'NNP', 'LOC', 'I') ('of', 'IN', '', 'O') ('Texas', 'NNP', 'GPE', 'B') ('J.', 'NNP', 'PERSON', 'B') ('Rodney', 'NNP', 'PERSON', 'I') ('Gilstrap', 'NNP', 'PERSON', 'I') ('J.', 'NNP', 'PERSON', 'B') ('2014_WL_94371', 'CD', 'PERSON', 'I') ('denied', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('competitors', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('request', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('stay', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('CBM_review', 'NN', '', 'O')
+CBM the United States District Court the Eastern District Texas J. Rodney Gilstrap J. 2014_WL_94371
+__NEW_SENT__
+('The', 'DT', '', 'O') ('competitors', 'NNS', '', 'O') ('appealed', 'VBD', '', 'O')
+
+__NEW_SENT__
+('Holdings', 'NNS', '', 'O') (':', ':', '', 'O') ('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Moore', 'NNP', 'ORG', 'I') ('Circuit_Judge', 'NNP', 'ORG', 'I') ('held', 'VBD', '', 'O') ('that', 'IN', '', 'O') (':', ':', '', 'O')
+The Court of Appeals Moore Circuit_Judge
+__NEW_SENT__
+('factors', 'NNS', '', 'O') ('regarding', 'VBG', '', 'O') ('simplification', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('issues', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('reduced', 'JJ', '', 'O') ('burden', 'NN', '', 'O') ('of', 'IN', '', 'O') ('litigation', 'NN', '', 'O') ('strongly', 'RB', '', 'O') ('favored', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('stay', 'NN', '', 'O') (';', '.', '', 'O')
+
+__NEW_SENT__
+('factor', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('state', 'NN', '', 'O') ('of', 'IN', '', 'O') ('litigation', 'NN', '', 'O') ('strongly', 'RB', '', 'O') ('favored', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('stay', 'NN', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O')
+
+__NEW_SENT__
+('factor', 'NN', '', 'O') ('regarding', 'VBG', '', 'O') ('undue', 'JJ', '', 'O') ('prejudice', 'NN', '', 'O') ('or', 'CC', '', 'O') ('tactical', 'JJ', '', 'O') ('advantage', 'NN', '', 'O') ('weighed', 'VBD', '', 'O') ('slightly', 'RB', '', 'O') ('against', 'IN', '', 'O') ('a', 'DT', '', 'O') ('stay', 'NN', '', 'O')
+
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O') ('and', 'CC', '', 'O') ('remanded', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Newman', 'NN', 'PERSON', 'B') ('Circuit_Judge', 'NN', 'PERSON', 'I') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O')
+Newman Circuit_Judge
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1308', 'IN', '', 'O') ('Christian', 'NNP', 'NORP', 'B') ('John', 'NNP', 'PERSON', 'B') ('Hurt', 'NNP', 'PERSON', 'I') ('Nix', 'NNP', 'PERSON', 'I') ('Patterson', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Roach', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Irving', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiff-appellee', 'NN', '', 'O')
+Christian John Hurt Nix Patterson & Roach LLP Irving
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Edward', 'NNP', 'PERSON', 'B') ('K.', 'NNP', 'PERSON', 'I') ('Chin', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Andrew', 'NNP', 'PERSON', 'B') ('Joseph', 'NNP', 'PERSON', 'I') ('Wright', 'NNP', 'PERSON', 'I') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Derek', 'NNP', 'ORG', 'B') ('T.', 'NNP', 'ORG', 'I') ('Gilliland', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Daingerfield', 'NNP', '', 'O') ('TX', 'NNP', '', 'O')
+Edward K. Chin Andrew Joseph Wright Derek T. Gilliland
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('D.', 'NNP', 'PERSON', 'B') ('Neil', 'NNP', 'PERSON', 'I') ('Smith', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Irving', 'NNP', 'ORG', 'B') ('TX', 'NNP', 'ORG', 'I')
+D. Neil Smith Irving TX
+__NEW_SENT__
+('Jose', 'NNP', 'PERSON', 'B') ('C.', 'NNP', 'PERSON', 'I') ('Villarreal', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'PERSON', 'I') ('Sonsini', 'NNP', 'PERSON', 'I') ('Goodrich', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Rosati', 'NNP', 'PERSON', 'I') ('PC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Austin', 'NNP', 'ORG', 'B') ('TX', 'NNP', 'ORG', 'I') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+Jose C. Villarreal Wilson Sonsini Goodrich & Rosati Austin TX
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Darryl', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Adams', 'NNP', 'PERSON', 'I') ('Baker_Botts', 'NNS', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Austin', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('Kimberly-Clark_Corporation', 'NN', '', 'O')
+Darryl J. Adams Baker_Botts LLP Austin
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('Joel', 'NNP', 'PERSON', 'B') ('Christian', 'NNP', 'PERSON', 'I') ('Boehm', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Brian', 'NNP', 'PERSON', 'B') ('David', 'NNP', 'PERSON', 'I') ('Range', 'NNP', 'PERSON', 'I') ('Wilson', 'NNP', 'ORG', 'B') ('Sonsini', 'NNP', 'ORG', 'I') ('Goodrich', 'NNP', 'ORG', 'I') ('&', 'CC', 'ORG', 'I') ('Rosati', 'NNP', 'ORG', 'I') ('PC', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('Austin', 'NNP', 'GPE', 'B') ('TX', 'NNP', '', 'O') (';', ':', '', 'O') ('and', 'CC', '', 'O') ('Kevin', 'NNP', 'PERSON', 'B') ('J.', 'NNP', 'PERSON', 'I') ('Meek', 'NNP', 'PERSON', 'I') ('Baker_Botts', 'NNP', 'PERSON', 'I') ('LLP', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Austin', 'NNP', '', 'O') ('TX', 'NNP', '', 'O')
+Joel Christian Boehm Brian David Range Wilson Sonsini Goodrich & Rosati Austin Kevin J. Meek Baker_Botts LLP
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('NEWMAN', 'NNP', 'ORG', 'B') ('MOORE', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('CHEN', 'NNP', 'ORG', 'B') ('Circuit_Judges', 'NNS', '', 'O')
+NEWMAN CHEN
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('Dissenting', 'VBG', '', 'O') ('opinion', 'NN', '', 'O') ('filed', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('Circuit_Judge', 'JJ', 'CARDINAL', 'B') ('NEWMAN', 'NN', '', 'O')
+Circuit_Judge
+__NEW_SENT__
+('MOORE', 'NNP', 'ORG', 'B') ('Circuit_Judge', 'NN', 'ORG', 'I') ('Salesforce.com', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('other', 'JJ', '', 'O') ('defendants', 'NNS', '', 'O') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('Defendants', 'NNPS', 'ORG', 'B') (')', '-RRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') ('appeal', 'NN', '', 'O') ('from', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('order', 'NN', '', 'O') ('denying', 'VBG', '', 'O') ('their', 'PRP$', '', 'O') ('joint', 'JJ', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('VirtualAgility_Inc.', 'NN', '', 'O') ("'s", 'POS', '', 'O') ('(', '-LRB-', '', 'O') ('VA', 'NNP', 'ORG', 'B') (')', '-RRB-', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('lawsuit', 'NN', '', 'O') ('against', 'IN', '', 'O') ('Defendants', 'NNS', 'ORG', 'B') ('pending', 'VBG', '', 'O') ('post-grant', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('VA', 'NNP', 'GPE', 'B') ("'s", 'POS', '', 'O') ('asserted', 'VBN', '', 'O') ('claims', 'NNS', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', 'ORG', 'B') ('Transitional', 'NNP', 'ORG', 'I') ('Program', 'NNP', 'ORG', 'I') ('for', 'IN', 'ORG', 'I') ('Covered', 'NNP', 'ORG', 'I') ('Business', 'NNP', 'ORG', 'I') ('Method', 'NNP', 'ORG', 'I') ('Patents', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('CBM_program', 'NNP', 'DATE', 'B') (')', '-RRB-', '', 'O')
+MOORE Circuit_Judge Salesforce.com Inc. Defendants 1 VA Defendants VA the Transitional Program for Covered Business Method Patents CBM_program
+__NEW_SENT__
+('We', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('BACKGROUND', 'NNS', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('January', 'NNP', 'DATE', 'B') ('2013', 'CD', 'DATE', 'I') ('VA', 'NNP', 'ORG', 'B') ('sued', 'VBD', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ('alleging', 'VBG', '', 'O') ('infringement', 'NN', '', 'O') ('of', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._8095,413', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ("'413_patent", 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+January 2013 VA Defendants U.S.
+__NEW_SENT__
+('On', 'IN', '', 'O') ('May_24,_2013', 'NNP', '', 'O') ('Salesforce', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('petition', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('Patent_Trial', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('Appeal_Board', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('PTAB', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('post-grant', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('of', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('under', 'IN', '', 'O') ('the', 'DT', '', 'O') ('CBM_program', 'NN', '', 'O')
+Salesforce
+__NEW_SENT__
+('In', 'IN', '', 'O') ('the', 'DT', '', 'O') ('petition', 'NN', '', 'O') ('Salesforce', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('eligible', 'JJ', '', 'O') ('for', 'IN', '', 'O') ('this', 'DT', '', 'O') ('form', 'NN', '', 'O') ('of', 'IN', '', 'O') ('post-grant', 'JJ', '', 'O') ('review', 'NN', '', 'O') ('because', 'IN', '', 'O') ('they', 'PRP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('*1309', 'UH', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('``', '``', '', 'O') ('covered', 'VBN', '', 'O') ('business_method', 'NN', '', 'O') ('patent', 'NN', '', 'O') ("''", "''", '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('meaning', 'NN', '', 'O') ('of', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', 'LAW', 'B') ('America', 'NNP', 'LAW', 'I') ('Invents', 'NNPS', 'LAW', 'I') ('Act', 'NNP', 'LAW', 'I') ('(', '-LRB-', '', 'O') ('AIA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('Pub', 'NNP', 'PERSON', 'B') ('L.', 'NNP', 'PERSON', 'I') ('No._112-29', 'NNP', 'PERSON', 'I') ('125_Stat._284', 'NNP', '', 'O') ('329-31', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('2011', 'CD', 'DATE', 'B') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('Salesforce', 'NNP', 'ORG', 'B') ('had', 'VBD', '', 'O') ('standing', 'VBG', '', 'O') ('to', 'TO', '', 'O') ('bring', 'VB', '', 'O') ('the', 'DT', '', 'O') ('petition', 'NN', '', 'O') ('because', 'IN', '', 'O') ('it', 'PRP', '', 'O') ('was', 'VBD', '', 'O') ('sued', 'VBN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('infringement', 'NN', '', 'O') ('AIA_¡±', 'XX', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('B', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+Salesforce 18 1 the America Invents Act Pub L. No._112-29 2011 Salesforce 18 1
+__NEW_SENT__
+('Salesforce', 'NNP', '', 'O') ('further', 'RB', '', 'O') ('argued', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('PTAB', 'NN', 'ORG', 'B') ('should', 'MD', '', 'O') ('institute', 'VB', '', 'O') ('CBM_review', 'NN', '', 'O') ('because', 'IN', '', 'O') ('all', 'PDT', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('were', 'VBD', '', 'O') ('more', 'RBR', '', 'O') ('likely', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('not', 'RB', '', 'O') ('patent-ineligible', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('101', 'CD', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±¡±', 'NNP', '', 'O') ('102', 'CD', '', 'O') ('103', 'CD', 'CARDINAL', 'B') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('several', 'JJ', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('references', 'NNS', '', 'O')
+PTAB 35 101 35 103
+__NEW_SENT__
+('On', 'IN', '', 'O') ('May_29,_2013', 'NNP', '', 'O') ('Defendants', 'NNPS', '', 'O') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('district_court_proceedings', 'NNS', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('AIA_¡±', 'CD', '', 'O') ('18', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('b', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+18 1
+__NEW_SENT__
+('See', 'VB', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ("'", 'POS', 'ORG', 'I') ('Joint', 'NNP', 'ORG', 'I') ('Motion', 'NNP', 'ORG', 'I') ('To', 'TO', '', 'O') ('Stay', 'VB', '', 'O') ('Proceedings', 'NNP', '', 'O') ('Virtual-Agility', 'NNP', '', 'O') ('Inc.', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('Salesforce.com', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('13-cv-00111', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('E.D.Tex', '.', '', 'O')
+Defendants ' Joint Motion Salesforce.com Inc. 13-cv-00111
+__NEW_SENT__
+('May_29,_2013', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('ECF', 'NNP', '', 'O') ('No._67', 'NNP', '', 'O')
+
+__NEW_SENT__
+('In', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('2013', 'CD', 'DATE', 'I') ('while', 'IN', '', 'O') ('this', 'DT', '', 'O') ('motion', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('pending', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('issued', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('discovery', 'NN', '', 'O') ('order', 'NN', '', 'O') ('and', 'CC', '', 'O') ('held', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('scheduling', 'NN', '', 'O') ('conference', 'NN', '', 'O') ('setting', 'VBG', '', 'O') ('an', 'DT', '', 'O') ('April', 'NNP', 'DATE', 'B') ('2014', 'CD', 'DATE', 'I') ('date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('construction', 'NN', '', 'O') ('hearing', 'NN', '', 'O') ('and', 'CC', '', 'O') ('a', 'DT', '', 'O') ('November', 'NNP', 'DATE', 'B') ('2014', 'CD', 'DATE', 'I') ('date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('jury', 'NN', '', 'O') ('selection', 'NN', '', 'O')
+August 2013 April 2014 November 2014
+__NEW_SENT__
+('Also', 'RB', '', 'O') ('in', 'IN', '', 'O') ('August', 'NNP', 'DATE', 'B') ('2013', 'CD', 'DATE', 'I') ('VA', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Preliminary', 'NNP', 'ORG', 'B') ('Response', 'NNP', 'ORG', 'I') ('in', 'IN', '', 'O') ('opposition', 'NN', '', 'O') ('to', 'IN', '', 'O') ('Salesforce', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('petition', 'NN', '', 'O') ('at', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTAB', 'NN', 'ORG', 'B') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('37', 'CD', 'CARDINAL', 'B') ('C.F.R.¡±', 'NNP', '', 'O') ('42.207', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O')
+August 2013 VA Preliminary Response Salesforce PTAB 37 42.207
+__NEW_SENT__
+('In', 'IN', '', 'O') ('November', 'NNP', 'DATE', 'B') ('2013', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('PTAB', 'NNP', '', 'O') ('granted-in-part', 'NNP', '', 'O') ('Salesforce', 'NNP', 'ORG', 'B') ("'s", 'POS', '', 'O') ('petition', 'NN', '', 'O') ('based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('conclusion', 'NN', '', 'O') ('that', 'IN', '', 'O') ('all', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('are', 'VBP', '', 'O') ('directed', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('covered', 'VBN', '', 'O') ('business_method', 'NN', '', 'O') ('and', 'CC', '', 'O') ('are', 'VBP', '', 'O') ('more', 'RBR', '', 'O') ('likely', 'JJ', '', 'O') ('than', 'IN', '', 'O') ('not', 'RB', '', 'O') ('patent-ineligible', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('35', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('101', 'CD', 'PRODUCT', 'B') ('and', 'CC', '', 'O') ('invalid', 'JJ', '', 'O') ('under', 'IN', '', 'O') ('¡±', 'NNP', '', 'O') ('102', 'CD', 'CARDINAL', 'B') ('as', 'IN', '', 'O') ('anticipated', 'VBN', '', 'O') ('by', 'IN', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Patent', 'NNP', '', 'O') ('No._5761,674', 'NNP', 'ORG', 'B') ('(', '-LRB-', 'ORG', 'I') ('Ito', 'NN', 'ORG', 'I') (')', '-RRB-', '', 'O')
+November 2013 Salesforce 35 101 102 U.S. No._5761,674 ( Ito
+__NEW_SENT__
+('The', 'DT', '', 'O') ('PTAB', 'NNP', 'ORG', 'B') ('also', 'RB', '', 'O') ('issued', 'VBD', '', 'O') ('its', 'PRP$', '', 'O') ('own', 'JJ', '', 'O') ('scheduling', 'NN', '', 'O') ('order', 'NN', '', 'O') ('setting', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('July', 'NNP', 'DATE', 'B') ('2014', 'CD', 'DATE', 'I') ('date', 'NN', '', 'O') ('for', 'IN', '', 'O') ('a', 'DT', '', 'O') ('trial', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('validity', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('claims', 'NNS', '', 'O')
+PTAB July 2014
+__NEW_SENT__
+('In', 'IN', '', 'O') ('early', 'JJ', 'DATE', 'B') ('January', 'NNP', 'DATE', 'I') ('2014', 'CD', 'DATE', 'I') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('denied', 'VBD', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('the', 'DT', '', 'O') ('case', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('CBM_review', 'NN', '', 'O')
+early January 2014 Defendants
+__NEW_SENT__
+('VirtualAgility_Inc.', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('Salesforce.com', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('13-cv-00111', 'CD', '', 'O') ('2014_WL_94371', 'CD', 'ORDINAL', 'B') ('(', '-LRB-', '', 'O') ('E.D.Tex', '.', '', 'O')
+Salesforce.com Inc. 2014_WL_94371
+__NEW_SENT__
+('Jan.', 'NNP', 'DATE', 'B') ('9', 'CD', 'DATE', 'I') ('2014', 'CD', 'DATE', 'I') (')', '-RRB-', '', 'O')
+Jan. 9 2014
+__NEW_SENT__
+('Defendants', 'NNS', '', 'O') ('timely', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('interlocutory', 'JJ', '', 'O') ('appeal', 'NN', '', 'O') ('to', 'IN', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O') ('and', 'CC', '', 'O') ('also', 'RB', '', 'O') ('filed', 'VBD', '', 'O') ('motions', 'NNS', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('district_court_proceedings', 'NNS', '', 'O') ('pending', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('disposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('this', 'DT', '', 'O') ('appeal', 'NN', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('and', 'CC', '', 'O') ('this', 'DT', '', 'O') ('court', 'NN', '', 'O')
+
+__NEW_SENT__
+('While', 'IN', '', 'O') ('these', 'DT', '', 'O') ('motions', 'NNS', '', 'O') ('were', 'VBD', '', 'O') ('pending', 'VBG', '', 'O') ('VA', 'NNP', 'ORG', 'B') ('filed', 'VBD', '', 'O') ('a', 'DT', '', 'O') ('Motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('Amend', 'VB', '', 'O') ('the', 'DT', '', 'O') ('¡¬413_patent', 'NNP', '', 'O') ('claims', 'VBZ', '', 'O') ('with', 'IN', '', 'O') ('the', 'DT', '', 'O') ('PTAB', 'NN', '', 'O') ('contingent', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ("'", 'POS', '', 'O') ('invalidation', 'NN', '', 'O')
+VA
+__NEW_SENT__
+('PTAB', 'NN', '', 'O') ('No', 'NN', '', 'O')
+
+__NEW_SENT__
+('CBM2013-00024', 'NNP', '', 'O') ('Paper', 'NNP', '', 'O') ('26', 'CD', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('Jan._28,_2014', 'NNP', '', 'O') (')', '-RRB-', '', 'O')
+26
+__NEW_SENT__
+('In', 'IN', '', 'O') ('February', 'NNP', 'DATE', 'B') ('we', 'PRP', '', 'O') ('issued', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('order', 'NN', '', 'O') ('staying', 'VBG', '', 'O') ('proceedings', 'NNS', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('our', 'PRP$', '', 'O') ('disposition', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Defendants', 'NNP', 'ORG', 'B') ("'", 'POS', '', 'O') ('motion', 'NN', '', 'O') ('to', 'TO', '', 'O') ('stay', 'VB', '', 'O') ('pending', 'VBG', '', 'O') ('appeal', 'NN', '', 'O')
+February Defendants
+__NEW_SENT__
+('VirtualAgility_Inc.', 'JJ', '', 'O') ('v.', 'IN', '', 'O') ('Salesforce.com', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('14-1232', 'CD', 'PRODUCT', 'B') ('(', '-LRB-', '', 'O') ('Fed.Cir', 'NN', '', 'O')
+Salesforce.com Inc. 14-1232
+__NEW_SENT__
+('Feb._12,_2014', 'LS', '', 'O') (')', '-RRB-', '', 'O') ('ECF', 'NNP', '', 'O') ('No._34', 'NN', '', 'O')
+
+__NEW_SENT__
+('Pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('our', 'PRP$', '', 'O') ('order', 'NN', '', 'O') ('the', 'DT', '', 'O') ('district_court', 'NN', '', 'O') ('entered', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('stay', 'NN', '', 'O') ('pending', 'VBG', '', 'O') ('appeal', 'NN', '', 'O')
+
+__NEW_SENT__

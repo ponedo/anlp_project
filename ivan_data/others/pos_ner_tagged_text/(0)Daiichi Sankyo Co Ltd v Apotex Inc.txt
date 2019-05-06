@@ -1,0 +1,102 @@
+('501_F.3d_1254', 'LS', '', 'O')
+
+__NEW_SENT__
+('United', 'NNP', 'ORG', 'B') ('States', 'NNP', 'ORG', 'I') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNP', 'ORG', 'I') ('Federal', 'NNP', 'ORG', 'I') ('Circuit', 'NNP', 'ORG', 'I')
+United States Court of Appeals Federal Circuit
+__NEW_SENT__
+('DAIICHI', 'NNP', 'ORG', 'B') ('SANKYO', 'NNP', 'ORG', 'I') ('CO.', 'TO', 'ORG', 'I') ('LTD.', 'NFP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('formerly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Daiichi', 'NNP', 'ORG', 'B') ('Pharmaceutical', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('Ltd.', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('Daiichi', 'NNP', 'ORG', 'B') ('Sankyo', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('formerly', 'RB', '', 'O') ('known', 'VBN', '', 'O') ('as', 'IN', '', 'O') ('Daiichi', 'NNP', 'ORG', 'B') ('Pharmaceutical', 'NNP', 'ORG', 'I') ('Corporation', 'NNP', 'ORG', 'I') (')', '-RRB-', '', 'O') ('Plaintiffs-Appellees', 'NNP', '', 'O') ('v.', 'CC', '', 'O') ('APOTEX', 'NNP', 'ORG', 'B') ('INC.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Apotex_Corp.', 'WRB', 'CARDINAL', 'B') ('Defendants-Appellants', 'NNS', '', 'O')
+DAIICHI SANKYO CO. LTD. Daiichi Pharmaceutical Co. Ltd. Daiichi Sankyo Inc. Daiichi Pharmaceutical Corporation APOTEX INC. Apotex_Corp.
+__NEW_SENT__
+('No._2006-1564', 'JJ', '', 'O')
+
+__NEW_SENT__
+('|', 'DT', '', 'O') ('Nonprecedential', 'NNP', '', 'O') ('Opinion', 'NNP', '', 'O') ('Issued', 'VBD', '', 'O') (':', ':', '', 'O') ('July_11,_2007', 'NNP', '', 'O')
+
+__NEW_SENT__
+('|', 'NNP', '', 'O') ('Precedential', 'NNP', '', 'O') ('Opinion', 'NNP', '', 'O') ('Issued', 'VBD', '', 'O') (':', ':', '', 'O') ('Sept._12,_2007', 'NN', '', 'O')
+
+__NEW_SENT__
+('Synopsis', 'NN', '', 'O')
+
+__NEW_SENT__
+('Background', 'NN', '', 'O') (':', ':', '', 'O') ('Holder', 'NN', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('for', 'IN', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('bacterial_ear_infections', 'NNS', '', 'O') ('via', 'IN', '', 'O') ('topical', 'JJ', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('antibiotic_ofloxacin', 'JJ', '', 'O') ('brought', 'VBN', '', 'O') ('infringement', 'NN', '', 'O') ('action', 'NN', '', 'O') ('against', 'IN', '', 'O') ('recipient', 'NN', '', 'O') ('of', 'IN', '', 'O') ('abbreviated', 'VBN', '', 'O') ('new', 'JJ', '', 'O') ('drug', 'NN', '', 'O') ('application', 'NN', '', 'O') ('(', '-LRB-', '', 'O') ('ANDA', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('for', 'IN', '', 'O') ('manufacture', 'NN', '', 'O') ('of', 'IN', '', 'O') ('generic_ofloxacin_ear_drop', 'NNP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('United_States_District_Court', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'GPE', 'I') ('441_F.Supp.2d_672', 'NNP', '', 'O') ('William', 'NNP', 'PERSON', 'B') ('G.', 'NNP', 'PERSON', 'I') ('Bassler', 'NNP', 'PERSON', 'I') ('Senior', 'NNP', '', 'O') ('District', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('entered', 'VBD', '', 'O') ('judgment', 'NN', '', 'O') ('for', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('holder', 'NN', '', 'O') ('and', 'CC', '', 'O') ('ANDA', 'NNP', '', 'O') ('recipient', 'NN', '', 'O') ('appealed', 'VBD', '', 'O')
+United_States_District_Court the District of New_Jersey William G. Bassler
+__NEW_SENT__
+('The', 'DT', 'ORG', 'B') ('Court', 'NNP', 'ORG', 'I') ('of', 'IN', 'ORG', 'I') ('Appeals', 'NNPS', 'ORG', 'I') ('Archer', 'NNP', 'ORG', 'I') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('held', 'VBD', '', 'O') ('that', 'DT', '', 'O') ('method', 'NN', '', 'O') ('of', 'IN', '', 'O') ('treatment', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('was', 'VBD', '', 'O') ('subject', 'JJ', '', 'O') ('of', 'IN', '', 'O') ('patent', 'NN', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('one', 'CD', '', 'O') ('having', 'VBG', '', 'O') ('ordinary', 'JJ', '', 'O') ('skill', 'NN', '', 'O') ('in', 'IN', '', 'O') ('the', 'DT', '', 'O') ('art', 'NN', '', 'O') ('namely', 'RB', '', 'O') ('otolaryngologist', 'VBP', '', 'O') ('or', 'CC', '', 'O') ('similar', 'JJ', '', 'O') ('physician', 'NN', '', 'O') ('with', 'IN', '', 'O') ('training', 'NN', '', 'O') ('in', 'IN', '', 'O') ('pharmaceutical', 'JJ', '', 'O') ('formulations', 'NNS', '', 'O')
+The Court of Appeals Archer
+__NEW_SENT__
+('Reversed', 'VBN', '', 'O')
+
+__NEW_SENT__
+('Attorneys', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('Law', 'NNP', '', 'O') ('Firms', 'NNS', '', 'O')
+
+__NEW_SENT__
+('*1255', 'NNP', '', 'O') ('Brian', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Murphy', 'NNP', 'PERSON', 'I') ('Morgan', 'NNP', 'PERSON', 'I') ('Lewis', 'NNP', '', 'O') ('&', 'CC', '', 'O') ('Bockius', 'NNP', '', 'O') ('LLP', 'NNP', '', 'O') ('of', 'IN', '', 'O') ('New', 'NNP', 'GPE', 'B') ('York', 'NNP', 'GPE', 'I') ('NY', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('plaintiffs-appellees', 'NNS', '', 'O')
+Brian P. Murphy Morgan New York NY
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('David', 'NNP', 'PERSON', 'B') ('Leichtman', 'NNP', 'PERSON', 'I') ('Daniel', 'NNP', 'PERSON', 'B') ('Murphy', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Oren', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Langer', 'NNP', 'PERSON', 'I')
+David Leichtman Daniel Murphy Oren D. Langer
+__NEW_SENT__
+('Of', 'IN', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('James', 'NNP', 'PERSON', 'B') ('P.', 'NNP', 'PERSON', 'I') ('Flynn', 'NNP', 'PERSON', 'I') ('Epstein', 'NNP', 'PERSON', 'I') ('Becker', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Green', 'NNP', 'PERSON', 'I') ('PC', 'NN', '', 'O') ('of', 'IN', '', 'O') ('Newark', 'NNP', '', 'O') ('NJ', 'NNP', '', 'O')
+James P. Flynn Epstein Becker & Green
+__NEW_SENT__
+('Robert', 'NNP', 'PERSON', 'B') ('B.', 'NNP', 'PERSON', 'I') ('Breisblatt', 'NNP', 'PERSON', 'I') ('Welsh', 'NNP', 'PERSON', 'I') ('&', 'CC', 'PERSON', 'I') ('Katz', 'NNP', 'PERSON', 'I') ('Ltd.', 'NNP', 'PERSON', 'I') ('of', 'IN', '', 'O') ('Chicago', 'NNP', 'GPE', 'B') ('IL', 'NNP', 'ORG', 'B') ('argued', 'VBD', '', 'O') ('for', 'IN', '', 'O') ('defendants-appellants', 'NNS', '', 'O')
+Robert B. Breisblatt Welsh & Katz Ltd. Chicago IL
+__NEW_SENT__
+('With', 'IN', '', 'O') ('him', 'PRP', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('were', 'VBD', '', 'O') ('A.', 'NNP', 'PERSON', 'B') ('Sidney', 'NNP', 'PERSON', 'I') ('Katz', 'NNP', 'PERSON', 'I') ('Julie', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Katz', 'NNP', 'PERSON', 'I') ('Philip', 'NNP', 'PERSON', 'B') ('D.', 'NNP', 'PERSON', 'I') ('Segrest', 'NNP', 'PERSON', 'I') ('Jr.', 'NNP', 'PERSON', 'I') ('and', 'CC', '', 'O') ('Michael', 'NNP', 'PERSON', 'B') ('A.', 'NNP', 'PERSON', 'I') ('Krol', 'NNP', 'PERSON', 'I') ('Of', 'NNP', '', 'O') ('counsel', 'NN', '', 'O') ('on', 'IN', '', 'O') ('the', 'DT', '', 'O') ('brief', 'NN', '', 'O') ('was', 'VBD', '', 'O') ('Steven', 'NNP', 'PERSON', 'B') ('Gerber', 'NNP', 'PERSON', 'I') ('Adorno', 'NNP', 'ORG', 'B') ('&', 'CC', 'ORG', 'I') ('Yoss', 'NNP', 'ORG', 'I') ('LLP', 'NNP', 'ORG', 'I') ('of', 'IN', '', 'O') ('Wayne', 'NNP', '', 'O') ('NJ', 'NNP', '', 'O')
+A. Sidney Katz Julie A. Katz Philip D. Segrest Jr. Michael A. Krol Steven Gerber Adorno & Yoss LLP
+__NEW_SENT__
+('Before', 'IN', '', 'O') ('MICHEL', 'NNP', 'ORG', 'B') ('Chief', 'NNP', '', 'O') ('Judge', 'NNP', '', 'O') ('ARCHER', 'NNP', 'PERSON', 'B') ('Senior_Circuit_Judge', 'NNP', '', 'O') ('and', 'CC', '', 'O') ('DYK', 'NNP', 'ORG', 'B') ('Circuit', 'NNP', 'ORG', 'I') ('Judge', 'NNP', '', 'O')
+MICHEL ARCHER DYK Circuit
+__NEW_SENT__
+('Opinion', 'NN', '', 'O')
+
+__NEW_SENT__
+('ARCHER', 'NNP', 'ORG', 'B') ('Senior_Circuit_Judge', 'NNP', 'ORG', 'I') ('Apotex', 'NNP', 'ORG', 'I') ('Inc.', 'NNP', 'ORG', 'I') ('and', 'CC', '', 'O') ('Apotex_Corp.', 'PRP$', 'CARDINAL', 'B') ('(', '-LRB-', '', 'O') ('collectively', 'RB', '', 'O') ('``', '``', '', 'O') ('Apotex', 'NNP', 'PRODUCT', 'B') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('appeal', 'VBP', '', 'O') ('the', 'DT', '', 'O') ('judgment', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('United_States_District_Court', 'NNP', '', 'O') ('for', 'IN', '', 'O') ('the', 'DT', 'GPE', 'B') ('District', 'NNP', 'GPE', 'I') ('of', 'IN', 'GPE', 'I') ('New_Jersey', 'NNP', 'GPE', 'I') ('that', 'WDT', '', 'O') ('Apotex', 'NNP', 'GPE', 'B') ('infringes', 'VBZ', '', 'O') ('U.S.', 'NNP', 'GPE', 'B') ('Pat', 'NNP', '', 'O')
+ARCHER Senior_Circuit_Judge Apotex Inc. Apotex_Corp. Apotex the District of New_Jersey Apotex U.S.
+__NEW_SENT__
+('No._5401,741', 'NNP', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NN', '', 'O') ('``', '``', '', 'O') (')', '-RRB-', '', 'O') ('and', 'CC', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O') ('or', 'CC', '', 'O') ('unenforceable', 'JJ', '', 'O')
+
+__NEW_SENT__
+('Daiichi', 'NNP', 'ORG', 'B') ('Pharm', 'NNP', 'ORG', 'I') ('Co.', 'NNP', 'ORG', 'I') ('v.', 'CC', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('Inc.', 'NNP', 'ORG', 'I') ('441_F.Supp.2d_672', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('D.N.J.2006', 'NNP', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('Validity', 'NNP', 'WORK_OF_ART', 'B') ('Determination', 'NNP', 'WORK_OF_ART', 'I') ('``', "''", '', 'O') (')', '-RRB-', '', 'O')
+Daiichi Pharm Co. Apotex Inc. Validity Determination
+__NEW_SENT__
+('Because', 'IN', '', 'O') ('the', 'DT', '', 'O') ('invention', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('would', 'MD', '', 'O') ('have', 'VB', '', 'O') ('been', 'VBN', '', 'O') ('obvious', 'JJ', '', 'O') ('in', 'IN', '', 'O') ('view', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('prior', 'JJ', '', 'O') ('art', 'NN', '', 'O') ('we', 'PRP', '', 'O') ('reverse', 'VBP', '', 'O')
+
+__NEW_SENT__
+('I', 'PRP', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('is', 'VBZ', '', 'O') ('drawn', 'VBN', '', 'O') ('to', 'IN', '', 'O') ('a', 'DT', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('bacterial_ear_infections', 'NNS', '', 'O') ('by', 'IN', '', 'O') ('topically', 'RB', '', 'O') ('administering', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('antibiotic_ofloxacin', 'NN', '', 'O') ('into', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ear.BIG_TOKEN__1_Claim_1__BIG_TOKEN', 'NN', '', 'O') ('is', 'VBZ', '', 'O') ('representative', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('states', 'NNS', '', 'O') ('``', '``', '', 'O') ('[', '-LRB-', '', 'O') ('a', 'DT', '', 'O') (']', '-RRB-', '', 'O') ('method', 'NN', '', 'O') ('for', 'IN', '', 'O') ('treating', 'VBG', '', 'O') ('otopathy', 'NN', '', 'O') ('*1256', 'WDT', '', 'O') ('which', 'WDT', '', 'O') ('comprises', 'VBZ', '', 'O') ('the', 'DT', '', 'O') ('topical', 'JJ', '', 'O') ('otic', 'JJ', '', 'O') ('administration', 'NN', '', 'O') ('of', 'IN', '', 'O') ('an', 'DT', '', 'O') ('amount', 'NN', '', 'O') ('of', 'IN', '', 'O') ('ofloxacin', 'NN', '', 'O') ('or', 'CC', '', 'O') ('a', 'DT', '', 'O') ('salt', 'NN', '', 'O') ('thereof', 'RB', '', 'O') ('effective', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ('otopathy', 'NN', '', 'O') ('in', 'IN', '', 'O') ('a', 'DT', '', 'O') ('pharmaceutically', 'RB', '', 'O') ('acceptable', 'JJ', '', 'O') ('carrier', 'NN', '', 'O') ('to', 'IN', '', 'O') ('the', 'DT', '', 'O') ('area', 'NN', '', 'O') ('affected', 'VBN', '', 'O') ('with', 'IN', '', 'O') ('otopathy', 'NN', '', 'O') ("''", "''", '', 'O')
+
+__NEW_SENT__
+('¡¬', 'NNP', '', 'O') ('741', 'CD', 'CARDINAL', 'B') ('Patent', 'NN', '', 'O') ('col.6', 'NN', '', 'O') ('ll.36-39', '.', '', 'O')
+741
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('filed', 'VBD', '', 'O') ('an', 'DT', '', 'O') ('Abbreviated', 'NNP', 'ORG', 'B') ('New', 'NNP', 'ORG', 'I') ('Drug', 'NNP', 'ORG', 'I') ('Application', 'NNP', 'ORG', 'I') ('(', '-LRB-', '', 'O') ('``', '``', '', 'O') ('ANDA', 'NNP', '', 'O') ("''", "''", '', 'O') (')', '-RRB-', '', 'O') ('seeking', 'VBG', '', 'O') ('approval', 'NN', '', 'O') ('to', 'TO', '', 'O') ('manufacture', 'VB', '', 'O') ('a', 'DT', '', 'O') ('generic_ofloxacin_ear_drop', 'NN', '', 'O') ('including', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('?', '.', '', 'O')
+Abbreviated New Drug Application
+__NEW_SENT__
+('IV', 'NNP', 'ORG', 'B') ('certification', 'NN', '', 'O') ('that', 'WDT', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('invalid', 'JJ', '', 'O') ('and/or', 'CC', '', 'O') ('not', 'RB', '', 'O') ('infringed', 'VBN', '', 'O')
+IV
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('receipt', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('ANDA', 'NNP', '', 'O') ('Daiichi', 'NNP', '', 'O') ('owner', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('sued', 'VBN', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('for', 'IN', '', 'O') ('infringement', 'NN', '', 'O')
+Apotex
+__NEW_SENT__
+('Following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('Markman', 'NNP', 'PERSON', 'B') ('hearing', 'VBG', '', 'O') ('the', 'DT', '', 'O') ('district', 'NN', '', 'O') ('court', 'NN', '', 'O') ('construed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('claim', 'NN', '', 'O') ('term', 'NN', '', 'O') ('``', '``', '', 'O') ('effective', 'JJ', '', 'O') ('to', 'TO', '', 'O') ('treat', 'VB', '', 'O') ("''", "''", '', 'O') ('as', 'IN', '', 'O') ('``', '``', '', 'O') ('efficacious', 'JJ', '', 'O') ('and', 'CC', '', 'O') ('safe', 'JJ', '', 'O') ("''", "''", '', 'O')
+Markman
+__NEW_SENT__
+('Based', 'VBN', '', 'O') ('on', 'IN', '', 'O') ('this', 'DT', '', 'O') ('construction', 'NN', '', 'O') ('and', 'CC', '', 'O') ('following', 'VBG', '', 'O') ('a', 'DT', '', 'O') ('bench', 'NN', '', 'O') ('trial', 'NN', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('concluded', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('was', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('invalid', 'JJ', '', 'O')
+
+__NEW_SENT__
+('The', 'DT', '', 'O') ('court', 'NN', '', 'O') ('also', 'RB', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Daiichi', 'NNP', 'GPE', 'B') ('did', 'VBD', '', 'O') ('not', 'RB', '', 'O') ('intend', 'VB', '', 'O') ('to', 'TO', '', 'O') ('deceive', 'VB', '', 'O') ('the', 'DT', 'ORG', 'B') ('Patent', 'NN', 'ORG', 'I') ('and', 'CC', 'ORG', 'I') ('Trademark', 'NNP', 'ORG', 'I') ('Office', 'NNP', 'ORG', 'I') ('during', 'IN', '', 'O') ('prosecution', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NN', '', 'O')
+Daiichi the Patent and Trademark Office
+__NEW_SENT__
+('Finally', 'RB', '', 'O') ('because', 'IN', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('stipulated', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('the', 'DT', '', 'O') ('subject', 'JJ', '', 'O') ('matter', 'NN', '', 'O') ('of', 'IN', '', 'O') ('its', 'PRP$', '', 'O') ('ANDA', 'NNP', '', 'O') ('fell', 'VBD', '', 'O') ('within', 'IN', '', 'O') ('the', 'DT', '', 'O') ('scope', 'NN', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('claims', 'NNS', '', 'O') ('of', 'IN', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NNP', '', 'O') ('the', 'DT', '', 'O') ('court', 'NN', '', 'O') ('found', 'VBD', '', 'O') ('that', 'IN', '', 'O') ('Apotex', 'NNP', 'ORG', 'B') ('infringed', 'VBD', '', 'O') ('the', 'DT', '', 'O') ('¡¬741_patent', 'NN', '', 'O')
+Apotex Apotex
+__NEW_SENT__
+('Apotex', 'NNP', '', 'O') ('appeals', 'NNS', '', 'O') ('and', 'CC', '', 'O') ('we', 'PRP', '', 'O') ('have', 'VBP', '', 'O') ('jurisdiction', 'NN', '', 'O') ('pursuant', 'JJ', '', 'O') ('to', 'IN', '', 'O') ('28', 'CD', 'CARDINAL', 'B') ('U.S.C.¡±', 'NNP', '', 'O') ('1295', 'CD', '', 'O') ('(', '-LRB-', '', 'O') ('a', 'NN', '', 'O') (')', '-RRB-', '', 'O') ('(', '-LRB-', '', 'O') ('1', 'CD', 'CARDINAL', 'B') (')', '-RRB-', '', 'O')
+28 1
+__NEW_SENT__

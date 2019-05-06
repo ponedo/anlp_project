@@ -1,0 +1,134 @@
+
+
+
+808 F.3d 509
+United States Court of Appeals,
+Federal Circuit.
+OPENWAVE SYSTEMS, INC., nka Unwired Planet, Inc., Plaintiff-Appellant
+v.
+APPLE INC., Research in Motion, Ltd., Research in Motion Corp., Defendants-Appellees.
+No. 2015-1108.
+|
+Dec. 15, 2015.
+Synopsis
+Background: Assignee of patents, setting forth method and architecture for an interactive two-way data communication network, brought infringement action. The United States District Court for the District of Delaware, Richard G. Andrews, J., 2014 WL 651911, construed disputed claim term and entered stipulated judgment of non-infringement. Assignee appealed.
+ 
+Holdings: The Court of Appeals, O'Malley, Circuit Judge, held that
+ 
+patentee disavowed mobile devices containing computer modules from patents through repeated disparagement in patent specification, and
+ 
+term "mobile device" in patents meant portable wireless two-way communication device that did not contain a computer module.
+ 
+Affirmed.
+ 
+Attorneys and Law Firms
+*510 Theodore Stevenson, III, McKool Smith, P.C., Dallas, TX, argued for appellant. Also represented by Meredith Anne Elkins, Jared M. Hoggan, Nicholas M. Mathews; Daniel L. Geyser, Stris & Maher LLP, Los Angeles, CA.
+Mark Andrew Perry, Gibson, Dunn & Crutcher LLP, Washington, DC, argued for appellee Apple Inc. Also represented by Brian Buroker; Alexander N. Harris, San Francisco, CA; Josh Krevitt, New York, N.Y.; Hervey Mark Lyon, Stuart Rosenberg, Palo Alto, CA; Brooke Myers Wallace, Los Angeles, CA.
+Alan J. Heinrich, Irell & Manella LLP, Los Angeles, CA, for appellees Research in Motion, Ltd. and Research in Motion Corp. Also represented by Gavin Snyder, Bruce A. Wessel.
+Before MOORE, O'MALLEY, and CHEN, Circuit Judges.
+Opinion
+
+O'MALLEY, Circuit Judge.
+
+Openwave Systems, Inc., NKA Unwired Planet, Inc. ("Unwired Planet") is the assignee of U.S. Patent Nos. 6,405,037 ("the ¡¬037 patent"), 6,430,409 ("the ¡¬409 patent"), and 6,625,447 ("the ¡¬447 patent") (collectively, *511 the "patents-in-suit"). The patents-in-suit share a common specification.1
+ 
+Unwired Planet first sued Apple Inc., Research in Motion, Ltd., and Research in Motion Corp. (collectively, the "Defendants") on August 31, 2011, in the United States District Court for the District of Delaware. Shortly thereafter, on October 7, 2011, Unwired Planet initiated an action with the International Trade Commission ("ITC"). The district court stayed its litigation pending resolution of the ITC proceedings. After receiving an unfavorable claim construction ruling from the Administrative Law Judge ("ALJ") overseeing the proceedings, Unwired Planet sought to dismiss the ITC investigation in its entirety. On November 13, 2012, the ITC terminated its proceedings. The district court lifted its stay on December 28, 2012.
+ 
+Unwired Planet informed the district court that if it adopted a construction of the disputed claim term that matched the construction from the ITC proceedings, Unwired Planet would concede non-infringement by stipulation and file a motion to terminate the case. After considering the briefing and hearing oral argument, the district court issued an order adopting a construction that closely tracked that employed by the ALJ. Believing one difference between the two constructions to be material, however, Unwired Planet did not immediately stipulate to non-infringement. Specifically, because the district court noted in a footnote that its construction excluding devices employing "computer modules" did not exclude devices employing "microprocessors," Unwired Planet argued that a material question regarding infringement remained unresolved.
+ 
+Given Unwired Planet's refusal to concede non-infringement, Defendants filed a motion for summary judgment of non-infringement. The district court denied the Defendants' motion on the ground that it was unclear from the record whether the accused products actually fell within the claims as construed. The district court premised its summary-judgment ruling on the fact that it found the distinction between devices operating with microprocessors and those operating with computer modules to be sufficiently unclear at that stage of the proceedings to prohibit entry of a judgment of non-infringement as a matter of law. After the district court entered that order in favor of Unwired Planet, however, Unwired Planet changed course and filed a stipulation of non-infringement after all. The district court entered final judgment of non-infringement as to all asserted patent claims in favor of Defendants on October 14, 2014. This appeal followed. Because we agree with the district court's claim construction, we affirm.
+ 
+
+
+BACKGROUND
+There are three claim terms at issue: "mobile device" in the ¡¬037 patent, "wireless mobile telephone" in the ¡¬409 patent, and "two-way communication device" in the ¡¬447 patent. Before both the ALJ and the district court, the parties agreed that the claim terms should be analyzed and construed together. Accordingly, we will construe them together under the umbrella term "mobile device."
+ 
+The only relevant issue on appeal is whether the claims should be given their ordinary meaning or whether, as the district court found, the patents, through repeated disparagement in the specification, *512 disclaim mobile devices containing "computer modules."
+ 
+The patents-in-suit address perceived problems with the mobile device prior art. For example, the prior art "intelligent devices"2 could not be updated without physically changing the devices themselves because, at the time of the invention, applications on mobile devices were physically burned onto their read-only memories ("ROMs") at the factory or were present on a ROM card. In order to install a new application, one would need to re-burn the ROM or install a new ROM card. ¡¬037 patent col. 2 ll. 33-40. The "intelligent telephone" of the day, moreover, was too big in size, too expensive to produce, and had problems with battery life. Id. at col. 9 ll. 21-25. At the time of the invention-1995-mobile devices did not have processors that were both powerful enough and small enough to operate the devices without running into these commercialization problems.
+ 
+To overcome these difficulties, the inventor of the patents-in-suit "devised ways to divide the computing power between a device and its remote server," thus "eliminat[ing] the need for devices to employ full computing capacity on their own." Unwired Planet Op. Br. 2. At issue is whether the claims cover only mobile devices with small "microcontrollers"-which facilitate communications between the client device and the server-or also cover mobile devices that contain more robust "computer modules"-which serve to localize more of the computational processes onto the mobile device itself.3
+ 
+In answering this question, the district court found that "the specification makes clear that the invention does not encompass mobile devices containing computer modules." Openwave Sys., Inc. v. Apple Inc., No. CV-11-765-RGA, 2014 WL 651911, at *3 (D.Del. Feb. 19, 2014). The district court relied upon a number of passages in the specification that disparage the prior art implementation of a computer module on a mobile device, finding that the "repeated derogatory statements ... reasonably may be viewed as a disavowal of that subject matter from the scope of the [p]atent's claims." Id. (alterations in original) (internal quotation marks omitted) (citing Chicago Bd. Options Exch., Inc. v. Int'l Sec. Exch., LLC, 677 F.3d 1361, 1372 (Fed.Cir.2012)). Accordingly, "[t]he patents disclaim mobile devices containing computer modules." Id.; see also J.A. 9 (specifying that "[t]he patents disclaimed mobile devices containing computer modules").
+ 
+In light of this disavowal, the district court construed the term "mobile device" as "a portable wireless two-way communication *513 device that does not contain a computer module." Openwave, 2014 WL 651911, at *3. In a footnote, the district court "ma[d]e clear that this construction does not read out embodiments including microcontrollers." Id. at n. 3. As noted, after some hesitation, Unwired Planet ultimately stipulated to non-infringement under this construction. The district court then entered final judgment, from which Unwired Planet appeals. J.A. 17. We have jurisdiction under 28 U.S.C. ¡± 1295(a)(1).
+ 
+
+
+DISCUSSION
+ "Where, as here, a plaintiff concedes noninfringement by stipulation, we need only address the district court's construction of the pertinent claims" and affirm the judgment if this court determines that the claim construction is correct under the appropriate standard. Starhome GmbH v. AT & T Mobility LLC, 743 F.3d 849, 854 (Fed.Cir.2014); see also Altiris, Inc. v. Symantec Corp., 318 F.3d 1363, 1368 (Fed.Cir.2003) (noting that "we need only address the district court's construction of the claims" when a party stipulates to a judgment of non-infringement following a dispositive claim construction).
+ 
+ We "review de novo the district court's ultimate interpretation of the patent claims," but apply "clear error review" to any necessary "subsidiary factfinding." Teva Pharm. USA, Inc. v. Sandoz, Inc., --- U.S. ----, 135 S.Ct. 831, 839-40, --- L.Ed.2d ---- (2015). Because the construction below was based entirely on intrinsic evidence, we review the issue de novo.
+ 
+ The proper claim construction is "the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention, i.e., as of the effective filing date of the patent application." Phillips v. AWH Corp., 415 F.3d 1303, 1313 (Fed.Cir.2005) (en banc). The specification "is the single best guide to the meaning of a disputed term" and is usually "dispositive." Id. at 1315 (citation omitted). In particular, "the specification may reveal an intentional disclaimer, or disavowal, of claim scope by the inventor," in which case "the inventor's intention, as expressed in the specification, is regarded as dispositive." Id. at 1316 (citing SciMed Life Sys., Inc. v. Advanced Cardiovascular Sys., Inc., 242 F.3d 1337, 1343-44 (Fed.Cir.2001)).
+ 
+ "The standard for disavowal of claim scope is ... exacting." Thorner v. Sony Comput. Entm't Am. LLC, 669 F.3d 1362, 1366 (Fed.Cir.2012). Disavowal requires that "the specification make[ ] clear that the invention does not include a particular feature." SciMed Life Sys., Inc., 242 F.3d at 1341. To find disavowal, we must find that the specification is "both so clear as to show reasonable clarity and deliberateness, and so unmistakable as to be unambiguous evidence of disclaimer." Dealertrack, Inc. v. Huber, 674 F.3d 1315, 1322 (Fed.Cir.2012) (internal quotation marks omitted) (quoting Omega Eng'g, Inc. v. Raytek Corp., 334 F.3d 1314, 1325-26 (Fed.Cir.2003)).
+ 
+ To find disavowal of claim scope through disparagement of a particular feature, we ask whether "the specification goes well beyond expressing the patentee's preference ... [such that] its repeated derogatory statements about [a particular embodiment] reasonably may be viewed as a disavowal." Chicago Bd. Options Exch., Inc., 677 F.3d at 1372; see also SafeTCare Mfg., Inc. v. Tele-Made, Inc., 497 F.3d 1262, 1269-70 (Fed.Cir.2007) (finding disclaimer where the specification repeatedly indicated that the invention operated by "pushing (as opposed to pulling) forces," and then characterized the "pushing *514 forces" as "an important feature of the present invention"). We note also that:
+A patent that discloses only one embodiment is not necessarily limited to that embodiment. Saunders Grp., Inc. v. Comfortrac, Inc., 492 F.3d 1326, 1332 (Fed.Cir.2007). "[I]t is improper to read limitations from a preferred embodiment described in the specification-even if it is the only embodiment-into the claims absent a clear indication in the intrinsic record that the patentee intended the claims to be so limited." Liebel-Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 913 (Fed.Cir.2004).
+GE Lighting Sols., LLC v. AgiLight, Inc., 750 F.3d 1304, 1309 (Fed.Cir.2014) (alteration in original). The dispositive inquiry in this appeal, therefore, is whether and to what extent the specification disparages mobile devices that include "computer modules."
+ 
+ The district court found that one of the most telling examples of disclaimer was that the patents-in-suit specify that "cellular telephone 100 is not a combination of a computer module and a wireless communication module as in prior art attempts to create an intelligent telephone," ¡¬037 patent col. 14 ll. 52-55, and that "cellular telephone 100 utilizes only a microcontroller found in telephone 100 and does not require[ ] a separate computer module as in the prior art," id. at col. 15 l. 67-col. 16 l. 2. In this embodiment, "[t]he user is utilizing cellular telephone 100 as if cellular telephone 100 was a computer connected to network." Id. at col. 14 ll. 47-48 (emphasis added). In this embodiment, cellular telephone 100 is not a computer connected to a network and is not a combination of a mobile device with a computer module.
+ 
+This single embodiment clearly describes a mobile device that does not employ a computer module and draws a distinction between those that do and those that do not. Unwired Planet correctly argues, however, that reference to one embodiment-even the preferred embodiment-is insufficient to justify finding a disavowal. And Unwired Planet is correct that in GE Lighting Sols., LLC, 750 F.3d 1304, we said just that. This one embodiment is not, however, the only portion of the specification upon which the district court relied to support finding a disavowal of claim scope.
+ 
+Indeed, the specification of the patents-in-suit is rife with remarks that disparage and, therefore, disclaim mobile devices that incorporate computer modules. Such remarks permeate the specification. Unwired Planet concedes as much. Unwired Planet Op. Br. 16 ("[I]t is assuredly true that the specification disparaged (repeatedly) devices with 'computer modules'...."); id. at 23 ("It is absolutely true that the specification 'disparaged' the use of computer modules...."); id. at 32 ("[T]he specification does indeed disparage the prior art....").
+ 
+The Background of the Invention defines the problems that accompanied the prior art, which the invention purported to solve:
+For at least the last five years, the wireless communication industry has tried to merge computing with wireless communications....
+After years of research and development, and hundreds of millions of dollars' investment by some of the largest companies in the field such as Motorola, AT & T, Sony, Matsushita, Phillips and IBM, the results have been nothing but disappointing. Typically, the intelligent communication devices resulting from these efforts include both the hardware necessary for a computer module and the hardware for a wireless communications *515 module. Examples of such products are Simon from IBM and Bell South, MagicLink from Sony, and Envoy from Motorola.
+Fundamental design and cost problems arising directly from the approach taken by the designers of these intelligent communication devices have limited widespread market acceptance of these devices. The combination of a wireless communication module with a computing module leads to a device that is too bulky, too expensive, and too inflexible to address the market requirements.
+The combination of the two modules is too large and too heavy to fit in a user's pocket. Pocket size is a key requirement of the mobile communication market which remains unmet by these devices.
+In addition, the cost of these devices is close to the sum of the cost of the computer module and of the communications module, which is around a one thousand dollar end-user price. Market research indicates that the market for intelligent wireless communications devices is at prices around $300. Even with a 20% compound cost decline, it would take five years for the combination units to meet today's customers' price requirements. It is therefore unlikely that devices designed by combining a computer and a wireless module, no matter how miniaturized and cost reduced, can satisfy the cost requirement of the market during this decade.
+....
+... [T]he current crop of intelligent communication devices run only the few applications which were burned into their ROMs at the factory or which are contained in a ROM card plugged into a slot designed for this purpose. This scheme lacks the flexibility needed to run the thousands of applications required to address the fragmented requirements of the market and provides no simple method for updating the applications after the device has been sold.
+¡¬037 patent col. 1 l. 44-col. 2 l. 40 (emphases added). The import of this section of the specification could not be clearer: the perceived problem with the prior art "intelligent devices" was the attempt to combine mobile devices with computer modules, resulting in a device that was too expensive, too bulky, too inflexible, and, therefore, commercially infeasible.
+ 
+This section similarly makes clear that any solution to this problem requires movement away from the prior art's attempt to combine a computer module with a mobile device:
+Up to now, intelligent communication devices have combined a computing module with a wireless communications module. However, to gain widespread acceptance, a two-way data communication device with processing capability and the ability to run a wide variety of differing user applications is needed. In addition, such a device should be comparable in size, cost, and weight to a cellular telephone.
+Id. at col. 3 ll. 29-35. The Summary of the Invention begins by continuing along these lines, distinguishing the invention of the patents-in-suit from the prior art devices that include computer modules:
+According to the principles of this invention, the prior art limitations of combining a computer module with a wireless communication module have been overcome. In particular, a two-way data communication device of this invention, such as a cellular telephone, two-way pager, or telephone includes a client module that communicates with a server computer over a two-way data communication network.
+*516 Id. at col. 3 ll. 38-44 (emphasis added). The summary continues, indicating that "the two-way data communication device of this invention utilizes a client module to transmit a message including a resource locator selected by the user over the two-way data communication network to a server on a server computer on the computer network." Id. at col. 4 ll. 40-44 (emphasis added). In this way, the patents-in-suit specify that the solution to the problems with the prior art is to employ a "client module" executed on a "microcontroller"-rather than a "computer module."
+ 
+The lightweight "client module" and "microcontroller" solve these problems, moreover, precisely because they differ from the bulky, prior art "intelligent devices." "The client module of this invention is lightweight, and thus requires only lightweight resources in a two-way data communication device." Id. at col. 6 ll. 34-36 (emphasis added); see also id. at col. 9 ll. 16-24 ("The client module is small, e.g., under 64 KByte, and requires only low processing power congruent with the memory chips and built-in microcontrollers in two-way data communication devices such as cellular telephone 100, two-way pager 101, and telephone 102. Thus, unlike the prior art attempts at an intelligent telephone, the cost, size, and battery life of either cellular telephones, two-way pagers, or telephones that incorporate this invention are not adversely affected." (emphases added)).
+ 
+In the Detailed Description section of the specification, the patents-in-suit disclose that prior art computer networks already were dividing computing power between a client and a remote server. The patents-in-suit extend this same concept to mobile devices: "[w]hile client/server architectures have been used extensively in computer networks, a client/sever [sic] architecture implements [sic] using two-way communication data devices such as cellular telephone 100, two-way pager 101, or telephone 102 yields new and unexpected results." Id. at col. 9 ll. 25-29.
+ 
+Because client/server architectures in computer networks were in the prior art, Unwired Planet's argument must be that, by employing a microprocessor it invented the combination of the prior art "computer module" with a mobile device. Yet that combination constitutes the very embodiment that gives rise to the problems the invention purports to solve (namely, the bulk, cost, inflexibility, and short battery life of intelligent devices).
+ 
+It is the lightweight nature of the patents' "client module," run on the "microcontroller," that gives rise to the benefits of the claimed invention, avoiding the problems identified with the prior art "intelligent devices":
+Despite the robustness of the client module in interpreting a wide variety of application [sic], typically, the client process is lightweight and thus requires only lightweight resources, e.g., 60 Kbytes of read-only memory (ROM) for the client module, 10 Kbytes of random access memory (RAM), and less than one million instructions per second (MIPS) of processing power. Since the client process needs only these lightweight resources in a two-way data communication device, the client can use existing resources in such a device and therefore does not add to the cost of the two-way data communication device such as data capable cellular telephone 100.
+Id. at col. 16 ll. 24-36 (emphases added). The specification continues: "Again, note that this invention does not require a separate processor and instead can utilize the processing power that already exists in cellular telephone 600, because as described above, the client process of this invention is so lightweight." Id. at col. 20 *517 ll. 56-60 (emphasis added). The specification repeatedly and clearly distinguishes the invention of the patents-in-suit from more powerful-and therefore more costly-mobile devices in combination with "computer modules." Such mobile devices being more powerful and more costly, the patents-in-suit repeatedly disparage them for their failure to meet the demands of the market.4
+ 
+There is no doubt a high bar to finding disavowal of claim scope through disparagement of the prior art in the specification. In this case, however, it is difficult to envisage how, in light of the repeated disparagement of mobile devices with "computer modules" discussed above, one could read the claims of the patents-in-suit to cover such devices. We agree with the district court that they do not.
+ 
+ We affirm the district court's claim construction that a "mobile device" is "a portable wireless two-way communication device that does not contain a computer module" and that "this construction does not read out embodiments including microcontrollers." Openwave, 2014 WL 651911, at *3 & n. 3. On this ground, we affirm the judgment of non-infringement premised on that construction.
+ 
+
+
+CONCLUSION
+For the foregoing reasons, and because we find that Unwired Planet's remaining arguments are without merit, we conclude that the district court properly construed the claim terms at issue and properly entered judgment of non-infringement. Accordingly, the district court's judgment is affirmed.
+ 
+AFFIRMED.
+ 
+All Citations
+808 F.3d 509, 117 U.S.P.Q.2d 1189
+Footnotes
+1
+The patents-in-suit are all continuations of U.S. Patent No. 5,809,415, which was filed on December 11, 1995.
+2
+The prior art "intelligent communication devices ... include both the hardware necessary for a computer module and the hardware for a wireless communications module." ¡¬037 patent col. 1 ll. 55-58.
+3
+The specification of the patents-in-suit specifies that a "client module" is executed on the "microcontroller." ¡¬037 patent col. 6 ll. 65-66. The lightweight "client module" and the "microcontroller" of the patents-in-suit are distinguishable from the more robust "computer module" in terms of relative computing power. Although the district court noted that the distinction between "microcontrollers" on the one hand and "computer modules" on the other is not clear (Joint Appendix ("J.A.") 10), we need not seek an exact dividing line where, as here, the patentee has stipulated to noninfringement under a claim construction that explicitly relies on this distinction. That is, if the distinction between "microcontroller" and "computer module" is clear enough for the patentee to stipulate that the accused devices do not infringe because they employ the latter, as that term was construed by the district court, it is clear enough for this court to apply the respective terms without the need to remand for additional factual determinations.
+4
+Unwired Planet argues that the repeated disparagement of mobile devices with "computer modules" in the specification is meant only to denigrate those devices as "commercially infeasible, not technically infeasible." Unwired Planet Op. Br. 32. But we see no reason to conclude that a specification's repeated recitation of marketing deficiencies cannot give rise to a finding of claim scope disavowal. The fact that a combination product-one with both a microprocessor and a computer module-might work does not mean that the invention claimed encompassed such a product, particularly where that product would retain all the deficiencies of the prior art.
+
+End of Document
+(c) 2019 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+Liao, Ivan 2/4/2019
+For Educational Use OnlyOpenwave Systems, Inc. v. Apple Inc., 808 F.3d 509 (2015)117 U.S.P.Q.2d 1189
+
+ (c) 2019 Thomson Reuters. No claim to original U.S. Government Works. 
+
