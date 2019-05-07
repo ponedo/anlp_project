@@ -39,4 +39,4 @@
   
 ---
 **ACKNOWLEDGEMENTS**:
-  Most of our code for CNN and calculating tf-idf are downloaded from the github repo of anlp19: https://github.com/dbamman/anlp19 and modified to fit our work. This saves us plenty of time.
+  Most of our code for CNN and calculating tf-idf are downloaded from the github repo of anlp19 (https://github.com/dbamman/anlp19) and modified to fit our work. This saves us plenty of time. Also, the patent case data are downloaded from Westlaw (http://www.westlaw.com).
