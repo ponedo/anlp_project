@@ -33,7 +33,8 @@
   If you want to start from the very beginning (i.e. start from preprocessing the texts), run steps [0, 1, 2, 4, 5, 7, 8, 10, 11]. 
   
   **WARNING**: THIS WILL CLEAR OUT ALL MANUALLY ANNOTATED KEY SENTENCES LABELS IN `preprocessed/sents/*.txt`, YOU MAY HAVE TO ENTER THIS DIRECTORY AND ANNOTATE THE SENTENCES AGAIN!
-  
+
+---
   If you are informed that glove word embedding file is missing, you can download `glove.42B.300d.50K.w2v` from the glove's website and save it as `glove.42B.300d.50K.w2v.txt` under the directory `ivan_data`
   
 ---
