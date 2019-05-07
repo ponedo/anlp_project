@@ -1,10 +1,9 @@
 ==============================================================================
 Final project for INFO 256, Applied Natural Language Processing, spring 2019.
 
-Extract Information from Legal Texts (Court Decisions).
+Extracting Legal Information from Patent Cases.
 
-Ivan Liao, Kaifei Peng
-
+Chun-fan "Ivan" Liao, Kaifei Peng
 ==============================================================================
 Instruction for use:
 
